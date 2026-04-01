@@ -1,0 +1,715 @@
+{
+  "metadata": {
+    "title": "Misogyny Frames for Synthetic Example Generation",
+    "purpose": "Detailed frame sketches for LLM-based candidate example generation, to be augmented with real conversations and human annotation",
+    "context": "Casual misogyny in India — NLP + CSS research",
+    "theoretical_grounding": [
+      "Ambivalent Sexism Theory (Glick & Fiske, 1996)",
+      "Neosexism / Modern Sexism (Tougas et al., 1995; Swim et al., 1995)",
+      "Internalized Misogyny (Szymanski et al., 2009)",
+      "Victim Blaming Theory (Ryan, 1971)",
+      "Objectification Theory (Fredrickson & Roberts, 1997)"
+    ]
+  },
+
+  "frames": [
+
+    {
+      "frame_id": "F01",
+      "label": "Workplace: Menstrual & Maternity Leave Bias",
+      "theme_ref": "Theme 1a",
+      "misogyny_type": ["Neosexism", "Institutional Sexism", "Competitive Gender Differentiation"],
+      "covertness": "medium",
+      "theoretical_note": "Disguised as economic rationality or meritocracy concern. Classic neosexism move: framing structural inequality as individual cost-benefit. The speaker usually does NOT consider themselves sexist.",
+      "core_belief": "Women's biology/reproductive choices make them a liability in the workplace; providing accommodations is 'special treatment' that disadvantages men and the organization.",
+      "surface_manifestations": [
+        "Questioning whether it is 'fair' to give menstrual leave when men don't get equivalent leave",
+        "Assuming a newly hired young woman will 'go on maternity leave soon anyway'",
+        "Framing the 2-year childcare leave for mothers as a career advantage women exploit",
+        "Using menstruation as implicit explanation for a woman's performance dip or irritability",
+        "Invoking productivity/cost arguments to oppose menstrual leave policies in discussions"
+      ],
+      "linguistic_cues": [
+        "fair/unfair framing ('why should only women get...')",
+        "economic framing ('company has to bear the cost')",
+        "biological determinism ('it's just nature')",
+        "reverse discrimination framing ('what about men?')"
+      ],
+      "india_specific_context": "Debates around the Maternity Benefit (Amendment) Act 2017 (26 weeks paid leave), the Bihar menstrual leave policy, and period leave bills in Parliament. Office culture discussions on LinkedIn, Twitter about whether period leave is progressive or regressive.",
+      "example_scenarios": [
+        "Office discussion about a colleague who just announced pregnancy",
+        "LinkedIn/Twitter debate on a company announcing menstrual leave",
+        "HR policy discussion in a startup",
+        "Male colleagues' conversation about a female coworker's frequent sick leaves",
+        "Performance review discussion involving a woman who took maternity leave"
+      ],
+      "llm_generation_prompt_hints": [
+        "Generate as casual workplace chitchat, not a formal argument",
+        "Speaker should NOT sound like a villain — use 'concern for fairness' tone",
+        "Use Indian workplace jargon (appraisal, hike, bench, project allocation)",
+        "Mix Hindi/English code-switching for authenticity (e.g., 'yaar', 'matlab', 'aise toh')",
+        "Include both overt versions (period jokes) and covert versions (policy concern framing)"
+      ],
+      "annotation_challenge": "Respondents may agree with the 'fairness' framing and not flag it as misogynistic. The perception gap is likely high here — men may see it as a legitimate debate."
+    },
+
+    {
+      "frame_id": "F02",
+      "label": "Misogyny Jokes: Period/Hormones & Mood",
+      "theme_ref": "Theme 1b (mood)",
+      "misogyny_type": ["Hostile Sexism", "Heterosexual Hostility", "Stereotype"],
+      "covertness": "low-medium",
+      "theoretical_note": "Uses humor as a legitimizing/deflecting mechanism. 'It's just a joke' is a canonical deflection. Reduces women's emotional responses to biology, delegitimizing their grievances, anger, or competence.",
+      "core_belief": "Women are controlled by their hormones; their emotional states, opinions, and reactions are biologically determined and therefore less valid or rational than men's.",
+      "surface_manifestations": [
+        "Attributing a woman's anger or assertiveness to her period",
+        "Asking 'is it that time of the month?' when a woman disagrees or complains",
+        "Jokes about not scheduling important meetings when 'the women are PMSing'",
+        "Characterizing a woman's frustration as 'hormonal' to dismiss it",
+        "Complimenting a woman for being 'surprisingly calm' or 'rational today'"
+      ],
+      "linguistic_cues": [
+        "Direct reference: 'time of the month', 'PMS', 'hormones'",
+        "Indirect: 'mood swings', 'so emotional today', 'overreacting'",
+        "Dismissive: 'calm down', 'chill kar', 'itna serious mat lo'",
+        "Humor framing: 'bro I'm just saying', 'don't take it personally'"
+      ],
+      "india_specific_context": "Common in male-dominated office environments, college groups, and family settings. Reinforced by Bollywood tropes of the 'hysterical woman.' Also appears in arranged marriage contexts ('she's too emotional/sensitive').",
+      "example_scenarios": [
+        "Group chat after a woman colleague raised a complaint in a meeting",
+        "Friend group reacting to a woman's social media post expressing anger",
+        "Male family members joking about a female relative's mood",
+        "Bro culture WhatsApp group with office 'jokes'",
+        "A manager attributing a female employee's feedback to 'personal issues'"
+      ],
+      "llm_generation_prompt_hints": [
+        "Generate as casual banter — plausibly deniable as 'harmless joke'",
+        "Use WhatsApp/group chat style (short, informal, emoji-heavy possible)",
+        "Include the 'I was just joking' defense as part of some examples",
+        "Vary: sometimes explicit (mentions period), sometimes just 'she's being dramatic'",
+        "Some should pass as neutral to a casual reader but encode the belief"
+      ],
+      "annotation_challenge": "Humor framing dramatically lowers perceived offensiveness. Many men AND women may not flag mild versions. Strong test case for perception gap."
+    },
+
+    {
+      "frame_id": "F03",
+      "label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+      "theme_ref": "Theme 1b (childbearing), Theme 8",
+      "misogyny_type": ["Benevolent Sexism", "Protective Paternalism", "Complementary Gender Differentiation"],
+      "covertness": "high",
+      "theoretical_note": "Often framed as compliment or natural order. Positions women as inherently suited to caregiving as a positive trait, which simultaneously locks them out of other roles. Classic benevolent sexism: the 'pedestal' is also a cage.",
+      "core_belief": "Childcare and domestic labor are naturally and primarily the woman's domain; men who 'help' are going above and beyond, while women who don't prioritize childcare are failing their primary duty.",
+      "surface_manifestations": [
+        "Assuming the mother (not father) will handle school events, doctor visits, sick days",
+        "Praising a working mother for 'managing both' as extraordinary, while it's invisible for fathers",
+        "Jokes about fathers 'babysitting' their own children",
+        "Expecting the mother to sacrifice career/location for the family, not the father",
+        "Framing a woman's career ambition as selfish if she has/wants children",
+        "Saying 'who will raise the children?' when a woman discusses career goals"
+      ],
+      "linguistic_cues": [
+        "Naturalizing language: 'it's a mother's instinct', 'maa toh maa hoti hai'",
+        "Exceptionalism for fathers: 'he's such a hands-on dad' (low bar)",
+        "Guilt framing: 'aaj kal ki maaein', 'bachhe toh suffer karte hain'",
+        "Career sacrifice framing: 'career toh baad mein bhi ho sakti hai, bachpan wapas nahi aata'"
+      ],
+      "india_specific_context": "Deeply embedded in joint family structures. Guilt around daycare ('log kya kahenge'). The 'working mother guilt' narrative in Indian media. Expectations around school pickups, homework, nutrition as maternal duties.",
+      "example_scenarios": [
+        "In-laws' conversation after daughter-in-law returns to work post-maternity leave",
+        "Relatives commenting on a woman prioritizing career over second child",
+        "Office gossip about a mother who travels for work",
+        "Father being praised at a family gathering for 'doing so much for the kids'",
+        "Social media comment section on a post about women's career ambitions"
+      ],
+      "llm_generation_prompt_hints": [
+        "Many examples should sound like genuine praise or concern, not attacks",
+        "Include multigenerational family dynamics (saas, nanad, jijaji)",
+        "Include the 'modern' version: corporate colleagues saying it too, not just family",
+        "Generate some in the voice of other women (internalized misogyny register)",
+        "Avoid making the speaker obviously villainous — bewildered concern works well"
+      ],
+      "annotation_challenge": "Very high covertness. Many will not perceive this as misogynistic at all. Women may also agree. Crucial for your benevolent misogyny detection task."
+    },
+
+    {
+      "frame_id": "F04",
+      "label": "Women's Promotion & Leadership Competence",
+      "theme_ref": "Theme 1c, Theme 10",
+      "misogyny_type": ["Neosexism", "Competitive Gender Differentiation", "Hostile Sexism"],
+      "covertness": "medium",
+      "theoretical_note": "Combines competence denial with token/quota framing. The neosexist move is to attribute women's advancement to systemic advantages (reservations, diversity quotas, attractiveness) rather than merit, thus simultaneously denying past discrimination and delegitimizing current achievement.",
+      "core_belief": "Women in leadership either got there through unfair means (looks, quotas, sleeping their way up) or have masculinized themselves to the point of losing their femininity — either way, their presence in power is anomalous.",
+      "surface_manifestations": [
+        "Attributing a woman's promotion to affirmative action or her relationship with a senior",
+        "Saying she 'thinks like a man' as the highest compliment for a competent woman",
+        "Questioning whether a woman leader is 'too aggressive' or 'not likeable enough'",
+        "Noting that a successful woman has 'let herself go' or 'doesn't look after herself'",
+        "Speculating about how a woman got a prestigious role — implying it wasn't merit",
+        "The 'glass cliff' acknowledgment: assigning women to failing projects then blaming them"
+      ],
+      "linguistic_cues": [
+        "Merit undermining: 'diversity hire', 'quota wali', 'pata hai kaise bani'",
+        "Masculinization: 'thinks like a man', 'she's basically one of the guys'",
+        "Double bind: 'too aggressive' OR 'not assertive enough'",
+        "Appearance policing: 'itna dhyan nahi deti apna', 'bilkul mard jaisi ho gayi'"
+      ],
+      "india_specific_context": "Debates around women IAS/IPS officers, female CEOs, women politicians. The specific Indian double bind: traditional femininity expected but femininity coded as incompetence. Commentary on women politicians' appearance (Smriti Irani, Nirmala Sitharaman examples in public discourse).",
+      "example_scenarios": [
+        "Male colleagues reacting to a woman being promoted over them",
+        "LinkedIn comments on a woman named to a C-suite role",
+        "Friends discussing a female politician or corporate leader",
+        "Office gossip about a new female manager's style",
+        "Reddit/Quora thread: 'why are there so few good women leaders?'"
+      ],
+      "llm_generation_prompt_hints": [
+        "Meritocracy framing is key — speaker genuinely believes in fairness",
+        "Generate 'compliment that's actually an insult' variants (thinks like a man)",
+        "Include internalized versions from women ('she got lucky honestly')",
+        "Mix subtle dog whistles and more explicit versions",
+        "Avoid slurs — keep it in the 'corporate concern' register for covert examples"
+      ],
+      "annotation_challenge": "Meritocracy framing makes this hard to flag. The 'thinks like a man' compliment is particularly tricky — many won't see it as misogynistic."
+    },
+
+    {
+      "frame_id": "F05",
+      "label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+      "theme_ref": "Theme 2",
+      "misogyny_type": ["Neosexism", "Hostile Sexism", "Heterosexual Hostility"],
+      "covertness": "low-medium",
+      "theoretical_note": "A post-feminist backlash frame. Recasts legal protections for women as male victimhood. Exploits the genuine asymmetry in some alimony cases to generalize to all women as financially predatory. Related to 'men's rights' discourse and the 'false victimhood' narrative.",
+      "core_belief": "Modern women exploit marriage and divorce laws to extract money from men; the legal system is now biased against men; women who seek financial support post-divorce are golddiggers, not victims of economic dependency created by the marriage itself.",
+      "surface_manifestations": [
+        "Framing alimony as 'reverse dowry' — men now the victims",
+        "Calling prenuptial agreements 'protection from women'",
+        "Generalizing from celebrity divorce cases to all women's intentions",
+        "Attributing a woman's interest in a wealthy man entirely to his money",
+        "Claiming the IPC 498A (domestic violence/dowry law) is routinely misused by women",
+        "Advising young men to 'be careful' of women who are 'after stability'"
+      ],
+      "linguistic_cues": [
+        "Victimhood inversion: 'aajkal mard zyada suffer karte hain'",
+        "Legal framing: '498A misuse', 'one-sided laws', 'men have no rights'",
+        "Financial suspicion: 'uski aankhein sirf paison pe hain', 'gold digger type'",
+        "Generalization: 'aajkal ki ladkiyaan', 'sab ek jaisi hain'"
+      ],
+      "india_specific_context": "IPC 498A misuse debate is a major talking point in Indian 'men's rights' spaces. High-profile divorces (Hrithik Roshan-Kangana, celebrity alimony cases). Reddit India, Quora India threads on 'marriage is a trap for men in India.'",
+      "example_scenarios": [
+        "Male friend group discussing a recent celebrity divorce",
+        "Quora/Reddit thread: 'Is it safe to get married in India as a man?'",
+        "Family/relatives advising a young man about getting married",
+        "Office colleagues discussing a coworker's ongoing divorce",
+        "Men's rights forum post about alimony laws"
+      ],
+      "llm_generation_prompt_hints": [
+        "Use 'concern for men's rights' framing, not open misogyny",
+        "Include statistics misquotations ('70% of 498A cases are false')",
+        "Some should be sympathetic/relatable — genuine grievance about specific cases generalized",
+        "Include the internalized version: women warning men about other women",
+        "Generate WhatsApp forward style, Quora answer style, and casual conversation style"
+      ],
+      "annotation_challenge": "Men who have had genuine negative experiences may be more sympathetic. The framing is designed to sound reasonable. Perception gap expected to be very high."
+    },
+
+    {
+      "frame_id": "F06",
+      "label": "Other Man's Ownership > Woman's Own Consent",
+      "theme_ref": "Theme 3",
+      "misogyny_type": ["Hostile Sexism", "Dominative Paternalism", "Objectification"],
+      "covertness": "medium — normalized as chivalry/respect",
+      "theoretical_note": "Women are treated as relational objects whose value and availability is defined by their relationship to a man (boyfriend, husband, brother, father). Backing off because 'she has a boyfriend' treats the male partner as the real party to negotiate with, erasing the woman's own agency. A deeply structural form of misogyny that presents as 'respect.'",
+      "core_belief": "A woman's attachment to a man is the most legitimate reason to disengage from pursuing her — more legitimate than her own refusal. Her 'no' is negotiable; another man's claim is not.",
+      "surface_manifestations": [
+        "Stopping pursuit only after learning a woman is 'taken', not after she said no",
+        "Saying 'I respect that she has a boyfriend' but ignoring her direct disinterest",
+        "Asking 'do you have a boyfriend?' as a first filter before accepting a woman's rejection",
+        "Treating a husband/father/brother as the person to 'ask permission' from",
+        "Harassment stopping when a male friend or partner physically appears",
+        "Framing female autonomy as 'she thinks she's too good' vs. respecting ownership"
+      ],
+      "linguistic_cues": [
+        "Ownership language: 'kisi ki hai', 'taken hai', 'uske saath hai'",
+        "Permission framing: 'ghar mein koi hai?', 'bhai/baap ko pata hai?'",
+        "Respect deflection: 'agar taken hai toh respect karta hoon bhai ko'",
+        "Entitlement after rejection: 'she's not even that hot', 'attitude dikhati hai'"
+      ],
+      "india_specific_context": "Deeply embedded in north Indian street harassment culture. The 'bhai' system (claiming to be a woman's brother for protection). Matrimonial/rishta culture where men approach fathers first. Online dating contexts ('is she single?' as prerequisite to respecting a 'no').",
+      "example_scenarios": [
+        "Friends discussing a girl who rejected one of them",
+        "Street harassment scenario that stops when a male companion arrives",
+        "Dating app conversation about a match who mentioned she has a boyfriend",
+        "Rishta/matrimonial family meeting dynamics",
+        "Male group chat about a woman at a party 'who was acting too full of herself'"
+      ],
+      "llm_generation_prompt_hints": [
+        "The speaker should often sound like they are being reasonable or respectful",
+        "'I backed off when I found out she had a boyfriend' = the canonical subtle example",
+        "Include the contrast: her direct refusal ignored, then male ownership respected",
+        "Some examples should be from the woman's perspective, describing the experience",
+        "Include the 'why are you so unfriendly' response to rejection without male ownership"
+      ],
+      "annotation_challenge": "Will likely not be flagged by many men as misogynistic — widely normalized as 'bro code' or 'respect.' Women will perceive it differently, especially those who have experienced it."
+    },
+
+    {
+      "frame_id": "F07",
+      "label": "Dress Code: Traditional = Respectable, Other = Questionable",
+      "theme_ref": "Theme 4",
+      "misogyny_type": ["Benevolent Sexism", "Complementary Gender Differentiation", "Objectification"],
+      "covertness": "high",
+      "theoretical_note": "Benevolent sexism operationalized through aesthetics and cultural pride. The saree/salwar is 'elevated' as the ideal, which simultaneously codes Western or revealing dress as a moral failing or invitation for male attention. Appears as cultural pride, not misogyny. Related to objectification theory: women's worth tied to how they present their bodies.",
+      "core_belief": "A woman's clothing signals her values, respectability, and sexual availability. Traditional dress = 'good woman' worthy of respect. Other dress = invitation for commentary, reduced respect, or harassment.",
+      "surface_manifestations": [
+        "Complimenting a woman for looking 'more like herself' or 'more decent' in traditional wear",
+        "Unsolicited commentary on women's 'revealing' western clothing",
+        "'Saree mein toh aur bhi sundar lagti ho' as a way of nudging toward traditional dress",
+        "Linking clothing to character: 'waise kapde pehenne wali ladkiyan kaisi hoti hain'",
+        "Family events where women are expected/pressured to wear traditional dress",
+        "Attributing harassment to what a woman was wearing"
+      ],
+      "linguistic_cues": [
+        "Elegance/decency framing: 'decent', 'sabhya', 'sobar', 'maryada mein'",
+        "Cultural pride mask: 'hamari sanskriti', 'Indian women look best in...'",
+        "Backhanded compliment: 'aaj toh bilkul Indian bride lag rahi ho'",
+        "Clothing-harassment link: 'toh phir ladke dekhenge hi', 'khud hi invite kar rahi hai'"
+      ],
+      "india_specific_context": "Shankha/pola/sindoor tied to dress; 'saree te e nari' as a Bengali trope. North-South variation (saree vs. salwar vs. regional wear). College dress codes in Indian institutions. Family 'occasions' where women's clothing is policed. The specific contrast between 'modern/revealing' clothes as Westernization.",
+      "example_scenarios": [
+        "Family event where a woman wears jeans/western outfit",
+        "Office or college function commentary on women's dress",
+        "Mother/aunt commenting on daughter/niece's daily wear",
+        "Social media comment section on a woman's outfit post",
+        "Post-harassment victim-blaming scenario involving clothing"
+      ],
+      "llm_generation_prompt_hints": [
+        "Frame as appreciation of Indian culture, not dress policing",
+        "Include the compliment form: making traditional dress sound superior",
+        "Include generational voice: elder relative speaking",
+        "Include peer version: female friends or male friends' comments",
+        "Generate the harassment-blame link subtly ('main toh kehta hoon...')"
+      ],
+      "annotation_challenge": "Cultural pride framing means this will often not be perceived as misogynistic, especially by older respondents. Significant gender AND generational perception gap expected."
+    },
+
+    {
+      "frame_id": "F08",
+      "label": "Homewrecker Framing / Women as Seductresses",
+      "theme_ref": "Theme 5",
+      "misogyny_type": ["Hostile Sexism", "Victim Blaming", "Heterosexual Hostility"],
+      "covertness": "medium",
+      "theoretical_note": "Asymmetric moral accounting in extramarital affairs. The woman is held primarily responsible for a consensual mutual act. The man is positioned as 'victim' of seduction, preserving his moral status. Rooted in the Madonna/Whore complex — women are either pure or predatory. The 'homewrecker' label has no male equivalent in common usage.",
+      "core_belief": "Women are responsible for managing men's sexual temptation; if an affair happens, the woman seduced the man or should have deflected him; men are weak but forgivable, women who 'allow' affairs are destroying families.",
+      "surface_manifestations": [
+        "Calling the 'other woman' a homewrecker while excusing or sympathizing with the man",
+        "Describing a woman's friendliness with a married man as 'asking for it'",
+        "Blaming the female party in an affair for 'breaking' a family",
+        "Using 'seductress' or equivalent as the explanation for male infidelity",
+        "Directing anger/gossip entirely at the woman involved in an affair, not the man",
+        "Framing a woman's professional relationship with a male superior as suspicious"
+      ],
+      "linguistic_cues": [
+        "Blame asymmetry: 'usne phasaya', 'woh kharab aurat hai', 'bechara fass gaya'",
+        "Seduction framing: 'woh toh aisi hi hai', 'sab mardo ke saath aise karti hai'",
+        "Family protection rhetoric: 'ghar todne wali'",
+        "Male victimhood: 'aadmi toh kuch bhi kar lete hain, ladki ne karne diya'"
+      ],
+      "india_specific_context": "Soap opera/serial culture (ekta kapoor serials) heavily feature the 'other woman' villain trope. Bollywood films. Real news coverage of affairs. Social media pile-ons targeting women in affair controversies. The specific Indian joint family anxiety around 'outsider women' breaking families.",
+      "example_scenarios": [
+        "Relatives/neighbors discussing a neighborhood affair",
+        "WhatsApp family group reacting to a news story about infidelity",
+        "Gossip about a colleague's alleged workplace affair",
+        "Online comments section of a Bollywood celebrity affair story",
+        "Friends discussing a mutual friend's divorce attributed to infidelity"
+      ],
+      "llm_generation_prompt_hints": [
+        "The moral asymmetry is the key signal — sympathy for him, blame for her",
+        "Include the 'she knew he was married' framing",
+        "Include TV serial commentary style ('bilkul serial wali baat hai')",
+        "Generate scenarios where the man is barely mentioned",
+        "Include the 'concerned family member' voice blaming the other woman"
+      ],
+      "annotation_challenge": "Deep cultural embedding means this often feels like common sense. Particularly interesting for women annotators — significant internalized misogyny possible."
+    },
+
+    {
+      "frame_id": "F09",
+      "label": "Women's Safety as Her Own Responsibility",
+      "theme_ref": "Theme 6",
+      "misogyny_type": ["Hostile Sexism", "Victim Blaming", "Dominative Paternalism"],
+      "covertness": "medium — disguised as practical advice",
+      "theoretical_note": "Victim-blaming operationalized as 'safety advice.' Shifts the burden of preventing violence from perpetrators (and society) to potential victims. Implicitly normalizes male violence as an environmental hazard like weather — unavoidable, to be prepared for. This framing de-politicizes sexual violence and erases structural accountability.",
+      "core_belief": "Men's predatory behavior is natural/inevitable; women who are harassed or assaulted 'put themselves in danger'; safety is a woman's personal responsibility managed through behavior, dress, location, and company.",
+      "surface_manifestations": [
+        "Advising women not to be out late rather than addressing male violence",
+        "Blaming victims for being in 'unsafe' areas, wearing certain clothes, drinking alcohol",
+        "'Aajkal zamaana kharab hai' as a reason for restricting women, not changing men",
+        "Parental/familial restrictions framed as love/protection",
+        "Asking 'why was she alone?' or 'why was she out so late?' after an assault",
+        "Suggesting women carry pepper spray/travel in groups as solution to harassment"
+      ],
+      "linguistic_cues": [
+        "Protective framing: 'apna khayal rakho', 'zamaana theek nahi hai'",
+        "Restriction advice: 'itni raat ko kyun nikli?', 'aisi jagah kyun gayi?'",
+        "Victim questioning: 'uske saath tha kaun?', 'kapde kaise the?'",
+        "Inevitability framing: 'aadmi toh aadmi hota hai', 'mard ki fitrat'"
+      ],
+      "india_specific_context": "Post-Nirbhaya discourse. Routine parental curfews on daughters vs sons. The specific North Indian context of 'izzat' linked to women's public presence. Police asking victims what they were wearing. Family 'protection' that manifests as surveillance.",
+      "example_scenarios": [
+        "Parents' conversation after a news story about sexual assault",
+        "Relatives discussing safety rules for a woman moving to a new city for work",
+        "Police or authority figure's response to a harassment complaint",
+        "Friends debating 'why do women put themselves in danger?'",
+        "Social media response to a news item about a woman assaulted late at night"
+      ],
+      "llm_generation_prompt_hints": [
+        "The care/love mask is essential — make it sound like concern, not blame",
+        "Include both the parental voice and the peer voice",
+        "Generate the 'I'm just being practical' defense",
+        "Include post-assault questioning (the investigation version)",
+        "Some examples should be from women giving 'advice' to other women"
+      ],
+      "annotation_challenge": "The 'practical advice' framing is extremely effective at masking the victim-blaming logic. Many respondents — including women — will not perceive this as misogynistic."
+    },
+
+    {
+      "frame_id": "F10",
+      "label": "'Not All Men' Dismissal & Why Women Fear",
+      "theme_ref": "Theme 7",
+      "misogyny_type": ["Neosexism", "Derailing", "Modern Sexism"],
+      "covertness": "medium",
+      "theoretical_note": "A derailing tactic that centers male feelings over female safety concerns. Functions to shut down conversations about systemic male violence by invoking individual exceptions. The statistical illogic is: even if 'not all men,' enough men that women cannot distinguish safely — but the frame weaponizes this ambiguity to demand women perform trust rather than maintain protective wariness.",
+      "core_belief": "Men are being unfairly blamed as a group for the actions of a few bad actors; women's generalizations about men are a form of reverse sexism; men who consider themselves 'good guys' should not have to be inconvenienced by women's safety behaviors.",
+      "surface_manifestations": [
+        "'Not all men are like that' in response to women discussing harassment",
+        "Feeling personally insulted when women discuss patterns of male behavior",
+        "Asking 'but why do women assume the worst about men?' as if it's irrational",
+        "Demanding women perform trust in male strangers as proof of 'fairness'",
+        "'I've never done anything like that' as a response to systemic critique",
+        "Framing women's wariness (not walking alone, crossing the road) as an insult to men"
+      ],
+      "linguistic_cues": [
+        "Centering self: 'main toh aise nahi hoon', 'mujhe blame kyon kar rahi ho?'",
+        "Generalization policing: 'sab mard aise nahi hain', 'kyon sab ko ek saath blame karti ho'",
+        "Rationality challenge: 'yaar itna paranoid rehna theek nahi'",
+        "Empathy demand: 'ek baar mard ki bhi suno', 'mard bhi toh suffer karte hain'"
+      ],
+      "india_specific_context": "Twitter/X debates after major harassment cases in India. Reddit India 'not all men' threads. The specific dynamic in Indian urban spaces where educated men feel they deserve exception from women's wariness. Male colleagues offended by women preferring female cabs, female-only metro compartments.",
+      "example_scenarios": [
+        "Male response to a woman's social media post about harassment experience",
+        "Group conversation where a woman describes feeling unsafe at night",
+        "Office discussion after a woman says she avoids certain areas after dark",
+        "Debate in a college group chat after a campus assault",
+        "A man's reaction to women-only spaces (metro coach, hostel, carpooling preference)"
+      ],
+      "llm_generation_prompt_hints": [
+        "Speaker genuinely feels wronged and misunderstood — not a conscious misogynist",
+        "Include the 'I'm one of the good guys' self-identification",
+        "Generate the incremental versions: mild (asking for fairness) to overt (attacking women's claims)",
+        "Include the 'what about men's safety?' deflection",
+        "Some should come from women who minimize other women's concerns"
+      ],
+      "annotation_challenge": "This frame is so normalized that many will perceive it as a legitimate fairness argument. The perception gap on this one is particularly interesting across education levels."
+    },
+
+    {
+      "frame_id": "F11",
+      "label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+      "theme_ref": "Theme 8",
+      "misogyny_type": ["Benevolent Sexism", "Protective Paternalism", "Pedestalization"],
+      "covertness": "very high",
+      "theoretical_note": "The quintessential 'pedestal' form of benevolent sexism. Elevating women as mothers or relational figures (daughter, wife, sister) appears respectful but fundamentally denies women's personhood independent of their relational/reproductive roles. The 'respect your mother' argument for treating women well is misogynistic in structure because it conditions respect on relational utility, not on women's humanity.",
+      "core_belief": "Women deserve respect primarily in their capacity as mothers, wives, daughters, and sisters — i.e., in service of male kin structures. A woman's individual identity is secondary to her relational identity.",
+      "surface_manifestations": [
+        "'Respect women — they are someone's mother/daughter/sister' rhetoric",
+        "Respecting a woman more after learning she is married or a mother",
+        "Valuing a woman's opinion more when she speaks as a mother than as an individual",
+        "Praising a woman primarily for her sacrifices as a mother",
+        "Describing women's worth in terms of what they mean to men ('she is his whole world')",
+        "Using family relation as justification for respect ('think of your own sister/mother')"
+      ],
+      "linguistic_cues": [
+        "Relational framing: 'kisi ki maa hai', 'kisi ki beti hai', 'apni maa/behen samjho'",
+        "Sacrifice glorification: 'maa ne itna kiya', 'apni zindagi kurbaan kar di'",
+        "Conditional respect: 'izzatdar ghar ki bahu/beti'",
+        "Personhood erasure: women described entirely through male relations"
+      ],
+      "india_specific_context": "Deeply rooted in 'Bharat Mata' imagery and the mother goddess tradition. The 'maa ke haath ka khana' trope. Film dialogue ('teri maa ki kasam'). Anti-rape campaigns that use 'think of her as your sister.' Beti Bachao Beti Padhao framing (daughters defined by their value to fathers).",
+      "example_scenarios": [
+        "Anti-harassment campaign slogan or social media post",
+        "Man defending women's honor using 'they are our mothers/sisters' framing",
+        "Family conversation praising a woman only for her sacrifices as mother",
+        "Political speech about women's empowerment using relational framing",
+        "Someone asking for respect for women by invoking male relatives"
+      ],
+      "llm_generation_prompt_hints": [
+        "This should sound pro-woman on the surface — that is the entire challenge",
+        "Include the 'progressive man' voice using this framing",
+        "Include political/policy speech style examples",
+        "Generate contrasts: same woman described as 'person' vs 'someone's mother'",
+        "The most insidious examples should be indistinguishable from genuine respect"
+      ],
+      "annotation_challenge": "Arguably the hardest frame to flag as misogynistic. Will likely have the HIGHEST perception gap between men and women. Critical test case for covert misogyny detection."
+    },
+
+    {
+      "frame_id": "F12",
+      "label": "Language: Gaalis and Female-Demeaning Abuse",
+      "theme_ref": "Theme 9",
+      "misogyny_type": ["Hostile Sexism", "Objectification", "Linguistic Misogyny"],
+      "covertness": "low — but normalized so often dismissed",
+      "theoretical_note": "The structural misogyny in abusive language: virtually all common Indian gaalis are rooted in demeaning women's sexuality, chastity, or female family members. The abuse is directed at a male target but functions by feminizing him or by insulting his female relatives — encoding that femaleness and female sexuality are inherently degrading. Even casual/normalized use reinforces this structure.",
+      "core_belief": "Femaleness, especially female sexuality, is inherently shameful and degrading; invoking a woman's sexual availability, a mother's or sister's body, or feminizing a man ('behenchod', 'madarchod', 'randi') is the most effective insult.",
+      "surface_manifestations": [
+        "Casual use of gaalis like BC/MC in everyday speech without apparent misogynistic intent",
+        "Defending gaali use as 'just expression, not actually about women'",
+        "Calling a weak/cowardly man 'aurat', 'behen', or a feminine-coded term as insult",
+        "Using 'randi' or equivalent to insult ANY woman who transgresses norms",
+        "Not recognizing the misogynistic structure of common slang"
+      ],
+      "linguistic_cues": [
+        "The gaalis themselves: varied but structurally female-body/chastity-rooted",
+        "Defensiveness when pointed out: 'yaar sab bolte hain, itna serious mat lo'",
+        "Masculinity-femininity coding: 'mard ban', 'aurat ki tarah mat ro'",
+        "Normalization: 'it's just a word, I don't actually mean your mother'"
+      ],
+      "india_specific_context": "Hindi/Bengali/regional language gaali structures. The normalization in male youth culture. Gaming communities, college groups, cricket commentary. The specific dynamic where even anti-misogyny men casually use these terms.",
+      "example_scenarios": [
+        "Friends playing video games/cricket using casual gaalis",
+        "Man defending his use of gaalis when called out",
+        "Online community using female-coded terms to insult men they disagree with",
+        "Generational difference: older person shocked at young people's gaali use",
+        "Discussion thread: 'are gaalis actually misogynistic or just words?'"
+      ],
+      "llm_generation_prompt_hints": [
+        "Avoid generating actual explicit gaalis — describe or allude to them",
+        "Focus on the META-conversation about gaalis, not the gaalis themselves",
+        "Generate the 'it's just a word' defense as the core annotation target",
+        "Include the feminizing-as-insult structure in less explicit ways",
+        "The philosophical discussion ('do gaalis reinforce misogyny?') is itself an annotation target"
+      ],
+      "annotation_challenge": "Normalization makes this invisible as misogyny to most respondents. The meta-conversation (defending gaalis) may be more annotatable than the gaalis themselves for a survey context."
+    },
+
+    {
+      "frame_id": "F13",
+      "label": "The Makeup Paradox: Unnatural Yet Expected",
+      "theme_ref": "Theme 11",
+      "misogyny_type": ["Benevolent Sexism", "Objectification", "Double Bind Sexism"],
+      "covertness": "high",
+      "theoretical_note": "A double-bind structure: women are expected to groom and enhance their appearance for male approval, but the very effort of grooming is then coded as deceptive, unnatural, or excessive. This is objectification theory applied — women's appearance is public property subject to male evaluation — combined with the 'natural woman' myth that erases the labor of appearance maintenance.",
+      "core_belief": "Women's bodies are objects for aesthetic evaluation; they should look attractive (for men) but should achieve this 'naturally' — any visible effort is deceptive or excessive; but not making effort is 'letting yourself go'.",
+      "surface_manifestations": [
+        "'Too much makeup' comments implying deceptiveness or insecurity",
+        "Praising women for looking 'natural' while penalizing those who don't maintain appearance",
+        "'She looks better without makeup' as simultaneously a compliment and a critique of makeup",
+        "Discomfort with makeup being 'for herself' — assuming it must be for male attention",
+        "Policing female grooming: 'girls who spend so much time on makeup are shallow'",
+        "'Catfishing' discourse attributing deception to makeup use"
+      ],
+      "linguistic_cues": [
+        "Natural > artificial: 'natural beauty', 'bina makeup ke zyada acchi lagti hai'",
+        "Excess policing: 'itna makeup kyun, kuch chhupana hai?'",
+        "Deception framing: 'sab makeup hai, isko dekho irl'",
+        "Appearance obligation: 'apna khayal nahi rakhti' (when no makeup worn)"
+      ],
+      "india_specific_context": "Matrimonial context: brides expected to be glam but 'naturally beautiful.' Social media filter culture in India. The specific tension in professional Indian women — make up to look professional but not 'too much.' Fair and Lovely/skin lightening product culture.",
+      "example_scenarios": [
+        "Men discussing women on dating apps ('so different without makeup')",
+        "Family commentary on a woman's appearance at various occasions",
+        "Office remarks about a female colleague's varying levels of makeup",
+        "Social media comment section on a woman's photo",
+        "Discussion about whether makeup is 'feminist' or 'for male gaze'"
+      ],
+      "llm_generation_prompt_hints": [
+        "The double bind is key — generate both poles: 'too much' AND 'let herself go'",
+        "Include the 'I prefer natural women' as a covert example",
+        "Generate the deception angle: makeup as misleading men",
+        "Include the 'she only does it for male attention' vs 'for herself' debate",
+        "Some examples should be from women evaluating other women (internalized)"
+      ],
+      "annotation_challenge": "The 'natural beauty' compliment is very hard to flag. The double bind requires seeing both poles together to understand the misogyny."
+    },
+
+    {
+      "frame_id": "F14",
+      "label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+      "theme_ref": "Theme 12",
+      "misogyny_type": ["Benevolent Sexism", "Internalized Misogyny", "Pedestalization"],
+      "covertness": "very high — may be the hardest to flag",
+      "theoretical_note": "Exemplary benevolent-sexism pedestalization. The glorification of domestic labor and self-sacrifice creates a template that women are expected to live up to while simultaneously devaluing it (it is unpaid, unrecognized except as sentiment). The 'maa ke haath ka khana' trope enforces both the labor expectation and the emotional debt women are meant to feel. The 'roti vs rice' variant adds regional specificity and hierarchy.",
+      "core_belief": "A woman's highest expression of love and identity is through domestic labor, particularly cooking and self-sacrifice; women who do not perform this are deficient; this labor should be performed from love, not recognized as work.",
+      "surface_manifestations": [
+        "Glorifying mothers' daily cooking while not recognizing it as labor",
+        "'Maa ke haath ka khana' as irreplaceable, implying this is what makes a mother",
+        "Comparing wives unfavorably to mothers on cooking/domestic standards",
+        "Expecting daughters-in-law to match or exceed the mother's domestic standards",
+        "'Roti vs rice' debates encoding regional domestic hierarchies",
+        "Praising a woman primarily for her tireless service to family"
+      ],
+      "linguistic_cues": [
+        "Nostalgic sentimentalization: 'maa ke haath ka khana', 'woh baat kahan'",
+        "Labor erasure: 'she did it with so much love', 'never complained'",
+        "Standard-setting: 'meri maa toh...', implicit comparison to other women",
+        "Sacrifice glorification: 'apni zindagi kurbaan kar di', 'sab chod diya'"
+      ],
+      "india_specific_context": "Maggi/ready food as 'bad mother' discourse. Mother-in-law daughter-in-law kitchen dynamics. The specific Bengali 'maa-er ranna' sentiment. Festival food preparation as exclusively female domain. Indian advertising (Surf Excel, Maggi, Bournvita) that defines motherhood through kitchen labor.",
+      "example_scenarios": [
+        "Son comparing wife's cooking to his mother's",
+        "Social media post glorifying a mother's cooking/sacrifice going viral",
+        "Family gathering conversation about 'how she manages everything'",
+        "WhatsApp forward about 'real mothers' vs modern women",
+        "Mother-in-law commentary on daughter-in-law's cooking/housekeeping"
+      ],
+      "llm_generation_prompt_hints": [
+        "Must sound like genuine love and appreciation — not criticism",
+        "The misogyny is in the STRUCTURE, not the sentiment — this is key",
+        "Include the comparison mechanism (implicit or explicit)",
+        "Generate the WhatsApp forward / inspirational post style",
+        "Include both the 'praise of mother' and the 'implicit expectation of wife/DIL' versions"
+      ],
+      "annotation_challenge": "Extremely high covertness. Likely to be flagged as NOT misogynistic by both men AND women. The most important test case for benevolent misogyny detection."
+    },
+
+    {
+      "frame_id": "F15",
+      "label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+      "theme_ref": "Theme 13",
+      "misogyny_type": ["Benevolent Sexism", "Internalized Misogyny", "Complementary Gender Differentiation"],
+      "covertness": "very high",
+      "theoretical_note": "Cultural and religious traditions that visibly mark married women (but not men) encode asymmetric ownership. The valorization of these symbols as 'beautiful tradition' or 'identity' (a form of internalized acceptance) masks their original and ongoing function as markers of male ownership and female availability-status. The name-change parallel is more discussed in feminist literature (identity erasure).",
+      "core_belief": "A married woman should visibly signal her marital/owned status through body markers; this is coded as completion, auspiciousness, and identity rather than as a property marker; women who reject these markers are seen as deficient wives or culturally disloyal.",
+      "surface_manifestations": [
+        "Commenting that a woman 'looks more complete' or 'settled' after marriage with sindoor",
+        "Pressuring new brides to wear sindoor/shankha-pola/mangalsutra consistently",
+        "Disapproval when a married woman does not wear visible married markers",
+        "Framing name change as 'natural' and tradition, not as identity erasure",
+        "Associating sindoor-wearing with saubhagya (husband's wellbeing)",
+        "Suspicion or judgment about women who don't wear these markers"
+      ],
+      "linguistic_cues": [
+        "Completeness framing: 'suhagan lagti hai', 'poorn nari', 'sobhagyabati'",
+        "Tradition framing: 'hamaari parampara', 'sanskriti ka hissa hai'",
+        "Husband welfare link: 'pati ki lambi umar ke liye', 'mangal ka symbol'",
+        "Non-wearing judgment: 'aajkal ki ladkiyan maan nahi karti'"
+      ],
+      "india_specific_context": "Hindu/Bengali ritual specificity: shankha-pola mandatory in Bengali Hindu marriages. Sindoor in Hindi belt. Mangalsutra pan-India. Name change debates in urban educated couples. The Karva Chauth discourse. Recent debates about whether these are feminist choices or internalized patriarchy.",
+      "example_scenarios": [
+        "Mother-in-law insisting on sindoor/shankha-pola for new bride",
+        "Relatives commenting on a married woman not wearing married markers",
+        "Urban couple debating name change — social pressure they face",
+        "Social media post about 'proudly wearing sindoor' going viral with comments",
+        "A woman being asked at an official event if she is married (based on markers)"
+      ],
+      "llm_generation_prompt_hints": [
+        "Frame through cultural pride and auspiciousness, not control",
+        "Include the woman defending the tradition herself (internalized)",
+        "Generate the generational conflict version (mother vs daughter)",
+        "Include the 'personal choice' defense that masks social pressure",
+        "Some examples from the 'progressive but...' voice: 'I respect her choice but...'"
+      ],
+      "annotation_challenge": "Especially sensitive in Indian context — touches religious identity. Women who practice these traditions may actively disagree that there's any misogyny. Perception gap will be high and culturally layered."
+    },
+
+    {
+      "frame_id": "F16",
+      "label": "Gendered Division of Chores via 'Practicality'",
+      "theme_ref": "Theme 14",
+      "misogyny_type": ["Benevolent Sexism", "Complementary Gender Differentiation", "Internalized Misogyny"],
+      "covertness": "very high",
+      "theoretical_note": "The 'practical' framing is the most effective cover for structural gender inequality in domestic labor. By recoding a historically enforced division as efficient specialization, it naturalizes the gendered distribution and makes challenging it seem irrational. Closely related to the 'separate but equal' logic. Women who accept this framing often experience it as genuine preference, which is the outcome of successful internalization.",
+      "core_belief": "Men are naturally better suited to financial management, physical labor, and external-facing tasks; women are naturally better suited to cooking, childcare, and internal household management; dividing labor this way is just rational, not sexist.",
+      "surface_manifestations": [
+        "'He handles finances, she handles home' described as a natural/efficient division",
+        "Dismissing women's ability to drive or handle 'technical' things as impracticality",
+        "Framing a woman doing 'men's work' as either adorable/unusual or aggressive",
+        "'We just fell into these roles' as a description of an enforced gendered division",
+        "Surprise or mockery when men cook or do laundry ('kitna accha pati hai')",
+        "Resistance to changing roles even when the structural basis (skill gap) no longer exists"
+      ],
+      "linguistic_cues": [
+        "Efficiency framing: 'jo jahan better hai', 'practical hai', 'naturally suited'",
+        "Naturalization: 'ghar ka kaam toh aurat hi sambhaalti hai', 'mard toh bahar ka dekhte hain'",
+        "Surprise at norm violation: 'wah, ghar ka kaam bhi karta hai?', 'modern husband'",
+        "Resistance to change: 'ye kaam merا nahi hai', 'mujhe nahi aata' (learned helplessness)"
+      ],
+      "india_specific_context": "Urban dual-income households where women work full time AND do all domestic labor. The 'helper' vs 'co-manager' distinction in Indian households. The 'he helps her' framing (not 'they share'). Specific Indian male learned helplessness in kitchen/childcare. The 'modern husband' as an exception worth celebrating.",
+      "example_scenarios": [
+        "Couple discussing division of household labor after both start working",
+        "In-laws or relatives describing their household arrangement approvingly",
+        "Social media discussion: 'why don't Indian men cook or clean?'",
+        "A man describing his marriage as 'equal' while describing a clearly unequal division",
+        "Friends praising a husband for doing minimal household contributions"
+      ],
+      "llm_generation_prompt_hints": [
+        "Both partners should often endorse the arrangement — internalized by both",
+        "The 'we chose this' framing is the key covert signal",
+        "Include the 'modern' version: educated urban couple still doing this",
+        "Generate the female voice defending the arrangement (crucial for internalized misogyny)",
+        "Include the celebration of minimal male contribution as signaling the low bar"
+      ],
+      "annotation_challenge": "Both men and women will likely not flag this as misogynistic — especially when framed as mutual choice. The highest-internalization frame in your set."
+    }
+
+  ],
+
+  "cross_cutting_dimensions": {
+    "note": "For each generated example, these dimensions can be used as additional annotation axes",
+    "dimensions": [
+      {
+        "name": "covertness",
+        "values": ["overt", "covert", "very_covert"],
+        "description": "How disguised the misogynistic intent is in the surface form"
+      },
+      {
+        "name": "misogyny_mechanism",
+        "values": ["hostile", "benevolent", "neosexist", "internalized", "institutional"],
+        "description": "Primary theoretical mechanism"
+      },
+      {
+        "name": "speaker_gender",
+        "values": ["man", "woman", "ambiguous"],
+        "description": "Perceived gender of the speaker — women saying it changes annotation dynamics"
+      },
+      {
+        "name": "target",
+        "values": ["specific_woman", "women_in_general", "women_as_category", "man_via_feminization"],
+        "description": "Who the misogyny is directed at"
+      },
+      {
+        "name": "social_register",
+        "values": ["family", "workplace", "peer_group", "online", "institutional", "media"],
+        "description": "Social context in which the statement is made"
+      },
+      {
+        "name": "india_specificity",
+        "values": ["pan-Indian", "regional", "urban", "rural", "class-specific"],
+        "description": "Geographic/social specificity within India"
+      },
+      {
+        "name": "language_style",
+        "values": ["Hindi-English code-mix", "pure_English", "Bengali", "formal", "WhatsApp_informal"],
+        "description": "Language register for generation"
+      },
+      {
+        "name": "plausible_deniability",
+        "values": ["none", "humor_defense", "concern_defense", "tradition_defense", "practicality_defense", "compliment_defense"],
+        "description": "What deflection the speaker might use if called out"
+      }
+    ]
+  },
+
+  "llm_generation_meta_instructions": {
+    "note": "High-level instructions to prepend when using this JSON to prompt an LLM for example generation",
+    "instructions": [
+      "Generate examples that sound like real speech — not academic descriptions of misogyny",
+      "The speaker should NOT sound like they know they are being misogynistic",
+      "Vary: WhatsApp message, spoken conversation, social media comment, Reddit/Quora post, news comment section",
+      "For Indian authenticity: use Hindi-English code-switching, Indian proper nouns, regional specificity",
+      "Generate a spectrum per frame: one overt, two medium, two covert example per frame",
+      "Avoid strawmanning — make the misogynistic position as genuinely held and articulate as possible",
+      "Include the 'other women agreeing' version for internalized misogyny testing",
+      "For LLM annotation training: generate near-miss examples that are NOT misogynistic but superficially similar"
+    ]
+  }
+}
