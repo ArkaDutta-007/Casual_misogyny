@@ -1,0 +1,372 @@
+{
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "misogyny_type": [
+    "Hostile Sexism",
+    "Victim Blaming",
+    "Heterosexual Hostility"
+  ],
+  "covertness_level": "medium",
+  "examples": [
+    {
+      "id": "F08_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, suna hai Rohit aur Divya ka divorce ho gaya. Bahut upset hai bechara Rohit. Woh Kavita kitni smart hai, usko pata tha na woh shaadi shuda hai, phir bhi. Bahut galat kiya usne.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Blames Kavita for knowing Rohit was married and still engaging, implying she should have prevented the situation and is responsible for the divorce, while Rohit is portrayed as a 'bechara'."
+    },
+    {
+      "id": "F08_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Uff, Sunita ne toh pura ghar hi tod diya Anuj ka. Aisi auraton ko sharam nahi aati, sab kuch jaan ke bhi phansati hain mardon ko. Bilkul Ekta Kapoor serial ki vamp lagti hai.",
+      "plausible_deniability": "blame_justification_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly labels Sunita as a 'homewrecker' and 'vamp,' blaming her entirely for 'trapping' Anuj and destroying his home, without holding Anuj accountable for his actions."
+    },
+    {
+      "id": "F08_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "It's disheartening to see how often married men, especially in positions of power, 'fall' into situations with attractive subordinates. While men should be stronger, the onus often falls on women to maintain professional boundaries, especially when they know a man is committed. Society needs to teach women to respect marital sanctity.",
+      "plausible_deniability": "moral_stance_defense",
+      "label": "misogynistic",
+      "annotation_note": "Positions men as passively 'falling' into situations and places the primary 'onus' on women to maintain boundaries and 'respect marital sanctity,' subtly blaming the woman for male infidelity."
+    },
+    {
+      "id": "F08_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "The 'other woman' is always the true villain in an affair. She knows what she's doing when she seduces a married man. She actively chooses to destroy a family for her own selfish desires, while the man is often just weak and easily manipulated. Stop making excuses for these home-wreckers.",
+      "plausible_deniability": "no_deniability_overt_blame",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly calls the 'other woman' the 'true villain' and a 'seductress' who 'destroys a family,' while excusing the man as 'weak and easily manipulated,' showing clear blame asymmetry."
+    },
+    {
+      "id": "F08_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Yaar, Pooja aur Sameer ke beech kuch toh chal raha hai. Sameer toh pura uske peeche pagal hai.\nSpeaker B: Pooja ko pata hai na woh married hai? Kitni friendly ho jati hai sab mardo ke saath, aakhir mein Sameer ka hi ghar kharab hoga. Usse thoda limit mein rehna chahiye.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Implies Pooja is responsible for Sameer's potential infidelity and the disruption of his family due to her perceived 'friendliness' and awareness of his marital status, placing the burden of responsibility on her."
+    },
+    {
+      "id": "F08_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Suna hai Vivek ki biwi chhod ke chali gayi? Uski secretary se affair tha uska.\nSpeaker B: Arre haan! Woh Kavya toh bilkul serial wali vamp hai. Pehle toh Vivek ko phansaya, ab uski family tod di. Bechara Vivek!",
+      "plausible_deniability": "gossip_defense",
+      "label": "misogynistic",
+      "annotation_note": "Labels Kavya as a 'vamp' who 'trapped' Vivek and 'broke his family,' depicting Vivek as a helpless 'bechara,' entirely absolving him of responsibility while condemning Kavya."
+    },
+    {
+      "id": "F08_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Sad to hear about the Sharma family's troubles. Such a loving couple, it's a shame when 'external influences' disrupt a happy home. Women should really be more mindful of married men's situations. #FamilyValues #ThinkBeforeYouAct",
+      "plausible_deniability": "moral_stance_defense",
+      "label": "misogynistic",
+      "annotation_note": "Uses euphemistic 'external influences' to subtly blame the woman involved in an affair, implying she should have been 'more mindful' and thus prevented the family disruption, without directly mentioning the man's role."
+    },
+    {
+      "id": "F08_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "These so-called 'modern' women have no respect for family values. Shamelessly pursuing married men just to destroy their homes. Karma will catch up with this Anjali, ghar todne wali! #Homewrecker #FamilyBreaker #Shameful",
+      "plausible_deniability": "no_deniability_overt_blame",
+      "label": "misogynistic",
+      "annotation_note": "Directly labels Anjali as a 'homewrecker' and 'family breaker,' accusing her of 'shamelessly pursuing married men' and destroying homes, with no blame directed at the man."
+    },
+    {
+      "id": "F08_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Preeti, you work very closely with Mr. Sharma, who is married. Just be careful how friendly you are, people talk and it can cause problems for his family. You understand, right?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Implies Preeti's friendliness with a married man could be seen as inappropriate and cause problems for his family, placing the responsibility on her to manage perceptions and prevent potential infidelity, thus blaming her for potential male misconduct."
+    },
+    {
+      "id": "F08_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "That new girl, Riya, at the office, she's always lingering near Mr. Gupta's desk. You know how some women are, always trying to get attention from senior married men. She'll be a home-wrecker for sure if he's not careful.",
+      "plausible_deniability": "gossip_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly accuses Riya of 'trying to get attention from senior married men' and predicts she 'will be a home-wrecker,' implying she is actively seducing Mr. Gupta and is solely responsible for potential infidelity."
+    },
+    {
+      "id": "F08_011",
+      "scenario_type": "any",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "It's sad when a marriage breaks. Affairs are complicated, and usually, both people in the relationship have issues they need to address. It's never just one person's fault, and the person who cheats should always take responsibility.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges complexity and mutual responsibility in an affair, and explicitly states that the person who cheats should take responsibility, avoiding singular blame on one gender."
+    },
+    {
+      "id": "F08_012",
+      "scenario_type": "any",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "I can't believe Vikas cheated on his wife. He had such a beautiful family, and he just threw it all away. His wife deserves so much better than a man who can't commit, no matter who he cheated with.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Focuses blame entirely on the man (Vikas) for cheating and for his lack of commitment, without mentioning or blaming the 'other woman' or implying she seduced him."
+    },
+    {
+      "id": "F08_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, Rohit ki wife ko kitna pain hua hoga. Uss ladki ko pata tha na he's married? Why even hang out alone then? Sad for the family.",
+      "plausible_deniability": "concern_for_family_suffering",
+      "label": "misogynistic",
+      "annotation_note": "Blames the 'other woman' by questioning her awareness and choices ('pata tha na he's married', 'why even hang out alone'), implying she's responsible for the pain caused to the wife and family, while excusing the man's actions."
+    },
+    {
+      "id": "F08_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Sunaina ne poora ghar tod diya Madhav ka. Bechara aadmi toh bas fass gaya uske chakkar mein. Uss aurat ki wajah se baccho ki life spoil ho gayi.",
+      "plausible_deniability": "concern_for_children_and_family",
+      "label": "misogynistic",
+      "annotation_note": "Directly blames Sunaina for 'breaking the home' ('poora ghar tod diya'), frames the man as a victim ('bechara aadmi toh bas fass gaya'), and attributes the family's suffering solely to her."
+    },
+    {
+      "id": "F08_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "It's always heartbreaking to see families suffer because of extramarital affairs. While one can argue about the man's responsibility, it's equally important to question the intentions of a woman who knowingly enters a relationship with a married individual. Doesn't she bear some moral culpability for the eventual fallout?",
+      "plausible_deniability": "seeking_moral_discussion",
+      "label": "misogynistic",
+      "annotation_note": "Uses language of 'moral culpability' to shift focus and blame onto the woman for 'knowingly entering a relationship', subtly implying she's an instigator or equally responsible for the affair's outcome, despite the man's primary commitment."
+    },
+    {
+      "id": "F08_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "The 'other woman' in our society is often painted as a victim, but what about the destruction she brings? If you pursue a married man, knowing fully well his commitments, you are actively participating in breaking a home. There's no justification for being a homewrecker, period.",
+      "plausible_deniability": "upholding_marital_sanctity",
+      "label": "misogynistic",
+      "annotation_note": "Directly labels the woman as a 'homewrecker' and attributes 'destruction' to her. Emphasizes her agency in 'pursuing' a married man, ignoring the man's role and decision-making."
+    },
+    {
+      "id": "F08_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Yaar, Shekhar ki shaadi toot gayi. Sunna hai office ki kisi ladki se chakkar chal raha tha.\nSpeaker B: Oh no! Woh Reena? Maine pehle hi bola tha, she's too friendly with everyone, especially senior management. Pata nahi kya dikhti hai sabko.",
+      "plausible_deniability": "observing_professional_behavior",
+      "label": "misogynistic",
+      "annotation_note": "Speaker B subtly blames Reena by implying her friendly and ambitious nature ('too friendly with everyone, especially senior management', 'pata nahi kya dikhti hai sabko') makes her a 'seductress' or implies she uses her charm to exploit married men."
+    },
+    {
+      "id": "F08_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Pata hai, Sameer ne apni wife ko chod diya. Woh jo nayi ladki aayi thi marketing mein, Pooja, uske saath bhaag gaya.\nSpeaker B: Arre haan! Bilkul serial wali baat hai. Woh Pooja toh aisi hi hai. Usko bas bade logon ke saath networking karni aati hai, aur ab toh seedha ghar tod diya. Bechari wife aur bachche!",
+      "plausible_deniability": "discussing_current_affairs_with_empathy",
+      "label": "misogynistic",
+      "annotation_note": "Uses 'serial wali baat hai' to frame Pooja as a villain, stereotypes her ('Pooja toh aisi hi hai', 'bade logon ke saath networking karni aati hai') as manipulative, and overtly blames her for 'breaking the home' ('seedha ghar tod diya') while sympathizing with the wife and children, excusing Sameer."
+    },
+    {
+      "id": "F08_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "It's sad to see how some people prioritize their fleeting desires over the stability of a family. When you know someone is married, wouldn't common decency dictate you step back? The long-term impact on innocent children is immense. #FamilyValues #ThinkBeforeYouAct",
+      "plausible_deniability": "advocating_for_family_values",
+      "label": "misogynistic",
+      "annotation_note": "Subtly blames the 'other woman' by questioning her 'common decency' and implying she selfishly prioritizes 'fleeting desires' despite knowing the man is married, thus responsible for the 'impact on innocent children'."
+    },
+    {
+      "id": "F08_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Just heard about another marriage ending because of some heartless woman who couldn't keep her hands off a married man. How do these homewreckers sleep at night? You ruined a family! May karma get you. #Homewrecker #FamilyDestroyer",
+      "plausible_deniability": "expressing_anger_at_injustice",
+      "label": "misogynistic",
+      "annotation_note": "Directly demonizes the woman as 'heartless' and a 'homewrecker' for 'ruining a family', placing sole blame on her for the affair and its consequences, with no mention of the married man's role."
+    },
+    {
+      "id": "F08_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I'm a little worried about how closely Priya is working with Mr. Sharma. He's a senior manager and a married man. She's very ambitious, and people might get the wrong idea, you know? For her own good, she should maintain some distance.",
+      "plausible_deniability": "offering_professional_advice_and_concern",
+      "label": "misogynistic",
+      "annotation_note": "Frames Priya's professional ambition and proximity to a married male superior as suspicious, implying she might be deliberately 'getting too close' or inviting scandal, thus making her responsible for potential 'wrong ideas' or an affair."
+    },
+    {
+      "id": "F08_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Humne toh pehle hi bola tha, woh ladki office mein sab ke saath itni chipki-chipki rehti hai. Ab dekho, poora ghar ujaad diya Suresh ka. Bachche road pe aa gaye, aur woh aish kar rahi hai.",
+      "plausible_deniability": "stating_facts_and_concern_for_children",
+      "label": "misogynistic",
+      "annotation_note": "Overtly blames the woman by labeling her as 'chipki-chipki' (clingy/overly close), accusing her of 'destroying Suresh's home' ('poora ghar ujaad diya'), and portraying her as indifferent to the family's suffering while she 'enjoys' ('aish kar rahi hai')."
+    },
+    {
+      "id": "F08_023",
+      "scenario_type": "reddit_quora",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "It's so messed up when affairs happen. Both people involved really need to take a hard look at why they chose to betray their partners and families. It's never just one person's fault.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges that both parties in an affair are responsible for their actions and betrayal, explicitly stating it's 'never just one person's fault', thus avoiding blame asymmetry."
+    },
+    {
+      "id": "F08_024",
+      "scenario_type": "spoken_convo",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Pooja ki wajah se Vivek aur Tina ka rishta toot gaya, badi gandi aurat hai woh.\nSpeaker B: Dekh, I think an affair is a tragedy for everyone involved, especially the families. Sometimes, the 'other woman' herself might have been misled or vulnerable. It's a complex situation with multiple layers of pain for all parties.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Speaker B counters the initial direct blame by emphasizing the complexity of affairs, showing empathy for all parties, including the 'other woman' (who 'might have been misled or vulnerable'), rather than assigning sole blame."
+    },
+    {
+      "id": "F08_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, Rohan ka dimaag kharab ho gaya hoga par, us Deepika ko bhi pata tha he's married na? Toh why approach him only? Bilkul samajh nahi aata.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Blames the woman for 'approaching' a married man, implicitly excusing the man's agency by suggesting he was simply tempted or 'lost his mind'."
+    },
+    {
+      "id": "F08_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Sunn, Aarti ko dekha? Woh toh pakka ghar todne wali aurat hai. Rajesh bechara toh uske chakkar mein pad gaya. Sab uski galti hai.",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "Directly labels the woman as a 'homewrecker' ('ghar todne wali'), frames the man as a 'poor fellow' who 'fell into her trap', and assigns all blame to her."
+    },
+    {
+      "id": "F08_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "It's truly unfortunate when marriages break due to external factors. While men also bear responsibility, women who knowingly engage with married individuals should seriously consider the devastating impact on families and children. Maintaining moral boundaries is crucial for everyone.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Subtly shifts the onus of 'maintaining moral boundaries' and considering 'devastating impact' primarily onto the 'other woman', while framing the man's responsibility in a more general, less accusatory way."
+    },
+    {
+      "id": "F08_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Why do these so-called 'modern' women always target successful married men? It's a calculated move to destroy families and climb socially. The man is just a weak target, easily seduced. Society needs to stop pitying these 'homewreckers' and hold them accountable for their manipulative actions.",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly frames the woman as a 'seductress' with malicious intent ('calculated move', 'manipulative actions') to 'destroy families', reducing the man to a 'weak target' and absolving him of significant blame."
+    },
+    {
+      "id": "F08_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: \"Did you hear about Neha and her boss? Such a mess, his wife found out.\"\nSpeaker B: \"Haan yaar. Neha toh thodi zyada hi friendly hai, sabke saath. Usko pata hona chahiye tha ki office mein kaise behave karte hain, especially with a married man. Bechare sir toh usko bas help kar rahe the.\"",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Blames the woman for being 'too friendly' and not knowing 'how to behave' with a married man, implying she led him on. Frames the man as an 'innocent' party merely 'helping' her."
+    },
+    {
+      "id": "F08_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: \"Yaar, Sameer ke ghar mein toh bada drama chal raha hai, wife ne chor diya usko.\"\nSpeaker B: \"Oh, woh Sarita wali baat? Main toh kehta hoon, us ladki ne hi Sameer ko phansaya. Aadmi toh kamzor pad hi jaate hain, usne toh pura ghar hi tod diya.\"",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly blames the woman ('Sarita') for 'entrapping' ('phasaya') the man. Excuses the man by stating 'men are weak' and directly accuses the woman of 'breaking' the entire family."
+    },
+    {
+      "id": "F08_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Some people are so desperate for a shortcut, they don't care who gets hurt. Sad to see innocent families pay the price because of selfish ambition. #KarmaIsComing",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Covertly blames the 'other woman' (implied by 'desperate for a shortcut', 'selfish ambition') for causing harm to 'innocent families', without explicitly mentioning her or the man involved."
+    },
+    {
+      "id": "F08_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Yeh Pooja toh bilkul Ekta Kapoor serial ki villain lagti hai! Pata tha na woh shadi shuda hai, phir bhi chipak gayi? Ghar todne wali aurat! #Homewrecker #ShameOnYou",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "Directly condemns the woman, using the 'other woman' villain trope from TV serials, and explicitly labels her a 'homewrecker' for engaging with a married man, without mentioning his culpability."
+    },
+    {
+      "id": "F08_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Badi mushkil se banta hai parivaar, aur ek pal mein sab bikhar jata hai. Us Anjali ko samajhna chahiye tha, yeh sab theek nahi hai, uski wajah se kitni takleefein aayi hain hamare ghar mein.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "As a concerned family member, the speaker places the blame for family disruption solely on 'Anjali' for not 'understanding' the consequences, implying she should have deflected the man and is responsible for the family's pain."
+    },
+    {
+      "id": "F08_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Sunil toh apni wife se bohot khush tha, pata nahi kaise us nayi employee Neha ne usko phasa liya. Woh toh sabko pata hai kitni 'friendly' hai, pure office ka mahaul kharab kar diya.",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly blames the 'new employee Neha' for 'entrapping' ('phasaya') Sunil, implying she used her 'friendliness' (seduction framing) to initiate the affair and disrupt the workplace."
+    },
+    {
+      "id": "F08_035",
+      "scenario_type": "reddit_quora",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "It's always heartbreaking to hear about affairs, no matter who is involved. Both parties need to be accountable for their choices and the pain they cause to everyone around them.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "This example assigns equal accountability to both parties in an affair, without singling out or disproportionately blaming the woman. It focuses on the general harm caused by infidelity."
+    },
+    {
+      "id": "F08_036",
+      "scenario_type": "social_media",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "An affair usually signals deeper issues within a marriage itself. Instead of just pointing fingers, perhaps we should look at why people seek connections outside their relationship. It's a failure on many levels for all involved.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "This example shifts focus from individual blame to underlying marital issues and shared responsibility ('failure on many levels for all involved'), avoiding gendered blame asymmetry."
+    }
+  ]
+}

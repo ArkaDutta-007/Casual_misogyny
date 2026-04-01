@@ -1,0 +1,372 @@
+{
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "misogyny_type": [
+    "Neosexism",
+    "Hostile Sexism",
+    "Heterosexual Hostility"
+  ],
+  "covertness_level": "low-medium",
+  "examples": [
+    {
+      "id": "F05_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bhai, aajkal shaadi ek trap hai. Ladkiyan stability ke naam pe, lawyers ke saath milke, life set kar leti hain. Protect yourself with a prenup if you can, warna after divorce you're screwed.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Advises men to protect themselves with prenups from women who are 'after stability', framing marriage as a trap where women exploit the system."
+    },
+    {
+      "id": "F05_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Yaar, Hrithik-Sussanne case dekha? Alimony nahi, reverse dowry hai yeh! Aise hi chalega toh kaun karega shaadi? IPC 498A bhi ready hai misuse hone ke liye, it's a nightmare for men.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly labels alimony as 'reverse dowry' and 'nightmare for men', generalizing from a celebrity case to imply women exploit marriage for financial gain and misuse 498A."
+    },
+    {
+      "id": "F05_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "On Quora: 'Is marriage a good deal for Indian men nowadays?' My answer: It's becoming increasingly risky. With one-sided laws and the constant threat of 498A misuse (some reports suggest 70% cases are false), men are left vulnerable. It's not about love anymore, but legal protection and saving your assets.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Claims 'one-sided laws' and '498A misuse' make marriage risky for men, implying women exploit these laws for financial gain and generalizing men as vulnerable victims."
+    },
+    {
+      "id": "F05_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "I agree with many here. It's sad, but a lot of girls today just look for a rich guy to secure their future. They don't care about love, just the monthly cheque after a quick divorce. They're basically professional golddiggers with legal backing, ruining the sanctity of marriage.",
+      "plausible_deniability": "internalized_misogyny",
+      "label": "misogynistic",
+      "annotation_note": "A woman generalizes that 'a lot of girls' marry for financial security, planning for divorce to extract money, explicitly calling them 'professional golddiggers'."
+    },
+    {
+      "id": "F05_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Yaar, Amit ki shaadi toot gayi? Badi mushkil se settle hua tha. \nSpeaker B: Haan bhai, bechara. Usne toh poora ghar uske naam kar diya tha, ab aadha us ladki ko dena padega. Aajkal ladkiyan bohot smart ho gayi hain, rishta banati hi isliye hain - to get a share of property.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Implies women are 'smart' and enter relationships with the intention of exploiting men's assets, generalizing from one anecdotal case."
+    },
+    {
+      "id": "F05_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Rahul, why are you so against marriage? You're a good catch. \nSpeaker B: Good catch? For what? To pay for her lifestyle for the rest of my life? Ye alimony nahi hai, Bhai. Ye toh modern-day reverse dowry hai, legalised extortion jo aadmiyon ko barbaad kar deti hai.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Calls alimony 'modern-day reverse dowry' and 'legalized extortion', framing women who seek it as exploiting men for their lifestyle."
+    },
+    {
+      "id": "F05_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Girls, if a guy earns well, make sure you know his assets! Just kidding... (kinda) But seriously, protect your future. Don't be naive. Guys, be careful too, stable future seekers are everywhere. #MarriageRisks #ProtectYourself #ModernDating #IndianDating",
+      "plausible_deniability": "internalized_misogyny",
+      "label": "misogynistic",
+      "annotation_note": "A woman subtly warns men about 'stable future seekers' among women, implying that women's primary interest in wealthy men is financial exploitation, under the guise of mutual advice."
+    },
+    {
+      "id": "F05_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Another celebrity divorce, another massive alimony payout. These women just see a meal ticket. It's a sad reality that marriage has become a business transaction for many, and men are always on the losing end. #MensRightsIndia #AlimonyScam #MarriageTrap #EndMisuseOfLaws",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes from celebrity divorces to claim women view marriage as a 'meal ticket' and a 'business transaction', with men being the 'losing end', implying widespread exploitation."
+    },
+    {
+      "id": "F05_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "My uncle was telling my cousin, 'Beta, jab ladki dekho toh uska financial background bhi dekh lena. Aajkal bohot smart hain ladkiyan, stability ke naam pe sirf tumhari property pe nazar rakhti hain. Shaadi se pehle hi sab clear kar lena, ek prenup is a must for financial safety.'",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Advises a young man to be wary of women's financial intentions, suggesting they target men's property under the guise of seeking 'stability', framing prenups as protection from this."
+    },
+    {
+      "id": "F05_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "At the office lunch, Meena was saying, 'Honestly, I wouldn't blame any rich man for asking for a prenup. Look at what happened with Sanjeev. His wife left him after 2 years and took half his business! These women are just using marriage as a legal loophole for quick money, it's not fair to men.'",
+      "plausible_deniability": "internalized_misogyny",
+      "label": "misogynistic",
+      "annotation_note": "A woman generalizes from an anecdotal case to claim women use marriage as a 'legal loophole for quick money', thereby endorsing prenups as protection from such exploitative women."
+    },
+    {
+      "id": "F05_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "It's understandable why people are careful about finances in marriage today. With the rising cost of living, both partners need to be financially responsible and secure. A prenup can clarify expectations and protect both individuals, which is a practical step.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Focuses on mutual financial responsibility and clarifies expectations for both partners in a prenup, without implying women are exploitative or golddiggers. It frames a prenup as a practical step for mutual protection."
+    },
+    {
+      "id": "F05_012",
+      "scenario_type": "social_media",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "I think the legal system needs to ensure fairness for both genders during divorce. Sometimes, the interpretations of laws like 498A can lead to genuinely unfair outcomes for men, and we should discuss how to prevent that without diluting protection for women who truly need it.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses a general concern about fairness in the legal system for both genders during divorce, specifically mentioning potential unfair outcomes for men regarding 498A, but explicitly states intent to not dilute protection for women and does not generalize women as exploiters."
+    },
+    {
+      "id": "F05_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bhai, suna Arun ka divorce ho gaya? Patni ne poora ghar aur 50 lakh liye. Yaar, yeh aajkal IPC 498A bohot misused ho raha hai. Mard zyada suffer karte hain ab.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Uses 'IPC 498A misused' and 'mard zyada suffer karte hain' to invert victimhood and imply women exploit laws for financial gain, framing men as victims."
+    },
+    {
+      "id": "F05_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Guys, be warned! A friend just lost his house in alimony. It's like reverse dowry now. Ladkiyan bas money dekh ke shaadi karti hain. Prenup is essential for protection from these gold digger types.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly uses 'reverse dowry' and states 'ladkiyan bas money dekh ke shaadi karti hain', generalizing women as 'gold digger types' who marry for money."
+    },
+    {
+      "id": "F05_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "It's shocking how many cases under IPC 498A are reportedly false, yet men bear the brunt until proven innocent. This one-sided legal framework needs a serious re-evaluation. Marriage has become a financial liability for men in India, especially with high alimony demands post-divorce. Where are men's rights?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Argues for 'men's rights' by citing 'false 498A cases' and 'one-sided legal framework', framing marriage as a financial trap for men due to women's alimony demands."
+    },
+    {
+      "id": "F05_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Quora user: Why is marriage so risky for Indian men today?\nMy take: Because modern women see it as a financial transaction. They look for the richest guy, then leverage 'women's protection laws' to extract maximum alimony. Don't be fooled by love, boys. Get a prenup or stay single. Hrithik-Kangana case is just one example. Their eyes are only on your bank balance.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly attributes women's interest in marriage to money ('financial transaction', 'richest guy', 'bank balance') and uses celebrity divorce to generalize women as exploiting laws for financial gain."
+    },
+    {
+      "id": "F05_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Yaar, Vivek ka kya hua? Divorce chal raha tha na uska?\nSpeaker B: Haan bhai, ho gaya finally. Us bechare ki poori savings chali gayi alimony mein. Aur uski wife toh kabhi kaam bhi nahi karti thi. Matlab, usne toh free ka lottery jeet liya.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Implies the wife exploited the situation for financial gain ('free ka lottery jeet liya') despite not working, positioning the man as the victim of a biased system."
+    },
+    {
+      "id": "F05_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Tina, Sunita ne toh Rohan se divorce le liya. Ab Sunita ko alimony bhi milegi, right?\nSpeaker B: Haan, milegi toh. Dekh toh, shaadi se pehle Rohan kitna rich tha, aur Sunita ko toh bas 'stability' chahiye thi. Mujhe toh hamesha laga uski aankhein Rohan ke paison par hi thi. Smart girl, I guess.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman attributes another woman's interest in a wealthy man entirely to his money ('bas stability chahiye thi', 'aankhein Rohan ke paison par hi thi'), implying she is a golddigger."
+    },
+    {
+      "id": "F05_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "So many high-profile divorces lately. It's sad to see families break, but also makes you wonder about the financial motivations sometimes. It's a harsh reality that women often come out financially stronger. #DivorceSettlement #ModernMarriages",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Subtle generalization about women's financial gain post-divorce ('come out financially stronger'), creating suspicion about their motivations and implying exploitation."
+    },
+    {
+      "id": "F05_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Another man ruined by one-sided divorce laws and huge alimony demands. It's not a marriage anymore, it's a legal trap for men. Boys, always get a prenup. Protect your assets from golddiggers! #MensRightsIndia #ReverseDowry #ProtectMen",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Openly calls women 'golddiggers', labels marriage a 'legal trap' for men, and uses 'reverse dowry' and 'men's rights' hashtags to frame women as exploiters of the legal system."
+    },
+    {
+      "id": "F05_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Rahul, you're getting married soon, right? Make sure you think about a prenup. It's not about trust, it's just smart financial planning in today's world, protects both parties, especially when laws are so complicated for men.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Advises a prenup as 'smart planning' but subtly frames it as 'protection' for men due to 'complicated laws', implying women might exploit them financially."
+    },
+    {
+      "id": "F05_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Beta, dekh lo. Shaadi karne se pehle ladke ki finances achhe se dekhna. Aur ladke tum bhi savdhaan rehna. Aajkal ki ladkiyan toh bas ameer pati dhundhti hain aur divorce ke time 498A ki dhamki deke sab loot leti hain.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman generalizes 'aajkal ki ladkiyan' as those who seek rich husbands and misuse 498A for financial gain, framing them as exploitative."
+    },
+    {
+      "id": "F05_023",
+      "scenario_type": "any",
+      "covertness": "non_misogynistic",
+      "speaker_gender": "man",
+      "text": "It's important for both partners to have financial independence before and during marriage. Relying solely on one person for finances can create difficult situations if things go wrong. Financial planning is key for everyone's future security.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Focuses on general financial planning and independence for both genders, without attributing malicious intent to women or framing laws as one-sided."
+    },
+    {
+      "id": "F05_024",
+      "scenario_type": "any",
+      "covertness": "non_misogynistic",
+      "speaker_gender": "woman",
+      "text": "I feel bad for Pooja. She left her career to raise kids, and now after divorce, she's struggling to get back on her feet financially. The legal system should ensure women who sacrifice their careers for family are adequately supported.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses sympathy for a woman facing financial hardship post-divorce due to career sacrifice, advocating for legal support, not portraying her as a golddigger or exploitative."
+    },
+    {
+      "id": "F05_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bhai, soch samajh ke shaadi karna. Aajkal girls are smart, sab pehle se plan karti hain. Better to have a prenup. Legal system bhi men ke against hai. #MenToo",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Advises men to be cautious in marriage, implying women are opportunistic and the legal system is biased against men, without direct accusation."
+    },
+    {
+      "id": "F05_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Saw Ritu's divorce news. Husband lost half his property! Yeh alimony toh reverse dowry hai. Aur 498A ka toh puchho hi mat, kitni ladkiyan misuse karti hain for money. Men have no rights anymore.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly frames alimony as 'reverse dowry' and states IPC 498A is routinely misused by women for financial gain, positioning men as victims of legal exploitation."
+    },
+    {
+      "id": "F05_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Quora question: 'Is marriage a trap for men in India?' My answer: It often feels like it. Many women today aren't looking for a partner, they're looking for financial 'stability'. Once they get it, they know exactly how to use the 'one-sided' laws. Protect your assets, fellas. It's not about love for everyone.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Implies women marry for financial gain ('stability') and exploit legal loopholes, advising men to protect their assets from potential exploitation by women."
+    },
+    {
+      "id": "F05_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "The problem with IPC 498A is that it's become a weapon. Every day you hear stories of women filing false cases just to extort money during a divorce. Some surveys even say 70-80% cases are fake. Why are men always assumed guilty? Where are men's rights in India?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly claims women routinely file false 498A cases for extortion using misquoted statistics and laments the lack of 'men's rights' due to perceived systemic bias."
+    },
+    {
+      "id": "F05_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Did you hear about Sameer and Pooja? He's a rich businessman, she's a struggling artist.\nSpeaker B: Oh, really? That's quite a match.\nSpeaker A: Hmm, well, a struggling artist suddenly interested in a super rich guy... makes you wonder, doesn't it? Just saying.",
+      "plausible_deniability": "rhetorical_question",
+      "label": "misogynistic",
+      "annotation_note": "Speaker A subtly implies Pooja's interest in Sameer is purely financially motivated, casting suspicion on her intentions without explicit accusation."
+    },
+    {
+      "id": "F05_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Yaar, that Hrithik-Kangana divorce settlement was insane! He had to pay so much.\nSpeaker B: Exactly! Yeh sab modern ladkiyan, they just want to marry a rich guy, live lavishly, and then take half his property when they get bored. Pure gold-diggers, I tell you.\nSpeaker A: True, true. Mard ki toh kismat hi kharab hai.",
+      "plausible_deniability": "personal_opinion",
+      "label": "misogynistic",
+      "annotation_note": "Speaker B generalizes from a high-profile celebrity divorce to 'modern women,' labeling them as 'gold-diggers' who exploit marriage for wealth and divorce laws for assets."
+    },
+    {
+      "id": "F05_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "To all my young bros, think before you jump into marriage. Financial protection is key. Laws are evolving, and unfortunately, sometimes they don't favor men. Safeguard your future. #MensRights #MarriageAdvice",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Advises young men to be financially protective before marriage, implying that legal frameworks are potentially exploitative by women and biased against men."
+    },
+    {
+      "id": "F05_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Alimony is nothing but legalised reverse dowry. Men work their entire lives only for it to be snatched away. Where is the equality? The system is completely biased. #AntiMenLaws #MensRightsIndia",
+      "plausible_deniability": "personal_opinion",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly equates alimony to 'legalised reverse dowry' and claims the legal system is completely biased against men, framing it as an unfair seizure of their earnings."
+    },
+    {
+      "id": "F05_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My sister-in-law told her son to definitely get a prenup. It's just smart planning these days, you know, to protect what's yours. One never knows what kind of person you end up with.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames prenups as a necessary and 'smart' protective measure, subtly implying a generalized distrust of women's intentions in marriage to extract assets."
+    },
+    {
+      "id": "F05_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Heard about our colleague, Rahul? His wife filed 498A just to settle scores in their divorce. It's heartbreaking how men suffer because of these easily misused laws.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly claims a woman misused IPC 498A to 'settle scores' during divorce, highlighting men's suffering due to laws perceived as easily exploitable by women."
+    },
+    {
+      "id": "F05_035",
+      "scenario_type": "family_workplace",
+      "covertness": "n/a",
+      "speaker_gender": "woman",
+      "text": "I think prenuptial agreements are a sensible option for both parties, especially when there's significant wealth involved, just to ensure clarity and protect assets for everyone. It's about being practical.",
+      "plausible_deniability": "n/a",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses prenups neutrally as a practical financial planning tool for both genders, without implying exploitation or systemic bias."
+    },
+    {
+      "id": "F05_036",
+      "scenario_type": "reddit_quora",
+      "covertness": "n/a",
+      "speaker_gender": "man",
+      "text": "It's really sad when you hear about genuine cases of domestic violence, but also frustrating when a law like 498A gets misused by some people to settle personal vendettas, which undermines its original purpose.",
+      "plausible_deniability": "n/a",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges both genuine domestic violence and misuse of IPC 498A by 'some people,' without generalizing to all women or claiming systematic anti-male bias."
+    }
+  ]
+}

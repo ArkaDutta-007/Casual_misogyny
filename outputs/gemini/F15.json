@@ -1,0 +1,372 @@
+{
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "misogyny_type": [
+    "Benevolent Sexism",
+    "Internalized Misogyny",
+    "Complementary Gender Differentiation"
+  ],
+  "covertness_level": "very high",
+  "examples": [
+    {
+      "id": "F15_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hey Divya, congrats again! BTW, noticed you're not wearing your mangalsutra today? Karwa Chauth is coming na, thoda auspicious rehta hai. Just saying!",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Subtle pressure to conform to marital markers, linking it to auspiciousness and upcoming rituals, implying concern rather than direct command. Very high covertness due to the 'just saying' and 'auspicious rehta hai'."
+    },
+    {
+      "id": "F15_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Tina, you're a new bride now, why are you still going without sindoor? Maa kehti thi suhagan ki pehchan hoti hai. Pura din lagana chahiye, kya pata pati ki lambi umar ke liye kitna mangal ho.",
+      "plausible_deniability": "tradition_pride",
+      "label": "misogynistic",
+      "annotation_note": "Direct pressure from one woman to another to wear sindoor, explicitly linking it to being a 'suhagan' and the husband's long life, implying it's essential for auspiciousness. Overt due to the direct questioning and explicit linking to husband's wellbeing."
+    },
+    {
+      "id": "F15_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I completely respect a woman's choice to keep her maiden name or not wear traditional markers. However, one can't deny the cultural significance. There's a certain completeness, a traditional charm, to seeing a newly married woman with sindoor. It just *feels* right, a beautiful representation of our heritage, you know? It's not about ownership, it's about identity and aesthetics. But yes, choice is paramount.",
+      "plausible_deniability": "personal_choice_defense",
+      "label": "misogynistic",
+      "annotation_note": "Uses 'personal choice' as a disclaimer, but then goes on to express a strong preference for married markers, framing them as 'completeness,' 'traditional charm,' and 'heritage,' subtly judging those who don't conform. Covert due to the initial disclaimers."
+    },
+    {
+      "id": "F15_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "It's baffling how some women claim these markers are 'patriarchal.' They're an integral part of our *sanskriti*, symbolising *saubhagya*. A wife choosing not to wear sindoor or mangalsutra isn't just about 'personal preference'; it’s a subtle disrespect to centuries of tradition and even to her husband's wellbeing, according to our texts. It's not just a 'look,' it's about acknowledging your new identity and auspiciousness.",
+      "plausible_deniability": "tradition_pride",
+      "label": "misogynistic",
+      "annotation_note": "Directly labels rejection of markers as 'disrespect' to tradition and husband's wellbeing, frames them as 'integral' to culture and 'saubhagya,' rejecting the idea of it being mere personal choice. Overt due to the strong condemnatory language."
+    },
+    {
+      "id": "F15_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A (Mother): Preeti, it's been six months since your wedding, and you've barely worn your shankha-pola. Your mother-in-law mentioned it. It's not just for show, beta. It's for good luck, a part of our Bengali identity. Speaker B (Daughter): Maa, I work in a corporate office, it's not practical everyday. Speaker A: Practicality aside, at least for family functions. People notice, it's about *saubhagya*.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Mother subtly pressures daughter to wear traditional markers, citing mother-in-law's notice, linking it to 'good luck,' 'Bengali identity,' and 'saubhagya,' dismissing practicality. Covert as it's framed as concern and tradition."
+    },
+    {
+      "id": "F15_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Rekha, have you noticed how modern Priya is? Married for a year and no sindoor, no mangalsutra. Speaker B: Haan, I saw that too! I mean, what's the point of getting married if you don't even *look* like a suhagan? Our elders say it completes a woman, marks her as *sobhagyabati*. It just seems so odd, almost incomplete.",
+      "plausible_deniability": "tradition_pride",
+      "label": "misogynistic",
+      "annotation_note": "Two women openly disapprove of a married woman not wearing markers, explicitly stating it makes her 'incomplete' and questioning the point of marriage without these visible signs. Overt due to the direct questioning and judgment."
+    },
+    {
+      "id": "F15_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Just saw a beautiful reel of a newlywed applying sindoor for the first time. There's something so profoundly beautiful and auspicious about our traditions. It truly makes a woman look so 'settled' and complete, ready to embrace her new life. So much grace in our Indian customs! #IndianTraditions #NewlyMarried #Sindoor",
+      "plausible_deniability": "cultural_pride",
+      "label": "misogynistic",
+      "annotation_note": "Praises the act of wearing sindoor, framing it as 'beautiful,' 'auspicious,' making a woman 'settled' and 'complete,' subtly pushing the expectation without direct command. Covert as it's an appreciation, not a direct command."
+    },
+    {
+      "id": "F15_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "When a woman refuses to change her surname after marriage, it often feels like a subtle refusal to truly commit to her new family or identity. It's not just a 'name,' it's about merging two families, a symbol of unity. To cling onto the old surname after entering a new phase of life... it just raises questions about loyalty to tradition. #FamilyValues #Marriage",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Expresses suspicion and judgment about women not changing surnames, interpreting it as a 'subtle refusal to commit' or a lack of 'loyalty to tradition,' framing name change as essential for 'unity.' Overt due to the direct questioning of commitment/loyalty."
+    },
+    {
+      "id": "F15_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Neha, you look so lovely today. The touch of sindoor really suits you, makes you look even more like a *suhagan*, adds a lovely glow. It's so nice to see.",
+      "plausible_deniability": "compliment",
+      "label": "misogynistic",
+      "annotation_note": "Compliments a woman's appearance, but specifically attributes her 'lovely glow' and 'suhagan' look to the sindoor, subtly validating its presence and reinforcing its association with a desirable married identity. Very high covertness due to it being a compliment."
+    },
+    {
+      "id": "F15_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Radhika, your mother-in-law called, she's worried. You haven't been wearing your shankha-pola at all since coming back from your honeymoon. It's our *parampara*, a sign of your *saubhagya*. Please, just wear it for her sake, for the family's honor.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Direct pressure to wear traditional markers, invoking family honor, tradition ('parampara'), and husband's wellbeing ('saubhagya'), making it about others' feelings and family reputation rather than individual choice. Overt due to the direct appeal and emotional manipulation."
+    },
+    {
+      "id": "F15_011",
+      "scenario_type": "social_media",
+      "covertness": "not_misogynistic",
+      "speaker_gender": "woman",
+      "text": "I personally love wearing my mangalsutra and sindoor. For me, it's a beautiful way to connect with my cultural roots and celebrate my marriage. Every woman should choose what feels right for her, but for me, it's a source of joy! #MyChoice #CulturalPride #MarriedLife",
+      "plausible_deniability": "N/A",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses personal preference and positive feelings about wearing marital markers, explicitly stating 'Every woman should choose what feels right for her,' without imposing this choice or judging others."
+    },
+    {
+      "id": "F15_012",
+      "scenario_type": "spoken_convo",
+      "covertness": "not_misogynistic",
+      "speaker_gender": "man",
+      "text": "Speaker A: Did you hear Seema decided not to change her last name? Speaker B: Oh really? That's interesting. As long as she and Sameer are happy with it, that's all that matters. It's a personal decision, isn't it?",
+      "plausible_deniability": "N/A",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges a woman's choice regarding her surname, affirming it as a personal decision and not expressing judgment or linking it to commitment or tradition. Focuses on the couple's happiness."
+    },
+    {
+      "id": "F15_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hey Priya, shaadi ko itne din ho gaye! Aaj bhi tumhare maathe pe woh lal rang ki kami lagti hai. Maa bhi bol rahi thi. Sab suhagan lagti hai usme. Just saying, for auspiciousness!",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Subtly pressures to wear sindoor, framing it as concern for auspiciousness and societal expectation ('sab suhagan lagti hai'), implying incompleteness without it."
+    },
+    {
+      "id": "F15_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Arre Shalini, Karva Chauth aa raha hai! Mangalsutra kahan hai tumhara? Aur sindoor? Pati ki lambi umar ke liye pehente hain. Thoda dhyan rakho, hamari parampara hai.",
+      "plausible_deniability": "tradition_defense",
+      "label": "misogynistic",
+      "annotation_note": "Direct pressure to wear marital markers, linking non-wear to lack of concern for husband's wellbeing ('pati ki lambi umar ke liye') and invoking tradition ('hamari parampara')."
+    },
+    {
+      "id": "F15_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I understand that some women prefer not to change their names or wear traditional markers post-marriage, and that's their choice. But honestly, there's something so beautiful and complete about a woman embracing her new identity as a 'Mrs.' and the cultural symbols that come with it. It just feels 'right', like a natural progression.",
+      "plausible_deniability": "personal_choice_defense",
+      "label": "misogynistic",
+      "annotation_note": "Masks judgment behind 'personal choice' while subtly promoting traditional roles and markers as making a woman 'complete' and 'natural,' implying non-wearers are somehow lacking."
+    },
+    {
+      "id": "F15_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "The debate around sindoor and mangalsutra as 'patriarchal symbols' is getting out of hand. These aren't chains; they're symbols of saubhagya and a woman's commitment. A married woman proudly displaying these markers isn't just following tradition, she's celebrating her marital status, her 'poorn nari' identity. It's ridiculous to call it 'ownership'.",
+      "plausible_deniability": "cultural_pride_defense",
+      "label": "misogynistic",
+      "annotation_note": "Strongly reframes marital markers as symbols of pride and 'poorn nari' status, dismissing feminist critiques and implying women who don't wear them are not 'complete' or culturally disloyal."
+    },
+    {
+      "id": "F15_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A (Mother-in-law): Beta, dekho na, Sarita kitni acchi lagti hai, hamesha pura sindoor bharke rakhti hai. Ekdum suhagan ki pehchan. (Gives a knowing look at Daughter-in-law who rarely wears it). Speaker B (Daughter-in-law): Hmm, haan Bua ji.",
+      "plausible_deniability": "comparison_praise",
+      "label": "misogynistic",
+      "annotation_note": "Indirectly pressures the daughter-in-law by praising another woman for wearing marital markers, framing it as the ideal 'suhagan ki pehchan' and implicitly criticizing the daughter-in-law."
+    },
+    {
+      "id": "F15_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A (Uncle): Arre beti, tum toh shaadi ke baad bhi bilkul aise hi ghoom rahi ho jaise college mein. Kahan hai tumhara shankha-pola? Aur sindoor? Log kya sochenge? Speaker B (Niece): Uncle, it's my choice. Speaker A: Choice-voice theek hai, lekin hamari sanskriti ka hissa hai yeh sab.",
+      "plausible_deniability": "tradition_defense",
+      "label": "misogynistic",
+      "annotation_note": "Direct questioning and disapproval of non-wear, invoking societal judgment ('log kya sochenge?') and cultural tradition ('hamari sanskriti ka hissa hai') to enforce compliance."
+    },
+    {
+      "id": "F15_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "✨ Feeling so blessed and complete with my gorgeous mangalsutra and a touch of sindoor today. There's just something so beautiful about embracing our traditions and celebrating this special phase of life. #MarriedAndBlessed #IndianTradition #Saubhagya",
+      "plausible_deniability": "personal_expression_defense",
+      "label": "misogynistic",
+      "annotation_note": "Subtly frames wearing markers as making one 'complete' and 'blessed,' implying those who don't are less so or not fully embracing their married identity, despite appearing to celebrate personal choice."
+    },
+    {
+      "id": "F15_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Saw actress XYZ on a red carpet without her mangalsutra or sindoor. She's married, right? What message is she sending to young girls? It's not about being 'modern', it's about respecting our culture and showing pride in your marital status. #CulturalDignity #IndianValues",
+      "plausible_deniability": "cultural_pride_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly criticizes a public figure for not wearing marital markers, framing it as a disrespect to culture and a failure to show pride in one's marital status."
+    },
+    {
+      "id": "F15_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Wow, Meena, you've really settled into married life, haven't you? That bindi with the light sindoor looks so good on you, makes you look so 'poorn nari'. Pehle toh badi modern lagti thi.",
+      "plausible_deniability": "compliment_defense",
+      "label": "misogynistic",
+      "annotation_note": "Compliments based on the visible adoption of marital markers, implying a positive transformation ('settled,' 'poorn nari') from a previous 'modern' (implicitly less complete) state."
+    },
+    {
+      "id": "F15_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Rohan, tumhari wife ne abhi tak apna naam nahi badla? Hamare office mein toh sab ladies shaadi ke baad apne husband ka surname lagati hain. It's just a formality, you know, makes things simpler and shows respect for the family.",
+      "plausible_deniability": "tradition_defense",
+      "label": "misogynistic",
+      "annotation_note": "Direct pressure for a name change, framing it as a simple 'formality' and a sign of 'respect' for the husband's family, implying that not doing so is disrespectful or complicates matters."
+    },
+    {
+      "id": "F15_023",
+      "scenario_type": "social_media",
+      "covertness": "N/A",
+      "speaker_gender": "woman",
+      "text": "My mom just showed me her old wedding photos, and I loved seeing her beautiful shankha-pola. It's such a lovely part of Bengali tradition, and I sometimes wear mine for special occasions too, purely for the aesthetic and cultural connection. No pressure, just appreciation!",
+      "plausible_deniability": "N/A",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses appreciation for traditional markers as an aesthetic and cultural connection without implying pressure, judgment, or linking it to completion/husband's welfare. Explicitly states 'no pressure.'"
+    },
+    {
+      "id": "F15_024",
+      "scenario_type": "reddit_quora",
+      "covertness": "N/A",
+      "speaker_gender": "man",
+      "text": "My wife and I had a long discussion about name change before marriage. She chose to hyphenate, and I totally respect her decision to keep her identity while also acknowledging our union. What's important is mutual respect, not archaic rules.",
+      "plausible_deniability": "N/A",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges and respects a woman's choice regarding name change, explicitly rejecting 'archaic rules' and emphasizing mutual respect over traditional expectations or pressure."
+    },
+    {
+      "id": "F15_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hey Priya, shaadi ke baad tum aur bhi suhagan lagti ho with the sindoor. So nice to see! Bahut shubh lag rahi ho.",
+      "plausible_deniability": "compliment",
+      "label": "misogynistic",
+      "annotation_note": "Compliments a woman for wearing sindoor post-marriage, linking it to an idealized 'suhagan' image and auspiciousness, implying completeness derived from this marker."
+    },
+    {
+      "id": "F15_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Ruchi, ab toh married ho, ek chhota sa mangalsutra toh pehen liya karo. Saubhagya ka symbol hai na. Mummy bhi bolti hai, kya hai isme? Pati ke liye accha hota hai.",
+      "plausible_deniability": "concern_for_wellbeing",
+      "label": "misogynistic",
+      "annotation_note": "A woman directly pressures another woman to wear a mangalsutra, explicitly linking it to auspiciousness ('saubhagya') and the husband's well-being, trivializing its role as a property marker."
+    },
+    {
+      "id": "F15_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "People who call name change identity erasure after marriage are missing the point. It's a beautiful tradition of embracing a new family, not losing yourself. My wife willingly changed hers, she felt more connected and part of 'us'. It's sanskriti ka hissa hai.",
+      "plausible_deniability": "cultural_pride",
+      "label": "misogynistic",
+      "annotation_note": "Minimizes the potential for identity erasure associated with name change, reframing it as a positive cultural tradition of belonging and connection, thereby normalizing a patriarchal practice."
+    },
+    {
+      "id": "F15_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "It baffles me how some modern women refuse to wear basic symbols like sindoor or shankha-pola. It's not about being 'owned'; it's our rich sanskriti, our identity as a Hindu wife. What's the point of a wedding if you won't even respect our parampara?",
+      "plausible_deniability": "cultural_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman openly criticizes other women for not adhering to traditional marital markers, framing it as disrespect for culture and 'Hindu wife' identity, thereby exerting social pressure."
+    },
+    {
+      "id": "F15_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A (Mother-in-law): \"Nisha, aaj puja mein tumhari maang khaali thi. Dekho, shaadi ke baad thoda sindoor toh lagana hi chahiye. Achha lagta hai, aur shubh bhi hota hai.\" \nSpeaker B (Daughter-in-law): \"Haan Mummy ji, subah jaldi thi toh reh gaya.\" \nSpeaker A: \"Koi nahi, agle baar se dhyaan rakhna. Poorn nari lagti ho usse aur pati ki lambi umar ke liye bhi toh hai.\"",
+      "plausible_deniability": "well_wishing",
+      "label": "misogynistic",
+      "annotation_note": "Mother-in-law subtly pressures daughter-in-law to wear sindoor, linking it to auspiciousness, completeness ('poorn nari'), and the husband's longevity, thereby reinforcing traditional expectations."
+    },
+    {
+      "id": "F15_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A (Friend): \"Yaar, Kavya ke husband ki tabiyat theek nahi rehti, aur woh na sindoor pehnti hai na mangalsutra. Pata nahi kyu.\" \nSpeaker B (Friend): \"Haan, I noticed. Aajkal ki ladkiyan na, in sab mein vishwas nahi karti. Lekin bade buzurgo ne toh soch ke hi banaya tha ye sab. Uska mangal ka symbol hai.\"",
+      "plausible_deniability": "concern_for_tradition",
+      "label": "misogynistic",
+      "annotation_note": "Friends speculate and judge a woman for not wearing marital markers, linking it implicitly to her husband's ill health and expressing disapproval of modern women who disregard tradition, implying negative consequences."
+    },
+    {
+      "id": "F15_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I LOVE wearing my mangalsutra & sindoor! It's MY choice and it makes me feel connected to my culture and husband. It’s not about patriarchy for me, it’s about feeling #blessed and #traditional. Don't judge women who choose to embrace their marital symbols! #IndianBride #Culture",
+      "plausible_deniability": "personal_choice_advocacy",
+      "label": "misogynistic",
+      "annotation_note": "A woman frames wearing marital markers as a personal feminist choice, subtly encouraging conformity by praising the 'blessed' feeling and implying that others should also choose to 'embrace' these symbols."
+    },
+    {
+      "id": "F15_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "I fully support women's choices, but sometimes I wonder if completely abandoning symbols like sindoor and mangalsutra is a step too far. It's part of our heritage, pati ki lambi umar ka prateek hai. Shouldn't we preserve some traditions? #CultureMatters #ModernTradition",
+      "plausible_deniability": "progressive_but_traditional",
+      "label": "misogynistic",
+      "annotation_note": "A speaker, while claiming to support choice, expresses concern and implicit disapproval about the complete abandonment of marital symbols, explicitly linking them to heritage and the husband's longevity."
+    },
+    {
+      "id": "F15_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "After her wedding, Sneha started wearing a simple mangalsutra and a small bindi; her colleague remarked, 'Sneha, shaadi ke baad you look so complete, ek alag hi glow aa gaya hai. Definitely suits you! Ab tum sobhagyabati lag rahi ho.'",
+      "plausible_deniability": "compliment",
+      "label": "misogynistic",
+      "annotation_note": "A colleague compliments a newly married woman, attributing a new sense of 'completeness' and a 'glow' to her wearing marital markers, subtly linking her identity to her marital status."
+    },
+    {
+      "id": "F15_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During a family dinner, Priya's aunt noticed she wasn't wearing her shankha-pola. She loudly commented, 'Priya, Beta, Bengali bahu ho tum, yeh shankha-pola kyu nahi pehna? Pati ke liye toh auspicious hota hai. Meri Nandini toh kabhi nahi utarti.'",
+      "plausible_deniability": "well_wishing_concern",
+      "label": "misogynistic",
+      "annotation_note": "A family member directly shames a married woman for not wearing specific regional marital markers, explicitly linking it to auspiciousness for her husband and comparing her unfavorably to another family member."
+    },
+    {
+      "id": "F15_035",
+      "scenario_type": "social_media",
+      "covertness": "not applicable",
+      "speaker_gender": "woman",
+      "text": "I personally love wearing my mangalsutra; it feels like a sweet reminder of my husband and our wedding day. It’s just a personal preference for me, not a rule I impose on anyone else. ❤️",
+      "plausible_deniability": "n/a",
+      "label": "non_misogynistic",
+      "annotation_note": "A woman expresses her personal enjoyment of wearing a mangalsutra as a sentimental reminder, explicitly stating it's a personal preference and not a rule for others, avoiding judgment or pressure."
+    },
+    {
+      "id": "F15_036",
+      "scenario_type": "reddit_quora",
+      "covertness": "not applicable",
+      "speaker_gender": "man",
+      "text": "In many parts of India, especially in traditional Hindu families, married women often wear sindoor and mangalsutra as visible symbols of their marital status. This practice has deep cultural and historical roots.",
+      "plausible_deniability": "n/a",
+      "label": "non_misogynistic",
+      "annotation_note": "A neutral, descriptive statement about a cultural practice, outlining its prevalence and historical context without implying obligation, judgment, or linking it to a woman's inherent 'completeness' or value."
+    }
+  ]
+}

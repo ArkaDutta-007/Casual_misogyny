@@ -1,0 +1,372 @@
+{
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "misogyny_type": [
+    "Benevolent Sexism",
+    "Internalized Misogyny",
+    "Pedestalization"
+  ],
+  "covertness_level": "very high — may be the hardest to flag",
+  "examples": [
+    {
+      "id": "F14_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Aaj kal sab kuch instant ho gaya, but maa ke haath ke dal-chawal ki woh baat kahan ❤️ She cooked fresh every single day, never complained, bas family ko khilane mein hi khushi milti thi. Isi mein toh ghar ka asli pyaar hota hai.",
+      "plausible_deniability": "nostalgia_appreciation",
+      "label": "misogynistic",
+      "annotation_note": "Romanticizes a mother's daily unpaid cooking and self-sacrifice as the essence of love, erasing it as labor and presenting it as ideal womanly devotion."
+    },
+    {
+      "id": "F14_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Forward this to every bahu: ghar tabhi ghar lagta hai jab kitchen se maa jaisa pyaar aaye. Meri saas kehti hain, jo ladki apne haath se garam phulka na bana sake, woh family ko jod kaise payegi? Ready food se sirf pet bharta hai, rishta nahi.",
+      "plausible_deniability": "family_values",
+      "label": "misogynistic",
+      "annotation_note": "Directly sets a domestic cooking standard for daughters-in-law and ties a woman's value in family relationships to her kitchen labor."
+    },
+    {
+      "id": "F14_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I don't think it's wrong to say that many of us miss our mother's cooking after marriage. It's not about controlling anyone; it's just that our mothers put a different kind of care into everyday meals. She literally built the family routine around feeding everyone first, and that warmth is hard to replicate outside the home.",
+      "plausible_deniability": "not_controlling_anyone",
+      "label": "misogynistic",
+      "annotation_note": "Frames a mother's identity and family role around feeding others, treating domestic labor as natural feminine care and implying other women should replicate it."
+    },
+    {
+      "id": "F14_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People may call it old-fashioned, but compatibility in marriage absolutely includes whether a woman can maintain a home the way our mothers did. My mother managed office guests, festivals, tiffins, and fresh food without making it look like work. If someone wants only Swiggy and shortcuts, she may be a nice person, but she won't create the same family culture.",
+      "plausible_deniability": "practical_marriage_preference",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly evaluates women as marriage partners based on their ability to reproduce maternal domestic service, while praising invisibilized labor as ideal."
+    },
+    {
+      "id": "F14_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Pujo te caterer rakh lete hain na this year?\nSpeaker B: Caterer theek hai, but maa-er ranna er moto onek bhalobasha thake. Ma used to make everything herself, from narkel naru to luchi, and that's why the festival felt complete.",
+      "plausible_deniability": "cultural_sentiment",
+      "label": "misogynistic",
+      "annotation_note": "Associates an ideal festival and maternal love with a woman's personal kitchen labor, normalizing the expectation that women make celebrations through unpaid cooking."
+    },
+    {
+      "id": "F14_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Bhai, how's married life?\nSpeaker B: Sab theek hai, bas ek cheez hai—meri maa subah se sab ke liye fresh bana deti thi, kabhi hisaab nahi rakha. Rhea achhi hai, but thoda ghar sambhalna aur cooking mein interest le toh maa wali warmth aa jayegi.",
+      "plausible_deniability": "harmless_comparison",
+      "label": "misogynistic",
+      "annotation_note": "Compares wife unfavorably to mother on domestic service and presents reproducing maternal labor as necessary for proper warmth in married life."
+    },
+    {
+      "id": "F14_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "No 5-star meal can beat maa ke haath ki simple roti-sabzi. She gave her whole life to making sure everyone ate first and never once asked for credit. That's why mothers are divine. #Maa #HomeFood #Blessed",
+      "plausible_deniability": "gratitude_post",
+      "label": "misogynistic",
+      "annotation_note": "Glorifies a mother's self-erasure and unpaid feeding labor as what makes her sacred, reinforcing sacrificial domesticity as ideal femininity."
+    },
+    {
+      "id": "F14_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Unpopular opinion: before looking for chemistry, families should see if the girl values home food. A man raised on maa ke haath ka khana will obviously miss that care if his wife thinks Maggi is dinner. Love also means feeding your family properly. #JustSaying",
+      "plausible_deniability": "common_sense_take",
+      "label": "misogynistic",
+      "annotation_note": "Openly places the burden of proper family care on wives through cooking and uses the mother standard to judge other women."
+    },
+    {
+      "id": "F14_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office potluck, Rajiv said, 'Nothing here beats my mother's food—she spent her whole life making sure we never ate outside.' He laughed that his wife is still learning 'those family standards.'",
+      "plausible_deniability": "light_joking",
+      "label": "misogynistic",
+      "annotation_note": "Uses the mother's lifelong cooking as a gold standard and casually measures the wife against it, normalizing unequal domestic expectations."
+    },
+    {
+      "id": "F14_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During a family meeting about Diwali, the aunties said the new daughter-in-law should take charge of the sweets this year; 'tabhi pata chalega ghar sambhalna aata hai, warna sirf career se kya hota hai.'",
+      "plausible_deniability": "tradition_and_testing",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly ties a daughter-in-law's worth and competence to festival cooking, dismissing non-domestic achievements."
+    },
+    {
+      "id": "F14_011",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My mother's fish curry is deeply comforting because it carries memory, routine, and care from my childhood. I miss it now that I live in Pune, but I also realize how much time and effort she put into cooking for us every day. #MaaErRanna",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses nostalgia for a mother's cooking while explicitly recognizing it as labor and without generalizing it into an expectation for women."
+    },
+    {
+      "id": "F14_012",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Missing your mom's cooking after moving out is normal, but it's unfair to expect your wife or partner to replace that. 'Maa ke haath ka khana' is emotional memory, not a job description for women in the family. Couples should divide cooking based on time and preference, not gender.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "References the same cultural sentiment but rejects the gendered expectation and affirms cooking as shared labor rather than feminine duty."
+    },
+    {
+      "id": "F14_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Aaj office canteen ka khana kha ke bas ek hi baat yaad aayi - maa ke haath ke simple dal chawal mein jo sukoon tha, woh baat kahaan. Roz subah 5 baje uth ke sabke liye banati thi, kabhi count hi nahi kiya usne. Sach mein ghar ka taste aurat ke pyaar se hi aata hai ❤️",
+      "plausible_deniability": "nostalgic_appreciation",
+      "label": "misogynistic",
+      "annotation_note": "Romanticizes a mother's daily cooking and erases it as labor, ending with a gendered claim that a home's quality comes from a woman's loving domestic work."
+    },
+    {
+      "id": "F14_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Meri maa ne poori zindagi ghar ko diya, tab jaake ghar ghar lagta tha. Aajkal ki bahuein sab shortcut aur ready-made pe chalti hain, phir bolti hain family bond nahi hai. Maa ke haath ka khana hi asli sanskar hota hai.",
+      "plausible_deniability": "values_tradition",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly sets mothers and daughters-in-law against each other and frames domestic cooking as the marker of a good woman and family values."
+    },
+    {
+      "id": "F14_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "People dismiss it as 'just cooking,' but Indian mothers created the emotional center of the family through food. My mother worked all day at home and still made fresh rotis because she believed family should eat from her hands, not packets. Maybe that's why earlier homes felt warmer; there was a certain feminine dedication that held everyone together.",
+      "plausible_deniability": "cultural_observation",
+      "label": "misogynistic",
+      "annotation_note": "Treats women’s unpaid domestic work as natural feminine devotion and idealizes it as what makes a family, reinforcing gendered expectations without naming it as labor."
+    },
+    {
+      "id": "F14_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Unpopular opinion: if a wife cannot take interest in feeding her family properly, something important is missing. Our mothers managed full households and still made food with care; that's why men compare. It's not oppression to expect a daughter-in-law to maintain the standard that built the home in the first place.",
+      "plausible_deniability": "reasonable_expectation",
+      "label": "misogynistic",
+      "annotation_note": "Directly normalizes comparing wives and daughters-in-law to mothers on domestic service and defines proper womanhood through feeding the family."
+    },
+    {
+      "id": "F14_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Kavya ne bola dinner order kar lete hain because she's tired.\nSpeaker B: Haan thak jaati hogi, but pata hai na, maa-er ranna jaisi feeling tabhi aati hai jab ghar ki aurat khud dil se banaye. Meri ma used to do everything and never let us feel she was tired.",
+      "plausible_deniability": "sympathetic_but_standard_setting",
+      "label": "misogynistic",
+      "annotation_note": "Appears understanding but ultimately reinforces that the 'woman of the house' should personally cook lovingly despite exhaustion, using the mother as the benchmark."
+    },
+    {
+      "id": "F14_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: How's married life?\nSpeaker B: Sab theek hai, bas ek cheez hai - meri maa 10 log aa jayein toh bhi bina panic ke garam phulka khila deti thi. Nisha achhi hai, but ghar sambhalna aur rasoi mein woh touch abhi nahi aaya. Bahu ko thoda toh maa jaisa banna padta hai, tabhi ghar settle hota hai.",
+      "plausible_deniability": "family_harmony",
+      "label": "misogynistic",
+      "annotation_note": "Openly compares the wife to the mother and states that a daughter-in-law must become like the mother in domestic performance for the home to function."
+    },
+    {
+      "id": "F14_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "No 5-star meal can beat maa ke haath ki khichdi when you're sick. She gave her whole life to these small bowls of comfort and never asked for credit. That's why I still feel a home is complete only when someone like her is in the kitchen. #Mothers #Home",
+      "plausible_deniability": "tribute_post",
+      "label": "misogynistic",
+      "annotation_note": "Presents women’s self-sacrifice in the kitchen as the essence of home and completeness, idealizing unpaid domestic caregiving as women’s defining role."
+    },
+    {
+      "id": "F14_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Festival prep used to mean watching Ma and Dadi in the kitchen from 4 am, making everything by hand with love. Now one caterer and two apps later people say times have changed. Sorry but a woman who won't make the effort on special days can never recreate that warmth. #Tradition #MaaKeHaathKaKhana",
+      "plausible_deniability": "protecting_tradition",
+      "label": "misogynistic",
+      "annotation_note": "Clearly states that a woman who does not perform intensive festival cooking is deficient, tying feminine worth to domestic effort and tradition."
+    },
+    {
+      "id": "F14_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office potluck, Rajiv said his new wife had brought pasta, then laughed that at his house his mother would never let guests leave without hot rotis. He added, 'Different generation maybe, but meri maa toh ghar ko khane se jod ke rakhti thi.'",
+      "plausible_deniability": "casual_comparison",
+      "label": "misogynistic",
+      "annotation_note": "Uses a seemingly light comparison to position the mother’s domestic labor as the proper standard and subtly diminish the wife for not matching it."
+    },
+    {
+      "id": "F14_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During a family discussion about the new daughter-in-law working late, the mother-in-law said, 'Job apni jagah hai, but ghar ki pehchaan rasoi se hoti hai. Hamari generation ne sab chhod kar parivaar ko khilaya hai, thoda toh usse bhi seekhna chahiye.'",
+      "plausible_deniability": "elder_advice",
+      "label": "misogynistic",
+      "annotation_note": "Frames the daughter-in-law’s responsibility as learning kitchen-based self-sacrifice from older women, making domestic labor central to her identity and duty."
+    },
+    {
+      "id": "F14_023",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Kal mom ne video call pe sambar banana sikhaya and I got emotional. Maa ke haath ka taste obviously alag hota hai, but what I really admire is the patience and skill behind it. We should honestly thank our parents more and also not assume one person has to cook daily.",
+      "plausible_deniability": "appreciation_without_gender_role",
+      "label": "non_misogynistic",
+      "annotation_note": "Mentions 'maa ke haath ka taste' sentiment but explicitly recognizes cooking as skill and rejects the expectation that one person, implicitly the woman, must do it daily."
+    },
+    {
+      "id": "F14_024",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Missing my mother's fish curry today. Nothing wrong with nostalgia, but let's stop pretending 'made with love' means women should do unpaid kitchen duty forever. Best way to honor maa is learning the recipe yourself and giving her a break. #ShareTheLoad",
+      "plausible_deniability": "explicit_rejection_of_norm",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar nostalgic theme, but it directly rejects the gendered expectation and affirms shared domestic labor."
+    },
+    {
+      "id": "F14_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Good morning ji 🙏 Maa ke haath ke simple dal-chawal mein jo sukoon hota hai na, woh 5-star food mein bhi kahan. Puri zindagi family ko khila diya, kabhi count hi nahi kiya. Aaj kal sab shortcut chahte hain, tabhi ghar ka taste kho gaya.",
+      "plausible_deniability": "nostalgic_praise",
+      "label": "misogynistic",
+      "annotation_note": "Romanticizes the mother’s unpaid cooking and sacrifice as ideal love, while implying women who use convenience or do less domestic labor are deficient."
+    },
+    {
+      "id": "F14_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Sach bolun toh meri saas ne 4 bachche sambhale aur roz garam phulke banaye, kabhi complain nahi ki. Aaj ki bahuein agar thoda maaon se seekh lein toh ghar ghar jaisa lage. Maa banna sirf janam dena nahi, rasoi ka pyaar bhi hota hai.",
+      "plausible_deniability": "traditional_values",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly sets mothers and daughters-in-law against an ideal of tireless cooking, defining motherhood and womanhood through kitchen labor."
+    },
+    {
+      "id": "F14_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "People call it 'just cooking', but anyone who has lived away from home knows maa ke haath ka khana is an emotion. My mother worked nonstop and still made fresh rotis because that is how she showed love. Maybe that's why many men feel disconnected when marriage becomes too convenience-oriented with instant food and ordering in.",
+      "plausible_deniability": "personal_experience",
+      "label": "misogynistic",
+      "annotation_note": "Frames maternal cooking as the authentic form of love and subtly criticizes wives who do not reproduce that labor, while erasing it as expected care rather than work."
+    },
+    {
+      "id": "F14_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Unpopular opinion: a home feels complete only when the woman of the house takes interest in feeding the family herself. Our mothers sacrificed their whole routine for this, so expecting a wife to at least maintain basic home-cooked standards is not oppression. If every meal is Maggi or Swiggy, what is the difference between a home and a hostel?",
+      "plausible_deniability": "common_sense_claim",
+      "label": "misogynistic",
+      "annotation_note": "Directly places responsibility for home and caregiving on women, using mothers’ sacrifices to justify expectations of wives’ domestic labor."
+    },
+    {
+      "id": "F14_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Yaar, Nidhi cooks only on weekends, weekdays mostly quick stuff.\nSpeaker B: Haan, times have changed, but meri maa office se aake bhi sabke liye alag-alag bana deti thi. Woh baat hi alag hoti hai when a woman feeds the family from the heart.",
+      "plausible_deniability": "casual_comparison",
+      "label": "misogynistic",
+      "annotation_note": "Uses the mother as an ideal benchmark and implies a woman proves care through cooking, even if both work."
+    },
+    {
+      "id": "F14_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Bengali New Year pe bahar se order kar lete hain kya?\nSpeaker B: Arre na re, maa-er ranna ka din hai woh. Bouma ko thoda seekhna chahiye, festival ka asli maan tabhi hota hai jab ghar ki aurat khud mehnat se sab banaye.",
+      "plausible_deniability": "culture_preservation",
+      "label": "misogynistic",
+      "annotation_note": "Assigns festival cooking as an essential female duty and expects the daughter-in-law to uphold that unpaid labor as tradition."
+    },
+    {
+      "id": "F14_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "No Michelin star can match maa ke haath ki kadhi-chawal. She gave her whole life to tiny details we noticed only after moving out. Some women build careers, some build homes with their hands every single day. ❤️",
+      "plausible_deniability": "tribute_post",
+      "label": "misogynistic",
+      "annotation_note": "Appears appreciative, but pedestalizes domestic sacrifice as women’s defining contribution and contrasts it with other life paths."
+    },
+    {
+      "id": "F14_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Hot take: before demanding 'equal partnership', learn from our mothers who never made feeding the family feel like a burden. A wife who can't make a simple fresh meal but can post reels all day has missed the meaning of home. #MaaKeHaathKaKhana #RealLove",
+      "plausible_deniability": "moral_judgment",
+      "label": "misogynistic",
+      "annotation_note": "Openly weaponizes mothers’ unpaid labor to judge wives and define a good woman by cooking and service."
+    },
+    {
+      "id": "F14_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At lunch in the office, Rakesh says, 'My wife cooks fine, but meri maa ke haath ki roti jaisi softness kisi mein nahi. Mom never let us leave hungry, no matter how tired she was.'",
+      "plausible_deniability": "harmless_comparison",
+      "label": "misogynistic",
+      "annotation_note": "Makes the mother’s self-sacrificing cooking the standard and implicitly measures the wife against it."
+    },
+    {
+      "id": "F14_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During a family dinner, an aunt tells the new bride, 'Beta, job apni jagah hai, but ghar ka taste bahu ke haath se hi aata hai. Humari generation ne sab chhodkar parivaar ko khilaya, tabhi ghar tikte the.'",
+      "plausible_deniability": "elder_advice",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly pressures the daughter-in-law to prioritize domestic labor and frames women’s sacrifice in the kitchen as what sustains a family."
+    },
+    {
+      "id": "F14_035",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Missing maa ke haath ka rajma after months away from Delhi. Nobody can recreate that exact taste because it's tied to childhood, memory, and home. Grateful for everything parents do.",
+      "plausible_deniability": "personal_nostalgia",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses nostalgia for a mother’s cooking without generalizing women’s role, setting standards for wives, or glorifying unpaid sacrifice as female duty."
+    },
+    {
+      "id": "F14_036",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "There is nothing wrong with missing 'maa ke haath ka khana', but we should stop treating it as proof that women must cook out of love. My mother cooked because there was no support, and that labor deserves recognition, not romanticization. In my home, everyone should know how to make dinner.",
+      "plausible_deniability": "explicit_rejection",
+      "label": "non_misogynistic",
+      "annotation_note": "Directly challenges the gendered expectation and recognizes cooking as labor rather than an essential feminine expression."
+    }
+  ]
+}

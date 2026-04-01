@@ -1,0 +1,372 @@
+{
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "misogyny_type": [
+    "Hostile Sexism",
+    "Dominative Paternalism",
+    "Objectification"
+  ],
+  "covertness_level": "medium — normalized as chivalry/respect",
+  "examples": [
+    {
+      "id": "F06_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Arre yaar, pehle toh bas ignore kar rahi thi so I kept trying. Kal pata chala she is taken hai, toh I stopped. Ladkiyon ka no kabhi kabhi mood hota hai, but if she's with someone then obviously respect karna chahiye.",
+      "plausible_deniability": "respect_for_relationships",
+      "label": "misogynistic",
+      "annotation_note": "He dismisses the woman's own rejection as negotiable but treats her relationship with a man as the real boundary."
+    },
+    {
+      "id": "F06_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Usne no bola toh kya, attitude bhi toh hota hai. Seedha bol deti single hai ya nahi. Agar kisi ki hai toh piche nahi padta, warna try karne mein kya problem?",
+      "plausible_deniability": "dating_persistence_norms",
+      "label": "misogynistic",
+      "annotation_note": "He explicitly treats a woman's refusal as less meaningful than whether she 'belongs' to another man."
+    },
+    {
+      "id": "F06_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Personally I don't think there is anything wrong in asking if a woman has a boyfriend before backing off. Many girls say no very casually, but if she is already committed then a decent man should respect that and move away. It's not about disrespecting her, it's about respecting boundaries properly.",
+      "plausible_deniability": "proper_boundaries_argument",
+      "label": "misogynistic",
+      "annotation_note": "The argument frames another man's relationship as the proper boundary while minimizing the woman's own stated boundary."
+    },
+    {
+      "id": "F06_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "When I said I wasn't interested, he kept debating and asking me to just give him one chance. The moment my male colleague walked over and said 'she's with us,' his whole tone changed and he apologized to him, not to me. Men like this don't hear women, they only hear other men's claim.",
+      "plausible_deniability": "personal_experience",
+      "label": "misogynistic",
+      "annotation_note": "This describes the frame from the target's perspective: her refusal was ignored until male affiliation appeared."
+    },
+    {
+      "id": "F06_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Bhai she told me no, but I thought maybe she's just being reserved.\nSpeaker B: Then why did you stop messaging?\nSpeaker A: Arre because later I found out uske saath koi hai. If she's taken, I respect that. Otherwise at least ask properly once or twice.",
+      "plausible_deniability": "traditional_courtship",
+      "label": "misogynistic",
+      "annotation_note": "He rationalizes ignoring her refusal but stopping once another man is involved, prioritizing male claim over her consent."
+    },
+    {
+      "id": "F06_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: I told him three times I don't want to talk.\nSpeaker B: Then?\nSpeaker A: He kept saying, 'Why are you so unfriendly, just tell me if you have a boyfriend.' Like my no wasn't enough unless some guy existed behind me.",
+      "plausible_deniability": "retelling_incident",
+      "label": "misogynistic",
+      "annotation_note": "The harassment hinges on requiring male ownership as the acceptable reason for disengagement, not her own refusal."
+    },
+    {
+      "id": "F06_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Unpopular opinion: approaching a girl isn't disrespectful. If she says no, fine, but first clear hona chahiye if she's single or taken. Agar taken hai toh obviously bhai ko respect dena padega.",
+      "plausible_deniability": "unpopular_opinion_framing",
+      "label": "misogynistic",
+      "annotation_note": "He presents it as respectful, but centers respect on the boyfriend rather than the woman's own no."
+    },
+    {
+      "id": "F06_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Girls act pricey for no reason. If she's single, I can still try; if kisi ki hai, then leave it. Otherwise this 'not interested' attitude is just drama.",
+      "plausible_deniability": "frustration_with_dating",
+      "label": "misogynistic",
+      "annotation_note": "He openly dismisses women's disinterest as attitude/drama and only accepts another man's prior claim."
+    },
+    {
+      "id": "F06_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office party, Rakesh kept insisting on dropping Neha home even after she declined. He stopped only when someone mentioned her husband was coming, and later said, 'I was just being nice, yaar, married hai toh different matter.'",
+      "plausible_deniability": "chivalry_defense",
+      "label": "misogynistic",
+      "annotation_note": "The man's 'niceness' continues past her refusal but ends when her marital attachment to a man is revealed."
+    },
+    {
+      "id": "F06_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "For a rishta, the decent way is to speak to the girl's father first. Ladki ko directly poochne ka kya point, ghar mein baap-bhai hain toh unhi se permission leni chahiye.",
+      "plausible_deniability": "tradition_respect",
+      "label": "misogynistic",
+      "annotation_note": "He explicitly places male family permission above the woman's own direct consent."
+    },
+    {
+      "id": "F06_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I stop talking to someone immediately if they say they're not interested, whether they're single or committed. Relationship status is irrelevant once a person has clearly refused.",
+      "plausible_deniability": "boundary_principle",
+      "label": "non_misogynistic",
+      "annotation_note": "This explicitly respects the individual's refusal regardless of ownership or relationship status."
+    },
+    {
+      "id": "F06_012",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Asking 'are you single?' before flirting isn't the issue. The issue is not accepting no after that. If she says no, bas no means no, taken or not.",
+      "plausible_deniability": "consent_clarification",
+      "label": "non_misogynistic",
+      "annotation_note": "Although it mentions relationship status, it affirms that the woman's rejection is sufficient and final."
+    },
+    {
+      "id": "F06_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Aman: Arre yaar she kept saying not interested, I thought normal attitude hai. Then pata chala taken hai, so I stopped. Kisi aur ki hai toh line maarna theek nahi lagta.",
+      "plausible_deniability": "respect_defense",
+      "label": "misogynistic",
+      "annotation_note": "He dismisses her direct refusal as negotiable but stops only after learning she belongs to another man."
+    },
+    {
+      "id": "F06_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Rohit: Pehle no bol rahi thi toh kya, try toh karunga na. Boyfriend hai bola tab bola theek hai, bhai ko respect. Warna itna attitude kis baat ka?",
+      "plausible_deniability": "boys_will_be_boys",
+      "label": "misogynistic",
+      "annotation_note": "He explicitly treats her no as unimportant and respects only the male partner's claim."
+    },
+    {
+      "id": "F06_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I don't think asking 'do you have a boyfriend?' is wrong. Many girls say no indirectly just to avoid awkwardness, so clarity matters. If she is with someone, obviously I back off out of respect; if not, one rejection doesn't always mean you should stop talking.",
+      "plausible_deniability": "practicality_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames a woman's rejection as unclear while treating her relationship status as the real boundary."
+    },
+    {
+      "id": "F06_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "In college, guys ignored me when I said I wasn't interested, but the moment my male friend said 'she's with us' they backed off. Later one of them even told me, 'If you had just said you were taken, it would've been simpler.' Apparently my own answer was less valid than attaching me to some guy.",
+      "plausible_deniability": "experience_report",
+      "label": "misogynistic",
+      "annotation_note": "Describes men respecting male association over her own refusal, illustrating the frame from a woman's perspective."
+    },
+    {
+      "id": "F06_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Bro, she said no but I asked once more only because sometimes girls are reserved.\nSpeaker B: Then why did you leave?\nSpeaker A: Her friend said she's already with someone. Bas, then I said okay, respect.",
+      "plausible_deniability": "courting_norms",
+      "label": "misogynistic",
+      "annotation_note": "He rationalizes ignoring her no but immediately accepts another man's implied claim."
+    },
+    {
+      "id": "F06_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: I told him three times I wasn't interested.\nSpeaker B: Then?\nSpeaker A: He kept smiling and asking where I stay, but when my cousin brother came, he said 'sorry bhai, pata nahi tha' and walked off.",
+      "plausible_deniability": "experience_report",
+      "label": "misogynistic",
+      "annotation_note": "The harasser ignores the woman's repeated refusal and apologizes only to the male relative."
+    },
+    {
+      "id": "F06_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Not every guy asking 'is she single?' is problematic. Some of us just don't want to interfere if she's already committed. That's basic respect. But if she's single, acting cold for no reason is unnecessary too.",
+      "plausible_deniability": "respectability_claim",
+      "label": "misogynistic",
+      "annotation_note": "Presents male commitment as the main reason to stop, while framing a woman's disinterest as mere coldness."
+    },
+    {
+      "id": "F06_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Funny how some girls say 'not interested' like that ends the conversation. If you're taken, say that clearly and any decent guy will step back. Otherwise why so unfriendly? Not even that special to show this much attitude.",
+      "plausible_deniability": "frustration_defense",
+      "label": "misogynistic",
+      "annotation_note": "He states that her personal refusal is insufficient unless backed by another man's claim, then insults her for asserting boundaries."
+    },
+    {
+      "id": "F06_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "For a serious rishta, it's more respectful to speak to the girl's father first. Girls can be confused in these matters, but if the family agrees then at least you know you're proceeding properly.",
+      "plausible_deniability": "tradition_defense",
+      "label": "misogynistic",
+      "annotation_note": "Positions male/family permission as more legitimate than the woman's own consent."
+    },
+    {
+      "id": "F06_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "At work I told a client I don't share my personal number, and he laughed it off. When my manager mentioned I'm married, he immediately said, 'Oh, sorry, I didn't know,' as if my no mattered less than a husband's existence.",
+      "plausible_deniability": "experience_report",
+      "label": "misogynistic",
+      "annotation_note": "Shows direct refusal being ignored until the woman is marked as belonging to a man."
+    },
+    {
+      "id": "F06_023",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "If someone says no, the respectful thing is to stop there. Relationship status is irrelevant; a woman doesn't need to cite a boyfriend, brother, or husband to have her boundary taken seriously.",
+      "plausible_deniability": "boundary_assertion",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar topic, but explicitly rejects the ownership logic and centers the woman's own consent."
+    },
+    {
+      "id": "F06_024",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Nikhil: I asked if she was single only to know if approaching was appropriate. The moment she said she's not interested, I said okay and left. Boyfriend ho ya na ho, no means no.",
+      "plausible_deniability": "clarification",
+      "label": "non_misogynistic",
+      "annotation_note": "Mentions relationship status but ultimately respects her refusal regardless, so it does not encode the target frame."
+    },
+    {
+      "id": "F06_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Arre yaar pehle toh bas thoda try kar raha tha, usne mana kiya toh laga attitude hai. Fir pata chala taken hai, toh obviously back off kiya. Kisi aur ki hai toh respect karna chahiye.",
+      "plausible_deniability": "respect_defense",
+      "label": "misogynistic",
+      "annotation_note": "He dismisses her own refusal as attitude and only accepts rejection after learning she is attached to another man."
+    },
+    {
+      "id": "F06_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Seedha bolti single ho ya nahi. No-vagera se kya samjhu? Agar boyfriend hai toh bol, warna itna rude kyun ban rahi hai?",
+      "plausible_deniability": "just_clarifying_intent",
+      "label": "misogynistic",
+      "annotation_note": "He treats her no as insufficient and demands male relationship status before respecting rejection."
+    },
+    {
+      "id": "F06_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Personally, if a woman says she's not interested, I don't always know whether she's being polite or testing seriousness. But if I find out she already has a boyfriend, then I stop completely because I respect boundaries. In India especially, you shouldn't interfere when she's already with someone.",
+      "plausible_deniability": "cultural_respect",
+      "label": "misogynistic",
+      "annotation_note": "He frames her direct disinterest as ambiguous but treats a male partner's claim as the real boundary."
+    },
+    {
+      "id": "F06_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "A lot of men in my college only stopped bothering me after my male friend said, 'she's with us.' My own 'no' was apparently negotiable, but another guy's presence made them suddenly respectful.",
+      "plausible_deniability": "personal_experience",
+      "label": "misogynistic",
+      "annotation_note": "Describes harassment ceasing only when male association is visible, showing male ownership prioritized over her consent."
+    },
+    {
+      "id": "F06_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Bhai, usne mana kar diya but I thought maybe she was just being formal.\nSpeaker B: Fir?\nSpeaker A: Fir pata chala uske saath koi ladka hai. Bas phir side ho gaya, unnecessary scene kyu create karna. Respect dena chahiye.",
+      "plausible_deniability": "politeness_norm",
+      "label": "misogynistic",
+      "annotation_note": "He ignored her refusal as mere formality and only withdrew after confirming another man's involvement."
+    },
+    {
+      "id": "F06_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: I told him twice I'm not interested.\nSpeaker B: Then he left?\nSpeaker A: Nahi, he kept smiling and asking if I have a boyfriend. When my brother came to pick me up, tab instantly 'sorry bhabhi type' respect aa gaya.",
+      "plausible_deniability": "personal_experience",
+      "label": "misogynistic",
+      "annotation_note": "The man disregards her direct rejection and only stops once a male relative appears."
+    },
+    {
+      "id": "F06_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "No issue approaching someone respectfully, but once I know she's taken hai I back off. I'm not that guy who goes after someone else's girl. #Respect",
+      "plausible_deniability": "gentleman_image",
+      "label": "misogynistic",
+      "annotation_note": "The post frames another man's claim as the decisive reason to stop, not the woman's own preference."
+    },
+    {
+      "id": "F06_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Girls say no and then expect you to read their mood. Simple question: taken ho ya not? If yes, I respect bhai. If no, then why so unfriendly and attitude dikhana?",
+      "plausible_deniability": "frustration_with_mixed_signals",
+      "label": "misogynistic",
+      "annotation_note": "He explicitly subordinates her no to whether she belongs to another man, and insults her for rejecting him while single."
+    },
+    {
+      "id": "F06_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Before taking the rishta ahead, I told my parents to first speak to her father properly. Ladki se directly poochne se better hai ghar walon ka consent clear ho, especially if someone is already in the picture.",
+      "plausible_deniability": "tradition_defense",
+      "label": "misogynistic",
+      "annotation_note": "He centers male/family permission over the woman's own direct consent in a marriage context."
+    },
+    {
+      "id": "F06_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "At work, I declined my colleague's dinner invite twice. He only stopped after asking another teammate, 'Is she seeing someone?' and then told me, 'You could have just said you're taken.'",
+      "plausible_deniability": "personal_experience",
+      "label": "misogynistic",
+      "annotation_note": "Her repeated refusal was ignored until male relationship status was confirmed, implying that is the legitimate barrier."
+    },
+    {
+      "id": "F06_035",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I usually ask early if someone is single because I don't want to create awkwardness or disrespect an existing relationship. If she says she's not interested, I leave it there too. Knowing relationship status just helps me avoid crossing lines.",
+      "plausible_deniability": "boundary_awareness",
+      "label": "non_misogynistic",
+      "annotation_note": "This mentions relationship status but also clearly states that her own lack of interest is sufficient and respected."
+    },
+    {
+      "id": "F06_036",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: That guy kept messaging you, right?\nSpeaker B: Haan, but when I said I'm not interested, he apologized and stopped. He never asked if I had a boyfriend or anything, which was honestly refreshing.",
+      "plausible_deniability": "personal_experience",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar dating context, but the man respects her direct refusal without requiring male ownership."
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "misogyny_type": [
+    "Benevolent Sexism",
+    "Protective Paternalism",
+    "Pedestalization"
+  ],
+  "covertness_level": "very high",
+  "examples": [
+    {
+      "id": "F11_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bhai, have some patience with Shalini. She's a senior, plus she's a mother of two young kids handling everything. Have some basic respect for her dedication, it's not easy.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Respect for a colleague is framed as being due to her status as a mother and her domestic sacrifices, not just her professional seniority or individual merit."
+    },
+    {
+      "id": "F11_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Gaali galoch mat kar yaar. Koi bhi ladki ho, she's kisi ki beti, kisi ki behen. Apni maa behen ki izzat karte ho na, waisi hi sabki karni chahiye.",
+      "plausible_deniability": "moral_guidance",
+      "label": "misogynistic",
+      "annotation_note": "Directly links a woman's worth and the reason for respecting her to her relational identity (daughter, sister) and by extension, the male kin she serves, rather than her inherent human dignity."
+    },
+    {
+      "id": "F11_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "The true strength of our Nari Shakti in policymaking lies in their inherent empathy and nurturing spirit. When a woman speaks about a budget or a new scheme, it often comes from a 'mother's heart,' understanding the real needs of families and children. This unique perspective is invaluable.",
+      "plausible_deniability": "praise_for_unique_qualities",
+      "label": "misogynistic",
+      "annotation_note": "Praises women's professional contributions (policymaking) by attributing their value to their perceived 'motherly' qualities and their capacity to understand family needs, rather than their intellect or policy expertise as individuals."
+    },
+    {
+      "id": "F11_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Why do people struggle to show basic respect towards women these days? It's simple: every woman you encounter is someone's daughter, sister, or mother. Imagining your own family in their place makes it easier to extend dignity. It's about upholding our cultural values.",
+      "plausible_deniability": "upholding_tradition",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly bases the reason for respecting women on their relational identity to men (daughter, sister, mother) and invokes cultural values, rather than recognizing their individual personhood."
+    },
+    {
+      "id": "F11_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: I was so impressed with Maya's project proposal. It was so well thought out and comprehensive.\nSpeaker B: Oh, absolutely! She has a mother's instinct, you know? That deep-seated care to nurture things to perfection. That's why her work always shines.",
+      "plausible_deniability": "compliment_on_dedication",
+      "label": "misogynistic",
+      "annotation_note": "A woman's professional excellence (well thought-out proposal) is attributed to a 'mother's instinct' and 'nurturing care,' implying her professional competence stems from her perceived maternal qualities."
+    },
+    {
+      "id": "F11_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: The way some people talk to women, it's just unacceptable.\nSpeaker B: Exactly! They need to remember ki ladkiyan koi khilona nahi hoti. Teri bhi maa hai, behen hai. Soch! Unki izzat karna seekho, wahi hamara sanskaar hai.",
+      "plausible_deniability": "moral_guidance",
+      "label": "misogynistic",
+      "annotation_note": "Calls for respect for women by explicitly referencing one's own mother and sister, conditioning respect on familial relation rather than universal human dignity, and framing it as 'sanskaar' (cultural values)."
+    },
+    {
+      "id": "F11_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Proud to celebrate my amazing friend, Riya! She's a brilliant architect, but even more inspiring is how beautifully she manages her home and raises her two kids. Her dedication to family is truly commendable! ✨ #Supermom #WomenWhoDoItAll #FamilyFirst",
+      "plausible_deniability": "praise_for_work_life_balance",
+      "label": "misogynistic",
+      "annotation_note": "While praising professional achievement, the post places 'even more inspiring' emphasis on her domestic roles and 'dedication to family,' defining her worth and 'super' status through these traditional expectations."
+    },
+    {
+      "id": "F11_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Let's instill real values in our boys. Teach them to respect every woman because she is someone's daughter, wife, or mother. Our mothers taught us this, let's pass it on. #RespectWomen #IndianCulture #MaaKiIzzat",
+      "plausible_deniability": "upholding_tradition",
+      "label": "misogynistic",
+      "annotation_note": "Openly advocates for respecting women solely because of their relational identity to men (daughter, wife, mother), positioning this as a core 'Indian Culture' and 'Maa Ki Izzat' value."
+    },
+    {
+      "id": "F11_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Priya, this entire project, you've nurtured it like your own child. That's why it has grown so beautifully and become such a success. Your dedication is truly unparalleled.",
+      "plausible_deniability": "compliment_on_dedication",
+      "label": "misogynistic",
+      "annotation_note": "Praises a woman's professional dedication and success by framing it in terms of maternal nurturing, likening her project to a 'child' she has 'nurtured,' thereby implicitly linking her professional worth to a maternal identity."
+    },
+    {
+      "id": "F11_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "While we encourage our female employees to strive for leadership, let's not forget the paramount role they play in their families. A woman's greatest contribution is often seen in how she nurtures her home and raises her children to be responsible citizens.",
+      "plausible_deniability": "encouraging_traditional_values",
+      "label": "misogynistic",
+      "annotation_note": "Acknowledges professional aspiration but immediately subordinates it to a woman's 'paramount role' in the family, defining her 'greatest contribution' through her domestic and maternal duties."
+    },
+    {
+      "id": "F11_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "My mother worked incredibly hard, juggling two jobs to put me through college. I have immense respect for her sacrifices and determination. She's my hero.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses genuine personal respect and admiration for an individual woman's specific sacrifices and hard work, not generalizing or making her worth conditional on her relational identity, but acknowledging her as an individual hero."
+    },
+    {
+      "id": "F11_012",
+      "scenario_type": "social_media",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "Let's raise our daughters to be strong, independent thinkers who can achieve anything they set their minds to, regardless of societal expectations. #EmpowerGirls #FutureLeaders",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Advocates for girls' empowerment and individual achievement based on their own capabilities and desires, without linking their worth or purpose to male relations or traditional domestic roles."
+    },
+    {
+      "id": "F11_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Rhea's cooking is just next level, yaar! Makes me miss mom's food so much. She really knows how to nurture her family through food. Lucky husband she has!",
+      "plausible_deniability": "compliment_defense",
+      "label": "misogynistic",
+      "annotation_note": "Praises a woman primarily for her domestic role (cooking, nurturing family) and defines her worth through her capacity as a wife, implying this is her main source of value."
+    },
+    {
+      "id": "F11_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Bhai, gussa mat karo uspe. She is someone's daughter, kisi ki behen hai woh. Please, respect her. That's how we've been taught.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly bases the call for respect on the woman's relational identity (daughter, sister) rather than her inherent worth as an individual, suggesting respect is conditional on these roles."
+    },
+    {
+      "id": "F11_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "The true strength of our society isn't just economic growth, but the steadfastness of our family units. And who is the bedrock of these families? It's our women – the mothers, the wives – whose tireless sacrifices ensure our culture and values thrive. To empower them means fortifying the very soul of India.",
+      "plausible_deniability": "traditional_values_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames women's empowerment not as individual agency but as a means to strengthen traditional family structures and cultural values, thereby defining their primary worth by these roles ('bedrock of families', 'mothers, wives')."
+    },
+    {
+      "id": "F11_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Instead of blindly copying Western feminism, our focus on women's safety campaigns should be deeply rooted in our traditions. When every man learns to look at a woman as his own mother or sister, respecting her as such, then and only then will our daughters feel truly safe in this nation.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Proposes a conditional framework for women's safety, requiring men to view women through familial relationships ('mother or sister') rather than acknowledging their inherent right to safety as independent individuals."
+    },
+    {
+      "id": "F11_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: I just got promoted at work! All those extra hours finally paid off.\nSpeaker B: Oh, that’s nice, dear. But believe me, nothing compares to the real joy and sacrifices you make when you become a mother. That's where you'll find true fulfillment, trust me.",
+      "plausible_deniability": "traditional_values_defense",
+      "label": "misogynistic",
+      "annotation_note": "Devalues the woman's individual professional achievement by suggesting that her 'true fulfillment' and 'real sacrifices' will only come through motherhood, implying her ultimate worth is tied to this role."
+    },
+    {
+      "id": "F11_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: I was so impressed with Anjali's presentation today, she's really sharp.\nSpeaker B: Oh, definitely! And the best part is, she’s from such a respectable family, 'izzatdar ghar ki bahu' of the Singhania's. That's why she carries herself with so much grace and poise.",
+      "plausible_deniability": "traditional_values_defense",
+      "label": "misogynistic",
+      "annotation_note": "Connects the woman's professional competence and demeanor directly to her marital status and her husband's family reputation ('izzatdar ghar ki bahu'), implying her respectability and positive attributes are derived from this relational identity."
+    },
+    {
+      "id": "F11_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "So proud to see Indian women excelling everywhere! From raising families with such dedication to breaking glass ceilings in their careers, they truly are the anchors of our homes AND our nation. #NariShakti #ProudIndianWomen",
+      "plausible_deniability": "compliment_defense",
+      "label": "misogynistic",
+      "annotation_note": "While appearing to praise women's achievements, it subtly frames their worth primarily around their roles as 'anchors of our homes' and 'raising families,' linking their value to their service within family structures and to the nation."
+    },
+    {
+      "id": "F11_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Let's commit to ending violence against women. Remember, every woman is someone's daughter, someone's sister, someone's mother. We must protect these invaluable relationships that form the core of our society! #RespectWomen #FamilyFirst",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Justifies the protection and respect for women by appealing to their relational identities (daughter, sister, mother), implying their worth and right to safety are tied to these roles within male kin structures."
+    },
+    {
+      "id": "F11_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "When Mrs. Kapoor presented her views on the school's new nutrition policy, her arguments were exceptionally persuasive. You could really feel the conviction, a mother's concern for the well-being of all children.",
+      "plausible_deniability": "compliment_defense",
+      "label": "misogynistic",
+      "annotation_note": "Validates the woman's opinion and persuasiveness by attributing it to her identity as a 'mother' rather than her individual professional expertise or personal conviction, suggesting her authority stems from this relational role."
+    },
+    {
+      "id": "F11_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Ever since Payal joined our team, her husband Amit has been beaming. He told me she's not just his wife, she's his strength, his anchor, truly his whole world. It's wonderful to see such devotion.",
+      "plausible_deniability": "compliment_defense",
+      "label": "misogynistic",
+      "annotation_note": "Defines the woman's worth and impact predominantly through her husband's perspective and her role in his life ('his strength, his anchor, his whole world'), effectively erasing her individual identity and achievements."
+    },
+    {
+      "id": "F11_023",
+      "scenario_type": "near_miss",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "Dr. Meena Singh is an amazing surgeon, leading complex operations every day. And she also somehow manages to be a super mom to two energetic kids. Her dedication is truly inspiring.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges and praises a woman's individual professional achievement (amazing surgeon) and also her relational role (super mom) without making one conditional on the other or defining her worth primarily by her family role. It's about 'and also', not 'because of'."
+    },
+    {
+      "id": "F11_024",
+      "scenario_type": "near_miss",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "We need to work towards a society where every individual feels safe and respected. Imagine if it were your own sister or mother facing injustice – we'd all want the same dignity and protection for them. This is about universal human rights.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Uses relational framing ('sister or mother') as a rhetorical device to evoke empathy and illustrate a universal principle (human rights, dignity, safety for *every individual*), rather than making respect or safety conditional on being someone's kin."
+    },
+    {
+      "id": "F11_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, I sometimes feel we forget to give women their due. Always remember, they're someone's maa or behen. Respect them, always.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Framing respect for women based on their relational roles (mother/sister) rather than their inherent individual worth, implying their value is derived from service to male kin."
+    },
+    {
+      "id": "F11_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Parking mein kisi lady se argue mat karo bhai. Socho, tumhari apni maa/behen ko koi aise bole toh kaisa lagega? Behtar hai shanti se baat karo.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly using the projection of familial female relations (mother/sister) as the basis for showing respect to unrelated women, rather than respecting them as individuals on their own merit."
+    },
+    {
+      "id": "F11_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "It's truly incredible how Indian women manage to juggle demanding careers and still maintain a strong home. The sacrifices they make for their families, ensuring everyone is looked after, while also excelling professionally, are a testament to their unparalleled strength. It's what makes our culture so rich.",
+      "plausible_deniability": "praise_justification",
+      "label": "misogynistic",
+      "annotation_note": "Praises women's 'strength' by highlighting their sacrifices and ability to balance traditional domestic roles with professional life, implicitly valorizing their adherence to these roles as the primary source of their worth and cultural contribution."
+    },
+    {
+      "id": "F11_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "A society's true moral compass is seen in how it honors its mothers. It's the sacred duty of every man to ensure the safety and dignity of the women who raise our future generations. Their nurturing spirit is the foundation of our civilization.",
+      "plausible_deniability": "praise_justification",
+      "label": "misogynistic",
+      "annotation_note": "Defines women's primary societal value and the basis for their honor through their role as mothers and nurturers, tying national progress to their reproductive and caregiving functions rather than their individual personhood."
+    },
+    {
+      "id": "F11_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: \"Nisha's presentation today was outstanding. She totally owned that room.\"\nSpeaker B: \"Absolutely, she's very sharp. And you know, she's a mother of two young kids. To manage all that and still deliver such quality work, that's truly commendable. Hats off to her.\"",
+      "plausible_deniability": "praise_justification",
+      "label": "misogynistic",
+      "annotation_note": "While praising her professional achievement, Speaker B immediately links her exceptional performance to her role as a mother, suggesting her achievements are more praiseworthy because she also fulfills traditional domestic roles, rather than valuing her individual merit inherently."
+    },
+    {
+      "id": "F11_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: \"Mrs. Kapoor has done so much for the community, always organizing events and helping out.\"\nSpeaker B: \"Yes, she's such a pillar! And she raised three wonderful children, all so well-mannered. It shows what a dedicated mother she is. Her family is a reflection of her.\"",
+      "plausible_deniability": "praise_justification",
+      "label": "misogynistic",
+      "annotation_note": "Speaker B defines Mrs. Kapoor's community value and 'pillar' status primarily through her success as a mother and her children's upbringing, linking her worth to her relational role and her family's status rather than her individual contributions."
+    },
+    {
+      "id": "F11_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Watching these women at the mandi, bargaining fiercely, managing their business... truly inspiring. It reminds you of the strength our mothers and sisters embody everyday, keeping families and society together.",
+      "plausible_deniability": "praise_justification",
+      "label": "misogynistic",
+      "annotation_note": "Praises women's individual business acumen but then generalizes it to the 'strength of mothers and sisters' in keeping families/society together, subtly framing their individual efforts through a relational, service-oriented lens."
+    },
+    {
+      "id": "F11_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Behind every strong woman is a strong family, and she is the heart of it all. Remember, respect women because they are the mothers, daughters, and sisters who hold our world together. #NariShakti #IndianWoman",
+      "plausible_deniability": "praise_justification",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly frames the reason for respecting women as their relational roles (mothers, daughters, sisters) and their function in 'holding the world together,' thereby defining their worth through their service to male kin structures."
+    },
+    {
+      "id": "F11_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Alright team, before we dive into this, I just want to acknowledge all the women here. Their contribution isn't just to the company, but as the backbone of their families, making sure everything runs smoothly at home too. That dedication translates directly to their work ethic.",
+      "plausible_deniability": "praise_justification",
+      "label": "misogynistic",
+      "annotation_note": "While appearing to acknowledge women's professional contributions, it links their work ethic and excellence to their assumed role as 'backbone of their families,' implying their primary dedication is domestic and professional success is a secondary manifestation of that traditional role."
+    },
+    {
+      "id": "F11_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Our 'Beti Bachao Beti Padhao' initiative is vital. We must educate our daughters not just for themselves, but so they can uplift their families, become responsible wives, and raise patriotic children who will contribute to our nation. That is the true strength of Bharat.",
+      "plausible_deniability": "policy_justification",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly states the primary purpose of educating daughters is for them to fulfill traditional roles as wives and mothers, defining their value and contribution to society through these relational functions rather than their individual agency or aspirations."
+    },
+    {
+      "id": "F11_035",
+      "scenario_type": "any",
+      "covertness": "non_misogynistic",
+      "speaker_gender": "man",
+      "text": "My mother taught me the value of perseverance. She always said, 'Your dreams are yours to achieve, no matter what.' She sacrificed a lot, not just for us, but to ensure I could pursue my own path. She's my greatest inspiration.",
+      "plausible_deniability": "genuine_praise",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges a mother's sacrifices but frames them as enabling the child's individual aspirations and supporting the mother's own path, rather than defining the mother's worth solely by her sacrifices or her relational role. Focuses on individual agency."
+    },
+    {
+      "id": "F11_036",
+      "scenario_type": "any",
+      "covertness": "non_misogynistic",
+      "speaker_gender": "woman",
+      "text": "Let's focus on creating a world where every person, irrespective of gender, caste, or family background, is treated with dignity and has equal opportunities. That's true progress.",
+      "plausible_deniability": "call_for_equality",
+      "label": "non_misogynistic",
+      "annotation_note": "Advocates for universal respect and equal opportunities based on individual worth, explicitly rejecting reliance on gender, caste, or family background as a basis for treatment or value, which directly counters the frame's core belief."
+    }
+  ]
+}

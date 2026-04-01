@@ -1,0 +1,372 @@
+{
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "misogyny_type": [
+    "Benevolent Sexism",
+    "Protective Paternalism",
+    "Complementary Gender Differentiation"
+  ],
+  "covertness_level": "high",
+  "examples": [
+    {
+      "id": "F03_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hey Sameer, Heard you had to leave office early for your son's PTM. Wow yaar, great effort! Most dads would just let the wife handle it. You're setting a high bar!",
+      "plausible_deniability": "praise_defense",
+      "label": "misogynistic",
+      "annotation_note": "Praises the father for a basic parental duty (attending a Parent-Teacher Meeting) as an extraordinary act, subtly implying that such responsibilities typically fall on the mother and fathers who participate are going above and beyond."
+    },
+    {
+      "id": "F03_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Di, suna hai you're thinking of that abroad project? Bachche itne chhote hain abhi. Who will look after their schooling, their tiffin? Maa toh maa hoti hai, they need you. Career toh baad mein bhi ho sakti hai, bachpan wapas nahi aata.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly guilt-trips the woman about her career ambitions, framing childcare and domestic duties (schooling, tiffin) as solely her responsibility using the naturalizing phrase 'Maa toh maa hoti hai' and 'bachpan wapas nahi aata' to imply her primary duty is maternal sacrifice."
+    },
+    {
+      "id": "F03_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I'm seeing a lot of discussion about women taking on leadership roles in Indian startups. While it's inspiring, we also need to consider the practicalities. Who manages the home front when both parents are working 14-hour days? Logistically, for a mother, it's a different ballgame. It's not about capability, but about innate priorities that naturally shift after childbirth.",
+      "plausible_deniability": "analytical_concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames women's career aspirations through the lens of childcare responsibility, implying that mothers face a unique 'different ballgame' due to 'innate priorities' post-childbirth, subtly suggesting that home management disproportionately falls on them."
+    },
+    {
+      "id": "F03_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "To all the working mothers out there, please understand, your primary role is at home. A child's emotional development suffers when the mother is constantly absent. A father can provide, but a mother nurtures. This isn't sexism, it's just biology and common sense. Why are we pushing women into roles that naturally conflict with their most important duty?",
+      "plausible_deniability": "factual_biology_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly states that a mother's 'primary role is at home' and links a child's suffering to maternal absence, using 'biology and common sense' to naturalize the idea that nurturing is solely the mother's duty and that career conflicts with her 'most important duty'."
+    },
+    {
+      "id": "F03_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A (Saas, woman): \"Arre Anjali beta, aaj Varun kitna thak gaya hoga, office ke baad bachche ko school se pick kiya. Kitna hands-on dad hai! Tumhari toh meeting thi na? Toh chalo, achha hai. Waise, Shanti didi ka beta toh ghar se kaam karta hai taaki apni wife ki help kar sake.\"\nSpeaker B (Bahu, woman): \"Haan Mummy ji, he manages a lot. My meeting went long.\"",
+      "plausible_deniability": "praise_defense",
+      "label": "misogynistic",
+      "annotation_note": "Praises the son-in-law for a basic parental task (school pickup) as 'hands-on,' subtly implying it's unusual for men while highlighting the daughter-in-law's work commitment, and then reinforces the idea of men 'helping' their wives as exceptional."
+    },
+    {
+      "id": "F03_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A (Friend 1, man): \"Yaar, Rohit, teri bhabhi toh bahut modern hai. She wants to start a startup even with a newborn. Kya karega tu? Bachhe kaun sambhalega? Office bhi, ghar bhi? Maa ka role toh koi replace nahi kar sakta.\"\nSpeaker B (Friend 2, man): \"Pata nahi yaar. Main toh bolta hun thoda wait kar le, bachcha bada ho jaye.\"",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly questions the woman's career ambition with a newborn, framing childcare as solely her burden ('Bachhe kaun sambhalega?') and stating 'Maa ka role toh koi replace nahi kar sakta' to emphasize her irreplaceable and primary role."
+    },
+    {
+      "id": "F03_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "It's not easy being a supermom managing a corporate career and ensuring my little one never misses a single drawing competition or a home-cooked meal. The constant juggle is real, but a mother's love makes you find that extra strength! 💪 #WorkingMomLife #SuperMom #IndianMoms",
+      "plausible_deniability": "empowerment_defense",
+      "label": "misogynistic",
+      "annotation_note": "While seemingly empowering, it reinforces the societal expectation that a mother *must* 'manage both' (career and all aspects of childcare/domestic duties) to be a 'supermom,' making invisible the equivalent effort by fathers or shared parental responsibility."
+    },
+    {
+      "id": "F03_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Why do some women pursue demanding careers after having kids? Is it fair to the child? The early years are crucial, and no amount of salary can buy back that time or a mother's presence. Just think about the long-term impact on the child. #Priorities #FamilyFirst #IndianCulture",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly questions a woman's choice to pursue a demanding career post-children, framing it as 'unfair to the child' and emphasizing the irreplaceable 'mother's presence' during 'crucial early years,' suggesting her career conflicts with family priorities and that mothers should sacrifice."
+    },
+    {
+      "id": "F03_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "So, Kavya, I heard your son has fever. Hope he gets well soon. Don't worry about this project, take the day off. You focus on your son. We can manage without you today. Rohit, can you take over Kavya's part for the presentation?",
+      "plausible_deniability": "benevolent_gesture_defense",
+      "label": "misogynistic",
+      "annotation_note": "Automatically assumes the mother (Kavya) will take time off for a sick child, without offering the same option or even acknowledging the father's potential role, subtly reinforcing the idea that childcare is primarily her responsibility."
+    },
+    {
+      "id": "F03_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Beta, ab toh bas ghar par dhyaan do. Bachcha hone ke baad, office ki tension se accha hai, ghar par peace se raho. Waise bhi, maa banne ka experience sabse alag hota hai. Career toh puri zindagi chalti rahegi, par bachpan wapas nahi aata.",
+      "plausible_deniability": "advice_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly advises the pregnant woman to prioritize home over career post-childbirth, framing it as a natural, peaceful choice for a mother, and explicitly stating 'Career toh puri zindagi chalti rahegi, par bachpan wapas nahi aata' to imply her career should take a back seat."
+    },
+    {
+      "id": "F03_011",
+      "scenario_type": "family_workplace",
+      "covertness": "non_applicable",
+      "speaker_gender": "man",
+      "text": "I'm really struggling to balance my work commitments with my daughter's school schedule. My wife and I are constantly coordinating pickups and after-school activities. It's tough, but we're trying to share the load equally so neither of us feels overwhelmed.",
+      "plausible_deniability": "non_misogynistic",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses a father's genuine struggle with work-life balance and childcare, but explicitly states that he and his wife are 'sharing the load equally,' demonstrating an egalitarian view of parental responsibility rather than expecting it from the mother alone."
+    },
+    {
+      "id": "F03_012",
+      "scenario_type": "social_media",
+      "covertness": "non_applicable",
+      "speaker_gender": "woman",
+      "text": "As a mother, I've had to make some difficult career choices to be present for my children during their crucial years. It was a personal decision, and I don't regret it, but I also believe every parent, regardless of gender, should have the flexibility and support to manage their family responsibilities without career penalties.",
+      "plausible_deniability": "non_misogynistic",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses a personal career choice made by a mother for family reasons, but frames it as a personal decision, and explicitly advocates for *all parents* (regardless of gender) to have flexibility and support, thus not imposing her choices or responsibilities on others."
+    },
+    {
+      "id": "F03_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hey guys, Rohan took WFH today because Meera's got a client meeting and their son fell ill. What a hands-on dad, truly inspiring! Not many husbands do this.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Praises a father for performing a basic parental duty as if it's exceptional, implicitly suggesting it's primarily the mother's responsibility to handle sick children."
+    },
+    {
+      "id": "F03_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Sunaina is back at work already? Poor little Aarav, day care mein hi rahega. Baccho ko toh maa ki god chahiye, career toh chalta rahega. Aaj kal ki maaein bhi na...",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly guilts the mother for returning to work and using daycare, implying a child needs the mother's constant presence over her career."
+    },
+    {
+      "id": "F03_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "It's not about being traditional, it's just common sense. A mother's intuition is so crucial during a child's formative years. You can always pick up your career later, but bachpan wapas nahi aata. Children need that dedicated attention.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames the mother's primary role in childcare as 'common sense' and natural, subtly pressuring women to sacrifice career for early childhood development."
+    },
+    {
+      "id": "F03_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Honestly, for women, it's a different equation. Who will raise the children if both parents are constantly focused on corporate ladders? Someone has to anchor the home, and let's be realistic, it's usually the mother who has that innate connection and patience.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly states that women should prioritize family/child-rearing over career, assuming it's the woman's role to be the primary anchor of the home due to 'innate connection'."
+    },
+    {
+      "id": "F03_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A (Priya): \"Renuka ma'am is incredible, isn't she? Two kids, a demanding job, and still she makes time for everything. How does she manage?\"\nSpeaker B (Anjali): \"I know, right? Hats off to her! She's a supermom. Her husband helps out too, but maa toh maa hoti hai. It must be so hard balancing both.\"",
+      "plausible_deniability": "praise_defense",
+      "label": "misogynistic",
+      "annotation_note": "Praises the mother for 'balancing both' as an extraordinary feat, implying the burden is uniquely hers and the father's 'help' is secondary, reinforcing the mother as the primary caregiver."
+    },
+    {
+      "id": "F03_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A (Aunt): \"Kavya beta, this promotion sounds good, but Delhi? What about little Sia? Who will manage her school, tuitions, and everything if you both move? Bachhe toh suffer karte hain when both parents are so busy.\"\nSpeaker B (Kavya): \"But maasi, Sameer can also...\"\nSpeaker A (Aunt): \"Sameer will be busy with his own office. Maa ka role koi nahi le sakta, especially for a girl child. Think about it properly, career toh chalti rahegi.\"",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly questions the woman's career move due to childcare implications, implying she is solely responsible for the child's well-being and should sacrifice her career for it."
+    },
+    {
+      "id": "F03_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Daddy duty on! Mom's out for a kitty party, so I'm on babysitting duty with little Aadi. Wish me luck, guys! #DadLife #BabysittingBoss",
+      "plausible_deniability": "humor_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames a father taking care of his own child as 'babysitting,' implying it's an unusual or temporary favor, not a primary parental responsibility."
+    },
+    {
+      "id": "F03_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "It's great to see women succeed, but honestly, if you're a mother, isn't your primary responsibility towards your kids? Chasing the corporate dream when you have young ones... makes me wonder who's actually raising those kids. Maa toh maa hoti hai, that bond is irreplaceable.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly questions a mother's career ambition, suggesting it is selfish and implies neglecting her primary maternal duties, using 'mother's bond' as justification."
+    },
+    {
+      "id": "F03_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Ritu beta, I saw you drop Pari at the daycare again. She looked so sad. I just worry about her. Ghar mein maa ke haath ka khana aur dadi ka pyaar toh alag hi baat hoti hai. Log bhi kya kahenge, bahu job karti hai aur bachche ko palne ke liye aaya rakhi hai.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Expresses 'concern' for the child and uses social pressure ('log kya kahenge') to subtly guilt the mother for using daycare instead of providing care herself or through family, implying she's not fulfilling her primary duty."
+    },
+    {
+      "id": "F03_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Meera, I understand you're a mother now, and kids' school events often come up. But frankly, if you want to advance here, you need to be fully committed. Your husband can't pick up the slack? Or maybe this isn't the right time for such a demanding role if family is your priority.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly implies the mother should sacrifice career advancement for family responsibilities (school events) and questions her commitment if she prioritizes family, suggesting her husband cannot or should not take on those responsibilities."
+    },
+    {
+      "id": "F03_023",
+      "scenario_type": "spoken_convo",
+      "covertness": "na",
+      "speaker_gender": "woman",
+      "text": "Sonal, your husband is genuinely so involved with the kids' school stuff. It’s great that you both share responsibilities so well, makes life so much easier for you to focus on your work too!",
+      "plausible_deniability": "na",
+      "label": "non_misogynistic",
+      "annotation_note": "Praises shared parental responsibility without framing the father's involvement as exceptional or the mother's as primary/sole. Focuses on mutual support and equality."
+    },
+    {
+      "id": "F03_024",
+      "scenario_type": "reddit_quora",
+      "covertness": "na",
+      "speaker_gender": "man",
+      "text": "Balancing a demanding career with young children is tough for both parents. It requires strong communication and often tough choices for both partners, sometimes sacrificing opportunities to prioritize family well-being.",
+      "plausible_deniability": "na",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges the challenge of balancing career and family for both parents, without gendered assumptions or expectations about who should make sacrifices or whose responsibility childcare primarily is."
+    },
+    {
+      "id": "F03_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Dude, just saw your story! You actually picked up Rhea from school today? Wow, Pooja must be so relieved, you're such a hands-on dad!",
+      "plausible_deniability": "praise_defense",
+      "label": "misogynistic",
+      "annotation_note": "Praises the father for a basic parental duty (school pickup) as an extraordinary act, implying it's primarily the mother's responsibility and he's 'helping' her rather than co-parenting."
+    },
+    {
+      "id": "F03_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Sapna, is it true you're sending little Arjun to daycare from next month? I mean, maa toh maa hoti hai, uska bachpan ek hi baar aata hai na. Log kya kahenge? Bachhe toh suffer karte hain, unko maa ki zarurat hoti hai.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly guilts the mother for using daycare, evoking the 'mother's instinct' and the child's fleeting childhood to pressure her into prioritizing primary caregiving over career, using 'log kya kahenge' (what will people say) for societal pressure."
+    },
+    {
+      "id": "F03_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Young women often ask about balancing career and family. While ambition is commendable, one must consider who will truly nurture the children during their formative years. A mother's presence is simply irreplaceable for a child's holistic development. Corporate success can wait, childhood won't. Just my two cents as a concerned citizen.",
+      "plausible_deniability": "advice_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames a woman's career ambition as potentially selfish if she has children, subtly implying her primary role is child-rearing ('mother's presence is irreplaceable') while offering it as 'concerned advice', not explicitly but implicitly, telling women to de-prioritize careers."
+    },
+    {
+      "id": "F03_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "It's a biological truth that women are inherently better equipped for child-rearing. Expecting fathers to take equal responsibility for daily tasks like homework or nutrition goes against natural roles. Society should support mothers in their natural calling, not push for unnatural 'equality' that ultimately harms children.",
+      "plausible_deniability": "natural_order_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly states mothers are 'inherently better equipped' for childcare, dismissing shared parental responsibilities as 'unnatural' and going against 'natural roles', thereby reinforcing traditional gender differentiation."
+    },
+    {
+      "id": "F03_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: I'm just about to finish this report, then it's a dash to pick up Siya from her art class, then dinner prep and homework duty. Phew! \nSpeaker B: Wow, Meera, you're truly a supermom! How do you manage all of this, a demanding job AND home? Rahul is lucky to have you, you make it look so easy!",
+      "plausible_deniability": "praise_defense",
+      "label": "misogynistic",
+      "annotation_note": "Praises the woman for 'managing both' career and home as an extraordinary feat ('supermom'), implying this is her unique burden, whereas a father doing similar tasks would likely not receive such specific commendation for 'managing both'."
+    },
+    {
+      "id": "F03_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Maa ji, I might have to stay late at the office tonight, a crucial deadline. Could you give Aryan his dinner? \nSpeaker B: Beta, tumhari job zaroori hai ya tumhara bachha? Corporate meetings toh aate jaate rahenge, bachhe ka bachpan wapas nahi aata. Hum toh hain, par maa ki zaroorat alag hoti hai na, uska koi mol nahi.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly questions the mother's priorities, implying her job is secondary to her child's needs and that her personal presence for domestic tasks is essential and irreplaceable, even if help is available from other family members."
+    },
+    {
+      "id": "F03_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Such a sweet gesture from my husband, Rahul! He took our son to the park this evening while I was catching up on some work calls. Makes me feel so loved and supported. ❤️ #besthusband #handsondad #blessed",
+      "plausible_deniability": "praise_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames the father's engagement in childcare (taking his son to the park) as a 'sweet gesture' or 'help' rather than a routine parental duty, inadvertently reinforcing the idea that primary childcare is the mother's domain and he's going 'above and beyond'."
+    },
+    {
+      "id": "F03_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "The erosion of traditional family values is evident when mothers prioritize their careers over raising their children. No amount of money can compensate for a child missing their mother's unconditional love and guidance. #backtobasics #responsibleparenting #motherhood",
+      "plausible_deniability": "natural_order_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly criticizes mothers for prioritizing careers, explicitly stating their 'real role' is child-rearing and implying neglect when they pursue professional goals, framing it as an 'erosion of family values'."
+    },
+    {
+      "id": "F03_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Welcome back, Priya! It's great to have you. But tell me, how will you manage everything now? Little Arnav must be missing you a lot. Don't stress too much about work, take it easy, the baby needs you.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Expresses 'concern' about how a returning mother will 'manage everything' (career and motherhood), implying an inherent conflict for her that wouldn't typically be posed to a returning father, and subtly advising her to de-prioritize work for her child."
+    },
+    {
+      "id": "F03_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Ria, you're getting such a good offer in Bangalore, but who will look after your parents here? And with Rohan's promotion, won't it be better if you stayed back for the family? It's not like his company will transfer him. You're the one who can make sacrifices.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly expects the woman to sacrifice her career opportunity for family reasons (caring for parents, supporting husband's career), explicitly stating she is the one who 'can make sacrifices,' reinforcing her role as primary caregiver/family glue."
+    },
+    {
+      "id": "F03_035",
+      "scenario_type": "whatsapp",
+      "covertness": "non_relevant",
+      "speaker_gender": "woman",
+      "text": "Hey Rina, I saw your post. You look super busy trying to juggle everything, hope you're not burning out! Remember to take some time for yourself too. Sending strength!",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges the universal demands of managing work and personal life without gendered assumptions. It offers support and concern for the individual's well-being, rather than implying that these duties are inherently or solely her burden as a woman or mother."
+    },
+    {
+      "id": "F03_036",
+      "scenario_type": "spoken_convo",
+      "covertness": "non_relevant",
+      "speaker_gender": "man",
+      "text": "Speaker A: Yaar, managing school holidays with work is a nightmare. Both me and Geeta are struggling to figure out who's taking off when. \nSpeaker B: I know, right? It's tough when both partners have demanding jobs. We usually split the days or call in a grandparent if possible. It's a constant negotiation.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses the challenge of balancing work and childcare as a shared issue for both parents, acknowledging it as a difficulty for dual-income households and a joint responsibility, without assigning primary burden or blame to one gender."
+    }
+  ]
+}

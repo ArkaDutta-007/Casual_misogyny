@@ -1,0 +1,371 @@
+{
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "misogyny_type": [
+    "Hostile Sexism",
+    "Dominative Paternalism",
+    "Objectification"
+  ],
+  "covertness_level": "medium — normalized as chivalry/respect",
+  "examples": [
+    {
+      "id": "F06_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, Pooja toh seedhe seedhe mana kar di. Par baad mein pata chala she's engaged to Rohan, toh I backed off. Respect for Rohan, yaar. Won't mess with someone's property.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker disregards the woman's direct refusal, but immediately backs off upon learning she is 'taken' by another man, framing it as 'respect'."
+    },
+    {
+      "id": "F06_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Hey Riya, you're pretty, wanna grab coffee? Oh, wait, pehle batao, ghar mein koi hai kya? Just asking, I respect if you're with someone, no trespassing.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker explicitly asks about male ownership as a prerequisite, implying it's the primary filter for respecting boundaries, not the woman's own consent."
+    },
+    {
+      "id": "F06_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I approached this girl at a party, seemed interested, but she kept saying 'I'm not looking for anything'. I was a bit persistent because sometimes girls play hard to get, you know? But then her friend mentioned she has a serious boyfriend back in Delhi. Once I heard that, I immediately understood and left her alone. You gotta respect that, can't mess with someone else's territory.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker justifies ignoring the woman's repeated rejections until male ownership was established, framing his withdrawal as 'respect for another man's territory'."
+    },
+    {
+      "id": "F06_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "This girl on dating apps, I asked her out, she said 'not interested'. Seriously? Attitude for what? She's not even that great. But then I saw her Instagram, tagged with some dude, probably her BF. Okay, fair enough then. If she's taken, I'm not gonna be a homewrecker. Respect for the guy.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker explicitly devalues the woman's direct rejection as 'attitude' but respects the implied male ownership, stating he won't be a 'homewrecker'."
+    },
+    {
+      "id": "F06_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Yaar, wo new girl in office, Anjali, badi achhi hai. Soch raha hoon baat karoon.\nSpeaker B: Achha? Haan, she's nice.\nSpeaker A: Koi scene hai kya uska? Kisi ke saath hai kya wo? I mean, I don't wanna step on anyone's toes.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker implicitly prioritizes potential male ownership ('kisi ke saath hai kya') over the woman's individual autonomy as the primary consideration before initiating a connection."
+    },
+    {
+      "id": "F06_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Uff, that guy was following me from the metro, trying to talk, I kept telling him to leave me alone. So irritating!\nSpeaker B: Oh god, that's awful. What did you do?\nSpeaker A: Finally, when Rahul (my brother) came to pick me up, the guy just vanished. Like, suddenly he got the message only when he saw a man. My 'no' didn't matter, but Rahul's presence did.",
+      "label": "misogynistic",
+      "annotation_note": "A woman describes how her repeated rejections were ignored, but the physical presence of a male family member immediately caused the harassment to stop, illustrating the invalidation of her consent."
+    },
+    {
+      "id": "F06_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Girl, I told you to back off, she's clearly not interested in you. But if you're so persistent, just ask if she has a boyfriend. If she's taken, then you absolutely have to respect that. No point creating problems for her or her guy. That's just basic decency.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman advises a male friend, implying that male ownership is a more definitive reason to cease pursuit than the woman's direct disinterest, reinforcing the misogynistic belief."
+    },
+    {
+      "id": "F06_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Tried to connect with a girl from my college, she was very cold, said 'don't bother me'. A bit rude imo. But then I saw her Insta story with her BF. Ah, got it. She's already booked. No point wasting my time then. I respect that. Good for her.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker explicitly links his withdrawal from pursuing the woman to her being 'booked' by another man, after dismissing her direct refusal as 'rude'."
+    },
+    {
+      "id": "F06_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Uncle ji, I really admire your daughter, Sakshi. She's doing so well. I was thinking, if it's okay with you, I'd like to talk to her about some career opportunities... maybe over coffee sometime?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker indirectly seeks permission from the father to interact with his adult daughter, implying her consent is secondary to her father's approval for a simple meeting."
+    },
+    {
+      "id": "F06_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "I'd love to hire Shreya for this project, she's very talented. But first, I should probably speak with her husband, just to make sure he's okay with the late hours she might have to put in. Don't want any family issues.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker explicitly states the need to seek permission from the woman's husband for her professional engagement, prioritizing his approval over her own agency or capability."
+    },
+    {
+      "id": "F06_011",
+      "scenario_type": "spoken_convo",
+      "covertness": "non_applicable",
+      "speaker_gender": "woman",
+      "text": "Speaker A: My friend liked this guy, but he kept saying 'I'm seeing someone'. \nSpeaker B: Did she keep trying?\nSpeaker A: No, she eventually accepted it, not because he was 'taken' property, but because he clearly wasn't interested in her.",
+      "plausible_deniability": "non_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "The 'taken' status is presented as *his* reason for disinterest, and the friend respects *his* lack of interest, not another man's 'claim' overriding her own consent or agency."
+    },
+    {
+      "id": "F06_012",
+      "scenario_type": "social_media",
+      "covertness": "non_applicable",
+      "speaker_gender": "man",
+      "text": "I asked my new colleague if she was single before inviting her to a casual hang out with other single friends, just so she wouldn't feel uncomfortable or like I was hitting on her if she already had a partner.",
+      "plausible_deniability": "non_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "The speaker's intent is to ensure comfort and avoid awkwardness for the woman, not to filter rejection or override her autonomy based on a partner's claim. There is no prior rejection being ignored."
+    },
+    {
+      "id": "F06_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, that girl from office, Priya. I asked her out, she said no. But then later I saw her with some guy, like a proper couple. Toh I just backed off. Respect. Kisi ki hai toh.",
+      "plausible_deniability": "respect_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker explicitly states he only backed off after seeing her with another man, implying her initial 'no' alone was insufficient. He frames it as 'respect'."
+    },
+    {
+      "id": "F06_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Bata toh deti pehle ki already 'taken' ho? Faltu mein try kar raha tha. I mean, agar husband hai toh bol deti na, I would've understood. My time got wasted.",
+      "plausible_deniability": "misunderstanding_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker directly states that knowing she was 'taken' (had a husband) would have been the *only* acceptable reason for him to stop his pursuit, devaluing her direct rejection."
+    },
+    {
+      "id": "F06_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Honestly, when a girl declines an invitation, it's sometimes just a polite way of saying 'not interested right now'. But if she mentions a serious boyfriend or partner, *that's* when you really respect it and move on. It's about respecting her situation and her commitment, not just a casual 'no'.",
+      "plausible_deniability": "respect_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly distinguishes between a woman's 'casual no' (which is negotiable) and a 'no' backed by another man's claim (which is respected). Frames this as genuine respect."
+    },
+    {
+      "id": "F06_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "It's simple courtesy. Before you get serious with a girl, always check if she's already committed. You don't want to step on anyone's toes or disrespect *her family's choice*. If she's engaged or married, no means no. Otherwise, a 'no' can often be convinced.",
+      "plausible_deniability": "chivalry_defense",
+      "label": "misogynistic",
+      "annotation_note": "Openly states that a woman's 'no' is only absolute if there is a male claim (engagement, marriage, family's choice) in place, implying her autonomy is secondary."
+    },
+    {
+      "id": "F06_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: \"Yaar, that girl, Anjali. I was trying to talk to her at the party, she kept giving cold shoulders.\"\nSpeaker B: \"Oh, she came with her husband, didn't you see?\"\nSpeaker A: \"Husband? Oh, makes sense then. I thought she was just being rude. Toh I respected that and didn't bother her further.\"",
+      "plausible_deniability": "misunderstanding_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker's understanding and respect for Anjali's disinterest (cold shoulders) only materializes upon learning she has a husband, indicating her 'no' wasn't sufficient."
+    },
+    {
+      "id": "F06_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: \"Sharma uncle, I was thinking about your daughter, Rhea. She's a good girl.\"\nSpeaker B (Sharma uncle): \"But she just finished her MBA, wants to work for a bit.\"\nSpeaker A: \"No no, I respect that, but I'm talking about rishta. My son is settled. Agar aapki haan ho, toh main aage badhoon.\"",
+      "plausible_deniability": "cultural_norm_defense",
+      "label": "misogynistic",
+      "annotation_note": "The speaker directly bypasses the woman's stated desire (to work) and seeks permission from her father for marriage, prioritizing a male relative's consent over her own autonomy."
+    },
+    {
+      "id": "F06_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Why is it that when I say 'no, I'm not interested,' guys keep pushing, but the moment I say 'I have a boyfriend,' they suddenly become 'respectful'? My 'no' should be enough, yaar. #ConsentIsConsent",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "A woman describes the experience of her direct refusal being ignored, but a man's perceived ownership over her body/time being the actual trigger for respectful withdrawal."
+    },
+    {
+      "id": "F06_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "The amount of times I've said 'no' politely, only to have guys back off *only* when I mention my husband is infuriating. My disinterest isn't enough, but 'kisi ki hun' is? #ConsentIsConsent #MyNoIsMyNo",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "A woman directly laments that her 'no' is not sufficient for men to back off, but the statement of being 'kisi ki' (belonging to someone else, her husband) is respected."
+    },
+    {
+      "id": "F06_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I told the new intern, Maya, that she shouldn't stay so late alone. She said she's fine, but I asked if her *husband* knows she's working till 9 PM. Just for her safety, you know, and for the office's image.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker ignores the woman's self-assessment of her safety and implies her husband's knowledge/permission is relevant for her working hours, under the guise of concern."
+    },
+    {
+      "id": "F06_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My sister keeps refusing marriage proposals saying she wants to focus on her career. But I'm telling papa, we should just find a good boy and talk to him directly. Once she sees a stable ghar-baar, she'll agree.",
+      "plausible_deniability": "cultural_norm_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker (brother) explicitly overrides his sister's stated desires, proposing to bypass her and seek paternal permission, believing a man's claim (a 'stable ghar-baar') will ultimately override her 'no'."
+    },
+    {
+      "id": "F06_023",
+      "scenario_type": "spoken_convo",
+      "covertness": "non_applicable",
+      "speaker_gender": "man",
+      "text": "Speaker A: \"I asked my colleague out, she politely said she's not interested in dating anyone from work.\"\nSpeaker B: \"And you backed off?\"\nSpeaker A: \"Of course. I respect that and won't bring it up again. It's important to respect boundaries.\"",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "The speaker accepts the woman's direct rejection without needing any external male ownership as a prerequisite for respect, demonstrating genuine respect for her autonomy."
+    },
+    {
+      "id": "F06_024",
+      "scenario_type": "social_media",
+      "covertness": "non_applicable",
+      "speaker_gender": "woman",
+      "text": "My friend kept trying to set me up with guys, even after I told her I'm happy being single. I finally had to be really firm and tell her to stop because my 'no' just wasn't registering with her.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Describes a 'no' not being respected, but the disrespect is from a friend not specifically due to the absence of a male partner. It's about general disregard for her stated wishes."
+    },
+    {
+      "id": "F06_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, I just saw you at Phoenix Market City with a guy. Sorry bro, didn't know you were taken. Had I known, I would've never bothered. Respect.",
+      "plausible_deniability": "respect for relationship",
+      "label": "misogynistic",
+      "annotation_note": "Speaker explicitly states he would have respected her 'taken' status, implying her prior rejections or disinterest were not sufficient to make him back off. He prioritizes another man's perceived claim over her autonomy."
+    },
+    {
+      "id": "F06_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Hey Priya, I'm genuinely interested in you. Just wanted to ask, ghar mein koi hai? Like, are you committed to someone? Because if you're not, then why are you giving me such an attitude?",
+      "plausible_deniability": "seeking clarity",
+      "label": "misogynistic",
+      "annotation_note": "Speaker explicitly questions her relationship status as a prerequisite for understanding her 'attitude' (rejection), implying her refusal is only valid if another man is involved."
+    },
+    {
+      "id": "F06_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "It's simple, guys. If a girl says no, okay, maybe she's playing hard to get, or testing you. But if you find out she's genuinely taken, like with a serious boyfriend or husband, you back off. That's just respecting another man's space. There's a code.",
+      "plausible_deniability": "respect for another man's relationship",
+      "label": "misogynistic",
+      "annotation_note": "The speaker explicitly states a woman's 'no' can be ignored or questioned, but another man's claim (implied by her being 'taken') must be respected due to an unwritten 'code' among men."
+    },
+    {
+      "id": "F06_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Honestly, girls on dating apps, they just say no for attention. But if a guy tells me his sister is off-limits, I get it. That's a different level of respect. Her 'no' is just her being difficult, but 'she's with someone' is a boundary.",
+      "plausible_deniability": "misunderstanding female behavior",
+      "label": "misogynistic",
+      "annotation_note": "Speaker explicitly differentiates between a woman's 'no' (deemed 'difficult' or 'for attention') and a male relative's boundary (deemed 'respectable'), directly valuing male ownership over female autonomy."
+    },
+    {
+      "id": "F06_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Yaar, that guy at the coffee shop was so annoying, kept bugging me for my number. I told him no like five times. Speaker B: Oh no, then what happened? Speaker A: Finally, Rohit came to pick me up, and the moment he saw Rohit, he just walked away, saying 'Oh, sorry, I didn't know you were with someone.' It's like my no means nothing.",
+      "plausible_deniability": "misunderstanding",
+      "label": "misogynistic",
+      "annotation_note": "The woman's direct rejections were ignored until the physical presence of another man (Rohit) implied ownership, which finally made the harasser back off."
+    },
+    {
+      "id": "F06_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Uncle ji, main Sakshi ke saath project pe kaam kar raha hoon. Actually, we need to meet a bit late for research. Can I ask, is that okay with you? Speaker B: Beta, Sakshi badi ho gayi hai, she can decide. Speaker A: Ji, but I just wanted to make sure it's not a problem for the family.",
+      "plausible_deniability": "showing respect for elders",
+      "label": "misogynistic",
+      "annotation_note": "Speaker bypasses Sakshi's autonomy and directly asks her father for permission for a professional meeting, even after the father indicated Sakshi can decide for herself. This implies the family's (male) approval is paramount."
+    },
+    {
+      "id": "F06_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "It's about respect, simple. If a girl is already with someone, you step back. No point messing with someone else's relationship. #RespectHerRelationship #Boundary",
+      "plausible_deniability": "respecting boundaries",
+      "label": "misogynistic",
+      "annotation_note": "The speaker frames respecting a woman's existing relationship as the reason for withdrawing, rather than respecting her independent choice or disinterest. The focus is on the 'relationship' (implying male claim) rather than her autonomy."
+    },
+    {
+      "id": "F06_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "She refused me again, saying she's not interested. Such a snob, she thinks she's too good. But then I saw her Instagram with some dude, probably her boyfriend. If she's taken, then okay, I respect that. Otherwise, what's her problem?",
+      "plausible_deniability": "expressing frustration",
+      "label": "misogynistic",
+      "annotation_note": "Speaker explicitly dismisses a woman's direct refusal as 'snobbery' and her 'problem,' but declares he would 'respect that' if she were 'taken,' highlighting the conditional nature of his respect based on male ownership."
+    },
+    {
+      "id": "F06_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My new manager, Mr. Sharma, used to always ask me out for coffee even after I politely refused. The moment he found out I was planning my wedding, he suddenly became very professional. He said, 'Oh, I didn't realize you were committed. My apologies.' It felt like my 'no' wasn't enough.",
+      "plausible_deniability": "professional courtesy",
+      "label": "misogynistic",
+      "annotation_note": "The manager's persistent pursuit stopped only upon learning of her engagement ('committed' status), not her prior refusals, implying the other man's claim was the legitimate reason to cease."
+    },
+    {
+      "id": "F06_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "My uncle asked me who I was going out with for the college fest. When I said my friends, he got worried. Only when I mentioned my cousin brother would also be there, did he say, 'Chalo, ab theek hai. Achha hai, koi toh saath rahega.' (Okay, now it's fine. Good, someone will be with her).",
+      "plausible_deniability": "concern for safety",
+      "label": "misogynistic",
+      "annotation_note": "The uncle's concern for the woman's outing is resolved not by her own assurances or company of female friends, but by the presence of a male relative, indicating a belief in male supervision as necessary for her safety/propriety."
+    },
+    {
+      "id": "F06_035",
+      "scenario_type": "whatsapp",
+      "covertness": "not applicable",
+      "speaker_gender": "man",
+      "text": "Speaker A: Hi, I found your profile interesting. Would you be open to connecting? Speaker B: Thanks, but I'm not really looking to chat right now. Speaker A: Oh, no worries at all, I respect that. Just out of curiosity, if you don't mind me asking, are you seeing someone, or just generally not looking for new connections?",
+      "plausible_deniability": "not applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Speaker explicitly respects the 'no' before asking about relationship status as a general curiosity, not as a condition for respecting her refusal. The initial rejection is fully accepted."
+    },
+    {
+      "id": "F06_036",
+      "scenario_type": "social_media",
+      "covertness": "not applicable",
+      "speaker_gender": "woman",
+      "text": "I had such a big crush on him at work, but then I saw his Instagram and he's totally married with kids. Aww man, that ship has sailed! Good for him though, he seems really happy. No point trying anything.",
+      "plausible_deniability": "not applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "The speaker expresses disappointment about a crush being unavailable due to an existing relationship but fully respects the situation without implying her desire should override it or questioning the validity of his commitment."
+    }
+  ]
+}

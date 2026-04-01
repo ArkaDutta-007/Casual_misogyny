@@ -1,0 +1,372 @@
+{
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "misogyny_type": [
+    "Benevolent Sexism",
+    "Internalized Misogyny",
+    "Complementary Gender Differentiation"
+  ],
+  "covertness_level": "very high",
+  "examples": [
+    {
+      "id": "F15_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Riya beta, office jao ya gym jao, thoda sa sindoor laga liya karo. Shaadi ke baad suhagan lagti hai ladki, warna aajkal kisi ko pata hi nahi chalta. Hamari parampara bhi bani rehti hai 😊",
+      "plausible_deniability": "tradition_defense",
+      "label": "misogynistic",
+      "annotation_note": "Pressures a married woman to display marital status markers and frames them as necessary for proper identity and tradition."
+    },
+    {
+      "id": "F15_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Shaadi ho gayi hai to mangalsutra pehna karo properly. Married hoke bhi single jaisi rehna achha nahi lagta, thoda toh married woman wali pehchaan honi chahiye.",
+      "plausible_deniability": "respectability_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly says a married woman should visibly signal being married and judges her if she does not."
+    },
+    {
+      "id": "F15_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I am not against modern women at all, but honestly sindoor or mangalsutra is not oppression in every case. In many Indian families it is simply a mangal symbol and part of our culture. A married woman often looks more settled and sobhagyabati with these signs, so why dismiss it as patriarchy when it can also reflect respect for marriage?",
+      "plausible_deniability": "personal_choice_defense",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes the idea that visible marital markers make a woman more complete or respectable as a wife."
+    },
+    {
+      "id": "F15_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "People act like name change after marriage is identity erasure, but realistically a woman joins her husband's family and taking the surname is natural. Same with sindoor and mangalsutra: if you want the dignity of marriage, at least carry its symbols instead of rejecting every tradition in the name of feminism.",
+      "plausible_deniability": "natural_order_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames a woman's identity as properly shifting to the husband's family and expects visible compliance with marital symbols."
+    },
+    {
+      "id": "F15_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Ma, I don't like wearing shankha-pola daily to office.\nSpeaker B: Arre, in our Bengali homes a new bride looks poorn only with shankha-pola. We are not forcing you, but these things keep the saubhagya of the marriage visible.",
+      "plausible_deniability": "care_defense",
+      "label": "misogynistic",
+      "annotation_note": "Uses cultural and auspiciousness framing to pressure a woman into constant display of marriage markers."
+    },
+    {
+      "id": "F15_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Neha doesn't wear sindoor or mangalsutra regularly.\nSpeaker B: Then how does she even look married? A wife should carry some sign of her marriage, otherwise it feels like she doesn't value the relationship.",
+      "plausible_deniability": "relationship_respect_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly links being a good wife to visibly displaying marital status markers."
+    },
+    {
+      "id": "F15_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "No hate to anyone's choices, but there is something so graceful about a married woman in sindoor and mangalsutra. It carries warmth, commitment, and our sanskriti in a way modern minimalism never can. #Suhagan #Tradition",
+      "plausible_deniability": "aesthetic_defense",
+      "label": "misogynistic",
+      "annotation_note": "Romanticizes married markers as the proper graceful form of married womanhood, subtly devaluing women who do not wear them."
+    },
+    {
+      "id": "F15_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Progressive hona alag baat hai, but married hoke sindoor bhi na lagana is just rejecting your own culture. Aajkal ki ladkiyan pati ki lambi umar ke symbols ko bhi ego issue bana deti hain.",
+      "plausible_deniability": "culture_defense",
+      "label": "misogynistic",
+      "annotation_note": "Judges women who reject marital markers as culturally disloyal and ties the markers to husband welfare."
+    },
+    {
+      "id": "F15_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office Diwali lunch, the senior manager told Aditi, 'After marriage a little sindoor really suits you, it gives such a settled and complete look.' Everyone smiled as if it were a compliment.",
+      "plausible_deniability": "compliment_defense",
+      "label": "misogynistic",
+      "annotation_note": "Treats visible marital marking as what makes a woman look complete, reinforcing gendered expectations."
+    },
+    {
+      "id": "F15_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "At home, Kavya's aunt said that if she won't change her surname or wear mangalsutra outside, then she should not be surprised when elders feel she has not fully accepted the marriage.",
+      "plausible_deniability": "elder_respect_defense",
+      "label": "misogynistic",
+      "annotation_note": "Openly states that a woman must adopt husband-linked identity markers to be seen as properly married."
+    },
+    {
+      "id": "F15_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "A woman choosing to keep or drop sindoor after marriage should be her own decision. Symbols can feel meaningful to some and restrictive to others, and respect should not depend on whether she looks visibly married.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Affirms individual choice and rejects judging women based on visible marital markers."
+    },
+    {
+      "id": "F15_012",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My wife wears mangalsutra because she likes it, and I don't wear any equivalent symbol. We discussed it openly and neither of us thinks marriage needs public proof through jewellery or a name change.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar topic, but explicitly rejects the idea that women must display marriage through body markers."
+    },
+    {
+      "id": "F15_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Aunty ji, Riya ko bolo thoda sindoor lagaya kare 😊 shaadi ke baad bahu suhagan lagti hai usse. Aajkal ki girls bas comfort bolke sab chhod deti hain.",
+      "plausible_deniability": "tradition_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames visible marital markers as necessary for a married woman's proper appearance and judges women who do not wear them."
+    },
+    {
+      "id": "F15_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Yaar married hoke bhi na mangalsutra, na sindoor? Fir kaise pata chalega she is properly married. Thoda toh hamaari parampara ka maan hona chahiye.",
+      "plausible_deniability": "cultural_pride",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly expects women to visibly display married status and frames non-compliance as disrespecting tradition."
+    },
+    {
+      "id": "F15_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I am not saying every woman must be forced, but symbols like sindoor or mangalsutra have cultural meaning beyond fashion. They represent saubhagya and continuity of family values. When educated urban wives reject everything after marriage, elders naturally feel she is not accepting the relationship fully.",
+      "plausible_deniability": "balanced_reasonableness",
+      "label": "misogynistic",
+      "annotation_note": "Uses a seemingly moderate tone to suggest a wife must accept visible marital markers to show full commitment and family acceptance."
+    },
+    {
+      "id": "F15_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Why do some women object to changing surname after marriage? It is a natural part of joining a new family, not identity erasure. A married woman should look and be known as married; otherwise what is the meaning of these customs our mothers followed with pride?",
+      "plausible_deniability": "normalization",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes a wife's identity change and visible married status as obligatory and delegitimizes resistance."
+    },
+    {
+      "id": "F15_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Ma, I don't want to wear shankha-pola every day to office.\nSpeaker B: Office mein mat dikhao bolne ka kya matlab? Bengali bou ho, shankha-pola se sobhagyabati lagti ho. Roz pehno na, achha hi to hai.",
+      "plausible_deniability": "affectionate_guidance",
+      "label": "misogynistic",
+      "annotation_note": "A mother pressures her daughter to wear marriage markers daily, presenting them as part of proper married womanhood."
+    },
+    {
+      "id": "F15_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Neha doesn't wear sindoor unless it's a festival.\nSpeaker B: Then she shouldn't be surprised if people question it. Shaadi ke baad thoda toh dikhna chahiye ki woman is married, warna bahu jaisi feel hi nahi aati.",
+      "plausible_deniability": "social_expectation",
+      "label": "misogynistic",
+      "annotation_note": "Openly endorses public scrutiny of a married woman who does not visibly mark her status."
+    },
+    {
+      "id": "F15_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Not judging anyone, but there is something graceful about a newly married woman in sindoor and mangalsutra. It reflects warmth, stability, and respect for hamaari parampara ✨",
+      "plausible_deniability": "personal_preference",
+      "label": "misogynistic",
+      "annotation_note": "Romanticizes marital markers as what gives married women grace and respectability, reinforcing expectation without explicit coercion."
+    },
+    {
+      "id": "F15_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "I respect modern choice but if a wife won't wear even basic symbols like mangalsutra or sindoor, it feels like rejecting the marriage itself. Some traditions exist for a reason, not everything is oppression.",
+      "plausible_deniability": "progressive_but",
+      "label": "misogynistic",
+      "annotation_note": "Claims respect for choice while asserting that refusal of marital symbols indicates failure as a wife."
+    },
+    {
+      "id": "F15_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office Diwali lunch, a senior told Priya, \"You are married? I couldn't tell. A little sindoor makes a woman look more settled and auspicious.\"",
+      "plausible_deniability": "compliment",
+      "label": "misogynistic",
+      "annotation_note": "Presents visible marital markers as what makes a married woman look complete and appropriate."
+    },
+    {
+      "id": "F15_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During a family dinner, Kavita's aunt said her husband should insist she wear mangalsutra daily, because pati ki lambi umar ke liye these things are not optional for a suhagan.",
+      "plausible_deniability": "husband_welfare",
+      "label": "misogynistic",
+      "annotation_note": "Directly links a woman's obligatory use of marital markers to her husband's wellbeing and her duty as a wife."
+    },
+    {
+      "id": "F15_023",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I kept my surname after marriage because my publications are under that name, and my husband had no issue. I still enjoy wearing sindoor on festivals, but for me these things should remain voluntary rather than a test of how devoted a wife is.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses the same customs but explicitly rejects making them compulsory or measuring a woman's worth by them."
+    },
+    {
+      "id": "F15_024",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "My sister doesn't wear shankha-pola daily because she's a surgeon and hospital rules make it impractical. Our family is fine with it since culture means more than visible symbols alone.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Mentions marital markers in a culturally specific way but does not pressure women to wear them or judge those who do not."
+    },
+    {
+      "id": "F15_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Riya you looked nice before also, but after shaadi with sindoor you look so settled yaar, ekdum suhagan lagti ho ❤️ hamaari parampara has its own grace.",
+      "plausible_deniability": "tradition_praise",
+      "label": "misogynistic",
+      "annotation_note": "Frames visible marital markers as making a woman more complete or properly married, reinforcing expectation that wives should display marital status."
+    },
+    {
+      "id": "F15_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Shaadi ke baad bhi no mangalsutra no sindoor? Phir married lagta hi nahi. Aajkal ki ladkiyan maan hi nahi karti, basic cheezein toh follow karni chahiye.",
+      "plausible_deniability": "social_norms",
+      "label": "misogynistic",
+      "annotation_note": "Directly judges married women who do not wear visible markers and presents compliance as an expected duty."
+    },
+    {
+      "id": "F15_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I am not saying women should be forced, but sindoor or mangalsutra is not oppression in every case. In many families it is simply a mangal symbol and part of our culture. A married woman often looks more graceful and sobhagyabati with these signs, so why dismiss it as patriarchy automatically?",
+      "plausible_deniability": "choice_but",
+      "label": "misogynistic",
+      "annotation_note": "Uses a 'not forcing, but' framing to normalize the idea that married women are more proper or auspicious when visibly marked."
+    },
+    {
+      "id": "F15_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Honestly, if someone wants all the respect of marriage but refuses even simple symbols like sindoor or shankha-pola, it does show a lack of regard for tradition. These things are not chains; they are what distinguish a married woman and honor the husband-wife bond.",
+      "plausible_deniability": "institutional_respectability",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly links a woman's marital respectability to publicly displaying symbols that mark her as married."
+    },
+    {
+      "id": "F15_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Ma, office mein daily sindoor pehenna comfortable nahi hota.\nSpeaker B: Beta, thoda sa laga logi toh kya hoga? Shaadi-shuda aurat par achha lagta hai, poorn nari jaisi dikhti hai, pati ki lambi umar ka bhi symbol hai.",
+      "plausible_deniability": "care_for_husband",
+      "label": "misogynistic",
+      "annotation_note": "A mother pressures her daughter to wear sindoor by tying feminine completeness and husband welfare to visible marital display."
+    },
+    {
+      "id": "F15_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Neha doesn't wear mangalsutra most days.\nSpeaker B: Then what's the point of marriage signs? If a woman is married, people should be able to tell. Otherwise it feels like she is hiding it for modern image.",
+      "plausible_deniability": "public_identity",
+      "label": "misogynistic",
+      "annotation_note": "Openly states that married women should visibly signal their status and casts non-compliance as suspicious."
+    },
+    {
+      "id": "F15_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Nothing against modern couples, but there is something so beautiful when a new bride keeps her shankha-pola and sindoor. It reflects belonging, blessings, and the quiet dignity of being truly married. #Sanskriti #Saubhagya",
+      "plausible_deniability": "aesthetic_tradition",
+      "label": "misogynistic",
+      "annotation_note": "Romanticizes visible marital markers as the dignified and authentic form of married womanhood."
+    },
+    {
+      "id": "F15_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Progressive banne ke chakkar mein many women have stopped even basic signs of marriage. Sorry but if you reject sindoor, mangalsutra, even husband's surname, don't blame elders for feeling you never accepted the marriage fully.",
+      "plausible_deniability": "respect_for_elders",
+      "label": "misogynistic",
+      "annotation_note": "Frames acceptance of marriage as contingent on adopting patriarchal markers like marital symbols and surname change."
+    },
+    {
+      "id": "F15_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the family pooja in Lucknow, Chachi quietly handed Aditi a sindoor box and said, 'Bas thoda sa laga lo, beta, suhagan aurat khaali maang mein achhi nahi lagti.'",
+      "plausible_deniability": "ritual_propriety",
+      "label": "misogynistic",
+      "annotation_note": "A subtle family comment policing how a married woman should look, implying deficiency without marital markers."
+    },
+    {
+      "id": "F15_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During onboarding, a colleague asked Priyanka why she still uses her maiden name after marriage and said it feels unnatural when wives don't take the husband's surname because marriage should show in identity too.",
+      "plausible_deniability": "normalcy_claim",
+      "label": "misogynistic",
+      "annotation_note": "Treats name change as the natural expectation for wives and suggests a woman's identity should visibly reflect marital ownership."
+    },
+    {
+      "id": "F15_035",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "As a Bengali woman, I wear shankha-pola because it connects me to my grandmother and my wedding rituals. I don't think every married woman must do the same, and respect should not depend on whether she wears any symbol.",
+      "plausible_deniability": "personal_choice_only",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses personal attachment to marital symbols without prescribing them for women generally or judging non-wearers."
+    },
+    {
+      "id": "F15_036",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My wife kept her surname after marriage and I took some time to adjust, but it's her call. Commitment is in how partners treat each other, not in sindoor, mangalsutra, or what name appears on LinkedIn.",
+      "plausible_deniability": "egalitarian_statement",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar topic, but explicitly rejects the idea that marital identity markers determine a woman's legitimacy or commitment."
+    }
+  ]
+}

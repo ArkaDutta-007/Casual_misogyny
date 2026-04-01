@@ -1,0 +1,372 @@
+{
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "misogyny_type": [
+    "Hostile Sexism",
+    "Objectification",
+    "Linguistic Misogyny"
+  ],
+  "covertness_level": "low — but normalized so often dismissed",
+  "examples": [
+    {
+      "id": "F12_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Arre yaar group me jo common gaali type bolte hain usko misogyny mat banao. Hum log kisi ki maa-behen ke bare me soch ke thodi bolte, bas expression hai.",
+      "plausible_deniability": "just_expression",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes abuse rooted in female kin/body by dismissing it as harmless expression and denying its misogynistic structure."
+    },
+    {
+      "id": "F12_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Match haar gaya to sab hero bane phir rahe the, but Rohit to bilkul ladkiyon jaisa ro raha tha. Thoda strong bano, har baat pe tootna accha nahi lagta.",
+      "plausible_deniability": "gendered_mockery",
+      "label": "misogynistic",
+      "annotation_note": "Uses femininity as an insult for weakness and emotionality, reinforcing female-coded inferiority."
+    },
+    {
+      "id": "F12_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "People are overanalyzing Indian slang. When college boys use those standard maa-behen based gaalis, it is not literally about women; it is just intensity markers in speech. Calling it misogyny feels like importing theory into everyday language.",
+      "plausible_deniability": "linguistic_neutralization",
+      "label": "misogynistic",
+      "annotation_note": "Defends normalized female-degrading abuse as neutral slang, erasing the gendered basis of the insult."
+    },
+    {
+      "id": "F12_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Let's be honest: the worst insult works only when it brings in a man's mother or sister. That's why those gaalis hit hard in India. If language has that power, why pretend it is offensive to women specifically? It is just how respect and shame operate.",
+      "plausible_deniability": "cultural_realism",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly endorses insult structures based on women's bodies/chastity as effective and normal, reinforcing misogynistic shame."
+    },
+    {
+      "id": "F12_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Why do you always use those family-type gaalis in every sentence?\nSpeaker B: Arre Nisha, everyone in Bangalore hostels talks like that. It's not about anyone's mother, don't take every word so seriously.",
+      "plausible_deniability": "normalization",
+      "label": "misogynistic",
+      "annotation_note": "Minimizes and normalizes misogynistic abuse by framing it as ordinary hostel speech rather than gendered degradation."
+    },
+    {
+      "id": "F12_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: He backed out of the fight.\nSpeaker B: Then tell him to stop acting like some weak woman and be a man for once.",
+      "plausible_deniability": "masculinity_policing",
+      "label": "misogynistic",
+      "annotation_note": "Directly uses womanhood as shorthand for cowardice and contrasts it with valued masculinity."
+    },
+    {
+      "id": "F12_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hot take: not every gaali needs a gender studies lecture. In gaming lobbies people say BC/MC-type stuff out of habit, not because they're targeting women. Chill.",
+      "plausible_deniability": "anti_oversensitivity",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses critique of misogynistic abuse and normalizes female-kin-based insults as habitual harmless speech."
+    },
+    {
+      "id": "F12_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "These so-called bold girls do one photoshoot and act classy. Then people get offended if someone uses the usual word for such women. Why should language change for them?",
+      "plausible_deniability": "norm_enforcement",
+      "label": "misogynistic",
+      "annotation_note": "Supports using sexually shaming labels against women who violate norms, policing women through gendered insult."
+    },
+    {
+      "id": "F12_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "In the office I told the interns not to say those mother-sister gaalis loudly, but honestly boys will talk like that among themselves. It doesn't mean they disrespect women.",
+      "plausible_deniability": "boys_will_be_boys",
+      "label": "misogynistic",
+      "annotation_note": "Frames misogynistic abuse as natural male behavior and separates language from disrespect despite its gendered structure."
+    },
+    {
+      "id": "F12_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My son needs to stop crying over every small thing. If he keeps behaving like a girl, how will he survive in the real world?",
+      "plausible_deniability": "toughening_up",
+      "label": "misogynistic",
+      "annotation_note": "Uses 'girl' as an insult associated with weakness and emotional inadequacy."
+    },
+    {
+      "id": "F12_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I have stopped using maa-behen type gaalis because I realized they are built on insulting female relatives. People can still swear without dragging women into it.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Critiques misogynistic slang rather than endorsing it; superficially similar because it discusses the same gaalis."
+    },
+    {
+      "id": "F12_012",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Can we retire the 'don't be a girl' type jokes in cricket commentary? Calling men feminine to shame them is still sexism, even if everyone laughs.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Rejects feminizing-as-insult language and explicitly identifies it as sexist."
+    },
+    {
+      "id": "F12_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Arre yaar group me jo common gaali log bolte hain usko misogyny mat banao. Hum kisi ki mom-sis ko target thodi kar rahe, bas frustration nikalta hai. Itna serious loge to normal baat bhi problem ho jayegi.",
+      "plausible_deniability": "just_expression",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes female-relative-based abuse as harmless expression and dismisses concern about misogynistic language."
+    },
+    {
+      "id": "F12_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Match haar gaye aur ye log phir wahi mom-sis wali gaaliyan spam kar rahe hain. Sach bolo, ladko ko lagta hi tab insult complete hota hai jab kisi aurat ki izzat beech me lao.",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly frames women’s bodies or honor as the core vehicle of insult, reinforcing misogynistic insult structure even while describing it."
+    },
+    {
+      "id": "F12_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "People are overthinking Indian gaalis. Most of these words have lost their literal meaning and function as punctuation in male speech. Saying they are anti-women is like saying every angry phrase must be taken literally. Language evolves; intent matters more than origin.",
+      "plausible_deniability": "linguistic_evolution",
+      "label": "misogynistic",
+      "annotation_note": "Defends and minimizes the misogynistic structure of common abuse by claiming literal references to women no longer matter."
+    },
+    {
+      "id": "F12_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Whether people like it or not, the harshest insults in our languages work because they invoke female sexuality or family women. That's why they hit harder than neutral abuses. You may dislike it, but that's simply how powerful language works in our culture.",
+      "plausible_deniability": "cultural_realism",
+      "label": "misogynistic",
+      "annotation_note": "Openly endorses the use of women’s sexuality and female relatives as the strongest form of degradation."
+    },
+    {
+      "id": "F12_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Why do you guys keep using those sister-mother type gaalis in every game?\nSpeaker B: Arre Neha, it's just gamer language. No one is actually insulting women, and if someone plays badly we just say don't act like a girl and move on.",
+      "plausible_deniability": "gaming_norms",
+      "label": "misogynistic",
+      "annotation_note": "Combines defense of female-relative abuse with feminizing poor performance as an insult."
+    },
+    {
+      "id": "F12_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why call him that? Just say he messed up.\nSpeaker B: Because plain words don't work. If a guy is crying and backing off, you shame him properly, otherwise he won't toughen up.",
+      "plausible_deniability": "discipline_toughness",
+      "label": "misogynistic",
+      "annotation_note": "Uses feminization and shame as a way to police masculinity, implying being like a woman is degrading."
+    },
+    {
+      "id": "F12_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hot take: not every common Hindi gaali is an attack on women. Sometimes BC/MC-type words are just emotional commas. Urban people hear one bad word and start giving TED Talks on patriarchy.",
+      "plausible_deniability": "irony_minimization",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses criticism of misogynistic abuse and frames female-targeted gaalis as harmless filler words."
+    },
+    {
+      "id": "F12_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Some girls post one bold reel and suddenly everyone starts using that one word for 'available woman.' Then the same people say it's just slang. Strange how the go-to insult for any woman is always sexual.",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "Reproduces the misogynistic pattern that sexually shames women who step outside norms, even while commenting on it."
+    },
+    {
+      "id": "F12_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office match screening, Rohit told the interns not to make a feminism issue out of everyday gaalis because 'boys talk like that' and nobody means the family references literally.",
+      "plausible_deniability": "boys_will_be_boys",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes misogynistic speech as standard male behavior and dismisses objections."
+    },
+    {
+      "id": "F12_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "When the trainee hesitated during the presentation, his manager muttered that he should stop behaving like a woman and speak like a man if he wants respect.",
+      "plausible_deniability": "performance_feedback",
+      "label": "misogynistic",
+      "annotation_note": "Directly uses femininity as an insult and equates respect with masculinity."
+    },
+    {
+      "id": "F12_023",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I stopped using common gaalis after realizing most of them drag in mothers, sisters, or women's sexuality as the basis of insult. Even if people say it's casual, I don't want my vocabulary built on that.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Critiques misogynistic language rather than endorsing it; superficially similar because it discusses the same gaalis."
+    },
+    {
+      "id": "F12_024",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "You can be angry without using family-based or gendered abuses. There are enough ways to trash-talk in cricket and gaming without making women the punchline every time.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Rejects misogynistic insult structures and advocates non-gendered alternatives."
+    },
+    {
+      "id": "F12_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Arre yaar group me jo common gaali type short forms use hote hain na, unko itna gender issue mat banao. Hum log bas frustration me bol dete hain, kisi ki maa-behen ko literally thodi bol rahe.",
+      "plausible_deniability": "just_expression",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes abuse rooted in female relatives and dismisses concern by claiming it is only expression."
+    },
+    {
+      "id": "F12_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Match haar ke ro kyun raha hai, thoda strong ban. Har baar itna soft react karega to log tujhe ladki jaise bolenge, phir bura mat manna.",
+      "plausible_deniability": "toughening_advice",
+      "label": "misogynistic",
+      "annotation_note": "Uses femininity as an insult and frames womanhood as weakness."
+    },
+    {
+      "id": "F12_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "People overread common Hindi gaalis. In most college and gaming spaces, nobody is consciously insulting mothers or sisters; the words have become generic intensifiers. Calling this misogyny feels like importing theory into normal speech.",
+      "plausible_deniability": "linguistic_neutralization",
+      "label": "misogynistic",
+      "annotation_note": "Defends misogynistic slurs as neutral intensifiers and erases their female-targeted structure."
+    },
+    {
+      "id": "F12_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Let's be honest: the harshest insults work because they hit family honor through the women of the house. That's why those gaalis sting. If language naturally evolved that way, pretending it's sexist is pointless.",
+      "plausible_deniability": "naturalization",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly validates insulting women and female sexuality as the most effective form of abuse."
+    },
+    {
+      "id": "F12_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Why do you guys keep using those family-type gaalis in every sentence?\nSpeaker B: Arre Neha, it's just habit yaar. We don't mean anyone's mother or sister, it's basically punctuation now.",
+      "plausible_deniability": "habit_defense",
+      "label": "misogynistic",
+      "annotation_note": "Minimizes misogynistic language by framing it as harmless habit despite its targeting of women."
+    },
+    {
+      "id": "F12_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why are you calling him that for backing out?\nSpeaker B: Because he acts weak every time. If a man can't handle pressure, people will obviously use feminine words for him.",
+      "plausible_deniability": "common_sense_gendering",
+      "label": "misogynistic",
+      "annotation_note": "Treats being compared to a woman as an insult and equates femininity with weakness."
+    },
+    {
+      "id": "F12_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hot take: not every desi gaali needs a feminist breakdown. Sometimes BC/MC-type words are just emotional release in cricket and gaming chats. Context matters, outrage bhi thoda control karo.",
+      "plausible_deniability": "anti_overreaction",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses criticism of misogynistic slang and normalizes woman-centered abuse as ordinary venting."
+    },
+    {
+      "id": "F12_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "These days any outspoken girl gets called 'empowered,' but if she behaves without shame people will use the usual word for that type. Society already has names for women who cross limits.",
+      "plausible_deniability": "moral_policing",
+      "label": "misogynistic",
+      "annotation_note": "Invokes sexually shaming labels for women who violate norms, reinforcing misogynistic control."
+    },
+    {
+      "id": "F12_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "At the office in Gurgaon, Ritu told the team those common maa-behen gaalis sound ugly. Aman laughed and said everyone talks like that in startups, and she shouldn't take every word as anti-women.",
+      "plausible_deniability": "workplace_normalization",
+      "label": "misogynistic",
+      "annotation_note": "Frames misogynistic abuse as standard workplace culture and dismisses objection as oversensitivity."
+    },
+    {
+      "id": "F12_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "During a family argument in Lucknow, an uncle scolded his son for crying and said no man in this house should behave like a woman when things get hard.",
+      "plausible_deniability": "discipline_tradition",
+      "label": "misogynistic",
+      "annotation_note": "Directly uses womanhood as a degrading comparison to enforce masculinity."
+    },
+    {
+      "id": "F12_035",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I grew up hearing these gaalis constantly, but that doesn't make them harmless. Even when people say they don't mean it literally, the insults still rely on degrading women and female relatives, which is why many of us want better language.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses the same topic but criticizes misogynistic language rather than endorsing it."
+    },
+    {
+      "id": "F12_036",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Can we stop using 'ladki', 'behen', or anything feminine as shorthand for weak? There are enough ways to trash-talk in sports without making womanhood itself the insult.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar because it mentions feminizing insults, but it explicitly rejects that misogynistic framing."
+    }
+  ]
+}

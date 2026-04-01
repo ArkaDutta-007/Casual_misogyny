@@ -1,0 +1,372 @@
+{
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "misogyny_type": [
+    "Neosexism",
+    "Derailing",
+    "Modern Sexism"
+  ],
+  "covertness_level": "medium",
+  "examples": [
+    {
+      "id": "F10_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, but why always blame the whole gender? Matlab, main bhi toh hoon, I never do such things. Itna generalize karna unfair hai. Not everyone is like that, na?",
+      "plausible_deniability": "fairness_plea",
+      "label": "misogynistic",
+      "annotation_note": "Challenges the generalization implied by women discussing male harassment, centers personal 'goodness' implicitly dismissing the shared experience of fear."
+    },
+    {
+      "id": "F10_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Honestly, sometimes I feel we women make it worse for ourselves. Not all guys are out to get you. I mean, my driver, my male colleagues like Rahul, they're so sweet. Itna zyada tension lena theek nahi, it creates unnecessary fear.",
+      "plausible_deniability": "personal_experience_based_advice",
+      "label": "misogynistic",
+      "annotation_note": "A woman dismisses other women's valid fears by sharing personal positive experiences and framing their wariness as excessive and creating 'unnecessary fear'."
+    },
+    {
+      "id": "F10_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I get that safety is important, but when women in discussions say they can't trust *any* man in a public space, doesn't that become self-fulfilling? Like, if I offer to help a woman with her luggage at the station, am I automatically a threat? This constant paranoia feels counterproductive, and honestly, a bit insulting to the vast majority of decent men trying to navigate society.",
+      "plausible_deniability": "logical_argument_for_social_harmony",
+      "label": "misogynistic",
+      "annotation_note": "Questions the rationality of women's safety measures, implying they are overly paranoid and insulting to men, rather than addressing the root cause of fear."
+    },
+    {
+      "id": "F10_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Every time a woman talks about 'male gaze' or 'street harassment,' it's always 'men do this, men do that.' Like, dude, I've never stalked anyone, I always make sure women feel comfortable around me. Why am *I* made to feel guilty? This isn't about one or two bad apples, it's about a systematic attempt to villainize an entire gender for the actions of a few perverts. Seriously, get a grip and stop blaming all of us!",
+      "plausible_deniability": "defense_of_self_and_peers",
+      "label": "misogynistic",
+      "annotation_note": "Expresses strong personal offense at general discussions of misogyny, accusing women of villainizing all men and dismissing systemic issues as individual 'perverts'."
+    },
+    {
+      "id": "F10_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: \"Yaar, last night I had to take a detour because there were some shady guys standing near the lane. I just don't feel safe walking alone after 9 PM.\"\nSpeaker B: \"Hmm, I get it, but sometimes I think we're too quick to judge. I mean, what if they were just chatting? My brother and his friends hang out late too. And it's not like all men are dangerous, no? Maybe try to smile sometimes instead of looking so scared, people might be friendlier then.\"",
+      "plausible_deniability": "offering_alternative_perspective",
+      "label": "misogynistic",
+      "annotation_note": "Minimizes a woman's legitimate fear by suggesting the men might be harmless and implies the fearful woman is overreacting or not being 'friendly' enough."
+    },
+    {
+      "id": "F10_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: \"I'm always a bit wary if a male colleague offers to drop me home, especially late. I prefer to book my own cab.\"\nSpeaker B: \"Toh matlab humne kya gunaah kiya? You think I'm some rapist or something? Yaar, you really think like that about your colleagues? It's insulting! Sometimes I worry about my safety too, walking alone late at night after a late shift, but no one talks about that, do they?\"",
+      "plausible_deniability": "self_defense_and_equality_claim",
+      "label": "misogynistic",
+      "annotation_note": "Takes personal offense at a woman's safety boundary, implying it's an accusation, frames it as insulting, and deflects by bringing up men's safety concerns."
+    },
+    {
+      "id": "F10_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Reading about women's experiences with harassment breaks my heart. But can we also acknowledge that good men who genuinely respect women get painted with the same brush? It's discouraging when every safety discussion turns into a 'men are the problem' narrative. It alienates potential allies. #NotAllMen #SupportGoodGuys",
+      "plausible_deniability": "expressing_frustration_on_behalf_of_innocents",
+      "label": "misogynistic",
+      "annotation_note": "While feigning empathy, the primary focus is on how 'good men' are negatively affected by discussions of harassment, rather than focusing on women's safety itself."
+    },
+    {
+      "id": "F10_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Honestly, the way some women carry on about 'male gaze' or 'unsafe spaces' is just exhausting. Are we supposed to live in a bubble? My dad, my husband, my brothers - they're all amazing. Maybe if some women stopped being so paranoid, they'd realize most men are just normal people trying to live their lives. It's not fair to make all men walk on eggshells because of a few bad apples. #CommonSense #GrowUp",
+      "plausible_deniability": "urging_practicality_and_fairness",
+      "label": "misogynistic",
+      "annotation_note": "A woman dismisses other women's concerns, framing their wariness as over-the-top paranoia and unfair to men."
+    },
+    {
+      "id": "F10_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "So our company is tying up with 'Women-Safe Cabs' for late night drops. Good initiative, but it almost feels like they're implying the male drivers can't be trusted. What about the reputation of all the honest guys like Ramesh and Suresh who drive for us? It's a bit disheartening, makes me wonder if they'd ever trust me to drop a female colleague home.",
+      "plausible_deniability": "concern_for_reputation_and_trust",
+      "label": "misogynistic",
+      "annotation_note": "Expresses concern about how a women-focused safety initiative negatively impacts the perception and trust of male drivers, framing it as an insult rather than a necessary safety measure."
+    },
+    {
+      "id": "F10_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Listen, I overheard you girls talking about always taking the women's compartment on the metro, even when it's super crowded and the general one is empty. Why do you do that? It's like you're actively avoiding us! We're your colleagues, your friends, not some goons. It's really insulting when you don't even give us a chance.",
+      "plausible_deniability": "desire_for_inclusion_and_fairness",
+      "label": "misogynistic",
+      "annotation_note": "Confronts women about their use of a women-only compartment, interpreting it as a personal affront and an unfair generalization that lumps him in with potential harassers."
+    },
+    {
+      "id": "F10_011",
+      "scenario_type": "social_media",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "It's truly sad to hear about the harassment women face daily. We as men need to actively call out problematic behavior and create safer environments for everyone. It's not just about 'not being that guy,' but about challenging those who are. Everyone deserves to feel safe and respected.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges the systemic issue and men's collective responsibility, without centering personal innocence or dismissing women's concerns. Focuses on collective action."
+    },
+    {
+      "id": "F10_012",
+      "scenario_type": "spoken_convo",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "Speaker A: \"I prefer taking a women-only ride-share service when travelling alone at night. It just gives me peace of mind.\"\nSpeaker B: \"Totally understandable. While I've generally had positive experiences with all types of drivers, I completely get wanting that extra layer of security. It's a real concern for many women, and whatever helps them feel safer is important.\"",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Shares personal positive experience without invalidating another woman's fears or implying she is overreacting. Acknowledges the validity of the safety concern for others."
+    },
+    {
+      "id": "F10_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, but not all guys are like that, right? Mujhe toh bura lagta hai when women generalize. Main toh kabhi aisa kuch nahi karunga. It feels unfair to us 'good' guys.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses women's collective experience by centering self and expressing personal offense at generalization, rather than focusing on the issue itself."
+    },
+    {
+      "id": "F10_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Women choosing female-only cabs because of 'safety' is just rude. Why assume all male drivers are rapists? It’s unfair to decent men who just want to earn. Aise toh koi trust hi nahi karega. Kabhi socha hai hum mardon ko kaisa feel hota hai?",
+      "plausible_deniability": "misunderstanding_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames women's safety choices as an 'insult' to men, demanding trust and dismissing their fears as irrational or prejudicial. Demands empathy for men's feelings instead."
+    },
+    {
+      "id": "F10_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I get that women have to be careful, but the constant narrative of 'men are dangerous' makes it really hard for us everyday guys. We're not all predators, and it feels like we're being painted with the same brush. Can't we acknowledge the good guys too without this blanket distrust?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "While acknowledging safety, it quickly pivots to centering men's feelings of being 'misunderstood' and generalizes women's wariness as 'blanket distrust' rather than a valid safety mechanism."
+    },
+    {
+      "id": "F10_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "The way women always complain about men staring or passing comments, you'd think every man is a pervert. It’s a tiny minority, but women’s paranoia makes life difficult for everyone. Why do they assume the worst? Main toh avoid hi karta hoon female colleagues ko because you never know when they'll 'feel unsafe'.",
+      "plausible_deniability": "misunderstanding_defense",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses women's concerns as 'paranoia,' downplays systemic issues as 'tiny minority,' and expresses personal inconvenience/avoidance, framing women's wariness as a burden/threat to 'good men'."
+    },
+    {
+      "id": "F10_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A (woman): \"Ugh, the street harassment in Delhi is just unbearable. Every time I step out, I feel eyes on me.\" \nSpeaker B (Rahul): \"Yeah, that's bad, I agree. But I just wish women wouldn't paint all men with the same brush. I mean, main toh kabhi aisa nahi karunga. Ab mere se bhi darr lagta hai kya when I'm just walking by?\"",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Derails the conversation about women's experience by expressing personal offense and demanding women prove trust, rather than acknowledging the systemic issue."
+    },
+    {
+      "id": "F10_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A (older woman): \"It's not safe for girls to be out after 8 in Bangalore, you never know what kind of men are around.\" \nSpeaker B (Priyanka): \"Aunty, please, it's not 'all men'. My male friends are super protective and decent. Why do we always have to assume the worst about guys? It's insulting to them, especially the good ones like my brother and his friends.\"",
+      "plausible_deniability": "misunderstanding_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman's voice dismissing another woman's safety concern by using the 'not all men' argument, framing the general wariness as an 'insult' to 'good men' and demanding trust."
+    },
+    {
+      "id": "F10_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Seeing so many posts about women's safety makes me sad, of course it's crucial. But why does it always have to become a 'men are bad' narrative? My father, my brother, my male friends are all great. Are we supposed to be suspicious of every single man now? That's not fair to them. #NotAllMen",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman's voice using 'not all men' to dismiss collective experiences, centering the 'fairness' to individual men she knows, and challenging the rationality of women's vigilance."
+    },
+    {
+      "id": "F10_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "This whole 'women crossing the road to avoid male strangers' thing is ridiculous. It just perpetuates the myth that all men are predators. If you cross the road every time you see a guy, you're not making yourself safer, you're just being prejudiced. We men are also human, show some respect and trust. Mujhko toh seedha insult feel hota hai.",
+      "plausible_deniability": "misunderstanding_defense",
+      "label": "misogynistic",
+      "annotation_note": "Attacks women's safety behavior as 'prejudiced' and 'ridiculous', framing it as a personal 'insult' to men, and demanding trust rather than understanding the root cause of women's fear."
+    },
+    {
+      "id": "F10_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Oh, you use that female-driven cab service? I mean, I get wanting to be safe, but it's a bit much, no? Most of us male drivers are just trying to earn a living, you know. It feels like we're all being judged before we even open our mouths.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Challenges a woman's safety choice by expressing personal offense on behalf of 'good men' and implying her choice is an overreaction that unfairly judges all men."
+    },
+    {
+      "id": "F10_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Mom, please! Just because *some* men are creeps doesn't mean I should treat *all* men like they're dangerous. My friends' boyfriends are perfectly decent. It's like you want me to live in fear and constantly distrust half the population. It's not fair to the good guys.",
+      "plausible_deniability": "misunderstanding_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman's voice dismissing parental safety advice by invoking 'not all men,' challenging the rationality of women's vigilance as living in 'fear' and 'distrust,' and centering fairness to 'good guys'."
+    },
+    {
+      "id": "F10_023",
+      "scenario_type": "near_miss",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "It's horrible what some men do. We as men need to take responsibility and actively call out our peers who behave inappropriately and work towards a safer environment for women. There's no excuse for such behavior.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Focuses on male accountability and collective action to address misogyny, rather than deflecting or expressing personal offense at generalizations."
+    },
+    {
+      "id": "F10_024",
+      "scenario_type": "near_miss",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "This personal safety workshop sounds great! While it's crucial for us to be vigilant, I also hope there are more initiatives to educate men and boys on consent and respectful behavior. Prevention is key from all sides.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges and validates women's need for safety but constructively suggests broader societal change, without dismissing women's fears or centering men's feelings of being generalized."
+    },
+    {
+      "id": "F10_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, I get the concern about safety, but kyon sabko ek hi brush se paint karte ho? Like, main toh hamesha proper behave karta hoon. It feels kinda unfair to us 'good guys' when you generalize like that.",
+      "plausible_deniability": "personal_experience_dispute",
+      "label": "misogynistic",
+      "annotation_note": "Speaker dismisses generalized female concern by centering his 'good guy' identity and claiming unfairness to men, implicitly challenging the validity of women's fear."
+    },
+    {
+      "id": "F10_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Honestly, Sanya, itna overthink mat kar. I mean, not all guys are creeps. Aur yaar, itna suspicious rehna, it's exhausting for everyone. Sometimes I feel bad for the normal guys who just wanna be friends, unko bhi toh judgment face karna padta hai.",
+      "plausible_deniability": "rationality_challenge",
+      "label": "misogynistic",
+      "annotation_note": "A woman speaker minimizes another woman's wariness as 'overthinking' and 'suspicious', demanding empathy for 'normal guys' who are 'judged', thereby dismissing the systemic issue."
+    },
+    {
+      "id": "F10_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "While women's safety is crucial, the constant narrative that *all* men are potential threats is deeply insulting. I, for one, have always gone out of my way to ensure women feel comfortable and safe around me. It feels like good men are being unfairly painted with the same brush.",
+      "plausible_deniability": "personal_experience_dispute",
+      "label": "misogynistic",
+      "annotation_note": "Speaker expresses offense at women's general safety narratives, using his personal 'good guy' behavior to invalidate a systemic critique and frame it as an unfair accusation against men."
+    },
+    {
+      "id": "F10_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "This 'women-only' obsession just perpetuates fear and division. If you constantly assume every man is a danger, how can society progress? It’s not just about 'safety,' it’s about a lack of trust that unfairly demonizes men. Why do women feel the need to constantly project this paranoia onto decent guys trying to live their lives?",
+      "plausible_deniability": "rationality_challenge",
+      "label": "misogynistic",
+      "annotation_note": "Speaker dismisses women's preference for female-only spaces as 'obsession' and 'paranoia', framing it as an irrational act that 'demonizes' and insults 'decent guys'."
+    },
+    {
+      "id": "F10_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Yaar, sometimes I feel like I have to walk on eggshells, even with male colleagues. That constant gaze is so draining.\nSpeaker B: Hmm, I get what you mean, but are we being a bit too sensitive sometimes? Most of our male colleagues are genuinely decent, no? Maybe it's not always meant that way. It's a bit unfair to them to always assume the worst.",
+      "plausible_deniability": "rationality_challenge",
+      "label": "misogynistic",
+      "annotation_note": "A woman speaker questions the validity of another woman's discomfort, framing it as potential oversensitivity and an unfair assumption about 'decent' male colleagues."
+    },
+    {
+      "id": "F10_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: After what happened, I just don't feel safe walking alone at night anymore, even in my own colony.\nSpeaker B: But why do you immediately assume *every* guy is a threat? Like, I'm right here. I'd never do anything like that. Why do you automatically distrust me just because I'm a man? It's really hurtful to hear women talk like all men are rapists, main toh aise nahi hoon.",
+      "plausible_deniability": "personal_experience_dispute",
+      "label": "misogynistic",
+      "annotation_note": "Speaker takes a discussion about women's general safety concerns personally, using his 'good guy' identity to accuse the woman of distrusting him and unfairly generalizing all men."
+    },
+    {
+      "id": "F10_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Terrible incident, absolutely condemn it. But let's not let a few monsters define all men. I, and countless other men, would never stand for such behavior. It's crucial to acknowledge 'not all men' are like that, otherwise, we alienate potential allies. #NotAllMen #MensRightsToo",
+      "plausible_deniability": "personal_experience_dispute",
+      "label": "misogynistic",
+      "annotation_note": "Speaker acknowledges a negative incident but immediately pivots to 'not all men', centering the potential alienation of male 'allies' rather than the women's experience, framing it as an unfair generalization."
+    },
+    {
+      "id": "F10_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Honestly, this constant need to assume the worst about every man you encounter is exhausting and unfair. How do you expect men to ever feel trusted or respected when women act like they're all potential predators? Imagine how insulting it is for a guy just walking home, only for a woman to cross the street just because he exists. #TrustMen #Equality",
+      "plausible_deniability": "rationality_challenge",
+      "label": "misogynistic",
+      "annotation_note": "A woman speaker attacks women's safety behaviors (like crossing the street) as an 'exhausting and unfair' assumption that insults men, demanding trust from women instead of acknowledging their fear."
+    },
+    {
+      "id": "F10_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "While I understand the sentiment behind a women-only carpool, it does feel a bit exclusionary to the male employees who are always very respectful. For instance, I've always ensured my female colleagues reach home safely. It sends a message that even the 'good guys' aren't to be trusted, which isn't fair to our efforts.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker expresses offense at a women-only carpool option, framing it as an unfair distrust of 'respectful' male colleagues and a dismissal of his own 'good guy' efforts."
+    },
+    {
+      "id": "F10_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Arre, but why are you lumping all men together, beta? It's not right. Your Chacha and all the men in this family are good people. You're talking as if we are all the same. It makes me feel like you don't even trust me, your own uncle. Ek baar mard ki bhi suno, we also have to deal with these accusations.",
+      "plausible_deniability": "generalization_policing",
+      "label": "misogynistic",
+      "annotation_note": "Speaker personally takes offense to a niece's discussion of street harassment, using family connections to claim she is unfairly generalizing and personally distrusting him, demanding empathy for men."
+    },
+    {
+      "id": "F10_035",
+      "scenario_type": "social_media",
+      "covertness": "non_applicable",
+      "speaker_gender": "man",
+      "text": "It's heartbreaking to hear these stories of harassment. We absolutely need to hold perpetrators accountable. I just hope that in our collective anger, we don't accidentally target innocent individuals or generalize unfairly, which could undermine the cause itself.",
+      "plausible_deniability": "non_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Speaker expresses concern about precise accountability without dismissing the problem of harassment or invalidating women's experiences. The focus is on effective justice, not personal offense."
+    },
+    {
+      "id": "F10_036",
+      "scenario_type": "spoken_convo",
+      "covertness": "non_applicable",
+      "speaker_gender": "woman",
+      "text": "Speaker A: I hate that I still feel so unsafe walking around at night. It's like you can't trust anyone.\nSpeaker B: I know, it's terrible. But I try to remember there are good people too, and we shouldn't let the fear paralyze us completely. We need to be alert, yes, but also work towards a future where this isn't the norm.",
+      "plausible_deniability": "non_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Speaker validates the initial concern about safety and does not dismiss it. While mentioning 'good people', it's framed as resilience and future-oriented hope, not a demand for trust or a challenge to the other speaker's current feeling of unsafety."
+    }
+  ]
+}

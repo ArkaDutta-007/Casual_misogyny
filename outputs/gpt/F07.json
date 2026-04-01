@@ -1,0 +1,372 @@
+{
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "misogyny_type": [
+    "Benevolent Sexism",
+    "Complementary Gender Differentiation",
+    "Objectification"
+  ],
+  "covertness_level": "high",
+  "examples": [
+    {
+      "id": "F07_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Aaj function me saree pehenna yaar, tum waise hi sabse zyada graceful lagti ho. Western mein achhi ho but saree mein proper decent vibe aati hai ❤️",
+      "plausible_deniability": "compliment_culture",
+      "label": "misogynistic",
+      "annotation_note": "Backhanded compliment ranks traditional dress as more decent and respectable than western clothes."
+    },
+    {
+      "id": "F07_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Itne revealing kapde pehenogi toh log dekhenge hi na. Main bas bol raha hoon, thoda sabhya dress karo toh unnecessary attention kam hoga.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly links harassment and male attention to a woman's clothing and frames modest dress as her responsibility."
+    },
+    {
+      "id": "F07_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Personally, I feel Indian women look their most elegant in saree or salwar because it reflects our culture and maryada. It's not about controlling anyone, but some outfits naturally give a more respectable impression than overly westernized ones.",
+      "plausible_deniability": "cultural_pride",
+      "label": "misogynistic",
+      "annotation_note": "Uses cultural pride and respectability framing to suggest women's character and worth are signaled by traditional dress."
+    },
+    {
+      "id": "F07_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People can deny it, but clothes do say a lot about a person. Girls who dress too boldly should not be surprised if others make assumptions, because presentation affects how decent or serious someone appears.",
+      "plausible_deniability": "common_sense_claim",
+      "label": "misogynistic",
+      "annotation_note": "Directly ties women's clothing to moral character and legitimizes judgment based on dress."
+    },
+    {
+      "id": "F07_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Neha, engagement pe lehenga hi pehen lena, beta. Tum bilkul Indian bride jaisi lagogi.\nSpeaker B: I was thinking of a gown.\nSpeaker A: Gown bhi theek hai, but traditional mein ladki ki asli grace dikhti hai, zyada sobar lagta hai.",
+      "plausible_deniability": "elderly_advice",
+      "label": "misogynistic",
+      "annotation_note": "An elder pressures a woman toward traditional wear by implying it reveals her proper, sober femininity."
+    },
+    {
+      "id": "F07_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: She said some boys were bothering her outside college.\nSpeaker B: Main toh kehta hoon, itne short kapde pehenke niklegi toh ladke dekhenge hi. Thoda decent rahe toh aise issues kam honge.",
+      "plausible_deniability": "practical_advice",
+      "label": "misogynistic",
+      "annotation_note": "Blames harassment on the woman's clothing and positions modesty as the solution."
+    },
+    {
+      "id": "F07_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "No offense but Indian women in saree >>> anything western. There is a different level of elegance, sharam, and culture in it. Saree te e nari for a reason.",
+      "plausible_deniability": "preference_claim",
+      "label": "misogynistic",
+      "annotation_note": "Romanticizes traditional dress while tying it to modesty and ideal womanhood."
+    },
+    {
+      "id": "F07_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Girls can wear what they want, but then don't complain when people judge. Some clothes simply don't carry the same maryada, especially at public places and family events.",
+      "plausible_deniability": "just_being_honest",
+      "label": "misogynistic",
+      "annotation_note": "Frames public judgment of women as warranted based on whether their clothes meet standards of modesty."
+    },
+    {
+      "id": "F07_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office ethnic day, the manager told Ritu, 'You should dress like this more often; in saree you look much more respectable and mature.'",
+      "plausible_deniability": "professionalism_frame",
+      "label": "misogynistic",
+      "annotation_note": "Treats traditional dress as making a woman more respectable and professionally valid than other clothing."
+    },
+    {
+      "id": "F07_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During a family puja, an aunt said the younger girls should avoid 'modern' dresses because then boys get the wrong idea, whereas salwar-kameez keeps a girl's image clean.",
+      "plausible_deniability": "family_reputation",
+      "label": "misogynistic",
+      "annotation_note": "Equates traditional clothing with purity and blames non-traditional dress for male sexualization."
+    },
+    {
+      "id": "F07_011",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Kal ethnic day hai na, tu kurta pehen lena if you feel like it. Last time ka look genuinely very elegant tha, full festive vibes.",
+      "plausible_deniability": "style_preference",
+      "label": "non_misogynistic",
+      "annotation_note": "Compliments a traditional outfit without implying moral superiority, decency, or blame for non-traditional clothing."
+    },
+    {
+      "id": "F07_012",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Different clothes fit different occasions. Sarees and salwar suits can feel culturally meaningful at weddings, but that doesn't make jeans or dresses less respectable; context and personal comfort both matter.",
+      "plausible_deniability": "balanced_opinion",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses traditional dress positively while explicitly rejecting the idea that other clothing reduces respectability."
+    },
+    {
+      "id": "F07_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Aaj saree wali pic best thi yaar, bilkul graceful and decent. Waise western mein bhi okay ho, but Indian wear mein asli elegance dikhti hai.",
+      "plausible_deniability": "compliment_culture",
+      "label": "misogynistic",
+      "annotation_note": "Backhanded compliment that frames traditional clothing as more decent and authentic, implying higher respectability."
+    },
+    {
+      "id": "F07_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Itne short kapde pehenogi toh log dekhenge hi na, phir awkward feel karke kya fayda. Thoda sabhya dress karo, better rahega.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly links harassment or staring to a woman's clothing and urges her to dress more modestly."
+    },
+    {
+      "id": "F07_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I am not against modern clothes, but there is a reason many families still prefer saree or salwar at functions. Traditional dressing carries a certain maryada and shows respect for the occasion; honestly Indian women look most elegant when they present themselves that way.",
+      "plausible_deniability": "tradition_respect",
+      "label": "misogynistic",
+      "annotation_note": "Frames traditional dress as the respectful and proper choice for women, tying clothing to moral worth and feminine value."
+    },
+    {
+      "id": "F07_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People can deny it, but clothing does signal intent. If someone dresses in a very revealing Western way, attention will naturally come, whereas decent girls usually know how to stay within limits and avoid that kind of scene.",
+      "plausible_deniability": "common_sense_claim",
+      "label": "misogynistic",
+      "annotation_note": "Associates revealing clothing with inviting attention and contrasts it with 'decent girls,' judging character through dress."
+    },
+    {
+      "id": "F07_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Riya, lehenga mein tu alag hi lag rahi hai, bilkul apni si.\nSpeaker B: Matlab jeans mein nahi?\nSpeaker A: Arre nahi, bas Indian wear mein ladkiyon ki softness aur sobar look aur achha aata hai.",
+      "plausible_deniability": "compliment_deflection",
+      "label": "misogynistic",
+      "annotation_note": "Presents traditional dress as revealing a woman's proper or authentic femininity, implying other clothes are less fitting."
+    },
+    {
+      "id": "F07_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why is everyone staring at her?\nSpeaker B: Bhai, aise kapde pehenke aayegi toh log notice karenge hi. Saree ya normal salwar pehenti toh zyada decent lagti.",
+      "plausible_deniability": "observation_not_blame",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes staring and shifts responsibility to the woman's non-traditional clothing while defining traditional wear as more decent."
+    },
+    {
+      "id": "F07_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "No hate to western outfits, but nothing beats a saree. Saree te e nari — grace, culture, sabhyata, everything in one look.",
+      "plausible_deniability": "cultural_pride",
+      "label": "misogynistic",
+      "annotation_note": "Idealizes women in traditional wear as the proper embodiment of grace and culture, implying a hierarchy of respectability."
+    },
+    {
+      "id": "F07_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Modern fashion ke naam pe kuch bhi mat normalise karo. Phir bolte ho men should not stare — bhai, khud hi invite kar rahi hai attention if she dresses like that.",
+      "plausible_deniability": "blunt_honesty",
+      "label": "misogynistic",
+      "annotation_note": "Directly blames women for male staring by saying their clothing invites attention."
+    },
+    {
+      "id": "F07_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "At the office ethnic day, Shalini's manager told her, 'You should wear sarees more often, you look so much more decent and presentable in them.' Everyone smiled as if it was praise.",
+      "plausible_deniability": "professionalism_frame",
+      "label": "misogynistic",
+      "annotation_note": "Uses workplace respectability language to rank traditional clothing as more decent and professionally appropriate for a woman."
+    },
+    {
+      "id": "F07_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Before the wedding puja, an uncle said the girls should avoid 'too modern' dresses because good families maintain maryada, and then there are fewer chances of unwanted comments from men.",
+      "plausible_deniability": "elder_advice",
+      "label": "misogynistic",
+      "annotation_note": "Polices women's dress through family honor and implies harassment can be prevented by dressing traditionally."
+    },
+    {
+      "id": "F07_023",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Loved your Onam look! The kasavu saree styling, jewelry, everything felt so rooted and beautiful. You should wear traditional more if you enjoy it.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Positive appreciation of traditional clothing without judging character, respectability, or blaming other clothing choices."
+    },
+    {
+      "id": "F07_024",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Colleges can have dress codes for everyone, but safety and respect should never depend on whether a woman wears jeans, saree, or salwar.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Mentions dress codes and women's clothing but explicitly rejects linking attire to respect or harassment."
+    },
+    {
+      "id": "F07_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Aunty: Beta kal function me saree pehen lena, tum usme bahut sobar aur decent lagti ho. Ye western outfits theek hain outing ke liye, par family occasions me ladki par traditional hi suit karta hai.",
+      "plausible_deniability": "culture_appreciation",
+      "label": "misogynistic",
+      "annotation_note": "Frames traditional dress as the proper and respectable choice for women, implying other clothing is less decent."
+    },
+    {
+      "id": "F07_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Bhai itne revealing kapde pehen ke niklegi toh log dekhenge hi na. Phir bolte hain boys stare kar rahe hain, thoda maryada me rehna bhi hota hai.",
+      "plausible_deniability": "victim_blaming_as_realism",
+      "label": "misogynistic",
+      "annotation_note": "Directly links a woman's clothing to harassment and places responsibility on her to prevent male behavior."
+    },
+    {
+      "id": "F07_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I am not against modern fashion, but Indian women genuinely look most graceful in saree or salwar. There is a certain sabhya presence in traditional wear that western outfits often lack, especially in colleges and family spaces where decorum matters.",
+      "plausible_deniability": "preference_not_control",
+      "label": "misogynistic",
+      "annotation_note": "Uses culture and grace language to rank women's clothing by respectability and imply western dress lacks decorum."
+    },
+    {
+      "id": "F07_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People can deny it, but clothes do say something about values. A girl who dresses very revealingly should not act shocked if people assume she is seeking attention; traditional dressing naturally commands more respect.",
+      "plausible_deniability": "social_common_sense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly ties a woman's character and deserved respect to how revealing her clothes are."
+    },
+    {
+      "id": "F07_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Nisha, aaj toh bilkul Indian bride lag rahi ho yaar, saree me aur bhi sundar lagti ho.\nSpeaker B: Haha bas shaadi ka function hai.\nSpeaker A: Sach me, ye look tumhari personality ko zyada decent dikhata hai.",
+      "plausible_deniability": "backhanded_compliment",
+      "label": "misogynistic",
+      "annotation_note": "Compliments traditional wear by suggesting it makes her seem more decent, implying other styles make her less respectable."
+    },
+    {
+      "id": "F07_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: She was upset because some guys kept commenting on her clothes.\nSpeaker B: Main toh kehta hoon agar itna short pehen ke jaogi toh ladke dekhenge hi. Simple salwar pehenti toh koi issue hi nahi hota.",
+      "plausible_deniability": "practical_advice",
+      "label": "misogynistic",
+      "annotation_note": "Blames harassment on the woman's clothing and suggests traditional dress would prevent it."
+    },
+    {
+      "id": "F07_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Indian women in saree > every fast-fashion trend. There is just something about maryada, elegance, and our culture that western outfits can never match. #SareeTeNari #IndianBeauty",
+      "plausible_deniability": "cultural_pride",
+      "label": "misogynistic",
+      "annotation_note": "Idealizes women in traditional dress as more elegant and culturally proper, implying a hierarchy of female worth by clothing."
+    },
+    {
+      "id": "F07_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Not judging, but if someone dresses to attract attention, attention will come. Respectable girls know where to draw the line; you can't wear anything and then complain about the response.",
+      "plausible_deniability": "not_judging_disclaimer",
+      "label": "misogynistic",
+      "annotation_note": "Defines 'respectable girls' by modest dress and excuses harassment as a natural response."
+    },
+    {
+      "id": "F07_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "At the office ethnic day, Priya's manager told her, 'This kurta look is very nice, you seem much more grounded and professional like this than in those party-type dresses.'",
+      "plausible_deniability": "professionalism_frame",
+      "label": "misogynistic",
+      "annotation_note": "Associates traditional clothing with professionalism and grounded character, devaluing other clothing as less respectable."
+    },
+    {
+      "id": "F07_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "During a family wedding in Kolkata, an uncle said, 'Shankha, pola, saree — tabhi toh bouma jaisi lagogi. Aise modern kapde pehenogi toh log ulta-seedha bolenge, phir bura mat manna.'",
+      "plausible_deniability": "elders_know_best",
+      "label": "misogynistic",
+      "annotation_note": "Pressures a woman to dress traditionally to be seen as a proper wife/daughter-in-law and normalizes social harassment otherwise."
+    },
+    {
+      "id": "F07_035",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Ananya: For the pooja I'm wearing a saree because dadi likes it and honestly it feels festive.\nRitu: Nice, wear whatever makes you comfortable. Traditional clothes can be beautiful, but it's your call.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses appreciation for traditional clothing without ranking women's character or blaming them for others' behavior."
+    },
+    {
+      "id": "F07_036",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Sarees, salwars, jeans, gowns — Indian fashion is diverse and all of it can look great. Culture isn't weakened by women choosing different styles for different occasions.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Mentions traditional vs other clothing but explicitly supports women's choice and does not tie dress to respectability."
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "misogyny_type": [
+    "Hostile Sexism",
+    "Heterosexual Hostility",
+    "Stereotype"
+  ],
+  "covertness_level": "low-medium",
+  "examples": [
+    {
+      "id": "F02_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Guys, Meera is being so difficult about the project deadline. Chill kar na, itni serious kyu ho rahi hai? 🤷‍♂️",
+      "plausible_deniability": "dismissive_advice",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses a woman's legitimate concern as an overreaction, subtly implying irrationality without direct hormone reference."
+    },
+    {
+      "id": "F02_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Bro, Ritu's gone full hulk today! 😅 Is it that time of the month ya kya? Tell her to chill. #PMSvibes",
+      "plausible_deniability": "humor_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly attributes a woman's anger to her menstrual cycle, invalidating her emotional state as biologically determined."
+    },
+    {
+      "id": "F02_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Honestly, for high-pressure roles, you need someone who can make decisions logically, not based on transient emotions. Some women just get too carried away, which isn't ideal for a CEO.",
+      "plausible_deniability": "general_observation",
+      "label": "misogynistic",
+      "annotation_note": "Stereotypes women as excessively emotional, implying their decisions are less rational and unsuitable for leadership, without explicitly mentioning hormones."
+    },
+    {
+      "id": "F02_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Anyone else notice how women's opinions can swing wildly? It's like their hormones literally dictate their logic. You can't have stable policy if everyone's operating on 'period brain'.",
+      "plausible_deniability": "scientific_inquiry_joke",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly links women's emotional states and rationality to their hormones, dismissing their opinions as inherently unstable."
+    },
+    {
+      "id": "F02_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: I'm so fed up with Rohit always taking credit for my work. It's infuriating! Speaker B (Priya): Uff, calm down, yaar. Don't take it so personally, just let it go. You're being a bit too sensitive today.",
+      "plausible_deniability": "friendly_advice",
+      "label": "misogynistic",
+      "annotation_note": "A woman dismisses another woman's valid frustration as 'too sensitive' or 'taking it personally', implying an irrational emotional reaction."
+    },
+    {
+      "id": "F02_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A (Rohan): Why is Shruti so angry about the presentation? She's usually so chill. Speaker B (Arjun): Pata nahin, bro. Maybe it's that time of the month for her? Best not to argue with her today.",
+      "plausible_deniability": "innocent_question",
+      "label": "misogynistic",
+      "annotation_note": "Directly attributes a woman's anger to her menstrual cycle, suggesting her current state is due to hormones rather than valid reasons."
+    },
+    {
+      "id": "F02_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Why do some people always have to turn every discussion into a dramatic fight? Just state your point without the mood swings. 🙄 #logicoveremotion",
+      "plausible_deniability": "general_complaint",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes and stereotypes women as prone to 'mood swings' in discussions, implying their arguments are emotional and lacking logic."
+    },
+    {
+      "id": "F02_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "My boss is being extra demanding today, pretty sure she's PMSing. 😬 Stay safe everyone, it's a red alert! #periodproblems #femalelogic",
+      "plausible_deniability": "self_deprecating_humor",
+      "label": "misogynistic",
+      "annotation_note": "A woman perpetuates the stereotype by attributing her female boss's behavior to hormones, making light of the idea that women's professional conduct is hormonally driven."
+    },
+    {
+      "id": "F02_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "During the quarterly review, when Ms. Sharma asserted her team's achievements very strongly, a senior manager murmured to a colleague, 'She's a little too passionate today, isn't she? Must be a rough week.'",
+      "plausible_deniability": "casual_observation",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses a woman's professional assertiveness by framing it as an emotional overreaction, implying her 'passion' is due to personal struggle rather than professional conviction."
+    },
+    {
+      "id": "F02_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "When my sister Neha got upset about a comment at the dinner table, my uncle laughed and said, 'Arre Neha, itna serious mat ho, beta. Is it that time of the month again? Hormones hain, hota hai.'",
+      "plausible_deniability": "caring_joke",
+      "label": "misogynistic",
+      "annotation_note": "Openly attributes a young woman's upset to her menstrual cycle and hormones, dismissing her feelings as biologically determined and therefore invalid or irrational."
+    },
+    {
+      "id": "F02_011",
+      "scenario_type": "spoken_convo",
+      "covertness": "NA",
+      "speaker_gender": "man",
+      "text": "Speaker A: I'm feeling really stressed with these new project deadlines. Speaker B: I hear you. You seem a bit overwhelmed. Let's grab some coffee and talk through it, maybe we can prioritize some tasks.",
+      "plausible_deniability": "NA",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses genuine empathy and offers practical support without invalidating the person's feelings or attributing them to gender/hormones."
+    },
+    {
+      "id": "F02_012",
+      "scenario_type": "social_media",
+      "covertness": "NA",
+      "speaker_gender": "woman",
+      "text": "Ugh, my period cramps are killing me today. I'm so irritable and just want to curl up in bed. 😖",
+      "plausible_deniability": "NA",
+      "label": "non_misogynistic",
+      "annotation_note": "A woman describing her own physical discomfort and mood changes due to her period, without using it to invalidate her own or other women's emotional states or rationality in general."
+    },
+    {
+      "id": "F02_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bro, Sarika is just being super emotional today. Don't take her serious presentation feedback too seriously. You know how some days are.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses a woman's professional feedback as 'emotional' and implicitly linked to her 'days' without direct hormone mention, rendering her input less valid."
+    },
+    {
+      "id": "F02_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Dude, Priya's totally on her period, right? That's why she's so snappy in the group chat. Chill kar, it'll pass. 😂",
+      "plausible_deniability": "humor_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly attributes a woman's 'snappy' behavior to her period, dismissing her emotional state as biologically determined and temporary."
+    },
+    {
+      "id": "F02_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I've noticed that whenever a female colleague gets really assertive or passionate about something, it almost feels... irrational sometimes. Not saying all women, but there's a certain 'intensity' that can derail a logical discussion. Maybe it's just how they're wired differently.",
+      "plausible_deniability": "rational_critique_defense",
+      "label": "misogynistic",
+      "annotation_note": "Uses indirect language ('irrational', 'intensity', 'wired differently') to imply women's assertiveness is emotionally driven and less rational, aligning with the core belief."
+    },
+    {
+      "id": "F02_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Why is it that whenever women push for 'equality' in the workplace, they ignore biological realities? You can't expect consistent rationality from someone whose mood literally cycles every month. It's science, not sexism. Just don't schedule major decisions around 'that time' if you want stable outcomes.",
+      "plausible_deniability": "fact_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly attributes fluctuating rationality in women to their menstrual cycle, using 'biological realities' and 'science' to dismiss their professional capabilities."
+    },
+    {
+      "id": "F02_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: 'Did you hear how upset Anjali was about the project changes? She sounded really angry and frustrated.' Speaker B: 'Haan yaar, kuch zyada hi overreact kar rahi thi. Maybe she just needs to... you know, take a deep breath. She gets like that sometimes when things don't go her way.'",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses Anjali's anger and frustration as 'overreacting' and a personal 'trait' ('gets like that sometimes'), implicitly suggesting it's an irrational, emotional response rather than valid critique."
+    },
+    {
+      "id": "F02_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: 'Rhea was so assertive in that meeting, almost aggressive. I was shocked.' Speaker B: 'Yeah, I noticed. Must be that time of the month, no? She's usually so sweet. Kabhi kabhi hormones play up, I guess, makes them extra feisty.'",
+      "plausible_deniability": "humor_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly attributes a woman's assertiveness and 'feisty' behavior to her menstrual cycle, implying it's an abnormal, hormone-driven deviation from her 'usually sweet' nature."
+    },
+    {
+      "id": "F02_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My bestie is having a meltdown over something so minor today. 😂 Guess it's one of those days when emotions just run high for no reason! #moodswings #girlsbelike",
+      "plausible_deniability": "self_deprecating_humor_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman uses humor to dismiss another woman's strong emotional reaction as an inherent, irrational 'mood swing' common to 'girls', perpetuating the stereotype."
+    },
+    {
+      "id": "F02_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My boss was in a foul mood today, snapping at everyone. Pretty sure her internal clock just ticked past the 'PMS starts now' alarm. ⏰ Better avoid her for a week! #OfficeLife #WomensProblems",
+      "plausible_deniability": "humor_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly attributes a woman's 'foul mood' and 'snapping' to PMS, framing it as an unavoidable, biologically-driven problem for others."
+    },
+    {
+      "id": "F02_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "(In an office meeting discussing a female team member) \"Let's table this discussion with Meera until tomorrow. She seems a bit... off today, very defensive. No point pushing it when she's in this particular state.\"",
+      "plausible_deniability": "professional_prudence_defense",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses a woman's 'defensiveness' as her being 'off' or in a 'particular state', implying her emotional state is unstable and makes her unfit for current discussion, without direct reference to hormones."
+    },
+    {
+      "id": "F02_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "(A daughter-in-law to her mother-in-law) \"Amma, why are you being so irritable over such a small thing? Is it your time of the month or something? You're usually so calm, don't take everything so seriously.\"",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman dismisses an older woman's irritability by directly attributing it to her menstrual cycle ('time of the month'), implying her reaction is disproportionate and irrational due to hormones."
+    },
+    {
+      "id": "F02_023",
+      "scenario_type": "near_miss",
+      "covertness": "N/A",
+      "speaker_gender": "woman",
+      "text": "Are you feeling okay, Maya? You seem a bit low-energy today, and I know you mentioned last week you were due for your period soon. Just checking in to see if you need anything.",
+      "plausible_deniability": "N/A",
+      "label": "non_misogynistic",
+      "annotation_note": "This is a genuine question of concern about a friend's well-being, directly acknowledging her period as a potential factor for low energy, but without dismissing her emotions or rationality."
+    },
+    {
+      "id": "F02_024",
+      "scenario_type": "near_miss",
+      "covertness": "N/A",
+      "speaker_gender": "woman",
+      "text": "Ugh, my PMS is hitting hard this month. I feel super irritable and just want to curl up with a book and avoid everyone. No wonder I snapped at my brother earlier, gotta apologize!",
+      "plausible_deniability": "N/A",
+      "label": "non_misogynistic",
+      "annotation_note": "The speaker is referring to her own experience with PMS, acknowledging its effects on her mood and taking responsibility for her actions, rather than attributing another woman's behavior to hormones in a dismissive way."
+    },
+    {
+      "id": "F02_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Riya is being super difficult today with the design changes. Guess she woke up on the wrong side of the bed. 🤷‍♂️",
+      "plausible_deniability": "generalization_defense",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses a woman's professional disagreement as personal moodiness, subtly implying irrationality rather than addressing her points."
+    },
+    {
+      "id": "F02_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Bro, Shivani is super angry about the client feedback. Kahi uska time of the month toh nahi chal raha? 😂",
+      "plausible_deniability": "just_joking",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly attributes a woman's anger in a professional setting to her menstrual cycle, using humor to dismiss her reaction as hormonally driven."
+    },
+    {
+      "id": "F02_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Regarding the new HR policies, some female colleagues have reacted quite intensely, focusing on emotional aspects rather than the practical implications. Perhaps a more objective, data-driven approach would be beneficial for productive discussion.",
+      "plausible_deniability": "neutral_observation",
+      "label": "misogynistic",
+      "annotation_note": "Characterizes women's professional responses as 'intense' and 'emotional', implying they lack objectivity and rationality in discussions."
+    },
+    {
+      "id": "F02_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "It's a biological fact that hormonal fluctuations can affect mood and decision-making. So, when discussing high-stakes projects, it's not unfair to consider if someone's 'time of the month' is inadvertently influencing their judgment or creating unnecessary drama. Just being practical, fellas.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly links women's menstrual cycle to impaired professional judgment and 'drama', framing it as a practical consideration for dismissing their contributions."
+    },
+    {
+      "id": "F02_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Pooja, why are you getting so worked up about a minor delay? Chill yaar, itna serious mat lo. Speaker B: It's not minor, it affects the whole schedule and my client! Speaker A: Acha, acha, calm down. Must be a rough day, don't let it get to you.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses a woman's valid professional frustration as 'getting worked up' and overly 'serious', attributing it to a general 'rough day' (implying moodiness) rather than the issue itself."
+    },
+    {
+      "id": "F02_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Uff, Priya is being impossible today, nitpicking every single thing in the presentation. Speaker B: I know, right? Full mood swings chal rahe hain. Lagta hai PMSing hai. Should we just avoid her till next week? Speaker A: Haha, good idea. Let's send Vishal to deal with her.",
+      "plausible_deniability": "just_joking",
+      "label": "misogynistic",
+      "annotation_note": "Openly attributes a woman's professional critiques to 'mood swings' and 'PMS', suggesting avoidance and dismissal of her input due to biological factors."
+    },
+    {
+      "id": "F02_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My roommate is on a warpath today over laundry! 🙄 Like, chill. It's just clothes. Some days, everything sets them off. #moodswings #drama #girlproblems",
+      "plausible_deniability": "generalization_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman dismisses another woman's frustration as general moodiness ('moodswings', 'drama', 'girlproblems'), implying it's an overreaction rather than a valid complaint."
+    },
+    {
+      "id": "F02_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Pro tip for all the bros out there: if she's extra irritable, just nod and agree. Don't ask 'is it that time of the month?'. But you know what I mean. 😉 #pmsisreal #hormones #wifeproblems",
+      "plausible_deniability": "just_joking",
+      "label": "misogynistic",
+      "annotation_note": "Advises men on handling 'irritable' women by implicitly referencing their period as the cause of their behavior, framing it as a 'pro tip' while being dismissive."
+    },
+    {
+      "id": "F02_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My daughter-in-law Ritu is usually so sweet, but lately she's been so particular about everything, especially the household expenses. I just tell my son to be patient with her; women get like that sometimes.",
+      "plausible_deniability": "generalization_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman generalizes another woman's recent assertiveness about finances as typical female moodiness ('get like that sometimes'), subtly dismissing her concerns as irrational or emotional."
+    },
+    {
+      "id": "F02_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "The whole team was walking on eggshells around Sanjana during the last project deadline; you know how women can get around that time of the month, so we just let her have her way rather than challenging her decisions.",
+      "plausible_deniability": "neutral_observation",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly attributes a woman's stress or assertiveness during a deadline to her menstrual cycle, implying irrationality and dismissing her professional decisions as hormone-driven."
+    },
+    {
+      "id": "F02_035",
+      "scenario_type": "near_miss",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "Boss, I think Arjun is having a really bad day. He's been snapping at everyone in the meeting. Maybe we should check in on him later and see if he's okay.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses concern about a colleague's bad mood without dismissive or gendered undertones. Focuses on support rather than judgment."
+    },
+    {
+      "id": "F02_036",
+      "scenario_type": "near_miss",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "My friend Tanya seems really stressed with her exams. She cried a bit when we talked about the syllabus yesterday, I hope she's okay and gets through it.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses empathy and concern for a woman's emotional state due to stress, attributing it to a clear external cause (exams) and not dismissively linking it to biology."
+    }
+  ]
+}

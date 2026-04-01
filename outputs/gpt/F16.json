@@ -1,0 +1,372 @@
+{
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "misogyny_type": [
+    "Benevolent Sexism",
+    "Complementary Gender Differentiation",
+    "Internalized Misogyny"
+  ],
+  "covertness_level": "very high",
+  "examples": [
+    {
+      "id": "F16_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Nahi yaar, we both work but ghar ka system naturally set ho gaya. Rohit handles bank, car, outside errands better, and I manage food, maid, kid schedule. Jo jahan better hai wahi practical hai na.",
+      "plausible_deniability": "efficiency_framing",
+      "label": "misogynistic",
+      "annotation_note": "Presents a gendered split of labor as natural and practical, with the woman endorsing domestic management as her role."
+    },
+    {
+      "id": "F16_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Arre main kitchen type ka banda nahi hoon, woh sab Neha hi dekhti hai. Mard log bahar ka aur finance sambhalte hain, tabhi house smoothly chalta hai.",
+      "plausible_deniability": "traditional_roles",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly assigns kitchen work to women and finances/external tasks to men as the proper arrangement."
+    },
+    {
+      "id": "F16_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "In many urban marriages, people call it unequal when it may just be specialization. If the husband is naturally better with investments, repairs and dealing with service people, and the wife is better at managing meals, school updates and the home routine, why force a 50-50 split just for optics? Not every division is sexism; sometimes it's simply practical.",
+      "plausible_deniability": "rationalization",
+      "label": "misogynistic",
+      "annotation_note": "Frames stereotyped gender roles as neutral specialization and dismisses calls for equal sharing as merely performative."
+    },
+    {
+      "id": "F16_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People are overcomplicating this. Women generally run the inside of the house better and men are better at outside responsibilities and money decisions. A family works best when each person sticks to what suits them instead of pretending both are equally good at everything.",
+      "plausible_deniability": "common_sense_claim",
+      "label": "misogynistic",
+      "annotation_note": "Directly claims women and men are inherently better at separate domains and should stay in those roles."
+    },
+    {
+      "id": "F16_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Tum full-time job ke saath ghar bhi manage karti ho? Rohan help nahi karta?\nSpeaker B: Karta hai yaar, Sunday ko chai bana deta hai. But honestly mujhe hi pata hota hai kya khatam hua, kya cook karna hai, nanny ko kya bolna hai. Usko numbers aur car waale kaam better aate hain, so we just fell into these roles.",
+      "plausible_deniability": "we_chose_this",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes the woman carrying the full mental load and domestic management while celebrating minimal male help as sufficient."
+    },
+    {
+      "id": "F16_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why don't you learn basic cooking and school pickup also?\nSpeaker B: Yaar that's not really my area. Ghar ka kaam toh women handle better anyway, and if I start doing all that while she's there, what's the point?",
+      "plausible_deniability": "learned_helplessness",
+      "label": "misogynistic",
+      "annotation_note": "Openly dismisses domestic work as women's domain and resists learning it because his wife is available."
+    },
+    {
+      "id": "F16_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "My wife is a total boss at home management and honestly I trust her more with the kid's schedule, meals, all that. I handle investments, bills, drivers, repairs. Teamwork isn't always 50-50, sometimes it's just knowing who is naturally suited for what. #marriedlife",
+      "plausible_deniability": "compliment_frame",
+      "label": "misogynistic",
+      "annotation_note": "Uses praise and teamwork language to naturalize a stereotyped gender division of labor."
+    },
+    {
+      "id": "F16_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "When my husband made dal once, everyone acted like wow what a modern husband 😂 Sweet, but let's be real, men helping in kitchen is extra. Main office bhi dekh leti hoon, ghar bhi, and he handles the important outside stuff.",
+      "plausible_deniability": "norm_violation_mockery",
+      "label": "misogynistic",
+      "annotation_note": "Treats male cooking as exceptional and reinforces that domestic work belongs to women while men's work is 'important outside stuff.'"
+    },
+    {
+      "id": "F16_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office dinner, Arjun said his wife also works in consulting, but she naturally manages the house because she's better at those details. He called himself a very supportive husband because he orders groceries if she reminds him.",
+      "plausible_deniability": "helper_not_comanager",
+      "label": "misogynistic",
+      "annotation_note": "Depicts the wife as default household manager despite equal employment, while the husband is framed as supportive for minimal assistance."
+    },
+    {
+      "id": "F16_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "During a family discussion on chores, an uncle said there's no need to change what works: daughters-in-law should handle cooking and children, and men should focus on earning, paperwork and outside matters.",
+      "plausible_deniability": "tradition_as_practicality",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly assigns domestic and childcare work to women and public/financial work to men as the proper arrangement."
+    },
+    {
+      "id": "F16_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My husband and I both work long hours, so we split based on actual availability and skill, not gender. He cooks most weekdays because he enjoys it, and I handle taxes because I'm better with paperwork. We revisit it every few months when workloads change.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar because it discusses division of chores, but the arrangement is flexible, non-gendered, and based on negotiated skills and time."
+    },
+    {
+      "id": "F16_012",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "People calling me 'modern husband' for packing tiffins and doing laundry is funny. This is basic adult stuff, not helping my wife. We both work, so we both run the house.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "References the same cultural trope of praising men for chores, but rejects it and affirms equal co-management of the household."
+    },
+    {
+      "id": "F16_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Hum dono full-time kaam karte hain, but honestly jo jahan better hai wahi karta hai. Rohan finances aur car/service sab dekh leta hai, main ghar, cook aur baby routine sambhaal leti hoon. Practical hi hai yaar, warna roz confusion hota.",
+      "plausible_deniability": "efficiency_framing",
+      "label": "misogynistic",
+      "annotation_note": "Frames a gendered split as neutral efficiency while normalizing the woman handling all domestic and childcare labor despite both working full-time."
+    },
+    {
+      "id": "F16_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Office se aake main kitchen thodi na sambhaalunga 😄 ghar ka system simple hai, aurat home side better manage karti hai aur mard bahar ke kaam. Sabko apna apna role suit karta hai.",
+      "plausible_deniability": "natural_roles",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly states women are better for home and men for outside work, presenting rigid gender roles as natural and appropriate."
+    },
+    {
+      "id": "F16_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "In many urban marriages, division of work is not sexism but optimization. If the husband is better with investments, repairs, dealing with vendors and driving in city traffic, and the wife is better at meal planning, household coordination and managing the child's schedule, why force an artificial 50-50? People say 'share everything equally', but in real life jo jahan naturally suited hai, that person usually takes ownership there.",
+      "plausible_deniability": "rational_choice",
+      "label": "misogynistic",
+      "annotation_note": "Presents stereotypically male external/technical tasks and female domestic/care tasks as natural aptitudes, masking sexism as optimization."
+    },
+    {
+      "id": "F16_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "As a wife, I don't see the problem in traditional roles even in a modern marriage. Men are generally more practical with money, cars and outside dealings, while women usually keep the home running better. My husband 'helps' when needed, but expecting him to become equal manager of kitchen and kids is unnecessary and honestly not his strength.",
+      "plausible_deniability": "personal_preference",
+      "label": "misogynistic",
+      "annotation_note": "Female speaker endorses a hierarchy where the man is only a helper, while domestic and childcare management remain inherently the woman's responsibility."
+    },
+    {
+      "id": "F16_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Tu diapers, dinner, school group sab manage kaise nahi karta equally?\nSpeaker B: Arre yaar, humne divide kar liya. Neha waise bhi in cheezon mein zyada sorted hai, main bills, bank, society, gaadi and all dekh leta hoon. Jo practical ho wahi karte hain.",
+      "plausible_deniability": "we_chose_this",
+      "label": "misogynistic",
+      "annotation_note": "Uses 'we divided it practically' to justify a stereotyped split where the woman does routine care work and the man handles finances/external tasks."
+    },
+    {
+      "id": "F16_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Kavya ne bola tum thoda cooking seekh lo.\nSpeaker B: Mujhe nahi aata, aur frankly ye kaam mera nahi hai. Ghar ka kaam toh aurat hi sambhaalti hai, main bahar ke kaam aur earning pe focus karta hoon.",
+      "plausible_deniability": "tradition_defense",
+      "label": "misogynistic",
+      "annotation_note": "Openly asserts domestic work is women's work and refuses learning, reflecting learned helplessness and gendered entitlement."
+    },
+    {
+      "id": "F16_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "People keep asking why I handle home + our daughter's schedule after office while Aditya only 'helps'. Honestly because he's better with investments, paperwork, drivers, repairs etc and I'm better at running the house. We didn't 'impose' anything, we just naturally fell into these roles ❤️ #marriedlife",
+      "plausible_deniability": "naturalization",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes unequal labor by saying the couple naturally fell into gendered roles, with the man cast as helper rather than equal domestic partner."
+    },
+    {
+      "id": "F16_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My wife wanted me to pack tiffins daily also 😂 bhai modern husband banna alag hai, but every role doesn't need to be reversed. Men are just not made for all this kitchen-childcare detailing, that's why homes run smoother when each gender sticks to what it does best.",
+      "plausible_deniability": "common_sense_claim",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly claims men are not made for kitchen/childcare and that each gender should stick to its assigned role."
+    },
+    {
+      "id": "F16_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office potluck, everyone praised Sandeep for making pasta once, calling him such a modern husband. Meanwhile his wife also works full time but still handles the cook, laundry, school calls and meals because 'he's hopeless in the kitchen' and they say this arrangement just works better.",
+      "plausible_deniability": "low_bar_praise",
+      "label": "misogynistic",
+      "annotation_note": "Highlights the 'modern husband' low bar and learned helplessness, where minimal male contribution is celebrated while the woman remains default manager of domestic labor."
+    },
+    {
+      "id": "F16_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "My son and daughter-in-law both work in Bengaluru, but I told her not to insist he do laundry and cooking daily. Men should handle money and outside pressure; if she manages the home side, the marriage stays balanced.",
+      "plausible_deniability": "elder_advice",
+      "label": "misogynistic",
+      "annotation_note": "Directly prescribes gendered labor divisions and frames the woman's domestic burden as what keeps marriage balanced."
+    },
+    {
+      "id": "F16_023",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My husband and I both had to learn everything after moving to Pune for work. We rotate cooking, groceries, bills and daycare pickup based on who has bandwidth that week. He isn't 'helping me' and I'm not 'better at home stuff'—we're both adults managing our house together.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Near-miss: discusses household division in a dual-income home but explicitly rejects gendered assumptions and the helper framing."
+    },
+    {
+      "id": "F16_024",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Unpopular opinion: if one partner genuinely enjoys cooking and the other enjoys budgeting, splitting by skill is fine—as long as both can do all tasks and either person can switch without drama. 'Practical' only counts when it's flexible and mutual, not automatically wife = home and husband = outside.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Near-miss: superficially similar efficiency language, but explicitly rejects fixed gender roles and supports flexible, mutual sharing."
+    },
+    {
+      "id": "F16_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Arre hum log ne roles simple rakhe hain yaar. Neha ghar aur bacche better manage kar leti hai, main investments, bills aur car/service dekh leta hoon. Jo jahan naturally better ho wahi practical hai.",
+      "plausible_deniability": "efficiency_framing",
+      "label": "misogynistic",
+      "annotation_note": "Frames a gendered division of labor as natural and practical, assigning home/childcare to the woman and finance/technical tasks to the man."
+    },
+    {
+      "id": "F16_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Sach bolun toh kitchen aur bachchon ka routine aurat hi sambhalti hai, mardon se woh sab hota nahi. Hum bahar ke kaam, paisa, repair-vagairah ke liye better suited hote hain.",
+      "plausible_deniability": "naturalization",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly states women should handle domestic labor and men external/financial work as innate suitability."
+    },
+    {
+      "id": "F16_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I work full time in Gurgaon and people still ask why I do most of the housework. Honestly, this is just what works for us. My husband is excellent with taxes, bank work, landlord issues and anything technical, while I naturally keep track of meals, school updates, the maid and overall home rhythm. He does help when needed, but forcing a 50-50 split in every task is not always practical.",
+      "plausible_deniability": "choice_framing",
+      "label": "misogynistic",
+      "annotation_note": "Female speaker defends an unequal division by portraying domestic management as her natural domain and the husband's role as helper rather than equal co-manager."
+    },
+    {
+      "id": "F16_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People call everything sexism now. In most families, men are simply better at finances, driving, dealing with vendors and hard decisions, and women are better at maintaining the home and children. If both people stick to what suits them, the household runs more efficiently. That is practicality, not discrimination.",
+      "plausible_deniability": "common_sense_claim",
+      "label": "misogynistic",
+      "annotation_note": "Openly endorses stereotyped gender roles as inherent abilities and denies sexism by calling it efficiency."
+    },
+    {
+      "id": "F16_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: You both are in demanding jobs, how do chores work?\nSpeaker B: Arre we just fell into roles. Rohan handles all outside stuff, finances and driving because he's better at those things. I manage the cook, groceries, kids' schedule, laundry, all that. It's smoother this way.\nSpeaker A: So he helps in the kitchen?\nSpeaker B: If I ask, yes. But honestly usko woh sab aata bhi nahi.",
+      "plausible_deniability": "we_just_fell_into_it",
+      "label": "misogynistic",
+      "annotation_note": "Presents an enforced gendered split as accidental and practical, while normalizing male incompetence in domestic work and positioning his role as occasional helper."
+    },
+    {
+      "id": "F16_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why don't you learn some cooking and school stuff too?\nSpeaker B: Bhai, ye kaam mera nahi hai. Ghar ka system women handle better, men should focus on earning and outside responsibilities.\nSpeaker A: But your wife also works.\nSpeaker B: Haan toh, phir bhi ghar sambhalna unko hi naturally aata hai.",
+      "plausible_deniability": "traditional_role_assertion",
+      "label": "misogynistic",
+      "annotation_note": "Directly claims domestic management belongs to women even when the wife is also employed, reinforcing essentialized gender roles."
+    },
+    {
+      "id": "F16_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "My wife is a full-on boss at work but at home she still keeps everything together so effortlessly. I handle investments, repairs, drivers, paperwork etc. She handles what she's naturally amazing at. Teamwork means not pretending both people are built for the same things.",
+      "plausible_deniability": "compliment_masking",
+      "label": "misogynistic",
+      "annotation_note": "Uses praise and teamwork language to naturalize a stereotyped split where the woman does unpaid domestic coordination and the man handles external/financial matters."
+    },
+    {
+      "id": "F16_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Unpopular opinion: not every husband needs to be in the kitchen. Men doing laundry gets treated as normal now, but honestly if he is earning and managing the outside world, why force him into housework too? Ghar ka kaam aurat hi better sambhalti hai.",
+      "plausible_deniability": "anti_forcing_roles",
+      "label": "misogynistic",
+      "annotation_note": "A woman explicitly endorses the view that women are inherently better suited to housework and men to external responsibilities."
+    },
+    {
+      "id": "F16_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "At the office potluck, everyone praised Varun for packing his own child's tiffin, calling him such a modern husband. His wife laughed and said, 'He's sweet, but day-to-day home management is anyway my department; he helps when needed.'",
+      "plausible_deniability": "low_bar_praise",
+      "label": "misogynistic",
+      "annotation_note": "Celebrates minimal male participation as exceptional and reinforces that domestic management is fundamentally the wife's responsibility."
+    },
+    {
+      "id": "F16_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "During a family discussion about shifting cities, Amit said there was no point expecting him to manage meals or the baby's routine because men aren't made for that kind of detailed home work; his wife should handle inside matters while he takes care of money and moving logistics.",
+      "plausible_deniability": "role_essentialism",
+      "label": "misogynistic",
+      "annotation_note": "Clearly states men are not suited for childcare and household work, assigning those tasks to the wife by gender."
+    },
+    {
+      "id": "F16_035",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "My wife and I both work, but we divide chores by preference and time, not gender. I cook on weekdays because I reach home earlier, and she handles taxes because she's better with numbers. If schedules change, we swap. People outside keep assuming there must be a fixed 'men's side' and 'women's side', which is odd.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar because it discusses task division, but it explicitly rejects gendered roles and emphasizes flexibility and equality."
+    },
+    {
+      "id": "F16_036",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Normalize saying 'he shares the housework' instead of 'he helps his wife.' Parenting, laundry, bills, cooking—if both adults live there, none of this is bonus work by the husband or default work by the wife.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Mentions the same household labor context but pushes against the helper framing and rejects gendered assumptions."
+    }
+  ]
+}

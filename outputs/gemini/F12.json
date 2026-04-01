@@ -1,0 +1,372 @@
+{
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "misogyny_type": [
+    "Hostile Sexism",
+    "Objectification",
+    "Linguistic Misogyny"
+  ],
+  "covertness_level": "low — but normalized so often dismissed",
+  "examples": [
+    {
+      "id": "F12_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, a common Hindi expletive invoking a mother's body is so normalised now. It's just a filler word, nothing personal. Sab bolte hain, don't overthink it.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Normalizing a female-demeaning gaali by claiming it's 'just a filler word' and 'everyone says it,' dismissing its inherent misogynistic structure."
+    },
+    {
+      "id": "F12_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Bro, when I use a sister-based expletive, it's not actually about a woman or disrespecting anyone's sister. It's just an expression for extreme frustration, like saying 'damn it!'",
+      "plausible_deniability": "linguistic_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly defending the use of a female-demeaning gaali by separating its intended meaning from its literal, misogynistic root."
+    },
+    {
+      "id": "F12_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "People get too triggered over Indian slang. A 'mother-related' gaali isn't literal, it's just how we express anger. It's not about disrespecting anyone's actual mother, it's a cultural idiom.",
+      "plausible_deniability": "linguistic_defense",
+      "label": "misogynistic",
+      "annotation_note": "Minimizing the misogynistic structure of a common gaali by framing it as a mere 'cultural idiom' or 'slang' that isn't meant literally."
+    },
+    {
+      "id": "F12_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Why do we call weak or cowardly men 'like a woman' or 'behen'? Because it instantly conveys softness and lack of strength. It's understood as the opposite of being 'mard' (manly), which is why it's an effective insult.",
+      "plausible_deniability": "linguistic_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly linking feminizing insults to negative traits like weakness and cowardice, justifying their use based on reinforcing gender stereotypes."
+    },
+    {
+      "id": "F12_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: \"Arre yaar, that guy played like such a commonly used Hindi expletive!\"\nSpeaker B: \"Dude, come on, that's a bit much. It's not right to use that word.\"\nSpeaker A: \"Chill, Akash, it's just how we talk in gaming circles, nobody means anything by it. It's just a sound, a way to vent.\"",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Normalization and defense of casual gaali use in a specific context (gaming), dismissing its underlying meaning as 'just a sound' or 'way to vent'."
+    },
+    {
+      "id": "F12_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: \"Priya, you just used a derogatory term for a woman who sells sex! Isn't that a bit harsh for someone who just messed up an order?\"\nSpeaker B (Priya): \"Oh, it's just a word, yaar. It describes someone who cheats or is unreliable, not literally a woman who sells sex. Don't be so dramatic about it.\"",
+      "plausible_deniability": "linguistic_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman uses and defends a female-demeaning term, rationalizing its use by claiming it describes a general negative quality rather than its specific misogynistic origin."
+    },
+    {
+      "id": "F12_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My friend got all sensitive cause someone used a common Hindi expletive invoking a mother's body in traffic. Like seriously? It's literally just a word people use for frustration, get over it! #IndianSlang #ChillOut",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A speaker, a woman, minimizes the impact of a female-demeaning slur and mocks someone's sensitivity towards its use, normalizing it as 'just a word for frustration'."
+    },
+    {
+      "id": "F12_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "When your friend keeps complaining about simple tasks. Bro, 'mard ban' (be a man), don't cry like a small child... or someone's sister. Get tough! 💪 #ManUp #NoWeakness",
+      "plausible_deniability": "linguistic_defense",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly linking 'not crying like a small child or someone's sister' to 'being a man,' reinforcing the idea that femininity (or female relatives) represents weakness or lack of resilience."
+    },
+    {
+      "id": "F12_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Look, Rohan, if you act 'like a woman' in front of clients, we'll lose their business. You need to be firm and decisive.",
+      "plausible_deniability": "linguistic_defense",
+      "label": "misogynistic",
+      "annotation_note": "Using 'act like a woman' to denote weakness or lack of firmness in a professional context, implying that female-coded behavior is undesirable."
+    },
+    {
+      "id": "F12_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Why are you crying like a girl, Avinash? Be a man. Boys don't cry over such small things.",
+      "plausible_deniability": "linguistic_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly shaming a boy for crying by comparing him to a 'girl,' reinforcing rigid gender stereotypes about emotional expression and masculinity."
+    },
+    {
+      "id": "F12_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "N/A",
+      "speaker_gender": "man",
+      "text": "I get that some of our common Hindi gaalis are problematic. We use them so casually, but their origin, often invoking mothers or sisters, is really messed up when you think about it.",
+      "plausible_deniability": "N/A",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges the misogynistic roots of commonly used gaalis without defending their use or dismissing their impact."
+    },
+    {
+      "id": "F12_012",
+      "scenario_type": "whatsapp",
+      "covertness": "N/A",
+      "speaker_gender": "woman",
+      "text": "Ugh, this project deadline is insane! It's making me want to scream some strong words, but gotta keep it professional.",
+      "plausible_deniability": "N/A",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses frustration and hints at using strong language but does not use or defend female-demeaning terms. The implied 'strong words' are not specified as misogynistic."
+    },
+    {
+      "id": "F12_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, that match was epic! We almost won. But the umpire's decision was total... you know, that common Hindi gaali for a mother. Just frustrated, nothing personal.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker uses a common, female-demeaning gaali to express frustration, then immediately dismisses its literal meaning, normalizing its use."
+    },
+    {
+      "id": "F12_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Rohan is such a chicken, he backed out of the trek last minute. Kya yaar, behave like a man, not like a weak sister!",
+      "plausible_deniability": "denial",
+      "label": "misogynistic",
+      "annotation_note": "Speaker uses 'weak sister' as an explicit insult for cowardice, directly linking femininity to weakness."
+    },
+    {
+      "id": "F12_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I often see people getting offended by 'BC' or 'MC' in online gaming. Honestly, it's just a way to vent. No one actually means disrespect to anyone's mother or sister. It's just a cultural thing, a sound to express frustration, like saying 'damn it'. Overthinking it just ruins the fun.",
+      "plausible_deniability": "denial",
+      "label": "misogynistic",
+      "annotation_note": "Speaker explicitly defends the casual use of female-demeaning gaalis by claiming they are 'just words' for frustration, dismissing their misogynistic roots and impact."
+    },
+    {
+      "id": "F12_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "When people get upset about using terms like 'randi' for a woman who speaks her mind or dresses freely, I find it a bit much. It's just a word guys use when someone's being over the top. It doesn't actually mean she's a sex worker, it's slang for 'out of control'.",
+      "plausible_deniability": "denial",
+      "label": "misogynistic",
+      "annotation_note": "Speaker (a woman) normalizes and defends the use of a highly demeaning term for women ('randi'), reframing it as slang for 'out of control' rather than acknowledging its misogynistic intent."
+    },
+    {
+      "id": "F12_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Don't you think calling someone 'effeminate' as an insult is pretty misogynistic? It implies being a woman is bad. \nSpeaker B: Oh come on, Diya, it's not that deep. We just mean they're weak or can't handle things, not literally that they're a woman. Everyone understands that context.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker B dismisses the misogynistic undertones of using 'effeminate' as an insult, defending it as common understanding rather than acknowledging the inherent link between femininity and weakness."
+    },
+    {
+      "id": "F12_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Akash, you keep saying that 'mother-sister' insult every time the network drops. Don't you realise how offensive it is?\nSpeaker B: Chill out, bhai! It's just an expression. When you're angry, those words just come out. It's not like I actually mean your mother or sister, yaar. It's just... part of how we talk.",
+      "plausible_deniability": "denial",
+      "label": "misogynistic",
+      "annotation_note": "Speaker B overtly dismisses the offense caused by a common female-demeaning gaali, attributing it to mere 'expression' and 'how we talk', thereby normalizing it."
+    },
+    {
+      "id": "F12_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "This new cricket captain is playing like a total sissy. Should just stay home and cry like a girl. #IndianCricket #WeakLeadership",
+      "plausible_deniability": "denial",
+      "label": "misogynistic",
+      "annotation_note": "Speaker uses 'sissy' and 'cry like a girl' to insult a male captain, linking weakness and incompetence directly to femininity and female behaviour."
+    },
+    {
+      "id": "F12_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "So many people getting triggered by harmless slang like 'p*ssy' or other feminine-coded insults online. It's not literally attacking women, it's just calling someone weak. Grow up, it's part of internet culture. #FreedomOfSpeech #NotThatDeep",
+      "plausible_deniability": "denial",
+      "label": "misogynistic",
+      "annotation_note": "Speaker overtly defends the use of feminine-coded insults by claiming they are 'harmless slang' and merely mean 'weak', dismissing the misogynistic implication."
+    },
+    {
+      "id": "F12_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "When Priya complained about the guys using 'gaalis' in the office common room, Amit just shrugged, 'Yaar, it's just how we communicate. She needs to relax a bit; it's not directed at her or anyone's family.'",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Amit dismisses a legitimate complaint about female-demeaning language in the workplace by attributing it to oversensitivity and normalizing its use as 'just how we communicate'."
+    },
+    {
+      "id": "F12_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "During the sales meeting, when Sameer's proposal failed, his colleague Rohit remarked loudly, 'Kya yaar, Sameer, acting like a little girl now? Stand up for your pitch, don't just sulk.'",
+      "plausible_deniability": "denial",
+      "label": "misogynistic",
+      "annotation_note": "Rohit overtly uses 'acting like a little girl' to insult Sameer's perceived weakness or sulking, directly linking feminine behaviour to inadequacy in a professional setting."
+    },
+    {
+      "id": "F12_023",
+      "scenario_type": "near_miss",
+      "covertness": "na",
+      "speaker_gender": "woman",
+      "text": "I've been wondering, why are so many of our common insults in Hindi related to a mother or sister? It feels weird when you think about it, doesn't it? Like, why *those* words specifically?",
+      "plausible_deniability": "na",
+      "label": "non_misogynistic",
+      "annotation_note": "The speaker is genuinely questioning the misogynistic structure of common gaalis, not defending their use. This is a critical discussion of the frame's core issue, but not an example of misogyny."
+    },
+    {
+      "id": "F12_024",
+      "scenario_type": "near_miss",
+      "covertness": "na",
+      "speaker_gender": "man",
+      "text": "Ugh, that traffic was absolutely terrible! I almost used that 'BC' word, but then I stopped myself. It's really not right to bring someone's family into it just because I'm frustrated.",
+      "plausible_deniability": "na",
+      "label": "non_misogynistic",
+      "annotation_note": "The speaker acknowledges the problematic nature of a female-demeaning gaali and self-corrects, demonstrating awareness rather than normalization or defense."
+    },
+    {
+      "id": "F12_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Dude, why is everyone so sensitive these days? It's just a word, yaar. We've been saying 'BC' since school, it's not like I actually mean someone's sister.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker normalizes the casual use of a female-demeaning gaali ('BC'), dismissing its misogynistic roots as 'just a word' and claiming no actual intent, which reinforces linguistic misogyny."
+    },
+    {
+      "id": "F12_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Bro, he started crying like a little girl after losing that game. Ugh, just man up! Kya auraton jaisi harkatein hain yaar.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker explicitly uses 'crying like a little girl' and 'auraton jaisi harkatein' (acting like women) to insult a man's emotional response, equating femininity with weakness and immaturity."
+    },
+    {
+      "id": "F12_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I genuinely believe that when people use terms like 'madarchod' in a friendly context, the original meaning about a mother becomes completely irrelevant. It's just an intensifier, a cultural tic, not a literal attack on someone's mother or women in general. Focusing on that literal interpretation misses the point of how language evolves.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker argues that female-rooted gaalis lose their misogynistic meaning in casual use, framing it as language evolution and dismissing the harm, thus normalizing the underlying misogynistic structure."
+    },
+    {
+      "id": "F12_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "The way that actress dresses and behaves in public, frankly, invites criticism. People call her names, but sometimes, when someone acts so... openly, what else do you expect? It's not about being misogynistic, it's about basic decorum.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker justifies the use of demeaning terms for a woman ('calling her names') by blaming her perceived transgression of social norms ('dresses and behaves openly'), implicitly endorsing the shaming of women for their sexuality/conduct."
+    },
+    {
+      "id": "F12_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Yaar, that guy at the counter was so slow. I almost dropped a 'MC' for how frustrated I got.\nSpeaker B: Haha, I know right! But be careful, people are getting really sensitive about those words these days. They say it's misogynistic.\nSpeaker A: Nah, come on. It's just an expression when you're angry. Nobody actually means it about someone's mother. It's just how we talk, chill.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker A defends the casual use of a female-rooted gaali, dismissing criticism by claiming it's 'just an expression' and not literally about women, thus normalizing linguistic misogyny."
+    },
+    {
+      "id": "F12_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Rajesh totally messed up that presentation. He was fumbling like a little kid. What a shame, a big guy like him acting so... weak.\nSpeaker B: Yeah, he really lost his cool. I guess not everyone can keep it together under pressure.\nSpeaker A: It's not just that. He needs to grow a pair. Seriously, 'mard ban' (be a man) is a valid advice sometimes. All that crying and whining? Aurat ki tarah ro raha tha.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker A explicitly uses 'aurat ki tarah ro raha tha' (crying like a woman) and 'mard ban' (be a man) to insult and demean a man's perceived weakness, reinforcing gender stereotypes where femininity equals weakness."
+    },
+    {
+      "id": "F12_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Why are we always overthinking these Hindi gaalis? They're just part of our slang, not actual insults to mothers or sisters. It's hyper-sensitivity to try and cancel every 'BC' or 'MC' you hear. It's just a word, get over it! #IndianSlang #LanguageEvolution",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker dismisses the misogynistic roots of common Hindi gaalis as 'hyper-sensitivity,' arguing they are 'just slang' and 'just a word,' thereby normalizing and defending their use."
+    },
+    {
+      "id": "F12_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "That politician is such a coward, backing out of the debate last minute. Couldn't face the heat, I guess. What a spineless character, acting like a scared little girl. #Politics #WeakLeadership",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Speaker uses 'scared little girl' to insult a male politician, equating femininity with cowardice and weakness."
+    },
+    {
+      "id": "F12_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "During the cricket match, when Dhoni dropped that catch, my uncle just blurted out 'Oh, b**chod!' without even thinking. When my cousin pointed it out, he just laughed and said, 'Arre, it's just a way to express frustration, not literally your sister!'",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "An older male family member uses a common female-rooted gaali out of frustration, then dismisses its misogynistic implications as mere expression, normalizing it within a family context."
+    },
+    {
+      "id": "F12_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "I heard some colleagues talking about the new intern, Shreya. She's apparently very ambitious and always stays out late with different groups from work. One of them commented, 'She's so... fast. Too eager to make connections, if you know what I mean. Always chasing attention.'",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Colleagues use terms like 'fast' and 'chasing attention' to subtly demean a female intern for being ambitious and sociable, implying promiscuity or lack of decorum, aligning with the 'randi' archetype for women who transgress norms."
+    },
+    {
+      "id": "F12_035",
+      "scenario_type": "social_media",
+      "covertness": "near_miss",
+      "speaker_gender": "man",
+      "text": "I used to casually use those 'MC' and 'BC' types of gaalis, but then a friend explained how deeply rooted they are in demeaning women, specifically mothers and sisters. Now I'm trying to unlearn them, even if it's hard when everyone around you uses them.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Speaker explicitly recognizes and challenges the misogynistic structure of common gaalis, showing an understanding of their problematic nature rather than normalizing or defending them."
+    },
+    {
+      "id": "F12_036",
+      "scenario_type": "spoken_convo",
+      "covertness": "near_miss",
+      "speaker_gender": "woman",
+      "text": "Ugh, this traffic is absolutely terrible today! I'm so frustrated, I could just scream. Why do they always dig up roads right before peak hour?",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Speaker expresses frustration using strong language, but does not employ female-demeaning terms, feminizing insults, or defend misogynistic language use. The frustration is generic."
+    }
+  ]
+}

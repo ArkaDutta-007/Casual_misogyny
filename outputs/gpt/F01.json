@@ -1,0 +1,372 @@
+{
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "misogyny_type": [
+    "Neosexism",
+    "Institutional Sexism",
+    "Competitive Gender Differentiation"
+  ],
+  "covertness_level": "medium",
+  "examples": [
+    {
+      "id": "F01_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar period leave sounds progressive, but fairness bhi toh hona chahiye na. Why should only women get extra leave when same project deadline sab pe hai? Company ko cost bear karna padega and then men will end up covering.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames menstrual leave as unfair special treatment and burdensome to men/company."
+    },
+    {
+      "id": "F01_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Bro don't put Riya on the client escalation today, kal se off lag rahi hai. Maybe that time of the month hai, phir mood swings pe sabko suffer karna padta hai.",
+      "plausible_deniability": "joking_observation",
+      "label": "misogynistic",
+      "annotation_note": "Uses menstruation to explain a woman's performance and temperament in a derogatory workplace context."
+    },
+    {
+      "id": "F01_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I support women working, but as a manager in Bengaluru I genuinely wonder whether the current policy design is balanced. Under the Maternity Benefit amendment, 26 weeks paid leave plus the possibility of long childcare breaks means teams have to reallocate work, delay appraisals, and absorb hiring costs. If organizations start preferring male candidates for continuity, can we really blame them, or is the policy itself creating an unfair incentive?",
+      "plausible_deniability": "policy_analysis",
+      "label": "misogynistic",
+      "annotation_note": "Presents women as costly and less desirable hires due to maternity leave, normalizing discrimination as rational."
+    },
+    {
+      "id": "F01_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People act like maternity leave is only about support, but let's be practical. Companies hire for output, not for someone to disappear for months and then come back asking for flexibility, lighter projects, and appraisal protection. Nature has made women the ones who take these breaks, so why should men lose hikes and opportunities covering for them?",
+      "plausible_deniability": "practicality_claim",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly casts women's biology and maternity as a workplace liability and reverse discrimination against men."
+    },
+    {
+      "id": "F01_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: We have two final candidates for the analyst role, one is a fresher and one is Priyanka.\nSpeaker B: Priyanka is good, but she's recently married na? Aise toh within a year maternity leave aa gaya toh team will be on bench pressure again. Better to think long term.",
+      "plausible_deniability": "business_prudence",
+      "label": "misogynistic",
+      "annotation_note": "Assumes a young married woman will soon take maternity leave and should therefore be deprioritized in hiring."
+    },
+    {
+      "id": "F01_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Why was Neha so snappy in the review?\nSpeaker B: Arre leave it, probably periods. Every month same story, then the whole team has to adjust timelines like it's our problem.",
+      "plausible_deniability": "casual_explanation",
+      "label": "misogynistic",
+      "annotation_note": "Reduces a woman's workplace behavior to menstruation and treats it as a recurring burden on others."
+    },
+    {
+      "id": "F01_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hot take: period leave sounds empathetic on LinkedIn, but in real offices somebody pays for it. If women get extra biological leave, what is the equivalent for men? Fairness matters too, not just optics. #HR #WorkplacePolicy",
+      "plausible_deniability": "fairness_argument",
+      "label": "misogynistic",
+      "annotation_note": "Frames accommodations for menstruation as unfair preferential treatment disadvantaging men."
+    },
+    {
+      "id": "F01_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "In India we already have 26 weeks maternity leave, now period leave too? At this point managers need a backup employee for every woman hire. Great for diversity posts, not so great for productivity. #CorporateLife",
+      "plausible_deniability": "sarcastic_policy_critique",
+      "label": "misogynistic",
+      "annotation_note": "Depicts women hires as inherently unreliable and costly because of leave associated with sex-specific needs."
+    },
+    {
+      "id": "F01_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "At dinner, an aunt told her son to be careful while hiring young women for his startup because after marriage they may take maternity leave and a small company can't keep paying for that. She said it's not bias, just practical planning.",
+      "plausible_deniability": "practical_advice",
+      "label": "misogynistic",
+      "annotation_note": "Advises discriminatory hiring based on assumptions about future maternity, framed as practicality."
+    },
+    {
+      "id": "F01_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My cousin said his office stopped giving critical projects to women in their late 20s because 'you never know when they'll go on leave for baby stuff.' Everyone laughed like it was just common sense.",
+      "plausible_deniability": "common_sense_claim",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes exclusion of women from opportunities due to anticipated maternity leave."
+    },
+    {
+      "id": "F01_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I think period leave should be optional and paired with gender-neutral sick leave so no one feels singled out. The real issue is making workplaces humane without creating resentment between employees.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses policy design and equity without portraying women as lesser employees or exploiting biology."
+    },
+    {
+      "id": "F01_012",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Managers should not ask women about marriage or pregnancy plans in interviews. If staffing is a concern, companies should build backup systems instead of quietly penalizing female employees. #Hiring",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Addresses the same workplace topic but rejects discrimination and supports fair treatment."
+    },
+    {
+      "id": "F01_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar period leave policy sunke mixed feeling hai. Matlab why should only women get extra leave, men ka workload phir same project mein badhega na. Company ko bhi cost bear karna padega, fairness ka kya?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames menstrual leave as unfair special treatment to women and emphasizes burden on men/company."
+    },
+    {
+      "id": "F01_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Pooja ka aaj mood off hai, maybe those days chal rahe honge 😅 client call usko mat do abhi, warna scene ho jayega.",
+      "plausible_deniability": "joke",
+      "label": "misogynistic",
+      "annotation_note": "Uses menstruation to explain a woman's behavior and competence, reinforcing sexist stereotypes."
+    },
+    {
+      "id": "F01_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I support women at work, but as an HR professional I genuinely wonder whether 26 weeks maternity leave has made hiring managers more cautious with young married women. From a business perspective, a small team has to absorb that workload and cost. Is it really wrong to ask what equivalent support men get, or whether this creates reverse discrimination during appraisals and project allocation?",
+      "plausible_deniability": "policy_debate",
+      "label": "misogynistic",
+      "annotation_note": "Presents maternity protections as a reason to avoid hiring women and frames support as reverse discrimination against men."
+    },
+    {
+      "id": "F01_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People call it progressive, but let's be honest: if a company hires a 27-year-old woman, there is a decent chance she will go on maternity leave soon anyway. Nature is nature. For startups running on thin margins, preferring someone with uninterrupted availability is just practical, not sexist.",
+      "plausible_deniability": "pragmatism",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly treats women of childbearing age as less desirable employees due to expected maternity leave."
+    },
+    {
+      "id": "F01_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: We need to finalize project allocation for the new client.\nSpeaker B: Haan, but maybe don't put Neha on the long-term account yet. She's newly married na, kal ko maternity leave aa gaya toh handover mess ho jayega.\nSpeaker A: Hmm, from continuity angle that is true.",
+      "plausible_deniability": "business_continuity",
+      "label": "misogynistic",
+      "annotation_note": "Assumes a married woman will soon take maternity leave and excludes her from opportunities."
+    },
+    {
+      "id": "F01_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Why was Ritu so snappy in the review?\nSpeaker B: Arre leave it, probably period issue only. During those days better not depend on women for critical presentations.\nSpeaker A: Yeah, safest is to keep backup.",
+      "plausible_deniability": "common_sense",
+      "label": "misogynistic",
+      "annotation_note": "Attributes a woman's workplace behavior to menstruation and generalizes women as unreliable during periods."
+    },
+    {
+      "id": "F01_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Period leave sounds compassionate till you are the teammate covering deadlines every month. Genuine question: if women get biology-based leave, what is the equivalent for men? Equality ya selective benefits? #WorkCulture #India",
+      "plausible_deniability": "just_asking",
+      "label": "misogynistic",
+      "annotation_note": "Uses fairness and reverse-discrimination framing to oppose menstrual leave as an unfair advantage."
+    },
+    {
+      "id": "F01_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Companies want productivity but also have to plan for period leave, maternity leave, childcare leave... then people ask why managers hesitate before putting women on critical roles. Har quarter surprise absence ka risk kaun lega?",
+      "plausible_deniability": "productivity_concern",
+      "label": "misogynistic",
+      "annotation_note": "Depicts women as risky and unreliable workers because of reproductive and caregiving leave."
+    },
+    {
+      "id": "F01_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "At dinner, my aunt said the bank should think practically before hiring too many young women because after marriage many take long childcare leave and the branch suffers. She said it's not against women, just how organizations work.",
+      "plausible_deniability": "practicality",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes limiting women's hiring based on assumptions about marriage, motherhood, and leave."
+    },
+    {
+      "id": "F01_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My father told me not to expect a fast appraisal under a woman manager because between period issues and kid responsibilities, women naturally can't stay as consistent as men in leadership roles.",
+      "plausible_deniability": "elders_advice",
+      "label": "misogynistic",
+      "annotation_note": "Directly claims women are inherently less consistent leaders due to menstruation and motherhood."
+    },
+    {
+      "id": "F01_023",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I'm in favor of better workplace health support, but instead of gender-specific period leave maybe companies could offer flexible sick days for everyone. That way employees with painful cramps can take time off without managers stereotyping women during appraisals.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses policy alternatives without portraying women as liabilities or undeserving of support."
+    },
+    {
+      "id": "F01_024",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Hot take: maternity and paternity leave should both be stronger in India so caregiving isn't treated as only the woman's issue. If men also take leave, maybe hiring bias against women will reduce. #WorkplaceEquality",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Mentions maternity leave and workplace bias, but argues for shared caregiving and against discrimination."
+    },
+    {
+      "id": "F01_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar if company starts period leave also, then fairness ka kya? Men ko extra leave nahi milta, but project deadlines sabke same hote hain. End mein team ko hi cost bear karna padta hai.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames menstrual leave as unfair special treatment and a cost burden on the team, implying women are liabilities."
+    },
+    {
+      "id": "F01_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Aaj Priya ka mood off hai, maybe month ka woh time hoga 😅 Client call usko mat do abhi, warna unnecessary drama ho jayega.",
+      "plausible_deniability": "just_joking",
+      "label": "misogynistic",
+      "annotation_note": "Uses menstruation to explain a woman's mood and competence, reinforcing sexist stereotypes in workplace allocation."
+    },
+    {
+      "id": "F01_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I support women at work, but I genuinely don’t understand why only women should get long special leave benefits and period leave while male employees are expected to keep output constant. In Indian companies, especially smaller ones, the employer has to bear the cost and then people wonder why hiring managers hesitate with young married candidates.",
+      "plausible_deniability": "fairness_argument",
+      "label": "misogynistic",
+      "annotation_note": "Presents reproductive and menstrual accommodations as special treatment and normalizes bias against hiring women."
+    },
+    {
+      "id": "F01_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Let’s be practical: if a company hires a 27-year-old woman, there is a decent chance she will go on maternity leave soon anyway. After the Maternity Benefit amendment, the firm pays for months and then the team has to cover. How is this not a disadvantage in project planning compared to hiring a man?",
+      "plausible_deniability": "pragmatic_planning",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly treats women of childbearing age as less desirable hires because of assumed maternity leave."
+    },
+    {
+      "id": "F01_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: We have one opening for the new client project, should we put Naina?\nSpeaker B: She’s good, but she just got married na. Matlab if she goes on maternity leave in six months, again backfill issue. Better put Rohit, more stable for delivery.",
+      "plausible_deniability": "business_need",
+      "label": "misogynistic",
+      "annotation_note": "Assumes marriage will lead to maternity leave and uses that to deny a woman an opportunity."
+    },
+    {
+      "id": "F01_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Why did you remove Shreya from the presentation?\nSpeaker B: Arre she snapped at everyone since morning, probably period issue only. Better not risk the board review when hormones are like that.",
+      "plausible_deniability": "common_sense_claim",
+      "label": "misogynistic",
+      "annotation_note": "Attributes a woman's behavior and professional reliability to menstruation and hormones."
+    },
+    {
+      "id": "F01_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Period leave sounds progressive till you’re the one covering someone else’s sprint every month. Equality means same rules for everyone, not extra off based on biology. What about men in the same appraisal cycle? #WorkplaceFairness",
+      "plausible_deniability": "equality_framing",
+      "label": "misogynistic",
+      "annotation_note": "Uses reverse discrimination and fairness language to oppose menstrual leave as illegitimate accommodation."
+    },
+    {
+      "id": "F01_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Corporate India says hire more women, then also give 26 weeks leave, childcare break, period leave... bhai at some point company is running a business, not a paid vacation plan. Men just work through everything and still get called privileged.",
+      "plausible_deniability": "economic_realism",
+      "label": "misogynistic",
+      "annotation_note": "Depicts maternity and menstrual accommodations as women exploiting benefits and contrasts them with supposedly harder-working men."
+    },
+    {
+      "id": "F01_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My aunt was saying their HR team avoids putting young women on long-term accounts because after marriage they may take maternity leave and the whole project allocation gets disturbed. She said it’s not personal, just practical for the company.",
+      "plausible_deniability": "practicality_claim",
+      "label": "misogynistic",
+      "annotation_note": "Normalizes discriminatory project allocation by treating women’s potential motherhood as a business inconvenience."
+    },
+    {
+      "id": "F01_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "At dinner my cousin said promoting women is risky because once they have a baby, two years of childcare leave and all, they still come back expecting same growth. Aise toh men are doing double work for no extra benefit.",
+      "plausible_deniability": "resentment_as_fairness",
+      "label": "misogynistic",
+      "annotation_note": "Frames childcare leave as an unfair career advantage women exploit and resents accommodations as disadvantaging men."
+    },
+    {
+      "id": "F01_035",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "I think companies should offer better sick leave for everyone instead of gender-specific leave categories. That would support employees with period pain too, without creating resentment or singling anyone out.",
+      "plausible_deniability": "policy_alternative",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses leave policy design without portraying women as liabilities or opposing support for menstrual health."
+    },
+    {
+      "id": "F01_036",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "If period leave exists, managers need training so women aren’t penalized in appraisals for actually using it. Otherwise the policy is just optics. #HR #Inclusion",
+      "plausible_deniability": "supportive_policy_view",
+      "label": "non_misogynistic",
+      "annotation_note": "References period leave in a workplace context but supports fair implementation rather than framing women as burdens."
+    }
+  ]
+}

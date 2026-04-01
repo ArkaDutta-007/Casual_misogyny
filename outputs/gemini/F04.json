@@ -1,0 +1,372 @@
+{
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "misogyny_type": [
+    "Neosexism",
+    "Competitive Gender Differentiation",
+    "Hostile Sexism"
+  ],
+  "covertness_level": "medium",
+  "examples": [
+    {
+      "id": "F04_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, Sunita ka promotion ho gaya! Matlab, itni jaldi? Pata nahi kaise manage karti hai sab... company rules follow karti hai ya shortcut leti hai.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Subtly implies Sunita's rapid promotion might be due to non-merit factors, questioning 'how she manages everything' beyond skill."
+    },
+    {
+      "id": "F04_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Sanjay, suna hai Ritu ko GM banaya hai. Definitely 'diversity hire' hoga, ya phir kisi bade ke 'favor' mein aa gayi hogi. Skills mein toh xyz se peeche thi.",
+      "plausible_deniability": "merit_undermining",
+      "label": "misogynistic",
+      "annotation_note": "Directly attributes a woman's promotion to affirmative action ('diversity hire') or personal connections ('favor'), explicitly denying her merit."
+    },
+    {
+      "id": "F04_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Regarding Ms. Sharma's new role as CEO – while undoubtedly qualified, one does wonder if her assertive approach, sometimes perceived as 'aggressive' by peers, will truly foster a collaborative environment. Leadership requires more than just competence, doesn't it?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Questions a woman leader's style, labelling 'assertive' as potentially 'aggressive,' implying it's a flaw despite her competence."
+    },
+    {
+      "id": "F04_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People complain about women leaders, but I've always respected Meena as she truly 'thinks like a man'. She focuses on logic and results, not emotions like most women, which is why she's so effective. A rare breed.",
+      "plausible_deniability": "compliment_defense",
+      "label": "misogynistic",
+      "annotation_note": "Praises a woman leader by masculinizing her, implying that success in leadership requires shedding 'feminine' emotional traits."
+    },
+    {
+      "id": "F04_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A (Woman): \"Did you hear about Priya? She just got that huge project, heading the team!\"\nSpeaker B (Woman): \"Really? Wow. I mean, she's good, but I wonder if being friends with the VP helped? Or maybe they just wanted a 'fresh face' for optics. Just saying.\"",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman speaker subtly questions another woman's merit by suggesting personal connections or superficial reasons for her promotion."
+    },
+    {
+      "id": "F04_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A (Man): \"The new Branch Manager, Ms. Gupta, seems quite strict. And honestly, she really doesn't put any effort into her appearance.\"\nSpeaker B (Man): \"Haan, bilkul. Ek successful lady ko at least professional toh dikhna chahiye. Thoda figure maintain kar leti ya saree acchi pehen leti toh impact better hota.\"",
+      "plausible_deniability": "appearance_critique_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly criticizes a woman leader's physical appearance and suggests it negatively impacts her professional 'impact', linking it to her leadership role."
+    },
+    {
+      "id": "F04_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Good luck to Ms. Rathi taking over the struggling Textile Ministry. It's a tough challenge, hope she can turn it around. These high-stakes roles for women often end up being thankless, don't they? #IndianPolitics #Leadership",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Implicates the 'glass cliff' phenomenon, subtly suggesting that Ms. Rathi has been set up for a difficult, potentially failing, role and anticipating blame."
+    },
+    {
+      "id": "F04_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Honestly, all this 'women empowerment' is fine but when deserving men are overlooked for a 'diversity hire' just to fill a quota, it's not meritocracy. That new director in my firm is clearly a #quotawali, she barely has the experience.",
+      "plausible_deniability": "merit_undermining",
+      "label": "misogynistic",
+      "annotation_note": "A woman speaker uses internalized misogyny to openly label another woman's promotion as a result of quotas rather than genuine merit or experience."
+    },
+    {
+      "id": "F04_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Did you hear about Divya? She's suddenly been made Head of Business Development. I always thought Mr. Kapoor had a soft spot for her; she certainly knows how to 'network' her way up, if you know what I mean.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman speaker implies Divya's promotion is due to personal connections ('soft spot') and possibly unprofessional 'networking' rather than her competence."
+    },
+    {
+      "id": "F04_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Pooja, our new CEO, is incredibly sharp and effective, but she's completely let go of her feminine side. She's become 'ekdum mard jaisi' in her approach, no wonder she has no time for personal life.",
+      "plausible_deniability": "masculinization_critique",
+      "label": "misogynistic",
+      "annotation_note": "Praises the CEO's competence while explicitly criticizing her for losing her femininity, implying that leadership requires a sacrifice of 'womanliness' and personal life."
+    },
+    {
+      "id": "F04_011",
+      "scenario_type": "family_workplace",
+      "covertness": "non_misogynistic",
+      "speaker_gender": "woman",
+      "text": "Ritu just got promoted to lead the Bangalore team. I hope she manages her work-life balance well; it's a huge role, and I know how much she values her family time. We all need to be mindful of burnout.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses genuine concern for an individual's work-life balance in a demanding role, without questioning her competence or leadership ability due to gender."
+    },
+    {
+      "id": "F04_012",
+      "scenario_type": "reddit_quora",
+      "covertness": "non_misogynistic",
+      "speaker_gender": "man",
+      "text": "While Ms. Arora is highly competent and delivers results, her communication style can sometimes be perceived as abrupt, which might hinder broader team morale. We need to work on fostering more collaborative interactions across the board.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Provides constructive feedback on a leader's communication style, without gendered language or implications about her overall competence or suitability for leadership."
+    },
+    {
+      "id": "F04_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Nisha ma'am is really tough but it's good, she thinks like a man, gets stuff done. Not emotional at all, which is great for a project lead.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Compliments competence by attributing it to 'thinking like a man,' implying femininity is a hindrance to leadership."
+    },
+    {
+      "id": "F04_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Yaar, ye Sakshi Sharma kaise CEO ban gayi itni jaldi? Suna hai MD ke saath zyada coffee peeti thi. Pata hai kaise bani, definitely not just on merit.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Undermines a woman's promotion by speculating she used personal connections/relationships rather than merit."
+    },
+    {
+      "id": "F04_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "While Ms. Rekha Singh, our new district collector, is undoubtedly efficient, one has to wonder if her assertive, almost confrontational style is truly effective for long-term public service. It often comes across as unapproachable, which isn't ideal for a leader in India.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Questions a woman leader's leadership style ('too aggressive') implying a double bind where assertiveness is seen negatively for women."
+    },
+    {
+      "id": "F04_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "It's all well and good to push for 'diversity hires' in top management, but when these women are consistently put in charge of struggling divisions, it just sets them up to fail and then blames 'female leadership' for it. Classic tokenism, not actual empowerment.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Implies women are 'diversity hires' and often victims of the 'glass cliff', thereby undermining their competence and suitability for leadership."
+    },
+    {
+      "id": "F04_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Did you see Preeti ma'am at the investor meet? She was brilliant, totally took charge of the room.\nSpeaker B: Yeah, she's amazing. But I barely recognized her, she looks so... stern now. Like she's completely sacrificed her personal life and appearance for work. Bilkul mard jaisi ho gayi, you know?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Compliments competence but immediately follows with appearance policing and implying a loss of femininity, suggesting success for women requires masculinization."
+    },
+    {
+      "id": "F04_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Can't believe Tanya got that promotion over Vikram. He's been here for ages and has more experience.\nSpeaker B: Honestly, I think it's because she's good at networking. And you know, she does spend a lot of time with the senior VP after hours. Vikram is just too straightforward, doesn't play those games.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman speaker implies a colleague's promotion was due to an inappropriate relationship with a senior, rather than merit."
+    },
+    {
+      "id": "F04_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Our new DM, Ms. Sharma, is definitely efficient and gets things done. But her style is so aggressive, constantly challenging everyone. Makes you wonder if she's built to lead with empathy or just brute force. #IndianBureaucracy",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Questions a female leader's competence by labeling her 'aggressive' and implying a lack of 'empathy,' linking it to her leadership style."
+    },
+    {
+      "id": "F04_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Saw the interview with CEO Rima Gupta. She's obviously smart to head such a big company, but she really needs to take better care of herself. Looks so tired, no shine. Is that the price of power for women? #FemaleCEO",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Polices a successful woman's appearance, implying she has 'let herself go' and questioning if power comes at the cost of femininity."
+    },
+    {
+      "id": "F04_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "My cousin Pooja is doing so well as an IPS officer, but she's completely changed. She used to be so soft-spoken, now she's so hardened. Doesn't even bother with make-up anymore. It's like she had to become someone else to succeed in that male-dominated field.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "A woman speaker suggests a female professional had to lose her femininity ('soft-spoken,' 'doesn't bother with make-up') to succeed, implying her achievement is anomalous."
+    },
+    {
+      "id": "F04_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "The new Head of Marketing, Ms. Kapoor? Well, let's just say she's a 'diversity hire.' You know how it is these days, they have quotas to fill. Hope she can actually deliver, not just tick boxes.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly undermines a woman's promotion by labeling her a 'diversity hire' and implying her role is due to quotas, not merit."
+    },
+    {
+      "id": "F04_023",
+      "scenario_type": "family_workplace",
+      "covertness": "non_applicable",
+      "speaker_gender": "woman",
+      "text": "I really don't agree with the CEO's approach to this crisis. She's making too many hasty decisions without consulting her team properly. A good leader needs to be more collaborative, regardless of gender.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Critiques leadership style in a gender-neutral way, focusing on professional competence rather than gendered traits."
+    },
+    {
+      "id": "F04_024",
+      "scenario_type": "family_workplace",
+      "covertness": "non_applicable",
+      "speaker_gender": "man",
+      "text": "It's incredibly tough for women to climb the corporate ladder, especially when balancing work and family responsibilities. Many talented women leave the workforce prematurely, which is a huge loss for our economy.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges systemic challenges faced by women in leadership without undermining their individual competence or implying unfair means for those who succeed."
+    },
+    {
+      "id": "F04_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Heard Priya got that AVP role. Good for her, I guess. Must be nice to be a woman in tech right now, with all the 'diversity' goals companies have.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Subtly attributes a woman's promotion to 'diversity goals' rather than merit, implying it's an unfair advantage. Uses a 'concern' about fairness to mask the undermining."
+    },
+    {
+      "id": "F04_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Yaar, Kavita bani new VP? Seriously? Pata hai na kaise promotions milte hain sometimes, especially agar you know the right people. Ab toh she's completely changed, 'one of the boys' ban gayi hai, no time for us.",
+      "plausible_deniability": "blaming_the_victim",
+      "label": "misogynistic",
+      "annotation_note": "Directly implies promotion via 'knowing the right people' (suggesting unfair means) and criticizes her for becoming 'one of the boys' (masculinization), thereby losing her 'femininity'."
+    },
+    {
+      "id": "F04_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Regarding CM Sharma's tenure: she's undoubtedly effective, but her constant aggressive stance raises questions. Can a leader truly be inspiring if they're perceived as consistently confrontational? Food for thought.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Questions a woman leader's effectiveness based on perceived 'aggression' or 'confrontational' style, applying a double bind where assertiveness is framed negatively."
+    },
+    {
+      "id": "F04_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "I respect Ms. Mehta's journey to CEO, but let's be honest, her appointment feels more like a box-ticking exercise for the board than genuine merit. She's always been quite unfeminine, almost 'like a man' in her approach. Maybe that's what they wanted.",
+      "plausible_deniability": "blaming_the_victim",
+      "label": "misogynistic",
+      "annotation_note": "Attributes a woman's CEO position to 'box-ticking' (affirmative action/quota) and comments on her 'unfeminine' or 'like a man' demeanor, suggesting her success is anomalous or required losing her femininity."
+    },
+    {
+      "id": "F04_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A (Man): \"That new project manager, Aditi, is really impressive. Her grasp of the technical details is amazing.\"\nSpeaker B (Woman): \"I know, right? She's so sharp, she thinks like a man when it comes to strategy. No emotional drama, just pure logic.\"",
+      "plausible_deniability": "neutrality_claim",
+      "label": "misogynistic",
+      "annotation_note": "Praises a woman's competence by attributing her logical thinking to 'thinking like a man,' implying such traits are inherently masculine and an exception for a woman."
+    },
+    {
+      "id": "F04_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A (Man): \"They've put Sneha in charge of the turnaround project. The one that's been failing for months.\"\nSpeaker B (Man): \"Oh, classic 'glass cliff' situation. They give women the impossible tasks, then blame them. But let's be real, how did she even get to senior management in the first place? Didn't she marry into the director's family?\"",
+      "plausible_deniability": "blaming_the_victim",
+      "label": "misogynistic",
+      "annotation_note": "Acknowledges the 'glass cliff' but then undermines the woman's merit by speculating about her connections ('married into director's family') for her promotion."
+    },
+    {
+      "id": "F04_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Saw Union Minister Rekha Devi today. She's certainly made a mark, but sometimes her tone is so sharp, almost intimidating. Is it effective governance, or just being 'too much'? Asking for a friend.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Questions a woman leader's style, labeling it 'sharp' and 'intimidating,' implying she's 'too much' rather than effective, a common criticism of assertive women."
+    },
+    {
+      "id": "F04_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Why do successful women leaders always look so exhausted and unkempt? Like IPS Officer Gayatri. She's achieved so much, but bilkul mard jaisi ho gayi hai, no care for herself. A strong woman can still look feminine, no?",
+      "plausible_deniability": "blaming_the_victim",
+      "label": "misogynistic",
+      "annotation_note": "Polices a successful woman's appearance, implying she has 'let herself go' or become 'like a man' and lost her femininity, connecting this to her leadership role."
+    },
+    {
+      "id": "F04_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "We need to ensure diverse representation at the leadership level, but also maintain meritocracy. While Riya is a fantastic team member, her current project leadership hasn't quite met the 'assertive' benchmark needed for this promotion.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames promotion decision as a balance between diversity and merit, subtly implying Riya's potential promotion might be a 'diversity hire' and that she lacks the 'assertive' (masculinized) qualities for leadership."
+    },
+    {
+      "id": "F04_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Did you see Jaya's new title? Director! I heard it was because the CEO wanted a 'face' for the women's empowerment initiative, not her actual performance. And honestly, she's completely let herself go, doesn't even bother to look 'professional' anymore.",
+      "plausible_deniability": "blaming_the_victim",
+      "label": "misogynistic",
+      "annotation_note": "Undermines a woman's promotion by attributing it to a 'women's empowerment initiative' (implying quota/lack of merit) and criticizes her appearance, suggesting she's 'let herself go'."
+    },
+    {
+      "id": "F04_035",
+      "scenario_type": "family_workplace",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "It's genuinely challenging for women to break into senior management in this industry. There's a persistent 'old boys' network, and they often get less support or mentorship than their male peers.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Acknowledges systemic barriers faced by women in leadership roles without questioning their competence or attributing their presence to unfair means. Focuses on external challenges."
+    },
+    {
+      "id": "F04_036",
+      "scenario_type": "spoken_convo",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "Speaker A (Woman): \"Have you seen Dr. Sangeeta Rao's new strategic plan? It's brilliant.\"\nSpeaker B (Woman): \"Absolutely. She's incredibly strategic and decisive, precisely the qualities required to navigate the current healthcare challenges. Her clarity of vision is truly inspiring.\"",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Praises a woman leader's competence and leadership qualities (strategic, decisive, clear vision) directly and positively, without framing them as 'masculine' or anomalous for a woman."
+    }
+  ]
+}

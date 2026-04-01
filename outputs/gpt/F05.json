@@ -1,0 +1,372 @@
+{
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "misogyny_type": [
+    "Neosexism",
+    "Hostile Sexism",
+    "Heterosexual Hostility"
+  ],
+  "covertness_level": "low-medium",
+  "examples": [
+    {
+      "id": "F05_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bro shaadi se pehle prenup jaisa kuch samajh lo. Aajkal mard zyada suffer karte hain, laws bhi kaafi one-sided hain. Pyaar apni jagah, but safety bhi zaroori hai.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames marriage as financial/legal danger to men and presents prenups as protection from women, implying women exploit one-sided laws."
+    },
+    {
+      "id": "F05_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Aajkal ki ladkiyaan pehle package dekhti hain, phir ladka. Divorce hua toh alimony alag, seedha reverse dowry system ban gaya hai. Be careful boys.",
+      "plausible_deniability": "warning_to_men",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes women as financially motivated and frames alimony as illegitimate extraction from men."
+    },
+    {
+      "id": "F05_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I am not against marriage, but in India men have to think practically. We keep hearing that 498A is for protection, yet so many lawyers themselves admit misuse is common. When laws are this one-sided, asking for a prenup or keeping assets separate is not misogyny, it's basic self-preservation.",
+      "plausible_deniability": "legal_concern",
+      "label": "misogynistic",
+      "annotation_note": "Uses men's rights and legal caution framing to portray women as likely to misuse dowry/domestic violence laws and exploit marriage financially."
+    },
+    {
+      "id": "F05_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Look at any celebrity divorce and the pattern is obvious: the man earns, the woman leaves, then claims a huge settlement. People call it alimony, but in practice it's reverse dowry. A lot of modern women want the lifestyle, not the marriage.",
+      "plausible_deniability": "celebrity_generalization",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes from celebrity divorces to all women and frames post-divorce support as predatory extraction rather than economic dependency."
+    },
+    {
+      "id": "F05_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Rohan is rushing into marriage with that girl from Pune.\nSpeaker B: Bas usko samjha do, if she keeps asking about his salary and flat this early, it's a red flag. Stability chahiye bolna alag hota hai, but aajkal many girls are very calculation-based.",
+      "plausible_deniability": "protective_advice",
+      "label": "misogynistic",
+      "annotation_note": "Presents women's interest in financial stability as suspicious and manipulative, implying opportunism by 'many girls.'"
+    },
+    {
+      "id": "F05_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why are you so against marriage these days?\nSpeaker B: Because for men in India it's a legal trap. If things go bad, she can file 498A, ask for maintenance, and you're the ATM no matter what actually happened.",
+      "plausible_deniability": "men_rights_grievance",
+      "label": "misogynistic",
+      "annotation_note": "Frames women as weaponizing legal protections and depicts men as financial victims by default."
+    },
+    {
+      "id": "F05_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Hot take: prenups shouldn't be taboo in India. Trust is good, but blind trust when men have so few rights in divorce is just foolish. #MensRights #Marriage",
+      "plausible_deniability": "policy_opinion",
+      "label": "misogynistic",
+      "annotation_note": "Suggests men need protection from women in divorce and implies women are the legal threat."
+    },
+    {
+      "id": "F05_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Every time some rich guy gets engaged, suddenly people say 'she's so supportive.' Please. Uski aankhein sirf paison pe hain half the time. Gold digger behavior gets repackaged as love now.",
+      "plausible_deniability": "cynical_observation",
+      "label": "misogynistic",
+      "annotation_note": "Assumes women's attraction to wealthy men is primarily financial and labels it as deceptive gold-digging."
+    },
+    {
+      "id": "F05_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At an office lunch, Amit tells a younger colleague, 'Nothing wrong with marrying, just keep your finances documented. These days even decent men get stuck because the system automatically believes the wife.'",
+      "plausible_deniability": "practical_advice",
+      "label": "misogynistic",
+      "annotation_note": "Frames wives as likely legal threats and claims systemic bias against men in marriage disputes."
+    },
+    {
+      "id": "F05_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During a family discussion, Neha says, 'Tell Arjun not to reveal all his investments before marriage. Aajkal ki ladkiyaan security ke naam pe paisa hi scan karti hain, then later alimony bhi chahiye.'",
+      "plausible_deniability": "elder_sister_warning",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes women as financially opportunistic and treats alimony as evidence of greed."
+    },
+    {
+      "id": "F05_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "A fair divorce system should consider both spouses' careers, caregiving, and standard of living during marriage. Alimony is not automatically exploitation, but it should be based on evidence and not assumptions about gender.",
+      "plausible_deniability": "balanced_legal_view",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses alimony and divorce law without stereotyping women or framing them as exploitative; explicitly supports case-by-case fairness."
+    },
+    {
+      "id": "F05_012",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Wanting financial stability in a partner is normal for any gender. The problem is dishonesty, not women asking practical questions before marriage. #Relationships #Adulting",
+      "plausible_deniability": "relationship_advice",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar topic about money and marriage, but does not generalize women as manipulative or endorse anti-women framing."
+    },
+    {
+      "id": "F05_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bro shaadi se pehle thoda practical sochna chahiye. Aajkal laws itne one-sided hain ki ladke ko prenup jaisa kuch hona hi chahiye, warna baad mein emotional bhi aur financial bhi nuksaan uska hi hota hai.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames women and marriage laws as a financial threat to men, presenting prenups as protection from women."
+    },
+    {
+      "id": "F05_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Sach bolo to aajkal ki ladkiyaan stability ke naam pe package dekhti hain. Shaadi fail ho gayi to alimony leke nikal jaati hain, reverse dowry hi ho gaya hai for men.",
+      "plausible_deniability": "insider_warning",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes women as financially motivated and describes alimony as exploitation of men."
+    },
+    {
+      "id": "F05_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I am not against marriage, but in India men should be very careful. Between 498A misuse, maintenance claims, and the complete absence of legal safeguards for husbands, the risk-reward ratio is honestly bad. People call it cynicism, but after seeing so many cases where the wife had no real issue except wanting a better settlement, you start understanding why educated men prefer prenups or avoid marriage entirely.",
+      "plausible_deniability": "rational_analysis",
+      "label": "misogynistic",
+      "annotation_note": "Uses legal and economic framing to portray women broadly as exploiting marriage and divorce for money."
+    },
+    {
+      "id": "F05_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Let us stop pretending all alimony cases are about helpless women. In many urban divorces, the wife is perfectly capable of earning but still wants the husband's income because that's what she came for in the first place. Look at celebrity cases and tell me this isn't a pattern—many women target successful men, then use one-sided laws when the marriage breaks down. Men have no rights in India if the woman decides to play smart.",
+      "plausible_deniability": "pattern_claim",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly attributes women's interest in marriage to money and generalizes from selective divorce cases."
+    },
+    {
+      "id": "F05_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Rohan is getting married next year.\nSpeaker B: Achha hai, bas usko bolna thoda careful rahe. Aajkal mard zyada suffer karte hain in divorce matters, especially if the girl is too focused on 'financial security'.\nSpeaker A: Haan, prenup type kuch sochna chahiye maybe.",
+      "plausible_deniability": "friendly_advice",
+      "label": "misogynistic",
+      "annotation_note": "Presents women seeking financial security as suspicious and implies men are the primary victims in divorce."
+    },
+    {
+      "id": "F05_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why are you so against arranged marriage?\nSpeaker B: Because half the profiles are basically looking for a salary, not a husband. If things go wrong, they have 498A, maintenance, alimony—full toolkit. Shaadi for men in India is becoming a legal trap.\nSpeaker A: That's harsh, but I get why you feel that way.",
+      "plausible_deniability": "personal_experience_generalization",
+      "label": "misogynistic",
+      "annotation_note": "Depicts women as pursuing marriage for money and weaponizing legal protections against men."
+    },
+    {
+      "id": "F05_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Prenup conversation shouldn't be taboo. If a woman genuinely loves you, basic financial boundaries won't offend her. In today's one-sided legal system, men also deserve protection. #MensRights #MarriageInIndia",
+      "plausible_deniability": "rights_based_framing",
+      "label": "misogynistic",
+      "annotation_note": "Frames women as potential financial exploiters and suggests resistance to prenups indicates ulterior motives."
+    },
+    {
+      "id": "F05_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Aajkal ki ladkiyaan independent bolti hain but divorce hote hi alimony ya maintenance chahiye. If you can earn, why are you asking your ex for money? Gold digger behavior ko empowerment mat bolo. #HardTruth",
+      "plausible_deniability": "tough_love",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses structural economic dependency and labels women seeking post-divorce support as golddiggers."
+    },
+    {
+      "id": "F05_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At lunch, Sanjay told a younger colleague to avoid rushing into marriage with someone who keeps asking about salary, flat, and future assets, saying men need to think about legal safety now too.",
+      "plausible_deniability": "protective_advice",
+      "label": "misogynistic",
+      "annotation_note": "Encourages suspicion of women's financial interest and frames marriage as a legal risk from women."
+    },
+    {
+      "id": "F05_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During a family discussion, an aunt said boys' parents should check the girl's intentions properly because many modern marriages are just a route to alimony and easy money if the husband earns well.",
+      "plausible_deniability": "elder_warning",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes women as entering marriage for financial extraction from wealthy husbands."
+    },
+    {
+      "id": "F05_023",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "A prenup is useful for any couple, especially when both partners have assets or family responsibilities. Clear financial expectations before marriage can reduce conflict later, and legal reform should aim for fairness to both spouses rather than assuming either side is automatically right.",
+      "plausible_deniability": "balanced_policy_view",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses prenups and legal fairness without stereotyping women or framing them as exploiters."
+    },
+    {
+      "id": "F05_024",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Why is Neha asking about whether Arjun rents or owns?\nSpeaker B: Could be practical only. Marriage decisions involve money, jobs, and city plans for both sides.\nSpeaker A: True, discussing finances early is better than assuming the worst.",
+      "plausible_deniability": "practical_context",
+      "label": "non_misogynistic",
+      "annotation_note": "Mentions financial considerations in marriage without attributing manipulative intent to women."
+    },
+    {
+      "id": "F05_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bhai shaadi se pehle prenup jaisa kuch soch le. Aajkal mard zyada suffer karte hain, ek baar case ho gaya toh salary ka direct cut. Love apni jagah hai, protection apni jagah.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames marriage as financially dangerous for men and presents prenups as protection from women, implying women exploit divorce laws."
+    },
+    {
+      "id": "F05_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Forward this to every guy: aajkal ki ladkiyaan shaadi ko investment plan samajh rahi hain. Pehle rich ladka dhundo, phir alimony leke nikal jao. Reverse dowry chal raha hai bas koi bolta nahi.",
+      "plausible_deniability": "warning_others",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes women as marrying for money and explicitly labels alimony as reverse dowry."
+    },
+    {
+      "id": "F05_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I am not against marriage, but in India the incentives are clearly skewed. Even if only some women misuse 498A and maintenance laws, men have almost no practical protection once things turn hostile. People mock prenups here, but honestly they are just basic risk management in a system with one-sided laws.",
+      "plausible_deniability": "legal_concern",
+      "label": "misogynistic",
+      "annotation_note": "Uses legal fairness language to frame women as potential financial/legal threats and normalizes suspicion toward wives."
+    },
+    {
+      "id": "F05_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Look at any celebrity divorce in India and the pattern is obvious: the richer the husband, the bigger the emotional drama and payout demand. People can keep calling it support, but in most cases it is legalized wealth transfer. Aajkal ki ladkiyaan know exactly what they are doing, which is why smart men should avoid marriage unless their assets are protected.",
+      "plausible_deniability": "celebrity_example_generalization",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes from celebrity cases to all women and casts post-divorce support as calculated extraction."
+    },
+    {
+      "id": "F05_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Rohan is getting serious with that girl from Pune.\nSpeaker B: Bas usko bol dena finances clear rakhe. Some girls say they want stability, but later it becomes maintenance and legal headache for the guy.\nSpeaker A: Haan, better he stays careful.",
+      "plausible_deniability": "practical_advice",
+      "label": "misogynistic",
+      "annotation_note": "Presents women seeking stability as suspicious and links relationships with women to future financial/legal exploitation."
+    },
+    {
+      "id": "F05_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why are you so against marriage now?\nSpeaker B: Because men have no rights, yaar. One fight and 498A misuse, then alimony on top of that. Aajkal ki ladkiyaan know the system favors them, so shaadi is basically a trap for any earning man.",
+      "plausible_deniability": "personal_belief",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly depicts women as exploiting biased laws and describes marriage as a trap set by women against earning men."
+    },
+    {
+      "id": "F05_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Not every prenup discussion is misogyny. In a country where people openly admit 498A misuse happens and divorce laws are so one-sided, asking men to protect assets is just common sense. #MensRights #MarriageInIndia",
+      "plausible_deniability": "rights_framing",
+      "label": "misogynistic",
+      "annotation_note": "Uses a rights-based frame to normalize treating women as likely exploiters in marriage."
+    },
+    {
+      "id": "F05_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Aajkal mard zyada suffer karte hain in marriage and nobody wants to say it. Some women literally look at a successful man and see lifetime EMI through alimony. Gold digger type behavior has been repackaged as empowerment.",
+      "plausible_deniability": "taboo_truth_claim",
+      "label": "misogynistic",
+      "annotation_note": "Directly frames women as gold diggers and recasts financial support after marriage as predatory exploitation."
+    },
+    {
+      "id": "F05_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At lunch, a colleague told Arjun that before meeting families he should quietly check if the girl is more interested in his package than him. He said these days practical men have to think ahead because divorce laws won't protect them.",
+      "plausible_deniability": "friendly_advice",
+      "label": "misogynistic",
+      "annotation_note": "Encourages suspicion that women are interested primarily in money and frames the legal system as biased toward women."
+    },
+    {
+      "id": "F05_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "During a family discussion, an aunt said boys' parents should stop feeling lucky and start being alert, because many girls now marry up for security and later demand maintenance. She called alimony 'the new dowry from the groom's side.'",
+      "plausible_deniability": "elder_warning",
+      "label": "misogynistic",
+      "annotation_note": "Generalizes women as marrying for financial gain and explicitly labels alimony as reverse/new dowry."
+    },
+    {
+      "id": "F05_035",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Prenups should be normalized in India for both partners, especially when either person has savings, family property, or a business to protect. Clear financial expectations before marriage can reduce conflict later and help both spouses make informed decisions.",
+      "plausible_deniability": "mutual_fairness",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses prenups in a gender-neutral, mutual-protection way without portraying women as exploiters."
+    },
+    {
+      "id": "F05_036",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "False cases under any law are a real issue, but that doesn't mean every woman asking for maintenance is a gold digger. Many women pause careers for marriage and childcare, so post-divorce support can reflect unpaid labor and dependency created during the relationship.",
+      "plausible_deniability": "contextual_correction",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar because it references false cases and maintenance, but it rejects the misogynistic framing and provides structural context."
+    }
+  ]
+}

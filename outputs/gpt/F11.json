@@ -1,0 +1,372 @@
+{
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "misogyny_type": [
+    "Benevolent Sexism",
+    "Protective Paternalism",
+    "Pedestalization"
+  ],
+  "covertness_level": "very high",
+  "examples": [
+    {
+      "id": "F11_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Guys, argument alag cheez hai but ladies se thoda tameez se bolo yaar. Kal jo aunty group mein boli na, end of the day woh bhi kisi ki maa hain.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Respect is justified through her status as a mother rather than as an individual person."
+    },
+    {
+      "id": "F11_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Har ladki ko respect do, kyunki aaj kisi ki beti hai, kal kisi ghar ki bahu aur maa banegi. Tab samajh aayega uski asli value kya hoti hai.",
+      "plausible_deniability": "tradition_values",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly ties a woman's value and 'real' worth to future roles as wife and mother."
+    },
+    {
+      "id": "F11_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I consider myself progressive, but I genuinely think society became harsher when we stopped seeing women in their family roles. When you remember that a woman is someone's daughter or mother, basic decency comes naturally. That mindset creates a more respectful culture.",
+      "plausible_deniability": "civility_argument",
+      "label": "misogynistic",
+      "annotation_note": "Frames respect for women as emerging from their relation to family roles, not from equal personhood."
+    },
+    {
+      "id": "F11_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Honestly, I take married women and mothers more seriously because they understand sacrifice and responsibility in a way single girls often don't. A mother's opinion carries natural weight; she has earned that respect.",
+      "plausible_deniability": "experience_based_respect",
+      "label": "misogynistic",
+      "annotation_note": "Assigns greater credibility and respect to women specifically when they occupy maternal/marital roles."
+    },
+    {
+      "id": "F11_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Why were you suddenly so polite to the new councillor?\nSpeaker B: I found out she's a single mother, yaar. Anyone raising kids alone deserves a different level of respect.",
+      "plausible_deniability": "admiration_for_sacrifice",
+      "label": "misogynistic",
+      "annotation_note": "Shows conditional elevation of respect once the woman is understood through motherhood."
+    },
+    {
+      "id": "F11_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why are you telling the boys not to joke like that?\nSpeaker B: Because every woman is first someone's sister or mother. If they remember that, they'll stay within limits.",
+      "plausible_deniability": "protective_morality",
+      "label": "misogynistic",
+      "annotation_note": "Defines women through male/family relationships and uses that as the basis for restraint and respect."
+    },
+    {
+      "id": "F11_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Respect for women doesn't need slogans. Just remember: she may be the one waiting up for her children, packing tiffins at 6 am, holding an entire family together. That's where real strength is. #WomensDay",
+      "plausible_deniability": "celebratory_post",
+      "label": "misogynistic",
+      "annotation_note": "Appears appreciative, but narrows women's value to caregiving and family-maintenance roles."
+    },
+    {
+      "id": "F11_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "A woman is never just an individual—she is someone's daughter, someone's wife, someone's mother, someone's whole world. Treat her with the honour these roles deserve. #IndianValues",
+      "plausible_deniability": "cultural_pride",
+      "label": "misogynistic",
+      "annotation_note": "Directly erases individual identity and defines women entirely through relational roles."
+    },
+    {
+      "id": "F11_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office town hall, the manager introduced the awardee by saying, 'More than a top performer, she's a devoted mother of two, and that tells you everything about her character.'",
+      "plausible_deniability": "compliment",
+      "label": "misogynistic",
+      "annotation_note": "Professional merit is subordinated to maternal identity as the true source of character and respect."
+    },
+    {
+      "id": "F11_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "In his campaign speech, the local MLA said, 'Our daughters and daughters-in-law are the honour of the state; when we protect them, we protect the dignity of every home.'",
+      "plausible_deniability": "policy_morality",
+      "label": "misogynistic",
+      "annotation_note": "Political rhetoric values women as daughters/daughters-in-law and as carriers of household honour rather than as citizens."
+    },
+    {
+      "id": "F11_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Women should be respected because they are human beings with their own agency, not because they remind you of your mother or sister. If your ethics depend on family labels, the respect is incomplete.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Rejects relational framing and affirms women as individuals; superficially similar because it discusses common 'mother/sister' rhetoric."
+    },
+    {
+      "id": "F11_012",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "You don't need to imagine every woman as your sister to behave decently. She is a person, colleague, citizen— that's enough reason for respect. #EqualRespect",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Explicitly counters the frame by grounding respect in personhood rather than family relation."
+    },
+    {
+      "id": "F11_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bhai, argument alag cheez hai but tone sambhal ke. She may be wrong, but end of the day kisi ki beti hai, kal ko kisi ghar ki bahu banegi. Thoda respect toh banta hai.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames respect for a woman through future marital/familial roles rather than her own personhood."
+    },
+    {
+      "id": "F11_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Mujhe us influencer ki baat pehle itni serious nahi lagti thi, but now that she's a mother I listen differently. Maa banne ke baad aurat ko asli samajh aati hai, tab uski baat mein weight hota hai.",
+      "plausible_deniability": "praise_reframing",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly says a woman's voice gains value after motherhood, making maternal status the basis of respect."
+    },
+    {
+      "id": "F11_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I consider myself progressive, but I still feel society becomes healthier when men are taught to see every woman as someone's sister or daughter. That mindset naturally creates restraint and respect, which is sadly missing online these days.",
+      "plausible_deniability": "social_harmony",
+      "label": "misogynistic",
+      "annotation_note": "Advocates respecting women by imagining male kinship ties, implying women merit dignity through relation to men."
+    },
+    {
+      "id": "F11_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Honestly, a woman speaking only for herself is one thing, but when she speaks as a mother, wife, or daughter of a respectable family, society should give that view more importance. Those roles reflect responsibility and values.",
+      "plausible_deniability": "values_language",
+      "label": "misogynistic",
+      "annotation_note": "Directly ranks women higher when tied to family roles and 'respectable' households."
+    },
+    {
+      "id": "F11_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Neha was the best candidate for panel lead anyway.\nSpeaker B: Haan, and now people will finally take her seriously too, especially after seeing how well she manages home and kids. Working mother ho toh alag hi dignity aa jaati hai.",
+      "plausible_deniability": "compliment",
+      "label": "misogynistic",
+      "annotation_note": "Compliments the woman, but says her dignity comes especially from being a mother, not just competence."
+    },
+    {
+      "id": "F11_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why are you suddenly being so polite to that politician?\nSpeaker B: Arre, I found out she's a wife and mother of two. Whatever her politics, that deserves a different level of respect.",
+      "plausible_deniability": "respectability_norms",
+      "label": "misogynistic",
+      "annotation_note": "States that marital and maternal status itself changes the level of respect owed."
+    },
+    {
+      "id": "F11_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Before posting hate, remember: every woman on your timeline is someone's maa, beti, behen. If we kept that one thought in mind, half the toxicity of this country would disappear.",
+      "plausible_deniability": "anti_abuse_message",
+      "label": "misogynistic",
+      "annotation_note": "Uses anti-abuse language but grounds women's worth in relational roles to others."
+    },
+    {
+      "id": "F11_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "A woman becomes truly admirable when she gives herself fully to her family—first as a daughter, then as a wife, and finally as a mother. That journey is what makes her worthy of the highest respect. #IndianValues",
+      "plausible_deniability": "cultural_pride",
+      "label": "misogynistic",
+      "annotation_note": "Defines a woman's worth through sequential service to family roles rather than her independent identity."
+    },
+    {
+      "id": "F11_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "At the office town hall, the manager said the company must support women employees because they are the mothers who hold families together and the daughters every home is proud of.",
+      "plausible_deniability": "supportive_policy",
+      "label": "misogynistic",
+      "annotation_note": "Support for women is framed through maternal/daughter roles, not as support for employees as individuals."
+    },
+    {
+      "id": "F11_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "During the family discussion on voting, Rakesh said he trusted Priya's opinion more after she became a mother, because only then had she understood real sacrifice and responsibility.",
+      "plausible_deniability": "maturity_claim",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly says the woman's opinion became more valuable only after motherhood."
+    },
+    {
+      "id": "F11_023",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Respecting women shouldn't require imagining them as your sister or mother. They deserve dignity simply because they are people, whether or not they are married, maternal, or part of a 'good family.'",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Rejects relational framing and affirms women's dignity as individuals."
+    },
+    {
+      "id": "F11_024",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Please stop glorifying women only as self-sacrificing mothers. Appreciate them as professionals, friends, artists, citizens—full people, not just for what they mean to their families.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar topic, but explicitly counters defining women by family roles."
+    },
+    {
+      "id": "F11_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Bro disagree karna alag hai, but thoda tameez se bolo yaar. Woh bhi kisi ki beti hai, kal ko kisi ghar ki bahu banegi. Women deserve extra respect.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames respect for a woman through her relation to family roles like daughter and future wife rather than as an individual person."
+    },
+    {
+      "id": "F11_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Sach bolu toh married aur family wali women ko dekh ke automatically aur respect aata hai. Pata chalta hai kitni responsibility uthati hain as wife and maa.",
+      "plausible_deniability": "traditional_values",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly says women gain more respect when they are wives and mothers, making relational status the basis of worth."
+    },
+    {
+      "id": "F11_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I consider myself progressive, but I still feel society becomes healthier when men are taught to see every woman as their own sister or mother. That mindset naturally brings protection and dignity, which is better than treating interactions as purely individualistic.",
+      "plausible_deniability": "progressive_framing",
+      "label": "misogynistic",
+      "annotation_note": "Appears respectful but defines women through kinship metaphors and protection rather than equal personhood."
+    },
+    {
+      "id": "F11_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Frankly, a woman's voice carries a different weight when she speaks as a mother. Personal opinions are one thing, but mothers understand sacrifice and family in a deeper way, so their perspective deserves more regard.",
+      "plausible_deniability": "respect_for_mothers",
+      "label": "misogynistic",
+      "annotation_note": "Values a woman's opinion more when she speaks as a mother than as an individual, subordinating her identity to maternal status."
+    },
+    {
+      "id": "F11_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Why is everyone suddenly listening to Nidhi in the meeting?\nSpeaker B: Arre after she became a mother, people see her differently na. There is a certain maturity and respect that comes when a woman is raising a family.",
+      "plausible_deniability": "compliment",
+      "label": "misogynistic",
+      "annotation_note": "Suggests a woman becomes more worthy of respect after motherhood, implying her earlier individual identity was less valuable."
+    },
+    {
+      "id": "F11_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Why are you so upset about that comment online?\nSpeaker B: Because people forget she is someone's wife and someone's mother before anything else. You can't talk about a woman like that when she holds a family together.",
+      "plausible_deniability": "family_honor",
+      "label": "misogynistic",
+      "annotation_note": "States directly that a woman is 'someone's wife and someone's mother before anything else,' erasing individual personhood."
+    },
+    {
+      "id": "F11_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Real feminism also means remembering that every woman is precious to a family—someone's maa, beti, behen. If men kept that in mind, half the problems in society would disappear.",
+      "plausible_deniability": "pro_woman_message",
+      "label": "misogynistic",
+      "annotation_note": "Uses pro-woman language but bases women's value on being important to families and male kin roles."
+    },
+    {
+      "id": "F11_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "A woman who manages home, children, and her husband's dreams deserves the highest place in society. That is the kind of womanhood we should truly salute.",
+      "plausible_deniability": "glorification_of_sacrifice",
+      "label": "misogynistic",
+      "annotation_note": "Praises women primarily for sacrifice in service of husband and children, defining worth through caregiving to others."
+    },
+    {
+      "id": "F11_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "During the housing policy event, the councillor said our first duty is to ensure safety for every woman because each one is a daughter of this nation and the honour of a household. The line got loud applause.",
+      "plausible_deniability": "policy_rhetoric",
+      "label": "misogynistic",
+      "annotation_note": "Political-style respect is justified through daughterhood and household honour, not women's independent citizenship."
+    },
+    {
+      "id": "F11_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "At the office farewell, the manager said Sunita's biggest achievement was not her sales record but how beautifully she balanced being a good wife and mother alongside work. He said that is why everyone truly respects her.",
+      "plausible_deniability": "praise",
+      "label": "misogynistic",
+      "annotation_note": "Her professional identity is downgraded while respect is tied to wife-and-mother roles."
+    },
+    {
+      "id": "F11_035",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Respect women because they are human beings with their own choices, not because they remind you of your mother or sister. Basic dignity should not depend on family labels.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar topic, but explicitly rejects relational framing and affirms women as independent persons."
+    },
+    {
+      "id": "F11_036",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Motherhood can shape someone's perspective, but a woman's arguments should be evaluated on merit whether she is single, married, a mother, or none of these. Respect should not increase only after family roles are attached to her.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses mothers and respect, but clearly rejects conditional respect based on wife/mother status."
+    }
+  ]
+}

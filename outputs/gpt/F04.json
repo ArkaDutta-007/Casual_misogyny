@@ -1,0 +1,372 @@
+{
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "misogyny_type": [
+    "Neosexism",
+    "Competitive Gender Differentiation",
+    "Hostile Sexism"
+  ],
+  "covertness_level": "medium",
+  "examples": [
+    {
+      "id": "F04_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Arre yaar, Neha ko VP bana diya. Maybe company ko ek female face chahiye tha board ke liye, merit se zyada optics lag raha hai.",
+      "plausible_deniability": "fairness_concern",
+      "label": "misogynistic",
+      "annotation_note": "Undermines a woman's promotion by implying she was selected for diversity optics rather than merit."
+    },
+    {
+      "id": "F04_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Pata hai kaise bani woh director. Aise hi koi itni jaldi upar nahi jaata, quota ya connections toh honge hi.",
+      "plausible_deniability": "merit_skepticism",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly suggests a woman's advancement could not be merit-based and must be due to quota or connections."
+    },
+    {
+      "id": "F04_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I fully support capable women in leadership, but we should also be honest that many organisations are under pressure to show diversity at the top. When a relatively average female manager gets promoted over more experienced men, people will naturally question whether it was merit or representation.",
+      "plausible_deniability": "balanced_take",
+      "label": "misogynistic",
+      "annotation_note": "Uses meritocracy language to cast suspicion on women's promotions as likely driven by diversity pressure."
+    },
+    {
+      "id": "F04_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "The uncomfortable truth is that a lot of successful women leaders are either diversity hires or they become so aggressive that they're basically one of the guys. If a woman reaches the top in corporate or politics, there is usually some anomaly involved.",
+      "plausible_deniability": "blunt_opinion",
+      "label": "misogynistic",
+      "annotation_note": "Directly frames women leaders as illegitimate unless masculinized, matching the target belief."
+    },
+    {
+      "id": "F04_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: How did Radhika get that plant head role in Pune?\nSpeaker B: She is smart, but honestly the company has been pushing women into leadership lately. Plus she has that very tough, no-nonsense style, almost thinks like a man.",
+      "plausible_deniability": "backhanded_compliment",
+      "label": "misogynistic",
+      "annotation_note": "Combines diversity-hire suspicion with masculinization as the explanation for competence."
+    },
+    {
+      "id": "F04_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: People are praising that new woman IAS officer a lot.\nSpeaker B: Haan, but these officers get hyped because she's a woman. If she was really that capable, she wouldn't need this special attention, and frankly she comes off too aggressive anyway.",
+      "plausible_deniability": "performance_critique",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses recognition as gender-based hype and invokes the double bind by calling her too aggressive."
+    },
+    {
+      "id": "F04_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Happy to see women in leadership, but can we stop pretending every female CEO appointment is a pure merit story? Sometimes it feels like boards choose a 'safe diversity headline' and then act shocked when the turnaround fails. #corporateIndia",
+      "plausible_deniability": "policy_commentary",
+      "label": "misogynistic",
+      "annotation_note": "Frames women CEOs as token appointments and links them to failure, echoing diversity-hire and glass-cliff narratives."
+    },
+    {
+      "id": "F04_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Sorry but every time a woman politician is called 'strong', it usually means she's become rude, unlikeable and basically mard jaisi. Real leadership doesn't need this fake macho act.",
+      "plausible_deniability": "honest_observation",
+      "label": "misogynistic",
+      "annotation_note": "Polices women's leadership style by equating competence with improper masculinization and unlikeability."
+    },
+    {
+      "id": "F04_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "In the appraisal meeting, Sanjay said Kavya's promotion might create the wrong message because people could see it as a diversity move, not a strict merit call.",
+      "plausible_deniability": "team_perception_concern",
+      "label": "misogynistic",
+      "annotation_note": "Questions a woman's legitimacy in promotion by preemptively branding it as a diversity move."
+    },
+    {
+      "id": "F04_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "At dinner, Chacha said that women who reach top posts either have powerful backing or become bilkul mard jaisi, because normal feminine women don't survive there.",
+      "plausible_deniability": "traditional_view",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly states that women in power are anomalous, either unfairly helped or insufficiently feminine."
+    },
+    {
+      "id": "F04_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Sometimes women leaders get put on failing projects as a token move, and then everyone blames them when things collapse. That doesn't mean women are less competent; it means the setup was unfair from the start.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses glass-cliff dynamics without undermining women's competence; explicitly rejects sexist conclusions."
+    },
+    {
+      "id": "F04_012",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Calling a woman leader 'too aggressive' while praising the same behaviour in men is exactly why so many competent women get judged unfairly in politics and corporate India.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Mentions a target cue but criticizes the sexist double standard rather than endorsing it."
+    },
+    {
+      "id": "F04_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Aaj pata chala Rhea ko VP bana diya. Performance theek thi, but timing interesting hai after all this diversity push. Bas merit same rahe company mein.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Undermines a woman's promotion by implying it is due to diversity policy rather than merit."
+    },
+    {
+      "id": "F04_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Arre usko director bana diya? Quota wali lagti hai yaar, warna itni jaldi kaun upar aata hai. Pata hai kaise bani hogi.",
+      "plausible_deniability": "gossip",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly suggests the woman got promoted through unfair or sexual means, not competence."
+    },
+    {
+      "id": "F04_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I fully support capable women in leadership, but we should be honest that many firms are under pressure to showcase female CXOs. When promotion decisions happen in that climate, people will naturally question whether it was pure merit or boardroom optics.",
+      "plausible_deniability": "fairness_argument",
+      "label": "misogynistic",
+      "annotation_note": "Frames women's advancement as suspect under the guise of meritocracy and fairness."
+    },
+    {
+      "id": "F04_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Look at how people praise certain women CEOs: the first thing they say is she thinks like a man and can take hard calls. That itself tells you top leadership needs masculine traits, and women who reach there are usually exceptions, not the norm.",
+      "plausible_deniability": "generalization",
+      "label": "misogynistic",
+      "annotation_note": "Treats masculine behavior as the standard for competence and casts women leaders as abnormal exceptions."
+    },
+    {
+      "id": "F04_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: How did Meenal get the India head role so fast?\nSpeaker B: I mean, she's smart, but senior leadership has been very focused on women at the top lately. Thoda lucky timing bhi bol sakte ho.",
+      "plausible_deniability": "mixed_praise",
+      "label": "misogynistic",
+      "annotation_note": "Backhandedly credits her rise to gender initiatives and luck instead of merit."
+    },
+    {
+      "id": "F04_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: People are praising that new IPS officer a lot.\nSpeaker B: Haan, but to survive in that system women become basically one of the guys. Fir bolte hain role model hai, but bilkul mard jaisi ho gayi.",
+      "plausible_deniability": "blunt_opinion",
+      "label": "misogynistic",
+      "annotation_note": "Claims a successful woman must lose femininity and become masculine to be competent."
+    },
+    {
+      "id": "F04_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "No issue with women ministers, but leadership also needs public confidence. If someone comes across too aggressive and not very likeable, people will obviously wonder if the role is the right fit.",
+      "plausible_deniability": "tone_policing",
+      "label": "misogynistic",
+      "annotation_note": "Invokes the gendered double bind by criticizing a woman leader as too aggressive and unlikeable."
+    },
+    {
+      "id": "F04_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Every time a woman gets a top post these days, we're told it's historic. Maybe ask if she got it on merit first and not because parties and companies need a female face.",
+      "plausible_deniability": "anti_tokenism",
+      "label": "misogynistic",
+      "annotation_note": "Directly casts doubt on women's qualifications by suggesting they are selected as symbolic female faces."
+    },
+    {
+      "id": "F04_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "At the office cafeteria, a colleague said the new female project lead is very capable, almost like one of the boys when decisions get tough. He meant it as praise, but it implied competence is masculine.",
+      "plausible_deniability": "compliment_frame",
+      "label": "misogynistic",
+      "annotation_note": "Praises a woman by comparing her to men, reinforcing that leadership competence is male-coded."
+    },
+    {
+      "id": "F04_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My uncle was saying that woman politician may be powerful now, but itna dhyan nahi deti apna and looks worn out. Career ke chakkar mein women lose what makes them women.",
+      "plausible_deniability": "traditional_values",
+      "label": "misogynistic",
+      "annotation_note": "Polices a successful woman's appearance and frames leadership as incompatible with femininity."
+    },
+    {
+      "id": "F04_023",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Sometimes companies put first-time leaders, including women and other underrepresented hires, into failing divisions and then judge them harshly. That's a structural issue, not proof that women are less competent.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses glass cliff dynamics without blaming women or undermining their merit."
+    },
+    {
+      "id": "F04_024",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Can we stop calling every confident woman leader 'too aggressive'? Men with the same style get called decisive, and that's the real bias.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Critiques sexist double standards rather than endorsing them."
+    },
+    {
+      "id": "F04_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Arre Meera ko VP bana diya? Good for her yaar, but let's be honest, aajkal diversity push bhi kaafi strong hai. Real test hoga when numbers dip.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Undermines a woman's promotion by implying it may be due to diversity policy rather than merit."
+    },
+    {
+      "id": "F04_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Pata hai kaise bani shehar ki youngest director. Talent se zyada networking thi, samajh jao. Quota wali image alag hi kaam aati hai.",
+      "plausible_deniability": "gossip_speculation",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly suggests a woman's high-status role came through unfair means and quota, not competence."
+    },
+    {
+      "id": "F04_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I fully support capable women in administration, but we should be allowed to ask whether some high-profile IAS promotions are happening too fast because departments want visible female faces. Merit has to stay gender-neutral, otherwise people will naturally question credibility.",
+      "plausible_deniability": "fairness_merit",
+      "label": "misogynistic",
+      "annotation_note": "Frames suspicion of women officers as a neutral merit concern while selectively casting doubt on their legitimacy."
+    },
+    {
+      "id": "F04_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "People praise women CEOs as if they broke some magic barrier, but many only survive because boards are scared of looking anti-women. Also, if she has to think like a man and act tougher than everyone, that itself proves top leadership is not naturally a female strength.",
+      "plausible_deniability": "biological_difference_claim",
+      "label": "misogynistic",
+      "annotation_note": "Claims women leaders are artificially protected and suggests leadership is inherently male, with masculinization treated as necessary."
+    },
+    {
+      "id": "F04_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Radhika got put in charge of the turnaround project.\nSpeaker B: Haan, but those assignments are given when things are already sinking. Then if she gets strict, everyone will say she's too aggressive. Honestly, management also likes showcasing a woman at times like this.",
+      "plausible_deniability": "organizational_realism",
+      "label": "misogynistic",
+      "annotation_note": "Acknowledges glass-cliff dynamics but still implies she was chosen partly as a showcase woman, not solely for merit."
+    },
+    {
+      "id": "F04_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: How is Kavya as team lead?\nSpeaker B: Efficient hai, no doubt, but she's basically one of the guys now. Bilkul soft corner ya warmth nahi bacha. Aisi ho kar hi women upar ja pati hain maybe.",
+      "plausible_deniability": "backhanded_compliment",
+      "label": "misogynistic",
+      "annotation_note": "Presents competence as requiring a woman to lose femininity, treating her leadership as abnormal."
+    },
+    {
+      "id": "F04_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "No issue with women in politics, but why is every firm woman leader marketed as \"decisive\" while the same behavior would be called abrasive in office? Maybe parties should pick people who are competent *and* likeable instead of forcing symbolism.",
+      "plausible_deniability": "tone_policing",
+      "label": "misogynistic",
+      "annotation_note": "Uses a likeability standard to question women leaders and implies their selection is symbolic rather than merit-based."
+    },
+    {
+      "id": "F04_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Nirmala-type image gets called powerful, but honestly itna dhyan nahi deti apna and then people want us to treat it as inspiring leadership. Position mil gayi matlab competence prove ho gaya? Not convinced.",
+      "plausible_deniability": "just_personal_opinion",
+      "label": "misogynistic",
+      "annotation_note": "Polices a woman politician's appearance and ties it to doubts about her competence and legitimacy."
+    },
+    {
+      "id": "F04_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "At the office lunch, an auntie-style colleague said the new plant head is impressive because she thinks like a man and doesn't get emotional like other women. Everyone took it as praise.",
+      "plausible_deniability": "compliment_frame",
+      "label": "misogynistic",
+      "annotation_note": "Treats male-coded thinking as the standard for competent leadership and devalues women generally."
+    },
+    {
+      "id": "F04_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "My uncle said the woman MP from their constituency must have had strong backing somewhere, because these top tickets don't come on merit alone for women. Then he added she's become bilkul mard jaisi trying to survive in politics.",
+      "plausible_deniability": "political_realism",
+      "label": "misogynistic",
+      "annotation_note": "Directly questions how a woman got political power and frames her success as requiring loss of femininity."
+    },
+    {
+      "id": "F04_035",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Sometimes women leaders face a double bind in India: if they're warm, people call them weak; if they're firm, people call them aggressive. We should evaluate their decisions and results, not speculate that they got promoted because of quotas or connections.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Discusses the same themes but explicitly rejects sexist assumptions and supports fair evaluation."
+    },
+    {
+      "id": "F04_036",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Not every criticism of a female CEO is sexism. If profits are down, question strategy by all means—but stick to performance, not comments about looks, likability, or who supposedly helped her get there.",
+      "plausible_deniability": "none",
+      "label": "non_misogynistic",
+      "annotation_note": "Superficially similar because it mentions criticism of women leaders, but it rejects misogynistic reasoning and focuses on objective performance."
+    }
+  ]
+}

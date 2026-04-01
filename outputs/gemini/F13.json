@@ -1,0 +1,372 @@
+{
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "misogyny_type": [
+    "Benevolent Sexism",
+    "Objectification",
+    "Double Bind Sexism"
+  ],
+  "covertness_level": "high",
+  "examples": [
+    {
+      "id": "F13_001",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, Rekha bina makeup ke zyada acchi lagti hai. Uska natural glow awesome hai. Yeh sab foundation ki kya zaroorat?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Praises 'natural beauty' as superior, implying makeup is unnecessary or detracts from genuine appearance, subtly policing her choices."
+    },
+    {
+      "id": "F13_002",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "OMG! Divya ki profile pic dekhi? Itna filter aur makeup laga rakha hai ki pehchaan hi nahi paa rahi. Kya chhupana chahti hai?",
+      "plausible_deniability": "critique_of_dishonesty",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly links visible makeup and filters to deception ('chhupana chahti hai'), implying untrustworthiness due to altered appearance."
+    },
+    {
+      "id": "F13_003",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "On marriage forums, why do guys always say they prefer girls with 'minimal or no makeup'? It's not about being fake, it's about confidence. A girl who is secure in herself doesn't need layers of foundation to feel good. True beauty shines through.",
+      "plausible_deniability": "expression_of_preference",
+      "label": "misogynistic",
+      "annotation_note": "Frames makeup use as a sign of insecurity or lack of 'true beauty' and self-acceptance, rather than a personal choice, linking confidence to a natural look."
+    },
+    {
+      "id": "F13_004",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "I saw a bride's photo on Shaadi.com and then met her in person. She looked completely different! All that bridal makeup and filters are basically catfishing. How can you trust someone who hides their real face for marriage?",
+      "plausible_deniability": "critique_of_dishonesty",
+      "label": "misogynistic",
+      "annotation_note": "Accuses bridal makeup of being 'catfishing' and deceitful, implying untrustworthiness for presenting an enhanced appearance in a matrimonial context."
+    },
+    {
+      "id": "F13_005",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: \"Kiran aaj office party ke liye kitna time laga rahi hai makeup mein. She says it's for herself.\"\nSpeaker B: \"For herself? Aisa kaun karta hai? Sabko pata hai, aise functions mein boys ko impress karna hota hai. She just doesn't want to admit it.\"",
+      "plausible_deniability": "common_sense_understanding",
+      "label": "misogynistic",
+      "annotation_note": "Dismisses a woman's stated reason for wearing makeup, assuming it must be for male attention and external validation, negating her agency."
+    },
+    {
+      "id": "F13_006",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: \"Yaar, Pooja kitni simple rehti hai ab. Shaadi ke baad toh she barely does anything.\"\nSpeaker B: \"Haan, exactly! Pehle kitni presentable lagti thi, now she's totally let herself go. Thoda toh apna khayal rakhna chahiye.\"",
+      "plausible_deniability": "expression_of_concern",
+      "label": "misogynistic",
+      "annotation_note": "Critiques a woman for not maintaining her appearance (implying lack of makeup/grooming) after marriage, using the pejorative phrase 'let herself go' and imposing an obligation to 'take care' (of her looks)."
+    },
+    {
+      "id": "F13_007",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Saw @RituOfficial's latest pics. She looks so much better without all that heavy makeup. Natural beauty rocks! 😌 #NoFilter #RealBeauty",
+      "plausible_deniability": "expression_of_preference",
+      "label": "misogynistic",
+      "annotation_note": "Presents a backhanded compliment, praising 'natural beauty' while subtly critiquing her use of 'heavy makeup' and implying her natural state is superior, rather than simply appreciating her overall beauty."
+    },
+    {
+      "id": "F13_008",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Is it just me or does that new anchor wear WAY too much makeup? It's distracting. Professional women should look polished, not like they're ready for a fashion show. 🙄 #WorkplaceEtiquette #ProfessionalLook",
+      "plausible_deniability": "professional_standards_critique",
+      "label": "misogynistic",
+      "annotation_note": "Polices a professional woman's appearance by deeming her makeup 'too much' and 'distracting', implying it's unprofessional and doesn't fit workplace etiquette."
+    },
+    {
+      "id": "F13_009",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Beta, we are looking for a girl for you who is naturally beautiful, not someone who relies on salon treatments and a lot of makeup. We want to see her true self.",
+      "plausible_deniability": "expression_of_preference",
+      "label": "misogynistic",
+      "annotation_note": "Sets an expectation for a 'naturally beautiful' bride, subtly devaluing women who use makeup or salon treatments by implying it's not their 'true self' and is thus undesirable."
+    },
+    {
+      "id": "F13_010",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Did you see Reena's makeup today? It was so loud for an office meeting. She needs to understand that for corporate settings, less is more. It almost looked like she was trying too hard.",
+      "plausible_deniability": "professional_standards_critique",
+      "label": "misogynistic",
+      "annotation_note": "Directly critiques a female colleague's makeup as 'loud' and inappropriate for the workplace, suggesting she's 'trying too hard' and policing her appearance in a professional context."
+    },
+    {
+      "id": "F13_011",
+      "scenario_type": "reddit_quora",
+      "covertness": "not_applicable",
+      "speaker_gender": "woman",
+      "text": "Honestly, for my everyday look, I prefer to keep my makeup minimal. It just feels more comfortable and less time-consuming for me personally.",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses a personal preference for minimal makeup based on comfort and time, without judging others or implying any obligation about how women should look."
+    },
+    {
+      "id": "F13_012",
+      "scenario_type": "social_media",
+      "covertness": "not_applicable",
+      "speaker_gender": "man",
+      "text": "Wow, Priya! Your makeup looks really good today. That new eyeshadow palette suits you perfectly. You're glowing!",
+      "plausible_deniability": "not_applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "A genuine compliment on a woman's appearance, specifically her makeup, without any underlying critique of her natural state or implication of deception or obligation."
+    },
+    {
+      "id": "F13_013",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, Mira bina makeup ke kitni acchi lagti hai. Ye lipstick vlipstick zyada lagati hai aajkal, she doesn't need it. Uski natural beauty best hai.",
+      "plausible_deniability": "compliment_disguise",
+      "label": "misogynistic",
+      "annotation_note": "Praises 'natural beauty' as a backhanded compliment, subtly critiquing makeup use as unnecessary and implying it detracts from her true appearance, fitting the 'better without makeup' and 'natural > artificial' cues."
+    },
+    {
+      "id": "F13_014",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Bro, isko insta pe dekha toh model lagi, par real mein dekho, saara filter aur makeup ka kamaal hai. Totally catfishing kar rahi hai.",
+      "plausible_deniability": "truth_telling",
+      "label": "misogynistic",
+      "annotation_note": "Directly uses the 'catfishing' discourse, framing makeup and filters as deceptive tools used by women to mislead, explicitly objectifying her appearance and criticizing her for not meeting 'natural' expectations."
+    },
+    {
+      "id": "F13_015",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "I genuinely believe women look their best when they're comfortable in their own skin, with minimal to no makeup. It just feels more authentic, you know? Like, when someone cakes on layers of foundation and heavy contour, it often makes me wonder if they're insecure or trying to hide something. A confident woman shines through naturally, and that's far more attractive than any artificial look.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Frames a preference for 'natural' as a sign of authenticity and confidence, while subtly implying women who wear 'heavy' makeup are insecure, deceptive ('trying to hide something'), or less 'attractive' than those who are 'natural'. This aligns with 'natural > artificial' and 'too much makeup' cues."
+    },
+    {
+      "id": "F13_016",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "It's so annoying how some girls are obsessed with makeup and spend half their salaries on beauty products. Like, who are you doing all this for? Guys prefer natural girls anyway. All that effort just to look like a different person? It screams insecurity and makes you look fake. Why not just focus on your studies or career instead of being so shallow?",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Internalized misogyny. Directly policing female grooming ('shallow'), assuming makeup is for male attention and is deceptive ('look like a different person'), and criticizing 'too much' makeup as excessive and a sign of insecurity, rather than self-expression."
+    },
+    {
+      "id": "F13_017",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Speaker A: Pooja looks so fresh and glowing today. I think she isn't wearing much makeup.\nSpeaker B: Haan, bina makeup ke toh aur bhi pyaari lagti hai. Pata nahi kyun itna kuch lagati hai, she doesn't even need it to look good. Her skin is good already.",
+      "plausible_deniability": "compliment_disguise",
+      "label": "misogynistic",
+      "annotation_note": "Speaker B praises Pooja for looking 'pyaari' (lovely) without makeup, implying her use of makeup is unnecessary and perhaps excessive, subtly policing her grooming choices ('pata nahi kyun itna kuch lagati hai') despite claiming she 'doesn't need it'."
+    },
+    {
+      "id": "F13_018",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Did you see Preeti at the party yesterday? She looked really tired.\nSpeaker B: Yeah, I know. She really needs to start taking care of herself. I mean, at least a little bit of effort, you know? She looked like she just rolled out of bed, apna khayal nahi rakhti.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Critiques Preeti for not 'taking care of herself' and lacking 'effort', implying an obligation for women to maintain an attractive appearance for social events, even if it means using makeup, thus exemplifying the 'letting herself go' aspect of the double bind."
+    },
+    {
+      "id": "F13_019",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "So refreshing to see @priyanka_chopra showing her real skin in that interview! This is what true beauty is, not all the filtered and caked-up faces we usually see. Embracing natural flaws is more powerful than any amount of concealer. #RealBeauty #NoFilterNeeded",
+      "plausible_deniability": "compliment_disguise",
+      "label": "misogynistic",
+      "annotation_note": "While seemingly positive, the comment subtly disparages other women who use makeup/filters by contrasting them with 'true beauty' and 'natural flaws', framing makeup as a 'mask' or 'cake-up' that hides true beauty, rather than being an artistic choice."
+    },
+    {
+      "id": "F13_020",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Girls, please stop with the heavy makeup and filters on dating apps. It's literally false advertising. We're looking for real women, not someone who looks completely different without makeup. It's not fair to trick guys like that. #NoCatfish #BeReal #Deception",
+      "plausible_deniability": "truth_telling",
+      "label": "misogynistic",
+      "annotation_note": "Explicitly frames makeup and filters as 'false advertising' and 'trickery', accusing women of deception and objectifying them by suggesting their appearance with makeup is not 'real'. This directly links to the 'catfishing' discourse and deception framing."
+    },
+    {
+      "id": "F13_021",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Ayesha, for your client presentation, try to keep your makeup minimal. We want the focus to be on your excellent work, not on anything too distracting or flashy. A subtle, professional look is always best.",
+      "plausible_deniability": "practicality_defense",
+      "label": "misogynistic",
+      "annotation_note": "Polices a woman's appearance in a professional setting by implying 'too much' makeup is distracting or unprofessional, despite being framed as advice for her 'excellent work', subtly dictating how she should present herself to avoid being perceived negatively."
+    },
+    {
+      "id": "F13_022",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Radhika, you really need to start taking more care of yourself. For your upcoming matrimonial meetings, you need to look your best. Don't you see how well groomed your cousin, Priya, always is? She puts in effort. You can't just expect rishtas to come if you don't even bother to make yourself presentable.",
+      "plausible_deniability": "concern_defense",
+      "label": "misogynistic",
+      "annotation_note": "Directly imposes an appearance obligation on Radhika for matrimonial purposes, criticizing her for 'not taking care of herself' and not being 'presentable', implying that her eligibility is tied to her groomed appearance, even if it requires makeup, fitting the 'letting herself go' and matrimonial context."
+    },
+    {
+      "id": "F13_023",
+      "scenario_type": "near_miss",
+      "covertness": "non_misogynistic",
+      "speaker_gender": "woman",
+      "text": "I really enjoy experimenting with bold makeup looks, but for my everyday office wear, I prefer something very simple and light, like just a BB cream and some kajal. It makes me feel more comfortable.",
+      "plausible_deniability": "n/a",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses personal preference for different makeup styles in different contexts, focusing on comfort and personal enjoyment without judging or imposing standards on others' makeup choices or linking it to deception/obligation."
+    },
+    {
+      "id": "F13_024",
+      "scenario_type": "near_miss",
+      "covertness": "non_misogynistic",
+      "speaker_gender": "man",
+      "text": "I used to think my friend wore too much makeup, but then I realized it's her way of expressing herself and boosting her confidence. It's really cool how much she enjoys the process.",
+      "plausible_deniability": "n/a",
+      "label": "non_misogynistic",
+      "annotation_note": "Initially had a judgment but then revised it, recognizing makeup as personal expression and confidence-boosting, shifting away from policing or objectifying her choices. It does not perpetuate the double bind or deception narrative."
+    },
+    {
+      "id": "F13_025",
+      "scenario_type": "whatsapp",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "Yaar, poori makeup utar do toh pehchan bhi na pao. I prefer natural beauty. ✨",
+      "plausible_deniability": "preference_expression",
+      "label": "misogynistic",
+      "annotation_note": "Implies makeup is deceptive and 'unnatural' beauty is inferior, subtly policing appearance under the guise of expressing a preference."
+    },
+    {
+      "id": "F13_026",
+      "scenario_type": "whatsapp",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "She needs to chill with the foundation. Looks like she applied with a trowel! Kya chhupana hai itna?",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "Directly polices 'too much makeup', implying deceptiveness and excess, and questioning the woman's motives for wearing it."
+    },
+    {
+      "id": "F13_027",
+      "scenario_type": "reddit_quora",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "It's interesting how many matrimonial profiles emphasize 'natural beauty' and 'simple living' but still want someone who 'presents well' and is 'fair'. The expectation is to look effortlessly perfect, not visibly 'made up' or unkempt.",
+      "plausible_deniability": "observation_analysis",
+      "label": "misogynistic",
+      "annotation_note": "Highlights the double bind in the Indian matrimonial context, where 'natural' beauty is praised, but visible effort (or lack thereof) is penalized, demanding an 'effortless' perfection."
+    },
+    {
+      "id": "F13_028",
+      "scenario_type": "reddit_quora",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Why do women complain about unrealistic beauty standards when they themselves use filters and heavy makeup to catfish? It's literally deceiving people, especially in online dating apps. Just be real.",
+      "plausible_deniability": "blame_shifting",
+      "label": "misogynistic",
+      "annotation_note": "Frames makeup and filters as a form of deception ('catfishing') and blames women for contributing to unrealistic standards, ignoring the pressure to conform."
+    },
+    {
+      "id": "F13_029",
+      "scenario_type": "spoken_convo",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Speaker A: Yaar, Riya aajkal kitni dull lag rahi hai, apna khayal hi nahi rakhti. She needs to put in some effort. \nSpeaker B: Haan, I agree. Par look at Sanjana, she always looks so fresh, even without much makeup. That's true beauty, bina makeup ke bhi kitni acchi lagti hai.",
+      "plausible_deniability": "concern_compliment",
+      "label": "misogynistic",
+      "annotation_note": "Speaker A penalizes a woman for 'letting herself go' (lack of effort), while Speaker B praises another for looking 'naturally' good (implying effort without visible makeup), reinforcing both ends of the double bind."
+    },
+    {
+      "id": "F13_030",
+      "scenario_type": "spoken_convo",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Speaker A: Pooja looks like a clown today, what's with all that bright eyeshadow? \nSpeaker B: I know, right? Maybe she's trying too hard to impress someone. Girls who do that are so insecure.",
+      "plausible_deniability": "none",
+      "label": "misogynistic",
+      "annotation_note": "Directly criticizes a woman's makeup as 'too much' and assumes it's for male attention, judging her character as 'insecure'."
+    },
+    {
+      "id": "F13_031",
+      "scenario_type": "social_media",
+      "covertness": "covert",
+      "speaker_gender": "man",
+      "text": "So glad to see [Actress Name] looking so refreshing and real without all the layers. That's why she's a true beauty, natural charm over painted perfection any day. #NoMakeup #RealBeauty",
+      "plausible_deniability": "compliment",
+      "label": "misogynistic",
+      "annotation_note": "Praises a woman for looking 'natural' while subtly critiquing makeup as 'layers' or 'painted perfection', implying artificiality and a lack of 'real' beauty."
+    },
+    {
+      "id": "F13_032",
+      "scenario_type": "social_media",
+      "covertness": "overt",
+      "speaker_gender": "woman",
+      "text": "Girls who spend half their lives contouring and blurring are so shallow. Imagine spending hours just to impress some random dude. Get a life! #FilterFree #MoreThanMakeup",
+      "plausible_deniability": "moral_high_ground",
+      "label": "misogynistic",
+      "annotation_note": "Polices female grooming choices, judges women who use makeup and filters as 'shallow', and assumes their motivation is solely for male attention rather than personal preference."
+    },
+    {
+      "id": "F13_033",
+      "scenario_type": "family_workplace",
+      "covertness": "covert",
+      "speaker_gender": "woman",
+      "text": "Anjali, you look a bit tired today. Maybe a little kajal or a touch of lipstick would brighten you up for the client meeting. It just gives a professional impression, you know?",
+      "plausible_deniability": "constructive_feedback_concern",
+      "label": "misogynistic",
+      "annotation_note": "Subtly penalizes a woman for not maintaining her appearance ('looking tired') and implies that makeup is necessary for a 'professional impression', enforcing an aesthetic standard for the workplace."
+    },
+    {
+      "id": "F13_034",
+      "scenario_type": "family_workplace",
+      "covertness": "overt",
+      "speaker_gender": "man",
+      "text": "Is it just me, or does Rina wear too much foundation for work? It looks like she's trying to hide something, it's a bit distracting in formal settings, maybe she should tone it down.",
+      "plausible_deniability": "observation_concern",
+      "label": "misogynistic",
+      "annotation_note": "Directly polices a woman's makeup in a professional setting, labeling it as 'too much' and implying deceptiveness, thereby objectifying her appearance."
+    },
+    {
+      "id": "F13_035",
+      "scenario_type": "social_media",
+      "covertness": "not applicable",
+      "speaker_gender": "woman",
+      "text": "Hey! Your eye makeup is looking super sharp today, I love that winged liner! What product did you use? 😍",
+      "plausible_deniability": "not applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "A direct compliment on makeup application, expressing admiration without imposing any standards or judging the woman's motives or character."
+    },
+    {
+      "id": "F13_036",
+      "scenario_type": "spoken_convo",
+      "covertness": "not applicable",
+      "speaker_gender": "man",
+      "text": "My girlfriend asked me if I prefer her with or without makeup, and I told her honestly that I find her beautiful both ways, it's her choice. She just laughed and said I was being diplomatic!",
+      "plausible_deniability": "not applicable",
+      "label": "non_misogynistic",
+      "annotation_note": "Expresses appreciation for a woman's appearance both with and without makeup, and crucially, emphasizes her agency and choice, without imposing a preference as a standard."
+    }
+  ]
+}
