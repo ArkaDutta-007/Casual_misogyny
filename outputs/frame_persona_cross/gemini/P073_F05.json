@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, sach bolun toh aajkal shaadi ek trap hi lagti hai mardon ke liye. Dekho na, kitne high-profile divorces mein kya hota hai - ek baar shaadi ho gayi, phir ladkiyan poora paisa kheechti hain. Alimony? It's like reverse dowry, I swear! Saare laws unke favour mein hain.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment frames marriage as a 'trap' for men and alimony as 'reverse dowry', implying women marry for money and exploit legal provisions. It generalizes from high-profile divorce cases to all women's intentions, reflecting the 'women as golddiggers' belief and a perceived bias in laws against men.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gemini"
+}

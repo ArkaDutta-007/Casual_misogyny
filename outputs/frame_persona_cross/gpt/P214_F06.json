@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre beta, ladki ne mana kiya toh theek hai, par aajkal seedha kaun maanta hai. Pehle pooch lo, koi ladka-vadka hai kya uski zindagi mein.\nB: Kyun?\nA: Isliye ki agar kisi ke saath hai toh phir peeche hat jana chahiye, bekaar mein doosre ke rishte mein kyon padna. Akeli ho aur bas nakhra dikha rahi ho, toh do baar samjhaane mein kya harz hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own refusal as negotiable while presenting another man's claim as the real boundary to respect. It encodes the surface manifestation of asking if she is 'taken' before accepting rejection, and frames persistence as acceptable if no male partner is involved.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

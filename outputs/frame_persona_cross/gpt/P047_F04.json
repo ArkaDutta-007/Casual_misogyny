@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "These days in big companies, merit is secondary, image is first. The moment a woman gets a top post, nobody is allowed to even ask if it was quota, PR, or some senior backing her, but with men everything is scrutinized. If she is actually effective, people say she thinks like a man only — that itself tells you leadership is not naturally their area.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's competence and suggests their promotions come from unfair advantages rather than merit. It encodes merit-undermining and masculinization, implying real leadership is male by default.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gpt"
+}

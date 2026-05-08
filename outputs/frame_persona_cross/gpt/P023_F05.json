@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bro honestly, aajkal shaadi bhi risky investment lagti hai for men. One bad match and then alimony, 498A drama, full life set for the girl on your money — prenup jaisa system India mein normal hona chahiye, otherwise men are just exposed.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative in marriage and divorce, and presents men as the primary victims of supposedly one-sided laws. It encodes the 'reverse dowry/alimony' and '498A misuse' manifestations, while using a men's-rights concern framing rather than direct abuse.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

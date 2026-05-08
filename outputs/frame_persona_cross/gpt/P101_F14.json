@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "WhatsApp status: No matter how much you earn or where you live, maa ke haath ka khana is the real gold. Meri maa ne kabhi thakne ka excuse nahi diya, bas pyaar se ghar sambhala aur khana khilaya—aisi dedication aaj kal milti kahan hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes the mother through unpaid domestic labor and erases that labor as 'love' and 'dedication.' It also sets up an implicit comparison that women today are deficient if they do not match the mother's tireless cooking and home-making.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

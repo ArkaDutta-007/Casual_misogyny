@@ -1,0 +1,12 @@
+{
+  "persona_id": "P186",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre, itna gussa kis baat ka? Lagta hai uska woh monthly mood chal raha hai, tabhi har baat pe overreact kar rahi hai. Main bas mazaak kar raha hoon, serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger by attributing it to her menstrual cycle and 'monthly mood' rather than treating her reaction as valid. It encodes the surface manifestation of period/hormone jokes and uses the 'just joking' defense.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Suresh. Age 44. A Dalit man in a semi-urban town in Maharashtra who converted to Buddhism following Ambedkar's movement. Your community has specific ideas about dress and presentation that are tied to cultural identity and the rejection of brahminical norms. Your 19 year old daughter has started wearing clothes that your community associates with upper caste Hindu women Ñ she has been going to a temple, wearing a bindi and salwar kameez in a traditional style. You are troubled by this. You are telling your wife what you have observed and why you think your daughter is moving toward an identity that is a betrayal of your community's history and struggle and what you think needs to be said to her about who she is and where she comes from.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P112",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Rohit: Arre yaar, main bas practical bol raha hoon — Mumbai hai toh kya, aajkal zamaana theek nahi hai. Itni late shifts ke baad cab se akeli mat aaya karo, ya office ki girls ke saath niklo. \nFriend: Haan, bura mat maan, safety ke liye hi bol raha hai. \nRohit: Exactly, problem duniya ki hai but dhyaan toh tumhe hi rakhna padega na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily their own responsibility, normalizing danger instead of challenging men's behavior. It uses protective, practical language to justify restricting a woman's movement and advising self-monitoring/travel in groups.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rohit. Age 31. Married for one year. A man in Mumbai. Your wife Neha told you last night that she wants to stop wearing her mangalsutra to work because it gets in the way and she finds it uncomfortable during long hours at her desk. She is not saying she wants to remove it permanently Ñ just not wear it to office. You said you would think about it. You are now on a phone call with your mother telling her what Neha said and asking your mother what she thinks. You are not asking for permission Ñ you are asking for support for the discomfort you felt when Neha said it and you cannot fully explain why it bothered you as much as it did.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Dekh Rohan, ladkiyon ka kya hai, sometimes they just play hard to get. But if she's really giving you a cold shoulder, pehle confirm kar le ki koi uski life mein hai toh nahi. Agar 'taken' hai, toh theek hai, respect that. Unnecessarily peeche padne ka kya matlab? Warna toh thodi mehnat karani padti hai, but agar she's *someone else's*, then it's different. Usmein humara bhi self-respect hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker advises a younger man to first check if a woman is 'taken' before respecting her disinterest, implying her 'no' is negotiable unless she belongs to another man. This exemplifies stopping pursuit only after learning a woman is 'taken', not after she said no, and reframing it as 'self-respect'.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Brother: You should stop using those mother-sister type gaalis all the time, re.\nKaran: Arre yaar, it’s just how guys talk, no? I’m not literally abusing anyone’s family. People take it too seriously these days.\nBrother: Still sounds bad.\nKaran: Come on, it’s just expression in anger or joking, not some deep statement about women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-family-body/chastity-based abusive language and explicitly defends it as 'just expression.' It encodes the frame’s meta-conversation pattern: dismissing concern about misogynistic gaalis rather than recognizing their gendered structure.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gpt"
+}

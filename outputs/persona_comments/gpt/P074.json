@@ -1,0 +1,10 @@
+{
+  "persona_id": "P074",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Deepa: Dekha beta, isi liye main kehti hoon raat ko itni der tak bahar mat raha karo, especially cab mein akeli bilkul nahi.\nDeepa: Zamana theek nahi hai, humein khud bhi sambhalna padta hai. Us ladki ko bhi late night travel avoid karna chahiye tha ya kisi known person ke saath jana chahiye tha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts responsibility for assault onto the woman’s choices rather than the perpetrator’s actions. It encodes the surface manifestation of framing women’s safety as their own responsibility through restrictions on mobility and behavior.",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

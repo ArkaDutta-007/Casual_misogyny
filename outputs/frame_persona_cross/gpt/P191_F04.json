@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Suna hai nayi lady officer aayi hai block mein.\nB: Haan, par aise bade kursi par aurat ko aajkal quota-vota se bhi chadha dete hain. Kaam theek kar le to bolenge mardon jaisi soch hai, warna kagaz ghumaane se zyada hota nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by attributing her position to quota and treats competence as masculine ('mardon jaisi soch'). It encodes merit-undermining and masculinization in a casual, plausible spoken exchange.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

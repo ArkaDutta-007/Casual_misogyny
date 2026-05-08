@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre, yeh dekho iski photo! Kitna makeup lagaaya hai. Aise toh sabhi models lagte hain. Real mein dekho toh pata chalega kya hai. Kuch chhupana hai kya?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita implies that the woman in the photo is using 'too much makeup' to hide her true appearance, connecting makeup use to deception. This encodes the 'catfishing' discourse and 'too much makeup' comments, suggesting visible effort in appearance is not authentic and should be viewed with suspicion.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gemini"
+}

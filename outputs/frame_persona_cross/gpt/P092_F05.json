@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Suno ji, aajkal shaadi bhi seedha rishta kam, hisaab-kitab zyada lagti hai. Ladke wale itna sab khada karte hain aur baad mein divorce ho toh alimony ke naam par aadha le jao, yeh bhi koi theek baat hai? Sach bolo toh prenup jaisi cheez yahan bhi honi chahiye, warna aajkal ki kuch ladkiyan sirf settled ladka dekhkar shaadi karti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially opportunistic in marriage and presents alimony as unfair extraction from men. It encodes the 'reverse dowry' and 'women as golddiggers' manifestations using a concerned, normalized domestic tone.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

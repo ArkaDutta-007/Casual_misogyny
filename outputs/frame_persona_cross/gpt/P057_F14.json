@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar sach bolun, maa ke haath ke khane wali baat hi alag hoti hai, roz itna sab bana deti hai bina kuch bole. Aajkal sabko convenience chahiye, but ghar sambhalna aur pyaar se khana khilana hi asli family values hain — kal ko wife bhi waise hi ho toh life set hai 😊",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as natural love and sets it up as the standard a future wife should meet. It encodes labor erasure, sentimental praise of maternal sacrifice, and implicit expectation of wives to reproduce the same domestic service.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

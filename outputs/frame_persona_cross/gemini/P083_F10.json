@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, I find it quite frustrating sometimes when discussions about women's safety always turn into 'all men are xyz'. Not all of us are like that, okay? We're husbands, fathers, brothers here. Many of us genuinely respect women and want a safe society for everyone. But when you assume every man is a threat, it feels like an insult to guys who are actually trying to do good. There are good men out there, you know. Sometimes, it feels like men's feelings are completely ignored in these conversations.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh feels personally insulted and frustrated that discussions about women's safety generalize about men, dismissing systemic issues by centering 'good men' and their feelings. This encodes the 'Not all men are like that' dismissal and feeling personally insulted.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gemini"
+}

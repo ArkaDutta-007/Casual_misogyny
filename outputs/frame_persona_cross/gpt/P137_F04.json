@@ -1,0 +1,12 @@
+{
+  "persona_id": "P137",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Meena: Arre, aajkal office mein ladkiyon ko jaldi upar kar dete hain, company ko bhi dikhana hota hai na ki women are leading. Aur jo sach mein top tak pahunchti hai, woh thoda mardon jaisi soch wali hi hoti hai, tabhi itne bade decisions le paati hai. Mere hisaab se ghar-grihasthi sambhalte hue itna aage badhna aasaan thodi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit by implying promotions happen for optics ('women are leading') and frames competence as masculine ('mardon jaisi soch'). It encodes merit undermining and masculinization in a socially acceptable, conversational register.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gpt"
+}

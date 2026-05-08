@@ -1,0 +1,10 @@
+{
+  "persona_id": "P011",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Boss, team lead ne aaj kya gussa kiya. Pakka periods honge uske. Varna aise react nahi karti woh.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment attributes a female team lead's professional reaction (snapping) to her menstrual cycle, implicitly dismissing her behaviour as hormonally driven rather than a valid professional response. It encodes the common trope of linking women's mood and irrationality to periods, presented as a casual, explanatory 'joke' among male colleagues.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "In our apartment one IT girl was saying company should give period leave also. I told her, already for maternity they are giving so many months no, then again every month extra leave means how office will manage projects? For men there is no such special leave, so naturally people will think twice before giving important work to young women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity as workplace liabilities and questions accommodations as unfair 'special leave' compared to men. It encodes fairness/economic framing and the assumption that young women become less suitable for important work because of reproductive biology.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

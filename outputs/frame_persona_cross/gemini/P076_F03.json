@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Sunn raha tha, Bittu ki bahu ne naukri chhod di. Keh rahi thi bachchon ko dhyan dena hai ab. Badi acchi baat hai. Aakhir bachpan toh ek hi baar aata hai, naukri toh baad mein bhi mil jaayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh praises a woman for quitting her job to focus on childcare, framing it as the correct and natural decision, and implying career is secondary for mothers. This aligns with the 'Expecting the mother to sacrifice career/location for the family' and 'Career sacrifice framing' surface manifestations, presented as genuine concern and wisdom.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gemini"
+}

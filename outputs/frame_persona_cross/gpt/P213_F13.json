@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Personally I have always felt women look much better when they keep things natural. These days so much makeup and filters are used that half the photos don’t even match reality, and then people say it is only for themselves. At the same time, basic grooming is important too — if someone completely lets herself go, that also shows a lack of self-respect.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women under a double bind: they are criticized for using visible makeup as deceptive, but also judged if they do not maintain their appearance. It encodes the 'natural beauty' preference, deception framing, and appearance obligation central to the makeup paradox.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

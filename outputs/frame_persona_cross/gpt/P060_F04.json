@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arrey beta, nowadays in big offices they are pushing women forward very fast also, no? Sometimes it is quota, sometimes because seniors want a lady face in front. A truly capable woman is rare, and then people say, 'she thinks like a man,' only then she can handle leadership properly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit by suggesting promotions happen due to quotas or image politics rather than competence. It also encodes masculinization by implying that successful leadership in a woman is only possible if she 'thinks like a man.'",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

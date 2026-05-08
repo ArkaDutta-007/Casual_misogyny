@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Beta, bura mat maanna, par itni raat ko akeli cab se aana theek nahi hai. Zamaana bahut kharab hai, ladkiyon ko thoda extra careful rehna padta hai.\nB: But office ka kaam late ho gaya tha.\nA: Main bas practical baat kar raha hoon—kapde simple rakho, location share karo, aur possible ho toh kisi ke saath hi niklo. Apni safety apne haath mein rakhni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and normalizes restricting their movement instead of questioning male violence. It uses protective, practical advice about being out late, clothing, and traveling alone—common surface manifestations of this frame.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

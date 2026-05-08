@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Dekho beta, tum dono college jaa rahe ho, life mein aage badhoge. Bas ek baat yaad rakhna, aajkal shaadi aur relationships mein bohot complications hain. Jaise Rahul ka case dekha na? Uski biwi toh bas paison ke chakkar mein thi, aur woh 498A ka case daal diya. Aise cases ka toh fashion ho gaya hai, bas ladkon ko phasane ke liye use karte hain. Apni future life partner choose karte waqt, bohot soch samajh ke karna. Ladki ka intention clear hona chahiye, kahin koi gold-digger type ladki na mil jaye.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment, from a father advising his sons, generalizes women as potential exploiters of marriage laws, specifically mentioning IPC 498A misuse as a tool to 'trap' men for financial gain ('paison ke chakkar mein', 'gold-digger type'). It encodes the 'women as golddiggers' and 'IPC 498A misuse' surface manifestations, framed as protective advice.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gemini"
+}

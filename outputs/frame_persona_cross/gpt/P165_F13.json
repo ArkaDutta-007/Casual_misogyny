@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre I genuinely don't understand why some women do that full makeup look for office or Instagram. Natural rehna is always better, but haan thoda presentable toh lagna chahiye — warna people say you've stopped taking care of yourself. Too much makeup also feels a bit misleading, like real face aur filter face alag hi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women: they must look attractive and 'presentable' but not appear to have made too much effort. It encodes the natural-vs-artificial policing and deception framing around makeup and filtered appearance.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

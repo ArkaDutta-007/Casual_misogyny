@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Bro you can't say stuff like that, it's pretty sexist.\nB: Arre yaar, relax. Everyone talks like that in college, gaming, everywhere — it's just a gaali, not some attack on women.\nA: Still sounds bad.\nB: Matlab every word has to become a social issue now? If a guy is acting spineless we'll call it out, bas.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abusive language as 'just expression' and dismisses concern about its sexist structure. It encodes the surface manifestations of defending gaali use and using feminized weakness as an insult without recognizing the misogyny involved.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gpt"
+}

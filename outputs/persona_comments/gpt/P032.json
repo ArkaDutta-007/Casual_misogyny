@@ -1,0 +1,10 @@
+{
+  "persona_id": "P032",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Honestly stories like this make marriage look like a legal trap for men. If even a working ex-wife can get 80k every month, then what exactly is marriage now apart from lifelong financial liability? Feels like for a lot of women, marriage is less about building a life together and more about securing a safety net no matter what happens. Prenup bhi properly enforce nahi hota here, so why would any sensible guy take that risk?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially motivated and frames marriage as something women use to exploit men. The surface manifestation is a stereotype about women's intentions in marriage, expressed through resentment about alimony and legal protections.",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

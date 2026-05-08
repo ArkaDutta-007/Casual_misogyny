@@ -1,0 +1,12 @@
+{
+  "persona_id": "P197",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bhai, suna hai woh naye IAS officer jo aayi hain na... Faiza begum, woh badi 'sharp' hain. Log kehte hain bilkul mard jaisi soch rakhti hain, tabhi toh itni jaldi upar pahunch gayi. Par sochta hoon, itna sab manage karte hain toh ghar aur bacchon ka kya? Aur khud pe dhyan dene ka time bhi milta hoga kya?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly undermines a woman's competence by attributing her success ('itni jaldi upar pahunch gayi') to her 'thinking like a man' rather than pure merit, which is a classic backhanded compliment and a form of masculinization. It also questions her ability to balance work with traditional feminine roles ('ghar aur bacchon ka kya?') and appearance ('khud pe dhyan dene ka time'), implying a double bind.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. In your community the custom is meher Ñ the mandatory gift from the groom to the bride Ñ which is Islam's position against dowry. But in practice your community also has informal expectations of gifts from the bride's family. Your daughter Sana is getting married and you have been in negotiations with the boy's family. The boy's family has not asked for dowry directly but has made clear through various signals what they expect. You are talking to your brother about these negotiations and what you are being asked to give and what you have given already and what it means to have raised a daughter and what the religion says versus what the community does and the gap between those two things.",
+  "source_model": "gemini"
+}

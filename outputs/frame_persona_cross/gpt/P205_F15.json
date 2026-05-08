@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre, after marriage a woman should look married also na. Thoda sindoor, mangalsutra — it gives a proper, settled look.\nB: But some girls don’t like wearing all that daily.\nA: Choice is there, but these things are part of our parampara. A married woman looks more complete with them; otherwise these modern girls forget the value of marriage itself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman’s identity and worth as tied to visible marital markers, presenting them as natural tradition rather than social control. It encodes completeness framing, parampara/tradition framing, and judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

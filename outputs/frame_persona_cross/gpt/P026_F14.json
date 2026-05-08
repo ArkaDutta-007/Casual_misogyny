@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "These days everyone talks about convenience food, but there is a reason maa ke haath ka khana remains unmatched. Our mothers built families quietly through that daily discipline and care, without making it seem like a burden. Frankly, even today, a home feels settled only when the woman of the house brings that same warmth to the kitchen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment sentimentalizes mothers' cooking as loving sacrifice while erasing it as labor. It also sets an implicit expectation that wives or daughters-in-law should reproduce that domestic care, making a woman's value central to kitchen work.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

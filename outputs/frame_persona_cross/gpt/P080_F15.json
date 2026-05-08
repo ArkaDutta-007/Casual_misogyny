@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: I’m not saying force anyone, but after marriage these small things like mangalsutra or sindoor do have meaning yaar. It shows respect for the relationship and honestly our culture has always seen it as shubh.\nB: But if she doesn’t want to wear it?\nA: Her choice of course, but then why get offended if elders feel she is rejecting tradition? Some things are not oppression, they’re just part of being married.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as a natural and respectful part of womanhood after marriage while masking the pressure as culture and elder sentiment. It encodes the 'personal choice but' defense and disapproval of married women who do not wear sindoor/mangalsutra.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

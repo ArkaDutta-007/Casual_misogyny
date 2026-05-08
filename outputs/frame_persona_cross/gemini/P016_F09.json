@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, ye job tough hai, especially for girls. Raat ki duty, kabhi kahan jaana padta hai... she'll need to be extra careful, make sure she's not alone or anything. Zamaana kharab hai, apna dhyaan khud hi rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Gaurav frames common police duties as inherently riskier for women, shifting responsibility for safety onto the female officer. The phrase 'zamaana kharab hai, apna dhyaan khud hi rakhna padta hai' directly encodes the belief that the world is unsafe due to men's actions (implicitly), and women must manage their own safety through restricted behavior and company, rather than addressing male violence.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhai, kabhi kabhi bas hormones ka scene hota hai. Us time zyada logic lagane ka fayda nahi, thoda chup raho aur chai de do, 2 din mein mood theek ho jayega. Main mazaak nahi kar raha, aadhi ladaai toh isi chakkar mein hoti hai.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it attributes a woman's bad mood to hormones and suggests her reactions are not rational or worth engaging with. It encodes the surface manifestation of dismissing women's emotions as hormonal and biologically determined.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

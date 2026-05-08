@@ -1,0 +1,12 @@
+{
+  "persona_id": "P197",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Bhaijaan, you know Sana... she's such a decent girl. Always respected her elders. I just pray they treat her right, the way you'd treat someone's daughter, someone's future *amma*.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly encodes misogyny by framing the basis for Sana's deserved respect in her future relational roles (as someone's daughter, someone's future mother), rather than as an individual. It exemplifies the 'Respect women – they are someone's mother/daughter/sister' rhetoric.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. In your community the custom is meher Ñ the mandatory gift from the groom to the bride Ñ which is Islam's position against dowry. But in practice your community also has informal expectations of gifts from the bride's family. Your daughter Sana is getting married and you have been in negotiations with the boy's family. The boy's family has not asked for dowry directly but has made clear through various signals what they expect. You are talking to your brother about these negotiations and what you are being asked to give and what you have given already and what it means to have raised a daughter and what the religion says versus what the community does and the gap between those two things.",
+  "source_model": "gemini"
+}

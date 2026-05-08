@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro she kept saying she's not interested, but I thought normal attitude hoga. Then later she mentioned she has a boyfriend, so obviously I backed off — no point getting involved when someone's already with a guy. Otherwise girls just say no randomly these days.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he discounts the woman's direct refusal as negotiable but treats her relationship with another man as the real boundary. It encodes the pattern of ignoring her 'no' until learning she is 'taken,' framed as being reasonable or respectful.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gpt"
+}

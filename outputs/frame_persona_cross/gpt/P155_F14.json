@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Bro, maa ke haath ka khana ka koi substitute hi nahi yaar. She spent her whole life making sure everyone ate on time and never made it look like work. Honestly, ghar tabhi ghar lagta hai when the woman keeps that warmth alive like that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as love rather than work and frames maintaining the home through food as a woman's role. It encodes nostalgic praise of 'maa ke haath ka khana' and sets a gendered expectation that a woman should create domestic warmth.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gpt"
+}

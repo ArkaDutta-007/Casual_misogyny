@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Sunil: Promotion theek hai, par madam ko bhi sochna chahiye ghar ka. Bachche chhote hon toh maa ka zyada farz banta hai, baap thodi na har PTM aur doctor ke chakkar kaatega.\nAssistant: Haan ji, aadmi help kar de toh alag baat hai, par bachchon ko sambhalna toh maa hi achche se karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames childcare, school meetings, and doctor visits as naturally the mother's responsibility while treating paternal involvement as optional 'help.' It encodes the surface manifestations of assuming the mother will handle child-related duties and exceptionalism for fathers.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

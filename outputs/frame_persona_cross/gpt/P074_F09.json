@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Deepa: Beta, bura mat samajhna, par aajkal zamaana bilkul theek nahi hai. Ladki ko itni raat ko akeli nikalne se pehle sau baar sochna chahiye, cab bhi bina check kiye nahi leni chahiye. Hum rok-tok pyaar se karte hain, practical baat hai — apni safety apne haath mein rakhni padti hai.\nDaughter: Haan, samajh gayi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and normalizes restricting daughters instead of focusing on male violence. It encodes protective parental advice, victim-questioning logic, and inevitability framing through 'zamaana theek nahi hai' and 'apni safety apne haath mein.'",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

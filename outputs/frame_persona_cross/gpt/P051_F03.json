@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "देखिए madam, नौकरी अपनी जगह है, लेकिन छोटे बच्चों के समय मां की मौजूदगी सबसे ज़रूरी होती है. Father कितना भी अच्छा हो, बच्चे की पढ़ाई, खान-पान और संस्कार आखिर मां ही ठीक से देख पाती है; career बाद में भी संभल जाता है, बचपन वापस नहीं आता.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare, nutrition, education, and values as the mother's primary duty while minimizing the father's role. It encodes career sacrifice framing and the assumption that mothers, not fathers, must prioritize childrearing.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

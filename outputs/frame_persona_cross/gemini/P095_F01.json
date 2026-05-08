@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I saw this article about more companies giving period leave and extending maternity benefits. Not saying it's bad, but doesn't it just make it harder for us guys to get hired or even get good project allocations later on? Matlab, company toh sees it as a potential cost, right? What about our appraisals then?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it frames women's biological needs (menstrual leave) and reproductive choices (maternity leave) as an economic liability for companies, implying they disadvantage men in hiring and career progression. It uses 'concern for fairness' and 'economic framing' (cost, appraisals) to subtly question policies aimed at supporting women, encoding the belief that women's biology makes them a workplace liability.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ke haath ke khane ki baat hi alag hoti hai yaar, poori zindagi bina thake family ke liye banaya, kabhi usse duty nahi samjha, sirf pyaar samjha. Ghar tabhi ghar lagta hai jab aurat usi dil se rasoi sambhale—meri wife bhi try karti hai, but woh maa wali baat kahan 😊",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother's unpaid domestic labor as her natural expression of love and sets that as the standard for the wife. It encodes labor erasure, 'maa ke haath ka khana' nostalgia, and implicit comparison of wife to mother.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gpt"
+}

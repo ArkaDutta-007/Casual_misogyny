@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, har baat ko gender issue mat banao. Hum log jo common gaali bol dete hain na, woh bas expression hota hai, kisi ki maa-behen ko literally thodi bol rahe hote hain. Aur ladke ko kabhi bol diya ki thoda mard ban, itna offend hone ki kya baat hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as 'just expression' and dismisses concerns about the misogynistic structure of such language. It also encodes feminizing/masculinity policing through 'thoda mard ban' as a casual insult.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gpt"
+}

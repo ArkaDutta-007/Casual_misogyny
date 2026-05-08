@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I don't mind women in leadership at all, but sometimes it does feel like companies are extra eager to fast-track women managers for the diversity optics. One of our directors is very sharp, but she's also become so hard and hyper-aggressive that people literally say she thinks like a man — which apparently is why she's effective. I just wish promotions felt more clearly merit-based for everyone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames a woman's advancement as possibly driven by diversity quotas rather than merit and treats 'thinking like a man' as the explanation for her competence. It encodes merit-undermining and masculinization/double-bind themes common in commentary about women leaders.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gpt"
+}

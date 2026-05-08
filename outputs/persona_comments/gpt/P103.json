@@ -1,0 +1,10 @@
+{
+  "persona_id": "P103",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Arey beta, sab theek hai, bas aajkal ki bahuen na ghar ko ghar jaisa kam samajhti hain. Humne 35 saal poore parivaar ke liye roz chulha sambhala, kabhi thak gaye to bhi bahar ka khana aadat nahi banne diya. Priya do-teen din Zomato se mangwa leti hai, ab tum hi bolo, jis ghar ki rasoi thandi padne lage us ghar mein apnapan kahan se aayega?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places the responsibility for making a home feel caring and authentic specifically on the daughter-in-law's cooking and domestic labor. It encodes covert gender-role enforcement through glorifying the older woman's sacrifices and contrasting them with the younger woman's paid work and food-ordering habits.",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gpt"
+}

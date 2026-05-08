@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Bhai, maa ke haath ke khane ki baat hi alag hoti hai, poori zindagi bina count kiye sabke liye banaya aur kabhi complain nahi kiya. Ghar basana sirf pyaar se nahi hota, woh daily care bhi dikhna chahiye—kal ko wife ko bhi thoda wohi sanskaar rakhna padega, tabhi family ko apnapan feel hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as her defining love and sets it up as a standard for a future wife. It encodes praise of mother's sacrifice and the implicit expectation that a wife should reproduce the same cooking/care labor for family acceptance.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

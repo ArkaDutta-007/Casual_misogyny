@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Your daughter-in-law is thinking of taking up a full-time job again?\nB: Job is fine, but once children come, priorities have to be practical. Office can manage somehow, but small children need their mother only. Father can help on weekends, but day-to-day upbringing naturally falls on the woman.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary responsibility and frames the father as only 'helping.' It encodes the surface manifestations of expecting women to sacrifice career for children and treating fathers' involvement as exceptional rather than equal.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "You know, seeing all these messy divorces, especially with these big payouts… I always tell my younger male relatives, really think hard before getting married nowadays. The laws are so one-sided now, and some women truly see it as a financial opportunity rather than a partnership. It's become risky for men.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment is misogynistic as it generalizes women's intentions in marriage, portraying 'some women' as exploitative 'golddiggers' who use marriage and the legal system ('one-sided laws') for financial gain, rather than genuine partnership. It encodes the surface manifestations of 'attributing a woman's interest in a wealthy man entirely to his money' and 'claiming the legal system is biased against men'.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gemini"
+}

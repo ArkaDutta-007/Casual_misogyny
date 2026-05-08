@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, if she knew he was married and still kept getting close, then she is the one breaking that home. Men do get carried away sometimes, but a woman with any basic sense should maintain boundaries instead of acting like some serial wali homewrecker.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the married man's agency. It encodes blame asymmetry and homewrecker/seductress framing, including the idea that women must manage men's temptation.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

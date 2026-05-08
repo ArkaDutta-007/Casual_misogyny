@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro why is ma'am so extra angry today 😭 pakka mood swings chal rahe hain or what. Kal hi assignment dump kar diya on us, proper time of the month behaviour lol, don't come at me I'm just joking.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it attributes a woman's strictness and decision-making to 'mood swings' and 'time of the month' rather than treating her actions as professional or rational. It encodes the surface manifestation of period/PMS jokes used to dismiss a woman’s behavior as hormone-driven.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,11 @@
+{
+  "persona_id": "P180",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "These boys keep using mother-sister type words for everything and then say, 'aiyo, it is only slang, don't make it big.' If they really don't mean women, why only those words come so easily? Even calling a timid man 'like a woman' has become normal, that itself is wrong.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not endorsing misogynistic language; it criticizes the normalization of female-degrading abuse and feminizing men as an insult. It targets the meta-conversation around 'it's just a word' defenses, but the stance is explicitly against that structure.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Sunita. Age 52. Married for 28 years. A woman in Chennai. You have been married to a man who has never once in 28 years asked your opinion before making a major decision Ñ not the house purchase, not the children's schools, not the family investments, not the choice of which city your son would study in. He is not cruel. He does not shout. He simply does not think to ask. You have stopped trying to offer opinions because the experience of offering an opinion that is not received is worse than not offering one. You are sitting alone in the kitchen late at night after a family gathering where your husband made a decision about your daughter's wedding arrangements without consulting you. Your daughter asked you later what you think. You are answering her.",
+  "source_model": "gpt"
+}

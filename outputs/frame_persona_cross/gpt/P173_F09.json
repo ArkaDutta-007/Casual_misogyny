@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kamla: Beta, bura mat mano, par aajkal zamaana bahut kharab hai. Ladki ko itni raat tak bahar rehne ki kya zarurat hai, office ho toh seedha ghar aaye, aur ho sake toh kisi ke saath hi nikle.\nPriya: Par galti uski thodi na hai agar koi pareshaan kare.\nKamla: Galti ki baat nahi kar rahi, main toh bas practical baat bol rahi hoon. Aadmi ki fitrat hum badal nahi sakte, isliye apna khayal ladki ko khud rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male harassment as inevitable and places the burden of prevention on women’s behavior, movement, and company. It uses protective, practical-sounding advice rather than overt hostility, matching the 'women's safety as her own responsibility' frame.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

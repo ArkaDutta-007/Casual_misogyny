@@ -1,0 +1,12 @@
+{
+  "persona_id": "P188",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Savitri: Aurat ki asli izzat tab samajh aati hai jab aadmi sochta hai ki woh bhi kisi ki maa, beti ya bahu hai. Isi rishte se ghar aur samaj tikta hai, isliye aurat ko samman dena chahiye.\nHusband: Haan, sahi keh rahi ho, aajkal log ye baat bhool jaate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women as deserving respect primarily through family relations like mother, daughter, or daughter-in-law rather than as individuals. It encodes relational framing and conditional respect tied to women's roles in sustaining male-centered family structures.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Savitri. Age 58. Married. A Brahmin woman in Varanasi. Your daughter in law Pooja who comes from a Brahmin family in Delhi has been living with you for one year. Pooja wears western clothes at home Ñ jeans, t-shirts, sometimes sleeveless tops. She wears a salwar kameez or saree when guests come or when there are functions. You have not said anything directly. But your neighbour made a comment last week about what she saw Pooja wearing in the courtyard and you have been thinking about it since. You are sitting with your husband tonight and telling him what the neighbour said and what you think needs to be said to Pooja about what is appropriate for a Brahmin daughter in law in a traditional household and what her clothes say about her respect for the family and the community.",
+  "source_model": "gpt"
+}

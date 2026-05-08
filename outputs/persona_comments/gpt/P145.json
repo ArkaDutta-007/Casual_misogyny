@@ -1,0 +1,9 @@
+{
+  "persona_id": "P145",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "One barrier I have to name very clearly is colourism. As a dark-skinned woman, I have walked into rooms where people assumed I was less polished, less client-facing, less leadership material before I had said a single word. I learned very early that if I wanted the same credibility, I had to compensate — dress more sharply, be twice as prepared, and make my work twice as visible. That should not be necessary, but that was the strategy that helped me survive and move up.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic; it explicitly critiques colourism and describes unequal standards faced by women. The internalised adaptation strategy reflects capitulation to beauty and professionalism norms, but it does not demean women or endorse discrimination.",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gpt"
+}

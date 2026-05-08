@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Nothing can match amma’s cooking da, every day fresh food for the whole family and she never made it look like a burden. These days everyone wants quick options, but a real home feeling comes only when the woman of the house puts that same care into the kitchen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother's unpaid domestic labor as love rather than work and sets it up as the standard for 'the woman of the house.' It encodes labor erasure and an implicit expectation that wives or daughters-in-law should reproduce the mother's tireless cooking.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

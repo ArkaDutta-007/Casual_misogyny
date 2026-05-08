@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Our manager is asking if Neha wants to move to Singapore for that role.\nB: Arre but she just had a baby na? Career is fine, but these early years the mother has to be there properly. Father can help obviously, but maa jaisa kaun manage karega all this?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames childcare in a baby's early years as primarily the mother's responsibility, while positioning the father as someone who merely 'helps.' It encodes career sacrifice framing and the assumption that the mother, not the father, should adjust her work opportunities for childrearing.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

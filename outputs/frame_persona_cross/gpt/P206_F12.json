@@ -1,0 +1,12 @@
+{
+  "persona_id": "P206",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, I feel people are overthinking this gaali issue. Boys use these words for everything now, it is just anger or frustration, not that they are actually insulting somebody's mother or sister. We also tell children don't cry like girls etc. without meaning anything so deeply.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abusive language and dismisses its connection to women as 'just expression.' It also includes feminizing-as-insult ('don't cry like girls') and defensiveness when the misogynistic structure of such speech is pointed out.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Anita. Age 44. Married for 20 years. A woman working as a teacher in Chennai. You are in a private WhatsApp group of six women friends Ñ all married, all educated, all working. Someone has shared the article about the marital rape petition. The conversation in the group is mixed Ñ some women support criminalisation, some are uncertain, one is against. You are giving your opinion. Your opinion is complicated because you have your own experience of marriage and what happens inside it and what you have told yourself about that experience for 20 years and whether the word in the article fits what you have lived and whether you are ready to use that word.",
+  "source_model": "gpt"
+}

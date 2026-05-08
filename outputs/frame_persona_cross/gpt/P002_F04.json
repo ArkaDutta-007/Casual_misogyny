@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro honestly half these women leads get pushed up because company wants diversity points. If one of them is actually sharp, people say she thinks like a man only na, otherwise either too aggressive or not leadership material.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions as quota-based rather than merit-based and treats 'thinking like a man' as the benchmark for competence. It encodes merit undermining and the leadership double bind ('too aggressive' vs 'not leadership material').",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

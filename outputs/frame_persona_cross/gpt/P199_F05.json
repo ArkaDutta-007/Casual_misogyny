@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Suno, aajkal shaadi mein aadmi hi phans jata hai zyada. Kal haat mein log bol rahe the, biwi alag ho jaye to aadmi ki kamai pe aadha haq, upar se 498A laga do to bas barbaad.\nB: Haan, kanoon bhi ek taraf ka lagta hai.\nA: Isliye keh raha hoon, aajkal ki chhoriyan ko bhi samajh ke dekhna padta hai, kai ko ghar-sansar se zyada paisa aur pakki kamai chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames men as the real victims of marriage and divorce laws, invokes 498A misuse, and generalizes women as financially motivated. It encodes victimhood inversion, legal-system bias claims, and suspicion that women marry for money.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

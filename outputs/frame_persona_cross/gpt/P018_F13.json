@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, these days some women in the office overdo it so much that you cannot tell what is real and what is makeup. I have no issue if someone keeps herself presentable, but too much styling looks artificial, and if they come completely plain then people say they have stopped taking care of themselves. Simple and natural always looks better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women under a double bind: they must maintain appearance but are criticized if the effort is visible or if they do too little. It encodes the makeup paradox through natural-vs-artificial policing and the expectation that women remain aesthetically pleasing.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I'm just a bit perplexed, Anil. This central deputation for Kavita... good officer, yes, absolutely. But five years junior to me, and with the kind of high-level contacts her father-in-law has... you do wonder, don't you, what really tips the scales in these selections? Especially with all this talk of representation and... optics. Merit alone, I sometimes feel, takes a backseat these days.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Ashok attributes the woman's promotion to her familial connections and 'optics' (implying gender-based preference), thereby undermining her merit despite a cursory acknowledgement of her competence. This aligns with speculating about unfair means for a woman's prestigious role.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P077",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Meena: These days boys keep using all those mother-sister type bad words for everything and then say it is just for fun. If someone acts scared also they tease, 'don't be like a woman' and laugh. Very wrong, but now everyone talks like this only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment normalizes and reproduces misogynistic speech patterns by treating female-coded insults and feminizing-as-insult as common, understandable behavior rather than clearly harmful. It encodes the frame through meta-discussion of 'mother-sister' gaalis and the idea that being compared to a woman is a put-down.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gpt"
+}

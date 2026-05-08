@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre bhai, aajkal company ko ek lady face chahiye top post pe, that is the trend. Merit alag cheez hai, but many times pata hi hai kaise promotion milta hai. Aur jo genuinely competent hoti bhi hai, people say she thinks like a man only then she can handle that level.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s professional merit by implying promotions are driven by tokenism or unfair means. It also encodes masculinization as a backhanded compliment, suggesting real leadership competence in women is validated only when framed as male-like.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gpt"
+}

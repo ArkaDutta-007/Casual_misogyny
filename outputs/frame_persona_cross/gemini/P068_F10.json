@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Dekho Neha, I understand women have to be careful, but sometimes you all make it sound like every man out there is a potential threat. That's just not fair, yaar. Hum jaise log jo hamesha izzat karte hain, humein bhi toh hurt hota hai when we are all clubbed together. Thoda trust bhi karna chahiye, har cheez mein sirf burai dekhna theek nahi.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's generalized fears by centering the speaker's (and other 'good men's') feelings of being unfairly judged, encoding the 'Not All Men' dismissal and challenging the rationality of women's wariness and lack of trust. It uses code-switching and an authoritative yet familial tone appropriate for a retired army officer speaking to his daughter.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Bro people need to chill a bit, half these words are just habit in India, not some deep attack on women every single time. Even in gaming or cricket chat guys say that stuff out of frustration, same way people tell a guy not to act soft. It’s expression yaar, not a literal statement about someone’s mother or sister.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaali culture and explicitly defends it as 'just expression.' It encodes the surface manifestations of dismissing concern, treating feminizing a man as an insult, and refusing to recognize the misogynistic structure of the language.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gpt"
+}

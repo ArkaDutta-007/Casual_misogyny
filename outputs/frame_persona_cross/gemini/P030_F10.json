@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I get it, women need to be safe, especially in a city like Mumbai. But sometimes this whole 'men are dangerous' thing gets too much, you know? Not all of us are like that. It feels pretty unfair when you're genuinely trying to be a good person, and still you can feel that slight wariness from women. Hum jaise logon ko bhi toh bura lagta hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Sameer dismisses women's collective fear by centering his own feelings of being unfairly generalized as part of a dangerous group ('not all of us'). He expresses that it's 'unfair' to 'good guys' like him when women display wariness, embodying the 'Not All Men' dismissal and challenging women's safety behaviors as an insult.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gemini"
+}

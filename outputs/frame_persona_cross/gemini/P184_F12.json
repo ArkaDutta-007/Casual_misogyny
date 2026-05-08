@@ -1,0 +1,12 @@
+{
+  "persona_id": "P184",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Ma, you know how bhaiyya talks sometimes? He'll just casually use these *heavy* words, like 'saala' or things invoking someone's sister, when he's frustrated. But I know he doesn't mean it in a bad way, it's just like... part of their guy language, you know? Like when Papa used to say 'are yaar'.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment normalizes the casual use of female-demeaning gaalis ('things invoking someone's sister') by framing them as 'just part of their guy language' and asserting 'he doesn't mean it in a bad way,' directly reflecting the 'defending gaali use as 'just expression, not actually about women'' and 'not recognizing the misogynistic structure of common slang' surface manifestations.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gemini"
+}

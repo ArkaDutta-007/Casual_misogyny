@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, girls look far more decent and confident in a saree or simple salwar than in these very Western outfits. Our students also notice these things, and like it or not, people form an impression from how a woman presents herself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency and social worth while presenting the view as professionalism and cultural respectability. It encodes the surface manifestation of praising traditional dress as superior and implying that non-traditional clothing invites judgment.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

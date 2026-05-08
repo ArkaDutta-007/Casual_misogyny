@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Arre bhai, company ko bhi dekhna padta na. Aaj kal young ladies ko hire karo, phir maternity leave, period leave, childcare flexibility sab alag se manage karo — project allocation pura disturb ho jata hai. Equality bolte hain toh policy bhi same honi chahiye for men and women, aise special treatment se appraisal aur workload mein imbalance aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women employees as a workplace liability due to menstruation and maternity, while presenting the view as a fairness and productivity concern. It encodes reverse discrimination and economic framing, questioning accommodations as 'special treatment' that disrupts appraisals and project allocation.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

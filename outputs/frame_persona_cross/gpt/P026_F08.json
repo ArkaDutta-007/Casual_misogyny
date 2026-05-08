@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "These situations are rarely as innocent as people make them out to be. If she knew very well that he was a married man, then maintaining that kind of closeness is irresponsible; the family is what suffers in the end. The man may have shown poor judgment, certainly, but very often it is the woman who allows and encourages such a situation to develop—bilkul serial wali baat.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while softening the man's responsibility as mere 'poor judgment.' It encodes blame asymmetry and homewrecker/seductress framing, especially through 'she knew he was married' and the serial-style moral framing.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

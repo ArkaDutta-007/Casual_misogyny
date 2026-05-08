@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar seedhi si baat hai, agar usse pata tha banda married hai toh phir itna close hone ki kya zarurat thi? Ghar todne wali baat bilkul serial jaisi lagti hai, aadmi galat hoga but aisi auratein hi chances deti hain aur phir poori family suffer karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment is misogynistic because it places primary blame on the woman in an affair while minimizing the man's responsibility. It encodes homewrecker framing, seductress logic, and family protection rhetoric through phrases like 'ghr todne wali' and 'aisi auratein hi chances deti hain.'",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

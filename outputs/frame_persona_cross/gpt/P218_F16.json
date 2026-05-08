@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in most homes it just comes down to practicality. If one person is better with finances and outside work, and the other is better at managing the home and children, there is nothing inherently regressive about that arrangement. My husband does help when needed, but day-to-day household management usually sits more naturally with women, and many couples are perfectly comfortable with that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as simply efficient and frames domestic management as something that 'sits more naturally with women.' It reflects the surface manifestations of 'he handles outside work, she handles home' and the 'he helps' framing rather than equal co-management.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

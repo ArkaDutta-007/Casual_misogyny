@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, I saw Neha from the finance team today, and honestly, she looked a bit tired. I mean, a little effort goes a long way, especially in the office, no? But then you see some women, they just pile on so much makeup, it's like they're trying to hide something or be someone else. I always prefer women who are more natural, feels more confident.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment perfectly illustrates the 'Makeup Paradox' by simultaneously critiquing a woman for 'not making enough effort' ('looked a bit tired', 'a little effort goes a long way') and then immediately pivoting to critique other women for making 'too much effort' ('pile on so much makeup', 'trying to hide something'). It explicitly states a preference for 'natural' women, encoding the core belief that women's appearance is for evaluation and should be 'naturally' attractive, with visible effort being deceptive, while also penalizing a lack of effort.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gemini"
+}

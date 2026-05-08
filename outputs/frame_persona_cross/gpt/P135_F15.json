@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation:\nA: Ma'am, I don't wear my mangalsutra daily, only for functions.\nDeepa: That is your choice, of course, but after marriage these small things matter. A woman does look more settled and respectful when she keeps at least one sign of her married status; otherwise people do wonder why she is avoiding it.\nA: But isn't that old-fashioned?\nDeepa: Maybe, but our traditions are not always oppression. These are part of our culture, and once married, wearing them properly gives a certain completeness.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as cultural completeness and respectability rather than control. It encodes pressure on married women to wear mangalsutra and judges non-wearing as socially suspicious or deficient.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

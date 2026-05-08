@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, did you hear about Tanya getting that big project lead? Honestly, I think her dad being in the same circle as the senior VP helped. Otherwise, I don't see how she jumped so many experienced people for it.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment attributes a woman's professional achievement (getting a project lead) to her familial connections rather than her merit, implying she gained her position through unfair means. This directly aligns with the 'Merit undermining' manifestation of F04, questioning her competence and how she acquired a prestigious role.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gemini"
+}

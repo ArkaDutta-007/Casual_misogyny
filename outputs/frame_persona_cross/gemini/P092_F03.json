@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Renu, tumhari beti toh US jaane ki soch rahi hai career ke liye? Achhi baat hai, modern zamana hai. Par soch rahi hoon... shaadi kab karegi? Aur agar bachhe ho gaye, toh unhe kaun sambhalega wahan akeli? Maa ka toh kaam hai na, ghar aur bachhe. Aaj kal ki ladkiyan career career karti hain, par bachpan wapas nahi aata bachho ka.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a middle-aged homemaker, subtly reinforces the idea that a woman's primary duty is childcare and domestic labor. It questions a career-focused young woman's ability to manage children and home, implying that she would be neglecting her responsibilities by prioritizing career, and uses guilt-framing about 'children's childhood'. This encodes the surface manifestation of expecting a mother to sacrifice career for family and questioning 'who will raise the children?'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gemini"
+}

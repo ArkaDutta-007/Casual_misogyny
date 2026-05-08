@@ -1,0 +1,10 @@
+{
+  "persona_id": "P189",
+  "frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "generated_comment": "Nadia, office ka role badla hai, deen nahin. Hijab koi manager ke comfort ke hisaab se utarne ki cheez nahi hai, aur shaadi ke baad tum sirf apni marzi se aise faisle nahi leti ho. Agar unko professional problem hai to kaam se judge karein, libaas se nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment is misogynistic because it frames the wife's professional appearance as subject to marital authority rather than her independent choice. It encodes religious control as a dress mandate and treats her body/presentation as regulated by husband and community norms.",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience aur instant food ki baat karte hain, but maa ke haath ke khane ki baat hi alag hoti hai. Hamari mothers ne poori zindagi bina complaint ke ghar sambhala, garam khana diya, aur usi mein parivaar ka sanskar bana. Sach kahun, ghar tabhi ghar lagta hai jab ghar ki mahila apne haath se prem se sabko khilaye—baaki sab modern cheezein apni jagah hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies women's unpaid domestic labor as love and family values rather than work. It encodes the expectation that the woman of the house should cook and serve the family, using nostalgic praise of mothers as the standard.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

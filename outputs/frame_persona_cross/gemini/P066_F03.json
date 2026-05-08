@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Suniye, jab se Priya office jaane lagi hai, bachchon ki padhai, unke khane ka samay, sab thoda gadbad ho gaya hai. Bachche toh maa ke bina reh hi nahi sakte, khaaskar is choti umar mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla expresses concern for her grandchildren, subtly implying that Priya's career is negatively impacting their well-being and that a mother's constant presence is essential for young children. This encodes the belief that childcare is primarily the woman's domain and frames career ambition as potentially selfish if it affects this duty.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gemini"
+}

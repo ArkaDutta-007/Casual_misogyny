@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre job theek hai, but kal ko bachche honge toh unko kaun sambhalega properly? Father kitna bhi involved ho, maa jaisi dekhbhal toh maa hi karti hai, so thoda career ko uss hisaab se plan karna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary responsibility and frames the woman's career as something that should be adjusted around future children. It encodes career sacrifice framing and the belief that fathers are secondary caregivers compared with mothers.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

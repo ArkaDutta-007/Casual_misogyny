@@ -1,0 +1,12 @@
+{
+  "persona_id": "P160",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Just saw this quote and it hit home so hard! ✨ We can have all the fancy tech and dine out every day, but nothing, absolutely nothing, can replace the magic of 'maa ke haath ka khana'. It’s not just food, it’s her love, her endless sacrifices, the very soul she pours into every single meal. That's the real measure of a home and a mother's devotion. Don't you agree? 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies a mother's domestic labor (cooking) and self-sacrifice as the 'real measure of a home and a mother's devotion', thereby implicitly setting a standard for women. It erases the labor involved by framing it purely as 'love' and 'magic', and subtly devalues modern conveniences/alternatives (like dining out) compared to this idealized domestic role, fitting the 'WhatsApp forward / inspirational post style' and 'labor erasure' surface manifestations.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "A: Arre bhai, maa ke haath ki roti aur saag ki baat hi alag thi, subah se raat tak sabke liye banati rahi, kabhi thakan tak nahi boli.\nB: Haan, aajkal woh lagan kahan.\nA: Ghar tabhi ghar lagta hai jab aurat apne haath se pyaar se rasoi sambhale, bas wahi sanskar bahu-betiyon mein rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women through unpaid domestic labor and treats cooking/self-sacrifice as the essence of a good woman. It encodes nostalgic praise of the mother plus an implicit expectation that daughters-in-law and daughters should uphold the same domestic standard.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

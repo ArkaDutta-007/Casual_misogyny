@@ -1,0 +1,12 @@
+{
+  "persona_id": "P229",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, ghar mein sab ka kaam alag hota hai na. Papa bahar ke kaam aur paise dekh lete hain, aurat hi ghar aur rasoi achchhe se sambhalti hai, isme bura kya hai? Har cheez equal-equal karne se ghar thodi chalta hai, jo jahan better ho wahi kare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and efficient rather than unequal. It encodes the surface manifestation of 'he handles finances, she handles home' and uses efficiency framing like 'jo jahan better ho.'",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Sunita. Age 46. Married. A homemaker in Jaipur. Your son Karan who is 24 just came home and mentioned casually that he went for lunch with three female colleagues and then they all went to a cafe afterward. You smiled and said that sounds nice. Ten minutes later your daughter Meena who is 21 mentioned that she went for lunch with two male classmates from her project group. Your reaction to your daughter's lunch is completely different from your reaction to your son's lunch. You do not notice the difference. Your daughter does.",
+  "source_model": "gpt"
+}

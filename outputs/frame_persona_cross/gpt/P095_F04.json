@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro honestly half these companies just want a woman face on top for PR. Then if she’s actually strict, everyone says she’s too aggressive, and if she’s soft, they say women can’t lead — but let’s be real, a lot of these fast-track promotions are quota only, not pure merit.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s leadership by suggesting their promotions are primarily due to quotas or optics rather than competence. It encodes merit undermining and the leadership double bind while presenting itself as a fairness-based opinion.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gpt"
+}

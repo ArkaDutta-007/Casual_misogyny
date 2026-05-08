@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Dekhiye, aadmi se bhi galti ho jati hai, lekin agar kisi mahila ko pata hai ki woh vivaahit hai phir bhi uske saath itni nazdeeki rakhe, toh nuksan ghar ka hi hota hai. Aisi auratein hi parivaar todti hain, baad mein bechare bachche aur gharwale sab bhugatte hain; bilkul serialon jaisi baat ho jati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shows clear blame asymmetry: the married man is excused as someone who simply made a mistake, while the woman is framed as responsible for seducing him and breaking the family. It encodes the 'homewrecker' trope, 'she knew he was married' framing, and family-protection rhetoric.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

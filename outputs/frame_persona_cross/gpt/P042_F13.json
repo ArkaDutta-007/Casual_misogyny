@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aajkal ki chhoriyan bhi na, itna muh pe rang-rogan laga leti hain, phir bolengi natural beauty. \nB: Haan, aur bilkul bina taiyar hue nikle to log kahenge apna dhyan hi nahi rakhti. \nA: Bas theek-thaak saaf-suthri lage, par ye zyada makeup matlab kisi ko dikhana hi hoga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: women are criticized for wearing 'too much' makeup and also judged if they do not groom themselves. It encodes the frame's natural-vs-artificial contrast and assumes makeup is done to attract male attention.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gpt"
+}

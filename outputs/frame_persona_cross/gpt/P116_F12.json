@@ -1,0 +1,12 @@
+{
+  "persona_id": "P116",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, people say those words casually all the time, it is not like anyone is literally talking about somebody's mother or sister. In our office also the boys use it just as frustration, and honestly making it into a gender issue every single time feels a bit too much.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in female family relations and dismisses concerns by calling it 'just frustration.' It encodes the surface manifestation of defending common gaali use as harmless and not recognizing its misogynistic structure.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gpt"
+}

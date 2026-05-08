@@ -1,0 +1,12 @@
+{
+  "persona_id": "P009",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre bahin, kya zamana aa gaya hai. Suna hai na Ramu ke bhaiyya ki baat? Woh jo Sheela hai na, usne hi toh phasaya hai bechare ko. Uska toh ghar-baar hai, bachche hain. Jaanti thi ki aadmi shadi-shuda hai, phir bhi pichhe padi rahi. Aisi auraton ki wajah se hi ghar toot-te hain. Bilkul TV serial jaisi baat hai, na?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Sunita blames the 'other woman' (Sheela) entirely for an affair, framing the man as 'bechara' (helpless/poor fellow) who was 'trapped' by her. This encodes the 'homewrecker framing' and 'blame asymmetry' surface manifestations, excusing the man while demonizing the woman for 'breaking homes'.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "gemini"
+}

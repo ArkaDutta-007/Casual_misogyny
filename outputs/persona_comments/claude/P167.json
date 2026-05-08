@@ -1,0 +1,10 @@
+{
+  "persona_id": "P167",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Priya: Listen, I'm not saying don't go. I'm saying — think carefully. I had the same chance, Jadavpur, ten years ago. My mother-in-law cried for three days. My husband said it was my choice but then became very quiet, you understand? So I let it go. And honestly? Our house is peaceful, my children are settled, I have this job — it's not nothing. Your PhD will still be there in two years, three years. But if you go now and things sour at home, that bitterness doesn't go away so easily. Education is important, yes, but so is the foundation you're standing on. You're lucky your husband is supportive — don't test that too hard.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Priya frames her own abandonment of ambition as wisdom rather than loss, presenting women's education as a conditional privilege that must be weighed against domestic harmony — encoding the idea that a woman's educational pursuit is legitimate only insofar as it doesn't disturb family stability. The advice naturalises the expectation that women should self-sacrifice and delay personal growth to preserve male approval and in-law peace, which is a core marker of casual misogyny even though it is delivered with apparent warmth and solidarity.",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "claude"
+}

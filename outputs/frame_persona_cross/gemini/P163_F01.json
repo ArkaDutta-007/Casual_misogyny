@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, this whole period leave thing... I understand some women face issues, but from a small business owner's perspective, it just adds to the existing burden. We already have maternity leave, which is long, and now this? Matlab, if everyone takes it regularly, that's like 10-12 extra paid days a year per female employee. How is that fair to our male staff, or to the company's productivity? It's a genuine cost we have to bear.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak expresses 'concern for fairness' by highlighting the perceived economic burden and comparing it to male staff, aligning with the surface manifestation of invoking productivity/cost arguments to oppose menstrual leave policies and questioning fairness.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gemini"
+}

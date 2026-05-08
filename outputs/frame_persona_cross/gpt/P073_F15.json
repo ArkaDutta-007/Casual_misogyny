@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Arre I’m not saying women should be forced, but after marriage thoda sindoor ya mangalsutra achha lagta hai yaar, it shows the grace of being married. Aajkal girls call it old-fashioned, but some traditions are there for a reason, na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as what gives a woman proper 'grace' after marriage while dismissing rejection of them as modern girls being unserious about tradition. It encodes the surface manifestations of completeness framing, tradition framing, and disapproval of women who do not wear visible married markers.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

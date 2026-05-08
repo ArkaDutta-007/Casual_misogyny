@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, you know the new regional head they appointed? Mrs. Verma. She's surprisingly sharp, for a woman. Actually thinks like a man when it comes to business, no nonsense.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment attributes a woman's competence to her 'thinking like a man,' which is a backhanded compliment that implicitly suggests women are generally not competent in business. It encodes the surface manifestation of 'saying she 'thinks like a man' as the highest compliment'.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

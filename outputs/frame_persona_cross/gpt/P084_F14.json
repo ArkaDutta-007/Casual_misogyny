@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience dekhte hain, lekin ghar ki asal barkat toh maa ke haath ke khane mein hoti hai. Hamari ammi ne poori zindagi bina thake ghar walon ke liye pakaya, tabhi ghar ghar lagta tha. Biwi mein bhi wohi narmi aur khidmat ho toh mard sukoon se rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a mother's unpaid cooking and self-sacrifice as the source of a home's value, then extends that as an expectation for wives. It encodes labor erasure, nostalgic praise of 'maa ke haath ka khana,' and an implicit standard wives should meet through domestic service.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gpt"
+}

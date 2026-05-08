@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Bro, seriously, this 'all men are dangerous' narrative after every single incident is so unfair. I mean, main toh kabhi aisa nahi sochta, always tried to be decent. Why do women have to be so distrustful of everyone? It makes good guys like us feel totally targeted.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Rahul, a 29-year-old software engineer, expresses frustration at a generalization about men, feeling personally targeted. He uses Hinglish and centers his own experience as a 'decent guy,' dismissing women's collective wariness as irrational distrust ('why do women have to be so distrustful of everyone?'). This encodes 'Not All Men' dismissal and feeling personally insulted.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gemini"
+}

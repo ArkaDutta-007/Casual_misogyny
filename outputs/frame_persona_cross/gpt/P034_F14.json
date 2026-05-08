@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Honestly, maa ke haath ka khana is on another level because she put her whole life into taking care of the family without ever making it feel like work. A home only feels complete when the woman of the house keeps that same warmth alive every day, otherwise woh baat hi nahi aati.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother's unpaid domestic labor as pure love rather than work, and sets it up as the standard for 'the woman of the house.' It encodes both praise of maternal sacrifice and an implicit expectation that wives/daughters-in-law should reproduce that labor.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

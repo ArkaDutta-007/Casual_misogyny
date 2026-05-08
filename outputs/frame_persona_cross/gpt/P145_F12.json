@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, I think people overanalyse this a bit. In office or college groups, people use those mother-sister type gaalis as filler when they're angry; it doesn't mean they're actually insulting anyone's mother. And when someone says a man is behaving like a woman, yes it's rude, but half the time they just mean he's being weak, not making some big statement about women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse and explicitly defends gendered insults as harmless expression. It encodes the 'it's just a word' defense and the feminizing-as-insult structure described in the frame.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gpt"
+}

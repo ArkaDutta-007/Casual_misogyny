@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre, aise mat socho beti. Sab mard thodi na ek jaise hote hain? Tumhare papa, tumhare chacha, woh sab bhi toh mard hain. Itna darr darr ke kaise jiyogi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Anita, an older woman, minimizes the generalized fear of men by using the 'not all men' dismissal, pointing to her male family members ('good guys') as exceptions, and questioning the rationality of living in fear. This encodes the 'Not All Men' Dismissal and framing women's wariness as irrational.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gemini"
+}

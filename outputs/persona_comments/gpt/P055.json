@@ -1,0 +1,10 @@
+{
+  "persona_id": "P055",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Arre yaar, puja hai, club outing nahi. Simple bol de her to wear a saree or at least salwar for one day, warna family ko lagega she doesn’t understand our values and first impression kharab ho jayega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and moral character to wearing traditional clothing at a religious family event. It encodes the idea that non-traditional dress makes her seem less cultured or worthy of family approval.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

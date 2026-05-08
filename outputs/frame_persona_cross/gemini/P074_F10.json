@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Haan, toh yehi toh main kehti hoon. Dekho, careful toh rehna hi padega. Lekin beta, iska matlab ye nahi ki tum har ladke ko galat samajhne lago. Tumhare Papa hain, bhai hai, chacha-mama hain... sab toh aise nahi hote na? Ab achhe ladke bhi toh hain duniya mein, unko bhi toh bura lagta hoga jab har ladki unko aise dekhti hai jaise wo criminal ho.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, from a mother to her daughter, minimizes women's fear by appealing to the 'not all men' trope ('sab toh aise nahi hote na?') and frames women's generalized wariness as an insult to 'good men' who 'feel bad' when seen as potential criminals. It shifts focus from systemic issue to individual 'good guys'.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gemini"
+}

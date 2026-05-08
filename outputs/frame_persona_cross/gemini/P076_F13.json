@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "यार, ये आजकल की छोरियां भी ना... इतना लेप-पोत कर लेती हैं कि बिना मेकअप के तो पहचानी ही नहीं जातीं। लगता है बस फोटो में अच्छा दिखने के लिए सब दिखावा है।",
+  "label": "misogynistic",
+  "covertness": "high",
+  "annotation_note": "This comment critiques visible makeup as excessive and deceptive ('lep-pot', 'pehchani hi nahi jaati'), implying women's efforts to enhance their appearance are inauthentic ('sab dikhawa hai') and only for external validation (e.g., photos). It encodes the 'too much makeup' surface manifestation and the 'deception framing' linguistic cue.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gemini"
+}

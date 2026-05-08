@@ -1,0 +1,10 @@
+{
+  "persona_id": "P035",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Suno beta, main bas tumhare bhale ke liye bol rahi hoon. Aaj kal ki ladkiyon ka kuch pata nahi chalta. Upar se sab accha dikhta hai, par andar kya hai, woh tumhari job aur achhi income par nazar hai, ya sach mein tumse pyaar karti hai?\nZara dhyan se dekhna. Agar kabhi future mein kuch bhi gadbad ho jaye, toh kya woh khud ka khayal rakh sakti hai ya sirf tumhari kamai par depend karegi? Yeh sab baatein pehle hi clear kar lena chahiye, beta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment generalizes negative intentions to 'modern girls,' suggesting they are primarily interested in a man's financial stability ('job aur achhi income') rather than genuine affection. It covertly expresses fear of financial burden (alimony/dependency) by questioning if she can 'khud ka khayal rakh sakti hai' or will 'depend karegi' on his earnings if things go wrong, implying women exploit marital situations for financial gain. The advice to 'clear everything beforehand' hints at pre-marital financial considerations.",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gemini"
+}

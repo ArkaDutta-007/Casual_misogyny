@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, suna hai HR is seriously considering period leave now. I mean, I get it, but from a company's perspective, it's another liability on the books. Aur phir kya, when appraisals come, how do you even factor in 'lost productivity' if people are taking extra leaves? Aise toh it just becomes an unfair advantage for one gender, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment questions the 'fairness' of period leave and frames it as a 'liability' and 'lost productivity' for the company, implying women's biology is a workplace disadvantage. It encodes surface manifestations of 'invoking productivity/cost arguments' and 'questioning whether it is 'fair' to give menstrual leave when men don't get equivalent leave'.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P154",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "It's certainly a journey, isn't it? For women, especially, it's about making conscious choices and building a very strong support system. I always tell young women, you have to be incredibly organised and accept that sometimes, you have to make certain sacrifices on the personal front to excel professionally. But it's all worth it when you see both your career and your children thriving.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment reinforces the gendered expectation that women are solely or primarily responsible for balancing career and family, framing personal sacrifice as a natural and necessary component of a woman's professional journey. It normalises the career vs. family binary specifically for women, encoding the surface manifestation of reinforcing traditional gender roles/expectations.",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gemini"
+}

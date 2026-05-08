@@ -1,0 +1,12 @@
+{
+  "persona_id": "P044",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, suno toh, woh Sharma ji ka beta aur uski secretary ka kya chakkar chal raha hai, sab bol rahe. Bechara Sharma toh seedha-saadha aadmi hai, us ladki ne hi usko phasaya hoga. Pata tha na woh shadi-shuda hai, phir bhi... ghar todne wali aurat! Bilkul serial jaisa haal.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' (the secretary) entirely for an affair, portraying the man ('Sharma ji ka beta') as a simple victim ('bechara Sharma toh seedha-saadha aadmi hai') who was trapped ('phasaya'). It explicitly highlights that 'she knew he was married' and labels her a 'homewrecker' ('ghar todne wali aurat'), aligning with the core beliefs and surface manifestations of the Homewrecker Framing / Women as Seductresses trope (F08).",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Mohammed. Age 44. A Muslim man in Hyderabad. Your 22 year old daughter Sana has been offered a job in Mumbai that requires her to relocate. She is excited about it and has already told her employer she will join. She did not ask you before accepting. You are sitting with your wife after dinner and telling her what you think about Sana accepting a job offer without your permission and what you are going to tell Sana tomorrow and why a girl should not be making these kinds of decisions alone.",
+  "source_model": "gemini"
+}

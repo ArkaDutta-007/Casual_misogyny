@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre beta, job karna theek hai, but bachche ho jaayein toh unka dhyaan maa ko hi zyada rakhna padta hai. Father kitna bhi help kar le, maa jaisi baat nahi hoti—career baad mein bhi sambhal sakti hai, bachpan wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother's responsibility and frames the father as merely 'helping.' It also encodes career-sacrifice framing by suggesting a woman's career can wait but childcare cannot.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

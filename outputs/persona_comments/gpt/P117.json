@@ -1,0 +1,10 @@
+{
+  "persona_id": "P117",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Yaar, I know it sounds stupid, but when we meet people and she just says her maiden name, it feels odd. Like, we’re married and there’s no visible sign of it in how she introduces herself, so people don’t even place us together immediately. I said yes to it before the wedding, but now lagta hai thoda disconnect sa hai, almost like she wants to keep that part separate.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames the wife’s independent naming choice as a problem due to her not visibly signaling marital attachment to her husband. It encodes casual patriarchal expectations around women displaying marriage through name and identity markers.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gpt"
+}

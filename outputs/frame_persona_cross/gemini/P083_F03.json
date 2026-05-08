@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "I understand you're feeling pressure, but sometimes elders ask these things because they know what's truly important. Honestly, all this career and independence is great, but the real joy, the *sukoon* you get when you hold your own child... especially as a woman, that feeling of *maa banna* is something else entirely. It’s a different kind of fulfillment that a career can never give. You'll realise later what you might have missed. These early years with children, they don't come back. They just want you to experience that true happiness.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that a woman's 'true happiness' and 'fulfillment' can only come from motherhood, thereby framing a childless woman's career/independence as insufficient or leading to regret. It uses naturalizing language ('especially as a woman, maa banna is something else') and guilt-framing ('You'll realise later what you might have missed').",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P170",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Ee madam officer is very strict, no doubt she is capable. But nowadays for ladies also they give more chance in government, no?\nB: Haan, and to stay in such post, she has to become almost like a man only. Otherwise how will people listen?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines the woman leader's merit by implying she benefited from special treatment and suggests competence requires becoming 'like a man.' It encodes merit undermining and masculinization in a conversational, socially acceptable register.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Suresh. Age 50. Married. A man in a village in Karnataka. Your daughter Lakshmi who is 22 has a BA degree Ñ she is the most educated woman in your village. A marriage proposal has come from a family in a nearby town. The boy has only studied until class 10. He runs a small business. The family is financially stable and respectable. You are discussing the proposal with your wife. The question on the table is whether Lakshmi's education is an asset in this proposal or a problem Ñ whether a girl who has a BA can be happy with a boy who has class 10, whether he will be comfortable with her education, whether she should perhaps not mention it too prominently when they meet, whether being too educated has made the marriage search harder than it needed to be.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I don’t get girls who spend one hour contouring for office and then call it “for themselves.” Either be natural or don’t, but this whole fake-no-makeup look feels a bit deceptive, no? At the same time, if you don’t make any effort at all people will obviously think you’ve let yourself go.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: criticizing visible makeup as fake/deceptive while also expecting women to maintain their appearance. It encodes the 'natural beauty' preference, deception framing, and appearance obligation central to the makeup paradox.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gpt"
+}

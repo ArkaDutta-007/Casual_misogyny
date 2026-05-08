@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, just saw that news from Lajpat Nagar. Please be careful when you're out late. I know you like partying, but Delhi is just not safe for girls, especially after 10-11. Try to be home by then or at least always travel with a group. Apna khayal rakhna, zamaana hi kharab hai. 😕",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kartik, a college student, advises a female peer to restrict her movements and company for her own safety, framing it as practical advice due to a 'messed up world.' This encodes the belief that safety is a woman's personal responsibility managed through her behavior (not being out late, traveling in groups), rather than addressing male violence. It uses a 'protective' tone while subtly blaming the victim's potential choices.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

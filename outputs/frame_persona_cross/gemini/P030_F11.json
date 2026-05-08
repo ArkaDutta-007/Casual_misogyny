@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Colleague: \"This shift was brutal. Can't imagine how some of these women manage all this and their homes.\"\nSameer: \"Honestly, bro. You see the resilience. These women, the way they balance everything... it's just incredible. They're someone's mother, someone's daughter, holding families together. That's why we always say, 'respect women' – because of everything they do for others.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sameer expresses 'respect' for women, but frames it entirely through their relational identities ('someone's mother, someone's daughter') and their roles in serving others ('holding families together', 'everything they do for others'). This aligns with the 'Respect women — they are someone's mother/daughter/sister' rhetoric and defines women primarily by their service to male kin structures, rather than their inherent individual worth. This is a very high covertness example.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gemini"
+}

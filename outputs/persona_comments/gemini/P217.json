@@ -1,0 +1,10 @@
+{
+  "persona_id": "P217",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "Sana, bacchhi, we hear you, and what you've described is very serious. But look, before you take such a big step, you need to understand the reality of filing a police case, especially 498A. Once it goes to court, it's not just about you and your husband anymore. It involves both families, reputations are ruined, and these cases drag on for years. Often, after all that, things only get worse, not better. And honestly, sometimes, these laws… people, they use them, you know, to settle other issues, or maybe out of anger, and then it becomes a big mess that's very hard to undo. Think about the izzat of both families. Reconciliation is always better if possible.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The mediator subtly implies that women often misuse anti-dowry/domestic violence laws (like 498A) for reasons other than genuine abuse, such as anger or to settle scores, thereby weaponizing the legal system. He doesn't call her a liar directly but suggests the system is often exploited, aligning with the Legal System Weaponisation Narrative.",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gemini"
+}

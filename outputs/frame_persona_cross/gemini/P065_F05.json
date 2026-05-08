@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, I feel so bad for men sometimes. Look at how many women are misusing 498A just to get money out of their husbands! It's become a reverse dowry situation these days. Very unfair.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This comment, from a woman, expresses concern for men by claiming women 'misuse' IPC 498A to extract money from husbands, explicitly labeling it a 'reverse dowry' situation. This directly encodes the 'alimony as reverse dowry' and 'IPC 498A misuse' surface manifestations of Frame F05.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, I think people make too much of a big deal about these *gaalis*. Yaar, sometimes you just need to express frustration, right? It's not like anyone *actually* means it literally. It's just a common expression among friends, just blowing off steam. If you get offended by every single word, then life will be very difficult only. Some people are just too sensitive, seriously. A man needs to be a little tough, not get emotional over these small things.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment defends the casual use of gaalis (expletives with female-demeaning roots) by normalizing them as 'just expression' and 'blowing off steam,' thereby dismissing their misogynistic structure. It also subtly encodes feminizing-as-insult by framing sensitivity to such language as weakness ('too sensitive', 'not get emotional') and contrasting it with being 'a little tough' (masculinity-femininity coding).",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gemini"
+}

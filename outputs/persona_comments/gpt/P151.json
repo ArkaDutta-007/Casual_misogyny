@@ -1,0 +1,10 @@
+{
+  "persona_id": "P151",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Ramesh: Promotion mil gaya, theek hai, par har do saal naya shehar badalna bhi koi jeevan hai? Ladki ki umar nikal jaati hai aise hi, phir achha rishta bhi mushkil ho jata hai.\nWife: Priya khush lag rahi thi.\nRamesh: Khush to ab hai, par kal ko ghar bhi basana hai. Main kal samjhaunga usko ki naukri apni jagah hai, lekin aurat ke liye ghar-parivaar bhi utna hi zaroori hota hai, sirf promotion ke peeche bhaagte rehne se zindagi poori nahi hoti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's career advancement as conflicting with her primary duty to marry and build a family, while applying that expectation specifically to 'ladki' and 'aurat.' The surface manifestation is a career-vs-family binary and concern about marriageability used to limit women's ambition.",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya who is 27 works as a software engineer in Pune and has just been offered a promotion that requires her to move to Bengaluru. She called you excited about it. You said congratulations on the phone. But you are not happy. You are sitting with your wife after the call. You are telling your wife what you actually think about this promotion and what it means for Priya's marriage prospects and what kind of life she is building and whether a woman who keeps chasing the next thing will end up with everything professionally and nothing personally and what you plan to say to her when she calls again tomorrow.",
+  "source_model": "gpt"
+}

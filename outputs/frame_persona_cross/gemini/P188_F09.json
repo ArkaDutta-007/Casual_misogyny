@@ -1,0 +1,12 @@
+{
+  "persona_id": "P188",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "देखो बेटा, आजकल तो ज़माना बिलकुल ठीक नहीं है। तुम लड़कियों को अपना बहुत ख्याल रखना चाहिए। इतनी रात को बाहर अकेली मत निकला करो, और कपड़े भी थोड़े ढंग के पहनो। लोग देख कर बातें बनाते हैं। हम तो बस तुम्हारी भलाई के लिए ही कहते हैं।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Savitri, an older Brahmin woman from Varanasi, offers 'advice' to a younger woman. The comment frames women's safety as their personal responsibility, advising restrictions on movement ('don't go out alone so late') and dress ('wear appropriate clothes') while citing 'zamaana kharab hai' as the reason, implying men's predatory behavior is inevitable. This encodes 'parental/familial restrictions framed as love/protection' and 'blaming victims for being in unsafe areas/wearing certain clothes' as surface manifestations.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Savitri. Age 58. Married. A Brahmin woman in Varanasi. Your daughter in law Pooja who comes from a Brahmin family in Delhi has been living with you for one year. Pooja wears western clothes at home Ñ jeans, t-shirts, sometimes sleeveless tops. She wears a salwar kameez or saree when guests come or when there are functions. You have not said anything directly. But your neighbour made a comment last week about what she saw Pooja wearing in the courtyard and you have been thinking about it since. You are sitting with your husband tonight and telling him what the neighbour said and what you think needs to be said to Pooja about what is appropriate for a Brahmin daughter in law in a traditional household and what her clothes say about her respect for the family and the community.",
+  "source_model": "gemini"
+}

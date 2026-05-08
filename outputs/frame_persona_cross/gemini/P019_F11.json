@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "We must always remember the immense value a woman brings, not just in her professional capacity, but also as the anchor of her family. When we educate and support a girl, we're not just helping an individual; we're empowering a future mother, a daughter who will shape generations. Their strength truly holds society together.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment superficially praises women but subtly defines their primary value and contribution through their relational roles (mother, daughter, anchor of the family), rather than their individual identity or professional achievements. It aligns with the frame's core belief that a woman's worth is secondary to her service to male kin structures.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gemini"
+}

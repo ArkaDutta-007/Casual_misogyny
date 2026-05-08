@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Karan, beta, yeh Divya ki baat theek hai, aajkal sab yeh equal share ki baatein karte hain. Lekin practicality bhi toh dekho. Apni mummy aur maine kabhi baith ke decide nahi kiya tha ki 'ye tera kaam, ye mera'. Naturally roles ban gaye. Main subah se shaam business mein hota hoon, bahar ka sab dekhta hoon. Aur ghar ka poora management, sab kids ka, woh teri mummy ne sambhaala. Woh jahan best thi, main jahan best tha. Ek team jaise. Ussi se toh hamari 25 saal ki shaadi itni smoothly chali hai. Ab tum dono working ho, theek hai, par ghar toh chalana hai na? Jo jahan better hai, wahi karna chahiye, simple.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh attributes gendered division of labor in his marriage to 'practicality' and 'natural roles' ('jo jahan better hai'). He frames his own marriage's success on this efficient division, covertly resisting the idea of shared chores for his son, even when both partners are working.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gemini"
+}

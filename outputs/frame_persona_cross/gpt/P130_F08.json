@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bro, wife ko sab blame kar rahe hain but asli issue woh ladki hai. She knew he was married phir bhi itna close ho rahi thi, bilkul serial wali ghar todne wali vibe hai — aadmi kabhi kabhi behak jata hai, but ladki ko toh limit rakhni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the married man as someone who merely 'got carried away.' It encodes blame asymmetry, 'she knew he was married' framing, and the 'homewrecker' trope.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gpt"
+}

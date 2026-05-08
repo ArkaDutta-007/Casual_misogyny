@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian wear just carries a different grace. In saree or even a simple salwar, a woman looks more grounded and dignified; these ultra-western outfits just send the wrong signal and then people act surprised when others stare. Not policing anyone, just saying our culture got some things right.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character and 'dignity' while subtly blaming harassment on western clothing. It encodes the elegance/decency framing, cultural pride mask, and harassment-blame link described in the frame.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

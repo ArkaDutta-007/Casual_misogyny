@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand why women are cautious, but sometimes I feel we are overgeneralising. In our office itself, there are many decent men, and treating every man like a potential threat is not fair. If we keep assuming the worst, how will normal professional trust even develop?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's safety concerns by centering fairness to men and framing women's wariness as overgeneralisation. It encodes the 'not all men' response and challenges the rationality of women's caution.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

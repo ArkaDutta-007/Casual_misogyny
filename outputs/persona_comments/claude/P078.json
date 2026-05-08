@@ -1,0 +1,10 @@
+{
+  "persona_id": "P078",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly yaar, I get that it's scary but you have to speak up in the moment itself — that's the only thing that actually works. Screaming, making a scene, saying 'hath mat lagao' loudly — people WILL turn and look, and the guy will back off immediately, trust me. I know it feels embarrassing but if you stay silent then how will anyone know to help you? Women need to start being more assertive on public transport, carry a safety pin, stand near the ladies section, be more aware of your surroundings — these are basic precautions. Waiting to post about it on Reddit later doesn't solve anything, the responsibility is on you to react in that moment.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes victim-blaming by framing the woman's traumatized silence as a failure of personal responsibility rather than a normal trauma response, implicitly shifting moral burden from perpetrator to victim. It reflects the 'safety as her own responsibility' frame through advice-giving that positions the woman's inaction — not the groper's behavior — as the problem to be corrected.",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "claude"
+}

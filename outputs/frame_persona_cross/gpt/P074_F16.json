@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Deepa: Arre beta, har ghar mein jo jahan better hota hai wahi sambhalta hai. Tumhare papa bahar ke kaam, bills aur bank dekh lete hain, aur ghar ki planning, khana, sab main dekh leti hoon — isme bura kya hai, practical hi toh hai. Aajkal ke log equality ke chakkar mein har cheez fifty-fifty karna chahte hain, par ghar aise hi smoothly chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than socially enforced. It encodes the surface manifestation of 'he handles finances, she handles home' and the 'we chose this/practical arrangement' framing.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

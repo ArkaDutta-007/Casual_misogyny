@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Suno, agle hafte jo Sharma ji ke ghar shaadi hai, Priya ko bolna woh apni koi acchi si saree ya salwar suit pehne. Woh college wali jeans-top mein kya hi lagti hai aise bade function mein. Family event hai, thoda sabhya dikhna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly pressures the daughter to wear traditional attire (saree/salwar suit) for a family event, implying that her 'college वाली jeans-top' is not 'sabhya' (decent/respectable) enough for such an occasion. It connects clothing choice to perceived respectability, reflecting the 'Family events where women are expected/pressured to wear traditional dress' and 'Elegance/decency framing' surface manifestations.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gemini"
+}

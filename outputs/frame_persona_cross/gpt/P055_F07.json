@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre bol na usko, family function hai so something traditional will look more decent. Saree ya salwar mein ladki bhi graceful lagti hai and elders also feel she understands our values, western dress mein unnecessary attention hi aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to decency, grace, and moral values while implying western dress invites attention. It encodes family-event dress policing, traditional-wear superiority, and a subtle harassment-blame link.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, sometimes I just miss Maa ke haath ka khana so much. Woh taste, woh pyaar... aajkal kahan milta hai? She used to spend hours in the kitchen, making sure everything was perfect, and never once complained. Nowadays, everyone wants instant noodles or Swiggy. Maa ne humein kya sikhaya aur aaj kya ho raha hai. Real love is in effort, not convenience.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) as an ultimate expression of love and self-sacrifice, erasing the labor by stating she 'never once complained.' It implicitly compares modern women (including potentially his wife) unfavorably by contrasting his mother's tireless effort with the perceived laziness and desire for 'instant noodles or Swiggy' of today's women, setting an idealized domestic standard.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

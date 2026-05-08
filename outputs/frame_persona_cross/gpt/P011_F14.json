@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, ghar se door aake samajh aata hai maa ke haath ke khane ki value kya hoti hai. Roz itna sab bana deti thi with zero fuss, pure love. Honestly, shaadi ke baad bhi wahi feel aaye na khane mein, tabhi ghar jaisa lagta hai 🙂",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid cooking as natural love and sets it up as the standard a future wife should reproduce. It encodes labor erasure and an implicit comparison mechanism between mother and wife.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

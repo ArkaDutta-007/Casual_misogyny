@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Kamla: Aajkal ke ladke bhi na, seedha ladki ki baat kahan maante hain. Agar bol do mann nahi hai, phir bhi peeche padhe rahenge, lekin bas itna keh do ki gharwale rishta dekh rahe hain ya kisi ke saath baat pakki hai, tab samajh jaate hain. Isi liye ladki ko bhi thoda samajhdari se baat rakhni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes men ignoring a woman's own refusal and treats family/marital claim as the real boundary that deserves respect. It encodes the surface manifestation that pursuit stops only when she is seen as attached or spoken for, not when she says no herself.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

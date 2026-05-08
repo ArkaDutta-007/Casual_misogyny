@@ -1,0 +1,12 @@
+{
+  "persona_id": "P103",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre beti, kya bataun tujhe. Woh Sharma ji ka beta, Pappu, uski biwi toh bechari goli kha rahi hai aajkal. Pata hai na, woh naya ladki jo office mein aayi hai, usi ne sab gadbad ki hai. Janti thi woh shaadi shuda hai, phir bhi 'friendship' badha rahi thi. Aise log ghar todne ke liye hi paida hote hain, bilkul serial ki vamp lagti hai. Bechara Pappu toh seedha-sadha hai, usko kya pata tha.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it entirely blames the 'other woman' (the 'naya ladki' from office) for an affair, framing her as a 'homewrecker' ('ghar todne wali', 'serial ki vamp') who knew the man was married. The man is excused as 'bechara' and 'seedha-sadha', embodying blame asymmetry and the 'seductress' trope.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gemini"
+}

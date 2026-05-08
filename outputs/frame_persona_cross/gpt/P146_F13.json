@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I prefer women who keep it natural yaar. Thoda presentable rehna is fine, but these days some girls put so much makeup that you can't even tell how they actually look, and then if they make zero effort people say they've let themselves go.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it subjects women to a double bind: they must be attractive and 'presentable' but are criticized if their makeup is visible or if they do too little. It encodes the natural-vs-artificial policing and deception framing central to the makeup paradox.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gpt"
+}

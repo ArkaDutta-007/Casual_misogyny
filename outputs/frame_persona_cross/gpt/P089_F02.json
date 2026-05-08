@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "These days in the office you must be careful before raising any serious point with the ladies. One small disagreement and suddenly it becomes a full emotional scene—probably just hormones acting up. Arre, I am only joking, don’t take it so seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as emotionally unstable and attributes disagreement to hormones rather than valid opinions. It encodes the surface manifestation of dismissing a woman's frustration as hormonal while hiding behind 'I am only joking.'",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

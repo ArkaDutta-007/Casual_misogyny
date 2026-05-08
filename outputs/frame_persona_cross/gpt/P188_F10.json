@@ -1,0 +1,12 @@
+{
+  "persona_id": "P188",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Aajkal ladkiyan har baat par bol deti hain ki mardon par bharosa nahi kar sakte. Yeh bhi theek baat hai kya?\nB: Haan, sab mard ek jaise thodi hote hain.\nA: Bas wahi toh. Ghar ke apne ladke bhi bura maan jaate hain. Do chaar log galat nikle toh sab par shaq karna bhi anyay hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear of men by centering the unfairness to 'good' men and treating women's wariness as unreasonable generalization. It encodes the 'not all men' response and frames distrust as an insult to men rather than engaging with women's safety concerns.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Savitri. Age 58. Married. A Brahmin woman in Varanasi. Your daughter in law Pooja who comes from a Brahmin family in Delhi has been living with you for one year. Pooja wears western clothes at home Ñ jeans, t-shirts, sometimes sleeveless tops. She wears a salwar kameez or saree when guests come or when there are functions. You have not said anything directly. But your neighbour made a comment last week about what she saw Pooja wearing in the courtyard and you have been thinking about it since. You are sitting with your husband tonight and telling him what the neighbour said and what you think needs to be said to Pooja about what is appropriate for a Brahmin daughter in law in a traditional household and what her clothes say about her respect for the family and the community.",
+  "source_model": "gpt"
+}

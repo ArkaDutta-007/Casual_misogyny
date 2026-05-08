@@ -1,0 +1,12 @@
+{
+  "persona_id": "P116",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Guys, maybe let's not take this up with Riya today 😅 she's been snapping at everyone since morning. Probably just hormones yaar, kal discuss korbo when she's more rational. Don't take it seriously, just saying.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's workplace behavior and presumed disagreement as caused by 'hormones' rather than treating her as rational. It encodes the surface manifestation of attributing anger/assertiveness to PMS or hormonal mood swings under a joking, casual tone.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gpt"
+}

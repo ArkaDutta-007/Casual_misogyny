@@ -1,0 +1,10 @@
+{
+  "persona_id": "P159",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Kavya, your profile is truly outstanding, very impressive. Just one final point from my side, and this is more about understanding your long-term vision and alignment with the demands of a senior role. This position is quite demanding, often requiring significant time and commitment beyond regular hours. How do you foresee managing such a rigorous role, especially considering your personal life and potential family commitments down the line? We value long-term association, so understanding your plan for this balance is important.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh singles out the female candidate to inquire about how she will manage a demanding senior role with her 'personal life and potential family commitments down the line.' This implies a conflict he wouldn't typically assume for a male candidate, encoding the 'Career vs Family Binary' by placing the burden of resolving this perceived conflict solely on her.",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Dekho, darr toh lagta hai, apni betiyon ke liye. But sometimes I feel hum auratein bhi sab mardon ko ek jaisa hi samajh leti hain. Sab mard aise nahi hote na? Mere husband ya mera beta... they are so respectful. Achhe mardon ko bhi bura lagta hai jab sabko blame karte hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Anita dismisses collective female fears by asserting 'not all men are like that'. She minimizes women's concerns by blaming 'us women' for generalizing, and centers the feelings of 'good men' (like her husband/son) who feel unfairly targeted, which is a surface manifestation of the F10 frame.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gemini"
+}

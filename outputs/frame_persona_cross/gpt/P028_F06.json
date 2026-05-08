@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro, she kept saying she's not interested, but later I found out she already has a boyfriend. Then obviously I backed off — not going to interfere in someone else's scene. If she had just said that clearly, no need for all that attitude.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he treats the woman's own refusal as insufficient and only respects her unavailability once another man is involved. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken' and framing her direct rejection as 'attitude.'",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, you know how they're pushing for that period leave policy now? I mean, I get it, some days are really bad. But honestly, if everyone starts taking 2-3 days a month, how will we hit sprint targets? Matlab, the company already has so much to manage with maternity leaves, aur ab yeh bhi? It just feels a bit unfair to the guys who have to cover for us, and ultimately, it hits our overall team performance and appraisal cycles, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Divya, a woman herself, expresses internalised misogyny by questioning the fairness and practical implications of menstrual and maternity leave policies. She uses economic and 'reverse discrimination' framing, suggesting these accommodations are a liability to the company and disadvantage male colleagues, encoding the core belief that women's reproductive choices make them a workplace burden.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Spoken conversation:\nA: That new regional director is very capable, no doubt, but these days one can never tell how such fast promotions happen.\nB: What do you mean, ma'am?\nA: I only mean merit should be the reason. Sometimes with women, either the system is trying to prove a point, or they become so hard and aggressive that people start calling it leadership. A truly balanced person need not become almost man-like to succeed.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as possibly driven by tokenism rather than merit and frames competent leadership in women as requiring masculinization. It encodes merit-undermining and the 'thinks like a man/too aggressive' double bind in a professional-sounding register.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

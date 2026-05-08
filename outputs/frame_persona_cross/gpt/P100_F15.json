@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Honestly I feel a married woman looks more settled with at least a little sindoor or mangalsutra. It’s not about control yaar, it’s just our tradition and a sign of saubhagya — aajkal girls call everything patriarchal, but some things are part of marriage only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that married women should visibly display marital status through body markers while framing it as culture and auspiciousness. It encodes completeness/tradition framing and mild judgment of women who reject these markers.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gpt"
+}

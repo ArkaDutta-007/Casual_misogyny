@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in our house we just do what is practical. I handle investments, bills, all the outside running around; my wife is anyway better at managing the kitchen, staff, and the day-to-day home routine. Sometimes on Sundays I make breakfast and everyone says wah, what a modern husband, but day to day jo jahan better hai wohi sambhale na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as merely 'practical' and assumes the man should manage finances/external tasks while the woman manages domestic work. It also encodes the low bar for male contribution by presenting occasional cooking as exceptional and praiseworthy.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gpt"
+}

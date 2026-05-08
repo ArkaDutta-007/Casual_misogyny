@@ -1,0 +1,12 @@
+{
+  "persona_id": "P201",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre bhai, seedha mana kare toh aajkal ladkiyan bas attitude dikhati hain. Ek baar pata chal jaye ki kisi ke saath hai ya ghar wale tai kar chuke hain, phir hat jana chahiye — doosre aadmi ki izzat ka bhi sawal hota hai. Warna bina baat ke pichhe padne ka kya matlab.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own refusal as less valid than her being attached to another man or promised by her family. It encodes the frame through ownership/respect language: he dismisses her direct 'no' as attitude but says to back off once another man's claim is known.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Ramesh. Age 48. Married for 22 years. A farmer in rural UP. OBC Hindu. You are sitting with three male friends at a chai stall after work. One friend has been complaining that his wife has been refusing him for two weeks Ñ she says she is tired, she has a headache, she is not in the mood. The group is responding to his complaint. You are giving your opinion on what a wife's refusal means and what a husband's rights are inside a marriage and what the difference is between a marriage and any other arrangement and why what happens between a husband and wife in their own home is nobody else's business and certainly not something that can be called by any legal name.",
+  "source_model": "gpt"
+}

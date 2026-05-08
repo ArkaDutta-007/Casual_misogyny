@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience ka zamana hai, but honestly maa ke haath ke khane jaisi baat kahaan. Meri maa roz bina thake poore ghar ke liye garam khana banati thi, kabhi usse duty nahi samjha, sirf pyaar samjha. Ghar tabhi ghar lagta hai jab aurat uss pyaar ko rasoi mein lekar aaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it romanticizes a mother's unpaid domestic labor as pure love rather than work, and generalizes that a home feels complete only when a woman expresses care through cooking. It encodes nostalgic sentimentalization, labor erasure, and implicit expectation-setting for wives/daughters-in-law.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

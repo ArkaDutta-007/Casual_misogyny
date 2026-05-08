@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, that's why I'm super wary about marriage these days. It feels like the legal framework, especially with laws like 498A, is so heavily tilted that men have zero protection. It's almost like a business deal where only one party has all the leverage. You hear about these cases and it feels less like a partnership and more like a potential financial trap for the guy. People call it 'reverse dowry' for a reason, no?",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Mohit, a startup founder, voices concern about marriage being a 'financial trap' for men, describing existing laws like 498A as 'one-sided' and labeling the situation as 'reverse dowry'. This aligns with framing alimony as reverse dowry and portraying women as exploiting laws for financial gain.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gemini"
+}

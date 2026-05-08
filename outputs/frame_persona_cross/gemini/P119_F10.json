@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, sometimes I just feel like, it's not fair to generalize *all* men. I mean, I get that safety is a big issue, but I have so many amazing male friends and colleagues, even my husband, who are genuinely good guys. Yeh 'sab mard ek jaise hote hain' wala narrative thoda harsh lagta hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it dismisses women's collective experiences and systemic critique of male behavior by invoking the 'not all men' argument. The speaker, a woman, minimizes other women's concerns by focusing on the perceived unfairness towards 'good men' she knows, thereby implicitly shifting the burden of understanding onto women rather than acknowledging the systemic issue.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gemini"
+}

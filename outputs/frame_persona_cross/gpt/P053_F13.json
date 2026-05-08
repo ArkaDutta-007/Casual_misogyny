@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I don't get why some girls put so much makeup and then say it's just for themselves. Natural look is always better, warna real face aur Instagram face mein itna difference ho jata hai that it feels misleading. At the same time, basic grooming toh hona chahiye, completely careless bhi achha nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women under a double bind: criticizing visible makeup as deceptive while also expecting 'basic grooming' and penalizing women who appear not to maintain themselves. It encodes the natural-vs-artificial policing, deception framing, and the assumption that women's appearance is to be evaluated by others.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

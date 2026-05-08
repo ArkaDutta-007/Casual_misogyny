@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab convenience ka zamana ho gaya hai, lekin sach kahun toh maa ke haath ke khane ki baat hi alag thi. Itni zimmedariyon ke beech bhi ghar ke sab logon ka khayal rakhti thi, bina kabhi usse burden samjhe. Ghar tabhi ghar lagta hai jab aurat usmein apna pyaar aur samarpan is tarah se daale.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a woman’s worth through cooking and self-sacrificing domestic service, while erasing that labor as love rather than work. It encodes nostalgic praise of the mother and sets an implicit expectation that women make a home through unpaid care.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

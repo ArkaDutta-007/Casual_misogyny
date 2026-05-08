@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, these things do not happen without the woman encouraging it. If she knew he was married and still kept that equation, then she is the one breaking a family; the man may have been foolish, but this kind of behaviour from a woman is very dangerous. Bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment shows blame asymmetry by excusing the married man as merely foolish while holding the woman primarily responsible for the affair. It encodes the 'homewrecker' and seductress framing, including the idea that she 'knew he was married' and is 'breaking a family.'",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Sameer: Yaar, I get being supportive, but if hospitals start giving period leave and then long maternity breaks also, workload toh baaki logon pe hi aata hai. Fairness ka bhi toh scene hai na—men also do the same duty hours, but for us there is no equivalent leave.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstrual and maternity-related accommodations as unfair special treatment and a burden on male coworkers. It encodes the 'what about men?' fairness framing and productivity/workload objections typical of menstrual and maternity leave bias.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

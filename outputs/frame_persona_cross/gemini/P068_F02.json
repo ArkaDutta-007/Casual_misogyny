@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Achha, achha, Neha. Relax, relax. Why are you getting so worked up over small things? Is it that time of the month, haan? Thoda chill kar, itna serious mat le sab kuch.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Rajan dismisses his daughter's frustration by directly asking if it's 'that time of the month', explicitly linking her emotional state to her menstrual cycle. This is a direct surface manifestation of F02. He further uses dismissive language like 'chill kar' and 'itna serious mat le sab kuch' to invalidate her feelings.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gemini"
+}

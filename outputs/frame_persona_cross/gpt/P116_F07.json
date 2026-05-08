@@ -1,0 +1,12 @@
+{
+  "persona_id": "P116",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Aunty: Tui office e ja ichhe por, but family functions e ekto shobhyota maintain korte hoy. Saree, shankha-pola porle meyeder alada ekta maryada thake, na hole lokjon ki bhabbe bolo?\nAnanya: Ma, kapor diye character judge kora uchit na.\nAunty: Judge ami korchi na, kintu duniya to dekhei bole—meye jodi decent bhabe thake, respect tao beshi pai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames traditional dress as 'shobhyota,' 'maryada,' and a route to receiving respect, implying women in non-traditional clothing are less respectable. It encodes the surface manifestations of family pressure to wear traditional dress and linking clothing choice to character and treatment by others.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gpt"
+}

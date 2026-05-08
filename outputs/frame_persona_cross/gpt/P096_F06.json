@@ -1,0 +1,12 @@
+{
+  "persona_id": "P096",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Meena: Aajkal ke ladke bhi na, ladki mana kare toh samajhte hi nahi. Hamari colony ki ek ladki bol rahi thi usne seedha no kaha, phir bhi woh peeche pada raha. Jaise hi pata chala ki uska koi boyfriend hai, turant hatt gaya—matlab ladki ki baat ki izzat nahi, bas kisi aur mard ka haq samajh aaya.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes a social logic where a woman's refusal alone is not treated as sufficient until another man's claim is known. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken,' prioritizing male ownership over female consent.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gpt"
+}

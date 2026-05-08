@@ -1,0 +1,10 @@
+{
+  "persona_id": "P097",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly yaar, I've always preferred girls who go natural — my girlfriend barely wears anything and that's what I love about her, she's confident enough to not need it. Heavy makeup is just a red flag for me personally, like what are you hiding, you know? It tells you something about the person — are they trying too hard to impress, are they insecure, is this even the real them? Natural girls are just more honest, more low-maintenance, and that translates into personality too in my experience. I get that society puts pressure on women to look a certain way but then when they actually do it, I'm sorry, it puts me off — like you're just going along with the crowd instead of being yourself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes casual misogyny through the 'makeup as moral character' trope — equating cosmetic choices with honesty, confidence, and authenticity, and pathologizing women who wear makeup as 'hiding something' or 'insecure.' This reflects the Makeup Paradox frame: women are culturally pressured to wear makeup yet judged negatively for it, while the speaker positions his preference as neutral personal taste rather than a judgmental double standard.",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "claude"
+}

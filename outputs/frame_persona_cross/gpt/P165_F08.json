@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bilkul serial wali baat hai yaar. Agar usse pata tha banda married hai, toh thoda distance rakhna chahiye tha na—aisi women hi ghar tudwa deti hain, aadmi kabhi kabhi behak jaate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment blames the woman for the affair and frames her as responsible for protecting the family, while excusing the man as someone who merely 'got carried away.' It encodes blame asymmetry and the 'homewrecker' trope.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

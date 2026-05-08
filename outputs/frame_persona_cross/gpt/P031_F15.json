@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Modern hone mein koi problem nahi hai, but shaadi ke baad thoda sindoor ya mangalsutra pehenne se hi to suhagan wali pehchaan dikhti hai. Hamari parampara ka hissa hai, isme oppression dekhna zaroori nahi. Aajkal kuch ladkiyan isko bhi ego issue bana deti hain, phir marriage ka respect kahan raha?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as a natural and respectable duty of married women, while judging women who do not wear them. It encodes tradition framing, completeness/identity signaling, and disapproval of non-wearing.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

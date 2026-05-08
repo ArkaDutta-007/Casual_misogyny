@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "They are just words, Bhai. We use them for emphasis, that's all. It's not like we actually mean anyone's mother or sister by it. And what's wrong with telling a boy to be a man (mard ban)? You can't expect them to grow up strong if you always speak softly (naram).",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment demonstrates the normalization of female-demeaning language by defending the casual use of gaalis as 'just words' without actual misogynistic intent. It also implicitly encodes the 'feminizing as insult' by linking 'soft' speech to weakness and presenting 'being a man' (mard ban) as the desired and strong alternative.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gemini"
+}

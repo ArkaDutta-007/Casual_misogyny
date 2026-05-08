@@ -1,0 +1,12 @@
+{
+  "persona_id": "P220",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "In any civilised society, a woman must be treated with dignity because she is not just an individual in isolation; she is someone's daughter, someone's wife, very often the mother who holds the family together. If young men are taught to see women in that light, much of our social coarseness will reduce.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and the basis for respecting them through their relationships to family roles rather than as autonomous persons. It encodes the 'someone's daughter/wife/mother' rhetoric and motherhood-as-respectability framing.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rajan. Age 56. Retired. A former judge in Chennai. You have presided over hundreds of family court cases including domestic violence and dowry cases. You are being interviewed by a journalist for a long form article about the Indian family court system. The journalist asks you whether you think Section 498A is misused. Your answer Ñ shaped by decades of actually sitting in judgment over these cases, seeing the evidence, watching both sides, making decisions Ñ is more complicated than either the men's rights narrative or the feminist narrative. But in the course of your answer you reveal specific assumptions about women's credibility, about what constitutes real abuse, and about what the purpose of these laws should be, that show how even a person with genuine legal expertise can carry the cultural bias of a lifetime into a courtroom.",
+  "source_model": "gpt"
+}

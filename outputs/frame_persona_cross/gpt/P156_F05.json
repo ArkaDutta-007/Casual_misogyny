@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi seedha rishta kam, settlement zyada lagti hai. Ladkon ko bhi bahut sambhal ke chalna chahiye, one-sided laws hain, 498A ka misuse kitna hota hai sab dekh rahe hain, aur divorce ho toh alimony ke naam pe aadmi ki poori mehnat chali jaati hai. Prenup jaisi cheez yahan bhi normal honi chahiye, warna aajkal ki ladkiyon mein kaun sach mein ghar basana chahti hai aur kaun sirf stability dekh rahi hai, samajhna mushkil hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially opportunistic in marriage and frames legal protections/alimony as tools to exploit men. It encodes victimhood inversion, 498A misuse rhetoric, and suspicion of women seeking 'stability' as gold diggers.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

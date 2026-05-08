@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, the way we talk about women also needs to change yaar — not just as individuals, but with the awareness that she is someone’s daughter today and someone’s wife or mother tomorrow. That basic thought itself brings more responsibility and respect in society.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman's value and deservingness of respect through her relations to family roles like daughter, wife, and mother rather than as a person in her own right. It encodes the 'someone's daughter/wife/mother' rhetoric and conditional respect via kinship roles.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

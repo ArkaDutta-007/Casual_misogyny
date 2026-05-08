@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Aajkal office mein bhi na, bas ladies ko aage kar dete hain dikhane ke liye. Jo nayi madam manager bani hai, pata nahi itni jaldi merit se bani ya quota se, kyunki kaam se zyada attitude dikhta hai. Aur sach bolo to jo aurat itne upar pahunchti hai, usko thoda mardon jaisa sochna hi padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's promotion by suggesting she advanced due to quota rather than merit, and frames competence as requiring her to think like a man. It encodes merit-undermining and masculinization in a casual, plausible spoken register.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

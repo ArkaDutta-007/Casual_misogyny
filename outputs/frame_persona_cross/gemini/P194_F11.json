@@ -1,0 +1,12 @@
+{
+  "persona_id": "P194",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Meri wife ne toh poori zindagi hamare ghar aur bachchon ke liye kurbaan kar di. Sach mein, woh toh ghar ki Laxmi hai. Uske bina toh hamara ghar adhoora hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak praises his wife, but frames her entire worth and identity around her sacrifices for the family and her role as the 'Laxmi' (goddess of prosperity) of the house. This erases her individual personhood and values her solely through her service to male kin, encoding 'sacrifice glorification' and 'personhood erasure'.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "gemini"
+}

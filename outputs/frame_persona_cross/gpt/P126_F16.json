@@ -1,0 +1,12 @@
+{
+  "persona_id": "P126",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre bhai, hum logon ne practical division rakha hai. Main bahar ke kaam, finances aur heavy cheezein dekh leta hoon, aur ghar-ghar ka system naturally usko better aata hai. Kabhi zarurat ho toh main help kar deta hoon, but daily cooking-kids ka rhythm women hi zyada achha sambhal leti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes women as better suited to childcare and household management while positioning the man's role as external and financial. It encodes the 'practical division' and 'he helps her' framing common in urban dual-income households.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Deepak. Age 41. Married. A man in Pune. Your wife Sheetal works as a nurse on rotating shifts including night shifts. On the days she works nights she sleeps during the day. You are alone at home with your two children aged 7 and 4 on those days and you manage everything Ñ school pickup, cooking, cleaning, bedtime. Your male colleague just asked you how you manage and whether it is difficult. You are answering him. Your answer reveals that you see your management of the household on those specific days as a heroic and exceptional effort rather than as a normal division of domestic responsibility Ñ and that on the days Sheetal is not on night shift the assumption immediately reverts to her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre yaar, kal society function mein Neha ko saree mein dekha, bilkul graceful aur decent lag rahi thi. Main toh hamesha kehta hoon, Indian dress mein personality alag hi dikhti hai; aajkal jo itne modern kapde pehente hain na, phir log comment karein toh bura bhi lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability to traditional clothing and subtly blames harassment/commentary on women wearing 'modern' clothes. It encodes the 'traditional = decent' compliment and the clothing-harassment link surface manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

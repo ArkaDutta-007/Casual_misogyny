@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, after kids the mother has to be the default parent no, especially in the early years. Fathers can help as much as possible, but school, food, doctor visits — these things naturally fall on the mom only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare and domestic responsibility as naturally belonging to mothers, while fathers are positioned as optional helpers. It encodes the surface manifestation of assuming the mother will handle routine parenting labor and treating paternal involvement as extra.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

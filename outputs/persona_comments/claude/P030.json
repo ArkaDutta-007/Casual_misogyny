@@ -1,0 +1,10 @@
+{
+  "persona_id": "P030",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Yaar, Dr. Priya handled that case well, no doubt. But come on — she had three attendings watching over her shoulder the whole time, and Mehta sir was basically guiding every step. Agar main bhi itna backup pata, I'd have managed it too. Isko itna bada deal kyun bana rahe hain sab?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sameer acknowledges the female senior's competence on the surface but immediately undermines it by attributing her success to external support rather than her own skill — a classic 'she only succeeded because of help' deflection. This encodes the belief that women's professional achievements are less legitimate than men's, framed as a neutral observation about fairness.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "claude"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P056",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Hey everyone, feeling really low after office today. My senior colleague just pulled me aside and told me to be 'careful' with what I wear, like sleeveless stuff, because apparently male managers notice and it affects how seriously they take you. I guess she has a point, especially in our kind of setup. You don't want to give any wrong impression, na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This message reflects internalized misogyny, as the character questions her own attire and considers conforming to a conservative dress code to avoid giving a 'wrong impression' and to ensure professional respect. She validates the idea that women's clothing choices are responsible for how they are perceived professionally by men, encoding the belief that 'Other Equal Questionable'.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gemini"
+}

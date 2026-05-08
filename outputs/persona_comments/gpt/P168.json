@@ -1,0 +1,10 @@
+{
+  "persona_id": "P168",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Rohit: Profile toh bahut strong hai, Mummy, PhD in economics and all, but honestly thoda zyada hi qualified lag rahi hai. Kal ko har baat mein correct karegi toh adjust karna mushkil ho jayega.\nMother: Haan beta, itni padhai bhi kya fayda if ghar sambhalne mein interest hi na ho. Thoda balanced ladki better rehti hai, warna pati se upar sochne lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's high education as a liability in marriage and implies she should not intellectually surpass her husband. It encodes the idea that female education is acceptable only if it remains subordinate to domestic roles and male authority.",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gpt"
+}

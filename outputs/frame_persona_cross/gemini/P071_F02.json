@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Haha, sounds like our new manager is just having one of those 'extra emotional' days, yaar. Best to just nod and agree. Don't take it too seriously, bro.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment dismisses a woman's professional demeanor or potential assertiveness as mere 'emotionality' likely linked to hormonal fluctuations. It uses the indirect phrase 'extra emotional days' and dismissive advice ('just nod and agree', 'don't take it too seriously') to invalidate her reactions, fitting the 'hormones and mood' frame.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gemini"
+}

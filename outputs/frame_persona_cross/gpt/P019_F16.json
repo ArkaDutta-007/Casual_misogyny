@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in most homes this arrangement works best only. The husband handles finances, outside work, repairs and all that, and the wife manages the kitchen, children, and day-to-day running of the house—jo jahan better hai, why make it into a gender issue? These days if a man even helps a little with cooking people call him very modern, but practically speaking, women usually manage the home side more efficiently.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than socially enforced. It encodes the frame through 'jo jahan better hai,' assigning men to finances/external tasks and women to domestic management, while praising minimal male domestic contribution as exceptional.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

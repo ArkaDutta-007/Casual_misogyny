@@ -1,0 +1,10 @@
+{
+  "persona_id": "P075",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "This is scary and I genuinely feel bad for her, no woman should have to deal with this. But realistically, society isn't changing tomorrow — so while we keep fighting for that, women also need to be more aware: share location with a friend, walk into a shop, call someone loudly. Expecting the system to protect you in the moment is just not practical yaar. Take care of yourself first, the bigger change will take time. #WomenSafety #DelhiSafety",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment opens with sympathy to appear reasonable but pivots to placing the burden of safety on the victim rather than the harasser or systemic failure — a classic victim-responsibility deflection. It encodes 'safety as her own responsibility' by framing structural change as idealistic and individual female precaution as the only 'practical' solution, implicitly suggesting the woman's situation was a failure of her own preparedness.",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "claude"
+}

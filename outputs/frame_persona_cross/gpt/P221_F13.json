@@ -1,0 +1,12 @@
+{
+  "persona_id": "P221",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "I don’t get girls who put full makeup for college da, in real life they look so different only. Natural ah being neat is enough, otherwise it just feels like trying too hard for attention 🙃",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's grooming and frames visible makeup as deceptive and attention-seeking. It encodes the 'natural > artificial' double bind and the assumption that makeup is done for male attention rather than for oneself.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Meena. Age 19. A college student in Chennai. You are in your college's unofficial girls WhatsApp group. Someone has posted about a female classmate named Divya who is always seen with the boys in the class Ñ she eats with them, studies with them, hangs out with them. The group has been discussing Divya for the past hour. You are one of the people commenting. What you say about Divya and why you say it and what words you use and what conclusion the group reaches about what kind of girl Divya is Ñ all of this is the content of this persona.",
+  "source_model": "gpt"
+}

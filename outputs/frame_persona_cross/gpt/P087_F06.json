@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre bhai, pehle toh mana kar rahi thi, but I thought normal attitude hai. Jab pata chala uska boyfriend hai, then I stepped back. Aise matter mein line cross nahi karte, respect dena chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he dismisses the woman's direct refusal as mere 'attitude' and only stops pursuing her after learning she has a boyfriend. It encodes the surface manifestation of respecting another man's claim over the woman's own consent.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

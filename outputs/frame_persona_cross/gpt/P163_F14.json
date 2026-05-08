@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "WhatsApp status: Maa ke haath ka khana aur uska pyaar, uski jagah koi nahi le sakta. Ghar ki aurat jab bina ginte sabke liye roz banaati hai, tabhi ghar ghar lagta hai. Aajkal sab kuch ready milta hai, par woh sanskar aur mamta taste mein tabhi aati hai when a wife or bahu puts her heart into the kitchen too.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes women's domestic labor as love and moral duty rather than work. It encodes the mother's cooking ideal and extends it as an expectation for wives/daughters-in-law to reproduce the same unpaid kitchen service.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gpt"
+}

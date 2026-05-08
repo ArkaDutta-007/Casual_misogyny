@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, I think it's about playing to your strengths. My wife is super organized with ghar ka kaam and the kids' routines, she just has that knack. I'm more into managing the finances and the 'outside' stuff. That's just how we've always done it, works perfectly for us. Practicality, right?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment exemplifies the 'Gendered Division of Chores via 'Practicality'' frame (F16) by framing traditional gender roles in household labor as a matter of 'playing to your strengths' and 'practicality'. It aligns with surface manifestations like 'He handles finances, she handles home' described as a natural/efficient division, and the 'we just fell into these roles' narrative. The use of 'knack' naturalizes the wife's role in 'ghar ka kaam' and childcare, while the husband handles 'finances and the 'outside' stuff'.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

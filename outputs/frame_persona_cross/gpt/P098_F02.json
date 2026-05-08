@@ -1,0 +1,11 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Guys, can we not make every disagreement about \"PMS\" or \"time of the month\"? The minute a woman is firm in a meeting, suddenly she's hormonal. It's not funny, it's just a lazy way to dismiss her.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic because it explicitly criticizes the practice of reducing women's views to hormones. It references the frame's surface manifestations only to reject them.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

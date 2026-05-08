@@ -1,0 +1,12 @@
+{
+  "persona_id": "P069",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, I feel bad for the director and his wife. I mean, intern ko toh pata hoga na he's married? Itni bar lunches pe jaana, woh bhi in office... it's just asking for trouble. Aise log hi ghar todte hain, yaar. She must know what she's doing.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates blame asymmetry by expressing sympathy for the married director and his wife, while entirely blaming the female intern. It employs the 'she knew he was married' and 'asking for it' tropes, framing the woman's professional interactions as suspicious and implicitly labeling her a 'homewrecker' ('ghar todte hain') responsible for potential marital breakdown.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "gemini"
+}

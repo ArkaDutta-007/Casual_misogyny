@@ -1,0 +1,12 @@
+{
+  "persona_id": "P164",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Kamla: Arre beta, ghar mein har kaam baantne ka bhi ek tareeka hota hai. Mard log bahar ke hisaab-kitab, bank, bazaar dekh lete hain, aur aurat ghar, rasoi, bachchon ko sambhal leti hai, isi mein suvidha rehti hai. Aajkal ki ladkiyan sab karna chahti hain, par jo jahan theek lage wahi kaam kare to ghar shaanti se chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and efficient rather than explicitly discriminatory. It encodes the surface manifestation of 'he handles outside/finances, she handles home' and resists role change through a 'jo jahan theek lage' framing.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gpt"
+}

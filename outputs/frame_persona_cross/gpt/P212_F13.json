@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, aajkal ki ladkiyon ka bhi ajeeb hai. Office jana ho to itna makeup karengi ki asli chehra alag hi lage, phir bolengi hum apne liye karte hain. Aur bilkul bina tayyar hue niklein to log kahenge apna khayal hi nahi rakhti — simple, saaf-suthra aur natural rehna chahiye bas.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: criticizing visible makeup as deceptive while also expecting women to maintain their looks. It encodes the 'natural beauty' preference, makeup-as-deception framing, and the expectation that women must remain attractive without seeming to try.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

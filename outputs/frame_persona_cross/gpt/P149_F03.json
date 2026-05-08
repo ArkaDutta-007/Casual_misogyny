@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre beta, job achchi baat hai, but bachche ho jaayein na toh unka routine, school, tabiyat sab maa hi dekhti hai in the end. Aadmi log help kar dete hain, lekin maa jaisa kaun samjhega? Career baad mein bhi sambhal sakti ho, bachchon ka bachpan dobara nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as the mother's primary responsibility and frames fathers as merely 'helping.' It also invokes guilt and career-sacrifice framing by suggesting a woman should deprioritize work once she has children.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gpt"
+}

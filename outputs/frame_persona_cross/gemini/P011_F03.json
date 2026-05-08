@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Priya got the lead for the new Singapore project? Wow. But her twins are hardly 5... who's gonna manage all that travel and workload with them? Hope her husband is super supportive.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, framed as concern, questions a female colleague's ability to balance a demanding career opportunity with her young children, implicitly assuming childcare is her primary domain and her husband's role is merely to be 'supportive' (going above and beyond). It aligns with the 'who will raise the children?' and 'expecting the mother to sacrifice career/location' manifestations.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

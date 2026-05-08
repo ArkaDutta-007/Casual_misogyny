@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre, aaj kal to office mein aurat ko upar bithana bhi fashion ho gaya hai. Kaam kitna aata hai woh baad ki baat, quota ho ya kisi bade aadmi ki nazar ho to kursi mil hi jaati hai.\nB: Haan, aur jo thodi tez nikle to log bolte hain wah bahut strong hai.\nA: Strong kya, beta, seedha mardon jaisi ho jaati hain. Ghar-grihasthi ka lehja hi nahi rehta, phir bolte hain leadership hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as due to quotas or male patronage rather than merit, and frames competent women as becoming 'like men.' It encodes merit-undermining and masculinization, presented as a casual, sincere opinion.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

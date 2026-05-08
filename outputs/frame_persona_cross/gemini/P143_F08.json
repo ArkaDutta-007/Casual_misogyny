@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Lakshmi, did you hear about Mr. Rao from next street? With that young lady from his office? Such a shame! What to say? That girl, she knew he was a married man, still she went and got involved. See, men are like that only, little weak sometimes, but these women, they know how to trap them. Always breaking families, just like in those TV serials, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Sunita's comment blames the woman entirely for the affair, excusing the man as 'weak' and accusing the woman of 'trapping' him and 'breaking families', directly aligning with the Homewrecker Framing surface manifestation and TV serial tropes.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gemini"
+}

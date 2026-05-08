@@ -1,0 +1,12 @@
+{
+  "persona_id": "P151",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre, aajkal company walon ko bhi na balance dikhana hota hai, isliye aisi promotions jaldi de dete hain.\nB: Par kaam achha karti hogi tabhi mila hoga.\nA: Kaam apni jagah, lekin jo aurat itni upar pahunchti hai na, ya to bilkul mardon jaisi soch rakho, ya phir kisi senior ka khaas bharosa ho. Seedhe merit se sab thodi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as not being based on merit, attributing them instead to diversity balancing or favoritism. It encodes merit undermining and masculinization ('mardon jaisi soch') as the explanation for women's leadership success.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya who is 27 works as a software engineer in Pune and has just been offered a promotion that requires her to move to Bengaluru. She called you excited about it. You said congratulations on the phone. But you are not happy. You are sitting with your wife after the call. You are telling your wife what you actually think about this promotion and what it means for Priya's marriage prospects and what kind of life she is building and whether a woman who keeps chasing the next thing will end up with everything professionally and nothing personally and what you plan to say to her when she calls again tomorrow.",
+  "source_model": "gpt"
+}

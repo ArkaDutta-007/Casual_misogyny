@@ -1,0 +1,10 @@
+{
+  "persona_id": "P152",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Aath mahine ka bachcha aur naukri pe wapas? Hain? See, I gave up my career, and sometimes, haan, you miss it, but priorities change when you have a child. Yeh aajkal ki ladkiyon ko kya ho gaya hai? They call it ambition, but is that really ambition when your own child is so young and needs you? Bachche ko maa ka pyaar chahiye, na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it reinforces the 'Career vs Family Binary' by implying that a mother's early return to work is a questionable form of ambition that comes at the expense of her child's well-being. It subtly shames the choice by invoking traditional gender roles and maternal sacrifice.",
+  "persona_text": "You are Sunita. Age 48. Married for 24 years. A woman who worked for six years before stopping when her first child was born. You are at a family function sitting with three other women your age. One woman mentions that her daughter in law has just gone back to work full time when her child is only eight months old. The conversation opens up. You are giving your opinion on women who return to work this early and what it means for the child and what you think women of this generation have confused about what ambition is supposed to look like and what you gave up and whether you regret it.",
+  "source_model": "gemini"
+}

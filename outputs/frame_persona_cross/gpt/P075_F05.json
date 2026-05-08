@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly bhai, marriage for men in India is becoming risky. One divorce and suddenly alimony, 498A, maintenance — everything is one-sided, and aajkal a lot of girls are more interested in stability than the person. Prenup should be normal here too, otherwise reverse dowry hi hai basically.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially motivated and frames legal protections and alimony as tools women use to exploit men. It encodes the 'reverse dowry' framing, suspicion of women seeking financial security, and the claim that laws like 498A are one-sided/misused.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi ladkon ke liye risk ho gayi hai. Kal tak dahej ka dar tha, ab divorce ke baad alimony aur 498A ka dar alag; sunne mein aata hai bahut cases jhoothe nikalte hain, phir bhi aadmi hi phas jata hai. Isliye main to kehta hoon, ladke walon ko pehle se sab legal protection dekh lena chahiye, warna baad mein pata chalta hai ki saamne wali ko sirf settled life chahiye thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as exploiting marriage and divorce laws for money and generalizes suspicion toward women seeking financial security. It encodes victimhood inversion, 498A misuse discourse, and the idea of alimony as a form of 'reverse dowry' requiring men to protect themselves.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

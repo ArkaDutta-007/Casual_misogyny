@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, I get ki college fest hai, have fun and all, but these girls jo itni short dresses pehen ke raat ko open mein dance karti hain, they need to be more careful. Tumhe pata hai zamaana kaisa hai, boys will be boys. Apne aap ka dhyan khud rakhna padta hai, warna log toh ghoorenge hi aur chances hain ki koi follow bhi kar le.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rohit's comment blames women for their choice of clothing and public behavior ('short dresses', 'open mein dance'), framing male predatory behavior as 'natural' ('boys will be boys') and inevitable. He disguises this as 'practical advice' and 'being careful', placing the onus of safety entirely on the women themselves, a core manifestation of F09.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in most urban marriages also, jo jahan better hai wohi handle karta hai. Usually guys are better with money, repairs, dealing with outside work etc, and women are naturally better at managing the house, food, kids and all that, so splitting it that way is just practical. If a husband makes chai once in a while people call him super modern, but day to day ghar toh wife hi sambhalti hai better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as 'practical' and assumes men are inherently better at finances/external tasks while women are better at domestic work and childcare. It encodes efficiency framing, naturalization, and the 'modern husband' low-bar celebration described in the frame.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

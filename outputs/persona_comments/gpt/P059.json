@@ -1,0 +1,10 @@
+{
+  "persona_id": "P059",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Kamala: Kal ki sagai mein dekha na, Ritu ne saree tak nahin pehni. Pehli baar sasural walon se milne aa rahi thi, thoda toh parampara ka dhyan rakhti.\nSister-in-law: Haan, aajkal ki ladkiyan bas apni marzi dekhti hain.\nKamala: Bas wahi chinta hai, jo ladki kapdon mein ghar ki reet na samjhe, woh kal ko parivaar ki izzat aur maryada ko kitna maan degi, dekhna padega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it judges the woman’s character, suitability as a daughter-in-law, and respect for family values based on her clothing. It encodes the frame that traditional dress equals respectability while non-traditional dress makes a woman morally questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

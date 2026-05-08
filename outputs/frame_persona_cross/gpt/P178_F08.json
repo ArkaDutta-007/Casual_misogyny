@@ -1,0 +1,12 @@
+{
+  "persona_id": "P178",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre didi, aadmi kabhi kabhi behak jaate hain, but that woman knew very well he was married. Phir bhi itna chipakna, office ke naam pe message karna, bilkul serial wali ghar todne wali harkat hai. Ghar barbaad karne mein uska hi zyada haath hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment shows blame asymmetry by excusing the married man as someone who merely 'strayed' while placing primary blame on the woman as a 'homewrecker.' It encodes seductress framing and family-protection rhetoric, especially through 'she knew he was married' and 'ghar todne wali' language.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Meena. Age 44. Married for 20 years. A homemaker in Jaipur. You have been managing the household budget for two decades Ñ groceries, utilities, school fees, medical expenses, everything. You know exactly where the money goes and where it can be saved. Your husband has called a family meeting to discuss finances because things have been tight. He has invited his brother and his brother's wife. You are in this meeting. When you try to share specific observations about where the budget is bleeding your husband says let the men talk first and we will hear from you after. You are sitting with this sentence for a moment. What you do next Ñ whether you wait, whether you speak anyway, whether you leave the room Ñ and what you say to your sister on the phone tonight about what happened is the content of this persona.",
+  "source_model": "gpt"
+}

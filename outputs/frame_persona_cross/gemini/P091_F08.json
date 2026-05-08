@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Boss, suna tune woh Sameer aur uski office wali ka drama? Pura ghar tod diya bechare Sameer ka us ladki ne. Ekta Kapoor serials jaisa scene hai. Pata nahi kaise log itne shameless ho jaate hain, pata tha ki banda married hai phir bhi usse phasa liya.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, using phrases like 'pura ghar tod diya' (broke the whole home) and 'usse phasa liya' (trapped him), while implicitly excusing the man as 'bechare Sameer' (poor Sameer). It explicitly references the 'Ekta Kapoor serials' trope, aligning with India-specific context for 'other woman' villainy. This encodes the surface manifestation of blaming the female party for 'breaking' a family and portraying her as a seductress.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gemini"
+}

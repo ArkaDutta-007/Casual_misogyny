@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kamla: Beta, zamaana bahut kharab hai, ladki ko akeli subah-subah ya raat-biraat nikalna theek nahi. Kal ko kuch ho jaye to sabse pehle yahi poochte hain na, akeli kyun thi, kis ke saath thi. Apna dhyaan rakhna bhi samajhdari hai, zaroori kaam ho to kisi ke saath jao.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes restricting their movement instead of challenging male violence. It uses protective language and post-assault questioning cues like asking why she was alone or with whom.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre, tension mat le. Sometimes they just get like this, you know? Just give her some space, let her 'mood swings' pass. Hormones ka chakkar hai, I'm telling you. Don't take it too seriously.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic as it dismisses a woman's emotional state and frustration by attributing it to hormones and 'mood swings', thereby invalidating her feelings. It encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P224",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Rohit: Main blame nahi kar raha, but practical baat hai yaar—raat ko late akele travel karna, random cabs lena, ya parties se late nikalna avoid karna chahiye. Zamana theek nahi hai, aadmiyon ko overnight change nahi kar sakte, so girls also have to be careful about where they go, what time, and who they're with.\nBrother: Haan, sahi hai, aajkal safe rehna bhi khud dekhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily their own responsibility and treats male predatory behavior as inevitable. It encodes protective/practical advice, restriction on movement at night, and the 'men won't change, so women must adapt' surface manifestation.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Rohit. Age 30. Married for two years. A man in Hyderabad. Your wife works at an IT company. She has a male best friend from college Ñ they have been friends for eight years, you knew about this friendship before you married her, you have met him, he is a decent person. But lately they have been texting more Ñ she mentioned he is going through a difficult time and she has been supporting him. You are not accusing her of anything. But something has been building in you. You are on a phone call with your brother tonight telling him about the friendship and what has changed and what you think the appropriate limits of a married woman's friendship with a male friend should be and why those limits matter.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly in a lot of corporates, when a woman gets fast-tracked to leadership, people are scared to question it because then you look anti-diversity. Merit should be the same for everyone, but many of these promotions feel more like quota optics than actual capability. And if she is genuinely good, people immediately say she is tough and thinks like one of the guys — which itself tells you how rare that is.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by framing their advancement as diversity-driven rather than earned. It also uses masculinization as a backhanded compliment, implying competence in leadership is male-coded and anomalous in women.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

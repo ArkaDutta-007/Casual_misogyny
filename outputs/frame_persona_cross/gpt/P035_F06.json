@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Beta, seedha pooch lena uska koi boyfriend-voyfriend toh nahi hai. Aajkal ladkiyan na bol deti hain, phir baad mein pata chalta hai kisi ke saath hoti hain, toh beizzati alag hoti hai. Agar kisi ki hai toh door rehna, warna itna attitude dikhane ka kya matlab.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's rejection as less valid than her attachment to another man, and suggests backing off primarily if she is 'someone's'. It encodes the surface manifestations of asking about a boyfriend as the real filter and framing her direct disinterest as mere 'attitude'.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

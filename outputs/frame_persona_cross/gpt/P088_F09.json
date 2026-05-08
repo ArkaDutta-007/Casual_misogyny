@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Sunita: Main toh apni beti ko hamesha bolti hoon, zamaana theek nahi hai, shaam ke baad akeli mat niklo.\nGeeta: Haan, aajkal kisi ka bharosa nahi.\nSunita: Bas practical baat hai, baad mein kuch ho jaye toh log bhi poochte hain itni raat ko kyun thi aur kis ke saath thi. Ladki ko apna khayal khud hi rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and normalizes restrictions on women rather than questioning male violence. It encodes protective framing, restriction advice, and post-assault victim questioning ('itni raat ko kyun thi', 'kis ke saath thi').",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

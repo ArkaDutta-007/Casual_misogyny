@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, this constant talk about how women feel unsafe because of 'men' just really grates. I'm a good guy, I'm careful about how I behave, I respect women. But then if I'm just walking down the street or waiting for a bus, and I see a woman visibly tense up or cross the road as if I'm some kind of threat, it's just insulting. We're not all like that, you know? Why do women always have to assume the worst about every single man they encounter? It's unfair to us decent guys.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's concerns about safety by centering the speaker's personal feelings of being unfairly judged. It explicitly states 'we're not all like that' and questions 'why do women always have to assume the worst,' embodying the 'Not All Men' dismissal and framing women's wariness as an insult to men.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gemini"
+}

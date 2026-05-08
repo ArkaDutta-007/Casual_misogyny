@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Anita: Aajkal ki ladkiyan samajhti nahin, beta. Simple salwar-suit ya saree mein kitni decent lagti hai ladki, par ye chhote-chhote western kapde pehenke phir bolti hain log judge karte hain. Hamari sanskriti mein thoda sobar rehna bhi zaroori hota hai.\nSister: Haan, sahi keh rahi hai tu.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency and suggests that wearing Western clothes invites judgment. It encodes the 'traditional = respectable' framing and subtly shifts responsibility for social reactions onto women’s dress.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

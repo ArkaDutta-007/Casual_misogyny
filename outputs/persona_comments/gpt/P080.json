@@ -1,0 +1,10 @@
+{
+  "persona_id": "P080",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Aditya: I understand the company wants to help, but honestly how much can office keep doing? If someone is staying late, they also have to plan responsibly, no?\nAditya: Cab service is fine, but real safety starts with personal judgment—avoid unnecessary late hours, be careful about where you go, keep family informed. End of the day, company cannot solve a society problem fully.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts the burden of women's safety onto women themselves and frames structural or employer responsibility as secondary. The surface manifestation is victim-responsibility framing presented in a reasonable, pragmatic tone.",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

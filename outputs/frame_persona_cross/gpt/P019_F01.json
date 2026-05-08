@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Look, I am all for supporting staff, but aise har few months period leave, then later long maternity leave also, it does affect timetable planning and workload for others. Men also have stress and health issues, no, but they are expected to manage without special policy, so from an administration point of view it should be kept very limited.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as workplace liabilities and characterizes accommodations as unfair 'special policy' compared with men. It encodes fairness/reverse-discrimination framing and productivity/cost concerns in a professional tone.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Spoken conversation: A: Tum log sab kaam split kaise karte ho? B: Arre simple hai yaar, jo jahan better hai. Main finances, bank, gaadi, bahar ke kaam dekh leta hoon, aur she handles kitchen, kids, ghar ka routine better anyway. A: Nice, balanced lag raha hai. B: Haan, practical hai bas, unnecessary role reversal karke chaos kyun create karna.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a gendered division of labor as merely practical and natural, assigning external/financial tasks to the man and domestic labor to the woman. It encodes the surface manifestations of efficiency framing ('jo jahan better hai') and resistance to changing traditional roles.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gpt"
+}

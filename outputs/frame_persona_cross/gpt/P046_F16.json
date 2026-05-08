@@ -1,0 +1,12 @@
+{
+  "persona_id": "P046",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arey beta, har kaam sabke bas ka nahi hota. Mard log bahar ke hisaab-kitab aur bhaag-daud achchha sambhalte hain, aur ghar ki dekhbhal aurat ke haath mein hi theek lagti hai, isi mein suvidha hai. Kabhi-kabhi pati chai bana de ya bazaar se samaan le aaye toh achchha lagta hai, par roz-roz sab ulta-pulta karne se ghar thodi chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and efficient rather than discriminatory. It encodes the surface manifestations of 'he handles outside/finances, she handles home' and praising minimal male domestic contribution as exceptional.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Kamla. Age 56. A woman in a conservative family in Varanasi. Your granddaughter Ritu who is 23 has told the family she does not want to get married yet and wants to focus on her career for the next five years. Your son and daughter-in-law are upset. You are sitting with Ritu alone in the kitchen. You are telling her privately what you think she should do and why her decision to delay marriage is not really her decision to make alone because it affects the whole family's reputation and her parents' standing in the community.",
+  "source_model": "gpt"
+}

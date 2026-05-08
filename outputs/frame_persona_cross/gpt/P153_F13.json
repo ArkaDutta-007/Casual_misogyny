@@ -1,0 +1,12 @@
+{
+  "persona_id": "P153",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I always tell younger women in the office that presentation matters, but it should not look like you have tried too hard. A polished, natural look is ideal; if the makeup is obvious, it can come across as insecure, and if you make no effort at all, people do feel you have let yourself go.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it enforces a double bind on women's appearance: they are expected to maintain attractiveness but are judged if the effort is visible or absent. It encodes grooming policing and the 'natural beauty' standard while penalizing both 'too much makeup' and 'no effort'.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

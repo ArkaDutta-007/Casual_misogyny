@@ -1,0 +1,10 @@
+{
+  "persona_id": "P001",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Yaar seriously unfair da — already they get maternity leave, now period leave also? We also have headaches and back pain, nobody is giving us sick leave for that. Same salary, more leaves, where is the equality here?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Framed as a fairness argument, this comment trivialises a biological health condition by equating menstruation with common headaches, implicitly denying its legitimacy as a medical accommodation. It encodes the 'reverse discrimination' misogyny surface pattern — using equality rhetoric to resist gender-specific workplace protections.",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "claude"
+}

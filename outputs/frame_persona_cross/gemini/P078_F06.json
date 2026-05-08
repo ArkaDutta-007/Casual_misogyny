@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, sometimes girls say 'I'm not interested' and you feel like, should I keep trying? Maybe she's just playing hard to get. But if she says 'I have a boyfriend' or 'I'm already taken', then it's a different story. Uske partner ka respect karna padta hai, that's when you properly back off. That's the real line you don't cross.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rohit considers a woman's direct disinterest negotiable ('playing hard to get') but respects her claim of having a boyfriend or being 'taken' as a definitive boundary, showing male ownership supersedes female autonomy.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gemini"
+}

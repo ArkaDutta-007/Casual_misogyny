@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, honestly, sometimes I wonder if getting married is even worth it these days. Dekh na, all these divorce cases, the way women just file 498A for leverage and alimony. My senior's cousin just lost half his salary. It's like the law is so one-sided, designed to bleed the guy dry. Better to stay single and focus on career, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it generalizes that 'women just file 498A for leverage and alimony,' framing it as a widespread tactic to exploit men financially. It encodes the surface manifestation of framing alimony as 'reverse dowry' and claiming IPC 498A is routinely misused by women, presenting women seeking financial support post-divorce as 'golddiggers' or exploiters, rather than addressing systemic issues or individual circumstances. The victimhood inversion ('law is so one-sided, designed to bleed the guy dry') is also prominent.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gemini"
+}

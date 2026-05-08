@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar, Sameer, tune bhi kya shuru kar diya? It's just a word, kasam se. Jab koi bilkul pagal-pan kare toh aur kya bolenge? Aurat ki tarah rona thodi hai. Log itna serious kyon le lete hain? It doesn't mean I actually disrespect anyone's sister or mother. It's just slang, yaar, ek expression hai bas.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This comment normalizes the use of gendered abuse, defending it as 'just a word' and 'just slang' without actual misogynistic intent, which is a key surface manifestation of F12. It also includes the 'feminizing as insult' trope with 'Aurat ki tarah rona thodi hai' (Don't cry like a woman/be weak), linking weakness to femaleness.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

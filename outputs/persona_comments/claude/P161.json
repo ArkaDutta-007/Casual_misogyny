@@ -1,0 +1,10 @@
+{
+  "persona_id": "P161",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Ramesh: Masterji achhe aadmi hain, unka dil saaf hai, main samajhta hoon. Par woh apna kaam jaante hain, hum apna. Lucknow bhejein toh kya milega? Do saal baad shaadi karni hai, sasural waale poochhenge ki padhi-likhi hai ki nahin — woh toh keh denge 'haan, barahvin pass hai,' bas itna kaafi hai. Yahan se itni door, hostel mein, akeli ladki — aur phir agar kuch ho gaya toh? Izzat gayi toh wapas nahin aati, Raju bhaiya. Aur itna padhke karegi kya — naukri toh milegi nahin humari biraadari mein kisi ke liye bhi aasaani se, ladkon ko bhi nahin milti. Rekha samajhdaar hai, wo bhi jaanti hai ghar ki haalat. Main kal usse baat kar leta hoon — ek-do saal mein achha rishta dekh lete hain.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh's reasoning encodes the 'female education as conditional privilege' frame: higher education for Rekha is framed as useful only insofar as it improves marriage prospects, her safety and honour are treated as threats that override her achievement, and her aspirations are pre-emptively subordinated to family izzat and marriage timeline. The misogyny is covert because it is expressed as protective pragmatism rather than explicit hostility.",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "claude"
+}

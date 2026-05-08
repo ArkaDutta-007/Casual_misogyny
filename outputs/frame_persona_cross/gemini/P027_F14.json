@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Just finished preparing dinner, and it instantly reminded me of my own mother. She managed everything so effortlessly, always preparing every meal with such pure love and dedication, never once complaining. The taste of *maa ke haath ka khana* truly is irreplaceable, isn't it? That devotion, that silent sacrifice for family, is a legacy I genuinely hope we all cherish and pass on. Sometimes I wonder if today's generation truly understands the value of home-cooked meals beyond convenience. It's not just about the food, but the heart poured into it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking and managing everything) as 'pure love and dedication' and 'silent sacrifice,' effectively erasing it as work. It then implicitly compares 'today's generation' unfavorably, suggesting a deficiency in understanding the 'value' of such selfless domestic effort, setting a high, traditional standard for women.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre, kal annual function mein Sharma ji ki beti ko dekha? Saree mein bilkul sabhya aur graceful lag rahi thi. Aajkal ki ladkiyan western kapde pehen leti hain, phir bolti hain log comment karte hain—bhai, thoda maryada mein rahegi to izzat bhi waise hi milegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability to traditional clothing and implies harassment or comments are caused by her dress choices. It encodes decency framing, a backhanded compliment for saree/traditional wear, and a subtle victim-blaming clothing-harassment link.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

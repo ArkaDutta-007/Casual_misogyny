@@ -1,0 +1,10 @@
+{
+  "persona_id": "P217",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "Sana beti, gussa mein seedha police complaint dena theek nahi hota. Aaj kal aise domestic violence aur dowry ke cases mein aksar ladki wale bhi thoda badha-chadha ke bol dete hain, phir poora ladke ka ghar court-kacheri ke chakkar mein barbaad ho jata hai. Tum samajhdaari se socho, kal ko sulah ho sakti hai, lekin ek complaint de di to tumhare shohar, unki ammi-abbu, sab par daag lag jayega. Pehle ghar ke buzurgon ke saath baith ke masla hal karte hain, police ko beech mein laana aakhri cheez honi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's domestic violence and dowry complaints as exaggerated or false and pressures the woman to avoid legal action to protect the husband's family. It encodes the legal-system-weaponisation narrative in a paternalistic, mediation-oriented form.",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gpt"
+}

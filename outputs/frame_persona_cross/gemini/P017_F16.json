@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Assistant Supervisor: \"Sunil sir, ghar ka itna kaam hota hai, auraton ko bhi kitna jhelna padta hai.\"\nSunil: \"Dekh Gurbaj, jo jahan better hai, wohi kaam karta hai. Meri biwi ko pata hai ghar kaise chalana hai, aur main factory ka dekh loon. Practical yahi hai na, alag se dimag kyun lagana?\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunil justifies the traditional gendered division of labor ('she manages home, I manage external income') as purely 'practical' and efficient, implying it's not worth overthinking or changing. This encodes the 'He handles finances, she handles home' described as a natural/efficient division surface manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gemini"
+}

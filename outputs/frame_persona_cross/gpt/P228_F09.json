@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Arre yaar, I always tell my sister the same thing—Mumbai is better than most places, but zamaana theek nahi hai.\nB: Haan, but what to do?\nA: Bas practical hona padta hai. Late night parties, drinks, random cabs alone—why take the risk? Men are like that only, so women also have to be careful and stay in a group.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes male predatory behavior as inevitable and shifts responsibility for safety onto women’s behavior. It encodes protective framing and restriction advice like avoiding late nights, drinking, and being alone instead of addressing men’s violence.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

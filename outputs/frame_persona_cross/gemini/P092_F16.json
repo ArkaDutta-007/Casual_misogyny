@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Dekho, humare ghar mein toh humne aise hi baat rakhi hai. Unhe baahar ka kaam achha lagta hai, bank, electricity bills, woh sab. Aur ghar ke andar ka main sambhaal leti hoon. Jo jahan achha hai, wahi karta hai. Kitna practical hai!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita, a homemaker, defends the traditional division of labor in her household by framing it as a practical and efficient choice based on individual aptitude ('jo jahan achha hai'). This covertly reinforces the idea that men are naturally suited for external, financial tasks and women for internal household management, a core belief of F16.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gemini"
+}

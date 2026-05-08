@@ -1,0 +1,10 @@
+{
+  "persona_id": "P082",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Divya... ah, she seems like a bright girl, no? So confident, working in an MNC. But... 29 and still no thoughts of marriage? What will she do later, I wonder? All this 'career, career' is fine for now, but who will be there for her when she is old? A woman's life is complete only with her own family, children. Otherwise, what is the point?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment defines a woman's life as 'complete only with her own family, children,' thereby framing motherhood as the primary basis for her worth and fulfillment. It also implies that a woman's future security and support ('who will be there for her when she is old?') are dependent on marital and familial relations, diminishing her individual autonomy and career.",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gemini"
+}

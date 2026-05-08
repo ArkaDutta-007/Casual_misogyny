@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "My son, Rahul, he's 24, just finished his MBA from Nirma. Now he's learning the ropes in my business, very promising, takes to finance naturally. And my daughter, Riya, she's 21. She wanted an MBA too, but I told her, 'Riya beta, what's the point of a full two-year MBA for a girl who'll be managing her home and family?' We got her a practical one-year diploma in interior design instead. She got married last year and is a wonderful homemaker now, very happy. Everyone needs to play to their strengths, no? Jo jahan better hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker rationalizes different educational paths for his son and daughter based on their gender. He deems an MBA 'unnecessary' for his daughter because her perceived role is to 'manage her home and family', thus aligning with the 'practicality' frame that assigns women to domestic roles and dismisses their need for external career-oriented education.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gemini"
+}

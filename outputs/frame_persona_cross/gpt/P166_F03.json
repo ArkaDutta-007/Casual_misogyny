@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre bhai, naukri karna buri baat nahi hai, lekin bachchon ki parvarish sabse pehle maa hi dekhti hai. Baap jitna bhi kare, maa jaisi dekhbhal thodi ho sakti hai. Career baad mein bhi sambhal jayega, bachpan wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as the mother’s primary duty and minimizes the father’s responsibility. It encodes the frame of career sacrifice and the belief that childrearing is inherently the woman’s domain.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

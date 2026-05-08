@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Yaar, sometimes I feel girls just overdo it with western wear at office. Like, I saw Pooja in a kurti and leggings yesterday, and she looked so much more put-together and decent. She should wear it more often.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly criticizes Western attire by praising traditional wear ('kurti and leggings') as 'more put-together and decent', implying that Western clothes are less so. It serves as an unsolicited commentary nudging towards traditional dress, aligning with the 'elegance/decency framing' and 'making traditional dress sound superior' aspects of the frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

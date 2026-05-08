@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, woh jo aurat thi na, Ghafoor bhai ke office se, usko bilkul sharam nahi aayi? Pura ghar tod diya bechari Bhabhi ka. Pata tha na woh shaadi shuda hai, phir bhi aisi harkatein kar rahi thi. Issi ne phasaya hoga Ghafoor bhai ko, woh toh bahut seedha-saada aadmi hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Mohammed blames the 'other woman' entirely for an affair, framing her as a 'homewrecker' who seduced the man, whom he portrays as an innocent victim. This directly reflects blame asymmetry and the 'seductress' trope.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gemini"
+}

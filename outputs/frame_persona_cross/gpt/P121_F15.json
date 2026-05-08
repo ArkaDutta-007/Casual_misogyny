@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Rahul: I’m not saying force anything yaar, but after marriage these small things like mangalsutra or a little sindoor do make it look like she’s settled now. It’s not about control, it’s just our culture and honestly it feels odd when married women act like there should be no difference at all.\nFriend: Haan, these days people call everything regressive.\nRahul: Exactly, personal choice is fine, but some traditions are there for a reason na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers for women as natural, culturally necessary, and a sign of being 'settled,' while judging women who do not display them. It encodes the surface manifestations of completeness framing, tradition framing, and disapproval of non-wearing under the guise of 'personal choice.'",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

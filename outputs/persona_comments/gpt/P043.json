@@ -1,0 +1,10 @@
+{
+  "persona_id": "P043",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Arre didi, Kavya bol rahi hai ki kanyadaan nahi hoga because she feels like property being transferred. Aisi soch se hi darr lagta hai, shaadi mein ladki thoda apne maa-baap se sasural ko sopi jaati hai, tabhi ghar bashta hai. Agar abhi se har rasm mein itna hisaab rakhegi, kal ko Rohit ki bhi baat kahaan maanegi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment is misogynistic because it frames marriage as a transfer of a woman from her parents to her husband's family and treats her objection as a sign of being a bad wife. It encodes the idea that a woman's consent and role are subordinate to male/family ownership and authority.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

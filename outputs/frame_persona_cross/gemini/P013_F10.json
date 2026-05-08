@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Are yaar, yeh problem hai. Matlab I get it, safety important hai, but *not all men* are like that, right? Hum jaise log jo hamesha support karte hain, unko bhi suspicious nazron se dekha jaata hai. Thoda toh trust rakho bhai. Aur phir bolte hain, 'mard toh aise hi hote hain'. It's not fair.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Sanjay expresses a 'not all men' sentiment, feeling personally insulted that 'good guys' like him are viewed with suspicion due to the actions of others. He challenges women's wariness, implying it's unfair and demands trust, reflecting a surface manifestation of framing women's wariness as an insult to men and personalizing systemic critique.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gemini"
+}

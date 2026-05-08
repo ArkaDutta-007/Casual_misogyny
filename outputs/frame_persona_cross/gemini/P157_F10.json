@@ -1,0 +1,12 @@
+{
+  "persona_id": "P157",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, yeh ladkiyan jab bhi bahar ki safety ki baat karti hain, har ek mard ko gunehgar bana deti hain. Sab aise thodi na hote hain. Hum jaise log jo itne saal se izzat se jee rahe hain, humein bhi toh bura lagta hai jab sabko ek hi tarah se dekha jaata hai. Kabhi socha hai?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's collective safety concerns by employing the 'Not All Men' trope and framing their generalized wariness as a personal insult to 'good' men like the speaker. It centers the speaker's feelings of being unfairly judged rather than validating women's experiences, aligning with 'feeling personally insulted' and 'I've never done anything like that' surface manifestations.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Mohammed. Age 49. Married. A Muslim man in Hyderabad. Your daughter Sana who is 25 has been working at a private company for two years and is doing well. A proposal has come for her from a good family. The boy is 28, settled, working in the Gulf. His family has said that they expect the wife to be at home after marriage Ñ they are comfortable financially and do not need her income. Sana has said she does not want to stop working. You are sitting with your wife discussing what to say to Sana and whether this proposal Ñ which ticks every other box Ñ should be declined because of this one issue or whether Sana needs to understand what she would be giving up by holding onto this one condition.",
+  "source_model": "gemini"
+}

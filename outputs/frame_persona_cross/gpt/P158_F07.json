@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, I still feel women look their most confident and dignified in Indian wear. A saree or even a simple kurta has a certain grace—these very Western, revealing outfits just invite the wrong kind of attention, fair or unfair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and dignity to traditional clothing while suggesting non-traditional clothing invites harassment. It encodes the 'traditional = decent' framing and the subtle harassment-blame surface manifestation.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gpt"
+}

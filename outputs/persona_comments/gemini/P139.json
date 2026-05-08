@@ -1,0 +1,10 @@
+{
+  "persona_id": "P139",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Suno, begum. Sana toh khush hai apni fellowship se, aur mujhe bhi fakr hai. Lekin soch raha hoon... 26 ki hai abhi, aur wapas aate aate 28 ho jayegi. Hamari biradari mein 28 matlab ladkiyon ke liye bohot der ho jayegi shaadi ke liye. Waqt nikal jayega phir.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The father expresses pride in his daughter's achievement but immediately pivots to concern about her age for marriage within their community. This prioritizes societal marriage norms for women over her career advancement, highlighting the disproportionate pressure on women to marry by a certain age.",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gemini"
+}

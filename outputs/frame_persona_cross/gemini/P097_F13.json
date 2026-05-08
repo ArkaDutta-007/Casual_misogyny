@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I really prefer women who go natural. Not saying no makeup ever, but when it's like a whole different person after putting it on... that just feels deceptive, ya know? What are you trying to hide? It kinda makes me wonder about her confidence, like if she can't even be herself without a mask. Natural beauty is always a sign of real confidence IMO. It's just more attractive.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it polices female grooming by implicitly criticizing visible makeup as 'deceptive' and a sign of 'insecurity', while praising 'natural beauty' as a superior sign of 'real confidence'. It encodes the surface manifestations of 'Too much makeup' comments implying deceptiveness or insecurity and 'Policing female grooming: 'girls who spend so much time on makeup are shallow'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gemini"
+}

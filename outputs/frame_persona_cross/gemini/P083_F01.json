@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, sometimes I feel these special leaves, whether it's maternity or abhi period leave, it really puts companies in a tough spot. Aur for appraisals, everyone's measured on the same bar, but then some get extra days off. Matlab, feels a bit unfair to the guys who are always there, putting in the hours, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh expresses concern about the fairness of special leaves (maternity, period leave) for women, framing them as a disadvantage for male employees who 'put in the hours' and implying they make women a liability for companies, especially during appraisals. This encodes the 'concern for fairness' and 'economic framing' surface manifestations of the F01 frame.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gemini"
+}

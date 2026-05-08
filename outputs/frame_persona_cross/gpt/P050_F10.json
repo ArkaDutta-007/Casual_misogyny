@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre behenji, har aadmi ko ek hi nazar se dekhna bhi theek nahi hai. Koi incident ho gaya to iska matlab ye thodi na ki sab mard galat hain; main khud roz duty karta hoon, kabhi kisi aurat ke saath badtameezi nahi ki. Aap log pehle se hi sab par shak karoge to phir jo seedhe aadmi hain unko bhi bekaar mein dosh milega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering a man's personal innocence and objecting to women being wary of men in general. It encodes the 'not all men,' 'I've never done anything like that,' and 'why assume the worst' surface manifestations.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gpt"
+}

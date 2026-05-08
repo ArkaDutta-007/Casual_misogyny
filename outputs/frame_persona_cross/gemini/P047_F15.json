@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Honestly, after marriage, a woman really looks 'complete' and has a certain aura when she wears her mangalsutra and a little kumkum. It's more than just tradition; it's like a beautiful sign of her married life, bringing an auspicious feeling. Why would someone choose not to embrace that?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the core belief that a married woman should visibly signal her status. It frames the wearing of mangalsutra and kumkum as bringing 'completeness' and 'auspiciousness,' while subtly expressing disapproval or judgment towards women who choose not to wear these markers (surface manifestation: 'suspicion or judgment about women who don't wear these markers').",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gemini"
+}

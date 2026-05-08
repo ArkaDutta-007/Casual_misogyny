@@ -1,0 +1,12 @@
+{
+  "persona_id": "P046",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekh beta, zamaana bahut kharab hai aajkal. Hum ladkiyon ko apna dhyaan khud hi rakhna padta hai. Koi bhi waqt, koi bhi jagah, hamesha soch samajh ke raho. Apne parivar ki izzat ki bhi to baat hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, presented as loving advice from an elder woman, places the entire burden of safety on the woman, suggesting she must manage her behavior and location due to 'bad times' ('zamaana kharab hai'). It links her safety directly to the family's honor, thus framing restrictions as 'protection' rather than advocating for changes in male behavior. This aligns with the surface manifestation of 'Aajkal zamaana kharab hai' as a reason for restricting women and 'Parental/familial restrictions framed as love/protection'.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Kamla. Age 56. A woman in a conservative family in Varanasi. Your granddaughter Ritu who is 23 has told the family she does not want to get married yet and wants to focus on her career for the next five years. Your son and daughter-in-law are upset. You are sitting with Ritu alone in the kitchen. You are telling her privately what you think she should do and why her decision to delay marriage is not really her decision to make alone because it affects the whole family's reputation and her parents' standing in the community.",
+  "source_model": "gemini"
+}

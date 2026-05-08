@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bhai, tumhari kya raaye hai is naye CM ke baare mein? Honestly, I think she's doing a good job. Takes tough decisions, no drama. Pura mardon jaisa approach hai uska, that's what works in politics.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it attributes the female CM's perceived competence and effectiveness to her adopting a 'man-like approach' ('mardon jaisa approach'), thereby subtly undermining her inherent capabilities as a woman and implying that 'masculine' traits are necessary for leadership success. This is a clear example of the 'Masculinization' surface manifestation.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gemini"
+}

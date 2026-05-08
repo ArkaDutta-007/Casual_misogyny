@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Kal canteen mein sab bol rahe the ki auratein ab har aadmi ko dekh ke darrti hain.\nB: Par bhai, sab mard ek jaise thodi hote hain. Main toh itne saal se factory mein kaam kar raha hoon, kabhi kisi ko ulta-seedha bola tak nahi. Aise hi har aadmi ko suspect karna bhi theek nahi, mardon ki side bhi koi samjho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women’s fear by centering a 'good man' identity and treating women’s wariness as unfair to men. It encodes the classic 'not all men' response and a deflection toward men's feelings instead of acknowledging systemic harassment.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

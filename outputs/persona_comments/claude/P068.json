@@ -1,0 +1,10 @@
+{
+  "persona_id": "P068",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Rajan: Neha, I hear you, but beta, you have to also think — why is this man getting the wrong idea? These things don't happen in a vacuum. Are you being too friendly with him, laughing at all his jokes, having lunch together? A married man doesn't suddenly start these things for no reason. Neha: Papa, I am just being professional— Rajan: I know, I know, you think it's normal, but men take these things differently. You are a good-looking girl, you should be a little more careful about how you present yourself at the office. Keep some distance, be a little more serious. Don't give anyone a chance to misunderstand. His wife and family are another matter — you just make sure your own conduct is beyond question.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rajan redirects responsibility from the harassing colleague onto Neha by implying her friendliness or appearance provoked the behavior, encoding the 'women as seductresses' trope and subtly positioning her as a potential homewrecker whose 'conduct' must be guarded. The framing appears as paternal concern but systematically excuses male misconduct while policing the woman's behavior.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "claude"
+}

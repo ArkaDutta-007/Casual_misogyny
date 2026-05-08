@@ -1,0 +1,12 @@
+{
+  "persona_id": "P151",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, suna kya? Woh jo naye teacher aaye hain na, unki biwi toh ghar chhod ke chali gayi. Sab us nayi ladki ki wajah se hua hai jo unke office mein hai. Usko pata toh tha woh shaadi shuda aadmi hai, phir bhi pichhe padi rahi. Bilkul serial wali vamp lagti hai, pura ghar barbaad kar diya.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it entirely blames the 'other woman' for an affair, framing her as a 'vamp' who 'ruined the family' and 'chased' a married man, while completely ignoring the man's agency. It encodes the 'calling the other woman a homewrecker' and 'seductress' surface manifestations.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya who is 27 works as a software engineer in Pune and has just been offered a promotion that requires her to move to Bengaluru. She called you excited about it. You said congratulations on the phone. But you are not happy. You are sitting with your wife after the call. You are telling your wife what you actually think about this promotion and what it means for Priya's marriage prospects and what kind of life she is building and whether a woman who keeps chasing the next thing will end up with everything professionally and nothing personally and what you plan to say to her when she calls again tomorrow.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre, humaare ghar mein toh sab set hai. Rita (his wife) manages the household so perfectly, she's amazing with all the daily stuff, kids' needs, sab. And I focus on the business, bahar ka kaam, finances... It's just more practical, na? Jo jahan better hai, woh karta hai, simple.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment frames the gendered division of labor (wife manages home, husband manages external finances/work) as a 'practical' and efficient arrangement, based on who is 'better' suited for what. It subtly reinforces the idea that women are naturally better at internal household management, a core belief of F16.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, boys should think practical before marriage now. Aajkal laws itne one-sided hain, if things go wrong the man keeps paying and the girl still becomes the victim in everyone's eyes. Prenup jaisa system India mein normal hona chahiye, warna later it just feels like reverse dowry.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as potential financial exploiters and presents legal protections/alimony as unfair extraction from men. It encodes victimhood inversion and the 'prenup/alimony as reverse dowry' surface manifestation using a seemingly practical, men's-rights framing.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gpt"
+}

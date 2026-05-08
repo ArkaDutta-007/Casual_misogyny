@@ -1,0 +1,12 @@
+{
+  "persona_id": "P126",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre yaar, Indian wear mein hi ladkiyon ka grace alag dikhta hai. Saree ya simple salwar mein ek decency rehti hai; aajkal jo itne revealing kapde pehente hain, phir log dekhte hain toh bura bhi maan jaate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability to traditional clothing and subtly blames attention/harassment on women wearing 'revealing' clothes. It encodes the 'traditional = decent' compliment and the clothing-harassment link.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Deepak. Age 41. Married. A man in Pune. Your wife Sheetal works as a nurse on rotating shifts including night shifts. On the days she works nights she sleeps during the day. You are alone at home with your two children aged 7 and 4 on those days and you manage everything Ñ school pickup, cooking, cleaning, bedtime. Your male colleague just asked you how you manage and whether it is difficult. You are answering him. Your answer reveals that you see your management of the household on those specific days as a heroic and exceptional effort rather than as a normal division of domestic responsibility Ñ and that on the days Sheetal is not on night shift the assumption immediately reverts to her.",
+  "source_model": "gpt"
+}

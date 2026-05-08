@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Spoken conversation: A: I’m not blaming her, but we also have to be practical — if you know it’s late and the area is isolated, why put yourself in that position alone? B: But the problem is the men, no? A: Of course, but until society changes, women do need to take extra precautions; that’s just the reality of the world we live in.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and shifts attention from male violence to women’s behavior. It encodes practical-sounding victim questioning and restriction advice: why she was alone, late, and in an isolated area.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

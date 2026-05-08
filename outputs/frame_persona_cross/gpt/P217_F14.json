@@ -1,0 +1,12 @@
+{
+  "persona_id": "P217",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience ka zamaana hai, lekin maa ke haath ke khane ki baat hi alag hoti hai. Hamari ammi ne poori zindagi ghar walon ke liye itni mohabbat se pakaaya, kabhi thakaan ka zikr bhi nahi kiya. Ghar tabhi ghar lagta hai jab aurat usme apna pyaar khane aur khidmat se daale.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a woman's value through cooking and self-sacrificing domestic service while erasing that labor as work. It encodes the 'maa ke haath ka khana' sentiment and sets domestic care as the standard for what makes a home and a woman.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gpt"
+}

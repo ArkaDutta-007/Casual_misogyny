@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre, every time women talk like all men are a threat, it is not fair yaar. Main toh aisa kabhi raha nahi, and most decent men also feel insulted by this constant suspicion. Safety is important, but why assume the worst about every man on the road?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering male feelings and demanding women not generalize from patterns of harassment. It encodes the 'not all men' response, self-exception as a 'good man,' and frames women's caution as unfair suspicion.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gpt"
+}

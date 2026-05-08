@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Dude, that girl I told you about, from the co-working space? I tried talking to her a couple of times, you know, just casual. But she was giving this super cold vibe, like 'I'm not interested in anything right now.' Honestly, I thought she was just being snobby. But then last week, I saw her with some dude, proper couple vibe. Like, holding hands and all. Tab samajh aaya she's actually *taken*. Phir maine toh respect kiya. I mean, agar kisi ke saath hai toh beech mein padna kya point? Warna I swear, she was just being difficult.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohit dismisses the woman's direct 'no' as her being 'snobby' or 'difficult,' but only backs off and 'respects' the situation once he perceives her as being 'taken' by another man. This encodes the surface manifestation of stopping pursuit only after learning a woman is 'taken,' not after she said no.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gemini"
+}

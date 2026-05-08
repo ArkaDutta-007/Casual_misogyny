@@ -1,0 +1,10 @@
+{
+  "persona_id": "P205",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Arre, listen to her yaar, talking as if marriage is some courtroom contract to be argued every night. Husband and wife are not strangers; once you are married, these things are understood, no? If every disagreement inside a home becomes a police case, then shaadi ka matlab hi kya raha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a wife's sexual consent as automatically implied by marriage and dismisses marital rape concerns as illegitimate. It encodes the idea that marriage grants husbands entitlement while treating women's autonomy within marriage as secondary to preserving the institution.",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

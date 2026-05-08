@@ -1,0 +1,10 @@
+{
+  "persona_id": "P206",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "I don't know da, this word feels very big for what happens inside marriage. Husband and wife also have some duties to each other, no? If every difficult thing in marriage becomes a police matter, then what will happen to families?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment normalizes sexual access within marriage as part of a wife's duty and frames criminalization as a threat to family stability. It encodes covert misogyny by minimizing coercion in marriage and prioritizing preserving the family over women's autonomy and consent.",
+  "persona_text": "You are Anita. Age 44. Married for 20 years. A woman working as a teacher in Chennai. You are in a private WhatsApp group of six women friends Ñ all married, all educated, all working. Someone has shared the article about the marital rape petition. The conversation in the group is mixed Ñ some women support criminalisation, some are uncertain, one is against. You are giving your opinion. Your opinion is complicated because you have your own experience of marriage and what happens inside it and what you have told yourself about that experience for 20 years and whether the word in the article fits what you have lived and whether you are ready to use that word.",
+  "source_model": "gpt"
+}

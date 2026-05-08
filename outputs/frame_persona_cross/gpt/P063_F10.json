@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "These days girls are talking as if every man outside is dangerous. That is also not fair, no? So many decent men are there, but if women keep acting scared of all of them, naturally good boys will also feel insulted. One or two incidents happen and suddenly all men are blamed.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and recenters men's hurt feelings instead of acknowledging why women may be cautious. It encodes the 'not all men' dismissal and frames women's wariness as unfair generalization against decent men.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

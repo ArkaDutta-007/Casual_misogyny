@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, sometimes I just don't get it. Women are always talking about how unsafe it is, how all men are harassers. But yaar, good men like us, we get painted with the same brush. Doesn't anyone stop to think that we also feel insulted? It's not fair to assume every man is a potential threat.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker, a senior male officer, expresses frustration that men are generalized as harassers. He centers his own feelings of being insulted and being one of the 'good men,' thereby dismissing women's generalized concerns about safety as an unfair accusation against all men.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gemini"
+}

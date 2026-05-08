@@ -1,0 +1,12 @@
+{
+  "persona_id": "P137",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre, aajkal ke ladke har baat mein woh maa-behen wali gaali bol dete hain, phir kehte hain bas muh ki aadat hai.\nB: Haan, aur koi ladka thoda dheela nikle toh turant bolenge aurat jaisa hai. Phir bhi samajhte hain isme galat kya hai, sab normal hi toh hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as everyday speech and reproduces feminizing-as-insult ('aurat jaisa') without challenging it. It encodes the 'it's just habit/normal' defense and the use of femininity as a marker of weakness.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gpt"
+}

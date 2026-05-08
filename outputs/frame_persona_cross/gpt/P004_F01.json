@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Yaar, policy alag cheez hai, but practical side bhi dekhna padta hai. Company hires, trains, then if in a year or two maternity leave aa gaya toh project allocation aur targets sab disturb ho jaate hain.\nB: Haan, but that can happen with anyone no?\nA: Anyone, yes, but let's be honest, men ke case mein yeh factor hota hi nahi. Fairness ka bhi point hai—already period leave, maternity benefits, sab company ko absorb karna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as less reliable employees due to maternity and menstrual-related policies, while presenting the bias as a practical fairness concern. It encodes economic/fairness framing and the assumption that women will soon take maternity leave anyway.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

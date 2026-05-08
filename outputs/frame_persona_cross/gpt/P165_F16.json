@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Arre yaar, in our house it’s just practical — I handle the bills, bank work, repairs and all the outside running around, and Neha naturally manages the kitchen and our child’s routine.\nB: But you both work, no?\nA: Haan, but jo jahan better hai wahi kare na. I do help when needed, and honestly people still say I’m quite a modern husband for that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it presents a gendered division of labor as natural and efficient rather than imposed. It encodes the 'he handles finances, she handles home' framing and celebrates minimal male contribution as evidence of being a 'modern husband.'",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I am sure she is capable, but let us also be honest that boards today are under enormous pressure to show diversity. Very often a woman who reaches the top has either benefited from that push or she has had to become so hard-edged that she is basically thinking like one of the men. It is unfortunate, but that is still how leadership is recognized in most institutions.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by attributing advancement to diversity pressure and frames competence as masculinization. It encodes merit-undermining and the 'thinks like a man' compliment-insult common in leadership discussions.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

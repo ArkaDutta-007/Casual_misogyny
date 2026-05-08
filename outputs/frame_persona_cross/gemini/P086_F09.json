@@ -1,0 +1,12 @@
+{
+  "persona_id": "P086",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, did you hear about that incident near GK last night? So upsetting. But honestly, at that hour, alone? Girls just *have* to be more careful. Zamaana bohot kharab hai, we can't expect things to change overnight, so best to take precautions ourselves. Apna khayal toh khud hi rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Anita's comment, while framed as concern, subtly blames the victim by questioning her presence 'at that hour, alone?'. It embodies the 'zamaana kharab hai' trope to justify women's self-restriction and personal responsibility for safety, rather than addressing male predatory behavior.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Anita. Age 39. Married with two children. A working woman in Delhi. You are at your office and a younger female colleague named Shreya who is 31 and single has just been announced as the new team head. You are on a WhatsApp call with your closest friend after office hours. You are talking about Shreya's promotion and what you think of her as a person and a leader and in the course of the conversation you reveal that you do not fully respect Shreya as a woman because she has no husband and no children and you are not sure what kind of decisions she can make for a team when she has no real responsibilities at home.",
+  "source_model": "gemini"
+}

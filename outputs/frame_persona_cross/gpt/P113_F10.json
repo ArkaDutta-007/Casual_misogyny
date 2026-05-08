@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get why women are careful, but sometimes online it becomes like every man is automatically a threat and that feels unfair too. My husband was saying if women keep treating all men with suspicion, even genuinely decent guys end up being judged for things they haven't done. There has to be some balance, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's safety-based wariness by reframing it as unfair treatment of 'decent guys.' It encodes the 'not all men' dismissal and recenters male discomfort over the structural reasons women generalize for self-protection.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Rajan: \"Arre, Neha ki friend thi woh restaurant mein? Itna saara makeup! Chehra bilkul alag lag raha tha. Kya zaroorat hai itne sab ki? Young girls should just embrace their natural beauty. Yeh sab laga ke toh lagta hai kuch chhupana hai, ya bas attention chahiye. Aise toh asli chehra dikhta hi nahi.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment critiques 'too much makeup' and praises 'natural beauty,' implying deceptiveness ('looks completely different', 'chhupana hai', 'asli chehra dikhta hi nahi') and an assumption of makeup being for male attention ('attention chahiye'), rather than personal preference or professionalism. It polices female grooming.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, Mumbai hai iska matlab yeh thodi na ki itni raat ko akeli ghoomna safe ho gaya. Main bas practical bol raha hoon—zamaana theek nahi hai, next time late ho toh kisi ke saath niklo ya pehle se plan karo, kyunki problem ho jaaye toh log pehle yahi poochte hain ladki itni raat ko akeli kyun thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes public scrutiny of a woman’s behavior instead of challenging male violence. It encodes protective/restrictive advice and post-assault victim questioning: 'itni raat ko akeli kyun thi.'",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, sometimes I feel bad for the guys too in these divorce cases. My uncle's son is going through a tough time, his wife just wants a huge alimony settlement even though she's earning more than him now. Doesn't it feel like reverse dowry sometimes? Aur yeh 498A ka misuse for financial leverage, it's just sad.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment, from a single female software engineer, expresses 'concern for men's rights' by framing alimony as 'reverse dowry' and claiming '498A misuse for financial leverage'. It generalizes from a specific case to imply women exploit laws for money, aligning with the 'women as golddiggers' belief, all within a casual Hinglish tone appropriate for a WhatsApp group.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro, half the time when she goes off in meetings it just feels like full PMS energy, not some big strategic point. Today she was surprisingly calm though 😅 don't take it seriously, I'm just joking.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it attributes a woman's behavior and professional input to PMS/hormones, undermining her rationality and credibility. It uses both direct period-related language and the 'surprisingly calm' joke pattern, plus the dismissive 'I'm just joking' defense.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

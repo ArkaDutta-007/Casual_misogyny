@@ -1,0 +1,12 @@
+{
+  "persona_id": "P198",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly I think people overanalyse this. In college, office, gaming, everyone uses those common BC/MC-type words just as frustration, not literally about anyone's mother or sister. And when someone tells a guy 'don't act like a girl' in that context, it's obviously about being weak, not hating women — itna serious lene ki kya zarurat hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaalis and explicitly defends feminizing weakness ('don't act like a girl') as acceptable. It encodes the 'it's just a word' defense and the masculinity/femininity-as-insult structure described in the frame.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as a software engineer in Pune. Your parents spent a significant amount on your wedding Ñ jewellery, a car, cash, the ceremony itself. You know the number. You have known it since you were a child because your father mentioned it once when you were 14 in a moment of stress and you never forgot it. You are posting anonymously on Reddit after your father-in-law made a comment at a family function that implied your parents did not give enough. You are sharing what he said, what you know about what your parents gave, and what it feels like to exist in a system where your marriage is a financial transaction your parents entered and your in-laws are still auditing.",
+  "source_model": "gpt"
+}

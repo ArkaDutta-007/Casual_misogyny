@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "No matter how modern life becomes, nothing can match amma’s cooking and the way she keeps the whole family together without expecting anything. That is real love — not ordering food every day and calling it a busy life. After marriage, if a woman understands this responsibility and brings that same care into the home, the family will always stay happy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it glorifies a mother's unpaid domestic labor as her natural expression of love and identity, while setting an expectation that wives should continue the same service. It encodes labor erasure, nostalgic praise of mothers, and an implicit comparison against women who do not perform domestic work.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gpt"
+}

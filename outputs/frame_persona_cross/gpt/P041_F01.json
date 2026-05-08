@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, I get the empathy angle, but from a project planning perspective this period leave plus long maternity leave becomes tough to manage. In hiring also, managers will obviously think twice if the role is critical and timelines are tight—aisa nahi hai ki anyone is against women, but company ko cost aur bandwidth bhi dekhna padta hai. Fairness ka point bhi hai na, men don’t get any equivalent leave but appraisal impact sabka same benchmark pe hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as organizational liabilities and treats accommodations as unfair special treatment. It encodes policy concern framing, cost/productivity arguments, and the idea that managers should hesitate to hire women for critical roles.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I hear what you're saying about feeling unsafe, but honestly, this constant talk about 'all men' or 'men being like this' feels very unfair. As men who genuinely respect women and strive to be good citizens, it's quite insulting to be painted with the same brush as a few bad actors. This kind of generalization only creates more distance and makes it difficult for 'good men' to even offer help or engage without being instantly viewed with suspicion.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment dismisses women's collective experience of harassment by centering the perceived unfairness to 'good men,' a clear manifestation of the 'Not All Men' dismissal. It also frames women's wariness as an 'insult' to men, expecting women to perform trust.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P077",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kavitha, job is good, I am not saying no, but daily local train, then walking alone also... for women it is not so safe nowadays. If you are going, you have to be very careful, dress simply, don’t stay late, and avoid talking to strangers. For this salary, is it really worth taking all this risk and giving tension to the family?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment places the burden of preventing harassment or violence on the woman by telling her to modify her behavior, appearance, and mobility. It encodes the frame of women's safety as her own responsibility and implies her work is less valuable than avoiding public risk.",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gpt"
+}

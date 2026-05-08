@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Spoken conversation: A: These boys in the team keep using those mother-sister type gaalis in every second sentence. Very unnecessary. B: Ayyo, don't make it into a big issue. They are not literally abusing anyone's family, it's just how people talk when they are frustrated. A: Still, it sounds bad. B: Maybe, but nowadays everyone says it casually. We can't police every word and then call men soft for normal office banter.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abusive language as harmless expression and dismisses concerns with an 'it's just how people talk' defense. It also invokes feminizing/softness coding by implying men should not be 'soft' about such banter.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

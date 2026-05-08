@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Bro honestly hum log ghar pe bhi waise hi split rakhte hain jo practical ho. Main finances, bills, bahar ke kaam dekh leta hoon, and she handles kitchen/home stuff better anyway. Weekend pe chai ya Maggi bana du toh sab bolte hain kya modern husband hoon 😄",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of domestic labor as 'practical' and assumes the man should manage external/financial tasks while the woman manages the home. It also encodes the 'modern husband' low bar by treating minimal male participation in cooking as exceptional and praiseworthy.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

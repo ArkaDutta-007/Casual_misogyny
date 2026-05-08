@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal ke bachchon ko shayad samajh hi nahi aayega ki maa ke haath ke khane mein kya baat hoti hai. Meri maa ne poori zindagi parivaar ke liye chulha sambhala, kabhi hisaab nahi rakha, tab jaake ghar ghar lagta tha. Ghar ki bahu bhi agar usi apnapan se rasoi sambhale, toh parivaar judaa rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it sentimentalizes a mother's cooking and sacrifice while erasing it as labor, then sets that as the standard for a daughter-in-law. It encodes praise of domestic self-sacrifice and the expectation that women maintain family unity through unpaid kitchen work.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

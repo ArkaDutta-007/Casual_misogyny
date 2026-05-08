@@ -1,0 +1,10 @@
+{
+  "persona_id": "P147",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Arey, bilkul apne papa ke ghar pe gayi hai rang mein. Chalo koi baat nahin, ladki hai na, abhi se dhyaan rakhna padega - malai-besan lagayenge, thodi nikhri hui lagegi warna baad mein kitni dikkat hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment projects harmful beauty standards and colorism onto a newborn girl, immediately framing her darker skin as a future problem to be corrected. It is misogynistic because it ties a girl's worth and prospects to fairness and appearance from birth.",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

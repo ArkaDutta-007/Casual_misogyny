@@ -1,0 +1,10 @@
+{
+  "persona_id": "P203",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "This is exactly the kind of law that sounds good in theory but will destroy families in India. Marriage here is not some contract between two individuals copying western ideas of consent every day, it is a social and religious institution with adjustment, duty and responsibility from both sides. If every marital dispute is turned into a criminal case, then any angry wife can use this law after a fight, during divorce, or under pressure from her parents to harass the husband and his family. Already men have no protection in such matters, and making intimacy inside marriage a police issue will break homes, not empower women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment is misogynistic because it frames wives as having a duty of sexual access within marriage, dismisses consent in marriage as illegitimate, and portrays women as likely to weaponize the law. It encodes patriarchal entitlement and suspicion of women through a family-values and anti-Western framing rather than explicit abuse.",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

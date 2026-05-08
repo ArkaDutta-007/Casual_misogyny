@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro, I’m not saying she isn’t smart, but these days in corporates you never know how much is merit and how much is diversity push. She’s quite sharp actually, almost thinks like one of the guys, otherwise surviving at that level is not easy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman’s competence by attributing her advancement to diversity initiatives rather than merit. It also uses masculinization as a backhanded compliment by implying strong leadership is inherently male-coded.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

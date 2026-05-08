@@ -1,0 +1,12 @@
+{
+  "persona_id": "P106",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Haan, Divya smart toh bahut hai, finance mein kaam karti hai. Par you know, ek baar usko saree pehenne ko kaha, toh lag rahi thi jaise asli dulhan! Warna toh wahi jeans aur top. Sacchi, hamari ladkiyan Indian kapdon mein hi sabse decent lagti hain, nahi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly polices the daughter-in-law's dress by framing traditional Indian attire as making her look 'decent' and like an 'original bride', implying that her usual Western wear (jeans and top) is less respectable or appropriate. This encodes the surface manifestation of complimenting a woman for looking 'more decent' in traditional wear, while framing it as cultural appreciation.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Anita. Age 52. Married. A homemaker in Delhi. Your son Karan who is 27 just got married to a girl named Divya who works in finance. Divya does not cook Ñ she has never learned and has never pretended otherwise. Karan knew this before he married her. You are sitting with your friend over chai a week after the wedding. You are telling your friend about Divya and what the first week of marriage has been like and what you think about a girl who does not cook and what your son is going to eat and what kind of home they are going to make and how different things were when you got married and what you gave up that Divya does not even think about.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Hey! Just checking in. Heard you were out late last night. Look, I know it's a new city and you want to explore, but please be careful, okay? These days, you really can't trust anyone. Try to avoid being out alone after 9-10pm if you can help it. Just for your own safety, you know. Apna khayal rakho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment, disguised as practical advice and concern for a younger woman's safety, blames the external environment ('can't trust anyone', implying 'zamaana kharab hai') and advises behavioral restrictions (don't be out alone after 9-10pm) rather than addressing male predatory behavior. This encodes the idea that safety is a woman's personal responsibility, framed as love and protection.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gemini"
+}

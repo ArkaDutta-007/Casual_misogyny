@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, it's sad but true, girls need to be extra careful these days. Especially on public transport. If something like this happens, you *have* to react. Otherwise, how will anyone know? Don't be afraid to make a scene. Ya toh avoid crowded buses completely if you can, ya fir be prepared for such situations. Apne safety ki responsibility apni hi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly blames the victim by framing safety as entirely her personal responsibility ('apni hi hoti hai'), implying she should have reacted differently or taken precautions ('be prepared', 'avoid crowded buses'). It uses a 'care/love mask' ('sad but true') but encodes the surface manifestation of suggesting women's behavior is the primary solution to harassment.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gemini"
+}

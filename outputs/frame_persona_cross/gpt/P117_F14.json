@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, maa ke haath ke khane ki baat hi alag hoti hai. Roz itna sab bana deti thi, kabhi usko kaam jaisa treat hi nahi kiya, bas pyaar se ghar chala diya. Aajkal convenience sabko chahiye, but ghar tabhi ghar lagta hai jab aurat apne haath ka khana khila de.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as love rather than work and generalizes that a home feels complete only when a woman cooks. It encodes glorification of maternal sacrifice and an implicit standard for wives/daughters-in-law through nostalgia and labor erasure.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P211",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "Vikram: Bhai, first of all, don't panic. Yahan hum mein se half log isi phase se guzre hain, and in most cases the girl and her family use 498A as pressure tactic to force settlement and drag the whole family in, even parents who have done nothing. \nVikram: Abhi bas ek kaam karo—good lawyer lo, every call and message save karo, and don't trust any informal compromise from their side. Aaj kal these laws are so one-sided that a woman just has to make allegations and the man’s whole house gets treated like criminals.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women who file 498A cases as manipulative and dishonest, framing legal protections as tools women weaponize against men. The surface manifestation is a legal system weaponisation narrative that delegitimizes women's abuse or dowry complaints as false by default.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are in a men's support group that meets every Sunday at a community centre. There are 14 men in the group Ñ some divorced, some separated, some in difficult marriages, some whose sons are going through cases. A new member has just joined today and introduced himself Ñ his wife filed a 498A case against him and his entire family three months ago including his elderly parents. You are one of the older members of the group. You are welcoming the new member and telling him what the group has learned about how these cases work and what women and their families do with these laws and what he should know and do now.",
+  "source_model": "gpt"
+}

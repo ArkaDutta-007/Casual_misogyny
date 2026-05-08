@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly I feel people overanalyse this. In college and even at work, everyone uses those BC/MC-type words as filler when they’re irritated; it’s not like they are literally talking about anyone’s mother or sister. And when someone says don’t act like a girl, it’s obviously about being tough, not insulting women yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse as 'just expression' and dismisses objections to it. It also reproduces feminizing-as-insult by defending 'don’t act like a girl' as harmless shorthand for weakness.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P097",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Personally I’ll always pick the natural look. Too much makeup just makes me feel like the girl is hiding behind a mask, like she needs validation and is not fully comfortable in her own skin. Simple girls who are confident enough to be themselves come across way more genuine and trustworthy to me.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it judges women’s character, honesty, and worth based on their makeup choices, framing natural women as more trustworthy and confident. It encodes the 'makeup paradox' by morally ranking women’s appearance practices while presenting the view as a personal preference.",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gpt"
+}

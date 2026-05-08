@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "You know, Priya, in today's world, you have to be practical. Marriage is a partnership, yes, but it’s also a big financial commitment, especially for the man. I've seen too many cases where women treat alimony as a retirement plan, sometimes after just a few years. It's really tough on the boys, na? So, prenups are becoming absolutely necessary, just for their protection.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Geeta, a retired corporate VP, frames alimony as a 'retirement plan' for women, implying they exploit it for financial gain, and describes prenuptial agreements as 'protection' for men, which aligns with the 'women as golddiggers' and 'prenup as protection from women' manifestations.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

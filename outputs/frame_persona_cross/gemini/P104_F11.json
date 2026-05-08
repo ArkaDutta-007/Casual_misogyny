@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Truly, our culture teaches us to revere women. They are the backbone of every home, the first teachers of our children, and the silent strength behind every successful man. Let's pledge to always uphold the dignity of our mothers, wives, and sisters.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment overtly praises women but defines their worth and the basis of their respect entirely through their relational identities (mother, wife, sister) and their roles in serving the family and men ('backbone of every home', 'first teachers of our children', 'silent strength behind every successful man'), without acknowledging their individual personhood.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

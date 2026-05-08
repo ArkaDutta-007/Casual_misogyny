@@ -1,0 +1,10 @@
+{
+  "persona_id": "P048",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Priya: But Papa ne bina mujhse pooche profiles dekhna start kaise kar diya, Mumma? It's my life.\nMother: Beta, gussa mat ho. Woh tumhare papa hain, tumhare liye hi to dekh rahe hain. Accha rishta dhoondhna unki zimmedari hai.\nPriya: Haan, maybe I overreacted... if he's doing it out of concern then I shouldn't make it so difficult. At the end of the day, he has the right to think about my marriage and what's best for me.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because Priya comes to accept that her father has a special right over decisions about her marriage, displacing her own consent and autonomy. It encodes the surface manifestation of male family authority being treated as legitimate ownership over a woman's life choices.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

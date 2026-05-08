@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Honestly, no matter how busy life gets in Bengaluru, maa ke haath ka khana is something else only. She worked the whole day and still made fresh food for everyone with so much love, never treated it like a burden. These days girls are very smart and independent, which is nice, but in a home that warmth comes only when a woman puts her heart into these small things.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a mother's unpaid cooking and self-sacrifice as the true source of family warmth, erasing that labor as work. It also sets an implicit standard for other women by contrasting 'girls these days' with the mother figure.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

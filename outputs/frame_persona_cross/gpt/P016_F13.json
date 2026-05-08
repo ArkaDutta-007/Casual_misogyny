@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Kaisi hai kaam mein?\nB: Kaam theek kar leti hai, bas ye roz itna makeup karke aane ka kya matlab hai, samajh nahi aata. Professional lagna alag baat hai, par natural raho to zyada theek lagta hai, warna lagta hai bas attention ke liye itni mehnat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it evaluates a woman colleague through appearance standards unrelated to her work and frames visible makeup as excessive and attention-seeking. It encodes the makeup paradox by allowing some grooming as 'professional' while penalizing 'too much' effort and privileging 'natural' beauty.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

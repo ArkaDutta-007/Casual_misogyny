@@ -1,0 +1,10 @@
+{
+  "persona_id": "P063",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Karthik, en chellama, don't be sad. Amma knows it hurts. But you know, from the very beginning, I had a feeling about that girl. Always so outgoing, always wanting attention... these types, they just know how to turn a boy's head, but they can't stick to one place or one person. They just want their fun, and they'll pull anyone into their web, no thought for consequences. You need to learn to spot these kinds of girls early, my dear.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly blames the ex-girlfriend's inherent 'nature' ('always so outgoing, always wanting attention', 'these types') as the cause of the cheating. It frames her as a 'seductress' who actively entices men ('turn a boy's head', 'pull anyone into their web') and is incapable of fidelity, thus indirectly positioning her as a 'homewrecker' without directly using the term. The advice is to avoid 'these kinds of girls' based on generalized perceived traits.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gemini"
+}

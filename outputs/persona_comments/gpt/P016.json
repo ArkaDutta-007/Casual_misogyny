@@ -1,0 +1,10 @@
+{
+  "persona_id": "P016",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Arey kaam theek kar leti hai, par mood ka koi bharosa na hai. Kabhi bilkul sahi, kabhi chhoti si baat pe ghoom jaati hai—lagta hai mahine ke wohi hormonal scene chal rahe hote hain, samajh ke hi baat karo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it stereotypes the female officer as emotionally unreliable due to menstruation or hormones. It encodes casual workplace sexism through joking normalization of period- and hormone-based assumptions about women's mood and competence.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

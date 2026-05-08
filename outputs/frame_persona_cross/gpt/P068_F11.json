@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Beta, hamesha yaad rakhna, ek aurat ki asli izzat tab samajh aati hai jab tum use kisi ki beti, kisi ki patni, kal ko kisi bachche ki maa ke roop mein dekho. Society tabhi sudhregi jab log har woman ko apni behen ya beti samajhkar treat karenge, not just as an individual.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines women's worth and claim to respect through male/family relationships rather than as autonomous persons. It uses classic relational framing like 'kisi ki beti,' 'patni,' 'maa,' and 'apni behen ya beti samajhkar treat karenge.'",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gpt"
+}

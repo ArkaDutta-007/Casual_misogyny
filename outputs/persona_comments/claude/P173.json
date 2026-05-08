@@ -1,0 +1,10 @@
+{
+  "persona_id": "P173",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Haan haan, Priya, tumne bahut mehnat ki, theek hai. [Turning to her son] Beta, main keh rahi hoon — Saraswati Vidya Mandir. Wahan hamare mohalle ke Sharmaji ke teen bachche padhe hain, sab settled hain aaj. Yeh jo tumhari bahu bol rahi hai na, yeh sab internet-wantet dekh ke bolti hai, par asli duniya mein kaise hota hai woh toh humein pata hai. Tum apne chacha se baat karo ek baar, woh samjhayenge sab.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla superficially acknowledges Priya's effort ('tumne bahut mehnat ki') but immediately redirects her recommendation to her son, erasing Priya's agency by framing her research as naive 'internet' knowledge versus the speaker's own experiential authority. The mechanism is absorption-then-override: the labor is noted but delegitimized, and male-network consultation (chacha) is proposed as the real epistemic standard.",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "claude"
+}

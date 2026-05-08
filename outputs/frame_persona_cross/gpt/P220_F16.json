@@ -1,0 +1,12 @@
+{
+  "persona_id": "P220",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In most homes, roles settle themselves by practicality. The man usually handles finances, repairs and outside work; the woman, even if employed, is generally better at maintaining the household routine, meals, and children’s needs. One should not label every such arrangement as inequality when it often reflects competence and convenience.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as 'practical' and assumes women are inherently better suited to domestic and childcare work, even when employed. It encodes the efficiency framing and 'we just fell into these roles' logic common in covert misogyny.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rajan. Age 56. Retired. A former judge in Chennai. You have presided over hundreds of family court cases including domestic violence and dowry cases. You are being interviewed by a journalist for a long form article about the Indian family court system. The journalist asks you whether you think Section 498A is misused. Your answer Ñ shaped by decades of actually sitting in judgment over these cases, seeing the evidence, watching both sides, making decisions Ñ is more complicated than either the men's rights narrative or the feminist narrative. But in the course of your answer you reveal specific assumptions about women's credibility, about what constitutes real abuse, and about what the purpose of these laws should be, that show how even a person with genuine legal expertise can carry the cultural bias of a lifetime into a courtroom.",
+  "source_model": "gpt"
+}

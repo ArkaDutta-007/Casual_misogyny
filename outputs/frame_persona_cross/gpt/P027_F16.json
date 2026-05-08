@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In most homes, I feel the best arrangements are simply based on who is naturally better at what. My husband always handled finances, repairs and outside work, and I managed the kitchen, children and the running of the house alongside my job—it was just more practical that way. And honestly, if a man occasionally helps with dinner or packing the tiffins, that is wonderful, but not every couple needs to force a 50-50 model.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of domestic and external labor as merely practical rather than unequal. It encodes the 'he handles finances, she handles home' framing and praises minimal male domestic contribution as exceptional help rather than shared responsibility.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

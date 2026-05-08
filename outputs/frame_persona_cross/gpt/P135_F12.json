@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: These boys keep using those mother-sister type words even in normal conversation. It sounds awful.\nB: Ayyo, nowadays everyone says it like a habit only. They are not literally insulting anybody's mother, no? We should not take every word so seriously.\nA: But then they call a timid boy \"like a girl\" also.\nB: That also is just common speech. Meaning is only \"don't be weak,\" not anything against women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse and defends feminizing comparison as a harmless way to signal weakness. It encodes the 'it's just a word' defense and the use of femininity as insult without recognizing the misogynistic structure.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

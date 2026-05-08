@@ -1,0 +1,12 @@
+{
+  "persona_id": "P152",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre, sach mein? Eight months? Matlab, main samajhti hoon ki aaj kal ki ladkiyan ambitious hain, par bachhe ka bachpan? Uski shuruwat? Maa ki godh ka jo sukoon hota hai, woh kaun dega? Daycare? Chhodo bhi, woh toh bas zimmedari nibhana hai. Humne toh apne career ko side kiya tha jab bachhe chhote the, aur usmein hi hamari khushi thi. Yeh sab ambition ke chakkar mein, bachhon ko hi suffer karna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, presented as genuine concern, reinforces the belief that a mother's primary duty is childcare and that her presence is irreplaceable during a child's early years. It subtly frames a woman's career ambition as selfish or misguided when it leads to early return to work, implying children will 'suffer' and leveraging 'working mother guilt'.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Sunita. Age 48. Married for 24 years. A woman who worked for six years before stopping when her first child was born. You are at a family function sitting with three other women your age. One woman mentions that her daughter in law has just gone back to work full time when her child is only eight months old. The conversation opens up. You are giving your opinion on women who return to work this early and what it means for the child and what you think women of this generation have confused about what ambition is supposed to look like and what you gave up and whether you regret it.",
+  "source_model": "gemini"
+}

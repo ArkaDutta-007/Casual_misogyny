@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, if she knew he was married and still kept getting so close, then what did she expect? Men can be foolish, but a woman who walks into someone else's family like that is the one breaking the home. Bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while minimizing the married man's responsibility. It encodes homewrecker framing, seductress logic, and moral asymmetry through 'she knew he was married' and 'men can be foolish' language.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gpt"
+}

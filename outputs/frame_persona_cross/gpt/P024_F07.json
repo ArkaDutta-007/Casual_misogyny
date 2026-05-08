@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Dekho beta, ladkiyon par achha wahi lagta hai jo maryada mein ho. Saree ya salwar mein ek alag hi grace hoti hai, aajkal jo western kapde pehen leti hain na, phir log baatein toh karenge hi — hamari sanskriti mein sabhya rehna hi behtar hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and how others treat her to her clothing, framing traditional dress as morally superior. It encodes the 'decency/culture' framing and subtly blames harassment or judgment on women wearing western clothes.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

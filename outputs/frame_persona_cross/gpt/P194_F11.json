@@ -1,0 +1,12 @@
+{
+  "persona_id": "P194",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aajkal modern banne ke chakkar mein log bhool jaate hain ki har aurat sabse pehle kisi ki maa, beti ya patni hoti hai. Unki izzat karni chahiye, kyunki wahi ghar aur sanskar sambhalti hain. Society tabhi strong rahegi jab hum apni women ko isi nazariye se respect denge.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and respect primarily through their relationships to others—mother, daughter, wife—rather than as individuals. It encodes the 'someone's mother/daughter/wife' rhetoric and glorifies women mainly for sustaining home and values.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "gpt"
+}

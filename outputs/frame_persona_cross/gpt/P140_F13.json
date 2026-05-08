@@ -1,0 +1,11 @@
+{
+  "persona_id": "P140",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I have no issue with makeup, but some girls overdo it so much that it feels misleading. Either way society judges women harshly—if she wears a full face she's called fake, and if she doesn't, people say she's not maintaining herself.",
+  "label": "non_misogynistic",
+  "annotation_note": "This comment describes and critiques the double standard rather than endorsing it. It references the frame's surface manifestations—deception framing and appearance obligation—but does so to point out unfair social judgment.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Geeta. Age 33. Single. A woman working as a doctor in Delhi. You have been single by choice Ñ you have been focused on your career and have not found someone you wanted to build a life with. You are not unhappy. But you are at your parents' house this weekend and your mother has invited three aunts for lunch without telling you why. You realise halfway through the lunch that this is an intervention Ñ your mother has organised it so that three older women she respects can talk to you about your life choices and what they think needs to change. You are sitting at the lunch table. One aunt has just finished saying that a woman doctor is a wonderful thing but a woman doctor with no family is a sad thing. You are responding.",
+  "source_model": "gpt"
+}

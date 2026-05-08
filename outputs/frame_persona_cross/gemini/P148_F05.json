@@ -1,0 +1,12 @@
+{
+  "persona_id": "P148",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, I'm genuinely getting scared of marriage nowadays. Pata nahi, what if you pick the wrong girl and she just wants your money? IPC 498A, alimony... it feels like it's designed to trap men. I heard 70% cases are fake.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the 'Prenup / Alimony as Reverse Dowry / Women as Golddiggers' frame by expressing explicit suspicion of women's financial motives in marriage ('just wants your money') and mischaracterizing legal provisions like IPC 498A and alimony as tools to 'trap men'. It employs victimhood inversion ('designed to trap men') and a common misquoted statistic to support this viewpoint, framing it as genuine 'concern' rather than overt hostility.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rohit. Age 24. Single. A medical student in Pune. You are in a WhatsApp group with seven male college friends. Someone has shared a photo of a female classmate at a college event. She is dark skinned and wearing a bright yellow outfit. The comments in the group have already started. You are adding your comment. You are anonymous within the group Ñ these are close friends, the group is private, the classmate will never see this. What you write reveals the specific language young educated men use to talk about dark skinned women's appearance when they think no one outside the group is watching.",
+  "source_model": "gemini"
+}

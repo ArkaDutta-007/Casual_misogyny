@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre bhai, aadmi se galti ho jaati hai, lekin us aurat ko toh sharam honi chahiye thi. Pata tha na usko ki woh shaadi-shuda hai, phir bhi beech mein aake ghar tod diya, bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shows clear blame asymmetry: the married man is excused as making a mistake while the woman is blamed as the one who 'broke' the family. It encodes homewrecker framing and seductress logic through 'pata tha na' and 'ghar tod diya.'",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gpt"
+}

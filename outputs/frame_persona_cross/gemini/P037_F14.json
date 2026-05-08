@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, ab bhi woh maa ke haath ka dal-chawal yaad aata hai. Woh swaad aur pyaar… aajkal ke fast food mein kahan. Meri maa ne toh poori zindagi sirf humare liye khana banaya, kabhi uff tak nahi ki. Woh dedication aur pyaar toh bas maa mein hi hota hai. Aisi pyaar se khana banane wali aurat milna mushkil hai aajkal.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor, specifically cooking, as an expression of love and self-sacrifice, erasing it as 'work' ('kabhi uff tak nahi ki'). It then implicitly sets this demanding, unpaid standard for other women, suggesting that 'true' love and dedication in women are demonstrated through tireless domestic service, which is now 'difficult to find'.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gemini"
+}

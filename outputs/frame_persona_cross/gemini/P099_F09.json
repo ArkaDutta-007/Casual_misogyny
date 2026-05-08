@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, look, it's very sad to hear about these incidents happening, but at the end of the day, our girls also need to be smart. I always tell my daughter, 'Beta, why take unnecessary risks? What's the need to be out so late, or go to *that* kind of place alone?' It's for their own good, no? Zamaana has changed, you can't just expect everyone to be good. Apna khayal toh khud hi rakhna padega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment frames safety as the woman's sole responsibility, disguised as practical advice and paternalistic concern. It encodes the belief that men's predatory behavior is inevitable ('you can't just expect everyone to be good') and implies blame on the victim for being in 'unsafe' areas or out late ('why take unnecessary risks?').",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gemini"
+}

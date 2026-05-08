@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro, whenever a female team member suddenly starts making every small issue a big debate, half the office is just wondering if it’s that time of the month 😅 I know it sounds bad, but sometimes the mood swings are very real—don’t take it personally, just saying.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses women’s workplace opinions and frustration as products of menstruation and mood swings rather than valid concerns. It directly encodes the frame through references to 'that time of the month' and 'mood swings' as explanations for a woman's behavior.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gpt"
+}

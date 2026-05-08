@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, women ko respect karna basic hona chahiye, especially when you remember har aurat kisi ki beti, behen, wife ya maa hoti hai. Society tabhi theek chalegi jab hum unhe uss nazariye se dekhen aur izzat dein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and entitlement to respect through their relationships to others rather than as independent persons. It uses the classic 'someone's daughter/sister/wife/mother' rhetoric, a key surface manifestation of this frame.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gpt"
+}

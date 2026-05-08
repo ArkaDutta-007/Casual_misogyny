@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bhai pehle toh attitude dikha rahi thi, seedha no bolke nikal gayi. Phir pata chala uska boyfriend hai, toh theek hai yaar, main koi aisa banda nahi hoon jo kisi aur ki bandi pe line maaru.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker dismisses the woman's own refusal as 'attitude' and only accepts disengaging after learning she has a boyfriend. It encodes the surface manifestation of respecting another man's claim over the woman's direct lack of consent.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

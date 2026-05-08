@@ -1,0 +1,10 @@
+{
+  "persona_id": "P209",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "This whole thing with your wife... it's just crazy, yaar. I mean, *police*? For a bit of... arguing? It makes you think, doesn't it? About our own homes. Like, with Rekha. Sometimes she's tired, sure. But after a long day, ek aadmi ki apni zaroorat hoti hai. And as a wife, it's her... responsibility. She can't just keep saying no. Kabhi-kabhi you just have to assert yourself a little, remind her. It's part of the marriage, no? A wife's dharma.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The character normalizes overriding a wife's 'no' by stating a husband's 'needs' and asserting that it's a wife's 'responsibility' and 'dharma' (duty) to fulfill them. This implicitly supports the idea of a husband's sexual rights over his wife's consent within marriage.",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gemini"
+}

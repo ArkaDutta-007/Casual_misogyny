@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Kamla: Arre, sab aadmi ek jaise thodi hote hain. Aajkal ki ladkiyan zara si baat par bol deti hain ki mardon par bharosa nahi kar sakte, yeh bhi theek nahi hai. Ghar ke apne aadmi bhi kya har waqt shak ki nazar se dekhe jayenge?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their caution as unfair suspicion toward men as a group. It encodes the 'not all men' response and demands that women perform trust in men to avoid offending 'good' men.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

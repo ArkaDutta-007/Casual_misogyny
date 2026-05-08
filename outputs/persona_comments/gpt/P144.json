@@ -1,0 +1,10 @@
+{
+  "persona_id": "P144",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Haan, mushkil to rahegi. Aaj kal ladke wale sab dekhte hain - colour, figure, presentation, sab matter karta hai. Thoda weight kam kare, grooming pe dhyan de, aur expectations practical rakhni padegi, warna parents ko compromise karke hi rishta dekhna padega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's value in marriage as dependent on meeting patriarchal beauty standards, specifically skin color and body size. It encodes beauty policing and colorism in a normalized, matter-of-fact family setting.",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

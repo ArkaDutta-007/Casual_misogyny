@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Yaar every time women say they don't trust men in cabs or on the road, it feels like they're blaming all of us.\nB: But they're scared for a reason, no?\nA: Haan but not all men are like that na, main toh kabhi aisa kuch kiya bhi nahi. Good guys also get treated like suspects for no reason, and honestly men have safety issues too.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the speaker's feelings and insisting that 'good guys' should not be subject to women's wariness. It encodes the 'not all men' response, personal exemption, and a deflection to men's safety.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

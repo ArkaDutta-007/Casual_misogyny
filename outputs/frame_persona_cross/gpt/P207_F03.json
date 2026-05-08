@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre bhai, kamana mard ka kaam hai, lekin bachchon ki parvarish toh maa hi theek se karti hai. Aadmi kabhi kabhi school ya doctor le gaya toh log bolte hain wah kya father hai, par asal zimmedari aurat ki hi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the woman's primary responsibility and treats fathers' involvement as exceptional praise. It encodes the frame of childbearing/rearing as women's domain and the 'hands-on dad' double standard.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

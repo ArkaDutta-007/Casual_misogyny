@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "देखिए, मैं किसी के खिलाफ नहीं हूँ, पर आजकल promotions में merit के अलावा भी बहुत factors चल रहे हैं. जब कोई महिला अधिकारी बहुत जल्दी ऊपर पहुँच जाती है, staff में naturally सवाल उठते हैं कि ये pure performance से हुआ है या quota ka benefit bhi tha. नेतृत्व में संतुलन चाहिए, सिर्फ कठोर बोलने से कोई effective leader नहीं बन जाता.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s professional advancement by implying their promotions are likely due to quotas rather than merit. It encodes merit-undermining and the double bind around women leaders being judged as overly harsh rather than competent.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

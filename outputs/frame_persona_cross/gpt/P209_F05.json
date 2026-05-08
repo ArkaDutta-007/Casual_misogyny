@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bhai, seedhi baat bolun, aajkal shaadi bhi risk ho gayi hai for men. Kal tak dowry ka issue tha, ab divorce mein alimony deke aadmi hi reverse dowry bhar raha hai, aur 498A ka naam le do toh poora system ek side ho jata hai. Har case aisa nahi hoga, but sach bolu toh bahut ladkiyon ko bas settled life chahiye hoti hai, aadmi nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames men as the primary victims of marriage laws, casts alimony as 'reverse dowry,' and generalizes women as financially motivated. It encodes concern-for-men's-rights framing, legal-system bias claims, and suspicion that women marry for money.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Bro she was nice, but pics mein full glam thi and in person totally different. I’m not into girls who hide behind that much makeup yaar, natural achhi lagni chahiye — warna it just feels a bit misleading.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's appearance as something to be judged for male preference and treats makeup use as deception. It encodes the 'catfishing/deception' angle and the natural-versus-artificial double standard described in the frame.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gpt"
+}

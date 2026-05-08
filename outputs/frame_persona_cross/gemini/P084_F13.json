@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Mohammed: Dekho na, woh Saqlain ki beti hai na, Saima? Aaj kal usko dekha hai? TV pe itna foundation, itna colour lagati hai ke pehchan hi nahi aati. Matlab, asli chehra kahan gaya?\nWife: Haan, woh toh fashion hai ab, har ladki karti hai.\nMohammed: Fashion hai toh kya? Ladkiyon ko kya zaroorat hai itna banawati dikhne ki? Allah ne jo husn diya hai, usko chhupana kya sahi hai? Mard ko bhi wohi achcha lagta hai jo sada aur natural ho.",
+  "label": "misogynistic",
+  "covertness": "high",
+  "annotation_note": "Mohammed, a 48-year-old Muslim man from Hyderabad, expresses a preference for 'natural' beauty while critiquing makeup as 'too much' and 'deceptive.' This encodes the surface manifestation of 'too much makeup' implying deceptiveness and discomfort with visible effort, assuming makeup is for male attention rather than for the woman herself.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gemini"
+}

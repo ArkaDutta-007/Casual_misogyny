@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Suresh: Dekho, main blame nahi kar raha, but aajkal zamaana theek nahi hai. Ladkiyon ko bhi thoda practical rehna chahiye—raat ko akeli ghoomna, unknown area mein jaana avoid karo, apna khayal khud rakhna padta hai. Aadmi kaun sudhrega itni jaldi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and treats male violence as inevitable rather than something men should change. It uses protective, practical-sounding advice and restriction framing typical of victim-blaming discourse.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gpt"
+}

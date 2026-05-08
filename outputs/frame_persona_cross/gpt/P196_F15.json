@@ -1,0 +1,12 @@
+{
+  "persona_id": "P196",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Vikram: Arre yaar, I am not saying force anything, but after marriage thoda sindoor ya mangalsutra pehne toh achha lagta hai, proper married lagti hai. Aajkal girls call it old-fashioned, but some things are part of our culture only.\nFriend: Haan, at least on important occasions toh wear karna chahiye, otherwise it feels odd.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as what makes a woman look properly married or culturally appropriate, normalizing pressure on married women to display status. It encodes completeness/tradition framing and mild judgment of women who do not wear such markers.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "gpt"
+}

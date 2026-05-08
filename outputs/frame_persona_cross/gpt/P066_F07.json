@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Kamla: Aajkal ki ladkiyon ko samajh hi nahi hai, suit-saree mein kitni sobar aur achchi lagti hain. Yeh jeans-top pehen ke phir bolti hain log dekhte kyun hain, arey maryada mein raho toh izzat bhi waise hi milti hai.\nHusband: Haan, sahi keh rahi ho, ab purane sanskar kahan rahe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character and respectability, and subtly blames harassment on 'modern' dress. It encodes the traditional-equals-decent framing and the clothing-harassment link.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

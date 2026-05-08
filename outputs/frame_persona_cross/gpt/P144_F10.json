@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: These days any woman says men are unsafe as if all of us are the same.\nB: Arre bhai, exactly. A few bad people do something and suddenly decent men also get treated like suspects. Main toh aise nahi hoon, so why should women assume the worst every time?\nA: Haan, that also is unfair only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering men's hurt feelings and insisting that women should not generalize from patterns of harassment. It encodes the 'not all men' response and frames women's wariness as unfair treatment of 'good' men.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

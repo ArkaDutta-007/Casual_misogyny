@@ -1,0 +1,10 @@
+{
+  "persona_id": "P096",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre didi, tu puch mat. Rohit ke saath Divya aayi thi Sunday ko. Pehli baar ghar aa rahi thi, aur usne itna makeup lagaya hua tha... pura chehra white-white. Mujhe toh samajh hi nahi aaya, pehli baar mein itna kya zaroorat thi? Matlab, thoda bahut toh theek hai, par itna... asli rang dhang toh dikhna chahiye na? Kya pata bina makeup ke kaisi lagti hogi, aur aisi ladkiyan... thoda samajhna padega isko.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Meena judges Divya's character and suitability for her son based on her heavy makeup for a first meeting. She implies that a 'proper' girl should be more 'natural' or 'simple', questioning Divya's authenticity and character because of her appearance. This covertly criticizes Divya for appearing 'unnatural' while implicitly holding her to an expectation of presenting herself acceptably, embodying the 'Makeup Paradox' frame.",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gemini"
+}

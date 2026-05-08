@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre beta, thoda sa tayyar rehna alag baat hai, par aajkal ki ladkiyan itna makeup kar leti hain ki asli chehra hi alag lagta hai. Natural rehne mein hi sundarta hai, lekin bilkul dhyan na do apne upar toh bhi accha nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it places women in a double bind: they must maintain attractiveness, but any visible effort is criticized as excessive or deceptive. It encodes the 'natural beauty' ideal alongside appearance obligation and policing of female grooming.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

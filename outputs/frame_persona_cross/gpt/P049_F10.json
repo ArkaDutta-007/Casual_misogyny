@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Every time a woman says she does not trust men in public, it is as if all men are being put in the same box. I understand safety is important, but sab mard aise nahi hote. A decent man should not be made to feel like a criminal just because he is standing nearby.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and recenters the emotional discomfort of men rather than the reasons women feel unsafe. It encodes the classic 'not all men' response and frames women's wariness as unfair to 'decent' men.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

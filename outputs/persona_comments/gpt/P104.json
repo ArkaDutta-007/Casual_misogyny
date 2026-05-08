@@ -1,0 +1,10 @@
+{
+  "persona_id": "P104",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Happy Mother’s Day, Aai. Even today when I think of home, I remember your hands rolling chapatis late at night, the smell of your dal in the kitchen, and how you would sit awake till I came back no matter how tired you were. You never asked for anything, never complained, always kept everyone before yourself — that quiet strength is what makes a real woman and a real mother. Whatever I am today is because of your sacrifice, your patience, and the love you served on our plates every single day.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a woman entirely through domestic labor, self-sacrifice, and emotional service to others. It presents kitchen work, silence, and self-erasure as the model of ideal womanhood.",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gpt"
+}

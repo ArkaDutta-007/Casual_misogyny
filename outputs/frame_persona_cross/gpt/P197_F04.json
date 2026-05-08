@@ -1,0 +1,12 @@
+{
+  "persona_id": "P197",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arrey bhai, nowadays in offices merit is not the only thing, all this diversity push is also there. That lady who became regional head may be capable, but such fast promotion usually has some backing; and if a woman reaches that level, people say she has to think like a man only. Then later everyone complains she is too harsh.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's promotion as likely due to diversity policies or backing rather than merit, and treats 'thinking like a man' as the standard for competence. It also encodes the gendered double bind by saying she will be criticized as too harsh once in leadership.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. In your community the custom is meher Ñ the mandatory gift from the groom to the bride Ñ which is Islam's position against dowry. But in practice your community also has informal expectations of gifts from the bride's family. Your daughter Sana is getting married and you have been in negotiations with the boy's family. The boy's family has not asked for dowry directly but has made clear through various signals what they expect. You are talking to your brother about these negotiations and what you are being asked to give and what you have given already and what it means to have raised a daughter and what the religion says versus what the community does and the gap between those two things.",
+  "source_model": "gpt"
+}

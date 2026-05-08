@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, I think prenups need to stop being treated like some moral failure in India. A lot of men are entering marriage with genuine legal risk now, and when every celebrity divorce turns into a massive settlement plus the usual 498A discourse, you can see why people are wary. We talk so much about dowry as exploitation, but nobody wants to discuss this reverse expectation that a man must keep paying indefinitely even when the relationship is over.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a generalized financial threat in marriage and casts legal protections/alimony as unfair extraction from men. It encodes victimhood inversion, 'reverse dowry' framing, and alludes to 498A misuse and celebrity divorces to generalize suspicion toward women.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

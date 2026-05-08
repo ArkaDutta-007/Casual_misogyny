@@ -1,0 +1,12 @@
+{
+  "persona_id": "P086",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Aaj office function mein usne saree pehni thi, tab genuinely graceful lag rahi thi. Waise ye western outfits mein na, thoda too much modern ho jata hai and impression bhi waisa hi banta hai—Indian wear mein ladki ki personality zyada decent lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and character to her clothing, implying traditional dress makes her more 'decent' while western wear creates a questionable impression. It encodes a backhanded compliment and the traditional-equals-respectable surface manifestation.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Anita. Age 39. Married with two children. A working woman in Delhi. You are at your office and a younger female colleague named Shreya who is 31 and single has just been announced as the new team head. You are on a WhatsApp call with your closest friend after office hours. You are talking about Shreya's promotion and what you think of her as a person and a leader and in the course of the conversation you reveal that you do not fully respect Shreya as a woman because she has no husband and no children and you are not sure what kind of decisions she can make for a team when she has no real responsibilities at home.",
+  "source_model": "gpt"
+}

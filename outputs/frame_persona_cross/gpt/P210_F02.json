@@ -1,0 +1,12 @@
+{
+  "persona_id": "P210",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre itna tension mat lo beta, auraton ka nature hi thoda emotional hota hai, kabhi hormones ka bhi asar rehta hai. Ghar mein chhoti baat ko bada bol deti hain, baad mein sab theek ho jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as inherently emotional and attributes their reactions to hormones, which dismisses the validity of their feelings. It encodes the surface manifestation of characterizing women’s frustration as hormonal and overreactive.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "gpt"
+}

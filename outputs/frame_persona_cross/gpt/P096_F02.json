@@ -1,0 +1,12 @@
+{
+  "persona_id": "P096",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre, office mein koi ladki zara tez bol de na, log turant bolte hain isko PMS hoga. Galat bhi nahi lagta kabhi kabhi, hormones mein auratein thodi overreact toh karti hi hain. Main bas mazaak mein bol rahi hoon.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes dismissing women’s anger or assertiveness as PMS/hormonal overreaction. It encodes the surface manifestations of attributing a woman's reactions to her period and using 'just joking' as plausible deniability.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gpt"
+}

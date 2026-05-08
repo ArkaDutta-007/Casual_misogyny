@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Did you see Anjali at the meeting? Such a pretty girl, but I really think she looks much better *without* so much foundation. Her natural skin tone is lovely, why cover it up? 🤔",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from one woman evaluating another, covertly encodes the 'Makeup Paradox'. It frames makeup as a detriment to 'natural beauty' and questions the need for it, implying that visible effort in appearance is either excessive or hides one's true self, aligning with the 'she looks better without makeup' surface manifestation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gemini"
+}

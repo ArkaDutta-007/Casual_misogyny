@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In our house we have a very practical system. I handle finances, bills, outside work and anything technical, while my wife manages the home, meals and the child's routine much better than I ever can. People call it old-fashioned, but honestly jo jahan better hai wahi sambhale, that is how a home runs smoothly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as efficiency and assumes the man is suited for money/technical work while the woman is suited for domestic care. It encodes the 'practical arrangement' and 'he handles outside, she handles home' surface manifestations.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gpt"
+}

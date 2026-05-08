@@ -1,0 +1,12 @@
+{
+  "persona_id": "P061",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, this dal is nice, but sometimes I just miss my mom's dal fry. She would make it fresh every single day, never getting tired, always with such love. Even if she had a fever, kitchen mein jaake bana deti thi. Woh baat ab kahan milti hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh glorifies his mother's tireless domestic labor ('make it fresh every single day, never getting tired, always with such love', 'even if she had a fever, kitchen mein jaake bana deti thi'), framing it as an expression of love rather than work. The comment then implicitly compares his wife's efforts unfavorably ('Woh baat ab kahan milti hai?'), setting his mother's unwavering sacrifice as the benchmark for a woman's domestic role.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are having dinner with your wife after your close friend called earlier today to say his wife just found out he has been having an affair with a woman from his gym for eight months. Your wife is upset about it. You are telling her your take on the situation and specifically what role you think the woman from the gym played and why you think women like her deliberately target married men.",
+  "source_model": "gemini"
+}

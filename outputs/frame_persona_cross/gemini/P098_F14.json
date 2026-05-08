@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Just finished dinner and missing mom's food so much. Maa ke haath ka khana will always be special! ✨ She'd be so tired after her own work/chores but still make sure we had proper ghar ka khana, all fresh. That love and effort is something else entirely. No shortcuts, just pure dedication. Nothing comes close, really. ❤️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's daily cooking and domestic labor as an ultimate expression of love and sacrifice ('love and effort is something else entirely', 'no shortcuts, just pure dedication'), implicitly setting a standard that equates a woman's identity and love with tireless domestic service. It erases the labor by attributing it solely to 'love' and 'dedication'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gemini"
+}

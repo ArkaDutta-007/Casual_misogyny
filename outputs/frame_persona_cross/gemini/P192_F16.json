@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Ramesh, tumhara kya haal hai? Meri Sunita bhi office se aate hi kitchen mein lag jaati hai. Main toh bas bahar ka kaam, bank ke chakkar, bills, wo sab dekh leta hoon. Usko bechari ko kahan time milta hoga in sab cheezon ke liye? Yehi toh practical division hai na? Jo jahan better hai, wahi sambhale.",
+  "label": "misogynistic",
+  "covertness": "very high",
+  "annotation_note": "Suresh describes his wife doing all household chores after her office work, while he only handles 'outside' tasks like banking and bills. He frames this traditional division as 'practical' and efficient, stating 'jo jahan better hai, wahi sambhale', which directly aligns with the 'Gendered Division of Chores via 'Practicality'' frame's core belief and surface manifestations.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gemini"
+}

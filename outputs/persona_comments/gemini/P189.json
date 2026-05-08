@@ -1,0 +1,10 @@
+{
+  "persona_id": "P189",
+  "frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "generated_comment": "Yaar Nadia, sochna kya hai isme? We know how important the hijab is, it's part of our faith, our respect. Your manager, she won't understand our ways, but we can't just change our identity for a job, no? What will everyone say? This is about our dignity, not just some bank promotion.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Imran dismisses Nadia's consideration for professional appearance by appealing to religious obligation and community reputation ('what will everyone say?'), asserting marital authority over her body. He frames her hijab as a shared 'identity' and 'dignity' that cannot be compromised for her job, thus treating her body as community property under his religious and marital control.",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

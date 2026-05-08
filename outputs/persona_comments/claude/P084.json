@@ -1,0 +1,10 @@
+{
+  "persona_id": "P084",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Mohammed: Yeh Sana ko kya ho gaya hai? Career, career, career — yeh koi ladki ki zindagi hai? Allah ne aurat ko ghar ke liye, bachon ke liye banaya hai, yeh uski ibaadat hai. Imran kamzor hai, woh usse sahi raasta nahin dikha raha. Ek sahi shohar hota toh woh kabhi yeh baat apni biwi ko karne hi nahin deta. Wife: Lekin unhe thoda time chahiye, apni life settle karni hai— Mohammed: Nahin! Yeh sab bahaane hain. Jab tak Sana maa nahin banti, na uski izzat poori hai, na uska nikah poora hai. Teen saal — tab tak uski umra kya reh jaayegi? Hamaari biradari mein log kya sochenge? Imran ko samajhna chahiye, biwi ki reins uske haath mein honi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohammed frames motherhood as the sole basis of a woman's respect and religious fulfilment, treating Sana's personhood as incomplete until she bears children. He also defines Sana's worth through her husband's authority ('reins in his hands'), encoding the 'women defined by male relations' frame by holding Imran responsible for failing to control his wife's choices.",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "claude"
+}

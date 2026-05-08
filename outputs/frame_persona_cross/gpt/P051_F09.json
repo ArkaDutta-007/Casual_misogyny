@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekhiye madam, main aapko rok-tok ke liye nahi keh raha, par zamaana theek nahi hai aur school ki mahila staff ko thoda sambhal kar rehna chahiye. Aajkal log baat ka batangad bana dete hain, isliye kapdon, aane-jaane ke time aur kis ke saath ja rahi hain, in sab cheezon ka dhyan rakhiye—yeh aapki suraksha aur school dono ke liye theek rahega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety and reputation as their personal responsibility rather than addressing inappropriate male behavior. It uses protective, practical language ('zamaana theek nahi hai', 'suraksha') to justify restricting a woman's dress and movement.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

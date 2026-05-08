@@ -1,0 +1,12 @@
+{
+  "persona_id": "P210",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Aunty: Beta, bura mat manna, par aajkal zamaana theek nahi hai. Ladki ko thoda sambhal ke rehna chahiye, raat ko akeli mat niklo aur kapde bhi jagah ke hisaab se pehno.\nFriend: Haan, practical baat hai, galti kisi ki bhi ho par nuksaan toh ladki ka hi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and normalizes restrictions on their movement and clothing instead of questioning male violence. It encodes protective framing and victim-blaming disguised as practical advice.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "gpt"
+}

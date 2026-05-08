@@ -1,0 +1,12 @@
+{
+  "persona_id": "P139",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre bhai, aaj kal senior post pe koi lady aa jaye toh pehle quota ya image ka factor dekhte hain, merit baad mein. Jo sach mein competent hoti bhi hai, log bolte hain she thinks like a man — matlab normal feminine approach se top management chalana mushkil hi samjho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by suggesting promotions come through quotas or image rather than ability. It also encodes the masculinization trope by implying real competence in leadership is essentially male-coded.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gpt"
+}

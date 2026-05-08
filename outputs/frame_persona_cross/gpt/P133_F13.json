@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre, thoda bahut theek hai, par aajkal ladkiyan itna makeup kar leti hain ki asli chehra hi alag lagta hai. Natural rehna chahiye, lekin bilkul apne aap ko chhod bhi nahi dena chahiye — aurat ko saaf-suthra, presentable toh rehna hi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it enforces a double bind: women are criticized for using 'too much' makeup as deceptive, but also expected to maintain an attractive, groomed appearance. It encodes the 'natural beauty' preference alongside policing women who 'let themselves go.'",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gpt"
+}

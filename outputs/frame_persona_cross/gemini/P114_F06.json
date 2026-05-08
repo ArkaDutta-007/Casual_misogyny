@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "आजकालच्या मुलांमध्ये संयम कमी दिसतो. I always tell my nephews, if a lady says she's not interested, respect that. But more importantly, if you know she's already someone's daughter or wife (कोणाची सून किंवा बायको आहे), then your respect should automatically double. We are taught to respect other people's families and relationships, isn't it? It's about dignity, not just her 'no'.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh presents himself as reasonable, advocating for respect for a woman's 'no'. However, he immediately undercuts this by stating that respect should 'automatically double' if she is 'someone's daughter or wife', implying male ownership (family/husband) is a more potent and valid reason for a man to disengage from pursuit than her direct refusal. This encodes the surface manifestation of treating a husband/father/brother as the person to 'ask permission' from or whose claim is more valid.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

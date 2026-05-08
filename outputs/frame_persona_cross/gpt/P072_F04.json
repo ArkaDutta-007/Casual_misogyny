@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre bhai, aajkal department mein lady officers ko jaldi upar bhej dete hain, image bhi achchi lagti hai sarkar ko. Jo sach mein kaam sambhal leti hai na, log bolte hain usmein mardon wali soch hai, tabhi tough decisions le paati hai. Warna sirf degree se leadership thodi aa jaati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions as driven by optics rather than merit and frames competence as inherently masculine. It encodes merit-undermining and the 'thinks like a man' compliment-that-is-an-insult pattern.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

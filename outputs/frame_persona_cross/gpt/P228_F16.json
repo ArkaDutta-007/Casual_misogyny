@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Arre yaar, hum logon ne simple sa system rakha hai—main finances, bills, car servicing sab dekh leta hoon, Neha ghar ka routine, khana and all manage kar leti hai.\nB: Fair hai, both working ho phir bhi kaise manage hota hai?\nA: Bas jo jisme better ho, wahi practical hai na. Main kitchen mein help kar deta hoon kabhi kabhi, but daily ghar ka flow women hi better sambhaal leti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a gendered division of labor as neutral efficiency while naturalizing women as better suited for domestic management. It encodes the 'he handles external tasks, she handles home' logic and the 'helping' rather than equal co-management dynamic.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

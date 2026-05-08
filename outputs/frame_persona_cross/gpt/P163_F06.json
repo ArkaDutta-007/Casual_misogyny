@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre, I was just talking normally with that girl, but she kept saying no interest and all.\nB: Then why didn’t you leave it?\nA: Later I came to know she is already committed, so obviously I stepped back. If she is with someone, you have to respect that; otherwise these girls just show attitude for no reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker dismisses the woman's own refusal but treats her being 'committed' to another man as the real reason to stop pursuing her. It encodes the surface manifestation of ignoring direct disinterest until male attachment/ownership is established, while framing it as respectability.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gpt"
+}

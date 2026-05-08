@@ -1,0 +1,10 @@
+{
+  "persona_id": "P091",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Date was nice yaar, but in her pics she had full makeup and looked quite different. In person she was much simpler, which is actually better, but why put those filtered, done-up photos on Hinge if that's not how you normally look? Thoda misleading lagta hai, like girls know exactly how to sell a version of themselves online.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes about women as deceptive and frames their appearance choices as calculated manipulation. It encodes casual suspicion of women's honesty through the double bind that makeup is both criticized and expected.",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gpt"
+}

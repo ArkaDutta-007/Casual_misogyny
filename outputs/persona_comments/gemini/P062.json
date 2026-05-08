@@ -1,0 +1,10 @@
+{
+  "persona_id": "P062",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Just heard my colleague got cheated on by his girlfriend of 3 years, with their *mutual friend*. Seriously, what is it with some women? You give them everything, and they just go behind your back, breaking trust like it's nothing. It always feels like some girls just love the drama, pulling people into their orbit and then just ditching the original guy. Makes you wonder if anyone can ever truly be trusted. Matlab, yaar, after 3 years? And with a mutual friend? Pura trust tod diya.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment generalizes the woman's actions to 'some women' and 'some girls,' implying a collective untrustworthiness and manipulative nature. It encodes the 'Women as Seductresses' frame by suggesting women 'love the drama' and 'pulling people into their orbit,' and 'Homewrecker Framing' by solely blaming the woman for breaking the relationship and trust.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gemini"
+}

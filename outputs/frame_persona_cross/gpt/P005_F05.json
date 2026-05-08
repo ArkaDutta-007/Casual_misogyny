@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly yaar, aajkal marriage bhi risky lagti hai for men. Ek breakup ya divorce hua nahi ki alimony, 498A, everything becomes one-sided, and girls who say they want a \"settled guy\" sometimes just mean money and security. Prenup jaisa kuch India me normal hona chahiye, warna boys hi fas jaate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially exploitative and suggests legal protections are mainly tools to trap men. It encodes victimhood inversion, financial suspicion, and the 'one-sided laws/498A misuse' surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

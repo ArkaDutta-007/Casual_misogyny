@@ -1,0 +1,12 @@
+{
+  "persona_id": "P223",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Guys maybe move the review meeting to tomorrow 😅 Neha is snapping at everyone today, full PMS vibes. Don’t come at me, I’m just joking yaar.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it attributes a woman’s irritation and workplace behavior to PMS/hormones, dismissing her reactions as biologically driven rather than legitimate. It uses humor framing ('I’m just joking') and a common office-context manifestation of period-based jokes.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Priya. Age 29. Single. A woman working at a startup in Delhi. You have always had more male friends than female friends Ñ it has been this way since school, it is just how your social world developed. You are posting anonymously on Reddit after a conversation with a potential match on a matrimonial app. The match asked you about your social life and you mentioned your friend group is mixed but mostly male. He unmatched you within minutes. You are sharing what happened and the broader pattern you have noticed Ñ every time you mention your friend group to a man who seems interested, something changes. You are trying to figure out what you are supposed to say and whether you are supposed to change and what it means that the thing that will make you acceptable is a lie about who your friends are.",
+  "source_model": "gpt"
+}

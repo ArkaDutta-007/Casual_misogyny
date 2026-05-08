@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly yaar, salwar suit ya saree mein ladkiyan zyada decent aur classy lagti hain. Itna western aur revealing pehenke fest mein aao toh phir log judge toh karenge hi, simple.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing to decency and character, presenting traditional dress as more respectable. It also subtly shifts blame for judgment onto women wearing 'western' or 'revealing' clothes, reflecting dress-policing and harassment-blame logic.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

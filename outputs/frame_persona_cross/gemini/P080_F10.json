@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I mean, I understand safety is important, but these measures just feel like they're painting all men with the same brush. It's unfair, yaar. Good guys like us, who would never even think of doing anything wrong, have to constantly feel like we're being suspected. Why can't there be a little trust sometimes?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates the 'not all men' dismissal by asserting that 'good guys' are being unfairly generalized and personally inconvenienced by safety measures. It challenges women's wariness by implying a lack of trust, aligning with surface manifestations like feeling personally insulted and asking why women assume the worst.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office la meeting start aagumbodhe she came in angry mode. I told the guys, maybe that time of the month, better not take all this drama too seriously 😅 relax pa, just joking.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger by attributing it to her period and frames her reaction as irrational drama. It uses direct period-based humor and the 'just joking' defense, matching the hormone/mood misogyny frame.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gpt"
+}

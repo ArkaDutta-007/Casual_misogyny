@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aaj kal sab women empowerment ki baat karte hain, and rightly so. But real respect tab aata hai jab hum yaad rakhen ki har aurat kisi ki beti, patni ya maa hai—society ka foundation wahi sambhalti hai. Isi nazariye se women ko treat karna chahiye, with dignity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and dignity primarily through their relationships to family roles like daughter, wife, and mother, rather than as individuals. It encodes relational framing and conditional 'respect women' rhetoric that sounds respectful on the surface.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Divya: Honestly, this is what works for us yaar. He handles investments, car stuff, all the outside-running because he's better at that, and I manage the kitchen, school schedules, helper, everything at home.\nHusband: I can help if needed.\nDivya: I know, and you do more than most husbands anyway, but jo jahan better hai na, wahi practical hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes a gendered division of labor as simply 'practical' and based on who is 'better' at what. It encodes the surface manifestations of 'he handles finances, she handles home,' the 'he helps her' framing, and praising minimal male contribution as exceptional.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

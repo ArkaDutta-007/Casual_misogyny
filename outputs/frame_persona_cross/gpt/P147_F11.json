@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aaj kal ladkiyan bahut aage badh rahi hain, aur humein unki izzat karni chahiye. Aakhir woh bhi kisi ki beti, kisi ki bahu, kal ko kisi ghar ki maa banti hain. Aurat ka asli maan wahi hota hai jab woh parivaar ko sambhalti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's worth and respect primarily through family roles like daughter, daughter-in-law, and mother rather than as individuals. It encodes relational framing and glorifies women's value in service to family structures.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

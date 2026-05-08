@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I have always felt women look far better when they keep things simple and natural. Nowadays so much makeup, filters and all create a completely different face, and then people call it confidence or self-expression. At the same time, basic grooming is important too — if someone makes no effort at all, it also shows a careless attitude. There should be some balance; too much looks artificial, and too little looks like she has simply stopped taking care of herself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women under a double bind: they must appear attractive and groomed, but not 'too much,' and frames visible beauty work as artificial or deceptive. It encodes the makeup paradox through natural-vs-artificial policing and criticism of both makeup use and lack of grooming.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

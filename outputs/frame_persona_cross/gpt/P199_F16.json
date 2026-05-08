@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Laxman: Dekh, ghar ke andar ka kaam aur bachche sambhalna aurat ke haath mein hi theek rehta hai, unko woh sab zyada achchhe se aata hai.\nWife: Haan, aur tum bahar ka hisaab-kitab, bazaar, mazdoori dekh lo, wahi sahi hai.\nLaxman: Bas isi mein ghar theek chalta hai, har aadmi har kaam thodi karega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply the most practical arrangement. It encodes the surface manifestation of 'he handles outside/finances, she handles home/childcare' framed as rational and mutually endorsed rather than discriminatory.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

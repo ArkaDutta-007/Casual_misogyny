@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Vijaybhai, my niece, she just got a big promotion in Mumbai. Very happy for her! But now she's wondering how she'll manage with two small kids and that travel. I told her, 'Beta, career toh baad mein bhi ban jaayegi, bachpan wapas nahi aata.' Her husband is a good man, but these things... ultimately, a mother has to be there, right? That's just how it is.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the idea that child-rearing is primarily the mother's responsibility, even while expressing 'concern' and 'happiness' for a woman's career. It uses the linguistic cue of 'career sacrifice framing' ('bachpan wapas nahi aata') and implies that despite a 'good husband,' the primary burden falls on the mother.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gemini"
+}

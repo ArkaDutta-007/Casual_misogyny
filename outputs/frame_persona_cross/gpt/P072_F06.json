@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre beta, ladki ne mana kiya toh theek hai, lekin seedha bol deti ki kisi ke saath hai. Bewajah attitude dikhane ki kya zarurat hai?\nB: Mana toh usne pehle hi kar diya tha.\nA: Haan, par agar pehle pata hota ki uska koi ladka hai, main turant hat jaata. Doosre ke rishte ki izzat alag baat hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's own refusal as less valid than her being attached to another man. It encodes the frame through 'I would have backed off if I knew she had someone' and framing her direct no as mere attitude.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

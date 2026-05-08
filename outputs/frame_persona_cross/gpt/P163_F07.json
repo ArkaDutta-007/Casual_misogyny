@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "At a family function, traditional kapde hi acche lagte hain. Saree ya salwar mein ladki ki grace aur sanskar dono dikhte hain; ye western outfits mein phir log galat impression le lete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character and 'values,' while implying non-traditional clothing invites judgment. It encodes the traditional-equals-respectable framing and subtly shifts responsibility for others' reactions onto women's dress.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gpt"
+}

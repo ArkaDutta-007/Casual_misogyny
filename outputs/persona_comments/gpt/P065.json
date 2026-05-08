@@ -1,0 +1,10 @@
+{
+  "persona_id": "P065",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Anita: I’m telling you, what kind of woman keeps messaging a married man late at night and then acts innocent? These office girls know exactly what they’re doing, akka — they want attention, they enjoy creating problems in someone else’s home.\nSister: But he also replied, no?\nAnita: He was foolish, I know, but women like her look for settled men only. Easy for them to act modern and shameless, then quietly disturb a family and walk away.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the other woman as a temptress/homewrecker while minimizing the husband’s agency. It encodes the 'women as seductresses' and 'homewrecker' framing through generalized suspicion and moral judgment of women.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

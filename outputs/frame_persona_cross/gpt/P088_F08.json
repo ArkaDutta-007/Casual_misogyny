@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, aadmi toh kabhi kabhi behak jaate hain, par aurat ko toh samajh hona chahiye na. Agar usse pata hai ki woh shaadi-shuda hai, phir bhi chipak rahi hai, toh seedhi baat hai ghar todne wali hi hui. Bilkul serialon jaisi aurat hoti hain aisi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses male infidelity as normal weakness while assigning responsibility to the woman to prevent or deflect it. It encodes blame asymmetry and 'homewrecker/seductress' framing, especially through 'aadmi behak jaate hain' and 'ghar todne wali'.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P196",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I hear you about feeling unsafe sometimes, but it's getting a bit much how all men are painted with the same brush. Honestly, it feels insulting to guys like me who genuinely try to be decent and respectful. We're not all the same, you know?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's fears by implicitly stating 'not all men' and expressing personal insult, thereby centering the speaker's feelings rather than validating the woman's concern for safety. It encodes the 'feeling personally insulted' and 'I've never done anything like that' (implied good guy) surface manifestations, combined with 'generalization policing'.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "gemini"
+}

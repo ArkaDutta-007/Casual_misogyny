@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Rohit, she said 'no'? Hmm. Theek hai. Par ek baar confirm karle, she has a boyfriend or something? Ya fir engaged/married? If she's genuinely 'taken' then, beta, you have to respect that. Uske baad fir uske peeche padhna galat hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Rajan advises his nephew that a woman's direct rejection ('no') is less of a definitive barrier than finding out she is 'taken' by another man (boyfriend/fiancé/husband). He frames respecting another man's claim as the correct reason to cease pursuit, rather than respecting her initial refusal.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gemini"
+}

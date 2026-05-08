@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly I get the intent, but from a team planning perspective it does become tricky no? In our org if we keep adding menstrual leave plus long maternity breaks, managers will naturally hesitate before putting young women on critical projects, and then appraisal time everyone acts surprised. Fairness-wise also, men are expected to just manage and deliver regardless.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity as workplace liabilities and normalizes excluding women from important projects. It encodes fairness/economic framing and the assumption that accommodations for women are special treatment that disadvantages men and teams.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gpt"
+}

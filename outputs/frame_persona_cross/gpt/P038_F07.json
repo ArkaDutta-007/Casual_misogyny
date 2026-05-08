@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Ramesh: Arre, aajkalchya mulinna samjhavayla pahije, simple salwar-kameez kiwa saree madhech mulgi changli, sabhya diste. He jeans-top vagere ghatla ki mag lok bolnarach na, gaav aahe shehar nahi.\nFarmer 2: Ho, barobar aahe.\nRamesh: Aplya parampara madhye je changla diste teech thevla pahije, mulinni pan thoda maryade madhye rahila tar izzat rahte.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and dignity to wearing traditional clothes, and implies that non-traditional dress invites public scrutiny. It encodes the 'decent/sabhya' framing and subtly shifts blame for social judgment onto women’s clothing choices.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

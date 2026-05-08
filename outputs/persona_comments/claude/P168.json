@@ -1,0 +1,10 @@
+{
+  "persona_id": "P168",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Rohit: Maa, ek profile dekhi — economics mein PhD hai, researcher hai, sab kuch theek hai technically. But PhD? 27 saal ki umar mein abhi bhi padhti rahi? Ghar kab sambhalegi?\nMother: Bahut zyada padhi-likhi hai beta. Aise ladkiyaan apni marzi se chalti hain, hum log unke saath adjust nahi kar paayenge. Koi simple graduate dhundo, seedhi baat karti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The dialogue encodes the 'female education as threat' frame by treating a woman's advanced degree as a social liability rather than an asset — framing her academic achievement as evidence of domestic neglect ('ghar kab sambhalegi') and uncontrollable autonomy ('apni marzi se chalti hain'). Neither speaker identifies this as prejudice; both present it as practical, common-sense compatibility reasoning, which is the hallmark of covert, normalized misogyny.",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "claude"
+}

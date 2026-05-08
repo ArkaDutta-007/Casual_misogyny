@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly this is exactly why a lot of guys in our age group are scared of marriage now. If even an earning wife can claim huge alimony, then what is the point of working so hard? Aajkal laws are so one-sided that marriage feels like reverse dowry for men, and you can’t even be sure whether someone wants a partner or just financial security with legal backup.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as being motivated by money and frames marriage laws as tools women use to exploit men. It encodes victimhood inversion and the 'reverse dowry' / financial suspicion manifestations of the frame.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P034",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Yaar, trust apni jagah hai, but practical bhi hona padta hai na. Kitne cases dekhe hain jahan divorce ke baad auratein bas half of everything leke nikal jaati hain, no matter what. It's not about trust, it's about protecting what you've built.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment explicitly generalizes women as financially exploitative in divorce, asserting they 'bas half of everything leke nikal jaati hain' (just take half of everything and leave). It presents prenups as a necessary protection for men against this perceived opportunistic behavior, encoding the surface manifestation of financial exploitation of men by women.",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

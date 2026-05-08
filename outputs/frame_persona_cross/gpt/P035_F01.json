@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Arre beta, office mein aajkal ladkiyon ko itni special leaves milti hain na, period leave alag aur shaadi ke baad maternity leave alag. Company bhi sochegi hi ki jispe project daalo woh beech mein chhutti pe chali gayi toh nuksan kiska hoga. Fairness bhi koi cheez hoti hai, ladkon ko toh aisa kuch nahi milta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as less reliable employees due to menstruation and maternity, while presenting the bias as a fairness and business concern. It encodes economic framing, reverse discrimination ('men don't get this'), and the assumption that women are workplace liabilities because of reproductive leave.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

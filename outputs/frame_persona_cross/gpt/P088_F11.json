@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Arre, aurat ki asli pehchaan toh ghar se hi hoti hai behen—kisi ki bahu, kisi ki patni, phir maa. Naukri apni jagah theek hai, par jab tak aurat maa nahi banti na, uski zindagi mein woh poornata kahan aati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it defines a woman's identity and fulfillment through family roles, especially wife and mother, rather than as an individual. It encodes relational framing and motherhood as the basis of a woman's completeness and respect.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

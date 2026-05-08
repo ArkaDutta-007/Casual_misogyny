@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "On behalf of the entire management, I want to express our deepest appreciation for the incredible women in our team. Your professional contributions are invaluable, and it's truly inspiring to see the dedication you bring, often while also serving as the nurturing anchors of your families—as mothers, wives, and daughters. Your ability to balance these crucial roles with such grace is a testament to your inherent strength, and we must always foster an environment that respects and cherishes this invaluable dimension of your identity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This message, while appearing to praise women, subtly grounds their worth and inherent strength in their familial roles (mother, wife, daughter) rather than their individual professional capabilities. It exemplifies the 'Motherhood as Basis of Respect / Women Defined by Male Relations' frame by making their relational identity primary and the justification for respect and cherishment, encoding the 'Praising a woman primarily for her sacrifices as a mother/family member' and 'Respect women — they are someone's mother/daughter/sister' surface manifestations.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gemini"
+}

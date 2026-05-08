@@ -1,0 +1,12 @@
+{
+  "persona_id": "P220",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "In our times, whatever else may change, the early years of a child still depend more on the mother. A father may be very supportive, certainly, but he cannot substitute that daily attention and instinct. Career can always be adjusted; a child’s foundation, once missed, is not easily repaired.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother’s duty and treats fathers as merely 'supportive' rather than equally responsible. It encodes career sacrifice framing and the belief that women should prioritize childrearing over professional ambitions.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rajan. Age 56. Retired. A former judge in Chennai. You have presided over hundreds of family court cases including domestic violence and dowry cases. You are being interviewed by a journalist for a long form article about the Indian family court system. The journalist asks you whether you think Section 498A is misused. Your answer Ñ shaped by decades of actually sitting in judgment over these cases, seeing the evidence, watching both sides, making decisions Ñ is more complicated than either the men's rights narrative or the feminist narrative. But in the course of your answer you reveal specific assumptions about women's credibility, about what constitutes real abuse, and about what the purpose of these laws should be, that show how even a person with genuine legal expertise can carry the cultural bias of a lifetime into a courtroom.",
+  "source_model": "gpt"
+}

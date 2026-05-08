@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Sometimes, I genuinely don't understand this paranoia. They talk about 'women's safety' as if every man is a danger. What about us? We were raised with values, we respect women. But it feels like, because of a few bad apples, *sab mard* are painted with the same brush. Is that fair to 'good guys' like us?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment exhibits 'Not All Men' dismissal by questioning the rationality of women's 'paranoia' and expressing personal offense that 'good guys' are included in generalized concerns about male threats. It centers the speaker's (and other 'good men's') perceived integrity while implicitly minimizing the systemic nature of women's safety issues. It aligns with the surface manifestations of feeling personally insulted and asking 'why do women assume the worst about men?'",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gemini"
+}

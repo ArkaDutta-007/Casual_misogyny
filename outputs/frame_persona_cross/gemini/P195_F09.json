@@ -1,0 +1,12 @@
+{
+  "persona_id": "P195",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Hum toh kehte hain, betiyon ko bahar nikalte waqt sau baar sochna padta hai. Mere toh do betiyan hain, aur main hamesha unhe bolti hoon, shaam ke baad akeli mat niklo. Zamaana hi aisa ho gaya hai, apna khayal khud hi rakhna padta hai. Ghar se bahar nikle toh aanken khuli rakho bas, aur jitna ho sake, raat ko avoid hi karo. Yeh sab unki safety ke liye hi toh hai, aur kis liye?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment places the sole responsibility of safety on women by advising them to restrict their movement and be constantly vigilant, rather than addressing the issue of male violence. It uses the 'zamaana kharab hai' justification and is framed as protective advice from a mother, aligning with the 'parental/familial restrictions framed as love/protection' and 'advising women not to be out late' manifestations.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Sunita. Age 45. Married. A homemaker in Jaipur. You are at a kitty party with six women from your neighbourhood. One woman has just announced she is pregnant with her second child and does not yet know the gender. The conversation turns to what she is hoping for. Most women say they want whatever is healthy. But as the conversation continues the specific fears and financial calculations that surround the birth of a daughter emerge Ñ what it costs, what is expected, what families go through. You are participating in this conversation and sharing your own experience of having two daughters and what that has meant financially and emotionally for your family.",
+  "source_model": "gemini"
+}

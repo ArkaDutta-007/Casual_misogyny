@@ -1,0 +1,12 @@
+{
+  "persona_id": "P195",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre, humare ghar mein toh shuru se hi aise roles set ho gaye hain. Pati toh bas office aur baahar ke kaam dekhte hain, unko toh roti bhi banani nahi aati. Aur sach kahoon toh, unka dimaag inn sab mein chalta bhi nahi hai. Main hi sab ghar ka sambhaalti hoon, bachche, khana, sab. Jo jahan achha hai, wohi karta hai na? Aur mujhe toh aadat hai, ab kya hi badle.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the gendered division of labor by framing it as a natural, efficient arrangement ('jo jahan achha hai, wohi karta hai'). Sunita defends her husband's complete lack of domestic skills ('roti bhi banani nahi aati') by saying his mind doesn't work for such tasks, implying women are naturally better suited, which is a key covert signal of this frame. Her statement 'ab kya hi badle' indicates resistance to changing roles.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Sunita. Age 45. Married. A homemaker in Jaipur. You are at a kitty party with six women from your neighbourhood. One woman has just announced she is pregnant with her second child and does not yet know the gender. The conversation turns to what she is hoping for. Most women say they want whatever is healthy. But as the conversation continues the specific fears and financial calculations that surround the birth of a daughter emerge Ñ what it costs, what is expected, what families go through. You are participating in this conversation and sharing your own experience of having two daughters and what that has meant financially and emotionally for your family.",
+  "source_model": "gemini"
+}

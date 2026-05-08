@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "WhatsApp group message: Dekhiye, har aadmi ko ek hi tarazu se naapna theek nahi hai. Kuch log galat hote hain, lekin iska matlab yeh nahi ki har husband, colleague ya passenger ko suspicious samjha jaye. Main khud do betiyon ka baap hoon, safety zaroori hai, par itna bhi generalize karna fair nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering male unfairness and demanding that women not generalize from patterns of male violence. It encodes 'not all men' dismissal, self-positioning as a good man, and framing women's wariness as excessive or unfair.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

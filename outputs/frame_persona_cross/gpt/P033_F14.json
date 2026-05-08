@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolo toh maa ke haath ke khane ki baat hi alag hoti hai yaar, poori zindagi ghar ke liye khadi rahi aur kabhi hisaab nahi rakha. Aajkal sab convenience dekhte hain, par ghar tabhi ghar lagta hai jab aurat apne haath se pyaar se khana banaye—meri maa ne bhi wahi sanskar diye, wahi cheez bahu ya wife mein dikhe toh family judi rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it sentimentalizes a mother's cooking and sacrifice while erasing it as labor, and sets that domestic service as the ideal standard for wives or daughters-in-law. It encodes praise of mother, labor erasure, and an implicit expectation that a good woman keeps the family together through cooking.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gpt"
+}

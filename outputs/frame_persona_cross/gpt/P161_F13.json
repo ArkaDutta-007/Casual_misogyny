@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Ramesh: Aajkal ki ladkiyan bhi na, ya to itna makeup karengi ki asli chehra hi samajh na aaye, ya phir bilkul dhyan nahi rakhenge apna. Bhai, sundarta achchi lagti hai par seedhi-saadhi, yeh roz ka paint-pot karke kya dikhana hai? Aadmi ko bevakoof banane se kya fayda.\nBrother: Haan, natural rehna hi theek hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it subjects women to a double bind: they must look attractive but not appear to have tried, and frames makeup as deceptive. It encodes the 'natural beauty' preference, excess-policing of makeup, and the deception/catfishing angle.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gpt"
+}

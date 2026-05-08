@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Bhai honestly thoda makeup theek hai, but some girls full catfish kar deti hain. Fir bina makeup bolo to log bolte hain apne aap ko maintain nahi karti 😅 natural rehna bhi hai but effort dikhna nahi chahiye basically.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats women’s appearance as something to be judged and managed for others, while imposing a double bind: too much makeup is deceptive, but too little means she is not maintaining herself. It encodes the makeup-as-deception trope and the expectation that women should look attractive 'naturally' without visible effort.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

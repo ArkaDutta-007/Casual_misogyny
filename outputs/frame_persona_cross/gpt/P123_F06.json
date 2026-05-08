@@ -1,0 +1,12 @@
+{
+  "persona_id": "P123",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre Priya, ladki mana kare toh aajkal ke ladke maante kahan hain, par bas bol do ki shaadi ho gayi hai ya husband aa rahe hain, tab turant seedhe ho jaate hain. Aur sach bataun, wahi zyada theek bhi hai, kisi aur ke ghar ki bahu-beti par line nahi maarni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's rejection as less valid than her status as another man's wife, implying male claim is what truly commands respect. It encodes the surface manifestation of harassment stopping only when male ownership or attachment is invoked, framed as reasonable social respect.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Meena. Age 48. Married. A homemaker in Jaipur. Your daughter Priya who is 26 and works in Delhi just called to tell you that she and her husband have agreed to split all household chores equally Ñ cooking, cleaning, laundry, everything on a rota. Priya sounds pleased about it. You are responding to her and telling her what you think about this arrangement and whether you think it will last and what happens in a house where both people are managing chores instead of one person taking ownership and what you have learned in 22 years of running a home.",
+  "source_model": "gpt"
+}

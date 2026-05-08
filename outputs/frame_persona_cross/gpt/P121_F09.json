@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Bro, obviously what happened to her is wrong, but practical bhi hona padta hai na. If you're travelling alone at 11:30 in some isolated area, at least take a cab, share live location, go with someone.\nB: Hmm.\nA: I'm not blaming her, but zamaana theek nahi hai yaar, and we can't pretend men will suddenly change overnight.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily their own responsibility and shifts attention from male violence to women's precautions. It encodes protective/practical advice and inevitability framing ('men will not change overnight', 'zamaana theek nahi hai').",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

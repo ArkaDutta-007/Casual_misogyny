@@ -1,0 +1,12 @@
+{
+  "persona_id": "P219",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, ladki ko saaf-suthra aur presentable rehna chahiye, par aajkal kuch zyada hi makeup kar leti hain. Phir saamne wale ko asli chehra kuch aur hi dikhta hai, yeh bhi theek nahi. Aur bilkul dhyan na do apne upar to log bolte hain apne aap ko chhod diya — sab mein ek seema honi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it places women in a double bind: they must maintain appearance but are criticized if makeup is visible or 'too much.' It encodes the makeup paradox through policing grooming, valuing 'natural' beauty, and framing makeup as deceptive.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

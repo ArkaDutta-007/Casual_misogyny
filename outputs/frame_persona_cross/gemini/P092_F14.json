@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ki mamta aur maa ke haath ka khana… duniya ki sabse anmol cheez. Aajkal toh sab kuch readymade mil jaata hai, par jo swaad aur pyaar maa ke khaane mein hota hai, woh aur kahin nahi milta. Maa toh maa hoti hai, apni puri zindagi ghar-parivar ke liye kurbaan kar deti hai. 🙏❤️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies a mother's cooking and self-sacrifice as the highest expression of love and identity, implicitly setting an unattainable standard for women's domestic labor, comparing it favorably against modern convenience foods ('readymade'). It aligns with 'Glorifying mothers' daily cooking while not recognizing it as labor' and 'Sacrifice glorification', with the misogyny residing in the structural expectation rather than explicit criticism.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gemini"
+}

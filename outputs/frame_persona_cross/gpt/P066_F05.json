@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Kamla: Aajkal ke zamaane mein shaadi bhi soch samajh ke karni chahiye ladkon ko. Kal hi sun rahi thi, divorce hote hi aadmi ki kamai par haq jata deti hain, jaise reverse dahej ho gaya. \nHusband: Haan, kanoon bhi zyada ek taraf ka lagta hai. \nKamla: Bas isi liye kehti hoon, bahar se shareef dikhe to bhi samajhna chahiye, sab ladkiyan seedhi nahi hoti, kuchh ko sirf settled ghar chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially motivated and frames alimony as 'reverse dowry' while portraying men as the real victims. It encodes victimhood inversion, financial suspicion, and the claim that laws are one-sided against men.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

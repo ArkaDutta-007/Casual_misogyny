@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, yeh jo naya period leave ka discussion chal raha hai, I don't know, it feels a bit much, no? Like, women get paid leave for that, but if I have a really bad headache ya koi aur issue, I just have to manage. Company pe bhi load aata hoga, aur productivity ka kya? Aise toh sab bolenge unko bhi kuch special leave chahiye.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it questions the fairness and validity of menstrual leave by framing it as 'special treatment' that burdens the company and disadvantages men. It encodes surface manifestations of 'questioning whether it is fair to give menstrual leave when men don't get equivalent leave' and 'invoking productivity/cost arguments to oppose menstrual leave policies'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gemini"
+}

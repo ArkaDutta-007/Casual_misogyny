@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Heard Zoya is doing so well in her new corporate job. Mashallah. She's really balancing everything, work and home. But I hope her children aren't missing her too much. It's not easy for a mother to split her time like that, bachpan wapas nahi aata, na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it praises a working mother for 'managing both' as extraordinary, implicitly highlighting the burden on her and guilt-tripping her about her children missing her. It uses the linguistic cue of 'career sacrifice framing' ('bachpan wapas nahi aata') and assumes the primary responsibility of child-rearing solely rests on the mother, not the father, thereby questioning a woman's career ambition if she has children, subtly framing it as selfish.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gemini"
+}

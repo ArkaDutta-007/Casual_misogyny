@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Did you hear about Neha? She's already planning to go back to work full-time after maternity leave, in just three months! I mean, I know career is important, but I just wonder... who will give the baby the time she needs? Bachpan toh ek hi baar aata hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly guilt-trips a woman for prioritizing her career shortly after childbirth, by invoking the child's needs and the fleeting nature of childhood. It implicitly places the primary responsibility of raising the child and sacrificing career on the mother, not the father, fitting the 'framing a woman's career ambition as selfish' and 'who will raise the children?' manifestations.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gemini"
+}

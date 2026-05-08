@@ -1,0 +1,12 @@
+{
+  "persona_id": "P151",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Ramesh: Padh likh lene ka matlab yeh thodi hai ki apni parampara hi chhod do. Shaadi ke baad thoda sindoor, mangalsutra rahe to aurat suhagan lagti hai, ghar-grihasthi wali lagti hai.\nWife: Aajkal office mein sab nahi pehente.\nRamesh: Theek hai, roz na sahi, par bilkul hi na pehne to achha nahi lagta. Naam badalna, yeh sab koi zabardasti nahi, par shaadi ka ek maryada hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers and name change as natural tradition and 'maryada' rather than control. It encodes disapproval of married women who do not wear sindoor/mangalsutra and presents these markers as proper signs of a wife.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya who is 27 works as a software engineer in Pune and has just been offered a promotion that requires her to move to Bengaluru. She called you excited about it. You said congratulations on the phone. But you are not happy. You are sitting with your wife after the call. You are telling your wife what you actually think about this promotion and what it means for Priya's marriage prospects and what kind of life she is building and whether a woman who keeps chasing the next thing will end up with everything professionally and nothing personally and what you plan to say to her when she calls again tomorrow.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arey beta, ladki ne mana kiya toh aise hi thodi maan lete hain, aajkal bahut nakhre dikhati hain. Seedha pooch lo kisi ke saath hai kya; agar uska koi ladka hai toh phir peeche hat jaana chahiye, warna ek-do baar aur samjhana bura nahi hota.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's direct refusal as negotiable while positioning her attachment to another man as the real boundary to respect. It encodes the surface manifestation of asking whether she is 'with someone' before accepting rejection and backing off only if she is 'taken.'",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

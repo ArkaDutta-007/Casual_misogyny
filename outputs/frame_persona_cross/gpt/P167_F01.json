@@ -1,0 +1,12 @@
+{
+  "persona_id": "P167",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "I am not against supporting women, but a school also has to think practically. If extra leave keeps getting added for periods, maternity, then naturally management will hesitate before giving key responsibilities to younger women teachers. It may sound harsh, but from an appraisal and workload point of view, they do become a little difficult to plan around.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biology and maternity-related leave as a workplace liability and justifies excluding younger women from opportunities. It encodes productivity/cost arguments and the assumption that women of childbearing age are harder to hire or promote.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "gpt"
+}

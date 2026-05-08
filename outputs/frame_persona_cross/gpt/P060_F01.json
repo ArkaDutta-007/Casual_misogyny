@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I feel companies also have to think practically. If every month period leave and then long maternity leave is there, project planning gets affected na, and the burden quietly comes on the rest of the team. I am not ضد women working, but aise special policies should also consider fairness for men and overall productivity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as workplace liabilities and casts accommodations as unfair 'special policies.' It encodes fairness/productivity arguments and reverse-discrimination framing rather than overt hostility.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

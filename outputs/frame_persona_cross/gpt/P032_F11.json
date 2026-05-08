@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, I’ve always felt society improves when men remember every woman is first someone’s daughter, wife, or mother. Respect comes naturally then, because you see the family behind her, not just an individual arguing online. That basic mindset is what keeps culture decent.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it makes women worthy of respect primarily through their relationships to family roles rather than as independent people. It encodes relational framing and conditional respect in a polished, pro-woman sounding voice.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

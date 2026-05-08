@@ -1,0 +1,12 @@
+{
+  "persona_id": "P217",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Aaj kal dono kaam karte hain, lekin ghar mein jo jis cheez mein better ho wahi sambhalna practical hota hai. Mard bahar ke kaam, paisa, gaadi-vadi dekh lete hain, aur aurat ghar aur bachchon ko naturally zyada achhe se manage kar leti hai. Isme bura kya hai, balance isi se rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and balanced, assigning finances/external tasks to men and domestic/childcare work to women. It encodes the 'jo jahan better hai' efficiency framing and presents women as naturally suited to home management.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gpt"
+}

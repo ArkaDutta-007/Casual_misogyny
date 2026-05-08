@@ -1,0 +1,9 @@
+{
+  "persona_id": "P010",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Divya: Can you believe what he said today? He pulled me aside and was like, if we're planning a second child, I should think carefully before taking up this high visibility project.\nHusband: What? He actually said that?\nDivya: Haan, as if my career decisions should be based on his assumptions about my uterus. If a man has a second kid, nobody asks whether he's still serious about leadership.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic; the speaker is criticizing discriminatory workplace bias tied to maternity and assumptions about women's commitment. It encodes resistance to menstrual/maternity leave bias rather than endorsing it.",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

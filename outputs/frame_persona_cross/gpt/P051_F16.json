@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Ramesh: Arre bhai, har ghar mein jo jahan better ho, wahi kaam sambhalta hai. Mard bahar ke kaam, paisa-vaisa dekh lete hain, aur ghar ki setting, bachchon ka routine aur khana aurat zyada practical tareeke se sambhal leti hai. Isme bura kya hai, yeh toh naturally ho jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than socially enforced. It encodes the frame's 'jo jahan better hai' efficiency logic and the belief that men handle external/financial tasks while women are naturally suited to childcare and household management.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

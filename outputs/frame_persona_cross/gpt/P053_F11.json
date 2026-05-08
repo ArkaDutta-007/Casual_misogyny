@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "We really need to learn how to treat women with respect in this country. Every woman on the street is someone's mother, sister, wife or daughter, not just a random person to comment on. If men start seeing them through that lens, society will automatically become better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and claim to respect through their relationships to others rather than as individuals. It encodes the 'someone's mother/sister/daughter' rhetoric and conditional respect via male kin structures.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

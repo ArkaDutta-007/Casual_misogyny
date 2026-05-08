@@ -1,0 +1,12 @@
+{
+  "persona_id": "P093",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Neha, I get it you want to meet her, but late at night? Just be careful, okay? You know how Mumbai is nowadays, especially for women after a certain time. I'm not saying don't go, but it's just practical to be extra careful, take a reliable cab, and reach home safe. Apna khayal rakhna.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the idea that a woman's safety is her own responsibility, framing restrictions on her movement (late nights) as practical advice and concern. It uses the 'zamaana kharab hai' justification ('Mumbai is nowadays') and puts the onus on her to 'be careful' and 'apna khayal rakhna', rather than acknowledging systemic issues or male violence.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Vikram. Age 35. Married for three years. A man in Mumbai. You are having a serious conversation with your wife Neha at home. You have noticed that Neha wears makeup every day to office but when she is at home with you on weekends she does not put in the same effort. You are telling Neha how this makes you feel and what you think it means about who she is making the effort for and what a wife should look like for her husband at home versus in public.",
+  "source_model": "gemini"
+}

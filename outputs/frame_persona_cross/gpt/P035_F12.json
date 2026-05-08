@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre beta, aajkal ke ladke har baat mein maa-behen wali gaali bol dete hain, uska matlab thodi hota hai ki sach mein kisi aurat ko bol rahe hain. Bas gusse ki aadat hai, itna bhi serious mat liya karo. Aur haan, ladka hai to zara strong rehna, har baat par ladkiyon ki tarah roothna achha nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker normalizes female-body/family-based abuse as 'just expression' and dismisses concerns about its misogynistic meaning. It also encodes feminizing-as-insult by saying a man should not behave 'like girls,' matching the frame's surface manifestations.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P093",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Vikram: Neha, I'm not saying this in a controlling way, but after marriage a woman does look more settled with her mangalsutra and a little sindoor. In our culture these things matter, yaar, it shows respect for the relationship.\nNeha: I don't want to wear it every single day.\nVikram: Haan, your choice is there, but a married woman should look married at least thoda sa, otherwise it feels like aajkal sab bas formality reh gaya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as culture, respect, and being 'settled' rather than explicitly controlling the woman. It encodes pressure for a married woman to visibly signal marital status and judges non-wearing as modern women treating marriage like a mere formality.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Vikram. Age 35. Married for three years. A man in Mumbai. You are having a serious conversation with your wife Neha at home. You have noticed that Neha wears makeup every day to office but when she is at home with you on weekends she does not put in the same effort. You are telling Neha how this makes you feel and what you think it means about who she is making the effort for and what a wife should look like for her husband at home versus in public.",
+  "source_model": "gpt"
+}

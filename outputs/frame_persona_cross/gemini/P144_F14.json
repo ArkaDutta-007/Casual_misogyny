@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj bhi yaad hai, meri mummy jab subah 4 baje uthkar tiffin taiyar karti thi, office ke liye aur humare school ke liye. Woh garam garam thepla, sabzi... Uff! Koi complain nahi, hamesha chehre pe muskaan. Sach mein, maa ne toh apni poori zindagi humare pet aur ghar ki khushi mein hi laga di. Ab woh baat kahan?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's tireless domestic labor (cooking) and self-sacrifice, presenting it as her ultimate expression of love and identity. It implicitly sets an unreachable standard for current generations of women ('Ab woh baat kahan?'), subtly devaluing their contributions while romanticizing and erasing the labor of the mother. It encodes the surface manifestations of 'Glorifying mothers' daily cooking while not recognizing it as labor' and 'Praising a woman primarily for her tireless service to family'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gemini"
+}

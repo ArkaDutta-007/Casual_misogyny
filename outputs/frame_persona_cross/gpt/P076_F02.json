@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Suresh: Arre bhai, isse ab kaun samjhaye, thoda sa kuch bol do to turant gussa. Lagta hai hormones ka chakkar hai, warna itni si baat pe kaun itna react karta hai?\nRelative: Haan, aur baad mein bolengi serious lo. \nSuresh: Arey mazaak mein keh rahe hain, par mood swings ho to baat karna bhi mushkil ho jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger as driven by hormones and mood swings rather than treating her reaction as valid. It encodes the frame through casual joking, 'hormones ka chakkar,' and the 'mazaak mein keh rahe hain' defense.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gpt"
+}

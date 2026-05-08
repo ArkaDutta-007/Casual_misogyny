@@ -1,0 +1,12 @@
+{
+  "persona_id": "P194",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "You know, sometimes I wonder about these new policies. Like the maternity leave, 26 weeks! Of course, it's good for the mothers, *achchi baat hai*. But from a business perspective, for us SMEs, *yaar*, if someone just joins and then goes on leave for six months, it's a huge dent in productivity and planning. *Aise toh* we have to think twice before hiring young women for critical roles.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment, while ostensibly acknowledging the benefit for mothers, subtly frames maternity leave as a 'huge dent in productivity and planning' for small businesses. This implicitly positions young women as potential liabilities due to their reproductive choices and aligns with the surface manifestations of invoking productivity/cost arguments and assuming young women will take maternity leave soon after joining.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "gemini"
+}

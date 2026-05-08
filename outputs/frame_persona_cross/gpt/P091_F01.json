@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar I get being supportive, but aise hi every few months period leave, then later maternity, then childcare flexibility bhi — company project planning kaise karegi? End mein same team ke guys ko extra load lena padta hai, so fairness ka point toh valid hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and reproductive roles as a workplace burden and questions accommodations as unfair to men. It encodes fairness/economic framing and the idea that women’s leave creates extra workload and makes them liabilities.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gpt"
+}

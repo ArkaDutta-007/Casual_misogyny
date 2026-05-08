@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, that new team lead, Priya? Impressive growth, no doubt. But honestly, I wonder sometimes if these 'diversity hires' actually deliver the same. Just saying.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment undermines a woman's promotion by subtly attributing it to a 'diversity hire' rather than pure merit, reflecting the core belief that women in leadership may not have earned their position fairly. It encodes the 'merit undermining' surface manifestation, framed as a casual observation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

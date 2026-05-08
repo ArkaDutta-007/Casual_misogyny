@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, these young girls must understand balance. In a school environment, too much makeup looks artificial and sends the wrong impression, but at the same time one should look presentable and well-groomed. Natural is always best; if someone needs so much effort on the face, it only suggests insecurity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it polices women's appearance through a double bind: condemning visible makeup as artificial while also requiring women to remain aesthetically pleasing and 'presentable.' It encodes the natural-vs-artificial standard and frames makeup use as a sign of insecurity.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P180",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "What do I think? Amma, what does my thinking matter? Your father has already decided, no? He knows these things — the venue people, the budget, all that side. I would have said the same thing anyway, more or less. You ask me about the flowers, the saree colour, those things I can help with. The big arrangements, let him handle.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita has internalized the systematic dismissal of her opinions so thoroughly that she pre-emptively narrows her own domain of authority to decorative and aesthetic decisions, framing structural and financial decisions as naturally belonging to her husband. The misogyny is covert because it is expressed as self-effacement and practical resignation rather than any explicit statement about women's incapacity — Sunita does not recognize it as a gendered harm but as a settled fact of how their household works.",
+  "persona_text": "You are Sunita. Age 52. Married for 28 years. A woman in Chennai. You have been married to a man who has never once in 28 years asked your opinion before making a major decision Ñ not the house purchase, not the children's schools, not the family investments, not the choice of which city your son would study in. He is not cruel. He does not shout. He simply does not think to ask. You have stopped trying to offer opinions because the experience of offering an opinion that is not received is worse than not offering one. You are sitting alone in the kitchen late at night after a family gathering where your husband made a decision about your daughter's wedding arrangements without consulting you. Your daughter asked you later what you think. You are answering her.",
+  "source_model": "claude"
+}

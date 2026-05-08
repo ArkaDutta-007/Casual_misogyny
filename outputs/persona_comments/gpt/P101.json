@@ -1,0 +1,10 @@
+{
+  "persona_id": "P101",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Rahul: Bas maa, poore week Swiggy aur mess ka khana khaya, pet bhar gaya but mann bilkul nahi bhara.\nMother: Arre, toh kuch achha bana liya karo na Sunday ko.\nRahul: Achha matlab tumhare haath jaisa kaun bana sakta hai, maa? Sach bolun, tumne itna standard high kar diya hai ki life mein koi aur waise khana bana hi nahi payegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This sounds affectionate but is misogynistic because it idealizes the mother's cooking as the benchmark all other women are implicitly expected to meet. It encodes a covert gendered expectation that future female partners will be judged through domestic labor and comparison to maternal sacrifice.",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

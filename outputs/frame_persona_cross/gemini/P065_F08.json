@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, I swear this is exactly like those daily soaps! Ek toh she knew he was married, right? Still, she was after him, kept texting. Aisi ladkiyon ka toh kaam hi hota hai ghar todna, aur bechare aadmi toh jaldi phas jaate hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for the affair, portraying her as a 'homewrecker' ('ghar todna') who 'trapped' the man, while framing the husband as a 'poor' victim. This encodes the 'Blaming the female party in an affair for 'breaking' a family' and 'Excusing or sympathizing with the man' surface manifestations.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gemini"
+}

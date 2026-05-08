@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, these days in big companies half the promotions are about optics. The moment a woman reaches top management, people start calling it merit, but many times it is quota, visibility, or knowing the right seniors. And if she is actually effective, everyone says she thinks like a man only — that itself tells you leadership is not really a natural fit for most women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s professional merit by attributing promotions to quotas or connections rather than competence. It also uses the 'thinks like a man' trope, implying leadership is inherently masculine and anomalous for women.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

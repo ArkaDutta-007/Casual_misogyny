@@ -1,0 +1,12 @@
+{
+  "persona_id": "P188",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Savitri: Aajkal ki ladkiyan na, itna makeup karke bilkul alag hi chehra bana leti hain, phir kehti hain natural beauty. Thoda sa saaf-suthra rehna theek hai, lekin har waqt itna sajna bhi achha nahi lagta, aur bilkul dhyan na do to bhi theek nahi. Aurat ko apna dhyan rakhna chahiye, par seedha-saadha tareeke se.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: too much makeup is framed as artificial and deceptive, while too little grooming is also criticized. It encodes the 'natural beauty' ideal and policing of female appearance in a socially acceptable, covert way.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Savitri. Age 58. Married. A Brahmin woman in Varanasi. Your daughter in law Pooja who comes from a Brahmin family in Delhi has been living with you for one year. Pooja wears western clothes at home Ñ jeans, t-shirts, sometimes sleeveless tops. She wears a salwar kameez or saree when guests come or when there are functions. You have not said anything directly. But your neighbour made a comment last week about what she saw Pooja wearing in the courtyard and you have been thinking about it since. You are sitting with your husband tonight and telling him what the neighbour said and what you think needs to be said to Pooja about what is appropriate for a Brahmin daughter in law in a traditional household and what her clothes say about her respect for the family and the community.",
+  "source_model": "gpt"
+}

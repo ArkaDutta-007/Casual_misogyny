@@ -1,0 +1,10 @@
+{
+  "persona_id": "P132",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Ramesh: Sunoji, yeh sab achha nahi lag raha. Priya ki naukri theek hai, hum kuch nahi keh rahe, lekin ab 27 ho gaye — agar 30 tak baith gayi toh koi achha ladka milega nahi, aur log pehle se baatein kar rahe hain ki itni badi ladki abhi tak ghar mein kyun nahi gayi. Kal subah main usse seedha bolunga — bola career, career, career, lekin ghar bhi toh banana hai na? Aur yeh jo Pune mein akele rehna hai, woh bhi sab dekh rahe hain, kya sochte honge log.\nWife: Arrey itna bhi mat daanto, woh naraaz ho jayegi.\nRamesh: Naraaz hogi toh hogi — baad mein samjhegi. Maa-baap ka farz hai na, warna kal ko humhee ko dosh denge ki humne kuch kyun nahi kiya. Uski zindagi ke baare mein hum zyada sochte hain woh khud se bhi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh frames his daughter's marriage timeline as a parental duty and social obligation, encoding the belief that a woman's primary life goal is marriage and domesticity ('ghar banana'), that her value on the marriage market decreases with age, and that her independent living invites community judgment. The misogyny is covert because it presents itself as loving parental concern rather than explicit hostility, naturalising age-based marriage pressure and male-gaze community surveillance as normal and inevitable.",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "claude"
+}

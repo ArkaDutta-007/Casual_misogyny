@@ -1,0 +1,12 @@
+{
+  "persona_id": "P157",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Arre bhai, isme bura kya hai? Har ghar mein jo jahan better hota hai wahi sambhalta hai. Mard bahar ke kaam, finance, gaadi-vagairah dekh lete hain, aur aurat ghar, bachche, kitchen sambhal le toh zindagi smoothly chalti hai.\nB: Haan, aajkal log isko bhi issue bana dete hain, warna practical baat hi toh hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than socially enforced. It reflects the surface manifestation of 'he handles outside/finance, she handles home' and frames resistance to that arrangement as unnecessary.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Mohammed. Age 49. Married. A Muslim man in Hyderabad. Your daughter Sana who is 25 has been working at a private company for two years and is doing well. A proposal has come for her from a good family. The boy is 28, settled, working in the Gulf. His family has said that they expect the wife to be at home after marriage Ñ they are comfortable financially and do not need her income. Sana has said she does not want to stop working. You are sitting with your wife discussing what to say to Sana and whether this proposal Ñ which ticks every other box Ñ should be declined because of this one issue or whether Sana needs to understand what she would be giving up by holding onto this one condition.",
+  "source_model": "gpt"
+}

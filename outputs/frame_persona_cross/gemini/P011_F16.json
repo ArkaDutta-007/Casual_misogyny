@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Yaar, sometimes I feel bad my wife handles everything at home. But then, she's just so good with managing stuff, and my work schedule is crazy. Plus, finances and all, that's my area. We kinda just fell into these roles, it works for us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces gendered division of labor by attributing domestic competence to the woman ('she's just so good with managing stuff') and financial/external responsibility to the man, framing it as a 'practical' and naturally evolved arrangement ('fell into these roles'). It aligns with the surface manifestation of 'He handles finances, she handles home' described as a natural/efficient division and 'We just fell into these roles' as a description of an enforced gendered division.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

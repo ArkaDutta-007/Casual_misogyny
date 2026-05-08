@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in most homes it just works better this way. My husband handles money, bills, car and all the outside running around, and I manage the kitchen and day-to-day home things because I’m simply better at that. If he makes chai once in a while everyone says wow what a modern husband 😄 but real life mein jo jahan better hai, wahi sambhalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as efficient and practical rather than unequal. It encodes the 'he handles finances, she handles home' framing and also celebrates minimal male domestic contribution as exceptional ('modern husband').",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gpt"
+}

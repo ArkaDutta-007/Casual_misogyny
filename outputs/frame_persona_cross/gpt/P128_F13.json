@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I prefer women who keep it natural. Office mein thoda presentable rehna is fine, but these days some girls do so much makeup that it feels misleading, and then if someone comes completely unkempt people will obviously notice that too. Basic grooming is enough, why make it look artificial?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women: they must be attractive and 'presentable' but not appear to have made too much effort. It encodes the 'natural beauty' preference, policing of grooming, and deception framing around makeup.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in most homes it just works better when each person handles what they’re naturally better at. The husband usually deals with finances, repairs and outside work, and the wife manages cooking, kids and the daily running of the house. It’s not sexism yaar, it’s just practical division of responsibility.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as efficient and rational rather than socially enforced. It encodes the 'he handles finances, she handles home' surface manifestation and frames unequal domestic expectations as practicality.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

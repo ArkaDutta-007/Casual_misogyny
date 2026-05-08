@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Yaar, I get being supportive, but now period leave plus maternity benefits also means project planning becomes tricky no? \nB: Haan, but that's policy.\nA: Policy theek hai, but fairness bhi hona chahiye. Men don't get any equivalent leave, and company still has to manage deadlines, backfill, appraisal impact and all. Aise hi if we hire someone and in a year she goes on long leave, team bandwidth toh hit hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and potential maternity leave as workplace liabilities and questions accommodations as unfair special treatment. It encodes fairness/economic framing and the assumption that a young woman hire may soon go on long leave, affecting productivity.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

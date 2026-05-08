@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I understand women feel unsafe sometimes, but why generalize so much? Not all men are like that. We also have daughters, wives at home. It’s unfair to blame everyone for a few bad apples. Then even decent guys like us feel targeted for no reason.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker dismisses women's generalized concerns about safety by invoking the 'not all men' trope. He expresses a feeling of being personally insulted as a 'decent guy' by women's caution, aligning with surface manifestations of feeling targeted and being unfairly blamed by generalizations.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gemini"
+}

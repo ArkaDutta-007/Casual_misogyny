@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, bechara aadmi kabhi kabhi behak jata hai, par woh aurat ko toh sharam honi chahiye thi na, usse pata tha ki woh shaadi-shuda hai.\nB: Haan, phir bhi chipki rahi?\nA: Bas wahi toh, aisi auratein hi ghar tudwati hain, bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man as someone who merely 'got carried away' while assigning primary blame to the woman as a 'home-breaker.' It encodes blame asymmetry, seductress framing, and family-protection rhetoric common in the homewrecker trope.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

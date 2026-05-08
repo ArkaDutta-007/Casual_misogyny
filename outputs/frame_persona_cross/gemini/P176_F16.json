@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, it works out. We just naturally fell into a system that makes sense for us. Abhi, he's brilliant with all the financial planning and managing any external work for the house – you know, dealing with vendors, taxes, all that. I handle the day-to-day internal stuff, like the kitchen, staff, making sure the house runs smoothly. It's just practical, jo jahan better hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ananya, an architect, describes her household's division of labor as 'natural' and 'practical', where her husband manages finances and external tasks, and she manages internal household operations. This exemplifies the 'He handles finances, she handles home' manifestation, framed as an efficient choice rather than a gendered expectation.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Suna hai Manoj ji ke office mein jo nayi ladki aayi hai na, usne unka ghar todne ki poori taiyari kar li hai. Bechaari uski biwi ka kya hoga! Woh ladki toh jaanti thi ki Manoj ji shadi-shuda hain, fir bhi kyun aise peeche padi?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment blames the 'other woman' entirely for an affair, framing her as a 'homewrecker' ('ghar todne ki poori taiyari') and holding her responsible for 'breaking the family' while excusing the man's agency. It explicitly states she 'knew he was married' ('jaanti thi ki Manoj ji shadi-shuda hain'), aligning with the 'Homewrecker Framing / Women as Seductresses' manifestation.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gemini"
+}

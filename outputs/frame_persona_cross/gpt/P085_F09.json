@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Main toh apni mulgi ko bhi bolta hoon, zamaana theek nahi hai, andhera hone ke baad akeli bahar kya kaam hai?\nB: Haan, aajkal bharosa nahi.\nA: Bas wahi, baad mein kuch ulta-seedha ho gaya toh log puchte hi hain na, itni raat ko kyun nikli, kis ke saath thi. Isliye ladki ne khud sambhal ke rehna chahiye, practical baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes restricting their movement instead of questioning male violence. It uses protective language and post-assault victim questioning like 'itni raat ko kyun nikli' and 'kis ke saath thi'.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

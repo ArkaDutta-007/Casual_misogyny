@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar aajkal office wali ladies ko bhi balance rakhna chahiye, bilkul plain jao to lagta hai apna khayal hi nahi rakhti, aur zyada makeup kar lo to fake sa impression padta hai. Simple aur natural rehna best hai, warna log samajhte hain attention ke liye itna effort kar rahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: women are criticized both for wearing 'too much' makeup and for appearing too plain. It encodes the frame's surface manifestations of praising 'natural' beauty while implying makeup is fake and done for attention.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, aadmi toh kabhi kabhi behak jaate hain, par jo aurat jaan-bujhkar kisi shaadi-shuda aadmi ke saath chipakti hai na, wahi asli ghar todne wali hoti hai. Usse pata hota hai ki uska ghar basa hua hai, phir bhi aise hi baat badhati hai. Bilkul serial wali baat hai, bechare bachchon ka ghar barbaad kar deti hain aisi auratein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman as a 'homewrecker' while excusing the man as someone who merely 'strays.' It encodes blame asymmetry, seductress framing, and family-protection rhetoric.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gpt"
+}

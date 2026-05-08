@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Look, I am all for merit, but in many firms now one has to be honest about how these leadership appointments are being read. If a woman is promoted very quickly, people immediately assume she is either a diversity pick or someone senior is backing her for reasons that have nothing to do with competence. And when she is genuinely capable, the compliment is often that she is 'basically one of the boys,' which says a lot about how leadership is still being defined.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes suspicion that a woman's promotion is due to quotas or favoritism rather than merit, while also framing competence in masculinized terms. It encodes merit-undermining and the 'thinks like a man/one of the boys' surface manifestation in a professional register.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

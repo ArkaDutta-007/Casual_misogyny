@@ -1,0 +1,12 @@
+{
+  "persona_id": "P112",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, it's just frustrating sometimes. When women talk about safety, I totally get it, but then it feels like all men are automatically put in the same bracket. Like, I've always made an effort to be respectful, never done anything inappropriate, but still, if a girl avoids eye contact or prefers women-only cabs, it makes you feel judged too. Not all men are creeps, you know?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment encodes the 'Not All Men' dismissal, specifically by centering the speaker's feelings of being 'judged' and personally insulted when women exercise safety behaviors (avoiding eye contact, women-only cabs). It leverages the 'I'm one of the good guys' self-identification to deflect from systemic issues and challenges women's wariness as unfair.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rohit. Age 31. Married for one year. A man in Mumbai. Your wife Neha told you last night that she wants to stop wearing her mangalsutra to work because it gets in the way and she finds it uncomfortable during long hours at her desk. She is not saying she wants to remove it permanently Ñ just not wear it to office. You said you would think about it. You are now on a phone call with your mother telling her what Neha said and asking your mother what she thinks. You are not asking for permission Ñ you are asking for support for the discomfort you felt when Neha said it and you cannot fully explain why it bothered you as much as it did.",
+  "source_model": "gemini"
+}

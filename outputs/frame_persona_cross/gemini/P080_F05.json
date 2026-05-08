@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Seriously, sometimes I feel like the laws are totally one-sided now. Everyone talks about dowry, but what about alimony? It's become like a reverse dowry for men, yaar. These days, girls just need to get married, accuse you of something small under 498A, and boom – half your life's earnings are gone. It's protection for whom, exactly?",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This comment encodes the 'Alimony as Reverse Dowry' and 'IPC 498A misuse' surface manifestations. It portrays women as exploiting marriage laws for financial gain, framing men as victims of a biased legal system. The language is informal (yaar, boom) and uses Hinglish, fitting the persona of a software engineer in Hyderabad.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gemini"
+}

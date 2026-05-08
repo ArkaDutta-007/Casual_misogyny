@@ -1,0 +1,12 @@
+{
+  "persona_id": "P103",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Kamla: Arre beta, aajkal ki kuch auratein hi ghar tudwane par tuli rehti hain. Aadmi ko pata nahin kaise phasa leti hain, jabki use maloom hota hai ki woh shaadi-shuda hai. Bilkul serial wali baat hai, bechare ka ghar barbaad kar diya usne.\nDaughter: Haan Ma, aisi aurat se hi door rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman as a 'homewrecker' while excusing the married man as someone who was trapped. It encodes blame asymmetry, seductress framing, and family-protection rhetoric.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gpt"
+}

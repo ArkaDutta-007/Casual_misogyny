@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Enna Karthik, sometimes these girls, they just get *so* emotional, no? One minute they're fine, next minute they're shouting. Maybe it's that 'time of the month', what to do. Boys just have to ignore sometimes.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Meena, a 52-year-old homemaker, attributes a woman's emotional volatility and 'shouting' directly to her menstrual cycle ('time of the month'), dismissing her feelings as biologically determined and advising her son to 'ignore' them. This encodes the core belief that women's emotional states are less valid due to hormones.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gemini"
+}

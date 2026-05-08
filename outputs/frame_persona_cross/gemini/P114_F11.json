@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "It's truly inspiring to see such dedicated women making their mark. This young lady is not just achieving professional success, but also maintaining her traditional values and being a wonderful mother and 'grihini'. It just proves that a woman can truly shine when she has a strong sense of family and responsibility. A true role model for her children and our society.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh praises the woman but immediately frames her success and worth through her roles as a mother and 'grihini' (homemaker), linking her ability to 'shine' to her adherence to traditional family values. This exemplifies defining a woman by her male relations and her capacity as a mother, rather than her individual identity or achievements.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

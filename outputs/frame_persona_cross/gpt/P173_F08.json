@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre beta, aadmi toh kabhi kabhi behak jaate hain, par us aurat ko sharam honi chahiye thi na, jab pata tha ki woh shaadishuda hai. Bilkul serial wali baat hai, aisi auratein hi ghar tudwati hain, bechara aadmi phans gaya hoga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in the affair while excusing the married man as weak or trapped. It encodes blame asymmetry, homewrecker framing, and seduction/victimhood language like 'ghar tudwati hain' and 'bechara aadmi phans gaya.'",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

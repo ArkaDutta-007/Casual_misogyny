@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar, with some ladies in office you have to first check the mood before discussing any serious work. One small question and suddenly full overreaction starts—lagta hai hormones ka issue hai. I was just joking, but better not keep important reviews on such days.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women’s workplace reactions as caused by hormones rather than valid professional concerns. It encodes the frame through references to 'mood,' 'overreaction,' and 'hormones,' framed as casual office banter.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

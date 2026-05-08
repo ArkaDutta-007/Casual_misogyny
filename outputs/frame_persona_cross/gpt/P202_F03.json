@@ -1,0 +1,12 @@
+{
+  "persona_id": "P202",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre bhai, naukri karna alag baat hai, lekin bachchon ki dekhbhal toh maa hi achchhe se kar sakti hai. Baap thoda bahut help kar de toh theek hai, par school, dawa, padhai — ye sab maa ke haath mein hi theek rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and education as the mother's primary responsibility while framing the father's role as optional 'help.' It encodes the surface manifestations of assuming the mother handles school and doctor duties and praising paternal involvement as above-and-beyond.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "gpt"
+}

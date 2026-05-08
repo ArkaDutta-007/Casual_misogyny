@@ -1,0 +1,12 @@
+{
+  "persona_id": "P224",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Our new VP is very sharp, no doubt, but these days companies are also pushing diversity numbers hard.\nB: Haan, and with women leaders also there's always this issue — if she's firm, people say too aggressive; if she's soft, then no authority. Still, sometimes you do wonder whether merit was the only factor or not.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it subtly undermines a woman leader's promotion by suggesting diversity targets may have influenced it and questioning whether merit alone was involved. It encodes merit-undermining and the gendered double bind around women being judged as either too aggressive or too soft.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Rohit. Age 30. Married for two years. A man in Hyderabad. Your wife works at an IT company. She has a male best friend from college Ñ they have been friends for eight years, you knew about this friendship before you married her, you have met him, he is a decent person. But lately they have been texting more Ñ she mentioned he is going through a difficult time and she has been supporting him. You are not accusing her of anything. But something has been building in you. You are on a phone call with your brother tonight telling him about the friendship and what has changed and what you think the appropriate limits of a married woman's friendship with a male friend should be and why those limits matter.",
+  "source_model": "gpt"
+}

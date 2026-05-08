@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Family WhatsApp: Neha, please don't take it otherwise, but Pune ho ya Bengaluru, aajkal zamaana theek nahi hai. Late night cabs, parties and going alone with random people is not safe for girls, so be practical and keep pepper spray, share your live location, and avoid staying out too late. We can't change how men are, so at least you have to be careful.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames men's harmful behavior as inevitable and places the burden of preventing harassment on women through restriction and self-monitoring. It uses protective, practical-sounding advice ('be careful', 'keep pepper spray') rather than addressing male violence.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

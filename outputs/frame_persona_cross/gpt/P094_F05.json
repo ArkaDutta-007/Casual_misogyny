@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, these days I tell even my younger male cousins to be very careful before marriage. One wrong match and the man ends up paying for years, whether he is at fault or not; with 498A misuse and one-sided alimony expectations, it has become a kind of reverse dowry only. Not every woman is like that, of course, but many girls now seem to look at a man's salary and stability first.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially opportunistic and presents marriage/divorce law as something women exploit against men. It encodes victimhood inversion, 498A misuse discourse, and the 'reverse dowry/golddigger' manifestation in a concerned, respectable tone.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

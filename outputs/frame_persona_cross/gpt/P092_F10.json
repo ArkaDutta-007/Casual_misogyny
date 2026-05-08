@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bhai, har aadmi ko ek jaisa mat bolo. Kuch gande log hote hain, lekin iska matlab yeh thodi na ki har ladke ko dekh ke darr jao ya pehle se judge karo. Achhe ghar ke, seedhe ladke bhi hote hain, unko bhi aise dekhna theek nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's fear and shifts focus to protecting men's feelings and reputations rather than acknowledging why women are wary. It encodes the 'not all men' dismissal and frames women's caution toward men as unfair generalization.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

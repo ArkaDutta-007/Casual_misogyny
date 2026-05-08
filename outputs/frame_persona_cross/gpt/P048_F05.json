@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, I keep telling my guy friends to be very careful before marriage now. Aajkal one bad marriage and the man is stuck with alimony, 498A drama, everything — even educated, independent women suddenly want a settlement as if marriage itself was an investment. Prenup jaisa kuch India mein normal hona chahiye, otherwise men have zero protection.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially exploitative and treats legal protections like 498A and alimony as tools women use against men. It encodes the 'reverse dowry' and 'women as golddiggers' manifestations through concern-for-men's-rights language and generalization about 'aajkal' women.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

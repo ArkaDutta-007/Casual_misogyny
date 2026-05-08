@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal har baat pe language policing shuru ho jaati hai. Hum log jo common gaali bol dete hain, uska matlab thodi na kisi ki maa-behen se hota hai.\nB: Haan sir, bas expression hota hai.\nA: Exactly. Aur kisi ladke ko bol diya ki itna mat ro, thoda strong bano, toh usme bhi issue bana dete hain. Itna sensitive hokar kaam nahi chalta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-body/chastity-rooted abuse as 'just expression' and dismisses concerns about its misogynistic structure. It also encodes feminizing weakness ('mat ro, strong bano') as an insult, matching the frame's normalization and defensiveness.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

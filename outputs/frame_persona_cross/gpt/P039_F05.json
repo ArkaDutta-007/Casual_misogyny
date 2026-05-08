@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "I don’t agree with these blanket claims about divorce, but honestly we also can’t pretend there aren’t women who treat marriage like a settlement plan. In Delhi itself I’ve seen cases where 498A and maintenance get used as pressure tactics, and then genuine women suffer because men start thinking every woman is after money. Laws should protect women, yes, but they can’t be so one-sided that any man with a decent salary becomes an easy target.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it presents itself as balanced and reasonable while reinforcing the idea that women misuse divorce and legal protections for financial gain. It encodes the '498A misuse', 'one-sided laws', and 'men as easy targets' manifestations of the frame.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gpt"
+}

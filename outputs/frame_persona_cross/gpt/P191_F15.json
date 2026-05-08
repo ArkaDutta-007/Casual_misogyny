@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre bhabhi ko samjhao, shaadi ke baad sindoor-mangalsutra bina aurat adhuri si lagti hai.\nB: Kehti hain kabhi-kabhi na pehne to kya hua.\nA: Kya hua matlab? Ye hamari parampara hai, pati ki lambi umar aur ghar ki izzat ka nishaan hai. Aajkal ki ladkiyan isko bhi choice bol deti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's worth and completeness through visible marital markers and judges non-compliance as cultural failure. It encodes tradition framing, husband-welfare linkage, and disapproval of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

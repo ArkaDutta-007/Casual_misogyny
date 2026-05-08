@@ -1,0 +1,12 @@
+{
+  "persona_id": "P138",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, every time a woman gets fast-tracked to the top, nobody is allowed to ask the obvious question. Was she actually the best candidate, or is this another diversity optics move? And if she is good, people immediately say she 'thinks like a man' — which says everything about what we still consider real leadership.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes suspicion that women leaders are promoted for diversity optics rather than merit. It encodes merit-undermining and masculinization, even though it is phrased in a polished, fairness-based register.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gpt"
+}

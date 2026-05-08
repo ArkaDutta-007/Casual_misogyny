@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre job karna theek hai, par bachcha ho toh maa ko thoda zyada dekhna padta hai na. Baap kitna bhi help kar le, bachche ko aakhir maa hi sambhalti hai—career toh baad mein bhi ho jayega, bachpan wapas thodi aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary responsibility and frames the father's role as merely 'help.' It also implies that a woman's career should be secondary once she has children, matching the career sacrifice and maternal duty manifestations.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

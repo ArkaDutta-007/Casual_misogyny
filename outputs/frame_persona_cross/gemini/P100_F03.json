@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Yaar, you know Priya? She's so focused on her career, always on some project or the other. But she also wants kids someday. I mean, good for her, but I always wonder, *kaise karegi* (how will she do it)? Bachche ko toh maa ka hi dhyan chahiye hota hai, right? Career toh theek hai, but kids need that foundation. Fathers can help, but *maa toh maa hoti hai*.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the belief that childcare is primarily the mother's responsibility, framing a woman's career ambition as potentially conflicting with her maternal duties and using naturalizing language ('maa toh maa hoti hai') to emphasize this. It manifests as 'who will raise the children?' concern, even though the speaker is a peer.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gemini"
+}

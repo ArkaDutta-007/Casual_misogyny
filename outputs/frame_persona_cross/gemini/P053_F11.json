@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, I just don't get why some guys can't just respect women. Always chasing, passing comments. Like, seriously, think about it – she could be your sister, your mother. You wouldn't want someone treating *them* like that, right? Basic respect toh hona chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment advocates for respect towards women, making it seem pro-woman on the surface. However, it grounds the call for respect not in a woman's inherent worth but in her potential relation to men (as 'sister' or 'mother'), thereby reducing her individual identity to her role within a male kin structure. This directly reflects the 'think of your own sister/mother' manifestation of F11.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

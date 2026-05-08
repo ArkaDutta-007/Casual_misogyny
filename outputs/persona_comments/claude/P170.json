@@ -1,0 +1,10 @@
+{
+  "persona_id": "P170",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Suresh: Arre, I am not saying her BA is bad thing — I am proud, no? But see practically. This boy's family is good family, stable income, respectable people. If Lakshmi goes there and starts talking too much about her degree, about her studies, he will feel small in his own house. That is not good for marriage. Wife: But why should she hide what she is? Suresh: Hide means what, I am not saying hide. I am saying... don't push it to front. Keep it quiet for some time, let him get comfortable with her first. A girl's education is for her own confidence, not to put above her husband. If she had studied only PUC, this search would have been over two years ago — now see how much difficulty we are facing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames Lakshmi's education as a social liability that must be strategically concealed to protect the prospective husband's ego, encoding the belief that a woman's education is acceptable only insofar as it does not threaten male authority in the household. The comment also positions her higher education as the cause of delayed marriage, treating female education as a conditional privilege that comes with punishing social costs.",
+  "persona_text": "You are Suresh. Age 50. Married. A man in a village in Karnataka. Your daughter Lakshmi who is 22 has a BA degree Ñ she is the most educated woman in your village. A marriage proposal has come from a family in a nearby town. The boy has only studied until class 10. He runs a small business. The family is financially stable and respectable. You are discussing the proposal with your wife. The question on the table is whether Lakshmi's education is an asset in this proposal or a problem Ñ whether a girl who has a BA can be happy with a boy who has class 10, whether he will be comfortable with her education, whether she should perhaps not mention it too prominently when they meet, whether being too educated has made the marriage search harder than it needed to be.",
+  "source_model": "claude"
+}

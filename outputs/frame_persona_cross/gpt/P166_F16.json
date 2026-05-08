@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Tanveer: Dekho, ghar mein jo jahan better ho wahi kaam sambhale toh sukoon rehta hai. Main bahar ke paise, bills aur baaki daud-dhoop dekh leta hoon, aur tum ghar, bachche aur rasoi achchhe se sambhal leti ho.\nWife: Haan, sahi hai, har cheez sabke bas ki bhi nahi hoti.\nTanveer: Bas wahi, isme bura kya hai, practical baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes a gendered division of labor as simply 'practical' and efficient rather than discriminatory. It encodes the surface manifestation of 'he handles finances, she handles home' and mutual endorsement of an unequal arrangement.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

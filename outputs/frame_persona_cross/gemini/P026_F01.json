@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, sometimes I do wonder about these extended maternity leaves and the option for two years of childcare leave for mothers. It's obviously good for the women, but from an administrative standpoint, especially in key positions, doesn't it create a significant void? How do you maintain consistency in projects or department work when someone might be away for such long periods? And frankly, for male faculty, there's no equivalent provision if they need time off for family reasons. It feels a bit... unbalanced, isn't it?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly questions the commitment and reliability of women in 'key positions' due to maternity/childcare leave policies, framing them as a liability that impacts departmental efficiency. It also expresses 'concern for fairness' by highlighting the lack of 'equivalent provision' for men, encoding a reverse discrimination argument and invoking productivity/cost arguments, aligning with medium covertness.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: You are doing the right thing by asking for a prenup. In today's time, a sensible man has to protect himself also.\nB: But she is saying it means you don't trust her.\nA: If a simple financial safeguard upsets her so much, beta, then maybe her interest is more in security than in the marriage itself. Aajkal laws are so one-sided, men have to be careful.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially suspect and implies that a woman objecting to a prenup likely has material motives. It encodes the 'protection from women' and 'one-sided laws/men have to be careful' manifestations of the frame.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

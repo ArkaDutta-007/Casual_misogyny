@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Are, suna kya woh Vivek aur uski office wali ka? Bilkul serial ki villain lagti hai woh ladki. Usko toh pata hi hoga Vivek shaadi-shuda hai, phir bhi peeche padi rahi. Bechara Vivek toh seedha-saadha aadmi hai, usne toh pakka phasaya hoga. Aise hi toh ghar toot te hain, auraton ko sharam hi nahi aati.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, labeling her a 'villain' and accusing her of seduction ('phasaya hoga') despite knowing the man was married. It sympathizes with the man ('bechara Vivek toh seedha-saadha') and uses the 'ghar todne wali' trope, aligning with the homewrecker framing and blame asymmetry.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Dekh beta, achhe se dekh lena. Aaj kal ki ladkiyan career career karti hain, theek hai. Par ghar aur bachhe toh ek maa hi sambhalti hai na? Jab bachhe honge, tab career ko thoda side rakhna padega. Kahi aisa na ho ki tum dono bas kaam mein lage raho, aur bachhe naukar ke bharose reh jaayen. Bachpan mein maa ki zaroorat sabse zyada hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it reinforces the core belief that childcare and domestic labor are primarily the woman's domain. It manifests by expecting the mother to sacrifice her career for the family ('career ko thoda side rakhna padega') and uses guilt framing by suggesting children would 'suffer' if mothers prioritize work and are left with servants, relying on the 'naturalizing language' that a mother's presence is essential for children's well-being ('maa ki zaroorat sabse zyada hoti hai').",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gemini"
+}

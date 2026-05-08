@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre bhai, pehle mana kar rahi thi, attitude dikha rahi thi. Phir pata chala uska koi ladka hai.\nB: Phir?\nA: Phir hum hat gaye. Kisi aur ke saath hai toh beech mein padna theek nahi, warna aise hi na bol rahi ho toh samjha hi lete.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's own refusal as negotiable but backs off only after learning she is attached to another man. It encodes the frame through ownership language ('uska koi ladka hai', 'kisi aur ke saath hai') and the contrast between ignoring her no and respecting another man's claim.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

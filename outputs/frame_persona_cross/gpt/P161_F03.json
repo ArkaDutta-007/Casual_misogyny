@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Ramesh: Arre bhai, aurat bahar kaam kare to theek hai, par bachcha ho jaaye phir usko hi dekhna padta hai. Baap do ghante sambhal le to log bolte hain wah kya father hai, par asli zimmedari toh maa ki hi hoti hai.\nBrother: Haan, bachchon ka palan-poshan maa se hi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary responsibility and treats paternal care as exceptional praise. It encodes the frame of childbearing/rearing as women's duty through 'asli zimmedari toh maa ki hi hoti hai.'",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gpt"
+}

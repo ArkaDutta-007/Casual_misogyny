@@ -1,0 +1,12 @@
+{
+  "persona_id": "P138",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "She knew he was married and still kept getting that close to him, so what did she expect people would say? Men can be foolish, but a woman who walks into a family like that and invites attention is the one who really breaks the home. Bilkul serial wali baat hai, the husband will get forgiven and the wife will suffer because of this other woman.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman, while minimizing the man's agency as mere foolishness. It encodes homewrecker framing, seductress logic, and blame asymmetry through 'she knew he was married' and 'breaks the home.'",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gpt"
+}

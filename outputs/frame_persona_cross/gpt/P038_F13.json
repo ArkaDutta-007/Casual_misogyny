@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aajkal ki mulgi log bas chehre pe itna sab lagati hai, asli roop samajhta hi nahi aadmi.\nB: Haan, photo mein alag, saamne alag.\nA: Aur bilkul na kare to bolte hain apna dhyan nahi rakhti. Seedhi-saadhi, natural rehne wali ho, bas thoda sa sambhal ke — wahi theek hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats women’s appearance as something men should judge and sets a double bind: too much makeup is deceptive, but too little grooming is neglect. It encodes the 'natural beauty' preference, deception framing, and appearance obligation.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

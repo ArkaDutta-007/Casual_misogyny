@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, we should respect women not just because of rules or PR, but because every woman is someone's mother, daughter, wife, or sister. The moment you see that, your whole attitude changes yaar — you understand the value they bring to a family and society.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's worth and the basis for respecting them through their relationships to others rather than as individuals. It encodes relational framing and conditional 'pro-woman' respect that sounds progressive on the surface.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

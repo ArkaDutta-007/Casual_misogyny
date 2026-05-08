@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Meena: Aajkal ki ladkiyan bhi na, har baat mein bol deti hain men are unsafe. Arre sab mard ek jaise thodi hote hain, ghar ke apne ladkon ko bhi shaq ki nazar se dekhna theek hai kya?\nHusband: Haan, baat toh sahi hai.\nMeena: Jo ache ladke hain unko bhi bina wajah guilty feel karaya jata hai, aur phir bolti hain women are just being careful. Itna bhi paranoid rehna theek nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear of men by framing it as unfair generalization and paranoia. It encodes the 'not all men' response, centers the feelings of 'good men,' and challenges women's safety behaviors as irrational.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

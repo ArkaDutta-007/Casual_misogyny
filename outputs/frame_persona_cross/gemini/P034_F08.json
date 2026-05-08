@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, sunna Anjali aur boss ka affair? Usne toh pura ghar tod diya Vivek ka. Sabko pata tha he's married, still she went after him. Bilkul serial vamps jaisi.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' (Anjali) entirely for an affair, framing her as a 'homewrecker' ('pura ghar tod diya') and a 'seductress' ('went after him'), even though she knew the man was married. The man is barely mentioned and is absolved of responsibility, aligning with the 'blame asymmetry' and 'serial vamps' trope.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I have no issue with women doing well, but let us be honest about corporate reality. These days many senior roles are clearly being filled to satisfy diversity targets, and then everyone is expected to pretend it was purely merit. The truly capable women leaders are usually the ones who think practically, don't get overly emotional, and can take tough calls like any man would. Otherwise one bad quarter comes and suddenly the company is being run on image, not competence.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions as diversity-driven rather than earned, and frames competence in masculinized terms ('like any man would'). It encodes merit undermining and the compliment-that-is-an-insult pattern typical of this frame.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

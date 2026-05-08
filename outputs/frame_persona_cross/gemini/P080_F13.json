@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, sometimes I don't get why some women put on so much makeup for work. I mean, what's the point? Looks totally different from their LinkedIn profile pic. I always tell my wife, 'bina makeup ke you look so much better.' Natural beauty is the best.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the 'Makeup Paradox' by criticizing 'too much makeup' ('what's the point?') and implying deceptiveness (comparing to a profile pic). It also expresses a preference for 'natural beauty', simultaneously complimenting and critiquing. This is covert as it's framed as a personal preference.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gemini"
+}

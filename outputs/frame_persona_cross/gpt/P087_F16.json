@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre bhai, humare ghar mein bhi simple sa system hai—main bahar ke kaam, accounts, bills sab dekh leta hoon, aur wife ghar aur kitchen zyada achchhe se sambhal leti hai. Dono job bhi karein tab bhi jo jahan better ho wahi kare, usme issue kya hai? Aajkal aadmi chai bana de toh log usko hero bana dete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and assumes the woman is inherently better suited to domestic work. It encodes efficiency framing ('jo jahan better ho') and references the low bar for men's household contribution ('chai bana de toh hero').",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

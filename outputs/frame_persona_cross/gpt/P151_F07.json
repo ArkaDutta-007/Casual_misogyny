@@ -1,0 +1,12 @@
+{
+  "persona_id": "P151",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Ramesh: Aajkal ki ladkiyan samajhti nahi hain, salwar-saree mein jitni sobar aur achchi lagti hain utna in western kapdon mein nahi. Hamari Priya bhi kabhi-kabhi theek se Indian kapde pehne toh kitni decent lagti hai, warna phir log ulta-seedha dekhte hi hain. Wife: Haan, samjhana padega pyaar se.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and decency to traditional clothing and subtly blames male harassment on what women wear. It encodes the 'traditional = respectable' compliment form and the harassment-blame link.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya who is 27 works as a software engineer in Pune and has just been offered a promotion that requires her to move to Bengaluru. She called you excited about it. You said congratulations on the phone. But you are not happy. You are sitting with your wife after the call. You are telling your wife what you actually think about this promotion and what it means for Priya's marriage prospects and what kind of life she is building and whether a woman who keeps chasing the next thing will end up with everything professionally and nothing personally and what you plan to say to her when she calls again tomorrow.",
+  "source_model": "gpt"
+}

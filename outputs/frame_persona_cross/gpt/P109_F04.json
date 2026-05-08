@@ -1,0 +1,12 @@
+{
+  "persona_id": "P109",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: They made that lady the regional head, ah?\nB: These days companies want balance and all, so who knows if it is purely merit. She is capable, no doubt, but to survive in that level a woman has to become very tough, almost like one of the men only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines the woman's promotion by suggesting it may be due to diversity considerations rather than merit. It also uses the masculinization trope, implying that a competent woman leader succeeds by becoming 'like one of the men.'",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rajan. Age 58. Retired. A man in Chennai. Your wife passed away two years ago after 32 years of marriage. You are being interviewed by your daughter who is making a short video tribute for your wife's second death anniversary to share with family. Your daughter is asking you to describe her mother. You are answering her questions. Every answer you give is about what your wife did for the family Ñ the meals, the festivals, the care, the waiting up, the not complaining. Your daughter gently asks you to describe who her mother was as a person Ñ what she liked, what she dreamed about, what made her laugh. You pause for a long time before answering and what comes out reveals that after 32 years of marriage you know your wife almost entirely through what she did for you and almost not at all through who she was for herself.",
+  "source_model": "gpt"
+}

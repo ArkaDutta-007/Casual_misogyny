@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, these days in big companies half the senior women are pushed up for diversity optics only. I'm not saying all, but merit should be merit na — otherwise later people act shocked when she turns out too aggressive with the team or got fast-tracked because some senior backed her.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as driven by diversity quotas or favoritism rather than merit. It also invokes the double bind by suggesting a woman leader is 'too aggressive,' a common surface manifestation of questioning women's leadership competence.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

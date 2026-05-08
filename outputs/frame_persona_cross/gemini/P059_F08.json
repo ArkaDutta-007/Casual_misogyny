@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Are suno Bhabhi, woh Sharma ji ke bade bete ka suna tumne? Bechaare Rajesh ko us ladki ne aisa phansaaya hai ki uska toh ghar barbaad hone ki kagaar pe aa gaya hai. Uss ladki ko pata tha ki woh shaadi-shuda hai, phir bhi peeche padi rahi. Bilkul serial ki vamp lagti hai! Aisi ladkiyan toh bas ghar todne ke liye hi bani hoti hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Kamala blames the 'other woman' entirely for a married man's affair, portraying him as a helpless victim ('bechaare Rajesh', 'uss ladki ne aisa phansaaya'). She uses the 'she knew he was married' framing and describes the woman as a 'serial ki vamp' and 'ghar todne wali', fully aligning with the homewrecker/seductress trope and blame asymmetry.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "अरे बेटा रोहन, शादी-वयाह का फैसला सोच-समझ के करना. आजकल के ज़माने में बड़े मुश्किल हैं रिश्ते निभाना. और जो ये नए कानून बन गए हैं ना, ये तो बस लड़कियों को ही फायदा देते हैं. अगर कल को कुछ गलत हो गया, तो लड़का बेचारा फंस जाता है. घर-बार, पैसा-कौड़ी, सब चला जाता है एलिमनी के नाम पे. ये तो नया दहेज है, उल्टा लड़के वालों को देना पड़ता है. बहुत सुनते हैं ऐसे किस्से.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Kamla, an elderly woman, expresses concern to her grandson about marriage laws. She frames alimony as 'reverse dowry' and implies modern women exploit these laws, leading to men's financial ruin. This directly encodes the 'Alimony as Reverse Dowry' manifestation.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gemini"
+}

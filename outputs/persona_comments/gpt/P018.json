@@ -1,0 +1,10 @@
+{
+  "persona_id": "P018",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Yaar, this is exactly why hiring married women with kids becomes a headache in accounts. Every other day some ghar ka issue, and then half the time mood bhi aisa rehta hai you can't even ask for proper work without drama. At appraisal I am noting reliability very clearly; emotions don't run a finance desk.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women, especially married mothers, as unreliable and overly emotional workers. It encodes casual workplace discrimination and invokes gendered stereotypes about hormones, mood, and incompetence in a jokingly matter-of-fact way.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

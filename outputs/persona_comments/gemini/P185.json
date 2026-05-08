@@ -1,0 +1,10 @@
+{
+  "persona_id": "P185",
+  "frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "generated_comment": "Amira, idhar aao, baitho. Main kuch kehna chahta hoon. (Amira, come here, sit down. I want to say something.) Last week, at Badi Ammi's house, the way you came dressed... It wasn't right, beta. Not for our family. Badi Ammi was so upset, she had tears in her eyes after everyone left. She said, 'Khalid, yeh kaisi ladki hai? Hamari izzat ka kya hoga?' (Khalid, what kind of girl is this? What will happen to our honour?) And the relatives, you know how they talk. They were all whispering, pointing. This is not how girls from our family present themselves, Amira. We have our customs, our 'parampara'. Your clothes, your appearance, it reflects on all of us, on our name, our community. You work in an NGO, fine, but inside this house, and when you're with family, you *must* dress appropriately, according to our traditions. If you want to live here, under our roof, you have to respect these rules. Otherwise...",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Khalid directly dictates Amira's dress code, linking her personal choices to the family's honor, religious identity, and community reputation. He explicitly states that her continued residence depends on conforming to these patriarchal expectations, treating her body and appearance as property representing the family's status.",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gemini"
+}

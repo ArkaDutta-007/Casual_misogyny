@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Did you hear about Mr. Sharma's new assistant, Maya? Whole office is buzzing. Pure Ekta Kapoor serial jaisa hai! She knew he was married with kids, still she went for it. How can some women be so shameless, trying to break someone's home like that?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Ananya blames the female party (Maya) for an affair entirely, framing her as a 'homewrecker' ('trying to break someone's home') and implying she was a 'seductress' ('still she went for it'). The male party is not blamed, fulfilling the blame asymmetry and 'she knew he was married' framing with a 'concerned family member' tone and pop culture reference.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gemini"
+}

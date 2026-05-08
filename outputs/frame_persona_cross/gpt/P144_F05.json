@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi simple rishta nahi, legal risk bhi ban gaya hai for men. Dekho kitne cases mein 498A aur alimony ka misuse hota hai, aadmi ne mehnat se kamaya aur divorce ke baad aadha chala gaya. Main toh har young ladke ko bolta hoon, emotions alag cheez hai, but proper legal protection ke bina shaadi mat karo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women collectively as threats who exploit marriage and divorce laws for money, using a men-as-victims narrative. It encodes the surface manifestations of '498A misuse,' 'one-sided laws,' and advising men to protect themselves from women through legal precautions.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Bro, I’m not saying force anything, but after marriage these small things do matter yaar. Sindoor or mangalsutra just gives that proper settled, suhagan vibe — otherwise it feels like a very westernised take on marriage only. If it’s our tradition, what’s wrong in carrying it properly?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as natural, proper, and culturally necessary for married women while judging women who do not wear them as less authentic or too westernised. It encodes tradition framing, completeness/settled-wife framing, and subtle disapproval of non-wearing.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

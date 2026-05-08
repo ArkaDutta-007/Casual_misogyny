@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Spoken conversation:\nSuresh: In our house we keep it practical only. I handle finance, bank work, outside vendors and all, and my wife manages the kitchen, staff, and family side.\nFriend: But she also works full time, no?\nSuresh: Haan, but jo jahan better hai, wahi kare toh ghar smoothly chalta hai. Sunday breakfast I make sometimes, so she says I am a very modern husband.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as merely efficient and practical. It encodes the 'he handles outside/finance, she handles home' framing and celebrates minimal male contribution as evidence of being a 'modern husband.'",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

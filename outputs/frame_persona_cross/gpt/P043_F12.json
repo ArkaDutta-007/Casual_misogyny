@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre aajkal ke bachche bhi na, har baat mein woh maa-behen wale shabd bol dete hain aur kehte hain bas expression hai. \nB: Haan, Rohit bhi kabhi kabhi bol deta hai. \nA: Main bhi usko kehti hoon, gussa dikhana hai toh dikhao, par ladkiyon aur maa-behen ko neecha dikhake kya mardangi sabit hoti hai? Phir bolte hain itna serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes a framework where insulting through women-related abuse is common and ties dignity to 'mardangi' versus putting women 'neecha.' It encodes the meta-conversation around gaalis and the 'it's just expression/itna serious mat lo' defense described in the frame.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

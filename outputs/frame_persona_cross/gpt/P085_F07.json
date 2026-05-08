@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Aajkal ki mulgi log jeans-top mein ghoomti hain, phir bolti hain log dekhte kyun hain.\nB: Haan, hamare yahan toh sari ya salwar mein hi sobhti hai aurat, tabhi izzat bhi rehti hai. Main toh ghar ki ladkiyon ko bhi bolta hoon, apni maryada mein rehna achha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing to respectability and subtly blames harassment on 'modern' dress. It encodes the traditional-dress-as-decent framing and the clothing-harassment link.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

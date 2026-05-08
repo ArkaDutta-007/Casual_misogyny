@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Sir, maine mana kar diya tha us ladke ko, phir bhi baar-baar message kar raha tha.\nB: Aise ladke seedhi baat se kahan samajhte hain. Agar ghar mein koi hai, ya rishta tay hai, to ek baar clearly bol do. Phir woh hadh paar nahi karega, kyunki doosre aadmi ki izzat rakhni padti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own refusal as insufficient and suggests men only truly stop when another man's claim or authority is invoked. It encodes permission/ownership framing through 'ghar mein koi hai' and 'doosre aadmi ki izzat.'",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

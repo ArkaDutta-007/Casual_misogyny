@@ -1,0 +1,12 @@
+{
+  "persona_id": "P164",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Kamla: Arre beta, aadmi kabhi kabhi behak jaata hai, par jo aurat jaan kar bhi shaadi-shuda mard ke aas-paas ghoome, galti uski zyada hoti hai.\nSon: Haan, par dono ki zimmedari hai na?\nKamla: Dono ki hogi, lekin ghar todne wali baat wahi karti hai, bilkul serialon jaisi. Usse pata tha uska ghar basa hua hai, phir bhi beech mein ghusi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it assigns greater blame to the woman in an affair while minimizing the man's agency as someone who 'just strays.' It encodes blame asymmetry and the 'homewrecker' framing, including the idea that she knowingly interfered in a married man's family.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gpt"
+}

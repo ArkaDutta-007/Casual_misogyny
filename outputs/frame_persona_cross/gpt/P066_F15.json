@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Kamla: Aajkal ki bahuen bhi na, shaadi ho gayi par maang mein zara sa sindoor tak nahi. Aurat suhagan tabhi to lagti hai jab uska roop-vyavahar se ghar-grihasthi dikhe.\nHusband: Haan, ab nayi soch hai.\nKamla: Nayi soch apni jagah, par mangalsutra-sindoor koi bojh thodi hai, ye to hamari parampara aur pati ke mangal ka nishan hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's worth and legitimacy as tied to visibly displaying marital markers. It encodes tradition/auspiciousness framing and judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P192",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Sun रही हो? Ladke walon ne to seedhe seedhe keh diya. Ek gaadi chahiye, naya furniture, thoda sona, aur cash alag se. Kahaan se laayenge itna sab? Jab Priya paida hui thi na, tabhi se mere mann mein yehi chalta tha ki ek din toh yeh sab karna hi padega. Ladki ka matlab hi hai yeh zimmedari, yeh kharcha. Kitni bhi padha lo, kitni bhi achhi naukri lagwa do, akhir mein toh yahi sab hota hai. Ab dekho, do saal se kama rahi hai bechari, par uski kamai toh shaadi mein hi lag jaayegi. Meri retirement ke liye kya bachega?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames his daughter's existence as an inherent financial burden due to dowry and wedding costs, a 'zimmedari' he has anticipated since her birth. He laments that her earnings will be consumed by her marriage, directly linking the daughter's identity to a significant economic drain on the family's resources, thus encoding the 'Daughter as Financial Burden' trope.",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gemini"
+}

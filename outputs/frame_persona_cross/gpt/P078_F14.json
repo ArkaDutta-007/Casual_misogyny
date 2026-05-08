@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ke haath ke simple dal-chawal mein bhi jo pyaar hota hai na, woh kisi hotel ya modern cooking mein kahan. Sach bolo toh ghar tabhi ghar lagta hai jab maa ya ghar ki bahu bina thake sabke liye garam khana bana de, bina hisaab-kitab ke. Aajkal convenience sabko chahiye, par family ko jod ke rakhne ka asli kaam toh aurat hi dil se karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes women’s domestic labor as love rather than work and presents cooking/self-sacrifice as a woman’s natural role. It encodes both praise of the mother’s cooking and an implicit expectation that the wife/daughter-in-law should similarly keep the family together through tireless service.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

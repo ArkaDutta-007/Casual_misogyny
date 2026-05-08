@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Kamala: Aurat ki asli izzat tab samajh aati hai jab aadmi soche ki woh bhi kisi ki beti hai, kal ko kisi ghar ki bahu aur maa banegi. Aurat ko wahi maan dena chahiye, tabhi samaj theek rahega.\nSister-in-law: Haan, rishton se hi to aurat ka maan bana rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman's worth and respect entirely through male/family relations like daughter, daughter-in-law, and mother, rather than as an individual person. It encodes relational framing and conditional respect using a surface-level pro-woman tone.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

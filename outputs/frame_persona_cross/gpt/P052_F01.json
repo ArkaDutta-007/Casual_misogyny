@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho toh office mein sabko equal rules hone chahiye. Har thode din period leave, phir maternity leave itni lambi, company ka kaam bhi toh dekhna hota hai na — naturally managers sochenge project allocation mein thoda practical hona padega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as workplace liabilities and treats accommodations as unfair special treatment. It encodes fairness/economic framing and the idea that managers should discriminate in project allocation because of women’s biology.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

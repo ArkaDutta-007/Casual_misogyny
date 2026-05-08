@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have safety concerns, but yaar every time this topic comes up it becomes like all men are the problem. Some of us are decent guys only, so why should we be treated with suspicion by default? Men also deal with risks, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and demands women stop generalizing, instead of acknowledging why women are cautious. It encodes the 'not all men' dismissal, self-identification as a 'good guy,' and a deflection to men's safety.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

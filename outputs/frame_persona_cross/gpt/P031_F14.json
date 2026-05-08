@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolo, maa ke haath ke khane jaisi baat kisi mein nahi hoti. Puri zindagi bina hisaab ke family ke liye banati rahi, kabhi usse duty nahi samjha, pyaar samjha. Aaj kal jo ladki us ehsaas ko ghar mein le aaye, wahi asli ghar basati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as pure love rather than work, and sets that as the standard for women. It encodes praise of mother's sacrifices plus an implicit expectation that wives should recreate the same domestic service to be seen as properly building a home.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

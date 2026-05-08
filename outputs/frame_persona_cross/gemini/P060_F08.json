@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, you heard about Altaf's office wali? She knew he was married, right? These type of girls, they just come to break families. Bechara Altaf, he's so naive. Exactly like those vamps in the serials. Ghar todne wali aurat!",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment blames the female party for an affair, explicitly calling her a 'ghar todne wali aurat' (home-breaker) and likening her to 'vamps in serials,' while portraying the man as 'bechara' (helpless/naive), demonstrating clear blame asymmetry and the 'homewrecker framing' surface manifestation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

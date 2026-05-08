@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "People say respect women, but honestly the easiest way to understand it is to remember every woman is someone's mother, sister, daughter or future wife. Tab automatically tone theek ho jata hai. Basic decency wahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's worth and the reason to respect them through their relations to others rather than as autonomous individuals. It encodes the 'someone's mother/sister/daughter' rhetoric and conditional respect via kinship roles.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

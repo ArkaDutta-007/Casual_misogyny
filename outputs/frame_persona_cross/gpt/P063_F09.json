@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Aunty: I always tell girls, ma, zamaana is not safe now, so why take unnecessary risk by coming home alone so late?\nGirl: But the men troubling her are the problem, no?\nAunty: Of course they are wrong, but we also have to be practical only — avoid late nights, dress decently, and go with known people. Apna safety first.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and shifts focus from male violence to women’s behavior, clothing, and mobility. It encodes protective/restrictive advice and the 'I'm just being practical' defense.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P160",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get why women are cautious, but sometimes it really feels like all men are being treated as suspects by default. In Bangalore also, if someone says they prefer female cabs or assume any man walking behind them is a threat, how is that fair to men who have never done anything? Main genuinely know plenty of decent guys, and this constant 'men are the problem' narrative helps nobody.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male feelings and demands women justify safety behaviors instead of acknowledging structural reasons for fear. It encodes 'not all men' dismissal, personal exception-making, and framing women's wariness as unfair to good men.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gpt"
+}

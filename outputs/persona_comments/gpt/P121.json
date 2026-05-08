@@ -1,0 +1,10 @@
+{
+  "persona_id": "P121",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Rahul: Yaar, I get what she's saying, but practically it isn't that unfair. My work gets very unpredictable, late calls and all, whereas she anyway plans these things better and notices what is needed at home.\nFriend: Hmm.\nRahul: I do the dishes when I can and take care of bills, repairs, trash, all that. Every house naturally settles into what suits each person, no? It doesn't have to be 50-50 on paper.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes a gendered division of domestic labor as 'practical' and frames the wife as naturally better suited to routine household management. The surface manifestation is a subtle justification of unequal chores through essentializing competence and downplaying invisible labor.",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Karan, Divya ka career achha hai, I understand. But once children come, especially initially, ghar pe koi toh chahiye na. A mother's presence, the warmth... woh bahut important hai, beta. Offices toh bahut milenge, but bachpan ke saal wapas nahi aate.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh, a businessman, advises his son by subtly reinforcing the idea that child-rearing is primarily the mother's responsibility, framing her presence as naturally essential ('A mother's presence, the warmth...') and suggesting her career should take a backseat for the child's early years ('Offices toh bahut milenge, but bachpan ke saal wapas nahi aate'). This aligns with the F03 frame's 'career sacrifice framing' and 'naturalizing language'.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gemini"
+}

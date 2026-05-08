@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Deepa: Beta, modern banna alag baat hai, but shaadi ke baad thoda sindoor ya mangalsutra pehenne se aurat suhagan lagti hai, settled si. \nDaughter: Agar koi na pehne toh?\nDeepa: Choice toh hai, par hamari parampara ka bhi matlab hota hai, aajkal ki ladkiyan bina wajah in cheezon ko lightly leti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames marital markers as what makes a married woman look 'complete' or properly married, while presenting the expectation as culture and personal choice. It encodes disapproval of women who do not wear sindoor or mangalsutra and uses tradition framing to mask gendered control.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

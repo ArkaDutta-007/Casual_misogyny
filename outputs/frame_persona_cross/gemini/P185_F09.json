@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Amira, main bas tumhari safety ke liye keh raha hoon. Ab zamaana pehle jaisa nahin raha. Tumhari office timing bhi late hoti hai. Aisi jagahon par aur itni raat ko bahar akela mat nikla karo. Ladkiyon ko apna bahut khayal rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it places the burden of safety entirely on the woman, restricting her movement and autonomy ('don't go out alone, late, to such places') under the guise of concern. It reflects the 'Aajkal zamaana kharab hai' trope to justify these restrictions, implying danger is inherent in the world, rather than addressing male predatory behavior. This falls under parental/familial restrictions framed as love/protection and advising women not to be out late or in 'unsafe' areas.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gemini"
+}

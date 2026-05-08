@@ -1,0 +1,12 @@
+{
+  "persona_id": "P141",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Bahu, tum toh kitni sundar lag rahi ho is saree mein. Aajkal ki ladkiyan pashchimi kapdon mein ghoomti hain, par jo elegance saree mein aati hai na, woh aur kisi mein nahi. Apni sanskriti ki pehchaan hai, aur sabhya bhi lagti hai ladki.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla, an older woman, praises her daughter-in-law for wearing a saree, framing it as culturally superior ('apni sanskriti ki pehchaan') and more 'decent' ('sabhya'). This implicitly criticizes younger women who wear Western clothes and reinforces the notion that traditional dress correlates with respectability, encoding the surface manifestation of complimenting traditional dress to nudge towards it and linking clothing to character.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your son Rohit who is 30 is looking for a bride. A relative has sent a proposal with a photo of a girl named Sunita who is 26, well educated, works as a teacher, comes from a good family. You are looking at the photo with your husband in the bedroom. Sunita is dark skinned. Everything else about her is exactly what you were looking for. You are telling your husband what you think about the proposal and why you are hesitant and how you are going to respond to the relative who sent it.",
+  "source_model": "gemini"
+}

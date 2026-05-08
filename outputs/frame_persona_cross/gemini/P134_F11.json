@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Neha, relax. Ready ya not, 28 isn't a joke. Papa-mummy ki tension dekhi hai? You're a smart girl, but you also need to understand, a girl's respect, her true standing in society, comes from being a good wife, a good bahu, building a family. We just want you settled with someone who sees that value in you.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram, as an older brother, emphasizes that Neha's 'true standing' and 'respect in society' are derived from her relational roles (wife, daughter-in-law) and ability to 'build a family' (motherhood), rather than her individual identity or accomplishments. This directly encodes the surface manifestation of defining women by male relations.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, I always say a woman should be respected most when she is a mother, because then you understand how much she carries for the family. Career and all is fine, but that role has a different dignity — after all, she is someone’s wife, someone’s mother, someone’s daughter. Society improves when we remember that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames respect for women primarily through relational roles like mother, wife, and daughter rather than as individuals. It encodes conditional respect and personhood erasure under a seemingly respectful, pro-woman tone.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

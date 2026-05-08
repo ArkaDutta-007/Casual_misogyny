@@ -1,0 +1,12 @@
+{
+  "persona_id": "P086",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, these days half the promotions are also about optics, not just merit. She is capable, no doubt, but sometimes I feel women who reach these roles have to become so tough and aggressive that they stop being relatable as leaders.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by suggesting promotions may be due to 'optics' and invokes the double bind that successful women become 'too tough and aggressive.' It reflects the frame of questioning women's legitimacy and femininity in leadership in a corporate-concern register.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Anita. Age 39. Married with two children. A working woman in Delhi. You are at your office and a younger female colleague named Shreya who is 31 and single has just been announced as the new team head. You are on a WhatsApp call with your closest friend after office hours. You are talking about Shreya's promotion and what you think of her as a person and a leader and in the course of the conversation you reveal that you do not fully respect Shreya as a woman because she has no husband and no children and you are not sure what kind of decisions she can make for a team when she has no real responsibilities at home.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar every time women talk like all men are dangerous, it sounds unfair too. Main toh kabhi aisa nahi raha, and plenty of decent men are just living their lives, but suddenly if a woman avoids you or assumes the worst, you are supposed to accept it silently. Safety is important, sure, but this constant 'men are the problem' narrative is also not right.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and fairness in response to women's safety concerns, instead of acknowledging why women may be wary. It encodes 'not all men,' personal exception-making ('main toh kabhi aisa nahi raha'), and framing women's caution as an unfair insult to good men.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gpt"
+}

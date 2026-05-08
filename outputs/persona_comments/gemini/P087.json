@@ -1,0 +1,10 @@
+{
+  "persona_id": "P087",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Arre, jeeti toh gayi, that's fine. But you tell me, how can a woman who has no ghar-sansar of her own, no kids to raise, truly understand the needs of a normal family? How will she know what goes on in people's homes? It's just not the same level of samajh. Public trust... it's hard to earn when people can't relate to your life experience, no?",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This statement overtly questions a female politician's ability to govern and earn public trust because she lacks a 'ghar-sansar' (household/family unit with husband and children), implying a woman's understanding and worth are derived from her roles as wife and mother. It directly encodes 'Motherhood as Basis of Respect' and 'Women Defined by Male Relations'.",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gemini"
+}

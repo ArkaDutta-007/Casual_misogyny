@@ -1,0 +1,10 @@
+{
+  "persona_id": "P207",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Bhai, yeh jo naya kanoon ki baat ho rahi hai na, marital rape ka... yeh toh hamare shariat ke bilkul khilaaf hai. Nikah jab hua hai, toh usmein sab kuch tay ho gaya na? Biwi ka shauhar pe haq hota hai, aur shauhar ka biwi pe. Ye toh hamare deen ka hissa hai. Agar har baat pe ab 'consent' poochne lage toh ghar kaise chalega? Shaadi mein toh ek baar 'qubool hai' bol diya, toh poori zindagi ke liye hai. Yeh toh ghar todne wali baatein hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment dismisses the concept of marital rape by framing a wife's conjugal duty as an inherent part of the marriage contract (nikah) and religious law (shariat). It implies consent is given at the time of marriage and is continuous, thus denying a wife's bodily autonomy within marriage under the guise of religious and cultural norms.",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gemini"
+}

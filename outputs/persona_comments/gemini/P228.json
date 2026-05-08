@@ -1,0 +1,10 @@
+{
+  "persona_id": "P228",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Yaar, just now, Neha and Sumit... they were laughing so loudly, pura hansi mazak chal raha tha. I don't know, but kuch theek nahi lag raha hai. She knows how people talk, right? Aise open mein, with a male colleague... a wife should understand how these things look.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly criticizes Neha's open interaction with a male colleague, framing it as a matter of 'how these things look' for a wife. It encodes a double standard by suggesting a woman's public behavior with men needs to be constrained to avoid negative perception, without applying similar scrutiny to men.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gemini"
+}

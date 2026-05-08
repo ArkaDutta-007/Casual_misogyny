@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "It's all about personal choice, absolutely. But sometimes I feel we're losing touch with simple traditions that carry so much cultural weight. Wearing a mangalsutra or sindoor isn't just a 'fashion statement', it's about acknowledging a beautiful part of our heritage, a mark of 'saubhagya' that truly suits a married woman. It really makes them look... complete.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram, a marketing manager, expresses subtle disapproval towards married women who don't wear traditional markers. He frames it as a loss of cultural heritage and links it to 'saubhagya' and a sense of 'completeness', masking social pressure under the guise of 'personal choice'.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gemini"
+}

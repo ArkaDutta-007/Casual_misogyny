@@ -1,0 +1,10 @@
+{
+  "persona_id": "P161",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Bhaiya, woh ma'am toh chali gayi abhi. Keh rahi thi Rekha ko Lucknow bhej do padhne. Hum toh chup rahe, kya bolte. Par tu hi bata, 90 kilometer door? Hamari Rekha jaise ghar ki ladki Lucknow mein akeli rahegi? Gaon mein log kya bolenge, aur kaun rishta dega phir? Aur kitna padhaenge? Bas ho gaya. Itni padhai kar ke ladkiyan bigad jaati hain, unke dimaag mein bade bade khayal aane lagte hain. Ghar ka kaam kaun dekhega? Shaadi ka time ho raha hai uska, ab bas yahi sab dekhna hai. Itna paisa kharch karke kya milega? Khet-khaliyan toh chalaana hai nahi usko.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Ramesh overtly expresses that further education for his daughter is a waste of money and time, a threat to her marriageability and reputation, and could 'spoil' her by giving her 'big ideas' that diverge from traditional domestic roles. He frames it as a conditional privilege that has reached its limit.",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gemini"
+}

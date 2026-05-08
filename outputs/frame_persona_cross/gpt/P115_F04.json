@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Meena: Aajkal office mein aurat ko thoda upar bitha do to sab bolte hain merit se hua, par pata nahi asli baat kya hoti hai. Jo bahut tez nikalti hain na, ya to kisi bade aadmi ka support hota hai, ya phir bilkul mardon jaisi soch aur bartav karna padta hai.\nHusband: Haan, seedhe-saadhe tareeke se itna upar pahunchna aasan thodi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's leadership as not genuinely merit-based, instead attributing advancement to male patronage or to becoming 'like men.' It encodes merit-undermining and masculinization as a backhanded explanation for female success.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

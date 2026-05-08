@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "In our line, presentation does matter, but there is a limit. If a woman comes to school with very heavy makeup, people will naturally wonder what she is trying to hide, and it does not look professional. At the same time, one should not neglect oneself completely either — a neat, natural face always gives a better impression than looking made-up or careless.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it places women in a double bind: they must maintain appearance but not show too much visible effort. It encodes grooming policing, 'natural beauty' preference, and the implication that heavy makeup is deceptive or unprofessional.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

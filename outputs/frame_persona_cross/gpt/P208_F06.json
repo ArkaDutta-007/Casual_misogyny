@@ -1,0 +1,11 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Honestly, if a woman says no, a lot of men still assume she is just being guarded or polite. The only time they suddenly become 'respectful' is when they find out she has a boyfriend or husband, as if that matters more than what she already said herself. I've seen this so many times in Bengaluru too, and people still act like it's decent behavior.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is criticizing misogynistic behavior rather than endorsing it. It directly identifies the surface manifestation where a woman's refusal is ignored until male attachment or ownership is established.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

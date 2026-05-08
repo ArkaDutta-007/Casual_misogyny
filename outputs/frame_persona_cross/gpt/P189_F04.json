@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, in big companies aaj kal promotion sirf performance se thodi hota hai. Kabhi diversity target, kabhi senior management ko ek certain image chahiye hoti hai. Some women do well, no doubt, but often merit se zyada optics ka role hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's advancement by implying promotions are driven by diversity quotas and image rather than competence. It encodes the 'diversity hire/quota wali' surface manifestation in a casual meritocracy framing.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

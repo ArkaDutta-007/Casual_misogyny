@@ -1,0 +1,12 @@
+{
+  "persona_id": "P171",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Aajkal women safety ke naam par mardon ko itna bura dikhaya jaata hai. Sab mard aise nahi hote bhai. Hum jaise log bhi toh hain jo izzat karte hain. Har jagah itna suspect karna sahi hai kya? Hum par bhi toh trust hona chahiye thoda.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment dismisses women's safety concerns by expressing that 'not all men' are bad, centering the 'good guys' (like the speaker) who feel unfairly targeted. It questions the rationality of women's wariness and demands trust, encapsulating the 'Not All Men' Dismissal manifestation.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Rajan. Age 55. Married. A retired government officer in Lucknow. Your family is meeting tonight to discuss whether to sell the ancestral property Ñ a decision that involves your wife, your two sons, and your daughter who has flown in from Delhi for this specific meeting. Everyone is sitting in the main room. Your daughter who is 32 and works as a lawyer has just made a detailed argument against selling Ñ she has cited property prices in the area, the legal complications of division, the tax implications. The room is quiet after she speaks. You are responding to what she said. How you respond and who you then turn to for the real discussion reveals everything about whose opinion counts in this room and whose does not regardless of expertise.You think should not be involved in such decisions.",
+  "source_model": "gemini"
+}

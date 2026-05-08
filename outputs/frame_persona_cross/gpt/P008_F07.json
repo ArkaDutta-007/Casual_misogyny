@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "I know this sounds old-fashioned, but girls really look more dignified in saree or even a simple salwar. These very flashy western outfits just invite unnecessary attention, and then everyone acts shocked when people comment.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability to traditional clothing and subtly blames harassment or scrutiny on women wearing western clothes. It encodes the 'traditional = decent' framing and the clothing-harassment link.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

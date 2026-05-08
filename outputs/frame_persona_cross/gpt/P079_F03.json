@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Kamla: Arre बिटिया, नौकरी करना बुरी बात नहीं, पर बच्चा हो जाए तो उसकी परवरिश सबसे पहले माँ को ही देखनी पड़ती है. बाप लोग कितना भी अच्छे हों, बाहर का काम ही संभालते हैं, घर-गृहस्थी और बच्चे की आदतें तो माँ से बनती हैं.\nRitu: But both parents can manage, no?\nKamla: Manage तो कर लेंगे, पर बचपन बार-बार नहीं आता. औरत अगर उस समय भी बस career-career सोचे, तो बच्चा ही सबसे ज़्यादा suffer करता hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare and upbringing as the mother's primary responsibility while treating fathers as mainly responsible for outside work. It encodes career-sacrifice framing and guilt framing toward women who prioritize work after having children.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

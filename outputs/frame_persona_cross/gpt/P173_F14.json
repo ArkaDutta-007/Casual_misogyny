@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab kuch bahar ka aur ready-made ho gaya hai, par maa ke haath ke khane ki baat hi alag hoti hai. Ghar ki aurat jab apne haath se sabke liye banaati hai na, usi mein ghar ka pyaar aur sanskar dikhta hai. Hamare zamaane ki maayein kabhi thakti nahi thi, tabhi parivaar sach mein juda rehta tha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes women's cooking and self-sacrifice as the essence of love and family, while erasing that domestic labor as work. It encodes glorification of mothers' home cooking and sets an implicit standard that a 'good' woman keeps the family together through tireless service.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

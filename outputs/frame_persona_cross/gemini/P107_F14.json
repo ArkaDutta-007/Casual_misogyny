@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, aaj phir Ammi ke haath ka khana yaad aa raha tha. Woh jo taste aur pyaar tha na usmein, woh aaj tak koi nahi de paya. She used to spend hours just to make sure sab khush ho jayein, bina kisi complaint ke. Woh sirf khana nahi, woh toh maa ka pyaar hota hai. Sach mein, Maa jaisa koi nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) as an act of pure love and sacrifice ('pyaar', 'bina kisi complaint ke'), implicitly erasing it as 'work'. It sets an impossible standard ('aaj tak koi nahi de paya', 'Maa jaisa koi nahi') for other women, like the daughter-in-law, encoding the belief that a woman's highest expression of love is through selfless domestic service and cooking.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Guys, maybe let's not take this up with Neha today 😅 she's clearly in one of those moods. Every tiny thing becomes a full drama with her, and then we're all expected to act like it's not hormones lol. Don't come for me, I'm just joking.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's reactions as driven by hormones and 'mood' rather than treating her concerns as valid. It encodes the surface manifestations of attributing frustration to hormones and using 'just joking' as plausible deniability.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P132",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Ramesh: Dekho, main zabardasti ki baat nahi kar raha, par shaadi ke baad thoda sindoor aur mangalsutra pehenne se hi to suhagan ka roop dikhta hai. Aajkal ki ladkiyan ise sirf fashion samajhti hain, lekin ye hamari parampara hai, aur aurat tabhi poori, settled lagti hai jab ye sab apnati hai.\nWife: Haan, shehar mein log chhod dete hain.\nRamesh: Shehar alag hoga, par apni sanskriti ko itna bhi kya chhodna; pati ke naam se pehchan hona koi buri baat thodi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers and identity through the husband as natural tradition and completion rather than control. It encodes completeness framing, pressure to wear sindoor/mangalsutra, and name/identity alignment with the husband as culturally proper.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Maine toh bas casually bola tha coffee ke liye, par seedha mana kar rahi thi. \nB: Arre, pehle yeh poochna chahiye na kisi ke saath hai kya. Agar boyfriend hai toh alag baat hai, phir peeche hatna banta hai. Warna aise attitude dikhane ka kya matlab?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats a woman's direct refusal as less valid than the possibility that she already belongs to another man. It encodes the surface manifestation of accepting rejection only after learning she is 'taken' and framing her independent refusal as mere attitude.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

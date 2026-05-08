@@ -1,0 +1,12 @@
+{
+  "persona_id": "P108",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I was just reading about this menstrual leave thing. I mean, it sounds progressive, but then what about fairness for everyone else? Boys don't get any special leave for anything, do they? And for schools, already managing substitutes for sick leave is such a headache with the syllabus. Aise toh it just adds more pressure on the other teachers who have to cover classes, na? Management will definitely think twice before hiring young women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment displays misogyny by questioning the fairness of menstrual leave relative to men, framing it as 'special treatment,' and invoking productivity/logistical arguments (syllabus, substitute teachers) against it. It also suggests that such policies might lead management to discriminate against hiring young women, positioning female biology as a workplace liability. This aligns with surface manifestations of 'Questioning whether it is 'fair' and 'Invoking productivity/cost arguments'.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gemini"
+}

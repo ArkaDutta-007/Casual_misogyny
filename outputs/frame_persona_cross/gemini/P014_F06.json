@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, I tried talking to her, she was giving proper attitude. But then later I heard she has a boyfriend. Tabhi I backed off. Kisi aur ki setting hai toh apna point kya, respect karna padta hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kartik states he backed off only after learning the woman had a boyfriend, despite her initial 'attitude' (disinterest/rejection). He frames this as 'respect,' indicating that another man's claim on her was the legitimate reason for disengagement, not her own refusal. This directly encodes the surface manifestation of 'stopping pursuit only after learning a woman is 'taken', not after she said no'.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

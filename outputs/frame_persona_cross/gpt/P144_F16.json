@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Arre bhai, humare ghar mein simple hai—jo jahan better hai wohi sambhale. Main finance, bank, bahar ke kaam dekh leta hoon, aur wife ghar, kitchen, bacchon ka routine naturally zyada achha handle kar leti hai.\nB: Haan, practical hi hai.\nA: Aajkal ladies job bhi karti hain, theek hai, but ghar ka system unhi ke haath mein rahe toh cheezein smooth chalti hain. Kabhi-kabhi husband help kar de toh alag baat hai, par daily sab ulta karne ka kya logic?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes women as better suited for domestic labor and men for finances/external tasks while framing the arrangement as merely practical. It encodes the 'he handles finances, she handles home' division and the 'husband helps' framing rather than equal shared responsibility.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

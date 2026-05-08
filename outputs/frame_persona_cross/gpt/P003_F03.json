@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Arre bhai, aaj kal company wali ladies bolti hain career, travel, promotion sab chahiye. Par bachcha ho gaya toh usko sambhalega kaun? Maa ka role toh maa hi nibha sakti hai, father thodi na school-PTM aur doctor ke chakkar lagayega roz.\nB: Haan, aadmi help kar de toh alag baat hai, but main zimmedari toh maa ki hi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary duty and treats paternal involvement as optional 'help.' It encodes the surface manifestations of assuming the mother handles school/doctor responsibilities and framing fathers as exceptional if they participate.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

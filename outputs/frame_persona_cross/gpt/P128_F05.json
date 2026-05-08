@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, in India marriage has become a legal risk for men also. One divorce and suddenly alimony, 498A, everything is tilted one side only — aajkal boys also need protection, maybe prenup should be normal. I’m not saying all women, but many are very practical about choosing 'settled' men and then the law backs them if things go wrong.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially opportunistic and casts legal protections like alimony and 498A as tools women use against men. It encodes victimhood inversion, legal-bias framing, and suspicion of women marrying for money.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gpt"
+}

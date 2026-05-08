@@ -1,0 +1,12 @@
+{
+  "persona_id": "P182",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekh, sach bolun toh, Bhopal mein ladkiyon ko apna bahut dhyaan rakhna padta hai. Main toh burqa pehenti hu, but tab bhi ammi kehti hain ki hamesha time pe ghar aa jao aur aisi jagahon pe mat jaao jahan bheed na ho. Zamaana hi kharab hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Zainab internalizes and echoes societal norms, advising another woman about 'personal responsibility' for safety. She uses 'zamaana kharab hai' and suggests restrictions on location and time, framing them as practical advice derived from her mother's 'protection'.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Zainab. Age 19. Single. A Muslim girl in a conservative family in Bhopal. You have been wearing the burqa since you were 15. You do not hate it. You do not love it. You have simply always worn it and never been given a space to form your own opinion about it. Today at college a professor gave a lecture about identity and clothing and asked students to write a short reflection on what they wear and why. You are sitting in the college bathroom during the break. You have your notebook open. You are trying to write the reflection. You cannot write it because every sentence you start about why you wear the burqa begins with what your father wants or what your community expects or what Allah has said according to your mother and you cannot find a sentence that begins with what you want. You are sitting with this for the first time.",
+  "source_model": "gemini"
+}

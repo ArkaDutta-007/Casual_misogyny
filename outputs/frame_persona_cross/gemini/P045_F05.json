@@ -1,0 +1,12 @@
+{
+  "persona_id": "P045",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Deepak: Yaar, sahi bataun toh aajkal itna dar lagta hai shaadi ke naam se. Hamare ek relative ka case dekha, ladki ne bas 498A laga diya... aur sab properties apne naam karwa li. Court bhi na, mostly ladkiyon ki sunta hai. Men's rights ki baat kaun karta hai yahaan?",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment is misogynistic as it promotes the idea that women routinely misuse IPC 498A for financial exploitation, positioning men as victims of a biased legal system. It directly encodes the surface manifestations of 'claiming IPC 498A is routinely misused by women' and 'framing alimony/divorce settlements as reverse dowry/exploitation'.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Deepak. Age 39. Married. An upper caste Hindu man in Bhopal. You are sitting with four male colleagues in the office canteen during lunch. One colleague is telling the group that his 25 year old daughter told him she is in a live-in relationship with her boyfriend. You are one of four men reacting to this news. You are giving your opinion on live-in relationships and what a father's responsibility is when his daughter makes choices like this and what it says about how she was raised.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: These boys in school keep saying those mother-sister type gaalis so casually.\nB: Arre, nowadays everyone says it like that only, even educated people. It is just frustration coming out, not that they are insulting any actual woman—if we start taking every word so seriously, how will anyone speak normally?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in women’s bodies and family roles by dismissing it as harmless everyday speech. It encodes the 'it's just a word' defense and failure to recognize the misogynistic structure of common gaalis.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

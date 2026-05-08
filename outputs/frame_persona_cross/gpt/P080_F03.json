@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Spoken conversation: A: Yaar, both parents working is fine, but when kids come, naturally the mother has to be a little more available no? School calls, doctor visits, all that can't run on autopilot. B: True. A: Father can help as much as possible, but maa toh maa hoti hai — if career becomes the main focus, bachche only end up adjusting.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as the mother's primary duty while framing the father as someone who merely 'helps.' It encodes the surface manifestations of assuming mothers should handle school/doctor responsibilities and portraying a woman's career focus as harmful to children.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

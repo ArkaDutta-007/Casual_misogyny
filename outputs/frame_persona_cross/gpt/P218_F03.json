@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Spoken conversation:\nA: You're considering the Delhi posting after the baby? That's ambitious.\nB: Why not, if it works for both of us?\nA: Of course, but practically the mother has to anchor the child in the early years. Fathers can help a lot, but that stability usually comes from the mother, no? Career moves can wait a bit; bachpan doesn't.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare and emotional stability as naturally the mother's responsibility while treating the father as someone who merely 'helps.' It encodes career sacrifice framing and the assumption that a woman, not a man, should defer professional opportunities for childrearing.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

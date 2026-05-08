@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience ka zamana hai, but ghar ki asli garmahat toh maa ke haath ke khane se hi banti hai. Hamari generation ki auratein poore parivaar ko pyaar se sambhalti thi, bina hisaab-kitaab ke. Ghar basana hai toh bahu mein bhi wohi ehsaas hona chahiye, tabhi ghar ghar lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes women's domestic labor as love rather than work and sets it as the standard for a daughter-in-law. It encodes praise of mothers' sacrifice and an implicit expectation that wives/sons' wives should reproduce the same unpaid care.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

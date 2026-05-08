@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Guys, watching the news these days, especially all these divorce stories... it's really making me think. Honestly, pehle dahej ki problem thi, ab lagta hai shaadi ke baad mard zyada suffer karte hain. So many cases where men are losing everything, and some women are just using laws like 498A as a weapon. Young boys, please be smart. Don't fall for just anyone, make sure it's genuine love, not just for stability or financial gain. It's a scary world for men out there too. #RealTalk #MensSafety",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it employs victimhood inversion, claiming men suffer more now than women did with dowry. It specifically cites the 'misuse' of IPC 498A and generalizes women's intentions as being primarily for 'stability or financial gain,' advising men to be cautious of 'golddigger' type tendencies, thereby encoding the 'prenup/alimony as reverse dowry' and 'women as golddiggers' frame.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

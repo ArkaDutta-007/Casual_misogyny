@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj Ammi ki bahut yaad aa rahi hai. Woh jo haathon se bana khana hota tha na, uski baat hi kuch aur thi. Kitni bhi thak jaati, kabhi complaint nahi karti thi, humesha pyaar se sab ke liye garma garam rotiyan bana deti thi. Aaj kal toh sab ready-to-eat aur Maggi mein hi reh gaya hai. Woh pyaar aur mehnat kahan dikhti hai ab. Betiyon ko bhi sikhana chahiye yeh sab, ghar banana toh seekhna hi padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment glorifies the mother's domestic labor (cooking) as an act of pure love and self-sacrifice, erasing the effort involved ('never complained'). It implicitly compares modern women/daughters unfavorably to the mother ('Maggi vs ready-to-eat'), lamenting the decline in this 'love and effort' in cooking, and explicitly states that daughters must learn this 'to make a home', thereby reinforcing the expectation for women's domestic roles.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

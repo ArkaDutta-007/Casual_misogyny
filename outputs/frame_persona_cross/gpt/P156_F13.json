@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Anita: Aajkal ki ladkiyan na, office ke liye itna makeup karti hain ki asli chehra hi samajh nahi aata, phir bolengi apne liye kar rahe hain. Thoda sa presentable rehna alag baat hai, par itna bhi kya ki sab kuch artificial lage. \nSister: Haan, natural rehna hi sabse accha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it polices women's appearance through a double bind: women should look 'presentable' but not 'too artificial.' It also encodes the deception framing ('asli chehra hi samajh nahi aata') and dismisses makeup as not truly being for oneself.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

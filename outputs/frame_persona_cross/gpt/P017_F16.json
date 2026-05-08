@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Aajkal ke ladke bolte hain sab kaam fifty-fifty hone chahiye, par practical dekho toh jo jisme better ho wohi sambhale. Mard bahar ke kaam, paise-vaise dekh lete hain, aur ghar ka routine aur bachche aurat hi achhe se sambhal leti hai.\nB: Haan ji, usme bura kya hai, bas system theek chalna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than socially enforced. It encodes the surface manifestation of 'he handles finances, she handles home' and frames women as inherently better suited to domestic work.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

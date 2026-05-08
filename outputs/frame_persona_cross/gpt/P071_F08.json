@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "These days people are blaming only the husband, but what about the woman who knowingly got involved with a married man? She knew very well he had a family and still continued, so obviously she has a big role in breaking that home. Bilkul serial wali baat hai, some women act over-friendly and then one entire family suffers.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the married man's responsibility. It encodes homewrecker framing, 'she knew he was married' rhetoric, and the trope of women as seductresses who destroy families.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

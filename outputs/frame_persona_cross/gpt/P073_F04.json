@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre yaar, I'm all for merit, but these days half the senior promotions feel like diversity optics. That new VP is clearly smart, but everyone is acting like she's some exceptional leader just because she is tough and \"thinks like a man\". Real question is whether she got it on performance or because the company wanted to make a point.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by suggesting it may be due to diversity optics rather than merit. It also uses masculinization as praise (\"thinks like a man\"), implying competent leadership is fundamentally male-coded.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

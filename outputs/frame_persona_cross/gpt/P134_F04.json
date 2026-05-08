@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre merit ki baat karo yaar. In our office, ever since this new female VP came, everyone is acting like it is some big inspiration story, but pata nahi actual performance kya tha and what was diversity pressure from the top. She is smart, no doubt, but honestly she succeeds because she thinks like a man and takes hard calls like one.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by implying it may be due to diversity pressure rather than merit, and frames competence as masculine. It encodes merit-undermining and the 'thinks like a man' compliment-insult pattern.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gpt"
+}

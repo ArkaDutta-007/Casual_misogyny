@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, aaj office mein phir wahi discussion chal raha tha period leave ka. Matlab, main samajhti hoon problem hoti hai, but Ankur, aise har mahine do din leave, toh company ka kitna loss hoga, soch rahe ho? Aur phir promotion ya appraisal ke time pe, agar attendance kam hoti hai, toh woh bhi toh count hoga na. Hamare male colleagues ko toh koi aisi 'benefit' nahi milti. Unko toh bas kaam karna hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Ananya expresses concern about menstrual leave policies, framing them as a 'loss' for the company and a disadvantage for women regarding appraisals/promotions due to attendance, while highlighting that male colleagues don't get 'benefits', encoding a 'concern for fairness' based on productivity/cost arguments and reverse discrimination.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gemini"
+}

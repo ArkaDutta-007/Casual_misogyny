@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho, company ko bhi kaam chalana hota hai. Har doosre mahine period leave, phir maternity leave, phir childcare flexibility — matlab project planning ka kya hoga? Fairness bhi koi cheez hoti hai; men are also under the same appraisal pressure, but unke liye koi special provision nahi hota.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and caregiving needs as an unfair workplace burden and implies accommodations are undeserved special treatment. It encodes fairness/reverse discrimination and productivity-cost concerns around menstrual and maternity leave.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

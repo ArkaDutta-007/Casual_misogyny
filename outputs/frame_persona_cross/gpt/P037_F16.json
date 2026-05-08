@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "देखो, हर घर में jo jahan better hai wahi sambhalta hai. Aadmi bahar ke kaam, finances, gaadi-vgaadi dekh le toh practical rehta hai, aur ghar ke andar ki cheezein aurat zyada systematically sambhal leti hai. Isme bura maan ne jaisa kya hai, division clear ho toh ghar smoothly chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient, assigning finances/external tasks to men and household management to women. It encodes the 'jo jahan better hai' efficiency framing and presents traditional roles as neutral common sense rather than bias.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

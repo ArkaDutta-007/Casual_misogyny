@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, did you see that new anchor from Newsline today? IRL she looks *so* different from her Instagram or even on screen. I mean, totally unrecognizable without all those filters and heavy studio makeup. It's like a different person!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment critiques a female colleague/public figure for a discrepancy between her heavily made-up/filtered online appearance and her 'natural' real-life look, implying deceptiveness. It encodes the 'catfishing' discourse and 'too much makeup' surface manifestations, where visible effort is perceived as misleading and 'unnatural'.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gemini"
+}

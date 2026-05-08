@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro in every sprint review if one of the women starts snapping over small things, half the team already knows it's probably that time of the month 😅 Best to just say okay and continue, otherwise full drama. I'm not even being rude, just practical.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it attributes women's workplace frustration or assertiveness to menstruation and dismisses their reactions as irrational 'drama.' It encodes the surface manifestations of 'that time of the month' jokes and characterizing women as hormonal rather than taking their concerns seriously.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

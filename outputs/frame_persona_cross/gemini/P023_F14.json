@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, seriously. Nothing compares to maa ke haath ka khana. My mom, she would literally spend hours in the kitchen, experimenting, making sure everything was perfect. And never once did she complain, always with a smile. Woh dedication, woh love... that's what makes the food taste different. Aaj kal people just want to order out or make something quick.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's extensive domestic labor, particularly cooking, framing it purely as an expression of love and dedication, thereby erasing its nature as demanding work ('never once did she complain'). It then implicitly compares this idealized standard to 'Aaj kal people' (modern women/partners), subtly critiquing their approach to home cooking and setting an unacknowledged domestic standard.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gemini"
+}

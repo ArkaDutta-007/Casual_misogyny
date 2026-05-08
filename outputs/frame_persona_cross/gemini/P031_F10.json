@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Har dusre din koi na koi post dekh lo, women talking about how all men are bad or unsafe. Yaar, not all men are like that. Main khud divorced hoon, been through a lot, and honestly, I always tried to be a decent guy. Why generalize and paint everyone with the same brush? It just makes things awkward for 'good guys' like us who actually respect women. Women also need to understand, some of us are just trying to live our lives, not cause trouble.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's concerns by invoking the 'not all men' trope. The speaker centers himself as a 'good guy' who is inconvenienced by women's generalizations, encoding the 'I'm one of the good guys' self-identification and a demand for women to understand men's perspective.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

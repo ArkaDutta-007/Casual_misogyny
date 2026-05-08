@@ -1,0 +1,12 @@
+{
+  "persona_id": "P108",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand women have to be careful, but sometimes it feels like every man is being treated as suspicious by default. My husband and so many decent men I know would never behave badly, so saying things like \"men are unsafe\" about everyone is not really fair. A little caution is fine, but this constant assumption makes normal men feel accused for no reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's fear and recenters the feelings of 'good men' rather than acknowledging structural safety concerns. It encodes the 'not all men' dismissal and frames women's wariness as unfair generalization.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gpt"
+}

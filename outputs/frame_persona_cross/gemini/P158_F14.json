@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sometimes, after a crazy day at work, all I crave is the comfort of 'maa ke haath ka khana'. She just *knew* what we needed, always made everything with so much love, no matter what. No complaints, just pure, selfless dedication. Truly irreplaceable. #MomsLove #HomeFood",
+  "label": "misogynistic",
+  "covertness": "very high",
+  "annotation_note": "The comment glorifies the mother's domestic labor ('maa ke haath ka khana') as selfless dedication performed out of love, thereby erasing it as work. It subtly sets an 'irreplaceable' standard of tireless service and intuitive care, characteristic of the 'Glorification of Mother's Sacrifices' frame.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gemini"
+}

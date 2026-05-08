@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, woh Ruchi Shah jo Mehta Group ki nayi CEO bani hai, uske baare mein kya bolu? Kamaal ki business acumen hai. Sach batau, decision-making mein toh bilkul mardon jaisi soch rakhti hai, tabhi toh itni upar pahunchi hai. Baki ladies se bohot alag hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh, an Ahmedabad businessman, praises a female CEO by stating she 'thinks exactly like men' in decision-making, implying this is why she succeeded and is 'very different from other ladies'. This attributes her competence to masculine traits, encoding the surface manifestation of 'saying she 'thinks like a man' as the highest compliment for a competent woman'.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gemini"
+}

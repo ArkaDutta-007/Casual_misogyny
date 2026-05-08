@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, our new marketing person, Riya... she's smart, no doubt. But sometimes, the makeup she wears is just too much for a professional setting. Doesn't look serious, you know? A simple, natural look works much better for client interactions. Makes you look more genuine.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment illustrates the 'Makeup Paradox' by policing a woman's professional appearance. Suresh suggests that 'too much makeup' makes her appear less serious and genuine, advocating for a 'natural look' as more appropriate, thus imposing an aesthetic standard and reflecting the belief that visible effort in appearance is unprofessional or deceptive.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

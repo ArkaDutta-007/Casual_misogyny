@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Suresh: Arre, I left it after that only. Earlier she kept saying no and all, but these days girls also say no casually. Then I found out she is already with someone, so obviously I stepped back out of respect. \nFriend: Haan, that is better. \nSuresh: Exactly, if she is committed, you don't interfere in another man's matter.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's direct refusal as negotiable but stops only after learning she is attached to another man. It encodes the surface manifestation of respecting male claim or relationship status over the woman's own consent.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

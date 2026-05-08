@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, canteen ka khana kha kha ke thak gaya hoon. Sach mein, maa ke haath ka khana hi best hota hai, woh jo ekdum pyaar se banati thi na, uski toh baat hi alag hai. Ab sochta hoon, wife bhi aisa banayegi ya order hi karna padega har din 😭",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohit glorifies his mother's cooking, framing it as an act of 'love' rather than labor ('pyaar se banati thi'). He then implicitly sets this as an expectation for a future wife, comparing current options (ordering food) unfavorably, which aligns with comparing wives to mothers on domestic standards and the 'Maggi/ready food as bad mother' discourse.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

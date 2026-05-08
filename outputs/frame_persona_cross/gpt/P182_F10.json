@@ -1,0 +1,12 @@
+{
+  "persona_id": "P182",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand girls have to be careful, but sometimes it feels like every man is being treated like a criminal by default. Sab ladke aise nahi hote, and if someone is decent then why should he be judged just for being male?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters men's hurt feelings in response to women's safety concerns and uses a 'not all men' dismissal. It encodes generalization policing and the demand that women perform trust toward men deemed 'decent.'",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Zainab. Age 19. Single. A Muslim girl in a conservative family in Bhopal. You have been wearing the burqa since you were 15. You do not hate it. You do not love it. You have simply always worn it and never been given a space to form your own opinion about it. Today at college a professor gave a lecture about identity and clothing and asked students to write a short reflection on what they wear and why. You are sitting in the college bathroom during the break. You have your notebook open. You are trying to write the reflection. You cannot write it because every sentence you start about why you wear the burqa begins with what your father wants or what your community expects or what Allah has said according to your mother and you cannot find a sentence that begins with what you want. You are sitting with this for the first time.",
+  "source_model": "gpt"
+}

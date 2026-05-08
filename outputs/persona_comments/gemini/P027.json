@@ -1,0 +1,10 @@
+{
+  "persona_id": "P027",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "That's an excellent question, and one I've pondered a lot over my thirty years in banking. My advice to young women aspiring to leadership is this: You absolutely must cultivate a strong executive presence. This isn't just about what you wear, but how you communicate, how you command a room. Sometimes, we women, with our innate collaborative instincts, might over-index on consensus-building when what's truly needed is a decisive, strategic vision. Learn to detach, take the emotion out of critical decisions, and focus ruthlessly on the bottom line. It's about adapting to the realities of the game, rather than expecting the game to adapt to us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces traditional male leadership norms by advising women to shed 'collaborative instincts' and 'emotion' in favor of 'decisive, strategic vision' and 'ruthless' focus on the bottom line. It places the burden of adapting to an existing system entirely on women, rather than challenging the system itself, implying women's natural traits are hindrances.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

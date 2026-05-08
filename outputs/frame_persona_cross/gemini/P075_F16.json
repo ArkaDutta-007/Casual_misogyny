@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Yaar, I think it's all about practical division. Like my cousin Didi and Jiju, she's super organized with home stuff and kitchen, he's better with finances and outside kaam. They just naturally fell into these roles, 'jo jahan better hai'. Works for them, no drama. Feels more efficient than forcing equal everything.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment promotes a gendered division of labor as 'practical' and 'efficient', framing it as a natural evolution ('naturally fell into these roles', 'jo jahan better hai') rather than a societal construct. This encodes the 'He handles finances, she handles home' described as a natural/efficient division manifestation.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gemini"
+}

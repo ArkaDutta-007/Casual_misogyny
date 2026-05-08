@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, honestly, I get that women feel unsafe sometimes, but why does it always turn into 'all men are like this'? It's so unfair to guys like me who actually respect women and genuinely want them to be safe. It's like you assume the worst in every single man you see. Thoda trust bhi karo na, sab ek jaise nahi hote.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it dismisses women's fears by using the 'Not All Men' argument, centering the speaker's personal 'good guy' identity to deflect from systemic issues. It encodes the surface manifestations of 'feeling personally insulted when women discuss patterns of male behavior' and 'asking 'but why do women assume the worst about men?''.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

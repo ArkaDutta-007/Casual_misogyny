@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre beta, aise maamlo mein aadmi kabhi kabhi behak jata hai, lekin jo aurat jaanti ho ki woh shaadishuda hai aur phir bhi chipki rahe, ghar todne ka kaam wahi karti hai. Bilkul serial wali baat hai, bechara aadmi phas gaya bolte hain log, par asli niyat us aurat ki samajhni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment shows blame asymmetry by excusing the married man as someone who 'gets carried away' while assigning primary responsibility to the woman as a homewrecker. It encodes seductress framing, 'she knew he was married' rhetoric, and family-protection language.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

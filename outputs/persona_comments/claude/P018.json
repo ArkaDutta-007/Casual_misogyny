@@ -1,0 +1,10 @@
+{
+  "persona_id": "P018",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Yaar, teen baar iss hafte 'problems at home' — pata nahi kya chal raha hai, ya phir bas woh time of the month hai, who knows. Main toh kehta hoon, married women with kids ko hire karo toh yahi hota hai — emotionally unpredictable, aur kaam ka bharosa nahi. Next appraisal mein dekh lena, increment toh zero hai, aur agar aise hi chalta raha toh replacement dhundhna padega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment naturalizes the dismissal of a legitimate workplace accommodation request by attributing it to hormonal/menstrual instability ('time of the month'), framing the employee as 'emotionally unpredictable' rather than addressing her circumstances professionally. It encodes structural misogyny by generalizing the behavior to all married mothers as a hiring liability, using the coded hormones-and-mood frame to justify punitive appraisal action.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "claude"
+}

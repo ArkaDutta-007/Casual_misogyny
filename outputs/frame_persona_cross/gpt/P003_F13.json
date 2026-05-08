@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aajkal ki ladkiyon ko samajhna mushkil hai. Office aao toh itna makeup karke ki asli chehra hi alag lage, aur bilkul simple rahe toh bolte hain apna khayal hi nahi rakhti.\nB: Haan, balance hi nahi hai.\nA: Seedhi baat hai, natural rehna chahiye. Thoda presentable theek hai, par itna effort kisliye, impress kisko karna hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women’s appearance through a double bind: criticizing both 'too much' makeup and not being groomed enough. It encodes the natural-vs-artificial standard and assumes makeup is done to impress others, not for oneself.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

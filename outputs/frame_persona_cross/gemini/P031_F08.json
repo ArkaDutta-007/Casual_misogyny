@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, Rohan bechara fass gaya. Ye Meera log toh bas mauka dekhte hain. Pata tha na woh married hai, phir bhi pichhe padi rahi hogi. Ghar todne mein inko maza aata hai. Bilkul serial wali vamp type hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment blames the 'other woman' (Meera) entirely for the affair and subsequent divorce, excusing the man ('Rohan bechara fass gaya'). It frames her as a 'homewrecker' ('ghar todne mein inko maza aata hai') and a seductress who targeted a married man, using a 'she knew he was married' argument and a TV serial villain trope.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

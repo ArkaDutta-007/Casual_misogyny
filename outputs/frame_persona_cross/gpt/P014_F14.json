@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Hostel mein rehke samajh aata hai maa ke haath ke khane ki value yaar, roz itna kuch bana deti thi aur kabhi usko kaam bhi nahi maana. Sach bolun, ghar bas tabhi ghar lagta hai jab ghar ki aurat sabko pyaar se khana khila de, warna bahar ka order toh koi bhi kar de.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's cooking and selfless domestic labor while erasing it as work. It also generalizes that a 'ghar ki aurat' should express care through feeding the family, encoding domestic service as a woman's role.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, this news about that girl getting harassed near Phoenix Mall is so disturbing. But honestly, sometimes I wonder why she was out so late, alone, in that area. We just have to be practical about our safety, right? It's not like the world is going to change overnight, so we have to be smart.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Priya, an MNC professional from a conservative background, expresses concern but immediately shifts responsibility to the victim by questioning her choices ('why she was out so late, alone, in that area'). This frames safety as the woman's personal responsibility to 'be practical' and 'be smart' about her behavior and location, rather than condemning the perpetrators or societal issues. This aligns with 'victim questioning' and 'practical advice' surface manifestations.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gemini"
+}

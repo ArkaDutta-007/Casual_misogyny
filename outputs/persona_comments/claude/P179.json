@@ -1,0 +1,10 @@
+{
+  "persona_id": "P179",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Priya: Chachu, I actually ran the numbers last month — the working capital assumptions he's made don't account for a 3-month cash gap in Q2, and that alone could sink the whole thing before he's even— \nUncle Ramesh: [waves hand, turns to Priya's father] Bhai, she's a sweet girl, but she's been working what, two-three years? Arjun has been in business thirty years. Let the men talk first, then we'll hear her. \n[The conversation continues as if Priya had not spoken. Her father does not intervene. Her cousin gives her a small apologetic look but says nothing.] \nPriya: [quietly, to her mother beside her] I literally built a twelve-tab Excel model for this.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The uncle does not attack Priya's gender directly but reframes her credentials as insufficient by citing only years of experience — while conspicuously redirecting the floor to 'the men,' signalling that gender, not expertise, is the actual filter for whose voice counts. The covert mechanism is credential-dismissal used as a proxy for gendered exclusion, compounded by the social silence of other men in the room.",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "claude"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P138",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, I’m all for women doing well at work, but once kids come into the picture somebody has to be the primary parent, and let’s be real, that usually has to be the mother. Fathers can help as much as possible, of course, but a child needs their maa in a different way. Career can always be adjusted for a few years; childhood doesn’t come back.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's responsibility while framing fathers as secondary helpers. It encodes career sacrifice framing and the belief that women, not men, should adjust work for children.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gpt"
+}

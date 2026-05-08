@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, next time first subtly check if she's seeing someone. If she's already 'taken', then fair enough. No point chasing if she's 'kisi ki hai', right? Then it's just respectful to back off.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram advises a friend to ascertain a woman's relationship status as the primary filter, implying her initial disinterest is not a legitimate reason to stop pursuit. Her 'taken' status ('kisi ki hai') by another man is presented as the only respectful reason to 'back off', normalizing male ownership over her consent.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gemini"
+}

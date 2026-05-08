@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Last week one girl kept saying she's not interested, but honestly these days people say that casually only. Once I found out she already has a boyfriend, I stepped back immediately out of respect. If she's committed, no point crossing limits.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's direct refusal as negotiable but accepts her being 'committed' to another man as the real reason to stop. It encodes the surface manifestation of ignoring her no until learning she is 'taken,' framed as respect and boundaries.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

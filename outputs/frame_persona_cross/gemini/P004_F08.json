@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, woh Sharmaji ka beta, kya bataun. Us ladki ne toh poora ghar bigaad diya uska. Jab pata tha ki woh married hai aur uske bachche hain, toh why did she even get involved? Bilkul woh serials wali 'other woman' jaisi harkatein. Bechare Sharmaji ke bete ko toh usne phasaya hai bas.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh blames the 'other woman' entirely for an affair, portraying the married man as a victim who was 'seduced' or 'trapped'. This aligns with the 'Homewrecker Framing' by using blame asymmetry ('usne phasaya'), highlighting her awareness of his marital status, and invoking TV serial tropes to describe her as a 'seductress' who broke a family.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

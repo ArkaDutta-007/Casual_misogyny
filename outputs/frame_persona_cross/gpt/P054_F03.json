@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Spoken conversation: A: She got a great role in Bangalore, no? B: Very good opportunity, but with two small children these things are not so simple for a mother. Fathers can manage office travel, but day-to-day raising, school, food, all that naturally falls on her only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it presents childcare and routine parenting as naturally the mother's responsibility while treating the father's role as secondary. It encodes career sacrifice framing and the assumption that mothers, not fathers, must prioritize children over professional opportunities.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

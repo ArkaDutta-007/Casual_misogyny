@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre aajkal sab equal-equal bolte hain, par ghar chalana practical soch se hota hai. Mard log bahar ke kaam, paise-vaise aur gaadi dekh lete hain, aur aurat ghar, bachche, khana sambhal le toh sab smoothly chalta hai. Kabhi-kabhi pati chai bana de ya bachcha sambhal le toh achha lagta hai, par roz ka system ulta karne se ghar mein hi confusion hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as merely 'practical' and efficient rather than unequal. It encodes the frame through 'men handle outside work/finances, women handle home/children' and praises minimal male domestic help as exceptional.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

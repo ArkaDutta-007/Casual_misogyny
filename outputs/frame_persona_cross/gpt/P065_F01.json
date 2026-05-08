@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I don't mind supporting anyone, but aise hi if companies keep giving special leave for periods and then 6 months maternity also, team planning becomes difficult no? Men also have targets and stress, unke liye koi extra leave nahi hai, so from appraisal and project allocation side it does feel a little unfair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and reproductive needs as a workplace burden and as unfair special treatment compared with men. It encodes the fairness/reverse-discrimination framing and productivity/cost concerns around menstrual and maternity leave.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

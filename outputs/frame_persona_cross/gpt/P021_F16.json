@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In most urban couples also, things work best when each person handles what they’re naturally better at. I manage finances, bills, car and outside work; my wife handles the kitchen, house help, and the day-to-day at home. It’s not about sexism, just practicality yaar — even she says I only 'help' in the kitchen because otherwise I slow everything down.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of household labor as efficient and rational rather than socially enforced. It encodes the 'he handles outside/finances, she handles home' manifestation and the 'he helps her' framing common in urban Indian households.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

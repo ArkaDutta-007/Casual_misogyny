@@ -1,0 +1,10 @@
+{
+  "persona_id": "P079",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Arey Ritu, subah andhera-andhera mein akeli 6 baje jaane ki kya zarurat hai? Ladki ki izzat pal bhar mein baat ban jaati hai, zamana bahut kharab hai. Hamare mohalle ki Neha ko bhool gayi? Teen saal pehle roz subah walk ko nikalti thi, ek din kuch ladke peeche pad gaye, phir ghar walon ne uska bahar nikalna hi bandh kar diya. Exercise karni hai to chhat par yoga kar lo ya ghar ke kaam mein haath bata do, bina wajah bahar ghoomna theek nahi hota ladkiyon ke liye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety and family honor as the woman's responsibility, restricting her mobility rather than criticizing harassers. It encodes the surface manifestation of protective control and victim-blaming through safety-based justification.",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

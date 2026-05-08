@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Arre, in our house also it has simply evolved that way. I handle the bank work, repairs, outside errands; she manages the kitchen and day-to-day running of the home.\nB: Sensible arrangement.\nA: Exactly. Jo jahan better ho, wahi kare. Why make it ideological? If I make tea once in a while everyone says, 'wah, what a modern husband,' but frankly the home runs better under her supervision.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames a gendered household division as merely practical and natural rather than unequal. It encodes efficiency framing ('jo jahan better ho'), men handling finances/external tasks, women handling domestic labor, and the 'modern husband' praise for minimal male contribution.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

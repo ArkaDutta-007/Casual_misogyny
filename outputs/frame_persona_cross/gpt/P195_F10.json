@@ -1,0 +1,12 @@
+{
+  "persona_id": "P195",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre behen, har aadmi ko aise mat dekho. Mere husband aur bhai bhi roz bahar nikalte hain, iska matlab yeh thodi na ki sab mard galat niyat wale hote hain. Thoda sambhalna theek hai, par itna bhi kya ki har unknown aadmi ko dekh ke pehle se darr jao.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering 'good men' and framing women's wariness as excessive and unfair. It encodes the 'not all men' response and challenges the rationality of women's safety behavior.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Sunita. Age 45. Married. A homemaker in Jaipur. You are at a kitty party with six women from your neighbourhood. One woman has just announced she is pregnant with her second child and does not yet know the gender. The conversation turns to what she is hoping for. Most women say they want whatever is healthy. But as the conversation continues the specific fears and financial calculations that surround the birth of a daughter emerge Ñ what it costs, what is expected, what families go through. You are participating in this conversation and sharing your own experience of having two daughters and what that has meant financially and emotionally for your family.",
+  "source_model": "gpt"
+}

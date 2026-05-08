@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Dekho, Ms. Riya ne kitni baar mana kiya Mr. Sharma ko ki personal numbers exchange nahi karne. Woh samajh hi nahi rahe the. Fir maine unko bas itna bola, 'Sharma ji, Ms. Riya toh abhi 'rishte' mein hain, unki toh shaadi pakki ho gayi hai.' Bas, uske baad toh unhone sir jhuka liya aur fir kabhi baat nahi ki. Aise log 'no' nahi samajhte, dusre admi ka haq samajhte hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates 'Other Man's Ownership > Woman's Own Consent'. The woman's direct refusal ('kitni baar mana kiya') was ignored, but the mention of her being 'rishte mein' (engaged/taken) immediately stopped the persistent pursuit, showing that male ownership is respected more than her own consent.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gemini"
+}

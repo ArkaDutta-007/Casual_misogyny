@@ -1,0 +1,10 @@
+{
+  "persona_id": "P037",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Rajan: You are right to insist on it. If she is getting so upset over a simple prenup, beta, it means she is thinking less about marriage and more about what she can claim later.\nSon: But she says it means I don't trust her.\nRajan: Trust is fine, but these days boys also need protection. Shaadi should not become a reverse dowry system where the man's family pays heavily if things go wrong; if her intentions are clean, she should have no problem signing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially opportunistic and implies that a fiancée's discomfort with a prenup signals bad intentions. It encodes casual gendered suspicion and the trope of alimony/prenups as protection from manipulative women.",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

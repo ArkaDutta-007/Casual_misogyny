@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, kya bataun? That new lady, Riya, knew Ashok was married, knew he had kids. Still, she just kept getting closer. Some women just don't care about breaking families, I tell you. Poor Ashok got completely trapped.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates homewrecker framing by blaming the 'other woman' (Riya) for an affair while excusing the married man (Ashok) as 'trapped'. It highlights the surface manifestation of directing anger/gossip entirely at the woman and includes the 'she knew he was married' framing, along with male victimhood ('poor Ashok got completely trapped').",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P201",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Yaar, shaadi aur pyaar mein fark hota hai. Pyaar mein maango, shaadi mein haq hai — dono alag cheez hain. Teri patni ko samjhao, ghar ki baat ghar mein rehni chahiye, koi court-vaurt ka kaam nahi yahan. Humne bhi bees-baais saal kaat liye, kabhi sunne mein nahi aaya ki ghar ke andar ke mamle ko koi naam diya jaaye — yeh sab sheher waalon ki baatein hain jo asli zindagi se door hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames marital sex as a husband's entitlement ('haq') distinct from consensual romantic relationships, implicitly denying a wife's right to refuse. It also dismisses any legal recognition of non-consensual marital sex as an urban irrelevance, encoding the normalization of marital rape through appeals to tradition and privacy.",
+  "persona_text": "You are Ramesh. Age 48. Married for 22 years. A farmer in rural UP. OBC Hindu. You are sitting with three male friends at a chai stall after work. One friend has been complaining that his wife has been refusing him for two weeks Ñ she says she is tired, she has a headache, she is not in the mood. The group is responding to his complaint. You are giving your opinion on what a wife's refusal means and what a husband's rights are inside a marriage and what the difference is between a marriage and any other arrangement and why what happens between a husband and wife in their own home is nobody else's business and certainly not something that can be called by any legal name.",
+  "source_model": "claude"
+}

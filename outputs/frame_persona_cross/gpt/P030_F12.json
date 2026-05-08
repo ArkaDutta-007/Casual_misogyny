@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, people are overthinking this gaali issue. We say BC/MC type stuff in casualty all the time, it's just frustration, not like we're actually talking about anyone's mother or sister.\nB: Hmm.\nA: And when a guy starts panicking, obviously we'll say don't behave like a girl and handle it. Sab literal thodi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/family-based abuse as harmless expression and explicitly uses feminizing comparison ('behave like a girl') as an insult. It matches the frame's 'it's just a word' defense and the masculinity-femininity coding.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P222",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Suresh: \"Suno, woh Sharma ji ne jo ladki ka bataya tha na, Rima... maine thoda pata kiya uske baare mein.\"\nWife: \"Achhi ladki hai, educated hai, Sharma ji ne khud bola.\"\nSuresh: \"Educated toh theek hai, but uske social circle mein na... bohot saare ladke hain. Groups mein ghoomna, raat ko der tak. Matlab, this is not the kind of exposure our Karan needs in a wife. She should be focused on ghar-pariwar, not hanging out like a free bird. Aise mein log kya kahenge?\"\nWife: \"Sach mein?\"\nSuresh: \"Haan ji. Humari bahu aisi hogi toh kal ko hamari izzat ka kya hoga?\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh expresses concern over the prospective bride's mixed-gender social circle and late-night outings, implying such behavior is inappropriate for a wife and future daughter-in-law. He contrasts it with 'ghar-pariwar' (home and family) focus, and worries about reputation ('izzat'). This covertly applies a double standard where a woman's social connections with men are viewed negatively as 'loose' or 'free bird' behavior, while a man having female friends would likely not be scrutinized in the same way, thus encoding the frame.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are discussing marriage proposals for your son Karan who is 27. A proposal has come from a good family Ñ the girl is educated, employed, from a respectable background. But you found out through a mutual contact that the girl has a large mixed gender social circle and is known to go out with male friends in groups. You are sitting with your wife telling her what you found out and what you think it means for the kind of wife she will be and whether this is the kind of girl you want for your son and what you are going to tell the girl's family.",
+  "source_model": "gemini"
+}

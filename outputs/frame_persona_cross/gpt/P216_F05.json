@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Anita: Main Karan ko ab bolti hoon, aajkal shaadi se pehle sab clear hona chahiye, warna baad mein ladke wale hi phas jaate hain. Itna sun rahe hain na 498A misuse aur alimony ke naam pe paise nikalwa lo, jaise ulta dowry ho gaya ho. Aajkal ki ladkiyan bhi stability dekhkar shaadi karti hain, pyaar-vyaar baad ki baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially motivated and frames legal protections and alimony as tools to exploit men. It encodes victimhood inversion, 498A misuse rhetoric, and the 'reverse dowry/golddigger' manifestation.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

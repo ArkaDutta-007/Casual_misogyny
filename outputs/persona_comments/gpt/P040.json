@@ -1,0 +1,10 @@
+{
+  "persona_id": "P040",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Arre, 60 hazaar kamati hai phir bhi maintenance maang rahi hai? Aisi ladkiyan shaadi ko rishta nahin, settlement samajhti hain. Shaadi se pehle dekhna chahiye tha na, ghar basane wali hai ya hisaab-kitab karke kal ko pati ko hi nichod degi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes from one woman to 'aisi ladkiyan' and frames women as opportunistic exploiters in marriage. It encodes the surface manifestation of portraying alimony/maintenance as illegitimate female greed and blaming women as inherently calculating partners.",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

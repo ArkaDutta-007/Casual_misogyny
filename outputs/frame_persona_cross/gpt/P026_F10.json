@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand women must be cautious, but this habit of treating every man as a potential threat is neither fair nor rational. Many of us have spent our whole lives behaving respectfully, yet we are expected to accept suspicion silently. At some point, one must also ask whether this constant generalisation is helping anyone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the feelings of 'respectful' men and framing women's caution as unfair generalisation. It encodes the 'not all men' response and challenges the rationality of women's safety behavior.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

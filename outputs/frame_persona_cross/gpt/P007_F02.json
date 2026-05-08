@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Ajay: Arre yaar, kal ki meeting mein madam itni charged thi, laga monthly hormones hi speaking. Important files us time discuss hi mat karo, warna har baat personal ho jaati hai.\nColleague: Sir, thoda zyada nahi ho gaya?\nAjay: Arey, joke kar raha hoon bhai, but you know how these mood swings work.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's professional conduct as driven by periods and hormones rather than legitimate reasoning. It encodes the surface manifestations of attributing assertiveness to 'monthly hormones' and using a 'just joking' defense.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

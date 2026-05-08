@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, I'm just telling you, be careful. Aajkal ke time mein, shaadi ke baad laws are so one-sided for women. Mumbai mein toh kitne cases dekhe hain maine, 498A ka mis-use hota hai aur banda फंस जाता है (gets stuck), poori life ki savings chali jaati hai alimony mein. Just make sure she's not just looking for financial security, haan?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, framed as cautionary advice from an elder brother, attributes financial opportunism to 'aajkal ki ladkiyan' (women nowadays) by generalizing the misuse of IPC 498A and alimony laws. It suggests women marry for 'financial security' rather than genuine affection, embodying the 'women as golddiggers' and 'legal system biased against men' surface manifestations.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

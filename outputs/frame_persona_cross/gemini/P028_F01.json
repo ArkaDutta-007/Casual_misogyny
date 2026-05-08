@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I don't get this whole 'period leave' debate. I mean, it's great for optics, but practically, how is it fair? If women get an extra 2-3 days off every month for 'discomfort', plus already long maternity leaves, that's a massive productivity hit for the company, no? Aur hum log, men, we're just expected to pick up the slack, but who's giving us special leaves for our 'biology'? Aise toh, how can there be real project continuity or fair appraisals?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Nikhil questions the fairness and practical implications of menstrual and maternity leave, framing them as 'special treatment' that causes productivity loss and disadvantages male employees who don't receive equivalent biological-based leave. This aligns with surface manifestations of questioning fairness, using productivity/cost arguments, and 'what about men?' framing.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P217",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekhiye behen, zamaana theek nahi hai, isliye ladki ko bhi apna khayal rakhna padta hai. Itni raat ko akeli aana-jana, ya har jagah bina soche jana, phir mushkil ho jati hai. Hum mardon ko bhi samjhayenge, lekin practical baat yahi hai ki aap safe rehne ke liye thoda ehtiyat rakho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes male threat as an unchangeable reality. It uses protective, practical language to justify restrictions on women’s movement rather than centering men’s violence.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gpt"
+}

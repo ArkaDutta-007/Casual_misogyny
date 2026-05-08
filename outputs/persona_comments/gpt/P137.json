@@ -1,0 +1,10 @@
+{
+  "persona_id": "P137",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Meena: Achha hai, promotion mil gayi Pooja ko, mehnat ka phal hai. Lekin 30 ki ho gayi, abhi tak shaadi ka koi soch hi nahi rahe uske mummy-papa, yeh baat samajh nahi aati.\nHusband: Aaj kal ladkiyan career pe dhyan deti hain.\nMeena: Career theek hai, par zindagi sirf job se thodi chalti hai. Kal ko promotions ruk jayengi, umar nikal jayegi, phir akeli ladki ko bahut mushkil hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's worth and security as dependent on marrying by a socially approved age, while treating career success as secondary and temporary. It encodes marriage-age pressure and the assumption that an unmarried woman living alone will inevitably face failure or hardship.",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Arre, aajkal ki companyon mein bhi na, ladki ko rakhte hi sochna padta hoga ki kal maternity leave, parson bachche ke liye chhutti. \nB: Haan, aur ab ye period leave alag. \nA: Bas wahi, beta, daya apni jagah hai, par kaam mein baar-baar chhoot milegi toh office wale bhi kahenge na ki nuksan kis ka ho raha hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to maternity and menstrual leave, presenting accommodations as excessive concessions. It encodes fairness/cost arguments and the assumption that hiring women brings predictable productivity loss.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

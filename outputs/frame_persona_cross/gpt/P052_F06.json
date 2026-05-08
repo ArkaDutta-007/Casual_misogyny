@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Priya, aajkal ke ladke seedha baat nahi samajhte. Agar koi ladka baar-baar pareshaan kare aur tum mana kar do, phir bhi nahi maane, toh saaf bol diya karo ki tum kisi ke saath ho. Ladki ke na bolne se kahan rukte hain, par jab pata chale ki kisi ki zimmedari hai, tab thoda hadh mein rehte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own refusal as ineffective while framing male attachment or ownership as the real boundary men respect. It encodes the surface manifestation that pursuit stops only when a woman is understood to be 'taken,' normalized here as practical advice.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

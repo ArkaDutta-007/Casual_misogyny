@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Riya: Yaar, did you hear about Rajesh and Tina? The whole office is talking about their affair.\nVikram: Haan, sunn toh raha hoon. Uss Tina ki toh himmat dekho! She knew Rajesh was married, na? Phir bhi pichhe padi rahi. Bechara Rajesh, he's so naive sometimes. Ab pura ghar tootne ki kagaar pe hai. Bilkul serial wali vamp lagti hai woh!",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Vikram blames Tina entirely for the affair, calling her a 'vamp' and accusing her of pursuing a married man ('pichhe padi rahi'). He excuses the man ('bechara Rajesh, he's so naive') and frames the woman as 'destroying' the family, fitting the 'Homewrecker Framing' and 'blaming the female party for 'breaking' a family' surface manifestations.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar every time women talk like all men are some threat, it becomes impossible for normal decent guys also. Main toh aisa nahi hoon, and honestly not every man in this city deserves to be looked at with suspicion. Men also travel late and face problems, so this constant paranoia is a bit unfair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering men's hurt feelings and demanding women be more 'fair' to men as a group. It encodes the classic 'not all men' response, rationality-policing women's caution, and deflecting with 'men also suffer.'",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

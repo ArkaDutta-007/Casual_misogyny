@@ -1,0 +1,12 @@
+{
+  "persona_id": "P224",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, I get being supportive, but office policy bhi balanced hona chahiye. If companies start giving period leave, then maternity leave plus flexible hours also, end mein project allocation and appraisals get affected for the rest of the team only na. Fairness ka bhi point hai — men are expected to just manage, but for women every biological issue becomes an HR policy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity-related needs as unfair special treatment and a burden on teams. It encodes fairness/reverse-discrimination framing and productivity/cost concerns about workplace accommodations.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Rohit. Age 30. Married for two years. A man in Hyderabad. Your wife works at an IT company. She has a male best friend from college Ñ they have been friends for eight years, you knew about this friendship before you married her, you have met him, he is a decent person. But lately they have been texting more Ñ she mentioned he is going through a difficult time and she has been supporting him. You are not accusing her of anything. But something has been building in you. You are on a phone call with your brother tonight telling him about the friendship and what has changed and what you think the appropriate limits of a married woman's friendship with a male friend should be and why those limits matter.",
+  "source_model": "gpt"
+}

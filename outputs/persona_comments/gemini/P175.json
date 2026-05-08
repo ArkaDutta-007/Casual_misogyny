@@ -1,0 +1,10 @@
+{
+  "persona_id": "P175",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Haan, sunroof toh theek hai... woh parking *varking* ka tension mat lo, main sambhaal lunga. Aap batao, financing options kya hain?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak dismisses his wife's practical concern about the car's turning radius for parking as something 'he' will manage, implying it's not her domain or that she doesn't need to understand the technical details. He then immediately steers the conversation back to the salesman about financing, reinforcing the salesman's focus on him and subtly erasing his wife's input in a joint family purchase. This falls under the 'Women's Opinions Dismissed' frame.",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

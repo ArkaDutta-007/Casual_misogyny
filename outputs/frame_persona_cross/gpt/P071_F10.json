@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "What happened is wrong, no doubt, but please stop talking as if every man in this city is a threat. Many of us have daughters and wives too, and we have never behaved like that. If women start treating every decent man with suspicion, then where is the fairness? Men also travel late and face risks, but nobody says all people are dangerous.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and recenters the feelings of 'good men' instead of acknowledging patterns of male violence. It encodes the 'not all men' response, demands trust from women, and deflects with a comparison to men's safety.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

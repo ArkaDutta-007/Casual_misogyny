@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar I get being supportive, but office policy bhi balanced hona chahiye na. Aise har month period leave, then maternity leave etc. milta rahe toh project allocation aur deadlines ka load baaki team pe hi aata hai — phir fairness for men ka kya?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity-related accommodations as unfair special treatment and a burden on male colleagues. It encodes fairness/reverse-discrimination framing and productivity/cost concerns typical of workplace bias around menstrual and maternity leave.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

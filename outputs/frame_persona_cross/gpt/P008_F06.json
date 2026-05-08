@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "This PG guy kept asking me out even after I said no twice. Only when I mentioned I’m seeing someone, suddenly he became very respectful and backed off. Apparently my own no was not enough, but some imaginary man’s presence is.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it describes a situation where the speaker's direct refusal is ignored until a male partner is invoked. It encodes the surface manifestation of stopping pursuit only after learning a woman is 'taken,' treating male attachment as more legitimate than her own consent.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Aree bhai, in auraton ka kya hai, abhi gussa, abhi shaant. Lagta hai 'woh din' chal rahe hain, ya bas mood hi kharab hai. Zyada dimaag mat lagao, inki baaton ko serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment attributes a woman's anger and fluctuating emotions to her menstrual cycle ('woh din') or general 'bad mood' (implying hormonal influence), then explicitly dismisses her words as not serious. It directly encodes the belief that women's emotional states are biologically determined and therefore less valid.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gemini"
+}

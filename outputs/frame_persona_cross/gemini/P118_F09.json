@@ -1,0 +1,12 @@
+{
+  "persona_id": "P118",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Rajan (to wife): Suna tumne Sharma ji ki beti ke saath kya ho gaya? Woh scooter pe ja rahi thi raat ko, chain snatcher ne cheen li.\nWife: Haan, suna. Bahut galat hua bechari ke saath.\nRajan: Galat toh hua, par itni raat ko akele kyun nikli thi? Jab pata hai aajkal Lucknow mein crime kitna badh gaya hai. Maine Priya ko bhi kitni baar samjhaya hai, apna khayal rakho, yeh zamaana theek nahi hai. Safety is important, especially for girls.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rajan, a retired government officer, expresses 'concern' over an incident but subtly blames the victim for being out late and alone, framing it as practical advice. This exemplifies 'Women's Safety as Her Own Responsibility' by using the 'zamaana kharab hai' trope and parental restrictions masked as protection, suggesting her behavior contributed to the incident.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rajan. Age 55. Married. A retired government officer in Lucknow. Your daughter Priya who is 28 and lives in Delhi just called to tell you she has decided not to change her surname after her upcoming marriage and will keep her name professionally and personally. She says her husband to be is fine with it. You said okay on the phone. But you are not okay. You are now talking to your wife in the bedroom after the call. You are telling her what Priya said and what you think it means and what people will say and whether her husband to be is really fine with it or just saying so and what a woman who does not take her husband's name is signalling about how she sees her marriage.",
+  "source_model": "gemini"
+}

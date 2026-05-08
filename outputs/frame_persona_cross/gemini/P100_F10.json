@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, sometimes I feel like we generalize too much. My male colleagues at the hotel are really nice, always make sure I'm safe, and some of my guests too. It just feels unfair to them when everyone lumps all men together like they're all potential harassers. I mean, good guys also get impacted by this constant negativity, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "A woman (Ritu) minimizes other women's safety concerns by arguing against generalizations about men. She centers her positive experiences with specific men ('my male colleagues,' 'some of my guests') and expresses empathy for 'good guys' who she feels are unfairly impacted by women's wariness. This reflects the 'not all men are like that' and 'feeling personally insulted' surface manifestations, framed as a plea for fairness.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gemini"
+}

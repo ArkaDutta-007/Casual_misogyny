@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Main hamesha kehti hoon, aurat ki asli izzat tab samajh aati hai jab log usse sirf employee ya individual na samajhkar kisi ghar ki bahu, kisi ki maa, kisi ki beti samjhein. Jab society yeh nazariya rakhegi, tabhi women ko genuinely respect milega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's worth and entitlement to respect through family relations rather than as an individual person. It encodes relational framing and conditional respect: women are to be respected as bahu/maa/beti, not inherently as autonomous individuals.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

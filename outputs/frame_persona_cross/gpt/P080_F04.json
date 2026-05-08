@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, these days half the senior women in corporate get fast-tracked because leadership wants diversity numbers. And the ones who do survive at that level are usually very hard, almost like they have to think like men only. Merit should be the criteria, not optics.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by attributing their advancement to diversity hiring and frames competence as masculine. It encodes merit-undermining and masculinization in a polished corporate register.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

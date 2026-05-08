@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Bro honestly jo jahan better ho wahi handle kare toh ghar smooth chalta hai. Ladkiyan usually home side zyada achhe se manage kar leti hain, aur hum log finances, bills, baahar ke kaam dekh lete hain — sexism thodi hai, just practical.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as efficiency rather than choice, assigning domestic management to women and external/financial tasks to men. It encodes the 'jo jahan better hai' practicality framing and presents unequal roles as rational and non-sexist.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gpt"
+}

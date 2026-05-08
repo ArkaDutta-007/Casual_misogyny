@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Meena: Aaj kal ki ladkiyan career ko bahut importance deti hain, theek hai, par bachcha ho jaye toh phir maa ko hi sambhalna padta hai. Baap kitna bhi help kar le, maa jaisi dekhbhal thodi kar sakta hai.\nHusband: Haan, woh toh sahi hai.\nMeena: Isliye pehle se samajh lena chahiye, office baad mein bhi ho jayega, bachche ka bachpan wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames childcare as naturally and primarily the mother's responsibility, while treating the father's role as mere 'help.' It also encodes career sacrifice framing by suggesting a woman's work should come after childrearing.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

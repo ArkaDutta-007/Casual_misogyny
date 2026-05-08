@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Maine do baar baat karne ki koshish ki, par woh seedha mana kar rahi thi.\nB: Phir chhod dete.\nA: Arre, baad mein pata chala uska koi ladka hai. Theek hai phir, kisi ke saath hai toh respect karna chahiye, warna aise hi attitude dikha rahi thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker does not accept the woman's direct refusal on its own, but only backs off after learning she is attached to another man. It encodes the surface manifestation of respecting male claim/ownership over the woman's own consent, framed as being reasonable and respectful.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

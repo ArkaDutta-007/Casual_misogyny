@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi risk ho gayi hai bhai. Ladka saari zindagi kamaaye, phir divorce mein alimony deke nikal jaaye — ye bhi ek tarah ka reverse dowry hi hua. 498A aur aise laws ka misuse kitna ho raha hai, isliye young men should be very careful before marriage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as potential financial exploiters and casts men as primary victims of marriage laws. It encodes victimhood inversion, 'reverse dowry' framing, and the claim that 498A is widely misused.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

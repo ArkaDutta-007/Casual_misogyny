@@ -1,0 +1,10 @@
+{
+  "persona_id": "P121",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Yaar, Neha was upset again tonight about the chores. I mean, I *get* it, she does handle most of the cooking and general home stuff. But look, my work right now is crazy, man. I’m coding 10-12 hours, sometimes pulling late nights. My brain is just totally fried when I get home. And honestly, she's actually good at it, enjoys trying new recipes and all. Me? I'd probably just burn everything, or make instant noodles everyday. I do the dishes most nights, take out the trash, handle all the finances, big errands... and let's be real, my salary is still quite a bit more, so it just makes sense for me to focus on my work and for her to manage the home more efficiently. It's not like I'm doing nothing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment justifies an unequal division of labor by framing it as a practical arrangement based on his job's demands, his perceived lack of skill in domestic tasks compared to hers, and his higher salary. This subtly reinforces traditional gender roles where women are primarily responsible for domestic work, even when both partners work full-time, making it covertly misogynistic.",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gemini"
+}

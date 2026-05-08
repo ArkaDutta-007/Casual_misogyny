@@ -1,0 +1,12 @@
+{
+  "persona_id": "P132",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Suna hai Sharma ji ke bete ki zindagi toh barbaad kar di us nayi ladki ne. Pata nahi aajkal ki ladkiyon ko kya ho gaya hai, jante hue bhi ki koi shaadi-shuda hai, unke peeche pad jaati hain ghar todne ke liye. Bechara Sharma ji ka beta, us ladki ne hi phasa liya. Bilkul serial wali baat hai, teesri aurat ban ke aayi hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, portraying her as a 'homewrecker' ('ghar todne wali', 'teesri aurat') who 'trapped' the man ('us ladki ne hi phasa liya'). It expresses sympathy for the man ('Bechara Sharma ji ka beta') and uses the common Indian trope of a 'serial wali baat' to describe the 'other woman' as a villain, despite the man being married.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gemini"
+}

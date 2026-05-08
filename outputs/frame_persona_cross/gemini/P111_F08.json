@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, suna kya us Niharika ka? Usne toh bechare Rajeev ka pura ghar barbaad kar diya. Pata nahi kaisi aurat hai, usko maloom tha na woh shaadi-shuda hai, fir bhi uske peeche padi rahi. Aisi auraton ki wajah se hi toh ghar toot-te hain. Bilkul TV serial jaisi kahani hai, wahi 'sautan' wala kissa!",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames 'the other woman' (Niharika) entirely for 'destroying' the family, excusing the married man (Rajeev) as 'bechara' (poor thing). It frames her as a seductress who 'knew he was married but still pursued him', embodying the homewrecker/seductress trope and family protection rhetoric.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gemini"
+}

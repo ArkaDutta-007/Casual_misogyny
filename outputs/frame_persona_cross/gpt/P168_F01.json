@@ -1,0 +1,12 @@
+{
+  "persona_id": "P168",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I get that companies want to be supportive, but aise dekho na, if women get extra period leave and then maternity leave also, team planning gets affected only. Then in appraisal time everyone says treat all equally, but practically men end up covering the work and company bears the cost.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity as workplace liabilities and presents accommodations as unfair special treatment. It encodes fairness/economic framing and the assumption that women’s leave burdens male colleagues and the company.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gpt"
+}

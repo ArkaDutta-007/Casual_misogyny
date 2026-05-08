@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, sometimes it's just frustrating. Like, I get why women are wary, but why do they always assume the worst about *all* men? Not every guy is a creep, dude. It feels pretty insulting when you're just trying to be decent.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Ankit expresses frustration at being generalized, centering his own feeling of being 'insulted' for being a 'decent' guy. This dismisses women's safety concerns by asking 'why assume the worst about all men?' and implies that 'good guys' shouldn't be subject to women's wariness. This reflects the 'Not All Men' dismissal and feeling personally insulted by women's generalizations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Driver 1: Dei, these boys now say even common road gaali is misogyny.\nRavi: Ayyo, leave it da, on highway everyone talks like that only. It is just mouth habit, not like we are thinking about somebody's amma or akka.\nDriver 2: Correct, if a man keeps crying and acting soft, what to say then?\nRavi: Tell him to be strong and stop talking like a woman, that's all. People are taking every word too serious now.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because Ravi normalizes female-degrading gaali as 'just mouth habit' and dismisses concern about its gendered structure. It also encodes feminizing a man ('acting soft', 'talking like a woman') as an insult, matching the frame's surface manifestations.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

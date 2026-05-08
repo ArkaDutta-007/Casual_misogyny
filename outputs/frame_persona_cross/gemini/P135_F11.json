@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Girls, you're both brilliant, working so hard. But trust me, as you get older, you’ll find that the real *gravitas* in society, the kind of respect that truly opens doors, often comes once you have your own family. People listen differently when you're speaking not just as an individual professional, but as a wife, as a mother. It adds a certain weight to your words, a different kind of authority that purely professional achievements, on their own, don't always give you.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, a school principal, advises younger female teachers that 'real gravitas' and 'respect that truly opens doors' come from being a wife and mother, not just from professional achievements. This subtly suggests a woman's individual professional identity is insufficient for full societal respect, and her value is enhanced by her relational roles (surface manifestation: valuing a woman's opinion more when she speaks as a mother/wife than as an individual).",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gemini"
+}

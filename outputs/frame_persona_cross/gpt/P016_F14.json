@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Status lagaya hai ek dost ne, bilkul sahi baat hai—maa ke haath ke khane ki baat hi alag hoti hai, poori zindagi ghar walon ke liye chulha sambhala aur kabhi hisaab nahi rakha. Ghar tabhi ghar lagta hai jab aurat apno ke liye waise hi dil se roti bana de, baaki bahar ka khana se pet bhar jaata hai, ghar nahi banta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as her natural expression of love and extends that expectation to women in general. It encodes labor erasure and the idea that a woman's role in making a 'real home' is through selfless cooking.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

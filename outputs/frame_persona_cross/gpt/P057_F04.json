@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro merit se itni jaldi koi VP nahi banta, especially corporate mein. Either diversity quota ka scene hoga ya she knows how to stay in the right seniors' good books — warna itna aggressive hoke bhi log usko kyun tolerate karenge?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it to diversity hiring or favoritism rather than merit. It also invokes the double bind by framing her as 'aggressive' and implying that a woman in leadership is anomalous unless explained by unfair means.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

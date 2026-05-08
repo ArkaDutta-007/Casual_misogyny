@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Kaisi hai nayi madam?\nB: Kaam theek karti hai, bas ek baat hai, shaadi-shuda hoke bhi na sindoor na mangalsutra. Thoda ajeeb lagta hai yaar, suhagan aurat par ye sab achha lagta hai, hamaari parampara ka hissa hai.\nA: Haan, aajkal ki ladkiyan maanti kam hain.\nB: Choice unki hai, par shaadi ke baad thoda toh dikhna chahiye na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as natural, culturally appropriate, and expected for a married woman, while presenting the judgment as tradition rather than control. It encodes disapproval of non-wearing and the idea that a married woman should visibly signal her marital status.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

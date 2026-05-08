@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Sir, girls should have freedom like boys, no?\nB: Freedom theek hai, but practical bhi rehna chahiye. Chandigarh ho ya Delhi, zamaana theek nahi hai—late night akeli ghoomna, random parties, drinks, yeh sab avoid karein toh problems kam hongi. Main blame nahi kar raha, bas keh raha hoon apna khayal khud rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and shifts attention away from male violence. It encodes protective/restriction advice and victim-blaming through comments about being out late, alone, at parties, and drinking.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

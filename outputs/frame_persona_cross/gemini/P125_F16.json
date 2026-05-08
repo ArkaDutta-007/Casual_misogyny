@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre, sach kahoon toh, ghar aur office dono ek saath acche se manage karna, yeh practicality ki baat hai. Mard toh bahar ke kaam aur paison ka zyada accha samajhte hain. Hum auratein hi hain jo ghar ko ghar banati hain, har choti cheez ka khayal rakhti hain. Meri saas kehti thi, aur main bhi maanti hoon, jo jahan fit hai, wahi kaam karna chahiye. Isi liye toh mere ghar mein sab sahi chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment frames the gendered division of labor as 'practical' and 'natural' ('jo jahan fit hai, wahi kaam karna chahiye'), asserting that men are naturally better at external tasks and women at internal household management. This aligns with the 'Gendered Division of Chores via 'Practicality'' frame and its surface manifestation of 'he handles finances, she handles home' as an efficient division.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gemini"
+}

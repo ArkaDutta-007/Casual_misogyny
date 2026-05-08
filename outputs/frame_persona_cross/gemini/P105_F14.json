@@ -1,0 +1,12 @@
+{
+  "persona_id": "P105",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Vikram (to his father, after lunch): \"Uff, Papa, what a meal Maa made! That *trupti* (satisfaction) you get from proper ghar ka khana, especially Maa ke haath ka... it’s just something else. The way she takes care to make everything with such love, not like the quick stuff we grab these days. It’s truly irreplaceable, yaar.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's cooking as the ultimate standard ('Maa ke haath ka khana', 'proper ghar ka khana', 'such love'), implicitly comparing it unfavorably to the food Vikram's wife provides ('quick stuff we grab these days'). It erases the labor involved by framing it as 'care' and 'love', while setting a high domestic standard for women, which his wife cannot meet given their shared professional lives and meal management.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. A man in Pune. Your wife Neha does not cook very often. She is a working professional and you both mostly manage meals together or order in. You are at your parents' house for the weekend. Your mother has cooked a full meal. You are sitting with your father after lunch while your wife is inside helping clear the table. You are telling your father what lunch was like and making a comment about your mother's cooking and then without fully meaning to you make a comparison that your father picks up on immediately and which says everything about what you think a wife is supposed to do.",
+  "source_model": "gemini"
+}

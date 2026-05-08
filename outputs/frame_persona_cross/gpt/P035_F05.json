@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Beta, aajkal shaadi se pehle thoda practical sochna padta hai. Ladki achchi ho to theek hai, par seedha dekh lena ki usko tum pasand ho ya tumhari salary aur stability. Aajkal laws bhi bahut one-sided hain, baad mein aadmi hi phas jaata hai, isliye commitment se pehle sab clearly pooch lena.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potentially motivated by a man's income and presents marriage laws as unfairly harming men. It encodes financial suspicion toward women and a men's-rights style warning to 'be careful' before commitment.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

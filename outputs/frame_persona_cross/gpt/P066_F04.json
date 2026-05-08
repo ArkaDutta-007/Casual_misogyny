@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Kamla: Aajkal in badi kursi wali auraton ko dekh ke samajh nahi aata, kaabiliyat se pahunchi hain ya bas quota ka zamana hai. Jo sach mein tik jaati hain, woh phir bilkul mardon jaisi sakht ho jaati hain, ghar-grihasthi wali narmi rehti hi nahi.\nHusband: Haan, ab zamaana hi aisa ho gaya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by attributing their success to quotas and frames competence as requiring loss of femininity. It encodes merit-undermining and masculinization as a backhanded explanation for women's leadership.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

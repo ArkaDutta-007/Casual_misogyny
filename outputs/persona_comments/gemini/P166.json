@@ -1,0 +1,10 @@
+{
+  "persona_id": "P166",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Dekho, main bhi chahta hoon ki Hamida padhe-likhe. College jaana chahti hai, achhi baat hai. Magar woh jo mixed college hai na, uske mahol se mujhe thoda darr lagta hai. Wahan ladke bhi honge, zamana kaisa hai, tum jaanti ho. Hamari beti hai, uski izzat ka sawaal hai. Aise open environment mein bhej ke hum koi rishta kaise milayenge kal ko? Maine socha hai, hum use Bhopal mein hi koi acchi ladkiyon ka college dekhenge, ya phir koi aisa course karwa denge jahan practical skills milein, jo uske ghar-grihasti ke liye bhi theek rahe. Isse uski padhai bhi ho jaayegi aur humari fikr bhi kam. Main use samjha doonga ki yeh uski bhalai ke liye hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Tanveer conditions his daughter's education on protecting her 'izzat' (honor) and ensuring her marriage prospects, viewing a mixed-gender college as a threat. He suggests alternatives like an all-girls college or vocational training for 'ghar-grihasti' (household/family life), framing education as a conditional privilege primarily serving gender-normative roles and family reputation rather than her independent aspirations.",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gemini"
+}

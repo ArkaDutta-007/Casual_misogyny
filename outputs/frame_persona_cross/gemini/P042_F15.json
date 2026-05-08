@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "भाई, आजकल की लड़कियों को देखो। बहू जब से शहर से आई है, माथे पे सिंदूर लगाना ही छोड़ दिया। बिना सिंदूर के सुहागन अच्छी लगती है क्या? हमारी संस्कृति में इसका कितना महत्व है, पति की लंबी उम्र के लिए होता है ये सब।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as Suresh expresses disapproval of a married woman not wearing sindoor, linking it to cultural disloyalty and her husband's well-being, thereby pressuring her to conform to visible marital markers. This encodes the 'disapproval when a married woman does not wear visible married markers' and 'associating sindoor-wearing with saubhagya' surface manifestations.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gemini"
+}

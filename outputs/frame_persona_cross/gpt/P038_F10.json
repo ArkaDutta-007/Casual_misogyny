@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Aajkal bai log zara zara baat pe sab mardon ko ek jaise bolti hain, jaise har aadmi kharab hi hai.\nB: Haan, par dar lagta hoga unko.\nA: Dar alag baat hai re, par main toh poori umar seedha raha, phir mujhe kyon usi nazar se dekhen? Do-chaar bure nikle toh sab aadmiyon ko dosh dena theek nahi. Mardon ki pareshani bhi koi samjho kabhi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering male hurt and insisting women should not generalize from patterns of male violence. It encodes the 'not all men' response, self-identification as a good man, and deflection toward men's suffering.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

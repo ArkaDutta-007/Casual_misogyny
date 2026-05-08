@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "I mean yeah, she looks good, but sometimes it feels like too much effort yaar. Professional rehna alag hai, but girls who are actually confident don’t need so much makeup — natural is always better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it evaluates a woman’s appearance in terms of how much makeup she should use and ties makeup use to insecurity or lack of confidence. It encodes the 'natural > artificial' preference and policing of female grooming as excessive effort.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

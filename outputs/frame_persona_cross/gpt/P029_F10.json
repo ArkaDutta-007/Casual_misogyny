@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Every discussion now becomes 'men are unsafe' as if all of us are the same.\nB: Exactly. We have spent our whole careers behaving properly, and still women look at every man with suspicion. Fair enough, be careful, but this constant assumption that every man is a threat is neither reasonable nor fair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it centers male feelings and frames women's fear of men as unfair generalization rather than a response to systemic risk. It encodes the 'not all men' dismissal and challenges women's wariness as irrational and insulting to 'good' men.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

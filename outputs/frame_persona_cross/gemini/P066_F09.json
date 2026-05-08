@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "अरे बेटी, बाहर जा रही हो तो थोड़ा ध्यान रखना. आजकल ज़माना ठीक नहीं है, सबको पता है. शाम होने से पहले घर आ जाया करो, लड़के तो लड़के ही होते हैं. अपना ख्याल खुद ही रखना पड़ता है.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla, an older woman, frames restrictions on a younger woman as protective advice. She uses 'aajkal zamaana theek nahi hai' and 'ladke toh ladke hi hote hain' to justify placing the responsibility for safety solely on the woman's behavior and timely return home, aligning with the 'Women's Safety as Her Own Responsibility' frame.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gemini"
+}

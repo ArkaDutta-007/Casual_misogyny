@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Suniye ji, woh Sharma ji ke bete ki baat kar rahi thi main. Pata chala uski office mein ek ladki hai, bilkul ghar todne wali! Jab pata hai ki banda shaadi shuda hai, toh usko phasane ki kya zaroorat thi? Bechara Sharma ji ka beta toh seedha hai, usko kya pata chalega duniya ka.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Sunita blames the 'other woman' entirely for an affair, labeling her a 'homewrecker' and 'seducer' ('phasane ki kya zaroorat thi'). The man is excused as 'seedha' (innocent/naive) and a victim, showcasing blame asymmetry and male victimhood. This directly reflects the 'Homewrecker Framing / Women as Seductresses' manifestation.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre bhai, hamari auratein salwar ya saree mein zyada sharif aur khubsurat lagti hain. Aaj kal jo western kapde pehente hain, phir log baatein toh karenge hi — apni tehzeeb mein rehna hi behtar hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability ('sharif') and subtly blames social judgment/harassment on women wearing western clothes. It encodes the traditional-dress-as-decent framing and the clothing-harassment link.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

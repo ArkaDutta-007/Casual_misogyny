@@ -1,0 +1,10 @@
+{
+  "persona_id": "P038",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Arre, aajkal kuch ghar ki ladkiyan shaadi nibhaane nahi aati, hisaab karke aati hain. Do saal ghar mein rahi, sona leke maayke chali gayi, aur ladka bechara badnaam alag. Isliye main bolta hoon, aaj ke jawaan shaadi se pehle sau baar pooch-taach karo, kaisa ghar hai, kya soch hai, warna shaadi bhi ab ulta dahej padti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes from one divorce to portray women from certain families as calculating and exploitative in marriage. It encodes a covert stereotype that women misuse marriage and take assets like 'reverse dowry,' framing men as the real victims.",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

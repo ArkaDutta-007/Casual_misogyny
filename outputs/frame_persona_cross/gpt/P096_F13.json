@@ -1,0 +1,12 @@
+{
+  "persona_id": "P096",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aajkal ki ladkiyan na, itna makeup karke aati hain ki asli chehra samajh hi nahi aata. Thoda sa sajna theek hai, par itna bhi kya ki sab artificial lage.\nB: Haan, natural rehna zyada accha lagta hai.\nA: Bas wahi, ladki apna khayal rakhe, par aisi bhi nahi ki dekh ke lage kuch chhupa rahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: they must maintain themselves but not appear to have made too much effort. It encodes the makeup-as-deception framing and the preference for 'natural' beauty while still imposing grooming expectations.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gpt"
+}

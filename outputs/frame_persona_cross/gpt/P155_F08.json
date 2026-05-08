@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Spoken conversation: A: Arre, he made a mistake, but that woman knew very well he was married yaar. B: Haan. A: Phir bhi chipak ke ghoom rahi thi with him like some serial villain only, pura ghar tod diya. Aadmi kabhi kabhi weak pad jaate hain, but she should have had some shame.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the man's responsibility as a 'mistake' or weakness. It encodes blame asymmetry, 'she knew he was married' framing, and the 'homewrecker/serial villain' trope.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gpt"
+}

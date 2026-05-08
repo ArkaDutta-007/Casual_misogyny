@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in our house we’ve just gone with what is practical. My husband handles investments, bank stuff, car servicing, anything outside the house, and I manage the kitchen, maid, groceries, laundry, all that daily home coordination. We both work full time, but jo jahan better hai wahi karta hai — he is not great at these things and I’m anyway more particular about how the house runs. If he makes chai on weekends everyone acts like wow such a modern husband, which is funny, but I also feel these divisions happen naturally in most marriages.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes a gendered division of domestic labor as simply 'practical' and mutually chosen, even in a dual-income household. It encodes the surface manifestations of 'he handles finances, she handles home,' male learned helplessness, and praise for minimal male contribution as exceptional.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

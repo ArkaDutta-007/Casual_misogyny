@@ -1,0 +1,10 @@
+{
+  "persona_id": "P028",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Dude, I'm so pissed. My skip-level, man, she just rejected my entire product roadmap in front of the whole leadership team. Didn't even let me explain my reasoning, just a flat 'no' and moved on. Honestly, sometimes I wonder how some of these women even get to these positions, yaar. It's like, they get promoted and then just operate on pure gut feeling, no strategic thinking, no actual data-driven decisions.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Nikhil attributes his female manager's decision to her gender, implying that 'some of these women' in leadership lack strategic thinking and rely on 'pure gut feeling' instead of data, thereby questioning her competence and how she achieved her position.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gemini"
+}

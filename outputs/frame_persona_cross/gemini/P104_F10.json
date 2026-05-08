@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Reading posts like this sometimes makes me wonder why there's so much negativity towards all men. As a married man, a father, who respects every woman, it's quite disheartening when you see women generalising. You avoid eye contact, cross the street... honestly, sometimes it feels like we're all branded 'potential threats'. A little trust also goes a long way, no? Sab aise nahi hote yaar.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker dismisses women's concerns about male behavior by centering his own feelings of being unfairly generalized. He frames women's safety behaviors (avoiding eye contact, crossing the street) as an insult to 'good men' like himself, embodying the 'Not All Men' dismissal and challenging the rationality of women's wariness.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

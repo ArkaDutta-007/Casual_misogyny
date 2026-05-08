@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience ka zamana hai, but maa ke haath ke khane ki baat hi alag thi—subah se shaam tak poore ghar ka dhyan, bina kisi shikayat ke. Sach kahun, ghar tabhi ghar lagta hai jab aurat uss mamta aur samarpan se rasoi sambhale; baaki outside food se pet bhar jata hai, par parivaar nahi judta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes women's unpaid domestic labor as their natural expression of love and identity, rather than recognizing it as work. It encodes the 'maa ke haath ka khana' sentiment and sets an implicit expectation that a woman should prove care through cooking and self-sacrifice.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

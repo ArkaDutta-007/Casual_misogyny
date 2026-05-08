@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Sun raha hoon period leave ki baat chal rahi hai. Matlab, I understand biological differences and all, but this 'special' leave, yaar? Humein koi stress leave ya 'man flu' leave toh milti nahi. Aise toh project delivery aur workload pe bhi farak padega, right? Company ke liye bhi cost badhega. Feels a bit unfair, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly expresses misogyny by framing menstrual leave as 'special treatment' that disadvantages men ('man flu' leave) and poses an undue burden on the company (cost, project delivery). It uses 'concern for fairness' and economic arguments to question a policy addressing women's biological needs, which is a key surface manifestation of menstrual and maternity leave bias.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

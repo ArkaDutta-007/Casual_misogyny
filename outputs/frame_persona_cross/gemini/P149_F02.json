@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Ya Allah, Sana is being so moody today! Just flared up over nothing. I think it must be *that time of the month* coming up. Girls get so emotional and difficult then, na?",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Fatima attributes her daughter's moodiness and 'flaring up' to her menstrual cycle, directly referencing 'that time of the month' and generalizing that 'girls get so emotional and difficult then.' This dismisses her daughter's feelings as biologically determined rather than valid, aligning with attributing a woman's anger/mood to her period.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gemini"
+}

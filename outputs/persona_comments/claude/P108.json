@@ -1,0 +1,10 @@
+{
+  "persona_id": "P108",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Didi, listen to me — I know you're excited, and you should be, but hear me carefully. The thing nobody tells you before marriage is that a man can love you completely and still come home hungry in a way that has nothing to do with food, you understand? Ma used to say this — she gave up her job at the college, and we used to feel bad for her, but now I realize what she was actually building. That warmth, that smell of dal and rice when Baba came in, that was the whole house. That was what held everything together. Your cooking, your patience in the kitchen — that is not a small thing, Miti, that is the foundation. Whatever else you do, whatever your career is, never let that slip. A man who feels fed at home — really fed — he doesn't go looking elsewhere. That's what I've learned.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment glorifies female domestic sacrifice as the 'foundation' of marriage and frames a mother's career abandonment as wisdom rather than loss, implicitly placing the burden of marital stability on women's domestic labor and culinary devotion. It encodes the normalization of gendered self-erasure through the intergenerational transmission of internalized misogyny.",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "claude"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P058",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "I feel very worried for young men these days. The way marriage laws are, especially 498A, it's become a serious risk. Many women just exploit these laws for easy money, asking for huge alimony after divorce. It's not about justice, it's about financial gain for them. Our legal system needs to be fair to men too; right now it's completely one-sided. Young boys should think carefully before getting married.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment expresses the core belief that modern women exploit marriage and divorce laws (specifically IPC 498A) to extract money from men, portraying them as financially motivated 'golddiggers'. It frames the legal system as 'one-sided' against men and advises young men to be cautious, encoding the surface manifestation of men being victims of biased laws and women using marriage for financial gain.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Suresh. Age 45. Married. A Brahmin man in Pune. You are commenting under your real name on a news article shared on Facebook about a college in Maharashtra that introduced a dress code banning jeans and sleeveless tops for female students. Most commenters are criticising the college. You are writing a comment defending the dress code and explaining why you think institutions have the right and responsibility to regulate how young women dress and what happens in societies where there are no such standards.",
+  "source_model": "gemini"
+}

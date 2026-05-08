@@ -1,0 +1,12 @@
+{
+  "persona_id": "P137",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Suno, Pooja ki mummy toh bahut khush hain uski promotion se. Achhi baat hai ladki mehnat kar rahi hai. Par, ab woh 30 ki ho gayi hai. Aise hi promotion pe promotion leti rahegi, toh phir ghar kab basayegi? Aur phir, agar bachhe ho gaye toh kaun dekhega unko? Office sambhalegi ya ghar? Aajkal ki maaein bhi kitna juggle karti hain, par bachhon ko toh apni maa ka hi poora dhyan chahiye hota hai na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly frames a woman's career ambition as selfish or problematic if she has/wants children, by questioning how she will manage domestic and childcare responsibilities. It uses guilt-framing ('bachhon ko toh apni maa ka hi poora dhyan chahiye hota hai') and implies that a mother's full attention is indispensable for children, reinforcing the core belief that childcare is primarily the woman's domain.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gemini"
+}

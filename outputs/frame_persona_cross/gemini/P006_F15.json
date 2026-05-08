@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Yaar, I saw Neha's wedding pics. She looks great, but honestly, ek mangalsutra ya light sindoor hota toh aur zyada 'suhagan wali vibe' aati. Thoda empty lag raha hai neck pe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly enforces the expectation for married women to visibly signal their marital status. It uses the 'looks more complete/settled' surface manifestation, framing the absence of markers as 'empty' and desirable for a 'suhagan wali vibe', rather than a direct command, aligning with its very high covertness.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

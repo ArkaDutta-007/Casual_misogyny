@@ -1,0 +1,10 @@
+{
+  "persona_id": "P159",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Kavya, your profile is very strong, very impressive — I have to say, you are clearly a capable person. But I want to understand you as a whole individual, not just professionally. So, just between us, family planning — do you and your husband have plans in that direction? Because this role, as you know, is very demanding, lot of travel, sometimes weekends also. I just want to make sure you have full support at home and that you are in a position to commit fully. We are like a family here at our company, and I want everyone to be set up for success.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames an invasive question about pregnancy/family planning as pastoral concern and 'holistic understanding,' a question he did not ask any male candidate — encoding the assumption that a married woman's reproductive choices are a legitimate hiring variable. The 'family here' framing and 'support at home' language disguise the career-vs-family binary as benevolent mentorship while placing the burden of domestic arrangements exclusively on the female candidate.",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "claude"
+}

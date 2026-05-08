@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Deepa: Beta, aisi auratein hi ghar tudwa deti hain. Pata hota hai aadmi shaadi-shuda hai, phir bhi chipak kar baat karti hain, bilkul serial wali baat hai. Aadmi kabhi kabhi behak jaata hai, par samajhdaar aurat ko door rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for an affair and excuses the married man as someone who merely 'gets carried away.' It encodes homewrecker framing, seductress framing, and moral asymmetry.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

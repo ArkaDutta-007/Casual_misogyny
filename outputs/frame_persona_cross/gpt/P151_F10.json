@@ -1,0 +1,12 @@
+{
+  "persona_id": "P151",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Aajkal ladkiyan bhi na, har baat mein bol deti hain ki mardon par bharosa nahi kar sakte. Arre sab mard ek jaise thodi hote hain, main toh zindagi bhar school mein padhata raha hoon, kabhi kisi ko galat nazar se nahi dekha. Agar har aadmi ko aise hi suspect karogi toh phir samajh kaise chalega, aur mardon ki izzat ka kya?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and shifts focus to men's hurt feelings and respectability rather than the reasons for their caution. It encodes the 'not all men' response, self-exemption as a 'good man,' and framing women's wariness as unfair generalization.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya who is 27 works as a software engineer in Pune and has just been offered a promotion that requires her to move to Bengaluru. She called you excited about it. You said congratulations on the phone. But you are not happy. You are sitting with your wife after the call. You are telling your wife what you actually think about this promotion and what it means for Priya's marriage prospects and what kind of life she is building and whether a woman who keeps chasing the next thing will end up with everything professionally and nothing personally and what you plan to say to her when she calls again tomorrow.",
+  "source_model": "gpt"
+}

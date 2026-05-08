@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: In our house we’ve kept it very practical only yaar—he handles finances, driving, all the outside work, and I manage kitchen and everything at home.\nB: But both of you are working no?\nA: Haan, but jo jahan better hai na. He even makes tea sometimes, so honestly I’m lucky that way.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as a neutral, efficient arrangement rather than an unequal one. It encodes the 'he handles outside work, she handles home' pattern and celebrates minimal male contribution ('he even makes tea') as exceptional.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

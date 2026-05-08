@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I am not against supporting women, but company ko bhi dekhna padta hai na. Already maternity leave is 6 months, then if we add period leave also, team planning and project allocation kaise hoga? Aise toh fairness ka issue bhi hai, because men are expected to deliver the same targets without any such flexibility.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological needs as a workplace burden and suggests accommodations are unfair 'special treatment' compared with men. It encodes fairness and productivity/cost arguments against menstrual and maternity leave in casual office language.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gpt"
+}

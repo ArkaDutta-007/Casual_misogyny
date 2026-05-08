@@ -1,0 +1,12 @@
+{
+  "persona_id": "P108",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Our new principal is definitely efficient, I will say that. But these days schools also want to show they are progressive, so sometimes promotion is not only about merit. She is very sharp, almost thinks like a man, though a little too stern for dealing with staff and parents.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it undermines a woman's promotion by suggesting it may be due to institutional diversity signaling rather than merit. It also uses masculinization ('thinks like a man') as a backhanded compliment and invokes the double bind by calling her too stern.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gpt"
+}

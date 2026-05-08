@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre but this blanket statement about men is also not fair, no? Every time women talk as if all men are unsafe, people like us also get put in the same category for no reason. My daughter is free to be careful, of course, but expecting every decent man to prove himself all the time is too much yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and defensiveness in response to women's safety concerns, rather than acknowledging why women may be wary. It encodes the 'not all men' dismissal and frames women's caution as unfair inconvenience to 'decent men.'",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

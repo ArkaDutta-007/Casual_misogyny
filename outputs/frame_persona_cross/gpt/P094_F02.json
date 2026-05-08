@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Can we please not take this up with Priya right now? She is getting worked up over every small thing today. Maybe it is just hormones — let us wait till she is in a more practical mood, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's professional reaction by attributing it to hormones rather than treating her concern as valid. It encodes the surface manifestation of characterizing a woman's frustration as hormonal and less rational.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

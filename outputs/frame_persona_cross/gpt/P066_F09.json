@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kamla: Arre behen, bura mat mano, par aajkal zamaana bilkul theek nahi hai. Ladki ko itni raat bahar akeli ghoomne ki kya zarurat thi, apna khayal bhi to rakhna chahiye.\nHusband: Haan, sahi keh rahi ho.\nKamla: Mard logon ki fitrat hum badal nahi sakte, isliye ladkiyon ko hi samajhdari se rehna padta hai, theek jagah jao, theek time par ghar aa jao.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and shifts responsibility onto women to prevent harm through restrictions on movement and timing. It encodes protective framing and victim-questioning disguised as practical advice: 'zamaana theek nahi hai,' 'itni raat bahar akeli,' and 'ladkiyon ko hi samajhdari se rehna padta hai.'",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

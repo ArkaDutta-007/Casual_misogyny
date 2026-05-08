@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "अरे भैया, तुम ही बताओ, बहू बेटियां बाहर काम करने लगेंगी तो घर का, बच्चों का क्या होगा? माँ का हाथ तो माँ का ही होता है, बाहर की नौकरी घर की जिम्मेदारी थोड़े पूरी कर देगी।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment naturalizes childcare and domestic labor as exclusively the woman's responsibility, implying that a woman pursuing a career outside the home is neglecting her primary duty to her children and household. It uses naturalizing language ('माँ का हाथ तो माँ का ही होता है') and frames a woman's career ambition as conflicting with family responsibilities, directly encoding the core belief of F03 that childcare is primarily the woman's domain.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P211",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bhai, practical baat hai, zamaana theek nahi hai. Ghar ki ladies ko bhi samjhana padta hai ki late night akeli mat niklo, cab details share karo, aur thoda dhang se jagah-waqt dekh ke chalo — aadmi ki fitrat raat ko badalti nahi. Baad mein kuch ho jaye toh police bhi pehle wahi poochti hai, kaun saath tha, itni raat ko kyun thi bahar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames women's safety as their own responsibility through restrictions on movement, timing, and behavior, while normalizing male predation as inevitable. It encodes protective/practical advice, inevitability framing, and post-assault victim questioning.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are in a men's support group that meets every Sunday at a community centre. There are 14 men in the group Ñ some divorced, some separated, some in difficult marriages, some whose sons are going through cases. A new member has just joined today and introduced himself Ñ his wife filed a 498A case against him and his entire family three months ago including his elderly parents. You are one of the older members of the group. You are welcoming the new member and telling him what the group has learned about how these cases work and what women and their families do with these laws and what he should know and do now.",
+  "source_model": "gpt"
+}

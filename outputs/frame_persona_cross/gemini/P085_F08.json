@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "अरे बाबा, पुरुष माणूस आहे, कधी कधी भटकायचाच. पण ती बाई? तिला तर माहिती होतं ना की तो विवाहित आहे? तरी जाऊन तिने कुटुंब फोडलं. काय सांगायचं! ह्या असल्या बायका म्हणजे नुसतं घरात आग लावायला बसलेल्या असतात. गरिबाचं घर उजाड करून टाकतात.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment explicitly blames the 'other woman' for an affair, excusing the man's actions as a natural male weakness ('he's a man, bound to stray'). It frames the woman as a 'homewrecker' who knowingly destroyed a family, aligning with the core belief of women as seductresses responsible for managing male temptation. This encodes the 'Blaming the female party in an affair for breaking a family' and 'Calling the 'other woman' a homewrecker' manifestations.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gemini"
+}

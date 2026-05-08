@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre beta, naukri-vaukri apni jagah hai, par chhote bachche ko maa hi sambhalti hai. Baap log thoda bahut dekh lein to achha lagta hai, lekin roz ka school, dawa, khana-pina yeh sab maa ke hi haath ka kaam hota hai. Bachpan nikal gaya to phir wapas nahin aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes childcare as the mother's primary duty while treating fathers' involvement as optional or exceptional. It encodes the surface manifestations of assuming the mother will handle daily childrearing and framing career as secondary to motherhood.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre, pehle toh mujhe seedha mana kar rahi thi, attitude samjha maine. Phir pata chala uska boyfriend hai, toh maine wahi baat khatam kar di. \nB: Achha kiya. \nA: Haan bhai, ladki ka mood alag cheez hai, par jab kisi ke saath ho toh respect rakhna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker dismisses the woman's direct refusal as 'attitude' and only stops pursuing her after learning she has a boyfriend. It encodes the surface manifestation of respecting another man's claim over the woman's own consent, framed as reasonable respect.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

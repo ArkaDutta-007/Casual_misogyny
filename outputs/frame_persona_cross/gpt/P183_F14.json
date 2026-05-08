@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Nothing will ever beat maa ke haath ka food yaar. She did all that every single day without making it feel like work, just pure love. Honestly, whoever I marry, I hope she also believes a home feels like home when there’s garam khana on the table.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother's unpaid domestic labor as loving sacrifice rather than work, and then sets that as an expectation for a future wife. It encodes 'maa ke haath ka khana' nostalgia plus the implicit comparison mechanism directed at women in domestic roles.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gpt"
+}

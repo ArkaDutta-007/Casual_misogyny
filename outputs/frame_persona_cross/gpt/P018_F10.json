@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Every time women discuss safety, the tone becomes as if all men are potential criminals. Frankly, that is unfair to decent men who have never behaved badly. Precautions are fine, but this constant suspicion of every man is not rational either.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the feelings of 'decent men' and challenging women's wariness as irrational. It encodes the classic 'not all men' response and treats women's generalized caution as unfair reverse blame.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

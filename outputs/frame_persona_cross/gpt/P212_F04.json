@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre, aajkal senior post par lady officers ko bhi jaldi push kar dete hain, system ko dikhana hota hai ki representation hai.\nB: Par woh competent bhi ho sakti hain na?\nA: Competent ho to achhi baat hai, lekin sach bolo to jo really tikti hain, unko bilkul mardon jaisa sochna aur behave karna padta hai. Varna sirf quota se kursi mil jaati hai, command respect alag cheez hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s leadership as either quota-driven or valid only if they become 'like men.' It encodes merit-undermining and masculinization as the condition for competence.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I have no issue with women in leadership, but sometimes the company pushes these promotions a little too fast for diversity optics. She is capable, yes, though she comes across quite aggressive and not very people-friendly; with male leaders we usually read the same style as strong. I just hope this was based on pure merit and not on the need to show a woman at the top.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by implying she may have been promoted for diversity optics rather than competence. It also encodes the double bind by framing her as 'aggressive' and 'not people-friendly' in a way commonly applied to women leaders.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

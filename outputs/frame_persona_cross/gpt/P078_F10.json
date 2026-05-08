@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have bad experiences, but honestly sab mard aise nahi hote. As a guy, it feels unfair when women act like every unknown man is a threat just for existing in the same space. Men also deal with safety issues, so this constant suspicion of all men is not really fair either.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters men's hurt feelings in response to women's safety concerns and dismisses women's wariness as unfair. It encodes the 'not all men' response, demand for trust from male strangers, and a 'what about men's safety?' deflection.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

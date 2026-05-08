@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekho Nadia, aajkal jo halaat hai na, usmein ladkiyon ko bahut savdhaan rehna padta hai. Main toh bas yahi kahunga ki apna khayal rakho, especially late nights. Akele avoid hi karo bahar nikalna. You know, safety first.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a husband to his wife, exemplifies the 'Women's Safety as Her Own Responsibility' frame. It uses 'protective framing' and 'restriction advice' (avoid late nights, don't go alone) disguised as concern, implicitly suggesting that a woman's safety is managed by her own behavior and choices, rather than addressing external threats or male violence.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Ramesh: Arre, jo jahan better ho wahi kaam sambhale toh ghar theek chalta hai. Aurat log ghar-bacchon ka kaam naturally achchhe se dekh leti hain, hum log bahar ke hisaab-kitab aur daud-dhoop dekh lete hain.\nWife: Haan, sahi hai, sabko sab kaam karne ki kya zarurat hai.\nRamesh: Bas, aajkal ke ladke kabhi chai bana dein toh log bolte hain bada modern husband hai, par asal mein ghar sambhalna aurat ke haath mein hi theek lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a rigid gendered division of labor as natural and practical rather than discriminatory. It encodes efficiency framing, naturalization of women as responsible for home/children, and surprise/praise for minimal male domestic work as 'modern.'",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

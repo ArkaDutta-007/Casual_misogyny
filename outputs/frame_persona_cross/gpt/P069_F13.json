@@ -1,0 +1,12 @@
+{
+  "persona_id": "P069",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I never get girls who do full contour and all for office, then call it 'for myself'. Natural, polished is nice, but jab itna makeup ho that you look like a different person, it just feels a bit fake yaar. And if you don’t make any effort at all then also people notice, so balance toh rakhna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it polices women's appearance through a double bind: condemning 'too much' makeup as fake/deceptive while also expecting women to maintain a certain level of grooming. It encodes the 'natural beauty' preference, deception framing, and appearance obligation surface manifestations.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "gpt"
+}

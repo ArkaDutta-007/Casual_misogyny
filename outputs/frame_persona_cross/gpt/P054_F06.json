@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I had already told him I wasn't interested, but he kept messaging and saying I was being too cold. The moment he found out I'm married, suddenly it became, 'Oh, sorry ma'am, I didn't know' and he backed off. So apparently my no was not enough, but a husband's existence was.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This encodes the idea that a woman's refusal is treated as negotiable until another man's claim is established. It reflects the surface manifestation of stopping pursuit only after learning she is 'taken,' not after her direct rejection.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Ravi: \"Yaar, these city girls, so much attitude. Once I saw a young lady at the bus stand, very pretty. My cleaner boy, he tried to ask her for chai. She just glared, no reply. But then her father came with a motorbike. Immediately, my cleaner understood. He didn't say anything after that. We are not bad people, we know when to back off. If someone's family is there, we respect.\"",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker dismisses the woman's direct rejection ('glared, no reply') as 'attitude'. His companion only stops pursuing her when her father appears, demonstrating that another man's claim (family presence) is respected more than her own refusal.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P052",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Priya, ruko — yeh kya pehen ke nikal rahi ho? Jao upar aur salwar kameez pehno, theek se. Log kya sochenge, hamari beti aise tight kapdon mein bahar ghoom rahi hai? Acche ghar ki ladkiyaan aise nahi jaatein, beta — yeh tumhare sanskaar ka sawal hai, fashion ka nahi. Dadi bhi baithi hain yahan, thoda toh socho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the 'traditional dress equals respectability' frame by tying Priya's clothing choices directly to family honor, class standing, and 'sanskaar' (moral upbringing), implying that a woman's worth and her family's reputation are contingent on how she dresses. This is covert misogyny because it is framed as maternal concern and social propriety rather than explicit control, yet it enforces gender-specific dress policing that would not apply to a son in the same household.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "claude"
+}

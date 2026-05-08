@@ -1,0 +1,10 @@
+{
+  "persona_id": "P229",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Meena, tum bhi na, ladkon ke saath akele lunch-vunch theek nahi lagta. Project hai toh college mein kaam karo aur seedha ghar aao, log baatein banate der nahi lagate. Karan alag hai, ladka hai, uske liye itna sochne ki zarurat nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it applies a clear gendered double standard: the daughter is policed for socializing with male classmates while the son is excused for similar behavior with female colleagues. It encodes casual respectability policing and the idea that a woman's reputation is more fragile and blameworthy than a man's.",
+  "persona_text": "You are Sunita. Age 46. Married. A homemaker in Jaipur. Your son Karan who is 24 just came home and mentioned casually that he went for lunch with three female colleagues and then they all went to a cafe afterward. You smiled and said that sounds nice. Ten minutes later your daughter Meena who is 21 mentioned that she went for lunch with two male classmates from her project group. Your reaction to your daughter's lunch is completely different from your reaction to your son's lunch. You do not notice the difference. Your daughter does.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Aajkal ki ladkiyon ka kya bharosa, beta. Thoda sa kuch ulta bol do to turant gussa, rona, hungama. Lagta hai kabhi mood ka, kabhi hormones ka chakkar rehta hai, isliye inki baat ko itna dil par nahi lena chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's reactions and opinions as being driven by mood or hormones rather than valid reasons. It encodes the frame through indirect and direct references to emotional instability and hormones.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

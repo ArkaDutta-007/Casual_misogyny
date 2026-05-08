@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj bhi maa ke haath ki dal aur gosht yaad aata hai, subah se shaam tak poore ghar ke liye banati thi aur kabhi thakan ka zikr nahi karti thi. Aurat ki mohabbat uski rasoi mein dikhti hai bhai, aaj kal ki bahuon ko bhi wohi lagan seekhni chahiye, tabhi ghar mein asli barkat rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes a mother's unpaid domestic labor as the ideal expression of womanhood and erases it as work. It also sets an expectation that daughters-in-law should emulate that self-sacrificing kitchen labor to be good women and bring 'blessing' to the home.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

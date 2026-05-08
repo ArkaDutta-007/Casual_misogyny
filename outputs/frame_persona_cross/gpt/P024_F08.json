@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Aajkal bhi log sirf aadmi ko dosh dete hain, par sach bolo toh agar us aurat ko pata tha ki woh shaadi-shuda hai, toh door rehna chahiye tha. Ghar todne wali baat zyadatar wahin se shuru hoti hai; aadmi kabhi kabhi behak jata hai, lekin samajhdar aurat ko hadd samajhni chahiye. Bilkul serial wali kahani hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while excusing the man as someone who 'just strays.' It encodes blame asymmetry and homewrecker framing, especially through 'ghar todne wali' and the idea that the woman should have managed boundaries.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

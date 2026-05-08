@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In our house also we have kept things practical only. My wife is highly educated and working, but she is naturally better at managing the home, meals, and our child's routine, while I handle finances, bills, repairs, and outside work. Sometimes on Sunday I make tea or help a little in the kitchen and everyone says wah, modern husband, but honestly jo jahan better hai wahi kare toh house runs smoothly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a traditional gendered division of domestic labor as merely practical and natural, even in an educated dual-income household. It encodes the 'he handles outside/finances, she handles home' logic and celebrates minimal male contribution as exceptional.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

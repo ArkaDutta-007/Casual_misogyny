@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, seriously, kabhi-kabhi sochta hoon, ye itna makeup karti kyun hain ladkiyan? Matlab, dikhawa hai bas, pura face hi badal jata hai. Sach bolun toh, mujhe toh woh ladkiyan zyada achhi lagti hain jo natural hoti hain, jinko itna kuch karne ki zaroorat nahi padti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses a preference for 'natural' beauty, implying that visible makeup is deceptive ('dikhawa hai') and unnecessary for 'truly' attractive women. It encodes the surface manifestation of 'too much makeup' comments implying deceptiveness or insecurity, and covertly praises 'natural' women while critiquing those who make visible effort.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gemini"
+}

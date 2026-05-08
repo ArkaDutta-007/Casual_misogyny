@@ -1,0 +1,10 @@
+{
+  "persona_id": "P062",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Honestly stories like this make you wonder if men can ever fully trust women. One minute they act committed, next minute they get bored and start entertaining attention from the closest guy available. Harsh bol raha hoon, but a lot of women seem to always keep options open and then act like it just happened.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes one woman's infidelity to women as a group and frames them as inherently untrustworthy and opportunistic. It encodes the homewrecker/seductress stereotype through claims that women habitually seek male attention and keep backup options.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar I understand women have safety concerns, but this constant 'men are the problem' narrative is too much. Main toh aisa nahi hoon, most normal guys aren't, so why should every man be treated like a threat just for existing? Even men also deal with safety issues, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the speaker's own innocence and demanding fairness toward men as a group. It encodes the 'not all men' response, rationality challenge, and 'what about men's safety?' deflection.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

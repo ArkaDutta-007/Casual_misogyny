@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Maybe unpopular opinion, but I genuinely feel these things are not oppression by default. If someone is married, a small mangalsutra or sindoor is part of our culture only na, and honestly it gives a settled, suhagan look too. Choice hona chahiye obviously, but completely rejecting every symbol in the name of modernity also feels a little disconnected from where we come from.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as culturally natural and positively tied to a married woman's identity ('settled, suhagan look'). It encodes the tradition/personal-choice defense while judging women who reject such markers as culturally deficient.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

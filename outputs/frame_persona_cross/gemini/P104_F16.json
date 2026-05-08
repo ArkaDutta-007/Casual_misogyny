@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "You know, people talk a lot about 'equal' sharing, but honestly, at our place, things just naturally fell into place. My wife, Pooja, is just so amazing at managing the home, the kids' schedules, all the kitchen stuff. And I handle the finances, the bigger decisions, the outside work. It just feels practical, makes things super efficient. We both play to our strengths, you know? That's what really makes a home run smoothly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment presents a traditional gendered division of labor (woman for home/childcare, man for finances/external tasks) as a 'natural' and 'practical' arrangement, based on 'strengths' rather than societal expectation. This normalizes and endorses it as an efficient division, aligning with the 'He handles finances, she handles home' surface manifestation described as natural/efficient.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

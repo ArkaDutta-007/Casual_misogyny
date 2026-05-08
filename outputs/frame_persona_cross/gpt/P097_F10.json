@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have safety concerns, but yaar every time this topic comes up it becomes 'men are the problem' like all of us are the same. I've never harassed anyone and most normal guys are just trying to live their lives, so why should we be treated like suspects for what a few creeps do? Even men also have safety issues, but nobody says avoid all women because of that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering male hurt and demanding women not generalize from systemic patterns. It encodes the classic 'not all men' response, self-exemption as a 'good guy,' and a deflection to men's safety.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gpt"
+}

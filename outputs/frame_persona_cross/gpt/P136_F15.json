@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: She got married and still doesn’t wear mangalsutra or even sindoor most days.\nB: Hmm, her choice obviously, but after marriage those things do have meaning yaar. It’s not about being regressive, it just makes a woman look more settled and respectful of the tradition.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as something a married woman should wear to appear 'settled' and tradition-respecting, implying deficiency if she does not. It encodes the surface manifestations of disapproval for non-wearing and the 'progressive but...' personal-choice defense masking normative pressure.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gpt"
+}

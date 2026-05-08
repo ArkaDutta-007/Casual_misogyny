@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, har cheez barabari se baantne ki zarurat nahi hoti. Ghar mein jo jahan accha ho wahi sambhale to suvidha rehti hai—mard log bahar ke hisaab-kitab, bank, bazaar dekh lete hain, aur aurat ke haath ka ghar-gharasti, bachche, rasoi zyada theek chalta hai. Kabhi-kabhi pati chai bana de ya bachcha sambhal le to achha lagta hai, par roz-roz ye sab ulta karne se ghar ka dhang bigad jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than discriminatory. It encodes the surface manifestations of 'he handles outside/finances, she handles home' and praising minimal male domestic help as exceptional.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

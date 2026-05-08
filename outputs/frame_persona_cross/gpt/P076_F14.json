@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Suresh: Bhai, maa ke haath ki roti ki baat hi alag thi, subah se raat tak sabke liye khadi rehti thi, kabhi thakan bhi nahi dikhayi. Aajkal ki bahuon ko bhi samajhna chahiye ghar ka swaad aur ghar ki izzat rasoi se hi banti hai.\nRelative: Haan, pyaar se banaya khana hi parivaar ko jod ke rakhta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes a mother's unpaid domestic labor as her natural expression of love and sets that as a standard for daughters-in-law. It encodes labor erasure and an implicit expectation that women prove worth through cooking and self-sacrifice.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, yeh jo office romance type hota hai na, humesha aise hi hota hai. Woh ladkiyan pata nahi kya dikhaati hain ke mard bechaare phans jaate hain. Woh Sharma ji ka beta, kitna seedha banda tha. Uski biwi ne kitni mehnat se ghar banaya tha, aur us aurat ne ek minute mein sab tod diya. Bilkul serial wali vamp lagti hai woh toh!",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, framing her as a 'vamp' who seduced an 'innocent' man and destroyed his home. It exhibits clear blame asymmetry and male victimhood, aligning with the 'Homewrecker Framing / Women as Seductresses' surface manifestation.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gemini"
+}

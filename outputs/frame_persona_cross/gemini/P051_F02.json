@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhaiyon, us meeting mein woh Suman ji ko kya ho gaya tha? Chhoti si baat pe itna gussa ho gayi. Mahilayen bhi na... kabhi kabhi toh bas unka mood hi upar-neeche hota rehta hai. Ignore karna best hai.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment, from a principal to his male colleagues, dismisses a female colleague's anger as irrational ('chhoti si baat pe itna gussa') and attributes it to generalized 'mood swings' typical of women ('Mahilayen bhi na... kabhi kabhi toh bas unka mood hi upar-neeche hota rehta hai'), encoding the belief that women's emotional states are biologically determined and less rational. It directly uses the linguistic cue 'mood swings'.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gemini"
+}

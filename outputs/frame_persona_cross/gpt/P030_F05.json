@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bro honestly, shaadi for men is becoming a legal risk now. One bad match and you're paying alimony for years, plus these 498A type cases can ruin your career even before anything is proved. Aajkal prenup jaisa system India mein normal hona chahiye, otherwise guys are completely exposed.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames marriage laws as broadly biased against men and treats women as potential financial/legal threats. It encodes the 'prenup as protection from women' and '498A misuse/one-sided laws' manifestations using a men's-rights concern framing.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

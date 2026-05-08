@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "In our society, real progress begins when we learn to value every woman not just as an individual, but as someone's daughter, someone's wife, someone's mother. When men remember that the woman across the table is the centre of a family and the dignity of a home, respect comes naturally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and entitlement to respect through their relationships to family and male kin rather than through their personhood alone. It encodes relational framing and conditional respect using a polished, professional tone that sounds pro-woman on the surface.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

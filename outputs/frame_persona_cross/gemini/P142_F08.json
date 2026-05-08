@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Sunil toh bechara phas gaya yaar. Uss ladki ko pata tha na woh married hai? Ab poora ghar barbaad kar diya usne. Uska kya jaata hai, usko toh bas mazaa chahiye tha.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, excusing the married man as 'bechara phas gaya' (poor fellow got trapped). It uses the 'she knew he was married' framing and portrays her as a 'homewrecker' who destroyed a family for her own pleasure. This aligns with the blame asymmetry and seduction framing aspects of F08.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gemini"
+}

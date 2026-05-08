@@ -1,0 +1,12 @@
+{
+  "persona_id": "P167",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Spoken conversation:\nA: These days girls put on so much makeup for office also, then later people say they look completely different without it.\nB: Haan, a little is fine, but too much looks artificial. At the same time, a woman should keep herself presentable na, otherwise it seems like she has just let herself go.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This encodes the double bind central to the frame: women are criticized for wearing 'too much' makeup as deceptive or artificial, yet also judged if they do not maintain appearance. The language is casual and normative rather than openly hostile, making the misogyny covert.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "gpt"
+}

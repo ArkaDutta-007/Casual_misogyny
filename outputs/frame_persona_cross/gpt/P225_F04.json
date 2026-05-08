@@ -1,0 +1,12 @@
+{
+  "persona_id": "P225",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Kamla: Arre, aajkal daftar mein aurat ko thoda upar bitha do to sab turant bolte hain bahut tezz hai. Tezz to hogi hi, par itni jaldi koi apni mehnat se thodi na pahunchta hai, kuchh na kuchh sahara hota hi hai. Aur jo sach mein kaam samajh leti hain, unko dekh ke lagta hai bilkul mardon jaisi soch ho gayi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit in leadership by implying promotions come through backing rather than ability. It also uses masculinization as a backhanded compliment, suggesting competent women are 'like men.'",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 22 has just started her first job. She comes home talking about her male colleagues Ñ Rahul said this, Amit did that, they all went for chai after work. You are listening. You are not saying anything in the moment. But you are sitting with your husband that night and telling him what you have been hearing and what you think about a girl who is new to a job and already so comfortable with so many boys and what this kind of comfort leads to and what needs to be said to her.",
+  "source_model": "gpt"
+}

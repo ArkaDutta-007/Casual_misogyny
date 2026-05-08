@@ -1,0 +1,12 @@
+{
+  "persona_id": "P221",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Why is she getting so worked up for such a small thing da 😭 maybe PMS only, otherwise no one will react like this. Dei chill, I’m just joking.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's reaction by attributing it to PMS/hormones rather than taking her seriously. It directly encodes the frame of 'period/hormones & mood' and uses a joking disclaimer to soften the insult.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Meena. Age 19. A college student in Chennai. You are in your college's unofficial girls WhatsApp group. Someone has posted about a female classmate named Divya who is always seen with the boys in the class Ñ she eats with them, studies with them, hangs out with them. The group has been discussing Divya for the past hour. You are one of the people commenting. What you say about Divya and why you say it and what words you use and what conclusion the group reaches about what kind of girl Divya is Ñ all of this is the content of this persona.",
+  "source_model": "gpt"
+}

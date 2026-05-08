@@ -1,0 +1,12 @@
+{
+  "persona_id": "P223",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly I don't judge working moms at all, but someone has to be there for the child's actual growing-up years, and usually that's the mother na. Fathers can help a lot, of course, but maa ki presence is different only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother's responsibility while framing fathers as secondary helpers. It encodes the surface manifestation of career sacrifice and the idea that mothers, not fathers, should prioritize childrearing.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Priya. Age 29. Single. A woman working at a startup in Delhi. You have always had more male friends than female friends Ñ it has been this way since school, it is just how your social world developed. You are posting anonymously on Reddit after a conversation with a potential match on a matrimonial app. The match asked you about your social life and you mentioned your friend group is mixed but mostly male. He unmatched you within minutes. You are sharing what happened and the broader pattern you have noticed Ñ every time you mention your friend group to a man who seems interested, something changes. You are trying to figure out what you are supposed to say and whether you are supposed to change and what it means that the thing that will make you acceptable is a lie about who your friends are.",
+  "source_model": "gpt"
+}

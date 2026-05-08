@@ -1,0 +1,12 @@
+{
+  "persona_id": "P105",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Vikram: Yaar, Maa ke haath ke khane ki baat hi alag hai. Itna sab kuch itne pyaar se bana deti hai, bina kisi fuss ke.  \nFather: Haan beta, isi se ghar banta hai. Aajkal ki bahuon ko bhi thoda yeh sab seekhna chahiye, tabhi woh baat aati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes the mother's domestic labor as loving duty and turns it into a standard for daughters-in-law. It encodes glorification of maternal sacrifice and an implicit expectation that wives should express care through cooking.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. A man in Pune. Your wife Neha does not cook very often. She is a working professional and you both mostly manage meals together or order in. You are at your parents' house for the weekend. Your mother has cooked a full meal. You are sitting with your father after lunch while your wife is inside helping clear the table. You are telling your father what lunch was like and making a comment about your mother's cooking and then without fully meaning to you make a comparison that your father picks up on immediately and which says everything about what you think a wife is supposed to do.",
+  "source_model": "gpt"
+}

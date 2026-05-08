@@ -1,0 +1,12 @@
+{
+  "persona_id": "P061",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Rina, suno. I know you're excited for the party, but please, be sensible. Zamaana theek nahi hai aajkal, you know. Just make sure you don't stay out too late, okay? Aur jo bhi ho, kisi bhi strange jagah mat jaana, and please come home before 10-10:30. It's just safer that way for girls.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment blames general external circumstances ('zamaana theek nahi hai') for potential danger and places the responsibility for safety entirely on the woman's behavior (not staying out late, avoiding strange places, adhering to a curfew), masking it as parental care and practical advice. This encodes the 'parental/familial restrictions framed as love/protection' surface manifestation.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are having dinner with your wife after your close friend called earlier today to say his wife just found out he has been having an affair with a woman from his gym for eight months. Your wife is upset about it. You are telling her your take on the situation and specifically what role you think the woman from the gym played and why you think women like her deliberately target married men.",
+  "source_model": "gemini"
+}

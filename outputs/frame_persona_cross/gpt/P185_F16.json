@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Khalid: Beta, dono kaam karte ho toh ghar mein thoda practical sochna padta hai. Mard bahar ke hisaab-kitab, bills, gaadi-vagera dekh lete hain, aur aurat ghar ka system better sambhaal leti hai, ismein bura kya hai?\nAmira: But chacha, sab share bhi toh kar sakte hain.\nKhalid: Share theek hai, lekin jo jahan naturally better ho wahi kare toh ghar aaram se chalta hai. Aadmi kitchen mein ek chai bana de toh log usko modern husband bolne lagte hain, par roz ka ghar sambhalna aurat ke haath hi theek lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely 'practical' and frames women as inherently better suited to domestic management. It encodes efficiency framing, naturalization, and the 'modern husband' low-bar celebration described in the frame.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gpt"
+}

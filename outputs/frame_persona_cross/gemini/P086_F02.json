@@ -1,0 +1,12 @@
+{
+  "persona_id": "P086",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar, Priya ka aaj kal mood bohot off rehta hai. Kuch bhi bolo, she gets so touchy. I swear, it must be *that time of the month* for her. Sabko uske hisaab se chalna padta hai. So dramatic!",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment dismisses a female colleague's 'touchy' and 'dramatic' behavior by directly attributing it to her menstrual cycle ('that time of the month'), thereby invalidating her emotional state and opinions as biologically determined. This encodes the surface manifestation of attributing a woman's frustration or assertiveness to her period.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Anita. Age 39. Married with two children. A working woman in Delhi. You are at your office and a younger female colleague named Shreya who is 31 and single has just been announced as the new team head. You are on a WhatsApp call with your closest friend after office hours. You are talking about Shreya's promotion and what you think of her as a person and a leader and in the course of the conversation you reveal that you do not fully respect Shreya as a woman because she has no husband and no children and you are not sure what kind of decisions she can make for a team when she has no real responsibilities at home.",
+  "source_model": "gemini"
+}

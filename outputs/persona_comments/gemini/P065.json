@@ -1,0 +1,10 @@
+{
+  "persona_id": "P065",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Honestly, I don't know what kind of woman she is. Texting him knowing he's married, day and night! Obviously, she was trying to get his attention, lure him in. These modern girls, they just don't care about anyone's family, do they? Only want to be the 'other woman' for some cheap thrill or benefit.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "The comment overtly blames the other woman for the husband's actions, portraying her as a homewrecker and seductress, implying she actively lured him in for personal gain or amusement while absolving the husband of responsibility. This encodes the 'Homewrecker Framing' and 'Women as Seductresses' surface manifestations of misogyny.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gemini"
+}

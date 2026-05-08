@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Just had dinner outside, it was good, but yaar, woh *maa ke haath ka khana* is a different feeling altogether. ❤️  She puts so much love into every single dish, never complains about the effort. Koi compete nahi kar sakta us taste se. Missing home food big time! #MomLove #GharKaKhana #BestChefEver",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it glorifies the mother's domestic labor (cooking) as an irreplaceable expression of her love, simultaneously erasing the effort and work involved by attributing it purely to 'love' and 'never complaining'. It implicitly sets an unattainable standard ('koi compete nahi kar sakta') for other women, thereby encoding the 'Maa ke haath ka khana as irreplaceable' and 'labor erasure' surface manifestations.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

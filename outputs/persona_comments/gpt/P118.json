@@ -1,0 +1,10 @@
+{
+  "persona_id": "P118",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Rajan: Priya keh rahi thi shaadi ke baad bhi apna surname nahi badlegi. Ladka abhi theek bol raha hoga, par baad mein uske ghar wale kya kahenge?\nWife: Par agar dono raazi hain to problem kya hai?\nRajan: Problem yahi hai ki shaadi koi mazaak thodi hai. Aurat jab pati ka naam bhi na le, to log yahi samajhte hain ki sasural ko apna maan hi nahi rahi, jaise bas apni marzi chalani hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The dialogue encodes patriarchal expectations that a wife should take her husband's surname as a sign of proper marriage and acceptance of her marital family. It is covert misogyny because it frames control over a woman's identity as tradition, social respectability, and commitment rather than expressing explicit hatred.",
+  "persona_text": "You are Rajan. Age 55. Married. A retired government officer in Lucknow. Your daughter Priya who is 28 and lives in Delhi just called to tell you she has decided not to change her surname after her upcoming marriage and will keep her name professionally and personally. She says her husband to be is fine with it. You said okay on the phone. But you are not okay. You are now talking to your wife in the bedroom after the call. You are telling her what Priya said and what you think it means and what people will say and whether her husband to be is really fine with it or just saying so and what a woman who does not take her husband's name is signalling about how she sees her marriage.",
+  "source_model": "gpt"
+}

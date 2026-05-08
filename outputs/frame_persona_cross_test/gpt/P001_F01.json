@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly da, I get being supportive, but company-wise how is it fair if only women get extra leave for this? Already teams struggle with targets and bandwidth, then men will end up covering work and still same appraisal cycle for everyone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual leave as unfair special treatment and positions women’s biology as a workplace burden. It encodes the surface manifestations of fairness questioning and productivity/cost arguments against accommodations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

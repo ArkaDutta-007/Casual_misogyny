@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi seedha rishta kam, legal risk zyada lagti hai. Ladke wale itna saal mehnat karke ghar banayein, aur kal ko jhagda ho gaya to alimony aur 498A ka darr alag — sach bolo to prenup jaisi cheez India mein bhi honi chahiye. Har ladki aisi nahi hoti, lekin aajkal bahut si seedha stability dekhkar hi rishta karti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potential financial exploiters in marriage and presents men as the primary victims of allegedly one-sided laws. It encodes the surface manifestations of alimony as 'reverse dowry,' fear of 498A misuse, and suspicion that women pursue marriage mainly for money or stability.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

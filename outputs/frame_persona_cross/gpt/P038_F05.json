@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Ramesh: Aajkal lagna mhanje mulasathi dhoka zala re. Kal paryant hunda mhant hote, atta ulta zala—divorce zhala ki mulgach paisa, sone sagla det basato.\nFarmer 2: Ho, kay kanoon aahet kalat nahi.\nRamesh: Mhanunach mi sangto, poranni khup sambhalun lagna karaycha. 498A cha pan khup misuse hotoy mhantat, aajkal mardanch jast phasat aahet.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as exploiting marriage and divorce for money while framing men as the real victims. It encodes the 'reverse dowry/alimony' trope, warns young men to be careful, and invokes the common claim that 498A is widely misused.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P188",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Savitri: Arre, itni si baat par bahu itna teekha jawab de rahi thi, mujhe laga shayad uska woh time hoga. Aaj kal ki ladkiyan hormones mein turant beh jaati hain, phir baat ka batangad bana deti hain.\nHusband: Haan, tum chhodo, kal tak theek ho jayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's sharp response by attributing it to her period and hormones rather than treating her reaction as valid. It encodes the surface manifestation of explaining anger/assertiveness as 'that time' and calling women overly emotional.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Savitri. Age 58. Married. A Brahmin woman in Varanasi. Your daughter in law Pooja who comes from a Brahmin family in Delhi has been living with you for one year. Pooja wears western clothes at home Ñ jeans, t-shirts, sometimes sleeveless tops. She wears a salwar kameez or saree when guests come or when there are functions. You have not said anything directly. But your neighbour made a comment last week about what she saw Pooja wearing in the courtyard and you have been thinking about it since. You are sitting with your husband tonight and telling him what the neighbour said and what you think needs to be said to Pooja about what is appropriate for a Brahmin daughter in law in a traditional household and what her clothes say about her respect for the family and the community.",
+  "source_model": "gpt"
+}

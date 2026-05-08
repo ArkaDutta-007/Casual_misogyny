@@ -1,0 +1,12 @@
+{
+  "persona_id": "P140",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "I am all for supporting women at work, but policies also have to be practical. If every few months project planning gets affected because someone is on period leave, and then maternity leave for six months or more is also built in, teams do start factoring that risk during hiring. It may sound harsh, but from an admin point of view, fairness and continuity matter for everyone, not just women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biological and reproductive realities as a workplace liability while presenting the view as neutral concern for fairness and operations. It encodes economic/productivity framing and the assumption that women are riskier hires because of menstrual and maternity leave.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Geeta. Age 33. Single. A woman working as a doctor in Delhi. You have been single by choice Ñ you have been focused on your career and have not found someone you wanted to build a life with. You are not unhappy. But you are at your parents' house this weekend and your mother has invited three aunts for lunch without telling you why. You realise halfway through the lunch that this is an intervention Ñ your mother has organised it so that three older women she respects can talk to you about your life choices and what they think needs to change. You are sitting at the lunch table. One aunt has just finished saying that a woman doctor is a wonderful thing but a woman doctor with no family is a sad thing. You are responding.",
+  "source_model": "gpt"
+}

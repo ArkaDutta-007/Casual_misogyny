@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre, come on, bhai. Why are you getting so sensitive about it? It's just a way of expressing frustration, you know. Nobody actually means anything by it. It's just a word we use with friends, a normal thing. Don't be such a... like a girl about it.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This comment exemplifies the normalization and defense of female-demeaning language by framing it as 'just a word' for expressing frustration ('nobody actually means anything by it'). It also includes the subtle feminizing of a man ('like a girl') as an insult for being 'sensitive', aligning with the surface manifestation of calling a man 'aurat' or 'behen' for weakness.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

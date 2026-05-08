@@ -1,0 +1,12 @@
+{
+  "persona_id": "P219",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Main bas itna bolungi beta, zamaana bahut kharab hai, ladki ko apna khayal khud rakhna padta hai.\nB: Par galti toh aadmiyon ki hai na?\nA: Haan, par practical baat karo, itni raat ko akeli kyun nikli, kis ke saath thi, jagah bhi theek honi chahiye. Hum rok-tok dushmani mein nahi karte, bachchi ki hifazat ke liye karte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and shifts attention from male violence to regulating women’s movement, timing, and company. It encodes protective/restrictive advice and post-incident victim questioning ('raat ko akeli kyun nikli, kis ke saath thi').",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

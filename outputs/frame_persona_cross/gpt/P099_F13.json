@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, aajkal makeup se bilkul alag hi face bana dete hain, then later people say men are judging. Looking presentable is fine, but itna bhi kya that the real face and photo face look like two different people. Natural rehna best hai, warna seedha deception lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's appearance as something to be evaluated for male perception and casts makeup use as deceptive. It encodes the 'too much makeup' policing and deception/catfishing surface manifestation while praising 'natural' beauty as the acceptable standard.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

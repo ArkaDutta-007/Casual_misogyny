@@ -1,0 +1,12 @@
+{
+  "persona_id": "P137",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Aaj kal ki ladkiyan career mein itna mann laga leti hain, phir bachchon ka kya hoga? Maa ko hi toh dekhna padta hai sab, baap kitna bhi achha ho, woh baat thodi na hoti hai. Naukri apni jagah hai, par bachpan dobara thodi aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames childcare as naturally and primarily the mother's duty, while treating fathers as inherently secondary caregivers. It encodes career sacrifice framing and guilt framing toward women who prioritize work over childrearing.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gpt"
+}

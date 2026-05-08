@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Meera beta, I know you're very ambitious, and we are proud of you. But as you get older and start thinking about marriage, these high-pressure roles can become very challenging. Ek aurat ke liye ghar aur bahar dono sambhalna bohot mushkil ho jata hai, especially when children come along. Think practically about how you will manage everything – children need their mother's time, especially when they're young. We just want you to be happy and settled, not constantly stressed trying to balance everything. It's not easy, especially in today's world.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the belief that child-rearing and domestic responsibilities primarily fall on the woman. It frames a high-pressure career for a woman as a potential source of stress that conflicts with her 'natural' duties as a mother, implying she should prioritize family over career and uses career sacrifice and guilt framing.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P206",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Honestly, this whole marital rape thing... I don't know, friends. After so many years of marriage, you just learn to adjust, right? To call it 'rape' feels like a word meant for something completely different, outside the home. Won't this just break down families?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment dismisses the concept of marital rape by framing unwanted sexual acts within marriage as 'adjustments' a wife must make for family stability, subtly encoding the idea of a wife's duty to accommodate her husband and protecting his traditional 'right' within marriage.",
+  "persona_text": "You are Anita. Age 44. Married for 20 years. A woman working as a teacher in Chennai. You are in a private WhatsApp group of six women friends Ñ all married, all educated, all working. Someone has shared the article about the marital rape petition. The conversation in the group is mixed Ñ some women support criminalisation, some are uncertain, one is against. You are giving your opinion. Your opinion is complicated because you have your own experience of marriage and what happens inside it and what you have told yourself about that experience for 20 years and whether the word in the article fits what you have lived and whether you are ready to use that word.",
+  "source_model": "gemini"
+}

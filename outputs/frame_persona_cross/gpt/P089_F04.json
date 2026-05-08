@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Spoken conversation: \"I am not saying she is incapable, but these days many such promotions are also about optics and diversity targets. A truly solid leader does not need that kind of push. If a woman reaches that level on pure merit, people should not have to say she thinks like a man to justify it.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's leadership by suggesting promotions are driven by diversity optics rather than merit. It encodes merit-undermining and masculinization, implying women in power are anomalous unless validated through male-coded competence.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, yeh har baar *sabh mard ek jaise hain* kehna sahi nahi hai. Hum jaise log jo apne ghar mein maa-behen ki izzat karte hain, unko bhi ismein ghaseet lete hain. Thoda toh trust factor hona chahiye na? Har jagah itna paranoid rehna bhi theek nahi.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment exhibits 'not all men' dismissal by explicitly stating 'sabh mard ek jaise hain' is wrong. The speaker centers himself as a 'good guy' ('hum jaise log jo maa-behen ki izzat karte hain'), feels personally insulted by the generalization, demands trust from women, and challenges women's wariness as being 'too paranoid'.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

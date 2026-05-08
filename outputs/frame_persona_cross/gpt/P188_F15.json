@@ -1,0 +1,12 @@
+{
+  "persona_id": "P188",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Savitri: Main zabardasti ki baat nahi kar rahi, lekin shaadi ke baad thoda sindoor aur mangalsutra pehne to bahu suhagan si lagti hai, ghar ka bhi maan rehta hai. Aajkal ki ladkiyan ise bas choice bol deti hain, par ye hamari parampara aur pati ke mangal ka prateek hai.\nHusband: Haan, pyaar se samjha dena, bura maanne ki baat nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes pressure on a married woman to display visible marital markers as a sign of being a proper wife and upholding family honor. It encodes tradition framing, completeness/suhagan framing, and linking sindoor/mangalsutra to the husband's wellbeing while masking control as gentle guidance.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Savitri. Age 58. Married. A Brahmin woman in Varanasi. Your daughter in law Pooja who comes from a Brahmin family in Delhi has been living with you for one year. Pooja wears western clothes at home Ñ jeans, t-shirts, sometimes sleeveless tops. She wears a salwar kameez or saree when guests come or when there are functions. You have not said anything directly. But your neighbour made a comment last week about what she saw Pooja wearing in the courtyard and you have been thinking about it since. You are sitting with your husband tonight and telling him what the neighbour said and what you think needs to be said to Pooja about what is appropriate for a Brahmin daughter in law in a traditional household and what her clothes say about her respect for the family and the community.",
+  "source_model": "gpt"
+}

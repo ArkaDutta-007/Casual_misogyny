@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "These days girls put on so much makeup that you cannot tell what is original and what is not. A woman should look presentable, of course, but if it takes an hour of paint every day then what exactly is she trying to prove? Natural grace is always better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats women's appearance as something to be judged and regulated, while setting a double bind: they must be 'presentable' but not appear to make too much effort. It encodes the makeup-as-deception angle and the 'natural beauty' preference used to police female grooming.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

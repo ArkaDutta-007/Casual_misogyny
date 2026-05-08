@@ -1,0 +1,12 @@
+{
+  "persona_id": "P167",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Spoken conversation: A: He kept messaging me even after I said I'm not interested. B: These boys are like that only. You should have told him clearly that you are committed or asked your husband to speak once; then he would understand and stop. A girl's no they don't take seriously, but if they know she is already with someone, at least they maintain some limit.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes men ignoring a woman's direct refusal and treats her attachment to a husband/partner as the more effective and legitimate boundary. It encodes the surface manifestations of stopping pursuit only after learning she is 'taken' and involving a husband to enforce consent.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "gpt"
+}

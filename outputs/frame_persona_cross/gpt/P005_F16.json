@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly mujhe isme kuch sexist nahi lagta. Jo jahan better hai wahi kare na—papa aur bhai bank, bills, bahar ke kaam dekh lete hain, mummy ghar sambhalti hain, and it just runs smoothly. Har cheez 50-50 karna practical thodi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as efficient and non-sexist rather than socially enforced. It encodes the 'jo jahan better hai' practicality framing and positions men as suited for finances/external tasks while women 'manage the home.'",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

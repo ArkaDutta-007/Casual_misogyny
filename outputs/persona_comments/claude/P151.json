@@ -1,0 +1,10 @@
+{
+  "persona_id": "P151",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Ramesh: Suno, mujhe khushi hai uski, par sach mein bolo — yeh ek shahar se doosre shahar, phir ek promotion se doosra promotion... kab rukegi? Uski umar 27 ho gayi, aur agar ab bhi woh settle nahi soochegi toh kaun aayega? Achhe ghar ke ladke chahte hain ki bahu ka koi thikana ho, yeh nomad wali life nahi. Wife: Par woh khush hai apne kaam mein— Ramesh: Khushi hoti hai pehle. Main kal use samjhaunga ki professionally aage badho, theek hai, par ek seema hoti hai. Jo ladki har cheez mein sab se aage bhaagti hai, woh aksar ghar mein peeche reh jaati hai. Yeh main uska dushman ban ke nahi keh raha — baap hoon uska.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh frames Priya's professional ambition as a threat to her marriageability and personal fulfillment, implying women must subordinate career growth to family formation. The misogyny is covert because it is wrapped in parental concern and presented as pragmatic wisdom rather than explicit restriction, encoding the career-vs-family binary specifically as a gendered ultimatum.",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya who is 27 works as a software engineer in Pune and has just been offered a promotion that requires her to move to Bengaluru. She called you excited about it. You said congratulations on the phone. But you are not happy. You are sitting with your wife after the call. You are telling your wife what you actually think about this promotion and what it means for Priya's marriage prospects and what kind of life she is building and whether a woman who keeps chasing the next thing will end up with everything professionally and nothing personally and what you plan to say to her when she calls again tomorrow.",
+  "source_model": "claude"
+}

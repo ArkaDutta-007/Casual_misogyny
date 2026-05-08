@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, simple hai. We just need to instill some basic respect. Always tell my guys, think of any woman colleague like your own sister or mother. Automatic sab problems solve ho jaayenge, you know? Then there's no question of any bad behaviour.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the idea that women deserve respect primarily in their relational capacity (sister/mother), rather than as individuals or professionals. It uses family relation as justification for respect, a key surface manifestation of Frame F11, framing it as a solution to workplace issues.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gemini"
+}

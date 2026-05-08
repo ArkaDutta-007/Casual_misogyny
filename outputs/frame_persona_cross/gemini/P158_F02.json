@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar, Riya's just so *moody* today. Seriously, chill kar na. Lagta hai her hormones are acting up, she's taking every little thing so personally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Priya, a 34-year-old journalist, dismisses a female colleague's assertive or emotional behavior as being due to 'moodiness' and 'hormones acting up', rather than addressing the substance of her concerns. This encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it, using India-specific linguistic cues like 'chill kar na' (calm down).",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gemini"
+}

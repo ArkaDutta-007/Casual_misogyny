@@ -1,0 +1,12 @@
+{
+  "persona_id": "P154",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, I just heard about Rajesh and Pooja. Honestly, it's such a mess. He's married with two kids. I just don't understand why these young girls target married men. She knew what she was doing, trying to break someone's home.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Deepa blames the 'other woman' (Pooja) entirely for an affair, implying she intentionally 'targeted' a married man and 'broke a home.' The man's agency is entirely removed, and there is no criticism directed at him, aligning with the homewrecker framing and blame asymmetry.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gemini"
+}

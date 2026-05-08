@@ -1,0 +1,9 @@
+{
+  "persona_id": "P056",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Girls, today one married colleague pulled me aside and said I should be \"careful\" wearing sleeveless to office because male managers notice and then don’t take you seriously. Honestly I feel gross and confused yaar—part of me is angry ki why is my work getting judged through my clothes, but part of me also heard my UP-family voice saying maybe she was just being practical.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic because the speaker is describing and questioning a sexist dress-code double standard rather than endorsing it. It references the covert misogynistic framing that traditional attire is more respectable, but the speaker expresses discomfort and conflict about that norm.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

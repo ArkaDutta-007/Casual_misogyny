@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Priya, beta, tumhein pata hai, woh salwar-suit ya saree mein tum kitni shobha deti ho. Sach kahoon toh, usmein ek alag hi garima dikhti hai. Main toh kehta hoon, humaare yahan ladkiyon ko aise kapde hi pehenne chahiye, phir koi unki taraf galat nazar se dekhne ki himmat nahi karega. Woh Western kapdon mein toh bas...",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the idea that traditional dress affords a woman more respect and dignity ('garima', 'shobha'), while implying that Western clothing invites unwanted male attention ('galat nazar') and thus lacks protection. This encodes the 'complimenting traditional wear as superior' and 'clothing-harassment link' surface manifestations, framed as cultural advice.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gemini"
+}

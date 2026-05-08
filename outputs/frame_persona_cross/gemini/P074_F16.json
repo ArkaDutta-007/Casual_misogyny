@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Dekh beta, I know tum log aajkal 'equality' wagera kehte ho, par practical toh kuch hota hai na? Like, your Papa handles all the bank work, taxes, gadi ka maintenance... woh sab unka domain hai. Main ghar ka, kitchen ka, guests ka dekhti hoon. Aur honestly, it just works for us. Jo jahan better hai, wahi karta hai. Phir faltu mein kyon jhagda karna? He's very supportive too, kabhi-kabhi grocery shopping bhi karwa dete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepa, a homemaker, defends the gendered division of labor in her household by framing it as 'practical' and efficient ('jo jahan better hai'). She internalizes the misogynistic belief by celebrating her husband's 'support' for doing minimal tasks like occasional grocery shopping, which implicitly sets a very low bar for male contribution to household chores.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gemini"
+}

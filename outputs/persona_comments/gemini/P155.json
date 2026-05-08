@@ -1,0 +1,10 @@
+{
+  "persona_id": "P155",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Yaar, I'm genuinely happy for Meera, it's a huge thing. But boss, when I think about it, who's going to manage the apartment, our parents' checkups... and we just decided on starting a family this year, no? A whole year abroad, long distance... it just feels like we'll be putting *everything* on hold for this. Like, what about *our* plans?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment frames Meera's career opportunity as being in direct conflict with their shared domestic life and family planning ('our plans,' 'managing everything here'). Karan, while claiming happiness for her, subtly pressures her to choose between her professional advancement and domestic responsibilities, thereby encoding the 'Career vs Family Binary' surface manifestation.",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gemini"
+}

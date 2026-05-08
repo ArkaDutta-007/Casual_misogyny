@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In our house also, we have kept it very practical. My wife is far better at managing the kitchen, the children, all the internal coordination; I handle finances, repairs, and outside work. It is not about inequality, simply about who is naturally better suited for which responsibilities.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of domestic labor as rational and non-discriminatory. It encodes the 'he handles finances, she handles home' efficiency framing and presents unequal roles as innate suitability rather than social expectation.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

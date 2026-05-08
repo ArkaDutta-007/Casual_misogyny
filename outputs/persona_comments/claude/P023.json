@@ -1,0 +1,10 @@
+{
+  "persona_id": "P023",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Haan yaar, presentation was solid, I'll give her that. But honestly, she had like three weeks to prepare and Arvind basically handed her all the data. Koi bhi kar leta with that much support — I just feel like they wanted to show leadership that we have a woman manager, you know how these things work now.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohit appears to give a surface-level compliment but immediately undermines the manager's competence by attributing her success to external support and implying her promotion was driven by diversity optics rather than merit. This encodes the 'she didn't really earn it' trope and the denial of women's leadership legitimacy through attribution bias.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "claude"
+}

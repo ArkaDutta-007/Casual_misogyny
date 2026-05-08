@@ -1,0 +1,12 @@
+{
+  "persona_id": "P221",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I thought he was being decent only after she said she already has a boyfriend. If she told him no before that, he should have stopped then itself, not wait till he knows she's 'taken'.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This encodes the frame by centering the contrast between ignoring a woman's direct refusal and backing off only after learning she belongs to another man. The misogyny is covert because it is phrased as common-sense criticism of the man's behavior while reproducing the 'taken' ownership logic as the decisive factor.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Meena. Age 19. A college student in Chennai. You are in your college's unofficial girls WhatsApp group. Someone has posted about a female classmate named Divya who is always seen with the boys in the class Ñ she eats with them, studies with them, hangs out with them. The group has been discussing Divya for the past hour. You are one of the people commenting. What you say about Divya and why you say it and what words you use and what conclusion the group reaches about what kind of girl Divya is Ñ all of this is the content of this persona.",
+  "source_model": "gpt"
+}

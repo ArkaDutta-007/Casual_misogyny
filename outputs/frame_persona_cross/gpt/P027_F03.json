@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "I always tell young women in banking that ambition is wonderful, but when children come, you do have to think very carefully about your priorities. A father can support, of course, but the emotional foundation of a child is really built by the mother, especially in those early years. Promotions will come again; your child’s growing-up years will not.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare and emotional labor as primarily the mother’s responsibility while positioning fathers as secondary supporters. It encodes career sacrifice framing and naturalizes the expectation that women, not men, should deprioritize work for children.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

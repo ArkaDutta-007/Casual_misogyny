@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Main hamesha staff se kehta hoon ki mahilaon ka samman kijiye, aakhir woh kisi ki beti, bahu aur maa hoti hain. School ho ya samaj, aurat ki asli garima uske inhi rishton se pehchani jaati hai; isi nazariye se unki baat ko samajhna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's worth and dignity primarily through family roles rather than as an individual person. It encodes relational framing and conditional respect: women are to be respected because they are someone's daughter, daughter-in-law, or mother.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

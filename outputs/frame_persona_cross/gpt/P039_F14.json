@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolun, maa ke haath ke simple dal-chawal mein bhi jo sukoon hota hai na, woh kisi restaurant ya fancy recipe mein nahi milta. Hamari mothers ne poori zindagi bina complain kiye ghar ko ghar banaya, aaj kal sab kuch order ho jata hai but that warmth is missing. Isliye mujhe lagta hai bahu ya wife kitni bhi modern ho, thoda sa woh ghar ka swaad aur parivaar ke liye khud se banana hona chahiye ❤️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes mothers' unpaid cooking and self-sacrifice as the ideal form of womanhood while erasing it as labor. It also sets an implicit standard for wives/daughters-in-law to reproduce that domestic service, encoding comparison and expectation.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gpt"
+}

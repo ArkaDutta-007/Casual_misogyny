@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, Sridhar ka case suna? Poor chap, the way his family life has gone topsy-turvy. I mean, it's not like he went looking for trouble, but that junior officer, she was always so 'friendly' with him, even knowing he has a wife and two kids. What did she expect? Ab toh poora ghar bigad gaya hai, bilkul serial wali kahani ho gayi.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates homewrecker framing by blaming the junior woman officer for the 'ruined' family life of a senior male officer. It excuses the man's agency ('it's not like he went looking for trouble') and highlights her awareness of his marital status, framing her friendliness as 'asking for it' and destroying his home ('poora ghar bigad gaya hai').",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gemini"
+}

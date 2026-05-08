@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, I heard about Priya and Ramesh sir. Matlab, she knew he was married, right? Pata nahi kyu aise ghar todne pe lagi rehti hain kuch ladkiyan.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment blames the female colleague, Priya, for 'breaking' a married man's home ('ghar todne'), explicitly stating she knew he was married. This aligns with the 'Homewrecker Framing' by placing full responsibility on the woman while excusing the man and implying she is a seductress.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

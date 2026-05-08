@@ -1,0 +1,10 @@
+{
+  "persona_id": "P228",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Vikram: Yaar, I'm not saying anything is happening, I know Rohan, he's fine. But Neha doesn't understand how it looks, na? Itna freely laughing, touching his arm — log kya sochenge? Friend: Arre, they're just colleagues, relax. Vikram: No no, I get it, men and women can be friends, I'm not that type. But a married woman has to be more careful about these things. It's different. When I talk to Priya from accounts, nobody thinks anything — but if Neha does it, people talk. She should just understand that, it's not about trust, it's about image.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram explicitly articulates the double standard — his own friendliness with female colleagues is framed as neutral, while Neha's identical behaviour is coded as reputationally dangerous. The misogyny is covert because it is dressed in the language of social concern and 'image' rather than overt accusation, internalising a patriarchal norm that polices wives' social conduct more strictly than husbands'.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "claude"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre बिटिया, हर आदमी को एक ही तराजू में मत तौलो. दो-चार बुरे लोगों की वजह से सब मर्दों पर शक करोगी तो घर-समाज कैसे चलेगा? अच्छे लड़के भी होते हैं, उनको भी हर समय अपराधी जैसा महसूस कराना ठीक नहीं है.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by prioritizing the feelings and reputations of 'good' men over the reasons women generalize for safety. It encodes the 'not all men' dismissal and frames women's wariness as unfair blame against men as a group.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gpt"
+}

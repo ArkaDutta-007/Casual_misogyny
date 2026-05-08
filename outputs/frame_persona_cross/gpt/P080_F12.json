@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, people are overthinking this gaali issue. Half the time we use those BC/MC-type words just as punctuation, not literally about anyone's mother or sister.\nB: But it still sounds pretty bad, no?\nA: Come on, sab bolte hain. It is just an expression when someone acts spineless or annoying, not some big ideology. Itna serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-relative-based abuse and dismisses concerns by saying the words are 'just expression.' It encodes the frame's core surface manifestation: defending everyday misogynistic gaalis as harmless and using feminized weakness ('spineless') as part of the insult logic.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

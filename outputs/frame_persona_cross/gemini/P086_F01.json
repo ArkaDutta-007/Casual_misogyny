@@ -1,0 +1,12 @@
+{
+  "persona_id": "P086",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, this period leave discussion is getting so much traction. Honestly, as a working woman, I get it, but phir it becomes unfair for men, right? Like, company ko toh bear karna padega uska cost, aur productivity ka bhi issue hai. Aise sabko 'special leave' chahiye toh kaam kaise chalega, yaar?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses misogyny by questioning the fairness of menstrual leave, framing it as 'special treatment' that disadvantages men, and raising concerns about company costs and productivity. It embodies the core belief that women's biology (menstruation) makes them a workplace liability, and accommodations are an unfair burden.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Anita. Age 39. Married with two children. A working woman in Delhi. You are at your office and a younger female colleague named Shreya who is 31 and single has just been announced as the new team head. You are on a WhatsApp call with your closest friend after office hours. You are talking about Shreya's promotion and what you think of her as a person and a leader and in the course of the conversation you reveal that you do not fully respect Shreya as a woman because she has no husband and no children and you are not sure what kind of decisions she can make for a team when she has no real responsibilities at home.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre yaar, aadmi se galti ho jaati hai, par woh aurat ko pata tha na ki banda shaadi-shuda hai.\nB: Haan, phir bhi chipki rahi toh seedhi baat hai ghar todne wali hi hui.\nA: Bilkul serial wali baat hai, aise hi auratein bechare aadmi ko phasa deti hain, baad mein badnaam poora parivaar hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man's role while placing primary blame on the woman as a 'homewrecker' who 'trapped' him. It encodes blame asymmetry, seductress framing, and family-protection rhetoric common in affair gossip.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

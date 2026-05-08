@@ -1,0 +1,12 @@
+{
+  "persona_id": "P118",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre bhai, aajkal ke ladke bhi har baat par wahi maa-behen wali gaali muh par le aate hain, aur bolte hain bas expression hai.\nB: Haan, aur kisi ko darpok bolna ho to turant bol denge aurat jaisa mat bano. Phir kehte hain ismein bura kya hai, sab normal hai.\nA: Normal kaise hua, jab beizzati ke liye hamesha aurat ko hi neecha dikhana padta hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as common speech and reproduces feminizing-as-insult ('aurat jaisa mat bano'). It encodes the meta-conversation around defending such language as 'just expression' while still relying on women as the basis of insult.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rajan. Age 55. Married. A retired government officer in Lucknow. Your daughter Priya who is 28 and lives in Delhi just called to tell you she has decided not to change her surname after her upcoming marriage and will keep her name professionally and personally. She says her husband to be is fine with it. You said okay on the phone. But you are not okay. You are now talking to your wife in the bedroom after the call. You are telling her what Priya said and what you think it means and what people will say and whether her husband to be is really fine with it or just saying so and what a woman who does not take her husband's name is signalling about how she sees her marriage.",
+  "source_model": "gpt"
+}

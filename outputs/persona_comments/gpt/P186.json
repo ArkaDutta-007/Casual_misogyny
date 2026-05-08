@@ -1,0 +1,10 @@
+{
+  "persona_id": "P186",
+  "frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "generated_comment": "Suresh: Aajkal tu baghitlas ka tila? Mandirat jaate, bindi lavte, ani tya paramparik salwar kameez madhye firte. Aplya lokanni Babasahebanchya margane je sodun dila, te parat angavar gheun chalali aahe.\nWife: Mulgi aahe, thoda samjhavun sang na.\nSuresh: Ho, pan spasht sangayla pahije ki ti fakta swatahsathi nahi jagat; ti aplya itihasachi mulgi aahe. Tichya kapdyat ani vagnayat aplya samudayacha maan disla pahije, nahi tar lok mhantil ki aplyach gharatil mulgi mool visarla.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats the daughter's body, dress, and behavior as property of the family/community and demands conformity for collective honor. The surface manifestation is control of women's appearance through religious and caste identity, framed as duty and community respect rather than explicit hatred.",
+  "persona_text": "You are Suresh. Age 44. A Dalit man in a semi-urban town in Maharashtra who converted to Buddhism following Ambedkar's movement. Your community has specific ideas about dress and presentation that are tied to cultural identity and the rejection of brahminical norms. Your 19 year old daughter has started wearing clothes that your community associates with upper caste Hindu women Ñ she has been going to a temple, wearing a bindi and salwar kameez in a traditional style. You are troubled by this. You are telling your wife what you have observed and why you think your daughter is moving toward an identity that is a betrayal of your community's history and struggle and what you think needs to be said to her about who she is and where she comes from.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "persona_id": "P001",
+    "frame_id": "F01",
+    "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+    "generated_comment": "Honestly da, I get being supportive, but company-wise how is it fair if only women get extra leave for this? Already teams struggle with targets and bandwidth, then men will end up covering work and still same appraisal cycle for everyone.",
+    "label": "misogynistic",
+    "covertness": "covert",
+    "annotation_note": "This is misogynistic because it frames menstrual leave as unfair special treatment and positions women’s biology as a workplace burden. It encodes the surface manifestations of fairness questioning and productivity/cost arguments against accommodations.",
+    "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+    "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+    "source_model": "gpt"
+  },
+  {
+    "persona_id": "P011",
+    "frame_id": "F01",
+    "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+    "generated_comment": "Yaar honestly, company period leave aur itna long maternity benefit deke phir bolti hai merit-based allocation hai. End mein project planning team ko hi suffer karna padta hai, and guys ko extra load lena padta hai — thoda unfair toh lagta hai.",
+    "label": "misogynistic",
+    "covertness": "covert",
+    "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity-related accommodations as an unfair burden on male coworkers and the organization. It encodes reverse-discrimination and productivity/cost arguments rather than overt insults.",
+    "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+    "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+    "source_model": "gpt"
+  },
+  {
+    "persona_id": "P001",
+    "frame_id": "F04",
+    "frame_label": "Women's Promotion & Leadership Competence",
+    "generated_comment": "I’m not saying she isn’t capable, but these days it’s hard to tell whether some of these fast-track promotions are pure merit or just diversity optics. She’s smart, no doubt, but to survive at that level women usually have to become very aggressive, almost like one of the guys.",
+    "label": "misogynistic",
+    "covertness": "covert",
+    "annotation_note": "This is misogynistic because it undermines a woman’s promotion by attributing it to diversity hiring rather than merit, and frames competence as requiring her to be masculinized. It encodes merit-undermining and the 'thinks like a man/one of the guys' surface manifestation.",
+    "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+    "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+    "source_model": "gpt"
+  },
+  {
+    "persona_id": "P011",
+    "frame_id": "F04",
+    "frame_label": "Women's Promotion & Leadership Competence",
+    "generated_comment": "Honestly yaar, half these senior women in corporate get pushed up because leadership wants the diversity optics. And then if they act tough everyone says wow she thinks like a man, otherwise people don’t take them seriously.",
+    "label": "misogynistic",
+    "covertness": "covert",
+    "annotation_note": "This is misogynistic because it undermines women's merit in leadership by attributing advancement to diversity hiring rather than competence. It also encodes the masculinization/double-bind trope, suggesting a woman leader is validated only when she is seen as 'thinking like a man.'",
+    "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+    "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+    "source_model": "gpt"
+  }
+]

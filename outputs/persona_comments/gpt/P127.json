@@ -1,0 +1,10 @@
+{
+  "persona_id": "P127",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Arey Ritu, shaadi se pehle sab ladke badi-badi baatein karte hain. Do din chai bana dega, bartan utha dega, phir ghar ka asli bojh toh bahu ke kandhe par hi aata hai. Ghar tabhi theek se chalta hai jab aurat haath mein sab sambhale; mard ko itna rasoi-ghar mein laga dogi toh baahar ke kaam kaun dekhega?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes women as primarily responsible for domestic labor and frames that division as practical and proper household management. It encodes a gendered division of chores via tradition and 'realistic' household functioning rather than explicit hostility.",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

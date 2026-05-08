@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Anita: Arre, office mein jab koi lady itni chhoti baat par gussa ho jaaye na, log seedha bol dete hain shayad unka hormonal day chal raha hai. Bura mat mano, par kai baar mood swings ki wajah se baat ko unnecessarily bada bana deti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's anger as caused by hormones and mood swings rather than treating their reactions as valid. It encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' in a casually normalized way.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

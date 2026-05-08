@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Arre bhai, aajkal ki ladkiyan bhi na, bahar jaane ko itna powder-cream laga leti hain ki asli chehra hi pata nahi chalta.\nB: Haan.\nA: Aur bilkul na lagayein to log bolte hain apna dhyan nahi rakhti. Seedhi si baat hai, saaf-suthri aur natural rahe to sabse acchi lagti hai, ye zyada sajna theek nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: too much makeup is framed as deceptive, while too little is framed as neglecting oneself. It encodes the 'natural beauty' ideal and the expectation that women must look attractive but without visible effort.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

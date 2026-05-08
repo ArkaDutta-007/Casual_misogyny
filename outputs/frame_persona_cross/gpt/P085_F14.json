@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Arre, ghar ko ghar aurat ke haath se hi lagta hai. Hamari maa subah se raat tak sabke liye garam khana banati thi, kabhi usko kaam nahi samjha, pyaar samjha. Main bhi apne bete ko bolta hoon, bahu mein sabse pehle ghar sambhalne ka mann hona chahiye, tabhi parivaar jud ke rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's primary value in marriage as domestic labor and emotional self-sacrifice, while erasing that labor as 'love' rather than work. It encodes glorification of the mother's cooking and sets an implicit standard that the daughter-in-law should maintain the home in the same way.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

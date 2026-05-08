@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bura lagta hai bolna, but practical hona padega. Delhi mein zamaana theek nahi hai, so if a girl is out alone late night or going to isolated places, obviously extra risk hota hai—apna khayal khud rakhna padta hai. Pehle yeh bhi dekhna chahiye ki itni raat ko kyun nikli thi, saath mein koi tha ya nahi; prevention is better than blaming baad mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and shifts attention from male violence to monitoring women's behavior. It encodes protective framing, victim questioning, and advice against being out late or alone as the main solution.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

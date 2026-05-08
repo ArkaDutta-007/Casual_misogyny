@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Bhai, ye toh hamesha se chalta aaya hai. Khet ka kaam, mandi ka kaam, woh mard dekhenge. Aur ghar-baar, roti-paani, bachche, woh aurat ki zimmedari. Jo jahan achha hai, wahi kaam kare, tabhi ghar theek se chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh attributes traditional gender roles (men for outside farm/market work, women for inside home/children) to practicality and natural efficiency ('jo jahan achha hai, wahi kaam kare'), encoding the core belief of gendered division of labor as rational. This is a classic 'naturalization' and 'efficiency framing' manifestation.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gemini"
+}

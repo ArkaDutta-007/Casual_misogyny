@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Meena, kal office party mein bina sindoor gayi thi? Shaadi-shuda aurat par thoda sa sindoor aur mangalsutra achha lagta hai, poora sa lagta hai.\nB: Arey, bas jaldi mein nikal gayi thi.\nA: Haan theek hai, choice apni hai, lekin hamari parampara bhi koi cheez hoti hai. Ye sab suhagan ki pehchaan hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as a married woman's proper identity and 'completeness' while presenting it as tradition and personal concern. It encodes disapproval of not wearing sindoor/mangalsutra and uses cultural-parampara language to normalize control.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

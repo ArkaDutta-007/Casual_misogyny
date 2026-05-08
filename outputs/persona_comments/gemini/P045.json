@@ -1,0 +1,10 @@
+{
+  "persona_id": "P045",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Sharma ji, I understand your tension. But live-in? Ye toh theek nahi hai na. Humare yahan toh aisa chalta nahi hai. Aur jab ladkiyan aise kadam uthati hain, toh log pehle baap ko hi dekhte hain ki kya upbringing di hai. Thoda aapko usse samjhana chahiye tha, abhi bhi der nahi hui hai. Ghar ki izzat ka sawaal hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly blames the father for his daughter's choice of a live-in relationship, framing it as a failure in her upbringing and a threat to family honor ('ghar ki izzat'). It implies that her consent to this relationship should have been controlled or prevented by the father, thus encoding 'Other Man's Ownership Over Woman's Own Consent' by shifting responsibility and consequence to the men in her life.",
+  "persona_text": "You are Deepak. Age 39. Married. An upper caste Hindu man in Bhopal. You are sitting with four male colleagues in the office canteen during lunch. One colleague is telling the group that his 25 year old daughter told him she is in a live-in relationship with her boyfriend. You are one of four men reacting to this news. You are giving your opinion on live-in relationships and what a father's responsibility is when his daughter makes choices like this and what it says about how she was raised.",
+  "source_model": "gemini"
+}

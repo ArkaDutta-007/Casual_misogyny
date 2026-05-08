@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Ma, I know times have changed, but after marriage a woman does look more settled with shankha-pola and a little sindoor. It is not about control, it's our parampara and a sign of saubhagya. These days girls call it old-fashioned, but some things should still be respected.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as a natural and respectable part of a married woman's identity, implying deficiency in women who reject them. It encodes tradition framing, completeness/settledness framing, and judgment of non-wearing as disrespectful modern behavior.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

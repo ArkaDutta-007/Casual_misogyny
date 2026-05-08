@@ -1,0 +1,12 @@
+{
+  "persona_id": "P219",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Geeta: Main bas itna bolungi, aajkal shaadi bhi soch samajh ke karni chahiye. Bahut cases mein ladki waale seedha 498A laga dete hain aur baad mein alimony ke naam par paisa nikalwa lete hain. Ladkon ko bhi ab thoda bach ke rehna padega, kanoon ek taraf ka ho gaya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as exploiting marriage and legal protections for money, while portraying men as the primary victims. It encodes victimhood inversion, 498A misuse discourse, and alimony as 'reverse dowry' or financial extraction.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Bhai, bura mat maanna, par zamaana theek nahi hai aajkal. Ghar ki auraton ko bhi samjhana padta hai ki late night akeli mat niklo, aur jahan crowd ulta-seedha ho wahan avoid karo.\nB: Haan, galti kisi ki bhi ho, nuksaan toh ladki ka hi hota hai.\nA: Bas practical baat hai, mardon ko tum ek din mein thodi badal doge, isliye apna khayal rakhna hi behtar hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility while treating male violence as inevitable. It encodes protective/restriction advice and the 'I'm just being practical' defense instead of holding men accountable.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, in most homes jo jahan better hota hai wohi sambhalta hai. Mard usually finances, bills, bahar ke kaam dekh lete hain, aur women naturally ghar ka rhythm better manage kar leti hain—khana, daily planning, all that. Isme bura kya hai, practical arrangement hai; agar husband kabhi kitchen mein help kar de toh that itself is very good.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of domestic labor as merely practical, assigning finances/external work to men and home management to women. It also encodes the 'he helps her' framing by praising minimal male participation in the kitchen as exceptional.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gpt"
+}

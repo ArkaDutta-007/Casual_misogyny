@@ -1,0 +1,12 @@
+{
+  "persona_id": "P184",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Aur kya, Mom! Did you hear about Rajesh uncle's nephew, Rohan? Such a mess! His wife found out he was having an affair. But I mean, that girl, Sonali... she knew he was married, right? She must have seen his ring, his photos on social media. Rohan toh bechara, he's so naive and got tangled up. These types of women, they just target married men, it’s all about breaking homes for their own gain. Bilkul serial wali vamp type hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Meera blames the 'other woman' (Sonali) entirely for the affair, framing her as a 'homewrecker' ('breaking homes', 'serial wali vamp') who 'targets married men'. The man (Rohan) is excused as 'bechara', 'naive', and merely 'tangled up', showcasing clear blame asymmetry and male victimhood.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gemini"
+}

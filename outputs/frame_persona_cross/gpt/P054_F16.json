@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in our house we just do what is practical. My husband handles all the banking, car service and outside work much better, and I take care of the cooking, planning and day-to-day things at home. Even if both people are working, not everyone has to do everything — if he makes tea once in a while itself, that is very sweet and more than enough.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a gendered division of labor as neutral practicality while assigning finances/external tasks to the man and domestic management to the woman. It also celebrates minimal male contribution ('makes tea once in a while') as exceptional, reflecting the 'helper' rather than equal partner dynamic.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

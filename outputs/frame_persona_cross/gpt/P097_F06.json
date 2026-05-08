@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro if a girl says no, fine, but half the time it's just attitude. I only properly back off once I know she's already with someone, because then at least there's a line you don't cross. Otherwise how will you know if she's genuinely not interested or just acting pricey?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's direct refusal as negotiable while framing another man's claim as the real boundary. It encodes the surface manifestation of ignoring her disinterest until learning she is 'taken,' presented as reasonable respect.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gpt"
+}

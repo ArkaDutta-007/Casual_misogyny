@@ -1,0 +1,10 @@
+{
+  "persona_id": "P024",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Deepak: Consultant ko theory bolni hai toh bole, but hamara business koi MBA case study nahi hai. Family business mein top seat par aisa banda chahiye jo 24 ghante pressure le sake, factory, market, bankers sabko handle kare without getting emotional.\nSon: But if she is qualified?\nDeepak: Qualification alag baat hai beta, practical leadership alag. Women are good in support functions, HR, branding, culture and all, but CEO level par tough calls aur authority maintain karna easy nahi hota, especially in our line.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it stereotypes women as less suited for top leadership, framing them as emotional and better only in supportive roles. It encodes competence-based bias in promotions and leadership within a family business context.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

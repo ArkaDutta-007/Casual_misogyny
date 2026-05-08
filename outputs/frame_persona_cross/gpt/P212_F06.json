@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre bhai, aajkal ke ladke ek baat samajhte nahin. Ladki ne mana kiya toh theek, par pehle yeh bhi dekh lo ki kisi ke saath hai kya. Agar uska koi aadmi hai, phir peeche hat jana chahiye, bekaar mein doosre ke maamle mein ghusne ka kya fayda.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's connection to another man as the decisive reason to stop pursuing her, rather than respecting her own refusal. It encodes ownership language ('kisi ke saath hai', 'uska koi aadmi hai') and frames backing off as respect for another man's claim.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

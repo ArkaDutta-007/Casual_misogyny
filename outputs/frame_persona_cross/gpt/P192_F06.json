@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre, maine bas do baar baat karne ki koshish ki thi, par madam seedha ignore kar rahi thi.\nB: Phir?\nA: Baad mein pata chala kisi ke saath hai, toh maine wahin baat khatam kar di. Ladki mana kare toh aajkal attitude samajh nahi aata, lekin agar kisi ladke ke saath committed hai toh us baat ki izzat rehni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he dismisses the woman's own refusal as 'attitude' and only accepts disengaging after learning she is attached to another man. It encodes the surface manifestation of respecting male claim/ownership over a woman's direct lack of consent.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gpt"
+}

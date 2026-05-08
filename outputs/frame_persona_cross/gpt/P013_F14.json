@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Arre bhai, maa ke haath ke khane ki baat hi alag hoti hai, poori zindagi ghar walon ke liye bina thake banaati rahi, kabhi usko kaam samjha hi nahi, pyaar samjha. Ghar tabhi ghar lagta hai jab aurat dil se rasoi sambhale, warna aajkal sab shortcut se bas pet bhar dete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes a woman's domestic labor as love rather than work and presents kitchen care as what makes a home. It encodes praise of mothers' sacrifice and an implicit standard that women should 'dil se rasoi sambhale' instead of using 'shortcuts'.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

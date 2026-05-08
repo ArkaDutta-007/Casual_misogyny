@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, I keep telling all the young girls here, it’s not like our times. This Pune, it's changing so fast. Girls need to be extra vigilant, especially after dark. Always travel in groups, or at least share your location with family. *Zamaana achcha nahi hai*, what to do? You have to take care of yourselves.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, presented as practical advice from a senior woman, subtly shifts the responsibility for safety onto young women by advising behavioral restrictions and increased vigilance ('travel in groups', 'extra vigilant', 'take care of yourselves'). It uses the 'zamaana kharab hai' justification to imply danger, framing these restrictions as protective concern rather than challenging male predatory behavior.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gemini"
+}

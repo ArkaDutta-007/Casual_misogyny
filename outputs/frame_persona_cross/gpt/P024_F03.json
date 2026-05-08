@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "देखो bhai, ambition apni jagah theek hai, but once children come, priorities naturally change. Father can support, of course, but maa ka role koi replace nahi kar sakta—school, health, upbringing, these things ultimately mother ko hi dekhne padte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare and upbringing as primarily the mother's responsibility while casting fathers as secondary supporters. It encodes the surface manifestation that women should sacrifice career priorities once children arrive and that core parenting duties 'ultimately' belong to mothers.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

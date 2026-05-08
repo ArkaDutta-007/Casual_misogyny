@@ -1,0 +1,12 @@
+{
+  "persona_id": "P093",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Yaar, tune suna Sameer ka divorce? His wife took a massive alimony, even though she barely worked after marriage.\nB: Oh, really? That's tough.\nA: Tough for Sameer! It's like, these days, men are just ATM machines for women who want a comfortable life without putting in the effort. All these one-sided laws, especially 498A, just encourage it. We need better protection for men, honestly.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment generalizes from a specific divorce case to imply that modern women exploit marriage for financial gain without contributing. It frames men as victims of 'one-sided laws' like 498A, portraying women who seek alimony as 'golddiggers' who avoid work, echoing the 'prenup / alimony as reverse dowry' surface manifestation.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Vikram. Age 35. Married for three years. A man in Mumbai. You are having a serious conversation with your wife Neha at home. You have noticed that Neha wears makeup every day to office but when she is at home with you on weekends she does not put in the same effort. You are telling Neha how this makes you feel and what you think it means about who she is making the effort for and what a wife should look like for her husband at home versus in public.",
+  "source_model": "gemini"
+}

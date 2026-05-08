@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar I get the intent, but aise har month period leave aur then long maternity/childcare leave bhi ho, toh obviously project allocation mein issue aata hai. Company appraisal aur deadlines dekh ke hi plan karegi na, then people act like it's sexism. Fairness ka bhi point hai, men ko equivalent kuch nahi milta but workload redistribute unpe hi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as workplace liabilities and treats accommodations as unfair special treatment. It encodes fairness/reverse discrimination framing and productivity-cost concerns around project allocation, appraisal, and workload.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

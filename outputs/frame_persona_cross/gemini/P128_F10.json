@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I totally get why women need to be careful, but sometimes it just feels like an unfair generalization. Like, when someone talks about 'all men' being a certain way, *I* feel personally targeted. I'm a married man, I respect women, I would never do anything to make anyone uncomfortable, but then you see women still being wary of you just because you're a man. It's frustrating to be lumped in with the bad actors when you're one of the good guys.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates 'Not All Men' dismissal by centering the speaker's feelings of being unfairly targeted as a 'good guy' when women discuss general safety concerns. It challenges women's wariness by framing it as an insult to men like him.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Beta, ambition is fine, but once children come, priorities have to be clear. A mother cannot outsource everything and then say career first.\nB: But why only the mother?\nA: Arre, father will provide and support, but maa ki jagah koi nahi le sakta. Bachche need that stability from her most.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother's duty while casting the father's role as secondary support/provider. It encodes career sacrifice framing and the assumption that childrearing stability must come mainly from the mother.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

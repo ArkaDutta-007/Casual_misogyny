@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Arre bhai, choice sabki apni hai, but shaadi ke baad thoda sindoor ya mangalsutra rahe to aurat suhagan lagti hai, settled bhi. Hamari parampara hai, isme burden kya hai? Aajkal ki ladkiyan bina kisi reason ke sab chhod deti hain, phir married aur unmarried ka farq hi kya dikhega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as natural, auspicious, and part of tradition while judging women who do not wear them. It encodes completeness/settledness framing and disapproval of married women who reject visible signs of marital status.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

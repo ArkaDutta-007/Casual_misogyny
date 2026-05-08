@@ -1,0 +1,10 @@
+{
+  "persona_id": "P168",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Yeah, Maa, that's what caught my eye too. She's great on paper, really. But a PhD? Itna padhai karke, I hope she's not one of those who'll always want to prioritize her career. Ghar pe dhyan kaun dega then, especially once kids come along? I mean, it's good to be educated, but there's a limit, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly expresses anxiety about a highly educated woman prioritizing her career over domestic responsibilities ('Ghar pe dhyan kaun dega'), implying her education could be a threat to traditional gender roles and family life. The line 'it's good to be educated, but there's a limit, no?' frames female education as a conditional privilege, acceptable only up to a certain point where it doesn't challenge male expectations for her role.",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, log samajhte hi nahi hain. Always remember, har aurat kisi ki maa hoti hai, kisi ki behen hoti hai. We must always treat them with respect, no matter what.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak expresses 'respect' for women, but explicitly bases this respect on their relational identities as 'someone's mother' or 'someone's sister', rather than their inherent individual personhood. This aligns with the 'Respect women — they are someone's mother/daughter/sister' rhetoric.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,11 @@
+{
+  "persona_id": "P200",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, half the time when a woman gets fast-tracked into leadership, people call it progress even when the merit is not that clear. And if she is actually effective, everyone says the same thing — she thinks like a man. That itself tells you this system is still not very honest.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not endorsing misogyny; it is critiquing the sexist double bind women face in leadership. It references misogynistic surface manifestations like merit-undermining and masculinization, but frames them as evidence of bias rather than as a sincere belief.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Anita. Age 28. Single. A woman working as a junior doctor in Delhi. Your parents are from a small town in UP and are beginning to think about your marriage. Your father called you last week and mentioned they have started a fixed deposit specifically for your wedding expenses. He mentioned the amount casually Ñ as if it is normal, as if this is just what parents do for daughters. You are sitting in your room after that call. You are thinking about the fixed deposit Ñ the money your parents have been setting aside for the cost of giving you away, the assumption embedded in it that your marriage will require their financial sacrifice, the fact that no such deposit exists for your brother. You are posting anonymously on a women's forum. You are not angry at your parents. You are trying to articulate something that does not have a clean shape yet Ñ the feeling of knowing that your existence in your parents' financial life has always had a price tag attached to it that your brother's existence does not have.",
+  "source_model": "gpt"
+}

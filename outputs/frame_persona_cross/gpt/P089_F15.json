@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: I am not old-fashioned, but after marriage a woman should look married also. A little sindoor or mangalsutra is not oppression, beta, it is our parampara and it suits a suhagan.\nB: But some women are not comfortable with it.\nA: Choice is there, of course, but when these basic symbols also feel like a burden, then what is left of family tradition? A married lady looks more settled when she carries these things with respect.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition, respectability, and a sign that a married woman is 'settled' or complete, while judging women who do not wear them. It encodes the surface manifestations of completeness framing, tradition framing, and disapproval of non-wearing under the language of personal choice.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

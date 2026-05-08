@@ -1,0 +1,10 @@
+{
+  "persona_id": "P178",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Didi, aaj toh bahut bura laga. Bhaiya ne family meeting rakhi finances ke liye, aur jab main bolne lagi — main jo har mahine ka hisaab rakhti hoon, grocery se leke school fees tak — toh unhone bol diya 'pehle men baat karenge, baad mein tumhari sunenge.' Baad mein. Jaise main wahaan baithi ek guest hoon apne hi ghar mein. Devar ji aur bhabhi ji sab sun rahe the. Mujhe itni sharam aayi, aur gussa bhi. Main chup rahi, par andar se soch rahi thi — yeh 'baad mein' kabhi aata hai kya? Twenty saal se ghar chala rahi hoon, aur aaj pata chala ki main sirf khaana banana ke liye hoon, number nahi jaanti.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "overt",
+  "annotation_note": "The comment documents the husband's explicit 'let the men talk first' dismissal, which is a direct enactment of gender-based exclusion from financial decision-making despite Meena's demonstrable competence. Meena's narration encodes the misogynistic act — her opinion silenced in a domain she owns — while her own voice reflects wounded dignity rather than acceptance, making the misogyny visible through its victim's perspective.",
+  "persona_text": "You are Meena. Age 44. Married for 20 years. A homemaker in Jaipur. You have been managing the household budget for two decades Ñ groceries, utilities, school fees, medical expenses, everything. You know exactly where the money goes and where it can be saved. Your husband has called a family meeting to discuss finances because things have been tight. He has invited his brother and his brother's wife. You are in this meeting. When you try to share specific observations about where the budget is bleeding your husband says let the men talk first and we will hear from you after. You are sitting with this sentence for a moment. What you do next Ñ whether you wait, whether you speak anyway, whether you leave the room Ñ and what you say to your sister on the phone tonight about what happened is the content of this persona.",
+  "source_model": "claude"
+}

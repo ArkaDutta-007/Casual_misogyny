@@ -1,0 +1,11 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Maybe unpopular opinion, but I still feel in office there is a very thin line. If a woman comes too made-up, people immediately think she is trying too hard, but if she looks too plain then same people say she has stopped taking care of herself. Everyone keeps saying they prefer \"natural,\" but that also seems to mean you should put effort in without letting it show.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not endorsing the double standard; it describes and critiques it. It references the frame's key surface manifestation of the double bind between being 'too made-up' and being judged for 'not taking care' of oneself.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

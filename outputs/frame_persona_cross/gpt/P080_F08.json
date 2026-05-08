@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Yaar, if she knew he was married and still kept getting close, then obviously she's the one disturbing the whole family.\nB: But he's also responsible, no?\nA: Haan, but men get carried away sometimes. A sensible woman should maintain limits instead of doing all this serial-type drama and breaking someone else's home.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it blames the woman as the primary cause of an affair while minimizing the married man's agency. It encodes homewrecker framing, seductress framing, and moral asymmetry through 'she knew he was married' and 'men get carried away sometimes.'",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

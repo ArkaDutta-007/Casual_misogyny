@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Mujhe toh lagta hai, it's just practical. Like, ghar ka kaam, managing everything inside, women are just naturally better at that, no? Aur guys for bahar ka stuff, finances. It just makes sense, less arguments.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment rationalizes traditional gender roles in household labor as 'practical' and 'natural', asserting women are inherently better at home management and men at external tasks/finances. This aligns with the 'Gendered Division of Chores via 'Practicality'' frame and the surface manifestation of describing gendered division as natural/efficient.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gemini"
+}

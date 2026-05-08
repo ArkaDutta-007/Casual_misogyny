@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre yaar, yeh Anjali ne hi fasaya hai bechare Sandeep ko. Pata bhi toh tha na usko ki woh shaadi-shuda hai? Aisi ladkiyan hi ghar todti hain!",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the woman (Anjali) entirely for an affair, portraying her as a 'seductress' who 'trapped' the man ('fasaya hai bechare Sandeep ko') and a 'homewrecker' ('ghar todti hain'), while excusing the man as a victim. It emphasizes her knowledge of his marital status as a reason for her culpability, reflecting the blame asymmetry typical of this frame.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gemini"
+}

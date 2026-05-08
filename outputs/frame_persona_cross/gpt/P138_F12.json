@@ -1,0 +1,12 @@
+{
+  "persona_id": "P138",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, not every casual gaali needs a gender studies lecture. In Mumbai newsrooms and college groups, people say these things as filler when they're irritated; it doesn't mean anyone is literally insulting somebody's mother or sister. Yaar, context matters — if we start policing every word, normal conversation will become impossible.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abusive language and dismisses criticism with the 'it's just expression/context' defense. It encodes the surface manifestation of defending common gaalis as harmless, thereby ignoring their misogynistic structure.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gpt"
+}

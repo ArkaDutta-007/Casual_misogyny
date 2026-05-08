@@ -1,0 +1,10 @@
+{
+  "persona_id": "P037",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Beta, dekho, a prenup is just practical thinking in today's world. I understand she might be upset, but her reaction... it makes you wonder, doesn't it? If her intentions were truly pure, why would a simple legal safeguard be such a big issue? With this 'reverse dowry' trend, you have to be smart.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment implicitly questions the fiancée's intentions, suggesting she is primarily interested in the son's wealth rather than love, because she is upset about a prenup. It employs the misogynistic framing of alimony as 'reverse dowry,' which delegitimizes women's financial claims post-divorce and propagates the stereotype of women as gold-diggers.",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Nothing beats Amma's cooking. She never once complained, just made sure we all ate well without ever expecting anything back. That's true love, pure dedication. Sometimes I wonder if that kind of selfless care still exists or if it's just something from our parents' generation. Hope to find someone who understands and values that someday.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment glorifies the mother's domestic labor (cooking) as 'true love' and 'selfless care,' actively erasing its recognition as work ('never expected anything back'). It implicitly sets this unattainable standard of domestic service and sacrifice as an expectation for a future partner, reflecting the core misogynistic belief that a woman's love and value are defined by tireless domestic labor.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Indian girls honestly look the most graceful in simple salwar suit or saree, wahi asli elegance hoti hai. Aaj kal jo extra revealing kapde pehen ke nikalti hain public mein, phir attention milta hai toh surprise kyu act karti hain? Bura lag sakta hai but public space mein thoda decent dress karna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and worth to wearing traditional or 'decent' clothes, while implying that harassment or unwanted attention is a predictable result of 'revealing' dress. It encodes the traditional-vs-modern morality contrast and subtly shifts blame for public harassment onto women’s clothing choices.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

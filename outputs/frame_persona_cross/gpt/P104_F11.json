@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "On a day like today, we should remember that the real strength of our society is our mothers, wives, sisters and daughters. A woman deserves the highest respect because she holds the family together and sacrifices her own needs for everyone she loves. If every man learned to see every woman as someone’s mother or sister first, this world would automatically become a better place.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and entitlement to respect through their roles in relation to family, especially male kin, rather than as individuals. It encodes relational framing and sacrifice glorification in a surface-level 'respect women' message.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gpt"
+}

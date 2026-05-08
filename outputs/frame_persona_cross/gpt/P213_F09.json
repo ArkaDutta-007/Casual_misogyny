@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "As a father of a grown daughter, I always say the same thing: the world is not ideal, so girls also have to be practical. If you know late nights, isolated roads, drinking with random company and certain kinds of dressing attract the wrong attention, then why take that risk and later blame society alone? Men should behave properly, of course, but until that day comes, women must take responsibility for their own safety and families are not wrong to keep some boundaries.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and shifts the burden of prevention onto women through restrictions on dress, mobility, nightlife, and company. It uses a protective, practical tone while encoding victim-blaming and parental control as care.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

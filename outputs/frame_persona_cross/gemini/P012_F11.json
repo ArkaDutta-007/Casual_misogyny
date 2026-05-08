@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Humare desh mein toh nari ka sthan bohot ooncha hai. Devi ka roop hai. Aur hum teachers ka farz hai ki hum apni bachchiyon ko wohi sanskar dein, taaki woh kal ko achi beti, achi patni, aur sabse zaroori, achi maa ban sakein. Unki izzat karna hamari zimmedari hai, kyuki woh kal desh ki maayein hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while seemingly pro-woman, subtly defines women's worth and the basis for respect primarily through their relational roles (daughter, wife) and especially their future role as mothers ('sabse zaroori, achi maa ban sakein,' 'kal desh ki maayein hain'). It aligns with the 'Motherhood as Basis of Respect' manifestation, where a woman's individual identity is secondary to her relational identity within male kin structures.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P170",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Ee Lakshmi, she's educated, but sometimes I worry. When she wears those modern dresses, she looks so... different. But when she puts on a nice saree, our traditional dress, doesn't she look so much more dignified, more graceful? It just suits her so well, shows our culture. People in the village respect that, you know.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh, an older rural man, frames his preference for traditional attire for his daughter as an appreciation of culture and dignity. This implicitly links traditional dress to respectability and grace, while subtly devaluing 'modern dresses' as 'different' and less respected, encoding the 'complimenting a woman for looking more decent in traditional wear' and 'cultural pride mask' manifestations.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Suresh. Age 50. Married. A man in a village in Karnataka. Your daughter Lakshmi who is 22 has a BA degree Ñ she is the most educated woman in your village. A marriage proposal has come from a family in a nearby town. The boy has only studied until class 10. He runs a small business. The family is financially stable and respectable. You are discussing the proposal with your wife. The question on the table is whether Lakshmi's education is an asset in this proposal or a problem Ñ whether a girl who has a BA can be happy with a boy who has class 10, whether he will be comfortable with her education, whether she should perhaps not mention it too prominently when they meet, whether being too educated has made the marriage search harder than it needed to be.",
+  "source_model": "gemini"
+}

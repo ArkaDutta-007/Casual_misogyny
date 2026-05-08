@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office ke boys group mein aaj phir same joke tha — \"client call kal rakhna, aaj she seems PMS-y\" 🙄 Then when I said that's not funny, one of them was like, \"arre chill Meena, joke hi tha, don't be so emotional.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it attributes a woman's professional behavior to PMS/hormones and dismisses objection as being 'emotional.' It encodes the surface manifestations of period-based joking and using 'joke hi tha' as a defense.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

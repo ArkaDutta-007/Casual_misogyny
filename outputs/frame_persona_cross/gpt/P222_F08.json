@@ -1,0 +1,12 @@
+{
+  "persona_id": "P222",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Suresh: Arre, yeh bilkul serial wali baat hai. Aadmi kabhi kabhi behak jata hai, lekin us aurat ko toh sharam honi chahiye thi, pata tha woh shaadishuda hai phir bhi chipki rahi. Aisi hi auratein ghar todti hain.\nWife: Haan, sahi keh rahe ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it blames the woman almost entirely for an affair while excusing the married man as someone who merely 'got carried away.' It encodes blame asymmetry and the 'homewrecker/seductress' framing common to this misogyny frame.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are discussing marriage proposals for your son Karan who is 27. A proposal has come from a good family Ñ the girl is educated, employed, from a respectable background. But you found out through a mutual contact that the girl has a large mixed gender social circle and is known to go out with male friends in groups. You are sitting with your wife telling her what you found out and what you think it means for the kind of wife she will be and whether this is the kind of girl you want for your son and what you are going to tell the girl's family.",
+  "source_model": "gpt"
+}

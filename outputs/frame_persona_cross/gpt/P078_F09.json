@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Not defending what happened, but honestly in India you have to be practical also. If something like this happens, shout immediately, move away, ask other passengers for help, and next time avoid crowded buses if you're alone because zamaana theek nahi hai. People won't change overnight, so women have to stay alert for their own safety.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames harassment as an inevitable reality and shifts responsibility onto women to manage men's behavior through vigilance and restriction. It uses a practical, protective tone to advise avoidance and self-policing rather than centering male accountability.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

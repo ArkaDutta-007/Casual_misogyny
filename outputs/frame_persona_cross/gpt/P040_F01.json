@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Arre bhai, office mein kaam toh sabko barabar karna padta hai na. Aise har thode din period leave, phir maternity leave, phir bachche ke liye alag chhutti — company bhi kitna adjust kare? Phir aadmi log ko kaun puche, unke upar hi extra load aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and caregiving needs as an unfair workplace burden and implies they receive special treatment over men. It encodes fairness and productivity/cost arguments against menstrual and maternity leave.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P109",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "I am not against women working, but in private companies we have to see practicality also. Already 26 weeks maternity leave is there, now if period leave also comes, small teams will suffer and others have to carry the load. For appraisal and project allocation, naturally managers will think twice, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biology and maternity-related accommodations as a workplace burden and normalizes penalizing them in appraisal and project decisions. It encodes economic/fairness framing and the assumption that menstrual and maternity leave make women a liability.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rajan. Age 58. Retired. A man in Chennai. Your wife passed away two years ago after 32 years of marriage. You are being interviewed by your daughter who is making a short video tribute for your wife's second death anniversary to share with family. Your daughter is asking you to describe her mother. You are answering her questions. Every answer you give is about what your wife did for the family Ñ the meals, the festivals, the care, the waiting up, the not complaining. Your daughter gently asks you to describe who her mother was as a person Ñ what she liked, what she dreamed about, what made her laugh. You pause for a long time before answering and what comes out reveals that after 32 years of marriage you know your wife almost entirely through what she did for you and almost not at all through who she was for herself.",
+  "source_model": "gpt"
+}

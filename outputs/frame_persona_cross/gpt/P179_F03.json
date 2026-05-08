@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, I don’t judge women for being ambitious, but at some point you have to ask who is actually raising the child. Fathers can help, of course, but a mother’s presence in those early years is different.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare as primarily the mother’s responsibility while casting fathers as secondary helpers. It encodes career sacrifice framing and the assumption that women should prioritize childrearing over ambition.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gpt"
+}

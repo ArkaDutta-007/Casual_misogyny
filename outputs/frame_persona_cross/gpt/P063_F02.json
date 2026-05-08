@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Aiyo, these days if a woman gets upset for every small thing, immediately people have to wonder if it is that time of the month only. Yesterday in our apartment meeting also one lady was shouting so much, later everyone said just leave it, hormones talking. Don't take it seriously, I am only saying casually.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger as caused by menstruation and hormones rather than treating her reaction as valid. It encodes the surface manifestations of attributing assertiveness to 'that time of the month' and using humor/casual framing to minimize the sexism.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

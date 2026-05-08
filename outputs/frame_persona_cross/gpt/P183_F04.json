@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I don't mind women in leadership at all, but sometimes it does feel like companies overcorrect. When someone gets promoted that fast, people will obviously wonder if it's merit or just diversity optics. And the women who do survive at that level usually become so aggressive and hard that they're basically expected to think like men anyway.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as possibly undeserved ('diversity optics') and frames competence in leadership as requiring women to become masculine. It encodes merit-undermining and masculinization in a polished, workplace-style register.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gpt"
+}

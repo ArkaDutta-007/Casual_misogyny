@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I don’t understand why some women put so much makeup and filters, then say men are judging them. Natural rehna hai toh properly raho, and if you do makeup at least don’t make it look like a different person altogether.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: women should be attractive and 'natural,' but visible beauty effort is treated as deceptive. It encodes the makeup-as-deception angle and the expectation that women maintain appearance without seeming to try.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

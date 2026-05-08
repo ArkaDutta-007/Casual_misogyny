@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi also has become a financial risk for men, yaar. One divorce and suddenly alimony, 498A, all one-sided laws come into picture — many cases are false only, but the man still suffers. Frankly, any well-settled boy should think practically and keep legal protection, because aajkal ki girls are very smart about money.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women in general as financially manipulative and portrays legal protections as tools women use against men. It encodes victimhood inversion, 498A misuse rhetoric, and the idea that women are 'after money' and men need protection from them.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P129",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Spoken conversation:\nSunita: I am not blaming the girl, but nowadays we have to be practical only. If it is late night, why go alone and take that route?\nSister: But the men are the problem, no?\nSunita: Of course they are, but can we change them overnight? Better to be careful, dress simply, share live location, and avoid these situations as much as possible.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and shifts focus from male violence to women’s behavior. It encodes practical/protective victim-blaming through advice about being out late, going alone, clothing, and avoiding certain places.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Sunita. Age 37. Married. A woman working as a bank officer in Chennai. You wake up at 5:30am every day to cook before work. Your husband wakes up at 7:30am. You come home and cook again. Your husband comes home and sits. On weekends you clean. Your husband relaxes. You have brought this up twice. Both times your husband said he is happy to help and then did not help. You are on a phone call with your sister tonight. You are not angry in the way you were when you first brought it up with your husband. You are tired in a different way Ñ a way that has settled into your body over five years and become part of the landscape of your life. You are telling your sister something specific that happened this week that is small and should not matter and somehow is the thing that has made everything clear to you.",
+  "source_model": "gpt"
+}

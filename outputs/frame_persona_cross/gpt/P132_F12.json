@@ -1,0 +1,12 @@
+{
+  "persona_id": "P132",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre, aajkal ke ladke har baat mein maa-behen wali gaali bol dete hain, par itna bhi kya issue banana? Bas muh ki aadat hai.\nB: Haan, par galat to hai na.\nA: Galat-tab galat, lekin har shabd ko pakad ke baithoge to baat kaise chalegi? Koi kisi ki aurat-log ko sach mein thodi bol raha hota hai, bas gusse ka tareeka hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse as harmless everyday speech and dismisses concern with 'it's just a habit/just expression.' It encodes the frame's meta-defense of gaalis rather than using explicit slurs directly.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gpt"
+}

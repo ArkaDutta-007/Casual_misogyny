@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arey, these youngsters today! My Rohan also sometimes says those 'BC-MC' type words when he's playing games with his friends online. I tell him, 'Rohan, don't use such gandi-gandi baatein!' But he just laughs and says, 'Mummy, it's just a word, yaar! All my friends say it.' Kya karein? All boys talk like that only now.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This comment demonstrates the normalization of female-demeaning gaalis and the 'it's just a word' defense. Sunita, while initially disapproving, dismisses her own concern by relaying her son's defense and concluding that 'all boys talk like that only now,' reflecting common societal acceptance of such language.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gemini"
+}

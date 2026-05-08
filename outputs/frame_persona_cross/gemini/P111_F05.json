@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Rohan, beta, jab shaadi karna toh soch samajh kar karna. Aajkal ki ladkiyon ka bharosa nahi. Maine suna hai kitni ladkiyan shaadi sirf isliye karti hain taaki kuch saal mein talaaq leke achhe khaase paise le lein. Phir yeh kanoon bhi aise hain ki mardon ko fasane ke liye hi bane hain, 498A lagate hi saara ghar bik jata hai. Bechaare mard fas jaate hain.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "Kamla, an elderly woman, warns her grandson about modern women, expressing the belief that some women exploit marriage and divorce laws (like 498A) to extract money, thereby portraying men as victims of a biased legal system. This encodes the 'Women as Golddiggers' and 'Claiming IPC 498A is misused' surface manifestations.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gemini"
+}

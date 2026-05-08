@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Hamare pados ki Neha bol rahi thi office mein period leave bhi chahiye aur baad mein maternity leave bhi. \nB: Arre bhai, company bhi kitna manage karegi? Aise toh young ladki ko hire karte hi sochna padega ki kab chhutti par chali jayegi. Men ko kaun sa extra leave milta hai, phir fairness kahan hua?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as less desirable employees due to menstruation and potential maternity leave, while presenting the view as a fairness and business concern. It encodes workplace bias through reverse-discrimination framing and the assumption that young women are hiring liabilities.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

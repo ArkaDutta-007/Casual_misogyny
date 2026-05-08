@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "I remember meeting her during the interviews. Very sharp, yes. But honestly, for a HOD position, a more natural, understated look might just instill more confidence, no? It's about projecting an image of serious academic focus, not... well, on external appearances.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, a male professor, implies that the female HOD's appearance (presumably with makeup) is not 'natural' enough for a serious academic role. He subtly praises 'natural' while critiquing what he perceives as 'external appearances,' suggesting makeup is superficial and detracts from her professionalism, thus policing her grooming choices.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P177",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Guys, whatever our views are, please talk respectfully yaar. She is someone’s wife and mother in the family, not like this dismissive tone suits us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This sounds respectful on the surface, but it frames the woman's worth and entitlement to respect through her relational roles as wife and mother rather than as an individual. It encodes the 'someone's wife/mother' justification for respect, a key manifestation of this frame.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are at a family WhatsApp group discussion Ñ the group has 18 members across three generations. Your aunt has posted a long and detailed message about a financial decision the family needs to make regarding a shared investment. Her message is well researched and specific. Within five minutes two male cousins have replied dismissing her concern as overthinking. Your uncle has posted saying he will handle it. Your aunt has not replied. You are watching this happen on your phone. You add a comment. What you add reveals whether you are going to be part of the dismissal or whether you are going to do something different.",
+  "source_model": "gpt"
+}

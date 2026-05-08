@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, heard about Sameer and that new girl in marketing? Shocking. But honestly, these modern girls, they just don't care. She knew he was married, na? Still, she actively went after him, creating problems for his family. Us bechare Sameer ki toh shaadi barbaad ho gayi. Bilkul serial wali vamp lagti hai woh ladki, ghar todne wali.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, framing her as a 'homewrecker' who 'went after' a married man and should have known better. It implies the man is a victim ('us bechare Sameer'), while demonizing the woman as a 'vamp' who destroyed a family, exhibiting blame asymmetry and family protection rhetoric.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

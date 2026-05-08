@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Sunita: Aajkal ki bahuen bolti hain choice hai, par shaadi ke baad thoda sindoor aur mangalsutra se hi to suhagan wali pehchaan aati hai. \nHusband: Haan, ab kai log nahi maante.\nSunita: Main mana thodi kar rahi hoon, jo marzi pehne, lekin bina in sab ke shaadi-shuda aurat adhuri si lagti hai, hamari parampara ka bhi to matlab hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible markers as necessary for being a proper or 'complete' wife, while presenting it as tradition rather than control. It encodes completeness framing, disapproval of non-wearing, and the 'personal choice but...' defense.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

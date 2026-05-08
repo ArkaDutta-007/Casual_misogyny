@@ -1,0 +1,10 @@
+{
+  "persona_id": "P122",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Karan, sun meri baat. This is not about tradition-wadition, okay? It's simple logic. Divya is working, fine, I understand, but tell me — when she comes home tired, who is going to cook better, more efficiently? She has grown up doing these things, her hands know the work. Your mother also worked in her father's shop before marriage, but when she came here she understood — ghar ka kaam uska domain hai, office ka tension mera. We never fought about it because the arrangement made sense. You are good at earning, at handling outside pressure. Let her handle the home properly. If both of you are fighting over who will mop the floor every evening, you will have no energy left for anything else. Yeh equal-equal ki theory theek lagti hai college mein, but in real life, Karan, efficiency matters. A well-run house needs one person in charge of it, and honestly, who do you think is more naturally suited for that?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames women's domestic labor as rooted in natural aptitude and efficiency rather than explicit subordination, which is a classic covert misogynistic framing. It encodes the 'naturalization' surface manifestation — presenting a socially constructed gendered division as biologically or practically inevitable while dismissing egalitarian alternatives as naive idealism.",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "claude"
+}

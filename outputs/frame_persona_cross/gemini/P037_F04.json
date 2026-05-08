@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "You know, this new young IPS officer in the news, she’s been promoted so quickly. Very impressive. But frankly, I sometimes wonder how these things work nowadays, all this talk about 'gender parity' and 'diversity targets'. Back in our time, it was pure, unadulterated merit that got you places. Things have changed.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker subtly undermines the woman's merit by implying her rapid promotion might be due to 'gender parity' or 'diversity targets' rather than solely her own competence, reflecting skepticism about women's leadership in power.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gemini"
+}

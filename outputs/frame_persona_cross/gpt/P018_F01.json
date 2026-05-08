@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, from company point of view also we have to think practically. If we start these period leave and then maternity benefits on top, small teams suffer and appraisal fairness goes off balance - men are expected to cover but get no such flexibility. Aise toh before hiring also you have to see long-term availability, otherwise project allocation becomes difficult.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and maternity, while presenting the bias as a fairness and productivity concern. It encodes economic framing, reverse-discrimination framing, and the assumption that women’s reproductive roles should affect hiring and appraisal decisions.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

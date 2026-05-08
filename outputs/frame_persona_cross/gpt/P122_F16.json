@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, isme issue kya hai? Jo jahan naturally better ho wahi sambhale toh ghar smoothly chalta hai—ladkiyan usually ghar ka system, khana, daily cheezein better manage kar leti hain, aur mard finance, bills, bahar ke kaam dekh lete hain. Kabhi help kar dena alag baat hai, but har cheez 50-50 karne baithoge toh practical nahi hota.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it presents gendered household roles as natural and efficient rather than discriminatory. It encodes the 'he handles finances, she handles home' framing and the 'help' vs shared responsibility distinction.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

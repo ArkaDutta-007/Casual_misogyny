@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Frankly, these days marriage has become a financial risk for men, yaar. One divorce and suddenly alimony, maintenance, 498A threat — the entire system assumes the man is guilty.\nB: Hm.\nA: I keep telling younger officers, be very careful. Aajkal many women look for a secure match first and if things turn sour, they know the law is entirely on their side.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially motivated and frames marriage/divorce laws as tools women exploit against men. It encodes victimhood inversion, legal framing around 498A misuse, and suspicion that women seek financially secure men for gain.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

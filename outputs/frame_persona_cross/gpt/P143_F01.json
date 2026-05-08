@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: My niece is in IT company here only, Chennai. These days office is giving so many special leaves for ladies, period leave, then maternity also so long.\nB: Hmm.\nA: I am only saying, for company how it will be fair? Men also work same project no, but appraisal time burden falls on them. If they are hiring young girls, naturally management will think all this cost also.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and maternity, while presenting the view as a fairness and cost concern. It encodes reverse-discrimination and productivity/cost arguments, plus the assumption that young women hires will entail maternity-related burden.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

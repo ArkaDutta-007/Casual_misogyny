@@ -1,0 +1,12 @@
+{
+  "persona_id": "P061",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Dekho, I am not against women working, but company ko bhi fairness dekhna padta hai. Aise hi young female staff hire karo, phir 6 months maternity leave, flexible timing, ab period leave bhi — project allocation aur appraisals sab disturb ho jaate hain, aur baaki team ko load uthana padta hai. Men ke liye koi equivalent benefit nahi hai, toh thoda practical sochna chahiye na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women employees as a workplace liability due to menstruation and maternity, while presenting the bias as a fairness and productivity concern. It encodes reverse-discrimination framing, cost/productivity arguments, and the assumption that young women hires will soon take maternity leave.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are having dinner with your wife after your close friend called earlier today to say his wife just found out he has been having an affair with a woman from his gym for eight months. Your wife is upset about it. You are telling her your take on the situation and specifically what role you think the woman from the gym played and why you think women like her deliberately target married men.",
+  "source_model": "gpt"
+}

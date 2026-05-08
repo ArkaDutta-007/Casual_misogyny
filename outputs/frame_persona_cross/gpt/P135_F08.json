@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "These days everyone is blaming the husband, but that lady also knew very well he was a married man with children. However weak men may be, a decent woman will keep boundaries instead of encouraging that kind of attention. It is exactly this sort of serial-style behaviour that breaks a family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary responsibility on the woman for the affair while softening the man's accountability as 'weak.' It encodes blame asymmetry and homewrecker framing, especially the idea that she 'knew he was married' and should have managed his behavior.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

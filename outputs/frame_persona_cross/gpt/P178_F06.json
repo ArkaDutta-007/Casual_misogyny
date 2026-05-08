@@ -1,0 +1,12 @@
+{
+  "persona_id": "P178",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Kal market mein ek ladka baar baar baat karne aa raha tha, maine seedha mana bhi kiya. Phir jab pados ki aunty ne bol diya ki yeh shaadi-shuda hai, tab turant peeche hat gaya. Matlab aurat ke munh se na samajh nahi aata, kisi aadmi se judi ho tab baat samajh aati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes a pattern where the woman's direct refusal is ignored until her status as attached to a man is revealed. It encodes the surface manifestation of backing off only after learning she is 'taken,' presented through a woman's observation of the experience.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Meena. Age 44. Married for 20 years. A homemaker in Jaipur. You have been managing the household budget for two decades Ñ groceries, utilities, school fees, medical expenses, everything. You know exactly where the money goes and where it can be saved. Your husband has called a family meeting to discuss finances because things have been tight. He has invited his brother and his brother's wife. You are in this meeting. When you try to share specific observations about where the budget is bleeding your husband says let the men talk first and we will hear from you after. You are sitting with this sentence for a moment. What you do next Ñ whether you wait, whether you speak anyway, whether you leave the room Ñ and what you say to your sister on the phone tonight about what happened is the content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Honestly, these days marriage itself feels like a legal risk for men. One bad fight and suddenly 498A, maintenance, alimony — everything is one-sided.\nB: True, yaar.\nA: People call prenups unromantic, but what is wrong in protecting what you earned? Aajkal many girls also look for \"stability,\" but half the time that just means salary package.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially motivated and portrays marriage laws as primarily tools women use against men. It encodes the 'one-sided laws/498A misuse' and 'women as golddiggers' surface manifestations in a casual, plausible conversational style.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

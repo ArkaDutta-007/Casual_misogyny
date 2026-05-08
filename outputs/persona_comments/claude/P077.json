@@ -1,0 +1,10 @@
+{
+  "persona_id": "P077",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kavitha, I'm not saying don't work, but local train every day and then walking alone also — what if something happens? Nowadays these things are not safe for girls, and then who will be responsible? Your salary will come and go, but if something happens to you, then? Better you ask them if they have some pickup facility or find something closer to home — a woman has to think about these things before saying yes.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Meena frames public safety as a burden Kavitha must personally manage before accepting employment, implying women who use public spaces alone invite risk and bear responsibility for harm done to them. This encodes the 'safety as her own responsibility' trope — concern is expressed genuinely and maternally, but the underlying logic restricts women's mobility and conditions their right to work on their ability to avoid danger.",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "claude"
+}

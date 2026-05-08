@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, companies can keep calling it progressive, but from a planning point of view how is it fair? For the same role, one side gets extra period leave, then 6 months maternity, sometimes flexible allocation also, and the rest of the team has to absorb the workload with no equivalent benefit. Matlab at appraisal time nobody says this openly, but productivity impact toh hota hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to menstruation and maternity, while presenting the view as a fairness and productivity concern. It encodes reverse discrimination and economic/productivity arguments against menstrual and maternity leave accommodations.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

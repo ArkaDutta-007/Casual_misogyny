@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar agar usko pata tha ki banda married hai toh distance rakhna chahiye tha na. Ab pura ghar toot raha hai aur sab bol rahe hain bechara aadmi phas gaya, but honestly aisi ladkiyan hi line deti hain, bilkul serial wali baat lag rahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for an affair while portraying the married man as trapped or less responsible. It encodes homewrecker framing, seduction framing, and the 'she knew he was married' moral asymmetry.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre chhodo yaar, yeh ladies log hain. Zyada serious mat lo. Kabhi-kabhi inka dimaag na, khud hi garam rehta hai. Hormones ka chakkar hai, kal tak theek ho jaayegi.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Sunil dismisses a female worker's irritable mood by generalizing 'ladies' as emotional and attributing her state directly to 'hormones ka chakkar' (hormone issue), implying it's an irrational, biologically determined phase. This characterizes a woman's frustration as 'hormonal' to dismiss it.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gemini"
+}

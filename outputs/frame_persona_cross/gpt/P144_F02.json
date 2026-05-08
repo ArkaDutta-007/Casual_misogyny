@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre yaar, don't take her so seriously right now. These mood swings happen, maybe it's that time of the month only — kal dekhna, she'll talk normally. I'm just saying, no need to make a big issue out of every reaction.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's reaction by attributing it to her period and mood swings instead of treating her as rational. It encodes the surface manifestations of 'it's that time of the month' and characterizing a woman's frustration as hormonal.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

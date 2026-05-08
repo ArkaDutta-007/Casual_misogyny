@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian women carry themselves so much better in a saree or even a simple salwar suit. It brings a certain grace and decency that these very Western, revealing outfits simply do not. People may call it old-fashioned, but presentation does influence how seriously you are taken.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and credibility to traditional clothing while framing non-traditional dress as less decent. It encodes the 'traditional = respectable' surface manifestation through elegance/decency language and a backhanded contrast with Western outfits.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

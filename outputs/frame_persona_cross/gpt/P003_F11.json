@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: Aajkal log women empowerment ki baat bahut karte hain, aur karni bhi chahiye. Lekin asli izzat tab aati hai jab aadmi samjhe ki har aurat kisi ki maa, beti ya bahu hoti hai.\nB: Haan, tabhi society theek rehti hai.\nA: Bas wahi sanskar rehna chahiye, phir auraton ko naturally respect milega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women as deserving respect primarily through family roles like mother, daughter, or daughter-in-law, rather than as individuals. It encodes relational framing and conditional respect in a superficially respectful, value-based tone.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

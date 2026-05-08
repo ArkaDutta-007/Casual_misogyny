@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Sunita: Aajkal ke ladke bhi har baat mein maa-behen wali gaali jod dete hain, jaise bina uske baat hi poori nahi hoti. Aur koi ladka zara dare ya ro de toh turant usko aurat bolke chidhate hain. Phir kehte hain bas bolne ka tareeka hai, itna kya sochna.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker normalizes and repeats female-degrading abuse as ordinary speech and highlights feminizing a man as an insult. The misogyny is covert because it is framed as a casual observation about common language rather than explicit hatred of women.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

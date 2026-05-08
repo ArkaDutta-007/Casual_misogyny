@@ -1,0 +1,10 @@
+{
+  "persona_id": "P230",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Ramesh: \"Suno, Priti. Kal Priya ke phone pe dekha maine... WhatsApp pe. Teen-teen ladko ke naam the uski notifications mein.\"\nWife: \"Kya hua ji? Kis bare mein?\"\nRamesh: \"Arre, ek hi ladke ka naam toh char baar chamka ek ghante mein! Yeh kya college mein padhai chal rahi hai ya timepass? Humari beti hai, aise har kisi se baat karegi toh log kya sochenge? Ek shareef ghar ki ladki aise ladko se ghumti phirti achhi nahi lagti.\"\nRamesh: \"Aise mein achhe rishte nahi aate. Kal main usse saaf-saaf bolunga, yeh sab band kare. Humari izzat ka sawaal hai.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The character expresses deep concern over his daughter having multiple male contacts, particularly one messaging frequently. He associates this with her losing respectability ('log kya sochenge'), damaging her marriage prospects ('achhe rishte nahi aate'), and implies a lack of proper conduct for a 'shareef ghar ki ladki,' framing her as 'loose' without using explicit slurs. This encodes the Character Double Standard.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gemini"
+}

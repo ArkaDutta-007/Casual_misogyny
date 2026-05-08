@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I'm a bit conflicted about this whole menstrual leave discussion. I mean, yes, women do face discomfort, but if it becomes a blanket policy, it just feels a bit unfair to the male employees, doesn't it? Plus, from a team management perspective, who absorbs that productivity hit, especially in project-based work? The company ultimately bears the cost, and it sets a precedent, you know?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment exhibits misogyny by questioning the fairness of menstrual leave for women, framing it as 'special treatment' that disadvantages male employees, and raising concerns about productivity and cost to the company. It aligns with the surface manifestations of 'questioning fairness' and 'invoking productivity/cost arguments' against accommodations for women's biological needs.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

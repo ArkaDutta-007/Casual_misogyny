@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "We must also be practical. If she is planning a family soon, she should think carefully about how she will manage, because in the end it is usually the mother who has to handle the child’s routine, school matters, all of that. Career can always be adjusted for a few years, but a child’s early upbringing cannot be compromised.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes childcare and school responsibilities as primarily the mother’s duty and frames the woman’s career as secondary. It encodes career sacrifice framing and the assumption that childrearing is the woman’s responsibility, not the father’s.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

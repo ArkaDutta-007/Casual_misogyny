@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I am not against modern thinking, but some things are part of our parampara and give marriage its dignity. A married woman looks truly settled when she carries sindoor or mangalsutra with pride; it is not oppression, it is a sign of saubhagya and respect for the relationship. Nowadays many girls call it personal choice, but then why feel shy about symbols that have always been part of our sanskriti?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that married women should visibly display marital status and frames non-compliance as cultural deficiency. It encodes tradition framing, completeness/settled-wife framing, and judgment of women who reject these markers under the language of respect and culture.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre bhai, aajkal company wale bhi balance dikhane ke liye upar bitha dete hain. Kaam theek kar leti hogi, lekin itni jaldi promotion sirf mehnat se milta hai kya? Aur jo lady bahut strong boss banti hai, phir log bolte hain bilkul mardon jaisi ho gayi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as possibly due to diversity optics rather than merit, and frames strong leadership in women as masculinization. It encodes merit-undermining and the 'thinks like a man/basically one of the guys' double bind.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

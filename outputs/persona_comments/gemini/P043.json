@@ -1,0 +1,10 @@
+{
+  "persona_id": "P043",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Didi, sunn na... Rohit ne bataya Kavya ko uski shaadi mein woh 'kanyadaan' wala part nahi karna, jahan papa usse dete hain. Kehti hai 'property transfer' jaisa lagta hai usse. Tu soch, yeh kaise ideas hain? Agar abhi se aisi soch hai, toh kal ko apne husband ki baat kaise maanegi? Ghar kaise chalayegi? Mujhe toh lagta hai Rohit ko ek baar aur soch lena chahiye, aise independent khayalon wali ladki ke saath.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The character expresses concern that the girlfriend's refusal to be 'given away' (which she interprets as 'property transfer') indicates an unwillingness to submit to her husband's authority post-marriage. This implicitly frames the woman's self-determination and refusal of symbolic transfer of ownership as a threat to traditional marital roles and masculine authority, rather than respecting her consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gemini"
+}

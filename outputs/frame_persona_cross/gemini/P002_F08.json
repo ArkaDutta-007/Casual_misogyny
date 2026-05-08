@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, suna hai Sanyog ka ghar toot gaya? Uski wife ne divorce file kar diya. Pura game uss marketing waali ladki ka hai. Pata nahi kya jadugar hai, sabko pata tha he's married and has a kid, phir bhi usko phasaya. Aisi ladkiyan sirf ghar todne hi aati hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Ankit blames the 'other woman' for a colleague's divorce, framing her as a 'jadugar' (enchantress/seducer) who trapped him despite knowing he was married. This aligns with Homewrecker Framing, specifically blaming the female party for 'breaking' a family and excusing the man.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

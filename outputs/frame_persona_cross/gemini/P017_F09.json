@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekh, Kamla ki beti ko bolna, college se seedha ghar aaya kare. Ya kisi ke saath jaaye. Ab zamaana aisa hai, apna dhyaan khud rakhna padta hai ladkiyon ko. Hum toh bas samjha sakte hain, baaki unki apni zimmedari hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a supervisor in Ludhiana, shifts the entire burden of safety onto women ('apna dhyaan khud rakhna padta hai ladkiyon ko'). It frames restrictions ('seedha ghar aaya kare', 'kisi ke saath jaaye') as practical advice, citing a 'bad time' ('zamaana aisa hai') rather than addressing male predatory behaviour. This clearly encodes the 'Women's Safety as Her Own Responsibility' frame.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gemini"
+}

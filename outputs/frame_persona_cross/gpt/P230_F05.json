@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi seedha rishta nahin, aadmi ke liye risk ho gaya hai. Kal tak dahej bolte the, ab divorce ke baad alimony ke naam par reverse dowry chal raha hai, upar se 498A ka darr alag. Ladkon ko pehle se sab likhit rakhna chahiye, nahin to baad mein mehnat ki kamai par kisi aur ka haq ban jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financial threats in marriage and divorce, casting men as the primary victims. It encodes the 'reverse dowry/alimony' and '498A misuse/one-sided laws' manifestations in a concern-for-men's-rights style.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

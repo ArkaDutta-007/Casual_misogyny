@@ -1,0 +1,12 @@
+{
+  "persona_id": "P148",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly yaar, I never get this much makeup scene. Natural rehne do na, otherwise real life mein totally different lagti hai and then what’s even the point 😅",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it judges women’s appearance through a male-centered standard while framing makeup as deceptive. It encodes the 'natural over artificial' and 'catfishing/deception' surface manifestations in a casual, socially acceptable tone.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rohit. Age 24. Single. A medical student in Pune. You are in a WhatsApp group with seven male college friends. Someone has shared a photo of a female classmate at a college event. She is dark skinned and wearing a bright yellow outfit. The comments in the group have already started. You are adding your comment. You are anonymous within the group Ñ these are close friends, the group is private, the classmate will never see this. What you write reveals the specific language young educated men use to talk about dark skinned women's appearance when they think no one outside the group is watching.",
+  "source_model": "gpt"
+}

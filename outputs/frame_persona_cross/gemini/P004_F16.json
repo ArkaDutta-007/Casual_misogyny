@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre, challenge kya? We've just naturally divided things up. She's fantastic with the kids' routines, kitchen, all the day-to-day household stuff. I handle the finances, bigger decisions, and anything outside. Jo jahan better hai, that's what we do. It's practical, ya know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh describes a traditional gendered division of labor within his dual-income household, presenting it as a practical and efficient arrangement based on natural aptitudes ('jo jahan better hai'). This frames the wife's primary responsibility for domestic and childcare tasks, and the husband's for external/financial matters, as a rational choice rather than a gendered expectation, characteristic of the 'Gendered Division of Chores via 'Practicality'' frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

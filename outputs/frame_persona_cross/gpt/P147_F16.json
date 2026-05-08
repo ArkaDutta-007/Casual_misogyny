@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, har ghar mein thoda role alag hota hai, isme bura kya hai? Mard log bahar ke kaam aur paison ka dekh lete hain, aur aurat ghar aur bachche sambhal le toh zyada practical rehta hai. Agar pati kabhi chai bana de ya baby sambhal le toh bahut acchi baat hai, par roz ka ghar toh aurat hi theek se chala pati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply 'practical' and assigns domestic work primarily to women while treating a man's occasional help as exceptional. It encodes efficiency framing, naturalization of roles, and praise for minimal male contribution.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

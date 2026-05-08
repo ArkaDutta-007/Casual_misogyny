@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, half these affair stories are exactly like serials yaar. If she knows the guy is married and still keeps entertaining him, then she's the one breaking the family — aadmi kabhi kabhi weak ho jata hai, but the other woman knows exactly what she's doing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man's behavior as weakness while assigning primary blame to the woman for the affair. It encodes blame asymmetry and 'homewrecker' framing, especially through the idea that she knowingly 'breaks the family.'",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

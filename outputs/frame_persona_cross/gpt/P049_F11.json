@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aaj kal log women empowerment ki baat karte hain, aur bilkul karni chahiye, but asli respect tab dikhai deti hai jab hum har aurat ko kisi ki maa, beti ya bahu samajhkar dekhen. Society tabhi civil banti hai jab ghar ki stree ko sirf individual nahi, parivaar ki maryada aur agli peedhi ki sanskaar dene wali ke roop mein samman diya jaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s value and respect primarily through family roles like mother, daughter, and daughter-in-law rather than as autonomous individuals. It encodes relational framing and conditional respect tied to kinship and family honor.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

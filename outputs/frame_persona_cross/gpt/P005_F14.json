@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar hostel food kha ke samajh aata hai maa ke haath ke khane ki value kya hoti hai. Meri maa ne kabhi count hi nahi kiya kitni baar subah se raat tak sabke liye banaaya, bas pyaar se karti rahi. Sach bolu toh wife bhi aisi ho jo ghar ko usi tarah sambhale, tabhi family mein woh warmth aati hai ❤️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as love rather than work, and then sets that as the standard a wife should meet. It encodes both 'maa ke haath ka khana' nostalgia and implicit expectation of wives to reproduce maternal self-sacrifice.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Arre yaar, personal choice alag hai, but honestly shaadi ke baad thoda sindoor ya mangalsutra ho toh woman looks more settled only. It’s not about control, it’s just our tradition and achha lagta hai, otherwise aajkal people don’t even look married.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as the natural and desirable way for a married woman to appear, subtly judging women who do not wear them. It encodes completeness/tradition framing and disapproval of non-wearing while masking the pressure as culture and personal preference.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, yeh Insta pe filters aur makeup mein toh sab queen lagti hain. Real life mein milo toh kabhi kabhi lagta hai 'Are ye kaun?' lol.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the 'catfishing' discourse from the Makeup Paradox frame. It subtly implies that women use filters and makeup to create a deceptive appearance, leading to surprise or disappointment when seen 'in real life', thereby critiquing 'unnatural' efforts.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

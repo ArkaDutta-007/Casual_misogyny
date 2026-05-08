@@ -1,0 +1,12 @@
+{
+  "persona_id": "P167",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: These boys in the staff WhatsApp group use those mother-sister type words for every little thing.\nB: Arrey, they don't mean it literally. Nowadays it's just a habit, just expression when they are angry. We also should not overanalyse every word like this.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-body/chastity-rooted abuse by dismissing it as 'just expression' and 'not literal.' It encodes the surface manifestation of defending common gaali use without recognizing its misogynistic structure.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "gpt"
+}

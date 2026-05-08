@@ -1,0 +1,10 @@
+{
+  "persona_id": "P028",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Bro, today was unreal. She shot down my roadmap in front of everyone without even letting me explain, and honestly this is exactly the problem yaar — half these women leaders are so busy proving they’re tough that they stop using basic sense. Feels like she wanted to make a point, not take the best call for the product.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes from one female manager to 'these women leaders' and questions women’s leadership competence as a group. The surface manifestation is a stereotype that women in leadership are performative and less rational or capable decision-makers.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

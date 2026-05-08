@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in our house we’ve just settled into what is practical. My husband is better with finances, driving, and all the outside running around, and I naturally manage the kitchen, house help, and our child’s schedule even with my job. He does help sometimes on weekends, which is very sweet, but day to day this division just works better for us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply 'practical' and treats the husband’s minimal contribution as exceptional help rather than shared responsibility. It encodes the 'he handles finances, she handles home' pattern and the 'modern husband' low-bar celebration.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gpt"
+}

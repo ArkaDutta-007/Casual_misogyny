@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Spoken conversation: A: Bro, people need to relax about gaalis a bit. Half the time it's just filler, not like anyone is literally talking about somebody's mother or sister. B: Exactly yaar, in college, gaming, everywhere we all say it — suddenly acting offended feels performative. A: And when a guy starts whining about words, mard ban yaar, don't make it such a big issue.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-body/chastity-rooted abusive language as harmless expression and dismisses concerns with 'it's just a word.' It also encodes feminizing/masculinity policing through 'mard ban' as a way to shame emotional objection.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

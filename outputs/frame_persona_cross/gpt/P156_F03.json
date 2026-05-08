@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Anita: Arre, aaj kal sab bolte hain husband-wife will manage together, but when the child is sick or school se phone aata hai, maa ko hi sab chhod ke dekhna padta hai.\nSister: Haan, fathers help kar dete hain, but bachchon ki zimmedari toh aakhir maa par hi aati hai.\nAnita: Bas wahi, career apni jagah hai, but bachche ko maa ka time aur dhyaan chahiye, woh kisi job se replace thodi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes childcare as the mother's responsibility and frames fathers as merely 'helping.' It encodes the surface manifestations of assuming mothers must handle sick days/school issues and suggesting a woman's career is secondary to childrearing.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

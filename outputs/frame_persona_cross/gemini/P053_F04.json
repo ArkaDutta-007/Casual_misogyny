@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, Tanya got promoted to team lead. Congrats to her, I guess. But honestly, I thought Aakash deserved it more. Tanya is, like, she's good at executing plans given to her, but for leadership? Pata nahi kaise bana dete hain. She just knows how to play the game, I guess.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment from Arjun questions the merit of a female colleague's promotion by suggesting a male colleague was more deserving and implying she achieved the role through 'playing the game' rather than genuine leadership competence. This encodes the 'speculating about how a woman got a prestigious role — implying it wasn't merit' surface manifestation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

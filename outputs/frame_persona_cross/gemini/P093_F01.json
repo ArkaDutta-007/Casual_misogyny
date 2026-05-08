@@ -1,0 +1,12 @@
+{
+  "persona_id": "P093",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I saw that article about period leave again. I mean, I understand some women have genuine difficulties. But seriously, if companies start giving 2-3 days off every month, won't it directly impact project timelines and overall productivity? And phir, what about fairness for the guys? We also face stress, burnout, but aise toh it's like we're always at a disadvantage when it comes to leave policies.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness and economic viability of menstrual leave, framing it as 'special treatment' that disadvantages men and negatively impacts productivity. It uses the 'what about men?' linguistic cue and economic arguments, reflecting the core belief that women's biological needs are a workplace liability.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Vikram. Age 35. Married for three years. A man in Mumbai. You are having a serious conversation with your wife Neha at home. You have noticed that Neha wears makeup every day to office but when she is at home with you on weekends she does not put in the same effort. You are telling Neha how this makes you feel and what you think it means about who she is making the effort for and what a wife should look like for her husband at home versus in public.",
+  "source_model": "gemini"
+}

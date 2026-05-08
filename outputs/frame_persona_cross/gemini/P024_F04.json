@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "You know, the consultant suggested a lady CEO. I'm open-minded, sure. But practically, how many can truly lead a 200 crore business? Either they become too aggressive, and then who will respect them? Or they're 'too soft', and decisions won't be taken. It's a tough balance for them. Most end up losing their touch, don't look after themselves... it's just not the same as a man running the show, eh?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the double bind for women in leadership ('too aggressive' vs. 'too soft'), subtly implies appearance policing ('don't look after themselves' as a consequence of leadership), and suggests that women's presence in leadership is anomalous or inherently problematic ('not the same as a man running the show'). It is framed as practical observation.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gemini"
+}

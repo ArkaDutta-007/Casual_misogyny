@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Suresh, suna hai kya, Prem ki biwi ne ghar chhod diya? Wo naye waale maastar ki ladki ne Prem ko phasa liya. Pata tha na usko ki Prem shaadi-shuda hai, bachche hain uske? Phir bhi kyon ghar todne chali?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment directly blames the 'other woman' (the 'naye waale maastar ki ladki') for an affair, using the Hindi phrase 'phasana' (to trap/lure) and the rhetorical question 'kyon ghar todne chali?' (why did she go about breaking a home?). It implies she knew the man was married ('Pata tha na usko ki Prem shaadi-shuda hai') and makes her solely responsible for the family breakdown, excusing the man's role. This aligns with the 'Blaming the female party in an affair for 'breaking' a family' and 'Seduction framing' surface manifestations.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gemini"
+}

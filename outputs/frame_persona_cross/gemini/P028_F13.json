@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, that manager… she just rejected my whole roadmap! And I swear, she's always so decked up, like full makeup. Does she even focus on the product or just on her look? I mean, I personally prefer natural women, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Nikhil vents about his female manager, using her 'full makeup' as a proxy to question her competence and focus, implying superficiality. His comment 'I personally prefer natural women' subtly critiques her appearance while presenting it as a personal preference, encoding the 'too much makeup' aspect of the paradox.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Behen, you know how much Divya has achieved with her career, na? But honestly, when I see how wonderfully she manages her home and her kids, that's where her real strength and respect comes from. It's not just about what she does at work, it's about being a pillar for her family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly praises a woman's career success but then redirects the source of 'real strength and respect' to her role as a mother and homemaker, thereby defining her worth primarily through her service to male kin structures (her family) and motherhood, rather than her individual achievements. This aligns with F11's core belief that a woman's individual identity is secondary to her relational identity.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gemini"
+}

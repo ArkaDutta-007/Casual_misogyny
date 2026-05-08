@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, I always tell my sister, don't take risks unnecessarily after dark. Especially in areas which are a bit isolated. Aajkal ka zamaana is messed up, bhai. Better safe than sorry.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly places the onus of safety on women by advising caution and restriction ('don't take risks unnecessarily after dark', 'isolated areas') rather than addressing male predatory behavior. It uses the 'zamaana kharab hai' trope and protective framing ('better safe than sorry') to mask the underlying belief that women are responsible for managing their safety through their behavior, fitting the 'Women's Safety as Her Own Responsibility' frame.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

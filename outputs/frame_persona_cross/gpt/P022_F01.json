@@ -1,0 +1,12 @@
+{
+  "persona_id": "P022",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Sanjay: I’m all for being supportive, but yaar, aise policies need balance also. If we start giving separate period leave and then long maternity breaks, team planning and project allocation become a real issue — company has to absorb that cost, and men don’t get any equivalent flexibility. \nB: Haan, fairness angle toh management rarely discusses.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity as a workplace liability and treats accommodations as unfair special treatment. It encodes the fairness/economic-cost framing and reverse discrimination angle common in menstrual and maternity leave bias.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sanjay. Age 44. A regional director at a large FMCG company in Delhi. You are on a phone call with your counterpart in another region after the company announced that a woman has been appointed as the new national sales head. You are sharing your honest reaction to the appointment and what you think it means for the company's direction.",
+  "source_model": "gpt"
+}

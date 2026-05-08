@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar, what are you talking about? All that 'your mother's' or 'your sister's' stuff... it's just words, expressions! Does anyone actually mean disrespect to their own mother or sister? Come on. It's just a way to express frustration or tell someone off when they're acting *spineless*. Don't be so *soft*, man, taking every common phrase so seriously. What next, we can't even tell a guy to 'man up'?",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "Suresh defends the use of common gaalis by claiming they are 'just words' and not genuinely disrespectful ('it's just a word' defense). He uses feminizing language ('spineless', 'soft') as an insult for sensitivity, reinforcing gendered ideas of strength and weakness, and directly mentions 'man up' as an example of acceptable gender-coded language.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gemini"
+}

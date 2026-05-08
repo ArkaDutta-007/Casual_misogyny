@@ -1,0 +1,10 @@
+{
+  "persona_id": "P142",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Yaar, ek profile aayi hai abhi... Priya naam hai. Bhai, profile dekh ke toh lag raha hai total wife material – interests bhi same, career bhi accha, vibe bhi solid. Bas ek hi cheez hai... uski skin tone thodi dark hai. Matlab, she's good, par pata nahi yaar, I've always just preferred someone a bit more fair ya wheatish. Abhi tak kabhi socha nahi tha itna seriously, but seeing her profile, it's just making me pause, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul expresses a clear preference for lighter skin tones ('fair ya wheatish') over darker ones, framed as a personal aesthetic choice ('always just preferred'). This perpetuates colorism, a form of misogyny that devalues women based on their skin color, making it a covert misogynistic statement. He is unaware of the discriminatory nature of his preference.",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro our manager snapped at everyone in the meeting for no reason, full PMS vibe 😅 Better not bring any serious issue to her today. Relax, I'm joking yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it attributes a woman's anger and professional behavior to PMS/hormones, undermining her legitimacy. It uses casual humor and the 'I'm joking' defense to dismiss the stereotype as harmless banter.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gpt"
+}

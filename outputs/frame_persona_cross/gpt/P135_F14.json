@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "WhatsApp status: No hotel food, no fancy recipe can ever match a mother’s hand in the kitchen. She may be tired, she may have a hundred responsibilities, but still she makes everyone’s favourite dish with love and never counts it as a burden. Honestly, that warmth is what holds a home together, and any girl who comes into the family should understand that this is not small work, this is real care.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women’s domestic labor as their natural expression of love and identity, while erasing it as unpaid work. It also sets an implicit standard for daughters-in-law or wives to reproduce the mother’s self-sacrificing cooking and caregiving.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

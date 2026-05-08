@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Nowadays everyone talks about women empowerment, which is good, but real respect comes when a woman holds a family together as a wife and mother. A society learns its values first from its mothers, so we must honour women most in those roles.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sounds respectful but defines women primarily through relational and caregiving roles rather than as individuals. It encodes motherhood-as-respectability and conditional respect based on being a wife and mother.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

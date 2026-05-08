@@ -1,0 +1,10 @@
+{
+  "persona_id": "P175",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Salesman: 'Sir, the 1.5L diesel gives you roughly 22 kmpl on highway, and the torque is really suited for your highway use case.' Deepak: 'Haan haan, that's the main thing. [to wife, briefly, without pausing] Sunita, you wanted the sunroof na? [back to salesman, not waiting for her answer] So the top variant — bata do kitna discount milega on-road Delhi.'",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak's behaviour is misogynistic through performative inclusion — he nominally references Sunita's preference (sunroof) as a trivial aesthetic detail while immediately redirecting to the 'real' transactional decision (price, variant), signalling that her input is decorative rather than substantive. He does not challenge the salesman's exclusion of her and actively mirrors that exclusion, encoding the frame that women's opinions in technical-financial decisions do not require genuine engagement.",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "claude"
+}

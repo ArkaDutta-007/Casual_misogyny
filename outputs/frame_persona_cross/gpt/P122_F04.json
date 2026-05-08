@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "These days in big companies, promotion is not always about pure merit, beta. Many times a woman goes up fast because management wants diversity numbers, and if she survives there people start saying she thinks like a man, which itself tells you leadership is not natural for most women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as driven by diversity quotas rather than merit and frames leadership as unnatural for women. It also uses the masculinization trope ('thinks like a man') as a backhanded compliment.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

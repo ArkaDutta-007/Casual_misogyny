@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, yeh aajkal ki ladkiyan na, itna poot-pot ke aati hain. Lagta hai asli chehra dikhane mein sharam aati hai. Bina makeup ke zyada achhi lagti hain, natural beauty toh aur hi baat hai!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment implies women use makeup to hide their true appearance, suggesting deceptiveness ('asli chehra dikhane mein sharam aati hai'). It explicitly states a preference for 'natural beauty' and criticizes visible effort, encoding the 'too much makeup' manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gemini"
+}

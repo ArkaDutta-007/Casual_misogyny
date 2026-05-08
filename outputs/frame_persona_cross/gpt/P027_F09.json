@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Look, I tell young women this with a lot of concern: the world is not ideal, and until it changes, you have to be practical. Avoid travelling alone late at night, be mindful of what kind of places you are going to, and always make sure someone knows where you are. It is unfortunate, but apna khayal toh humein khud hi rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and normalizes the lack of accountability for male violence. It encodes protective framing and restriction advice disguised as practical concern.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, ghar ka khana tabhi ghar jaisa lagta hai jab kisi aurat ka pyaar usme ho, warna bas pet bharna hota hai. Meri maa ne itne saal bina complain kiye sab sambhala, honestly wife bhi waise hi thoda dil se ghar aur khane ko leke chale toh family ka asli sukh wahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women's love as domestic labor and treats cooking as a natural duty rather than work. It also sets the mother as the standard and implicitly expects a wife to provide the same self-sacrificing service.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

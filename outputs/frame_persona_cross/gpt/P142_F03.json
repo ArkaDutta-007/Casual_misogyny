@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Rahul: Bro, she's saying she wants to go all out in her career even after kids. Matlab ambition theek hai, but then who will actually raise the children yaar?\nFriend: Arre both can manage no?\nRahul: Haan, but let's be real, in the end maa ko hi zyada dekhna padta hai. Dad helps, but bachche ko mainly mother hi sambhalti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother's responsibility and frames the father's role as merely 'helping.' It encodes the surface manifestation of questioning a woman's career ambition with 'who will raise the children?' while treating maternal sacrifice as the default.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

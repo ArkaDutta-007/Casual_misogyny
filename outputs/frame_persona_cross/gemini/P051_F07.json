@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Dekho, main toh kehta hoon, hamari Bharatiya naariyon par salwar-kameez ya saree jitni shobha deti hai, utni aur koi dress nahi deti. Isi mein toh maryada aur sanskriti dikhti hai. Aur jab aise decent kapde pehente hain, toh koi galat nazar se dekhne ki himmat bhi nahi karta, samaj mein bhi izzat bani rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment, from a school principal, links traditional dress (salwar-kameez, saree) to grace, cultural values ('sanskriti'), and respectability ('maryada'). It subtly implies that 'decent' (traditional) clothing prevents harassment ('galat nazar') and maintains social standing, thereby blaming other forms of dress for potential negative attention and diminished respect. This is a covert manifestation of linking clothing to character and attributing harassment to what a woman is wearing.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gemini"
+}

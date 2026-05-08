@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Vikram: Neha, at least for family functions wear a saree or proper salwar, yaar. You look much more decent and graceful in Indian clothes, and people also take a better impression. These overly modern outfits just attract the wrong kind of attention unnecessarily.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency and social worth, while subtly blaming harassment on 'modern' outfits. It encodes the traditional-dress-as-respectable framing and the harassment-blame surface manifestation.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gpt"
+}

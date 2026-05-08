@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, after hearing all these news reports, I just tell my female friends to be super careful. Yaar, the world isn't safe for women, especially at night. It's not fair, I know, but better to be safe than sorry. Avoid going to certain areas alone, and always share your location. Just being practical, you know? Apna khayal rakho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul, a 31-year-old analyst, gives 'practical advice' that places the onus of safety entirely on women, framing it as their personal responsibility. This aligns with surface manifestations of advising women not to be out late/alone and the 'zamaana kharab hai' justification, while masking it as care and concern.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

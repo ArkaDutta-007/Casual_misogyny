@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Rahul: Arre yaar, people are overthinking this now. In our group everyone uses those mother-sister type gaalis casually, it is just expression, not like we literally mean anything about women.\nFriend: Haan, exactly.\nRahul: Same with saying don’t act like a girl or man up in the moment — it is just how guys talk, not some big social issue.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse and explicitly defends gendered gaalis as harmless expression. It also uses feminizing-as-insult logic ('don’t act like a girl', 'man up'), matching the frame’s surface manifestations.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P125",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Arre beta, job karna achhi baat hai, but ghar bhi toh sambhalna padta hai na. Aadmi bahar ka tension dekhe aur aurat ghar ka rhythm samjhe, tabhi balance rehta hai; chhote bachche ke time full-time kaam se ghar hil hi jaata hai. Practical solution yahi hai ki ya toh thoda flexible kaam le, ya phir apni priorities set kare, kyunki ghar sambhalna naturally aurat hi better karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes domestic labor as a woman's responsibility and frames men as responsible for external work. It encodes a gendered division of chores via 'practicality,' presenting unequal expectations as common sense rather than explicit hostility.",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

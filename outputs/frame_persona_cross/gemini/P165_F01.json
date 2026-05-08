@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, yeh jo naya period leave ka discussion chal raha hai, mujhe thoda samajh nahi aata. Matlab, ek taraf toh hum equality ki baat karte hain, aur fir aise special leaves... Company pe toh impact aayega hi, right? Agar women ko har mahine ek din off milega, toh project deadlines pe kya hoga? Aur fir hum guys ko kaunsi extra leave milti hai jab stress hota hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a 35-year-old married man in Delhi, questions the fairness and practical implications of menstrual leave. It frames the policy as 'special treatment' that creates a 'burden' on the company and affects productivity, while implicitly asking 'what about men?' in a 'concern for fairness' tone, aligning with Workplace: Menstrual & Maternity Leave Bias.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Ngl yaar, policy thoda unfair lagta hai. Men ke liye toh koi equivalent leave nahi, but team ko same deadlines hit karne hote hain and company hi cost bear karti hai. Aise toh appraisal time pe phir equal comparison kaise hoga?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual accommodations as unfair 'special treatment' and a business burden, while positioning women as workplace liabilities. It encodes the fairness/reverse discrimination and productivity/cost surface manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

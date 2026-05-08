@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Kaam theek kar leti hai, but itni jaldi posting aise hi thodi milti hai.\nB: Kya matlab?\nA: Arre bhai, aajkal quota aur upar tak setting ho toh promotion fast ho jata hai. Waise kaam karne mein bilkul mardon jaisi hai, tabhi seniors ko pasand aati hogi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's advancement by implying she got ahead through quota or connections rather than merit. It also uses masculinization as a backhanded compliment ('bilkul mardon jaisi'), reflecting the leadership-competence double bind.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

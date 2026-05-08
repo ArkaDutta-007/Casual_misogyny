@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bhai, sunn, shaadi se pehle thoda research kar lena. Aajkal ke divorce laws dekh raha hai na? Har dusri news mein aata hai ki kaise IPC 498A ka misuse ho raha hai, ladkiyan bas financial stability ke liye marriage ko use karti hain aur phir hefty alimony. Mardon ke liye toh trap ban gaya hai, seriously.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment, from a 35-year-old married man in Delhi to a friend, reflects the belief that modern women exploit marriage and divorce laws (specifically IPC 498A) for financial gain, framing men as victims of a biased system. It implies women marry for 'financial stability' and demand 'hefty alimony', aligning with the 'women as golddiggers' and 'reverse dowry' surface manifestations.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gemini"
+}

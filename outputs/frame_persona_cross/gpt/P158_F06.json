@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I told him very clearly I wasn't interested, and he kept insisting it was just coffee. The conversation ended only when another colleague mentioned my husband, and suddenly he became perfectly respectful. It's remarkable how often a woman's answer counts less than the idea that she already 'belongs' to a man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic by depicting and normalizing a pattern where a woman's direct refusal is ignored until male attachment is invoked. It encodes the surface manifestation of backing off only after learning she is 'taken,' valuing another man's claim over her own consent.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gpt"
+}

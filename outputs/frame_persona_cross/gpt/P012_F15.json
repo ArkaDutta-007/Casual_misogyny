@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation: \"Dekhiye, main zabardasti ke paksh mein nahin hoon, lekin shaadi ke baad thoda sindoor ya mangalsutra pehenne se aurat suhagan aur zyada settled lagti hai. Hamari parampara mein ye sirf gehna nahin, ghar-grihasthi aur pati ke mangal ka prateek hai. Aajkal ki ladkiyan isko bas fashion ya choice bolkar taal deti hain, par kuch cheezein pehchaan bhi hoti hain.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as natural identity and auspicious duty rather than control. It encodes tradition framing, completeness/settled-woman framing, and subtle judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

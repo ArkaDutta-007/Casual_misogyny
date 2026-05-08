@@ -1,0 +1,12 @@
+{
+  "persona_id": "P167",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A woman carries an entire family on her shoulders, first as a daughter, then as a wife, and finally as a mother. That is why women deserve the highest respect in society — not because they are trying to compete with men, but because they nurture homes and shape the next generation.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and respect primarily through relational roles within family structures rather than as individuals. It encodes motherhood and male-linked family identity as the basis of female value, which matches the frame's conditional, relational respect.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "gpt"
+}

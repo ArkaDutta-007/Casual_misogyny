@@ -1,0 +1,12 @@
+{
+  "persona_id": "P046",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Arre beta, office mein kaam ka hisaab sabke liye ek jaisa hona chahiye. Aurat logon ko alag se period leave, phir bachcha hone par itni lambi chhutti mil jaaye, toh malik bhi sochega na ki naya kaam kisko de. Aadmi log bolenge hum par hi saara bojh aa gaya, isme kuch galat bhi nahin lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity-related leave as an unfair burden on employers and male coworkers. It encodes fairness/cost arguments and assumes accommodations make women less suitable for work.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Kamla. Age 56. A woman in a conservative family in Varanasi. Your granddaughter Ritu who is 23 has told the family she does not want to get married yet and wants to focus on her career for the next five years. Your son and daughter-in-law are upset. You are sitting with Ritu alone in the kitchen. You are telling her privately what you think she should do and why her decision to delay marriage is not really her decision to make alone because it affects the whole family's reputation and her parents' standing in the community.",
+  "source_model": "gpt"
+}

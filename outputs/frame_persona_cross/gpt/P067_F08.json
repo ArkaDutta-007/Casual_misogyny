@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "These women know exactly what they are doing. If she knew he was married, then why get close at all? Ghar todne wali mentality hai, and later people act like the man is the only one to blame. Bilkul serial wali baat.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for an affair and frames her as a homewrecker, while minimizing the man's responsibility. It encodes blame asymmetry, 'she knew he was married' framing, and the seductress/home-breaker trope.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

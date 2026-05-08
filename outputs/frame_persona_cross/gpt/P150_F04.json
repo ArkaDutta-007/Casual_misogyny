@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: That new regional head madam got promoted very fast, no?\nB: Haan, these days companies are also pushing ladies for top posts to show balance. Maybe she is capable, but usually for such roles you need a strong hand; if a woman reaches there, either she has become very tough like a man or there is some backing from above.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it to diversity pressure or senior backing rather than merit. It also encodes masculinization by implying a competent woman leader must be 'tough like a man.'",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gpt"
+}

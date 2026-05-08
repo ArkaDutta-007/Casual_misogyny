@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Aajkal auratein aise bolti hain jaise har aadmi kharab hi hota hai.\nB: Arre sab mard ek jaise thodi hote hain. Hum log bhi ghar ke bahar kaam karte hain, imaandari se rehte hain, phir koi road par side ho jaye ya shaq ki nazar se dekhe toh bura toh lagta hai.\nA: Haan, par unko darr rehta hai.\nB: Darr theek hai, par har aadmi ko doshi maan lena bhi theek nahi. Mardon ki bhi sunni chahiye kabhi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering men's hurt feelings and demanding fairness toward men as a group. It encodes the classic 'not all men' response and frames women's wariness in public as an insult to decent men.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

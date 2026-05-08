@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Neha, sunn, ek baat dhyan rakhna. Shaadi ki baat chal rahi hai, aur aajkal zamaana theek nahi hai bilkul. Jab bhi bahar niklo, especially if it's late, apne saath kisi ko le jaaya kar, ya group mein jaaya kar. Apna khayal rakhna bahut zaroori hai. Ladkiyon ko aur bhi careful rehna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram, as an older brother, disguises his restriction as practical advice and care, stating 'aajkal zamaana theek nahi hai' and telling his sister she must take precautions for her own safety (traveling in groups, 'apna khayal rakhna'). This places the onus of safety entirely on the woman, rather than addressing male behavior or societal issues, reflecting the 'Women's Safety as Her Own Responsibility' frame.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gemini"
+}

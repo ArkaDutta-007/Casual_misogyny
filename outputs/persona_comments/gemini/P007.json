@@ -1,0 +1,10 @@
+{
+  "persona_id": "P007",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Yaar, ye kya naya shuru ho gaya hai ab? Period leave? Matlab, har mahine ek din off? Already maternity leave hai, ab yeh... office ka kaam kaise chalega, Gaurav? Agar har ladki ne lena shuru kar diya toh? Productivity ka toh banta dhar ho jayega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ajay expresses bias against period leave by framing it as an excessive burden on office productivity and discipline, implying women will exploit it and that their biological processes are a significant hindrance to work, despite it being a government circular. This covertly devalues women's professional presence.",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gemini"
+}

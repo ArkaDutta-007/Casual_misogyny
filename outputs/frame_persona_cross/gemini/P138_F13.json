@@ -1,0 +1,12 @@
+{
+  "persona_id": "P138",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Just got back from the wedding. Seriously, some girls pile on so much makeup, I barely recognized them without it. What's the point of looking like a completely different person? Just be your natural self, yaar. #MumbaiWeddings #FilterVsReality",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a woman observing other women, reflects the 'too much makeup' critique implying deceptiveness and the preference for 'natural' over visible effort. It fits the surface manifestation of judging women for not achieving attractiveness 'naturally'.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gemini"
+}

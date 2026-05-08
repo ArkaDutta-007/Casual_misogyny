@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Met a girl through a friend and tried talking to her properly, but she kept saying she's not interested. Later when I found out she already has a boyfriend, I backed off completely out of respect. Simple baat hai, if she's taken then no point, otherwise at least hear someone out instead of showing so much attitude.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker ignores the woman's direct refusal and only accepts disengaging after learning she has a boyfriend. It encodes the surface manifestation of respecting another man's claim over the woman's own consent, framed as being reasonable and respectful.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

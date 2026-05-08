@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aajkal offices mein bhi pata nahi kya kya naya chalu ho gaya hai. Mahine ke alag leave, phir maternity leave itni lambi — company bhi kitna adjust kare? Koi young ladki ko hire karo toh pehle se sochna padta hoga na ki kal ko shaadi, baccha, leave... phir project ka kaam kaun sambhalega, aur baaki staff par hi load aayega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women employees as a workplace burden due to menstruation and potential maternity, while presenting the concern as practical fairness and workload management. It encodes productivity/cost arguments and the assumption that young women hires will soon take maternity leave.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

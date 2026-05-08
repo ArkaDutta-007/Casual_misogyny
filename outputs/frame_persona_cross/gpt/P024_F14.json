@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Beta, business aur duniya apni jagah hai, par ghar ki asli pehchaan toh maa ke haath ke khane se hi hoti hai. Hamari maaon ne poori zindagi bina shikayat parivaar ko khila diya, tab ghar ghar lagta tha. Kal ko jo bhi bahu aaye, usme woh apnapan aur ghar sambhalne ki soch honi chahiye, sirf degree se baat nahin banti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it sentimentalizes mothers' cooking and self-sacrifice as the essence of womanhood while erasing it as labor. It also sets an implicit expectation that a future daughter-in-law should prove her worth through domestic care, not just education.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

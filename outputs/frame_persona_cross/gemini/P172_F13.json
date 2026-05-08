@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre wah, photo mein toh mast lag rahi hai! Par yeh sab Instagram filters aur kitna sara makeup hai na? Real life mein toh bohot alag dikhti hogi. Humare time mein ladkiyan bina itne make-up ke bhi kitni achhi lagti thi. Natural beauty ka apna hi charm hota hai.",
+  "label": "misogynistic",
+  "covertness": "high",
+  "annotation_note": "Suresh critiques a woman's appearance by attributing her attractiveness to 'too much makeup' and filters, implying deceptiveness. He then expresses a preference for 'natural beauty' from 'our time', subtly policing female grooming and devaluing visible effort in appearance. This encodes the 'too much makeup' and 'deception' surface manifestations.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gemini"
+}

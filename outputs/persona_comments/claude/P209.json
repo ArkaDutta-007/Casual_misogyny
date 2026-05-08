@@ -1,0 +1,10 @@
+{
+  "persona_id": "P209",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Deepak: Yaar, I don't even understand what she is complaining about. This is marriage, not some... contract where she can put conditions. My Sunita also sometimes says no, but I tell her, look, this is normal husband-wife life, this is not some outside person, this is me. And she understands. I never thought of it as anything wrong — it's just... it's what marriage is, na? You don't go to police for these things. These are ghar ki baatein. But now listening to you... I don't know, bhai, I'm just sitting here thinking — did I ever actually ask her? Like, properly ask? And I don't think I did. Not even once in eight years.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak normalizes non-consensual sex within marriage by framing it as an inherent obligation of the marital relationship ('this is what marriage is'), reflecting the deeply embedded cultural belief that a wife's consent is irrelevant or already given by virtue of marriage. The covertness lies in his tone of genuine confusion rather than hostility — he does not recognise his own behavior as a rights violation, encoding the 'husband's entitlement' trope through naturalization rather than explicit assertion.",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "claude"
+}

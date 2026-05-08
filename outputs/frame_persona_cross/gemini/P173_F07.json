@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre wah! Aaj toh hamari Chhavi kitni sabhya aur sundar lag rahi hai! Dekho, aise salwar-kurte mein kitni achi lagti ho. Apni sanskriti ki pehchan hai ye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla (62, Varanasi) uses a backhanded compliment to pressure a younger female family member towards traditional dress. By praising her as 'sabhya aur sundar' (decent and beautiful) specifically in a salwar-kurta and framing it as 'sanskriti ki pehchan' (cultural identity), she subtly implies that other attire is less decent or respectable.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gemini"
+}

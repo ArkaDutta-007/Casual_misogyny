@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Arre beta, office mein bhi ab naya naya niyam bana rahe hain. Mahine ke dard ke naam par alag chhutti, phir baccha hone par itne mahine ki chhutti — company ka kaam kaun sambhalega?\nB: Haan, par zarurat hoti hogi na?\nA: Zarurat apni jagah hai, lekin aise toh malik sochenge ki ladki rakhne se baar baar kaam rukega. Phir aadmiyon ko kya milega, unke liye kaunsi alag chhutti hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity as workplace liabilities and questions accommodations as unfair special treatment. It encodes fairness/economic framing and the assumption that hiring women disrupts productivity.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P021",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Honestly, in our firm everyone knows these promotions are not always about performance. I have handled bigger accounts and tougher clients for years, but she gets fast-tracked because leadership is obsessed with optics and wants more women at the top. You say this openly and people act like you're insecure, but merit seems secondary when the company wants to show diversity numbers.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it delegitimizes a female colleague's promotion by attributing it to gender-based favoritism rather than competence or merit. It encodes the stereotype that women in leadership are promoted for diversity optics and are less deserving than male peers.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

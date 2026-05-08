@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sometimes I think our generation really doesn't understand what mothers did for us. My mom cooked fresh meals three times a day for years, never once making it feel like work, and that warmth is what truly held the family together. Honestly, no Swiggy order or rushed cooking can ever replace maa ke haath ka khana ❤️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a mother's unpaid domestic labor as her natural expression of love and family identity, while erasing it as work. It encodes the 'maa ke haath ka khana' ideal and implicitly sets a standard against contemporary women who do less home cooking.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, ladki ko saaf-suthra aur thoda presentable rehna chahiye, par aajkal ye itna makeup laga leti hain ki asli chehra hi alag lagta hai. Shaadi-byaah mein theek hai, lekin roz-roz itna sajna bhi kya, phir bina kuch lagaye nikle to log bolte hain apna dhyan hi nahi rakhti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it enforces a double bind on women: they must maintain appearance, but visible effort through makeup is criticized as excessive or deceptive. It encodes the frame's 'too much makeup' policing and the parallel criticism of women who do not groom enough.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

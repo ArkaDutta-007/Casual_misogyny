@@ -1,0 +1,10 @@
+{
+  "persona_id": "P081",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Pooja, beti, sun — aaj didi ne jo kaha, woh bas aise hi nahin kaha. Char saal ho gaye hain, aur main tujhse seedha pooch rahi hoon kyunki tu meri bahu hai, paraya nahin. Ek aurat ki izzat ghar mein tab banti hai jab woh ghar ko poora karti hai — aur ghar tab poora hota hai jab bacche ki kilakaari sunai deti hai. Meena ji puch rahi theen pichhle mahine, padosan Savitri ne bhi kuch kaha tha — log dekhte hain, baat karte hain. Rajan ka naam aage badhna chahiye, aur woh teri hi zimmedaari hai na? Main dushman nahin hoon teri, main samjha rahi hoon — jo kaam maa ne tujhe ghar dene se pehle karna tha, woh ab karna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Framed as affectionate maternal advice rather than pressure, this utterance covertly encodes the belief that a woman's social worth and family standing are contingent on producing children, and that perpetuating the patrilineal family name is her primary marital obligation — classic markers of 'motherhood as basis of respect' and women defined entirely through their male relations.",
+  "persona_text": "You are Kamla. Age 58. Married for 35 years. A woman in a joint family in Varanasi. Your daughter in law Pooja has been married to your son for four years and has no children yet. The topic has not been discussed openly in the family but everyone is thinking about it. Today at a family lunch your sister in law made a comment about how the house feels empty without children. You are now sitting alone with Pooja in the kitchen after lunch under the pretense of washing dishes. You are bringing up the subject for the first time directly. You are telling Pooja what you think a woman's most important role in a marriage is and what a house needs to feel complete and what people in the family and neighbourhood are starting to say.",
+  "source_model": "claude"
+}

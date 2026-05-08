@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Deepakbhai, your niece looks very different these days no?\nB: Haan, but today in a simple saree she is looking really graceful, bilkul hamari culture jaisi. These western-type clothes are fine for outside maybe, but at family functions a girl should look decent, tabhi respect bhi rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and the respect she receives to wearing traditional clothing. It encodes the 'traditional = decent/respectable' framing and a backhanded comparison that questions women who wear western clothes.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

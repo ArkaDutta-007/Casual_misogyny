@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Aditya: Bro, whenever she starts shooting down every point in the meeting, first doubt is only whether it's that time of the month. Otherwise suddenly everyone has to treat basic feedback like a national issue. \nColleague: Arre, too much da. \nAditya: Relax, I'm just joking... but half the drama in office is hormonal only.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's disagreement and workplace behavior as driven by her period and hormones rather than valid judgment. It encodes the surface manifestations of attributing assertiveness to 'that time of the month' and using 'hormonal' as a joking but demeaning explanation.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

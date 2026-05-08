@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "On Women's Day, I always tell my team that respect for women is not just about policies or slogans. Every woman is someone's daughter, wife, or mother, and when we remember that, our behaviour automatically becomes more dignified and responsible.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women as deserving respect primarily through their relationships to others rather than as individuals. It encodes the 'someone's daughter, wife, or mother' rhetoric and conditional respect via male/family relations.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

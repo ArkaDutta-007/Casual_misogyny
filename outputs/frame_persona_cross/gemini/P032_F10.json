@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, posts like this alimony one make me seriously rethink marriage. You try to be a decent guy, respect women, want a genuine partner, but then you see how easily things can go wrong for men. And if we even voice our legitimate concerns, we're instantly called misogynists or commitment-phobes. It's always 'not all men' when women complain, but nobody says 'not all women' will misuse laws or just marry for money when men are cautious. It feels like good guys get lumped in and have to constantly prove themselves.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment expresses the speaker's frustration at feeling unfairly blamed as a 'good guy' for the actions of others, directly applying the 'not all men' dismissal in reverse to women's motivations and legal protections. It encodes centering self and generalization policing, feeling personally insulted when men's concerns are dismissed.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gemini"
+}

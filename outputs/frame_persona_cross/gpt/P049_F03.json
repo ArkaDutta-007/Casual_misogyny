@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "देखो beta, job important hai, but once children come, priorities naturally change for a mother. Father can support as much as possible, but bachchon ki daily upbringing, school, health, values—these things ultimately the mother handles best, that is just practical life.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and upbringing as primarily the mother's responsibility while framing the father's role as optional support. It encodes the surface manifestation of expecting women, not men, to adjust career and priorities around children.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

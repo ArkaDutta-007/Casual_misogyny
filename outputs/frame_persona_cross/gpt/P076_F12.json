@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre bhai, aajkal ke chhore ko kuch bolo to turant bol dete hain gaali mat do, respect se baat karo.\nB: Haan, par ye BC-MC type bol dena to bas muh ki aadat hai, har baat mein thodi kisi ki maa-behen sochte hain.\nA: Bilkul, aur jo ladka zara si baat pe rooth jaaye usko do baat na sunao to seedha auraton jaisa nakhra dikhane lagta hai.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This normalizes female-body/chastity-rooted gaalis as harmless habit ('just words') and explicitly uses feminizing comparison as an insult. It matches the frame's surface manifestations of defending gaali use and coding femininity as weakness.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gpt"
+}

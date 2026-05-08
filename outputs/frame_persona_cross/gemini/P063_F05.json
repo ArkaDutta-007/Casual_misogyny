@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aiyyo, Sumi, I keep telling Karthik, these days boys have to be so careful with marriage. Just look at what happened to that neighbour's son, Kumar. His wife filed for divorce and is demanding half his salary and property. These women, they just see money only and then use these laws. Our boys work hard and then everything is gone. So unfair.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "Meena expresses concern for men by advising her son to be careful in marriage, citing a neighbor's case where the wife is 'demanding half his salary and property' as evidence that 'these women, they just see money only and then use these laws,' framing men as victims of legal exploitation (surface manifestation: women as golddiggers, legal system biased against men, victimhood inversion).",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gemini"
+}

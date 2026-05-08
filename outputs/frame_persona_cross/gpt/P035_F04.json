@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Aajkal office mein jo auratein itni jaldi upar chadh jaati hain na, beta, bas mehnat se hi nahi hota sab. Thoda dekhna bhi padta hai, kiski wajah se promotion mili aur ghar-grahasti samajhti hai ya sirf mardon jaisi teekhi baat karke boss bani phirti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s professional merit by implying promotions come through connections rather than competence. It also encodes the masculinization double bind by suggesting a woman leader succeeds by behaving 'like a man' and neglecting expected femininity/domesticity.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

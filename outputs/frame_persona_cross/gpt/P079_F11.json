@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Arre beta, aurat ki sabse badi pehchaan uska ghar hota hai. Maa, bahu, beti ke roop mein hi usko asli sammaan milta hai, warna aaj kal duniya mein kaun kiski sunta hai. Isliye ladki ko hamesha apne rishton ki maryada samajhkar chalna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's worth and respect through family roles like mother, daughter, and daughter-in-law rather than as an individual. It encodes relational framing and conditional respect tied to kinship and social propriety.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

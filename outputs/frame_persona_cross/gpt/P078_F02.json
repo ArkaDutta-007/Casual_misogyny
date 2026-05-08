@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro every time a woman in the office starts snapping at everyone, first thought is usually PMS hi hoga 😅 Suddenly everything becomes a crisis. Don’t take it seriously, I’m just joking yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women’s anger or assertiveness as caused by PMS rather than treating their reactions as valid. It encodes the surface manifestations of attributing behavior to periods/hormones and using humor framing ('I’m just joking') for plausible deniability.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

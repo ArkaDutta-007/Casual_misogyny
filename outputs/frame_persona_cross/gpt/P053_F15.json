@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I’m not orthodox or anything, but after marriage a little sindoor or mangalsutra does make a woman look more settled and suhagan-type, yaar. It’s not about control, it’s just part of our parampara and respect for the bond. Aajkal some girls act like even keeping the husband’s surname or wearing these symbols is oppression, which honestly feels like rejecting your own culture.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames marital markers as culture and respect rather than control, while judging women who do not wear them as deficient or culturally disloyal. It encodes completeness framing, tradition framing, and disapproval of non-wearing/name-change resistance.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

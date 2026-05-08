@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yeh aaj kal ki ladkiyan, bina makeup ke toh ghar se baahar bhi nahi niklengi. Chehre pe itna kuch laga leti hain ki asli chehra dikhta hi nahi. Samajh nahi aata kiske liye karte hain yeh sab.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the 'too much makeup' surface manifestation, implying deceptiveness ('asli chehra dikhta hi nahi') and questioning the woman's motivation, suggesting it's for external validation rather than for herself.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gemini"
+}

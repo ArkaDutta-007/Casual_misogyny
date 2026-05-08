@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Dei, enna pa? Women, they are like the engine of the house. If she keeps the family together, then everything runs smooth. A mother's heart is always for her children and husband. That's her strength, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ravi frames a woman's entire worth and strength through her role in maintaining the family unit (as a mother and wife). Her individual identity and contributions outside these relational roles are erased, aligning with the 'Motherhood as Basis of Respect / Women Defined by Male Relations' frame, specifically by describing women's worth in terms of what they mean to men and the family.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gemini"
+}

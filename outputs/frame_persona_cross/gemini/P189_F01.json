@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, ye period leave ka system toh thik hai, but honestly, it feels a bit unfair, no? Matlab, company pe toh extra burden hi padega. Aur phir humein toh koi special leave nahi milti na aise.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness of menstrual leave policies by framing it as 'special treatment' that puts an 'extra burden' on the company, implying women's biology is a workplace liability. It encodes the 'Questioning whether it is 'fair' to give menstrual leave' and 'Invoking productivity/cost arguments' surface manifestations.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

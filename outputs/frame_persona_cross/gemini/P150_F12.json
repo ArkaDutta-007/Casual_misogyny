@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Oh, come on, Raghav. What's this new 'woke' talk? These are just words, ra. Men use them when they're angry or to joke around. Nobody actually means disrespect to mothers or sisters. It's just... expression.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "Suresh, an older man, dismisses the misogynistic implications of common gaalis as mere 'words' and 'expression,' arguing that no actual disrespect is intended. This aligns with the 'defending gaali use as 'just expression, not actually about women'' surface manifestation.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre bhai, aajkal sab modern banne ke chakkar mein ladkiyan samajhti hain kapde bas fashion ke liye hote hain. Sach bolo toh saree ya simple salwar mein hi grace aur maryada dikhti hai, baaki itna flashy pehenoge toh log dekhेंगे hi. Hamari Indian culture mein decent dressing ka bhi ek matlab hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character, respectability, and how others treat her. It encodes the traditional-dress-as-decent framing and subtly blames harassment or scrutiny on 'flashy' clothing.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gpt"
+}

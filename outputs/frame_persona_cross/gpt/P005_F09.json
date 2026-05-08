@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Girls, please don't take this otherwise, but Nagpur mein bhi ab zamaana theek nahi hai. Internship ya classes ke liye late rukna ho toh group mein niklo, proper kapde pehno, and avoid going alone after dark—hum logon ko thoda extra careful rehna padta hai, boys toh change hone se rahe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as women’s responsibility through behavior, dress, and moving in groups, while treating male behavior as inevitable. It encodes protective/practical advice and inevitability framing rather than addressing harassment by men.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

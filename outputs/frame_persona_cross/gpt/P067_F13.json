@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I never understand why so many women pile on so much makeup and then call it confidence. Natural beauty is always better, but at the same time if someone stops taking care of herself completely, that also shows. These filter and makeup looks are just misleading people for attention.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women under a double bind: they must look attractive 'naturally' while being criticized both for visible makeup and for not maintaining appearance. It encodes the makeup-as-deception frame and assumes grooming is primarily about gaining attention.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

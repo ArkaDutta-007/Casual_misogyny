@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Deepa: Beta, modern dikhna alag baat hai, par ladki salwar-suit ya saree mein zyada decent lagti hai. Aise chhote kapde pehenoge toh log galat nazar se dekhenge hi, phir baad mein bura lagta hai. Hamari culture mein thoda sabhya rehna hi achha hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency and partially blames harassment on what she wears. It encodes the traditional-dress-as-respectable frame and the subtle harassment-blame link.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

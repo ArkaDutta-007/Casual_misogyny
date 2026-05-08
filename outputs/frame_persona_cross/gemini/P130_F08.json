@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, suna kya hua Rohan bhaiyya ke saath? Divorce ho gaya uska. Poora ghar tod diya us Pooja ne. I mean, usko pata tha na he's married? Kahaan se aate hain aise log?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Arjun blames the 'other woman' (Pooja) entirely for breaking a family, using the phrase 'poora ghar tod diya' (broke his whole home) and questioning her motives by stating 'usko pata tha na he's married?' (she knew he was married, right?), while entirely excusing the man's (Rohan bhaiyya) role in the affair. This perfectly encapsulates homewrecker framing and blame asymmetry.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gemini"
+}

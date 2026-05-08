@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "I do understand the intent behind period leave and extended maternity benefits, but organizations also have to think about fairness and continuity. If one team member is frequently unavailable, the workload inevitably shifts to others, and that does affect appraisals, project allocation, and team morale. We have to be careful that support policies do not become a disadvantage for the business or for male colleagues who are expected to simply absorb the gap.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's menstruation and maternity-related leave as an unfair burden on teams and male colleagues. It encodes fairness and productivity/cost arguments against accommodations, implying women are workplace liabilities due to biology and caregiving.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

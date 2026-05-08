@@ -1,0 +1,10 @@
+{
+  "persona_id": "P084",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Ya Allah! Kya bolti hai Sana? Teen saal aur? Aise kya career banana hai jo biwi aur maa banne se bhi zyada zaroori ho gaya? Aur uska shauhar bhi kuch nahi bolta? Miyan-biwi ka rishta bas ek doosre ke saath rehne ke liye nahi hota, aulad paida karna bhi to shadi ka maqsad hai. Agar woh abhi maa nahi banegi, toh log kya sochenge? Ek aurat ki izzat aur khushi toh uska ghar aur uske bachche hi hote hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic as it defines a woman's primary purpose and source of respect by her role as a mother and her connection to male relations (husband's guidance). It dismisses her career aspirations by stating motherhood is more important, and implies her husband is failing to 'guide' her properly, thereby framing her identity and worth through her marital and maternal status rather than her individual agency. It encodes the surface manifestations of 'Motherhood as Basis of Respect' and 'Women Defined by Male Relations'.",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gemini"
+}

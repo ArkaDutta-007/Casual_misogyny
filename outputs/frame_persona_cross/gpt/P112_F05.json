@@ -1,0 +1,12 @@
+{
+  "persona_id": "P112",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar honestly, aajkal shaadi se pehle prenup normal hona chahiye. So many cases you see, divorce ke baad banda hi bas pay karta rehta hai, and 498A ka misuse bhi itna hota hai. I'm not saying all women are like that, but men also need some protection now.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as potential financial exploiters and presents marriage laws as mainly tools used against men. It encodes the 'prenup as protection from women' and '498A misuse/one-sided laws' manifestations in a concern-for-men's-rights style.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rohit. Age 31. Married for one year. A man in Mumbai. Your wife Neha told you last night that she wants to stop wearing her mangalsutra to work because it gets in the way and she finds it uncomfortable during long hours at her desk. She is not saying she wants to remove it permanently Ñ just not wear it to office. You said you would think about it. You are now on a phone call with your mother telling her what Neha said and asking your mother what she thinks. You are not asking for permission Ñ you are asking for support for the discomfort you felt when Neha said it and you cannot fully explain why it bothered you as much as it did.",
+  "source_model": "gpt"
+}

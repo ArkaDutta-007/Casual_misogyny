@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in our house we've just settled into what is practical. My husband handles investments, bills and anything outside the home, and I manage meals, our son's routine and the day-to-day running of the house. He does help when needed, of course, but I think not every arrangement has to look identical to be equal.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as simply 'practical' and frames the man as handling finances/external tasks while the woman carries domestic and childcare management. It also uses the 'he helps' framing, which treats household work as her responsibility rather than shared co-management.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gpt"
+}

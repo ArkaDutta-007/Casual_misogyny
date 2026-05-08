@@ -1,0 +1,12 @@
+{
+  "persona_id": "P217",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre bhai, aaj kal ladkiyan seedha no bol deti hain, lekin pehle yeh toh pata hona chahiye na ki kisi ke saath hai kya. Agar uska koi hai, then we should step back and respect that; warna aise hi attitude dikhana theek nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's refusal as less valid than her attachment to another man. It encodes the frame by saying pursuit should stop only if she is 'with someone,' while dismissing her independent 'no' as mere attitude.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gpt"
+}

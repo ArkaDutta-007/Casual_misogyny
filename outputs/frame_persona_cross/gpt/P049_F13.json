@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I have always felt girls look much better when they keep things natural. A little grooming is fine, but these days so much makeup and filters make it difficult to even know what someone actually looks like, and then if they stop making the effort people say they have let themselves go. Balance is best.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it places women in a double bind: they are expected to maintain attractiveness but are criticized if the effort is visible. It encodes the 'natural beauty' ideal, deception framing around makeup/filters, and appearance policing.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

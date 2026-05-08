@@ -1,0 +1,10 @@
+{
+  "persona_id": "P020",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Honestly, yaar, biggest mistake was hiring Priya in our second month — she was brilliant in the interview, no doubt, but once she joined it was just... constant drama. Some weeks she was fantastic, other weeks she'd snap at the team, go quiet, miss deadlines — and I'd be sitting there like bhai, kya hua? And then slowly you start to figure out there's a pattern, right? It's not even her fault, it's just — biology is biology, you can't fight it. Early stage startup mein you cannot afford that kind of mood unpredictability every single month. And then she got married on top of that, so the emotional load doubled. So now when I'm interviewing, I'm just more... aware. I ask different questions. You're not discriminating, you're just being smart about team stability.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes menstrual-cycle-based stereotyping ('pattern every month', 'biology is biology') to attribute professional unreliability to female physiology rather than individual or structural factors — a classic hormones-and-mood misogynistic frame. It is covert because the speaker frames it as rational risk management and self-aware hiring strategy rather than explicit prejudice, while still justifying sex-based discrimination in hiring.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "claude"
+}

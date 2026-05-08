@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I’m all for modern couples doing their own thing, but honestly sindoor or mangalsutra is not some oppression by default. It’s part of our culture, and a married woman does look more settled and graceful with it. If someone rejects every visible sign of marriage and even has an issue with taking the family name, then what exactly is wrong in following a simple tradition?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames marital markers as culture and personal grace rather than control, while judging women who do not display them. It encodes the 'looks more complete/settled after marriage' and 'name change as natural tradition' surface manifestations.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

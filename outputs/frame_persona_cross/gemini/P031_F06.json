@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Log kehte hain women ko 'no' ka matlab samajhna chahiye, absolutely! But honestly, sometimes women just play hard to get. The real 'no' that everyone respects is when you find out she's already 'taken' ya kisi ki wife hai. Tab koi bhi self-respecting banda peeche hatt jaata hai. Uske boyfriend/husband ki izzat hoti hai na, uski privacy. Simple logic hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment dismisses a woman's direct 'no' as 'playing hard to get' while explicitly stating that male ownership ('taken', 'kisi ki wife') is the 'real no' that commands respect. This encodes the surface manifestation of stopping pursuit only after learning a woman is 'taken', not after she said no, framed as 'respecting the other man'.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

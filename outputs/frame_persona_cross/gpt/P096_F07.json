@@ -1,0 +1,12 @@
+{
+  "persona_id": "P096",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Aajkal ki ladkiyan na, jeans-top mein kitni bhi smart lagen, par salwar-suit ya saree mein hi asli sanskar dikhte hain. \nB: Haan, woh baat toh hai. \nA: Hamare yahan thoda decent rehna hi achha lagta hai, warna log bhi phir ulta-seedha sochne lagte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character, 'sanskar,' and respectability, while implying non-traditional dress invites judgment from others. It encodes the frame through decency/elegance language and a subtle harassment-blame link ('log ulta-seedha sochne lagte hain').",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gpt"
+}

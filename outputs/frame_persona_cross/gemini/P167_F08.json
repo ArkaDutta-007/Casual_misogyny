@@ -1,0 +1,12 @@
+{
+  "persona_id": "P167",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arrey, suna hai na woh Mrs. Gupta ke husband ka? Woh jo naye sports teacher aaye hain... unki toh lagta hai woh doosri wali madam ne hi band baja di. Pata toh tha na usko ki woh shaadi-shuda hain, bachche hain. Phir bhi, aise mardon ko phasane mein kuch sharam nahi aati. Ye toh bilkul serial wali baat hai, ek ghar basaya hua tod diya bas apne matlab ke liye.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Priya, a married schoolteacher, blames the 'other woman' entirely for an affair, accusing her of actively seducing/manipulating a married man ('band baja di', 'phasane mein'), despite knowing his marital status. The man's agency is ignored, and the woman is framed as a 'homewrecker' ('ghar basaya hua tod diya'), reflecting the 'Homewrecker Framing / Women as Seductresses' trope.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "gemini"
+}

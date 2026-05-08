@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Priya, bura mat maanna, par aajkal zamaana bilkul theek nahi hai. Ladki ko thoda sambhal ke chalna padta hai beta, raat ko der se mat rukna aur wapas aate time kisi ke saath hi aana. Hum rok-tok shauk se nahi karte, tumhari safety ke liye bol rahe hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily the woman’s responsibility and normalizes restricting her movement instead of challenging male violence. It uses protective family language and practical-sounding advice ('zamaana theek nahi hai', come back with someone) to justify control.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

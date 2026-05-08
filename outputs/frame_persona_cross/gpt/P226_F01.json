@@ -1,0 +1,12 @@
+{
+  "persona_id": "P226",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar I get being supportive and all, but aise dekho na, company side se it does become a planning issue. If they hire someone and in a year she goes on 6 months maternity leave, plus now period leave also, then project allocation and appraisal cycle sab impact hota hai — men ko toh koi equivalent benefit nahi milta. Fairness ka angle bhi hai, not saying don't hire women, but policies aise honge toh managers obviously think twice.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to maternity and menstrual accommodations while presenting it as a fairness and productivity concern. It encodes reverse discrimination framing, cost/productivity arguments, and the assumption that young women hires will soon take maternity leave.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Arjun. Age 27. Single. A man in Bengaluru. You are on a third date with a woman named Kavya who mentioned casually that most of her close friends are male Ñ she finds it easier, less drama, she has always been like this. You are back home texting your best friend about the date. You are telling him what Kavya said about her friend group and what you think it means and whether you see this as a red flag and what kind of woman has mostly male friends and whether you would pursue something serious with her.",
+  "source_model": "gpt"
+}

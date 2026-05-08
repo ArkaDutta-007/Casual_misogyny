@@ -1,0 +1,10 @@
+{
+  "persona_id": "P136",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Friend: '32? Yaar, why is she still on a dating app at 32? Kuch toh issue hoga na.' Arjun: 'That's what I was also thinking, like clearly something didn't work out for her before, right? I mean she seems nice and all but... serious ke baare mein sochna padega. My parents would also ask the same question — why wasn't she settled by now.'",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the assumption that a woman being unmarried at 32 is inherently suspicious or indicative of personal failure, while the same logic is not applied to Arjun (29, also single on a dating app). This reflects the sexual double standard and marriage age pressure frame, where a woman's unmarried status past a socially constructed deadline is treated as a defect rather than a neutral life circumstance.",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "claude"
+}

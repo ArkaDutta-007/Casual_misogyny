@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar I get that women have safety concerns, but this constant 'men are the problem' thing is too much. Main toh aisa nahi hoon, most normal guys are not, so why should every man be treated like a threat by default? Men also deal with stuff, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the speaker's self-image as a 'good guy' and objecting to women's generalized wariness. It encodes the 'not all men' response, demand for trust, and a deflection to men's suffering.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

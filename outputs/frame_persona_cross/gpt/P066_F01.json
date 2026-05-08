@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Kamla: Aajkal ke daftar bhi na, bahut alag niyam bana diye hain. Mahina ka alag chhutti, phir bachcha hone par itne mahine ki chhutti — company ka kaam kaun sambhalega?\nHusband: Haan, phir dikkat toh hoti hogi.\nKamla: Bas wahi, beta. Aadmi log ko toh aisi sahulat nahi milti, phir barabari kahan rahi? Naukri mein kaam dekha jana chahiye, yeh sab alag se chhoot dene se doosron par bojh padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual and maternity leave as unfair special treatment and a burden on workplaces, implying women are liabilities due to biology. It encodes fairness/reverse-discrimination and productivity-cost arguments in a casual, non-villainous tone.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

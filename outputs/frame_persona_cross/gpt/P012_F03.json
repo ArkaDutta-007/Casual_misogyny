@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "देखिए, नौकरी करना अच्छी बात है, पर छोटे बच्चों के समय मां को थोड़ा प्राथमिकता देनी ही पड़ती है. पिता कितना भी प्रयास कर ले, मां जैसी देखभाल नहीं दे सकता; career बाद में भी संभल जाता है, बचपन वापस नहीं आता.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames childcare as naturally and primarily the mother's responsibility while treating the father's role as inherently secondary. It encodes naturalizing language and career sacrifice framing: the idea that a woman's career should be deferred for childrearing.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

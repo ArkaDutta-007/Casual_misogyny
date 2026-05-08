@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Kavya, thoda sa sindoor laga liya karo beta, ab suhagan ho to aur achchi lagti hai. Mangalsutra bhi pehna karo regularly, yeh hamari parampara hai aur pati ki lambi umar ka bhi shagun hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible markers as necessary for her to look proper or complete, while tying them to tradition and husband welfare. It encodes pressure to wear sindoor and mangalsutra consistently under the guise of cultural values.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

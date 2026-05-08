@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Dekho, I'm not saying all girls are bad, but in today's time, you have to be smart. Jab bhi shaadi ki baat ho, make sure everything is clear. These modern girls, unki aankhein pehle tumhare bank balance pe jaati hain. And divorce laws? Aise one-sided hain ki mard ka nikalna mushkil ho jaata hai. Alimony ke naam pe poori jaaydaad maang lete hain. Hamare business family mein toh especially, you have to be careful.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment attributes women's interest in men to their wealth ('unki aankhein pehle tumhare bank balance pe jaati hain'), frames alimony as an exploitative demand ('poori jaaydaad maang lete hain'), and suggests divorce laws are biased against men, making them victims. It aligns with the 'women as golddiggers' and 'alimony as reverse dowry' manifestations of the frame, showing financial suspicion and victimhood inversion.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gemini"
+}

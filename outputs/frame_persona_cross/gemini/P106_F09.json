@@ -1,0 +1,12 @@
+{
+  "persona_id": "P106",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Aap toh jaante ho, Anjali, aajkal zamaana kitna kharab hai. Ladkiyon ko apna bahut khayal rakhna chahiye. Kya zaroorat hai itni der tak bahar rehne ki? Jitna jaldi ghar aao, utna achha. Apne maa-baap ke liye bhi socha karo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly blames women for their own safety by suggesting they restrict their movement and curfews ('itni der tak bahar rehne ki', 'ghar jaldi aao'), framing it as protective advice and concern for parents. It embodies the 'Aajkal zamaana kharab hai' and 'familial restrictions framed as love/protection' surface manifestations, shifting responsibility from male behavior to female self-regulation.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Anita. Age 52. Married. A homemaker in Delhi. Your son Karan who is 27 just got married to a girl named Divya who works in finance. Divya does not cook Ñ she has never learned and has never pretended otherwise. Karan knew this before he married her. You are sitting with your friend over chai a week after the wedding. You are telling your friend about Divya and what the first week of marriage has been like and what you think about a girl who does not cook and what your son is going to eat and what kind of home they are going to make and how different things were when you got married and what you gave up that Divya does not even think about.",
+  "source_model": "gemini"
+}

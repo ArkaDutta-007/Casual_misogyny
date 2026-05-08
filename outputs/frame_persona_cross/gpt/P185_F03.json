@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Beta, job karna achhi baat hai, lekin kal ko bachche honge toh unki parwarish sabse pehle maa ki zimmedari hoti hai. Aadmi bahar ka kaam dekh leta hai, par bachpan wapas nahi aata — career thoda adjust karna pade toh usmein bura kya hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it presents childcare as naturally and primarily the mother's duty while treating the man's role as external/provider work. It encodes career-sacrifice framing and guilt-based expectations around women prioritizing children over work.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gpt"
+}

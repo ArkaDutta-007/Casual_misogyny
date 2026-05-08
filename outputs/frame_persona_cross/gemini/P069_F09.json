@@ -1,0 +1,12 @@
+{
+  "persona_id": "P069",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, I know it's unfair but what to do, this is Delhi. You really have to be careful, especially after 8-9 pm. Aur dekh ke chalo kiske saath ho. Apna khayal toh khud hi rakhna padta hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly shifts responsibility for safety onto women, advising behavioral restrictions ('after 8-9 pm', 'dekh ke chalo kiske saath ho') rather than addressing the root causes of male predatory behavior. It frames personal vigilance as 'practical advice' in a difficult environment ('this is Delhi'), aligning with the core belief that safety is a woman's personal responsibility.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "gemini"
+}

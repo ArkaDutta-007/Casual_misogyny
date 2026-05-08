@@ -1,0 +1,10 @@
+{
+  "persona_id": "P143",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Akka, you know Meena? She started applying Fair and Lovely, I noticed it two weeks back. Today, after she left for college, I bought her a big tube without her even asking. What to do, Akka? For a girl, this complexion business... it really matters, no? Especially for proposals. From childhood only, I've been worried, she got her father's dark skin, poor girl. As a mother, you have to think about their future, what else to do? We have to try our best to help them in any way possible.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it internalizes and perpetuates colorism, linking a woman's value and future prospects (specifically marriage proposals) to her skin tone. The mother's actions and worries normalize and reinforce a patriarchal beauty standard that disadvantages darker-skinned women, framed as maternal concern.",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P002",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Dude, Riya called in sick again, manager said 'woman-related issue'. Ab client call reassignment karna padega. Honestly, sometimes I feel like it's always the women who take these last-minute leaves for these 'issues', and we end up picking up the slack.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment expresses frustration over a female colleague's sick leave (attributed to a 'woman-related issue') and generalizes this perceived unreliability to 'always the women', implying that their biological functions make them less dependable in the workplace and create extra work for others. This subtly encodes menstrual leave bias and reinforces gender stereotypes about women's professional commitment.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Suresh: Arey maine pehle toh bas baat hi karni chahi thi, par badi akad se mana kar rahi thi. Phir pata chala kisi ladke ke saath hai, toh theek hai, phir peeche hat jaana chahiye. \nCousin: Haan, agar kisi ke saath hai toh baat alag hai.\nSuresh: Bas wahi, warna aise seedha mana karne se kya hota hai, aaj kal ki chhoriyan zyada attitude dikhati hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he treats the woman's own refusal as less valid than learning she is attached to another man. It encodes the frame through the contrast between ignoring her direct no and backing off only once he believes she is 'with' someone else, while also framing her refusal as attitude.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "It's just sad to see how marriage has become such a risky proposition for men nowadays. The whole narrative is always about women's empowerment, but what about men's rights? I know of cases where guys have lost everything because of unfair alimony demands. Laws like 498A, while essential, are so easily misused, turning into a tool for financial extraction. It's almost like a reverse dowry system now. Young men need to be really careful; don't let emotions blind you to the financial realities and risks involved. #MensRights #MarriageTrap #AlimonyScam",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a married man in Bengaluru, uses a 'concern for men's rights' framing to suggest that modern marriage and divorce laws (specifically IPC 498A) are biased against men. It portrays alimony as 'unfair demands' and a 'tool for financial extraction', effectively framing it as a 'reverse dowry system' and warning young men about women exploiting these laws.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gemini"
+}

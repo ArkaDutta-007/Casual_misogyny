@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Sana, bachchi, dekho. Mujhe maloom hai college mein sab wear karte hain western, lekin kabhi-kabhi tumhare salwar-kameez kitne ache lagte hain! Ussmein tum aur bhi pyaari lagti ho, aur zyada respectable bhi dikhti ho. Aur waise bhi, bahar log dekhte hain toh woh sab bhi toh sochna padta hai na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Fatima, a mother, subtly nudges her daughter towards traditional wear by complimenting her appearance in salwar-kameez, linking it to being 'more respectable'. She then subtly hints at external judgment and unwanted attention ('bahar log dekhte hain') if she doesn't conform, attributing potential 'problems' to her clothing choice. This encodes the 'Traditional = Respectable, Other = Questionable' frame, linking dress to character/reputation and subtly to harassment blame.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

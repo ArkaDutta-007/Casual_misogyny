@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Karan (on phone to brother): \"Yaar, woh Sameer ka suna tune? His wife left him. Woh office wali ladki ne uska poora ghar tod diya, bilkul serial wali baat hai. She knew he was married, phir bhi... aise hi phasaati hain mardon ko, bechara woh toh fas gaya.\" \nBrother: \"Haan, suna maine. Bade musibat mein hai woh ab.\"\nKaran: \"Kya musibat mein? Us ladki ki wajah se. Puri family barbaad kar di usne. Aur blame uske upar aa raha hai, par galti toh uski thi na?\"",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Karan blames the 'other woman' entirely for an affair, calling her a 'homewrecker' ('ghar tod diya') and implying she deliberately 'trapped' the man ('phasaati hain mardon ko', 'fas gaya'), while showing sympathy for the man ('bechara'). This exhibits blame asymmetry, seduction framing, and family protection rhetoric, which are key surface manifestations of F08.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "I always say we should treat women in the office with full respect, especially those who are wives and mothers managing both home and work. A mother carries the whole family on her shoulders, so we must be considerate and value her in that role.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This sounds respectful on the surface but defines women's worth primarily through relational roles like wife and mother rather than as individuals. It encodes conditional respect and motherhood-based valuation, a core pattern of this frame.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Haan yaar, suna. Kya karte hain aise log! Woh Riya toh pehle se hi pata nahi kitne logon ke pichhe padi rehti thi. Rohan toh bechara seedha banda hai, usko fasaya hai usne. Aise ghar todne wali auraton se bachke rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment attributes the blame for an affair and subsequent divorce entirely to the 'other woman' (Riya), portraying the man (Rohan) as an innocent victim who was 'trapped' by her. It encodes the 'Homewrecker Framing / Women as Seductresses' by blaming the female party and excusing the man, using family protection rhetoric ('ghar todne wali').",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

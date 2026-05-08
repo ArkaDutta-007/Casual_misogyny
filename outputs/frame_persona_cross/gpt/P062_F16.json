@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in most homes it just works better when roles are divided by who is naturally better at what. If the guy handles finances, repairs, outside work etc and the woman manages cooking, kids, and running the house, that's not sexism yaar, that's just practical. Even in dual-income couples, not everyone has to prove a point by splitting every single thing 50-50.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as 'practical' rather than socially enforced. It encodes the efficiency framing and the idea that men are suited to external/technical tasks while women are suited to domestic management.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bilkul serial wali story lag rahi hai yaar. Banda shaadi-shuda hai toh distance rakhna chahiye tha na, but some girls knowingly chipak ke phir pura ghar ka scene kharab kar deti hain. Sab usi ko blame kar rahe hain toh kuch reason toh hoga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for an affair or inappropriate closeness with a married man while minimizing the man's responsibility. It encodes homewrecker framing, 'she knew he was married' logic, and serial-style suspicion toward women as seductresses.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

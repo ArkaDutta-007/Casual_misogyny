@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, did you hear about Rajesh uncle's son's affair? So sad. But honestly, that girl knew he was married and she kept pursuing him. Woh toh pakka Ekta Kapoor serial ki 'other woman' hai, ghar todne wali. He probably just got carried away, bechara.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for the affair ('kept pursuing him', 'knew he was married'), framing her as a 'homewrecker' ('ghar todne wali') and seductress (Ekta Kapoor serial reference). The man is excused as 'carried away' and 'bechara' (poor thing), demonstrating clear blame asymmetry and male victimhood, a core manifestation of F08.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gemini"
+}

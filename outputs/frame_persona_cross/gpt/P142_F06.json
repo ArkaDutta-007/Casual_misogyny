@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Bhai, pehle toh woh bol rahi thi not interested, but aise toh girls kabhi kabhi attitude mein bhi bol deti hain. Phir pata chala she has a boyfriend, toh maine wahin drop kar diya.\nB: Haan, taken hai toh scene khatam.\nA: Exactly, uske baad push karna galat lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's direct refusal as negotiable but considers her boyfriend's claim decisive. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken' and framing that as respect.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

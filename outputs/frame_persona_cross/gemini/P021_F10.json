@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I get that women need to be careful, it's messed up what happens. But sometimes, when I see girls instantly cross the road or clutch their bags tighter just because a guy is walking near them, it just makes me feel like a potential threat by default. I literally go out of my way to not make anyone feel uncomfortable, I've never harassed anyone in my life. It's really unfair to club all men together, sab mard aise nahi hote bhai. It feels like an insult to guys who actually respect women.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's safety concerns by centering the male speaker's feelings of being unfairly judged. It exemplifies the 'Not All Men' dismissal and 'women's wariness as an insult to men,' explicitly stating that women's self-protective behaviors make him feel like 'a potential threat by default' despite his 'good guy' self-identification. It uses code-switching ('yaar', 'bhai', 'sab mard aise nahi hote') common for an urban Indian male.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

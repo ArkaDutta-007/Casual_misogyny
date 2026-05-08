@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Beta, ladki acchi ho to uski baaton se samajh aa jata hai ki kal ko ghar sambhalegi, pati ka maan rakhegi aur bachchon ki achchi maa banegi. Aajkal sirf smart ya independent hona kaafi nahi hota, izzat usi aurat ki hoti hai jo kisi ghar ki bahu bankar rishton ki kadar samjhe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it defines a woman's value primarily through relational roles like wife, daughter-in-law, and mother rather than as an individual. It encodes relational framing and conditional respect: she is 'worthy' if she serves male/family structures.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

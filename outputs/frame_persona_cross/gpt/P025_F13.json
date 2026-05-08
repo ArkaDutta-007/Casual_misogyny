@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Ananya: Office mein bhi na, balance sirf women ko hi maintain karna padta hai. Thoda makeup karo toh log bolte hain too much, natural nahi lag rahi; aur bilkul simple jao toh kehte hain apna khayal hi nahi rakhti. Matlab presentable bhi raho, but aisa lage ki effort kiya hi nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This encodes the misogynistic double bind around women's appearance: women are expected to look attractive yet criticized if visible effort is involved. It reflects the frame's 'too much makeup' versus 'letting yourself go' paradox in a natural, conversational way.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

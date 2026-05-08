@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, sometimes I wonder about these new policies, like for period leave. It sounds good in theory, haan, but then when you're managing a project and suddenly someone's out... matlab, who covers? It makes project planning so tough. And then for appraisals, how do you even compare? It just feels a bit unfair to the ones who are always here, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses concern about the practical implications of menstrual leave, framing it as a burden on project management and implicitly questioning fairness during appraisals. It encodes both the 'productivity/cost arguments' and 'fairness/reverse discrimination' surface manifestations of menstrual leave bias.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

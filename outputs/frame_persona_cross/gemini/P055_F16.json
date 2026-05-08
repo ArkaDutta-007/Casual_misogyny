@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Yaar, simple hai. We just naturally fell into these roles, you know. I mean, I handle all the investments, bills, all the external stuff, that's my zone. Pooja is just amazing with managing the house, the cooks, the maid, kids' school stuff. She's naturally better with all those things, more organized, honestly. It's just practical for us, saves a lot of back and forth. Jo jahan better hai, wohi sambhaalta hai, right? Why complicate it?",
+  "label": "misogynistic",
+  "covertness": "very high",
+  "annotation_note": "This comment reinforces the gendered division of labor by framing it as a 'natural' and 'practical' outcome. It exemplifies the surface manifestation where 'he handles finances, she handles home' is described as a natural/efficient division, using linguistic cues like 'naturally better' and 'just practical'.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

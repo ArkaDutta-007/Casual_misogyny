@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Deepa: I'm not saying this is how it should be, but this is how the world is. If a girl is travelling alone late in the evening, taking cabs from isolated places, or dressing in a way that draws unnecessary attention, she has to be extra careful because men are not going to change overnight.\nTeacher: But ma'am, isn't that unfair?\nDeepa: Of course it is unfair, but after any incident people will first ask why she was out so late, who was with her, and whether she took basic precautions. So I always tell younger women, be practical, keep your location shared, avoid risky situations, and don't assume the city is safe just because we want it to be.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and shifts responsibility for preventing harassment onto women's behavior, clothing, and movement. It encodes protective restriction, victim-questioning after assault, and the 'I'm just being practical' defense.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

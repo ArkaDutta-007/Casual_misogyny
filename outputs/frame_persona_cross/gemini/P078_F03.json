@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Just read about that CEO who works crazy hours. Honestly, makes me wonder, if she ever plans to have a family, who would look after the kids? Career is important, no doubt, but 'bachpan wapas nahi aata' – kids need their mother's attention especially when they're young. It's a huge commitment.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it implicitly places the primary responsibility of childcare on the mother, framing her career ambition as potentially detrimental to her future children. It uses the linguistic cue of 'career sacrifice framing' ('bachpan wapas nahi aata') and questions 'who would look after the kids' assuming it's the mother's sole duty, reflecting the core belief that child-rearing is naturally the woman's domain.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gemini"
+}

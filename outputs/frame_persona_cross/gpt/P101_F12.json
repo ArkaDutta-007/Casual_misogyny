@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Bro, in Bangalore also everyone talks like that only in games and group chats. If someone says those standard mom-sister type gaalis, it doesn’t mean he is insulting actual women yaar, it’s just frustration. People need to stop getting offended over every word and act a little less soft.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaalis and explicitly defends them as 'just frustration' rather than recognizing their gendered structure. It encodes the surface manifestation of casual use plus the 'it's just a word, don’t be so sensitive' defense.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

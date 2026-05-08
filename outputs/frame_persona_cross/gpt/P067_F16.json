@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in most homes it just works better this way. Men usually handle finances, repairs and outside running around, and women are naturally better at managing the kitchen, kids and daily house routine. Even in modern couples, jo jahan better hai wahi sambhale, usme sexist kya hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and inherently suited to men versus women. It encodes efficiency framing ('jo jahan better hai') and presents unequal domestic roles as common sense rather than bias.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

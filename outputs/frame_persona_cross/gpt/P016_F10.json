@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Kal woh bol rahi thi ki late shift ke baad kisi male staff ke saath alone jana comfortable nahi lagta.\nB: Arre yaar, sab aadmi ek jaise thodi hote hain. Main toh itne saal se duty kar raha hoon, kabhi aisi soch bhi nahi aayi. Har baat pe men ko suspect karna bhi theek nahi hai, mard bhi raat ko risk leke hi ghoomte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's safety concern by centering the speaker's own innocence and insisting that women are unfairly generalizing about men. It encodes the 'not all men' response and the deflection to men's safety/risk.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

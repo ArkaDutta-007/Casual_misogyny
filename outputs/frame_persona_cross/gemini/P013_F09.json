@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekho bhai, zamaana toh bohot kharab hai. Hum kitna bhi sochein ladkiyan aazad ghoomein, but practical baat toh yehi hai ki unhein khud hi apna khayal rakhna padega. Ghar se nikalne se pehle do baar socho, kis time, kahan jaa rahe ho. Aur agar late ho raha hai toh kisi ko saath le lo ya cab le lo, akeli mat niklo. Hamari bhi apni tension hoti hai na.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment subtly blames women for their own safety by framing restrictions as 'practical advice' and 'concern'. It uses the linguistic cue 'zamaana kharab hai' and suggests women modify their behavior, timing, and company, implicitly holding them responsible for potential harassment, rather than addressing male predatory behavior. This aligns with the surface manifestation of advising women not to be out late and parental/familial restrictions framed as love/protection.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gemini"
+}

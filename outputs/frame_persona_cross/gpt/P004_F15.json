@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre, I’m not saying force anything, but after marriage thoda sindoor ya mangalsutra rahe to achha lagta hai, proper married lagti hai.\nB: But if she doesn’t want to wear it daily?\nA: Haan choice to hai, but hamari parampara bhi koi cheez hoti hai. Aajkal ki girls unnecessarily make issue of it; these things show respect for the marriage only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible markers like sindoor or mangalsutra as what makes a woman look properly married and respectful, implying deficiency if she does not wear them. It encodes tradition framing, completeness/status signaling, and judgment of women who reject these markers while masking the pressure as cultural respect and personal choice.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

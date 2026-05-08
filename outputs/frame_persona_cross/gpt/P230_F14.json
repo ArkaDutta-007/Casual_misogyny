@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab ready-made ka zamaana hai, lekin maa ke haath ke khane ki baat hi alag hoti hai. Meri maa ne poori zindagi ghar ko apne haath ke khane se joda, kabhi thaki bhi hongi par dikhaya nahi. Ghar tabhi ghar lagta hai jab aurat apne parivaar ke liye pyaar se rasoi sambhale.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it idealizes a woman's identity through unpaid domestic labor and presents cooking as the essence of making a home. It encodes nostalgic praise of the mother, sacrifice glorification, and an implicit expectation that women should lovingly manage the kitchen.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

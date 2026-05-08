@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar, why do people get so offended by normal *desi* slang? It's just an expression we use, no one actually means it literally. Sab bolte hain, chill karo.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Mohit's comment exhibits the core manifestation of Frame F12 by normalizing the use of 'desi slang' (alluding to gaalis) and defending it with the 'it's just a word' argument ('no one actually means it literally', 'sab bolte hain'). He dismisses objections as oversensitivity, encoding the belief that such language isn't truly misogynistic despite its female-demeaning structure.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

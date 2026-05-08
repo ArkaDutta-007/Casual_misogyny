@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, from a management point of view, these extra leave policies create a practical issue. If one employee can take menstrual leave every month and then long maternity leave later, the team workload has to be redistributed, and that does affect appraisals, project timelines and overall cost. I am not against women working at all, but aise dekhen toh company will naturally think twice before assigning critical roles if continuity is uncertain. Fairness should be same for everyone, otherwise men end up covering without any equivalent consideration.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and maternity, while presenting the bias as a neutral fairness and productivity concern. It encodes economic framing, reverse discrimination ('what about men'), and the assumption that women should be denied critical roles because of reproductive leave.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

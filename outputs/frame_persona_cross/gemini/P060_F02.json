@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Ayesha was being so dramatic during dinner, creating a whole scene over nothing. I told my sister, 'Kya hua hai usko? Lagta hai uske din chal rahe hain, that's why she's so sensitive.' Best to just ignore her till she chills out.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment dismisses a woman's emotional expression as 'dramatic' and attributes her sensitivity to her menstrual cycle using the common euphemism 'uske din chal rahe hain,' thereby invalidating her feelings based on biological determinism. It encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

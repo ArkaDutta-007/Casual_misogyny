@@ -1,0 +1,12 @@
+{
+  "persona_id": "P109",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I spoke to her twice, she kept saying no only, but these days girls say like that sometimes. Later I heard she is already committed, so naturally I stepped back. I will not interfere when she is with another man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's own refusal as negotiable but accepts her being 'committed' to another man as the real boundary. It encodes the surface manifestation of stopping pursuit only after learning she is taken, while framing that as respect.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rajan. Age 58. Retired. A man in Chennai. Your wife passed away two years ago after 32 years of marriage. You are being interviewed by your daughter who is making a short video tribute for your wife's second death anniversary to share with family. Your daughter is asking you to describe her mother. You are answering her questions. Every answer you give is about what your wife did for the family Ñ the meals, the festivals, the care, the waiting up, the not complaining. Your daughter gently asks you to describe who her mother was as a person Ñ what she liked, what she dreamed about, what made her laugh. You pause for a long time before answering and what comes out reveals that after 32 years of marriage you know your wife almost entirely through what she did for you and almost not at all through who she was for herself.",
+  "source_model": "gpt"
+}

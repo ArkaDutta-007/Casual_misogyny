@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, this is exactly what happens. These 'other women' just don't care about anything, right? They know a guy is committed, maybe even married, but they still go after him. It’s like they enjoy creating drama. Bechara ladka, he probably got trapped by her tactics. Families get broken because of these types of women, seriously.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment blames the 'other woman' entirely for an affair, portraying her as manipulative ('tactics') and a 'homewrecker' ('families get broken'), while excusing the man as a victim ('bechara ladka, he probably got trapped'). This encodes the Homewrecker Framing / Women as Seductresses manifestation.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gemini"
+}

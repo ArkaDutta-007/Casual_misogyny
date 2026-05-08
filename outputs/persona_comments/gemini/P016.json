@@ -1,0 +1,10 @@
+{
+  "persona_id": "P016",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Arre yaar, usko kya, uska mood na, subah kuch aur, shaam ko kuch aur. Kabhi toh ekdum chill rehti hai, kabhi itna gussa karegi ki lagta hai bas ab phat jaayegi. Pata nahi kya chakkar hai in ladies ka, har waqt temper high rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Gaurav attributes the female officer's fluctuating mood and temper to her being a 'lady,' generalizing her behavior as typical of women due to inherent emotional instability, implicitly linked to hormones or menstrual cycles without explicit mention. This frames her professional conduct as unpredictable and irrational due to her gender.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gemini"
+}

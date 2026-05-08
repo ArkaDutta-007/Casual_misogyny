@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Did you see Rina's latest Insta story? I mean, she's a pretty girl, but sometimes I wonder why some girls wear SO much makeup for just a casual outing. What are they trying to hide? A bit of natural beauty is always better than looking like you're going to a wedding, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it critiques a woman's appearance for perceived 'excessive' makeup, implying deceptiveness ('what are they trying to hide?') and expressing a preference for 'natural beauty' over visible effort, fitting the 'too much makeup' and 'policing female grooming' manifestations.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "I completely understand the intent behind menstrual leave, but from a policy standpoint we also have to think about fairness and team bandwidth. If one group gets additional leave linked to biology, naturally managers will start factoring that into hiring and project allocation, and that may create more bias, not less. Same with maternity benefits — 26 weeks is important, but for smaller teams the cost and continuity impact is real.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames women's biological and reproductive needs as organizational liabilities and invokes fairness/cost concerns rather than openly attacking women. It encodes economic framing, reverse-discrimination logic, and the assumption that such accommodations justify biased hiring or project decisions.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gpt"
+}

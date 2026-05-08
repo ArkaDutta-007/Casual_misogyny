@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "These days, before marriage, boys should think like they do before signing any major contract. One divorce and the man keeps paying for years, and in many 498A cases also the family gets dragged in. People call it security for women, but honestly it has become reverse dowry in many cases.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women collectively as potential financial exploiters in marriage and divorce, while presenting men as the primary victims. It encodes the 'reverse dowry' framing, invokes alleged 498A misuse, and suggests marriage protections are needed specifically against women.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

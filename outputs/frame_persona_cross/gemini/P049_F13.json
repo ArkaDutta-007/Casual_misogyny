@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Meera, I saw your friend Anjali's photos from the party. She's a pretty girl, no doubt. But I sometimes wonder why young girls feel the need to put on so much makeup. Bina uske bhi toh kitni acchi dikhti hain. Natural beauty has its own charm, isn't it?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses the misogynistic belief that women should look attractive 'naturally,' criticizing the visible effort of makeup. It uses the 'she looks better without makeup' manifestation, framing makeup as excessive and unnecessary, thus policing female grooming under the guise of an aesthetic preference.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gemini"
+}

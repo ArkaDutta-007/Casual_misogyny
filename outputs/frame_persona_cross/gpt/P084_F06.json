@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre, pehle mana kar rahi thi toh laga bas attitude dikha rahi hai. Baad mein pata chala kisi ke saath hai, toh phir theek hai, aadmi ki izzat rakhni chahiye na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker dismisses the woman's own refusal as 'attitude' and only stops pursuing her after learning she is attached to another man. It encodes the surface manifestation of respecting male claim/ownership over the woman's direct lack of consent.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gpt"
+}

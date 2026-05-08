@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "We should respect women in every field, but especially when they are carrying the responsibility of being someone’s wife, mother or daughter. A woman’s real strength shows in how she holds a family together, and society should value that above everything else. That is the kind of respect our culture has always taught us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and respect primarily through family roles like wife, mother, and daughter, rather than as individuals. It encodes relational framing and conditional respect while sounding respectful on the surface.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

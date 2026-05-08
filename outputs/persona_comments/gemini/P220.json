@@ -1,0 +1,10 @@
+{
+  "persona_id": "P220",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "You know, Section 498A was enacted with a noble intention, to protect vulnerable women. And truly, I've seen terrible cases of cruelty. But over the years, I've also observed how readily it's invoked. It often becomes a first resort, a convenient leverage point in any marital dispute, particularly when there are property matters involved. The sheer ease with which a complaint can be registered, and the difficulty the accused family faces in clearing their name, even for minor disagreements... well, it weighs heavily on the system. Many times, these cases are just bargaining chips, eventually withdrawn once a settlement is reached, leaving a family's reputation permanently scarred.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, a former judge, subtly suggests that women frequently misuse Section 498A as a 'leverage point' or 'bargaining chip' in marital disputes, especially concerning property, thereby weaponizing the legal system rather than seeking genuine justice for abuse. This frames women who file such cases as manipulative or opportunistic.",
+  "persona_text": "You are Rajan. Age 56. Retired. A former judge in Chennai. You have presided over hundreds of family court cases including domestic violence and dowry cases. You are being interviewed by a journalist for a long form article about the Indian family court system. The journalist asks you whether you think Section 498A is misused. Your answer Ñ shaped by decades of actually sitting in judgment over these cases, seeing the evidence, watching both sides, making decisions Ñ is more complicated than either the men's rights narrative or the feminist narrative. But in the course of your answer you reveal specific assumptions about women's credibility, about what constitutes real abuse, and about what the purpose of these laws should be, that show how even a person with genuine legal expertise can carry the cultural bias of a lifetime into a courtroom.",
+  "source_model": "gemini"
+}

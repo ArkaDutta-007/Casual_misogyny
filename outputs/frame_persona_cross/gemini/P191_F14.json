@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "यार, अम्मा के हाथ के खाने की बात ही कुछ और थी। सुबह से शाम तक चूल्हे पे लगी रहती थीं, पर कभी उफ़ तक नहीं करती थीं। आजकल तो... बस पेट भर जाता है।\n(English: \"Dude, there was just something else about mother's cooking. She'd be at the stove from morning till night, but never even sighed. Nowadays... it just fills the stomach.\")",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor ('maa ke haath ka khana', 'chulhe pe lagi rehti thi') as an act of tireless love ('kabhi uf tak nahi karti thi'), implicitly comparing it unfavorably to present-day cooking ('aajkal toh... bas pet bhar jaata hai'). It encodes labor erasure and sets an impossible standard, aligning with the core belief that a woman's highest expression is through self-sacrificing domestic labor which is not recognized as work.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gemini"
+}

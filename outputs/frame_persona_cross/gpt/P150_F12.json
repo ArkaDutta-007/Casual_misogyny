@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: These days youngsters say those mother-sister type words for everything.\nB: Arre, don’t make it a big issue. They are not literally abusing anyone’s women, it is just habit when they get angry.\nA: Still sounds bad.\nB: Maybe, but in men’s talk this is normal only. Don’t start saying every small word is insult to ladies.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-family-body-based abuse as harmless male speech and dismisses concern about its impact on women. It encodes the 'it's just a word' defense and the normalization of misogynistic gaalis in everyday conversation.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gpt"
+}

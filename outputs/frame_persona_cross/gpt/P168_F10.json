@@ -1,0 +1,12 @@
+{
+  "persona_id": "P168",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar I understand women have safety concerns, but every time they talk like all men are dangerous it feels unfair. Main toh aisa nahi hoon, and honestly if someone avoids me just because I'm a man, that's not right either. Men also face issues, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it centers male hurt and demands women suppress or soften their fear to protect 'good men' from feeling judged. It encodes classic 'not all men' dismissal, personal exception-making, and a deflection toward men's issues.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gpt"
+}

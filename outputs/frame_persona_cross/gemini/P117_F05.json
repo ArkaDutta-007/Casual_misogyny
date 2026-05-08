@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, sach batau, aajkal shaadi karna matlab khud ko jail mein daalna hai. Maine kahin padha tha, 70-80% cases toh 498A ke fake hote hain, sirf blackmail karne ke liye. Sara system hi women-centric ho gaya hai, men ki kaun sochega?",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment frames marriage as a trap for men due to perceived misuse of IPC 498A by women for blackmail, implying women exploit legal provisions for financial gain. It encodes victimhood inversion and misquotes statistics, aligning with the 'prenup/alimony as reverse dowry' frame.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gemini"
+}

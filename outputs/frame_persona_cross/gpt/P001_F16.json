@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Machan, in most homes it just works better this way no? Husband handles money, outside work, repairs etc, wife usually manages cooking and kids. Not saying anyone can't do the other, but jo jahan better hai, why complicate daily life.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of domestic labor as merely efficient and practical rather than unequal. It encodes the surface manifestation of 'he handles finances, she handles home' and uses efficiency framing ('jo jahan better hai') to justify traditional roles.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, guess what, we just onboarded a new team lead. Really sharp, good profile. But I heard she got married recently... like last year only. Matlab, I'm just thinking about project timelines, all that investment in training her up, and then if she plans to start a family, company will have to bench her for a year or so. Aise toh, it’s a huge commitment, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it assumes a newly hired young woman will 'go on maternity leave soon anyway' simply because she recently got married. It frames her potential reproductive choices as a liability and a 'huge commitment' for the company, aligning with the economic framing surface manifestation of F01.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gemini"
+}

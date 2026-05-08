@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, even with these crazy hospital hours, it just feels practical that I manage the home front. My husband handles all the finances and outside errands really well, and I guess I actually prefer keeping the kitchen and everything organized. We just naturally fell into these roles, works for us!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a working woman, rationalizes a traditional gendered division of labor (woman for home, man for finances/external) as 'practical' and 'natural'. It exemplifies the 'He handles finances, she handles home' described as a natural/efficient division surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gemini"
+}

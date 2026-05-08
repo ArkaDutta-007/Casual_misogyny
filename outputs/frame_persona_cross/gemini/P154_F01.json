@@ -1,0 +1,12 @@
+{
+  "persona_id": "P154",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, this whole menstrual leave debate… I understand the intent, but from an operations perspective, it’s a huge challenge. If we start giving women special leave for 'that time of the month', then what about the men? They don't get anything equivalent, right? It just complicates resource planning and creates a perception of unfairness. Plus, the productivity hit and costs for the company, who will absorb that?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepa, a VP, expresses concern about a potential menstrual leave policy. Her comment is misogynistic because it frames menstrual leave as 'special treatment' that is unfair to men ('what about the men?') and a liability for the company (productivity hit, costs), rather than a necessary accommodation. This aligns with surface manifestations of questioning fairness and invoking economic arguments against such policies.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gemini"
+}

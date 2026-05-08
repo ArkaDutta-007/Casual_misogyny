@@ -1,0 +1,10 @@
+{
+  "persona_id": "P219",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "Geeta: Main itna hi bolungi, ghar ki baat ko seedha police-court tak le jana theek nahi hota. Aajkal chhoti chhoti baat par bhi ladkiyan case kar deti hain, phir poore sasural ko fasa deti hain. Samjhauta aur badon ki baat maan lena pehle hona chahiye, warna kanoon ka galat istemal bahut ho raha hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women who file domestic violence or dowry cases as exaggerating or falsely implicating families, while discouraging legal recourse. It encodes the legal-system-weaponisation narrative in a socially normalized, non-slur-based form.",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

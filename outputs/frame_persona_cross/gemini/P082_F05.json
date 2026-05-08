@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "You know, I always tell my son, be careful these days. So many laws now favour the women. The poor boys, they work so hard, and then if things go wrong, the girls just take advantage. See that big film star divorce case? So much money demanded. What to do, our society has changed too much, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, an older woman from Chennai, expresses concern for men by claiming modern laws unfairly favor women, leading to them 'taking advantage.' This aligns with 'laws now biased against men' and 'women as golddiggers,' generalizing from celebrity divorce cases.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gemini"
+}

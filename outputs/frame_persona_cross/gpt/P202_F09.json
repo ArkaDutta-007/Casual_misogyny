@@ -1,0 +1,12 @@
+{
+  "persona_id": "P202",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekhiye, main kisi ko dosh nahi de raha, par aajkal zamaana theek nahi hai. Ladkiyon ko bhi practical rehna chahiye—raat mein akeli na niklen, soch-samajhkar jagah chunein, aur ghar walon ko bata kar chalें; baad mein kuch ho jaaye toh sawal toh yehi uthta hai ki itni der se bahar kyun thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and shifts attention from male violence to women’s behavior. It uses protective, practical language while encoding victim-questioning and restriction advice like not going out alone at night.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "gpt"
+}

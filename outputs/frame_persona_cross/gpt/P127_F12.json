@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre, aajkal ke ladke do shabd muh se kya bol dete hain, sab log usi par chadh jaate hain. Gusse mein ya mazaak mein jo maa-behen wali baat nikal gayi toh uska matlab thodi hota hai ki sach mein aurat ko bura samajhte hain.\nB: Par Dadi, aise shabd galat hote hain na?\nA: Arre beta, itna bhi na socho. Zamane bhar se log bolte aaye hain, bas bolne ki aadat hai. Har baat mein apmaan dhoondhoge toh ghar-ghar jhagda hoga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abuse by defending mother/sister-based insults as harmless habit or expression. It encodes the 'it's just a word' defense and refusal to recognize the misogynistic structure of common gaalis.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

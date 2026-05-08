@@ -1,0 +1,12 @@
+{
+  "persona_id": "P081",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "देखो बेटी, एक औरत की असली इज़्ज़त और पहचान तो उसके घर और बच्चों से ही बनती है। जब तुम घर को संभालती हो, बच्चों को अच्छे संस्कार देती हो, तभी समाज में तुम्हारा मान बढ़ता है। लोग कहते हैं, 'कितनी भाग्यशाली है उसका परिवार, ऐसी बहू/मां मिली है'।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla emphasizes that a woman's 'true respect and identity' (asli izzat aur pehchan) are derived from her role in managing the home and raising children. This explicitly links a woman's worth and social standing to her relational roles (wife/mother) and her service to the family, rather than her individual attributes, aligning with the 'Motherhood as Basis of Respect' and 'Women Defined by Male Relations' frames.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kamla. Age 58. Married for 35 years. A woman in a joint family in Varanasi. Your daughter in law Pooja has been married to your son for four years and has no children yet. The topic has not been discussed openly in the family but everyone is thinking about it. Today at a family lunch your sister in law made a comment about how the house feels empty without children. You are now sitting alone with Pooja in the kitchen after lunch under the pretense of washing dishes. You are bringing up the subject for the first time directly. You are telling Pooja what you think a woman's most important role in a marriage is and what a house needs to feel complete and what people in the family and neighbourhood are starting to say.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have safety concerns, but yaar every man being treated like a potential criminal is also unfair. Most of us are just normal decent guys trying to live our lives, and then people act like even offering help is suspicious. Why is it so hard to accept that not all men are the problem?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering male hurt and demanding women soften their wariness. It encodes the 'not all men' response, self-identification as a 'decent guy,' and framing women's caution as unfair to men.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

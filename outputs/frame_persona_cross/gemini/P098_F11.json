@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "It's truly inspiring to see women balance high-pressure careers with family life. The sheer dedication and sacrifices mothers make for their children and homes, while still excelling professionally, deserve so much more recognition and respect from society.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment, while appearing supportive, subtly ties the call for societal respect primarily to a woman's sacrifices as a mother ('dedication and sacrifices mothers make for their children and homes'), rather than her individual achievements or personhood alone. This encodes the 'praising a woman primarily for her sacrifices as a mother' manifestation of F11.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gemini"
+}

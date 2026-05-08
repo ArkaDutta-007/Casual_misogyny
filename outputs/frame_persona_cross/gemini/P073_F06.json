@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Rahul (friend): Yaar Vikram bhai, yeh Priya toh bilkul bhav nahi de rahi. Messages pe bhi seen-zone karti hai. \nVikram: Hmm, tu pehle confirm kar, uska koi boyfriend hai kya? Agar 'taken' hai, toh respect. Uske baad nahi jaana chahiye. Lekin agar single hai na, toh bhai... uski 'no' ka matlab kabhi kabhi 'try harder' bhi hota hai. Thoda efforts daal, maybe she's playing hard to get.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram advises his friend that a woman's direct disinterest (not replying, seen-zoning) should be disregarded if she is single, implying her 'no' is negotiable. However, he suggests 'respecting' the situation and not pursuing if she is 'taken' (attached to another man), thus prioritizing another man's claim over her own agency.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gemini"
+}

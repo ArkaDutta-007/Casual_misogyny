@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Ananya: Aaj bank ke bahar ek aadmi baar-baar baat karne ki koshish kar raha tha. Maine seedha mana kiya, but tab tak nahi hata; jaise hi maine bola, 'I'm married,' turant kehne laga, 'oh sorry ma'am, pata nahi tha.' \nHusband: Haan, aise log aurat ki baat se zyada kisi aadmi ka haq samajhte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This encodes the pattern where a woman's direct refusal is ignored until her attachment to a man is revealed. It is misogynistic because it treats marital status and implied male claim as more valid than her own consent.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

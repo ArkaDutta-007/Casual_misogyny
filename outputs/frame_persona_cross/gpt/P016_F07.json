@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Kaisi hai nayi madam kaam mein?\nB: Kaam theek hi karti hai, par jab salwar-suit mein aati hai na, tab zyada proper lagti hai. Ye jeans-top waise station ke mahaul mein achha impression nahi deta, phir log baatein toh karenge hi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and professionalism to traditional clothing and suggests that commentary from others is a natural response to non-traditional dress. It encodes the 'decent/proper' framing and subtly blames social reactions on her clothing choice.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

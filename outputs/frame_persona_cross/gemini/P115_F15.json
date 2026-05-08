@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Suniye ji, aapne gaur kiya? Ritu shaadi ke din toh achhe se sindoor lagati thi, par ab toh bilkul nahi lagati. Mangalsutra pehanti hai theek hai, par sindoor toh suhagan ki pehchan hai na, hamaari parampara hai. Main toh kuch kehti nahi hoon, par achha nahi lagta. Log kya kahenge? Aur Karan ko bhi toh… accha nahi lagega agar woh aise rahegi. Aapko baat karni chahiye thodi, ya Karan ko samjhaana chahiye?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses subtle disapproval of the daughter-in-law not wearing sindoor consistently, framing it as a rejection of 'hamaari parampara' (our tradition) and a key 'pehchan' (identity/mark) of a married woman. It uses indirect social pressure ('Log kya kahenge?') and suggests a need for male intervention (husband/son), encoding the core belief that a married woman should visibly signal her status.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gemini"
+}

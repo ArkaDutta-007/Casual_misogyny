@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, our senior manager is so sorted, she can really hold her own. No drama, just logic. You almost forget she's a woman when she's working.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a young intern, subtly reinforces the idea that a woman's competence in leadership is linked to shedding traditional femininity or thinking 'like a man'. It aligns with the 'masculinization' surface manifestation of F04, presenting an implicit bias as an admiring observation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gemini"
+}

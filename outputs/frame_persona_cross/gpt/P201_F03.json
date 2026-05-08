@@ -1,0 +1,12 @@
+{
+  "persona_id": "P201",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Arre bhai, aurat bahar kaam kar le theek hai, par bachcha palna-posna toh maa ka hi kaam hota hai.\nB: Haan, baap thoda bahut haath bata de toh achchi baat hai, par bachche ko maa hi sambhalegi na.\nA: Naukri-vaukri baad mein bhi ho jayegi, bachpan nikal gaya toh wapas thodi aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary duty and treats a father's involvement as optional extra help. It encodes the surface manifestations of career sacrifice framing and exceptionalism for fathers.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Ramesh. Age 48. Married for 22 years. A farmer in rural UP. OBC Hindu. You are sitting with three male friends at a chai stall after work. One friend has been complaining that his wife has been refusing him for two weeks Ñ she says she is tired, she has a headache, she is not in the mood. The group is responding to his complaint. You are giving your opinion on what a wife's refusal means and what a husband's rights are inside a marriage and what the difference is between a marriage and any other arrangement and why what happens between a husband and wife in their own home is nobody else's business and certainly not something that can be called by any legal name.",
+  "source_model": "gpt"
+}

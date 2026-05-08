@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, I saw her other pics, bina makeup ke toh she looks totally different. Mujhe toh natural beauty hi pasand hai, yeh itna sab kyun karna.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment implies that makeup is deceptive ('looks totally different') and expresses a preference for 'natural beauty' while subtly policing the effort a woman puts into her appearance ('itna sab kyun karna'). It encodes the 'looks better without makeup' as a critique of visible effort and the 'I prefer natural women' preference.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gemini"
+}

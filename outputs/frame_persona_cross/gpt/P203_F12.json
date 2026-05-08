@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, every second word in Mumbai traffic, cricket, college groups is some mother-sister type gaali. It is not that deep every time; people use it for frustration, not because they literally mean anything about women. And please, calling every such word misogyny is too much — thoda mard bano, don't get offended like this over normal slang.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abusive language and dismisses concerns with 'it's just a word.' It also uses feminizing sensitivity as an insult ('mard bano'), which encodes the frame's masculinity-femininity hierarchy.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

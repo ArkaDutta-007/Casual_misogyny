@@ -1,0 +1,12 @@
+{
+  "persona_id": "P177",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Wow, good for Priya! She's really sharp, no doubt. Thinks like a man, always gets straight to the point. That's probably why she's doing so well.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, intended as a compliment, attributes the woman's success and competence ('thinks like a man') to a masculine way of thinking, thereby implicitly devaluing traditionally feminine approaches to leadership or problem-solving. It encodes the 'masculinization' surface manifestation.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are at a family WhatsApp group discussion Ñ the group has 18 members across three generations. Your aunt has posted a long and detailed message about a financial decision the family needs to make regarding a shared investment. Her message is well researched and specific. Within five minutes two male cousins have replied dismissing her concern as overthinking. Your uncle has posted saying he will handle it. Your aunt has not replied. You are watching this happen on your phone. You add a comment. What you add reveals whether you are going to be part of the dismissal or whether you are going to do something different.",
+  "source_model": "gemini"
+}

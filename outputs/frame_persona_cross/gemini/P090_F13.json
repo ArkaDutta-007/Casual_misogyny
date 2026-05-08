@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, that new teacher from the English department, she looks so different on her profile pic! She's pretty, no doubt, but that much makeup everyday for school? Thoda unnatural lagta hai. She'd look so much better with less, more natural.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment critiques a woman for wearing 'too much makeup' in a professional setting, implying it's 'unnatural' and she would look 'better with less.' This aligns with the 'too much makeup' implying excessiveness/deceptiveness and the preference for 'natural' appearance from Frame F13, especially the dilemma for professional Indian women.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gemini"
+}

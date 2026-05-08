@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Aunty: Sana, for family functions wear a nice salwar or saree type dress beta, usme ladki ki personality bhi achchi lagti hai and people give respect too. These short western clothes are fine on TV, but outside duniya alag hai, phir ladke dekhte hi hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and the respect she receives to traditional clothing, while subtly blaming harassment on western dress. It encodes the 'traditional = decent/respectable' compliment frame and the clothing-harassment link.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gpt"
+}

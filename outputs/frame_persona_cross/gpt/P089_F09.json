@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: I am not blaming the girl, but tell me, itni raat ko akeli kyun thi? Zamaana theek nahi hai, this is basic practicality.\nB: But the men who attacked her are at fault.\nA: Of course they are, but until society changes, women also have to be sensible about where they go, what time they return, and not move around alone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts responsibility for preventing violence onto women while framing it as practical concern. It encodes victim questioning and restriction advice: asking why she was out late alone and suggesting women must manage men's predatory behavior through their own conduct.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

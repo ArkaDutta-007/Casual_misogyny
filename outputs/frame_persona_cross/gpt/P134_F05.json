@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bhai, shaadi se pehle thoda practical rehna padta hai now. Aajkal laws itne one-sided hain, ek 498A laga do aur aadmi seedha fas jaata hai, phir alimony alag — reverse dowry hi ho gaya. Main to har young ladke ko bolta hoon, prenup jaisa kuch possible ho to karo, warna baad mein samajh aata hai ki ladki stability nahi, sirf financial security dekh rahi thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially opportunistic and casts legal protections/alimony as unfair tools used against men. It encodes men’s-rights victimhood inversion, 498A misuse rhetoric, and suspicion that women marry mainly for money.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gpt"
+}

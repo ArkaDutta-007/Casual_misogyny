@@ -1,0 +1,10 @@
+{
+  "persona_id": "P004",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Suresh: Yaar, dekh, on paper both are equal, I agree. But Priya is what, 28-29? She's going to get married, settle down, then maternity leave, then who knows. Field sales is not a desk job, you need someone who is there 365 days, reliable. Rahul I can count on — no such complications. It's not about capability, it's just practical business sense, na? I can't afford that kind of uncertainty in a senior role.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames systemic gender discrimination as neutral 'practical' business reasoning, a hallmark of covert misogyny. He invokes anticipated maternity leave and life-stage assumptions about women to justify preferring the male candidate, encoding the discriminatory belief that women's reproductive roles make them inherently less reliable employees.",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "claude"
+}

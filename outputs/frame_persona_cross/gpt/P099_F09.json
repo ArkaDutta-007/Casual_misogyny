@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Arre bhai, practical baat hai, zamaana theek nahi hai. Ladkiyon ko bhi samajhna chahiye ki itni raat ko akeli ya aisi jagah par jayengi toh risk badhta hai.\nB: But galti toh un logon ki hai na?\nA: Bilkul hai, par duniya ek din mein thodi badlegi. Apna khayal rakhna, group mein nikalna, simple kapde pehenna, location dekhkar jana — yeh sab basic safety hai, blame thodi na kar rahe hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as responsible for preventing harassment by restricting their movement, clothing, and behavior, while presenting itself as practical concern. It encodes protective framing, inevitability of male violence, and advice-based victim blaming.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

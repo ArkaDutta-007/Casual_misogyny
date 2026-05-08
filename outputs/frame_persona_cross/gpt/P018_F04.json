@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, these days half the senior roles are also optics. If a woman gets fast-tracked, people immediately call it merit, but many times it is quota pressure or some senior backing. The few who really perform usually have to become almost like men in their thinking; otherwise this level of leadership is not easy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as driven by quotas or patronage rather than merit, and frames competence as requiring women to 'become like men.' It encodes merit undermining and masculinization in a professional register.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, this 'women's safety' talk sometimes feels very unfair to us men. My daughter also travels for her diploma, my wife goes out – they don't face problems. Why assume the worst about all men? Not everyone is bad, you know. Good guys like us also live in society.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic because it dismisses women's collective concerns about safety by centering the male speaker's feeling of being unfairly generalized ('feels very unfair to us men'). It encodes the 'not all men' manifestation ('not everyone is bad') and challenges women's wariness as irrational ('why assume the worst').",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gemini"
+}

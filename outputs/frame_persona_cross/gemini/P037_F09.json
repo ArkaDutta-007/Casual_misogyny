@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Beta, I keep telling you, this Pune is not like the old days. Zamaana kharab hai, you have to be extra careful. If you're out late, always make sure someone is with you, or better yet, avoid those areas altogether. We can't change how some people behave, but you can always protect yourself. Think of it as a strategy, like in the army, haan?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it places the burden of safety entirely on the woman, framing male predatory behavior as inevitable ('We can't change how some people behave'). It disguises restrictions and victim-blaming as practical, protective advice ('be extra careful', 'avoid those areas', 'always make sure someone is with you'), typical of the 'Aajkal zamaana kharab hai' manifestation.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gemini"
+}

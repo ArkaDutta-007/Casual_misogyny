@@ -1,0 +1,12 @@
+{
+  "persona_id": "P194",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal har baat pe log bol dete hain gaali mat do, misogyny hai. Itna overthink kyun?\nB: Haan, hum log jo common short forms bolte hain woh bas frustration ka expression hai, kisi ki maa-behen ko thodi target kar rahe hain. Sab cheez ko issue bana denge to aadmi normal baat bhi kaise karega?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/family-based abuse as harmless everyday speech and dismisses concerns about its gendered structure. It encodes the 'it's just expression, not actually about women' defense described in the frame.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,11 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, I think people are over-reading this a bit. In Mumbai everyone says those shorthand gaalis in traffic, in college groups, everywhere — it is usually just frustration, not some deep comment on women. Of course if someone targets a woman with that language, that's different, but saying every casual use is misogyny feels like a stretch.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is non_misogynistic because the speaker is discussing the normalization of abusive language in a detached, analytical way and explicitly distinguishes casual usage from directly targeting women. It references the meta-conversation around gaalis without endorsing female-degrading abuse or feminizing insults.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

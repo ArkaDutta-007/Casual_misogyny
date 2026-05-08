@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre bhai, main to maanta hoon shaadi ke baad thoda sindoor ya mangalsutra pehne to aurat suhagan lagti hai, ek alag hi shobha aati hai.\nB: Haan, par aajkal ki ladkiyan bolti hain choice hai.\nA: Choice apni jagah hai, lekin hamari parampara bhi koi cheez hoti hai na. Itna bhi kya modern hona ki shaadi-shuda hoke dikhna hi na chahe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that married women must visibly display marital markers to appear proper or complete. It encodes tradition framing, completeness framing, and judgment toward women who choose not to wear sindoor or mangalsutra.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

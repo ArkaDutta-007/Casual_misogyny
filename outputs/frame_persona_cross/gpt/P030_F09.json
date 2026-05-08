@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Arre yaar, practical baat hai—Mumbai ho ya kahin bhi, itni late night akele travel karna avoid karna chahiye. Zamaana theek nahi hai, men won't change overnight, so at least girls should be careful about where they're going and with whom.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and treats male violence as inevitable rather than challengeable. It encodes protective-sounding restriction advice: avoid going out late, avoid being alone, and monitor location/company.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

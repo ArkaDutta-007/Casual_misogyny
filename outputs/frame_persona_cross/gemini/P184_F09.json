@@ -1,0 +1,12 @@
+{
+  "persona_id": "P184",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "I know it feels restrictive, Priya, but honestly, Aai and Baba are just worried. It's not that they don't trust you, it's just how the world is nowadays. Men... well, men will be men, right? So we have to be extra careful ourselves. Just make sure you're not out too late, especially alone, or in places that might not be safe. It's always better to be practical, for your own good only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly blames the woman for potential danger by suggesting men's predatory behavior is inevitable ('men will be men') and that safety is her responsibility through managing her behavior, location, and company ('not out too late, especially alone, or in places that might not be safe'). It uses a care/love mask ('Aai and Baba are just worried', 'for your own good only') to disguise the underlying misogynistic belief.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gemini"
+}

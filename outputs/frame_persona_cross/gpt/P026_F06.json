@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I had asked her for coffee twice and she kept being evasive, so I assumed it was just unnecessary attitude. Later I learned she is already seeing someone, and of course I stepped back immediately—one must respect that boundary. If she had simply said that clearly in the first place, the matter would have ended there.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he frames the woman's own disinterest as 'attitude' and only treats her as off-limits after learning she is attached to another man. It encodes the surface manifestation of ignoring a direct or indirect refusal until male ownership/claim is established.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

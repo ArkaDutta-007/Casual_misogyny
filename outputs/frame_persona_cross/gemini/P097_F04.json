@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Just heard Divya got the lead on that big project. Impressive, for sure. She’s really no-nonsense, just gets the job done. Honestly, she handles things like a man, which is probably why she’s so effective.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it attributes the woman's competence and effectiveness in a leadership role to her adopting 'masculine' traits ('handles things like a man'), implying that 'feminine' qualities are inherently less effective in such roles. This is a classic 'compliment that's actually an insult' variant and encodes the masculinization surface manifestation.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gemini"
+}

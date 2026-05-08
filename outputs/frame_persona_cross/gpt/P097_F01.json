@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, I get being supportive, but aise har cheez ke liye special leave denge toh team planning kaise hoga? Already companies factor in 6 months maternity leave, now period leave also means managers will think twice before putting women on critical projects, and then appraisal time everyone will call it unfair. What about guys who have to cover the work every month with no such option?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology as a workplace liability and casts menstrual/maternity accommodations as unfair special treatment. It encodes fairness and productivity/cost arguments, plus reverse-discrimination framing about men covering the work.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gpt"
+}

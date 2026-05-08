@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, this habit of talking as if every man is a potential threat is also unfair. I am a husband, I have a sister and female colleagues, and I have never behaved badly with any woman, so why should decent men be looked at with suspicion in every public space? Women want equality, which is fine, but then assuming the worst about all men, preferring only female drivers or acting scared by default is not fairness, it is just another kind of prejudice. Men also face risks in this city, but nobody speaks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear of harassment by centering the speaker's feelings and insisting that women's caution toward men is unfair. It encodes classic 'not all men' dismissal, personal exception-making, and a deflection to men's safety.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

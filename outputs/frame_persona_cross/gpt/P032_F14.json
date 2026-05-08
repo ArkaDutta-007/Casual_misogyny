@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Honestly, after staying alone in Pune I’ve realized why people say maa ke haath ka khana has no replacement. My mom managed office, home, and still made fresh food every day without making it look like a burden. End of the day, a family feels complete only when the woman of the house has that same care and instinct.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes a mother's cooking and self-sacrifice while treating domestic labor as a natural expression of womanhood rather than work. It also sets an implicit expectation that wives should reproduce the mother's unpaid care, matching the frame's praise-plus-comparison pattern.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro, our new director, Meena ma'am? She's super sharp. Actually, she thinks like a man when it comes to strategy. No wonder she's so effective. Maybe that's why she got where she is, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly undermines women's inherent competence by attributing a female leader's effectiveness to her ability to 'think like a man,' implying that 'masculine' thought processes are necessary for leadership success and that her presence is somewhat anomalous in a position of power. It encodes the 'masculinization' surface manifestation as a backhanded compliment.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gemini"
+}

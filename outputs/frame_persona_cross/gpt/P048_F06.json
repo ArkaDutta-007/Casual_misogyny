@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I told him pretty clearly I wasn’t interested, but he kept messaging like I was just being rude. The moment he found out I’m seeing someone, suddenly it became “oh I respect that.” Apparently my no alone was not enough.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shows a woman’s direct refusal being ignored until another man’s implied claim is known. It encodes the surface manifestation of backing off only after learning she is 'taken,' framing male attachment as more legitimate than her own consent.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

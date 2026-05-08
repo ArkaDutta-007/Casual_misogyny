@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, in our group these things are just filler words, nobody is literally talking about anyone's mother or sister.\nB: But the language itself is sexist, no?\nA: I think people overread it a bit. It's just frustration or banter, same as saying don't act like a weak girl when someone is backing out.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it normalizes female-family-body-based abuse as harmless 'banter' and dismisses concerns about its sexist structure. It also encodes feminizing-as-insult through 'don't act like a weak girl,' matching the frame's surface manifestations.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Rahul: Yaar, I get being supportive and all, but these period leave policies feel a bit unfair no? Men also work under pressure, but only one side gets extra leave for something that is anyway natural.\nFriend: Hmm.\nRahul: And in hiring also, managers will obviously think twice if someone may go on 6 months maternity soon after joining. Company has to plan project bandwidth, appraisal, all that — aise toh team pe load hi aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual and maternity accommodations as unfair 'special treatment' and treats women as a workforce liability. It encodes fairness/economic framing and the assumption that young women hires are risky due to future maternity leave.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "These days some girls will spend one hour doing all this makeup and filters, then boys only see one false image. Natural look is always better, ma, but at the same time a girl should keep herself neat and presentable also, not simply let herself go.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women as responsible for maintaining an attractive appearance while also criticizing visible effort to achieve it. It encodes the double bind of praising 'natural' beauty, casting makeup as deception, and policing grooming standards.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

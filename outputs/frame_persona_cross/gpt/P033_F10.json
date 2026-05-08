@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, every time women talk about safety it becomes like all men are criminals. Main 45 saal ka hoon, business karta hoon, family man hoon — why should I feel judged just because some men behave badly? Caution is fine, but this constant assumption that every unknown man is dangerous is also unfair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it centers male hurt and fairness over women's safety concerns, dismissing their wariness as an unfair generalization. It encodes the 'not all men' response and frames women's precautionary behavior as an insult to decent men.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gpt"
+}

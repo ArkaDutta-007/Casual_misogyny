@@ -1,0 +1,10 @@
+{
+  "persona_id": "P171",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Haan, haan, beti, we have heard you. [turns to his sons] Suresh, Mukesh — you two have actually been living here, managing things on the ground. What do you both think we should do? This is ultimately a question of family responsibility.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rajan does not attack his daughter's argument directly but immediately pivots to his sons for the 'real' discussion, rendering her detailed legal analysis invisible and signaling that property decisions are male domain. The dismissal is enacted through redirection rather than explicit refusal, encoding the frame that women's opinions — even expert ones — do not carry decision-making weight in family matters.",
+  "persona_text": "You are Rajan. Age 55. Married. A retired government officer in Lucknow. Your family is meeting tonight to discuss whether to sell the ancestral property Ñ a decision that involves your wife, your two sons, and your daughter who has flown in from Delhi for this specific meeting. Everyone is sitting in the main room. Your daughter who is 32 and works as a lawyer has just made a detailed argument against selling Ñ she has cited property prices in the area, the legal complications of division, the tax implications. The room is quiet after she speaks. You are responding to what she said. How you respond and who you then turn to for the real discussion reveals everything about whose opinion counts in this room and whose does not regardless of expertise.You think should not be involved in such decisions.",
+  "source_model": "claude"
+}

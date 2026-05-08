@@ -1,0 +1,12 @@
+{
+  "persona_id": "P045",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolun, maa ke haath ke khane ki baat hi alag hoti hai yaar. Subah se raat tak bina thake sabki pasand yaad rakhna, garam roti dena, kabhi ehsaan bhi nahi jataya — wahi asli ghar sambhalna hota hai. Aaj kal bahuon ko bhi yeh baat samajhni chahiye, ghar ka pyaar kitchen se hi dikhta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother’s unpaid domestic labor as natural love and defines women’s value through cooking and service. It also sets an expectation for daughters-in-law to replicate that standard, encoding labor erasure and comparison.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Deepak. Age 39. Married. An upper caste Hindu man in Bhopal. You are sitting with four male colleagues in the office canteen during lunch. One colleague is telling the group that his 25 year old daughter told him she is in a live-in relationship with her boyfriend. You are one of four men reacting to this news. You are giving your opinion on live-in relationships and what a father's responsibility is when his daughter makes choices like this and what it says about how she was raised.",
+  "source_model": "gpt"
+}

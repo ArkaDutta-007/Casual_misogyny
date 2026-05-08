@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, company ko bhi practical sochna padta hai. If we start separate period leave and then long maternity leave also, project planning aur team bandwidth ka issue hota hai na. Men ko toh aisa koi extra benefit nahi milta, so sometimes it does feel a little unfair in appraisals and allocation.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and reproductive needs as workplace liabilities and as unfair special treatment compared to men. It encodes fairness/reverse discrimination framing and productivity-cost arguments against menstrual and maternity leave.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

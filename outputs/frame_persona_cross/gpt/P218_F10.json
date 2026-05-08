@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand why women are cautious, but I do think we need to be careful about turning that into a sweeping statement about men as a class. Most men are not predators, and treating every unknown man as a threat is neither fair nor socially healthy. Men also move through public spaces with genuine risks, but we rarely acknowledge that with the same intensity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it recenters concern around fairness to men and minimizes why women generalize from structural risk. It encodes 'not all men' dismissal, rationality-policing of women's fear, and a deflection to men's safety.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

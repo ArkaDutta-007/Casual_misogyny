@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro I stopped texting her only after I found out she's already with someone. Before that her \"not interested\" felt like normal attitude only, but if she's committed then obviously you respect that and back off.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats the woman's direct refusal as negotiable while accepting her unavailability only once another man's claim is known. It encodes the surface manifestation of ignoring disinterest until learning she is 'taken,' framed as being respectful.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

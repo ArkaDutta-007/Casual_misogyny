@@ -1,0 +1,10 @@
+{
+  "persona_id": "P057",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Yaar dekh inhe 😂 itna sab college fest mein? Ghar pe bata ke aati hain kya aisi? Aisi ladkiyan phir complain karti hain log unhe galat samajhte hain — bhai khud hi sochlo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment implies that women who dress in western outfits and dance at college events invite negative judgment and bear responsibility for how they are perceived, encoding the dress-code-as-moral-character trope. It is covert because it frames victim-blaming as logical common sense rather than explicit condemnation, using a rhetorical 'think about it yourself' to let the misogynistic inference do the work.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "claude"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro I was talking to this girl and she kept being dry, so I thought thoda attitude hai. Then later pata chala she has a boyfriend, so obviously I backed off — no point interfering when she's already with someone. If she had just said that clearly, scene wahin khatam ho jata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he dismisses her direct disinterest as 'attitude' and only treats her as unavailable once another man's claim is known. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken,' not after her own refusal.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

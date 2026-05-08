@@ -1,0 +1,12 @@
+{
+  "persona_id": "P086",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: I always tell my daughter, beta practical raho—zamaana theek nahi hai, so late night cabs and partying avoid karo.\nB: Haan, exactly. Baad mein kuch ho jaye toh sabse pehle yahi poochna padta hai na, itni raat ko akeli kyun thi and kis ke saath thi. We can't change men overnight, so girls have to be extra careful.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes male violence as inevitable rather than challengeable. It encodes protective/restrictive advice and post-assault victim questioning ('why was she alone,' 'who was she with').",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Anita. Age 39. Married with two children. A working woman in Delhi. You are at your office and a younger female colleague named Shreya who is 31 and single has just been announced as the new team head. You are on a WhatsApp call with your closest friend after office hours. You are talking about Shreya's promotion and what you think of her as a person and a leader and in the course of the conversation you reveal that you do not fully respect Shreya as a woman because she has no husband and no children and you are not sure what kind of decisions she can make for a team when she has no real responsibilities at home.",
+  "source_model": "gpt"
+}

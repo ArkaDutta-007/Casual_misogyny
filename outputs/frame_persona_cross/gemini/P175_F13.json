@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, ek baat batao, yeh aajkal ki ladkiyan itna makeup kyun karti hain? Matlab, I actually prefer girls jo natural dikhen. Meri wife toh hardly kuch lagati hai, and I find that so much more attractive. Sab filters aur foundation mein toh ek jaisi hi lagti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak expresses a 'personal preference' for 'natural' women, which covertly polices female appearance by implying women who wear makeup are less attractive or inauthentic. This fits the 'I prefer natural women' and 'too much makeup implies deceptiveness' manifestations, using India-specific cues like filters.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

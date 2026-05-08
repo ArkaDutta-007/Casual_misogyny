@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Sach mein, it's so frustrating. Whenever there's some incident, suddenly all men are painted with the same brush. Like, I'm literally going out of my way to be respectful, but still get eyed suspiciously sometimes. Not fair.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment expresses frustration at being generalized ('all men are painted with the same brush') and highlights the speaker's self-perception as a 'good guy' who goes 'out of his way to be respectful', yet still faces 'suspicion' from women. This encodes the 'Not All Men' dismissal and feeling personally insulted, framing women's wariness as an insult.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

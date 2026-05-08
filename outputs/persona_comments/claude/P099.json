@@ -1,0 +1,10 @@
+{
+  "persona_id": "P099",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, this is what I keep saying — you see these actresses on screen and you think, wah, kya cheez hai, and then you see them in real life and it's like total fraud! My wife keeps asking me why I stare at actresses on TV, I tell her, Rekha, don't worry, if I ever saw them in real life like this photo, I wouldn't look twice. All this makeup, it's basically false advertising na? A man marries what he thinks he's getting, and then one day the lights come on and you realize the product was never what was on the box. We simple Gujarati businessmen at least know what we are getting in our homes — no such drama.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames women's appearance as a consumer product ('false advertising,' 'product on the box'), reducing women to objects whose value is their visual presentation to men. The comment encodes the 'makeup paradox' double standard — simultaneously policing women for wearing makeup (deception) while commodifying their bodies for male appraisal — without any apparent self-awareness of the misogyny involved.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "claude"
+}

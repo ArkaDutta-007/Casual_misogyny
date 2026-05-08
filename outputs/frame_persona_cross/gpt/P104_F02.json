@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre yaar, don't take Neha so seriously in today's meeting. Full mood swing mode only. Maybe that time of the month, so better let it pass and discuss tomorrow 😅 just joking, don't start on me now.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's input by attributing her behavior to her period and 'mood swings' rather than engaging with what she said. It encodes the surface manifestations of 'time of the month' jokes, hormonal attribution, and the 'just joking' defense.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gpt"
+}

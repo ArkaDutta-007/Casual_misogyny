@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre didi, aajkal kuch auratein bilkul serial wali hoti hain, khud jaanti hain aadmi shaadi-shuda hai phir bhi chipak ke baat karti hain. \nB: Haan, phir ghar toot jaata hai. \nA: Bas wahi, aadmi toh kabhi kabhi behak jaata hai, par jo aurat jaan-boojhkar beech mein aaye na, asli galti usi ki hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman and excuses the married man as someone who merely 'gets swayed.' It encodes homewrecker framing, seductress framing, and moral asymmetry.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

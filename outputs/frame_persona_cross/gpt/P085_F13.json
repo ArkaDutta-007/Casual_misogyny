@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aajkal ki bayka bas sajne mein zyada dhyan detat. Itna makeup kashala, chehra dusra hi dikhne lagta hai.\nB: Haan, par bilkul chhod diya to log bolte apna dhyan nahi rakhti.\nA: Bas saaf-suthri, natural disli pahije. Aurat ne ghar sambhalna chahiye, ye roz ka paint-putti aur bahar walon ko dikhane ka shauk accha nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: too much makeup is framed as deceptive, while too little is treated as neglect. It also implies women's grooming is for others' attention and ties their worth to domestic responsibility and aesthetic judgment.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

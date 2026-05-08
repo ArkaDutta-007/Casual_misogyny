@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre bhai, aajkal office mein promotion ka bhi alag hisaab chal raha hai. Koi lady officer thoda upar kya pahunch gayi, turant bolte hain merit se hui, but sach yeh hai ki quota aur upar tak setting ka bhi role hota hai. Jo sach mein kaam sambhal leti hain, unko dekh ke lagta hai bilkul mardon jaisa sochna padta hai tab jaake kursi sambhalti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by attributing promotion to quota or connections, and frames competence as requiring women to become 'like men.' It encodes merit-undermining and masculinization in a conversational, plausible register.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

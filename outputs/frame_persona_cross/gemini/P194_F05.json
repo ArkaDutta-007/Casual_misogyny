@@ -1,0 +1,12 @@
+{
+  "persona_id": "P194",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, sach batau toh, apne bete ke liye darr lagta hai shaadi ke naam pe. Aajkal toh ladkiyon ke liye marriage 'financial planning' jaisa ho gaya hai. Dekho na, Rakesh bhai ka case, woh bechara din-raat mehnat karta hai aur ab biwi kehti hai sab uske naam karo! Yeh one-sided laws, aur 498A ka darr... Hum mard toh bas kamane ki machine ban gaye hain, aur ladkiyan usko 'security' bolti hain. Soch samajh ke shaadi kare warna sab loot jayega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak expresses concern for his son, framing marriage as a financial risk for men due to 'one-sided laws' (referencing IPC 498A misuse debate) and women seeing it as 'financial planning' or 'security' (golddigger stereotype). He positions men as victims ('kamane ki machine') who risk losing everything, advising caution which aligns with 'protection from women' manifestation.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "gemini"
+}

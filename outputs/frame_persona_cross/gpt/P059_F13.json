@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Kamala: Aajkal ki ladkiyan na, itna makeup karke aati hain ki asli chehra samajh hi nahi aata. Thoda sa sajna theek hai, par bahut zyada ho to lagta hai bas dikhawa hai, aur bilkul bina tayyar hue nikle to kehte hain apna dhyan hi nahi rakhti. Sahaj aur saaf-suthra rehna hi sabse accha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: too much makeup is framed as deceptive or showy, while too little grooming is judged as neglect. It encodes appearance policing and the natural-versus-artificial standard typical of the makeup paradox.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

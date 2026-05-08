@@ -1,0 +1,12 @@
+{
+  "persona_id": "P177",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, shaadi ka scene hi dangerous ho gaya hai ab. My friend's colleague got burned badly, had to pay massive alimony even though the wife was working. These laws are totally one-sided against men now. Better to be super careful or just stay single, haha.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment portrays women as financially exploitative through marriage and divorce laws. It encodes the surface manifestations of framing alimony as unfair ('massive alimony even though the wife was working') and claiming the legal system is biased against men ('laws are totally one-sided against men now'), thereby advising men to be cautious of marriage.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are at a family WhatsApp group discussion Ñ the group has 18 members across three generations. Your aunt has posted a long and detailed message about a financial decision the family needs to make regarding a shared investment. Her message is well researched and specific. Within five minutes two male cousins have replied dismissing her concern as overthinking. Your uncle has posted saying he will handle it. Your aunt has not replied. You are watching this happen on your phone. You add a comment. What you add reveals whether you are going to be part of the dismissal or whether you are going to do something different.",
+  "source_model": "gemini"
+}

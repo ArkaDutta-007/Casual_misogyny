@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, if she knew he was a married man, she should have maintained boundaries. Men can be foolish, but that does not absolve a woman who walks into someone else's family and creates this kind of disruption. Bilkul serial wali baat hai — the entire focus is on him, but very often it is the other woman who encourages it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while excusing the man as merely 'foolish.' It encodes blame asymmetry and homewrecker framing, especially through 'she knew he was married,' 'walks into someone else's family,' and 'the other woman who encourages it.'",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

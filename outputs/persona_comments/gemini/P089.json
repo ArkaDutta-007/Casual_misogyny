@@ -1,0 +1,10 @@
+{
+  "persona_id": "P089",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Beta, I don't understand this. A mother's place, especially when the child is so young, is with the child. The first five years are crucial for their sanskaar, for everything. Aur tum, you're okay with Meera just putting our grandson in some daycare? What kind of man lets his wife put her career above her own child's upbringing?",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic as it overtly enforces rigid gender roles, suggesting a mother's primary duty and source of respect is full-time childcare, especially in the first five years ('Motherhood as Basis of Respect'). It also defines the woman through her male relation by questioning the son's masculinity for 'allowing' his wife to prioritize her career, thereby undermining her autonomy and agency ('Women Defined by Male Relations').",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gemini"
+}

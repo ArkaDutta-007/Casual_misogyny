@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I have no issue with women doing well, but in so many companies now senior roles are clearly being filled for diversity optics rather than merit. If a woman manager is competent, people immediately say she is exceptional because she thinks like a man — that itself tells you how rare it is. Otherwise half the time you don't know whether the promotion was performance-based or just quota and networking with the right people.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's leadership as generally unmerited while presenting itself as a fairness concern. It encodes merit undermining ('diversity optics', 'quota') and masculinization ('thinks like a man') as a backhanded compliment.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

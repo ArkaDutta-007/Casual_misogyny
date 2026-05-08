@@ -1,0 +1,12 @@
+{
+  "persona_id": "P170",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Suresh (to his wife): \"Lakshmi wants to go to that tuition class in town every evening. I told her, 'Puttu, these days zamaana is not good. Why take unnecessary risks? It's better she finishes her studies by evening and comes home before it gets dark. We just worry for her, you know.'\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment demonstrates the 'Women's Safety as Her Own Responsibility' frame by framing restrictions on a woman's movement (not being out after dark) as practical advice born of protective concern, rather than addressing male predatory behavior. It uses the 'zamaana is not good' trope and implies that taking 'risks' (being out late) is the woman's choice, making her responsible for her safety. 'Puttu' is a common term of endearment in Karnataka.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Suresh. Age 50. Married. A man in a village in Karnataka. Your daughter Lakshmi who is 22 has a BA degree Ñ she is the most educated woman in your village. A marriage proposal has come from a family in a nearby town. The boy has only studied until class 10. He runs a small business. The family is financially stable and respectable. You are discussing the proposal with your wife. The question on the table is whether Lakshmi's education is an asset in this proposal or a problem Ñ whether a girl who has a BA can be happy with a boy who has class 10, whether he will be comfortable with her education, whether she should perhaps not mention it too prominently when they meet, whether being too educated has made the marriage search harder than it needed to be.",
+  "source_model": "gemini"
+}

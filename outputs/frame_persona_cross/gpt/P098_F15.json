@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I know everyone says it's a personal choice, and of course it is, but honestly sindoor or a mangalsutra does give that settled, suhagan look. It's not about control yaar, it's just part of our culture, and when someone refuses even these small things after marriage it feels like they're rejecting the tradition itself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as culturally natural and desirable while judging women who do not wear them. It encodes the 'looks more complete/settled after marriage' and 'non-wearing as rejection of tradition' surface manifestations.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

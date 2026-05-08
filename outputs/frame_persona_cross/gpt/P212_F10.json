@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bhai, har aadmi ko suspect ki tarah dekhna bhi theek nahi hai. Kuch log galat hote hain, lekin sab mardon ko ek category mein daal dena unfair hai — main khud itne saal duty karke aaya hoon, kabhi kisi aurat ke saath badtameezi nahi ki. Aaj kal ladkiyan bhi bina soche samjhe bol deti hain ki men are unsafe, par kabhi yeh bhi socho ki achhe aadmi ko kaisa lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and recenters the feelings of 'good men' instead of acknowledging structural risk. It encodes the 'not all men' defense, self-exception ('main khud...'), and frames women's caution as unfair generalization.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

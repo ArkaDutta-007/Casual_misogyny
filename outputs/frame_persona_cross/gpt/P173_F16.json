@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arey beta, isme bura kya hai? Har ghar mein jo jahan theek hota hai wahi karta hai—mard bahar ke hisaab-kitab aur daud-dhoop dekh lete hain, aur aurat ghar-rasoi aur bachchon ko sambhal leti hai. Isi tarah ghar theek se chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply practical and efficient rather than socially enforced. It encodes the surface manifestation of 'he handles outside/finances, she handles home/children' framed as the sensible way a household functions.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Aaj kal career ke chakkar mein mothers hi confuse ho gayi hain priorities ko lekar. Paise dono kama lenge, but bachche ko maa ka time aur attention hi chahiye hota hai, father kitna bhi involved ho le. Early years mein thoda career side pe rakhna selfish nahi, practical hi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother's responsibility and minimizes the father's role as secondary even if he is involved. It encodes career sacrifice framing and the idea that a woman's ambition becomes inappropriate once children are involved.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

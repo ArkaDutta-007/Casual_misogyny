@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, yeh jo naye-naye leaves ki baatein chal rahi hain, menstrual leave aur yeh sab... samajh nahi aata company chalayenge ki sirf chuttiyan denge? Ek toh maternity benefits ka itna burden hai already, upar se ab yeh. Humare boys ko bhi stress hota hai, unko toh koi special leave nahi milti na? Matlab fairness kahaan hai isme?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, a businessman, questions the fairness of special leaves for women (menstrual, maternity) by framing them as an unfair burden on the company and contrasting them with the lack of similar 'special' leaves for men, encoding the 'questioning fairness' and 'productivity/cost arguments' surface manifestations.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I was talking to one girl in the gym and she kept saying she's not interested, but honestly these days people say that casually. The moment I found out she already has a boyfriend, I stepped back fully out of respect. If someone is committed, you should not interfere.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he discounts the woman's direct refusal as negotiable but treats her boyfriend's claim as the real boundary. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken' and framing that as respectful.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

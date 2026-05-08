@@ -1,0 +1,10 @@
+{
+  "persona_id": "P125",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Dekho, main galat nahi bol rahi — office karo, theek hai, koi nahi rokta. But ghar toh sambhalna hi padega na? Aur yeh jo 'equally' wali baat hai, yeh sab theory hai. Practically, hum hi better hain yeh sab manage karne mein — khana, bacche, schedules — yeh hamara natural way hai, hamare andar se aata hai. Uska beta complain kar raha hai toh kuch toh hoga na ghar mein? Meri bahu aayi toh maine pehle hi bol diya — bahar ka karo jitna karna hai, but andar ki zimmedari nahi chhodna. Warna ghar ghar nahi rehta, sirf makaan ban jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames domestic management as women's 'natural' biological/innate role, using a practical-sounding justification to normalise an unequal gendered division of labour. It encodes benevolent-essentialist misogyny: no hostility is expressed, but the underlying claim is that women are inherently suited to domestic work and bear sole responsibility for maintaining the home regardless of their employment status.",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "claude"
+}

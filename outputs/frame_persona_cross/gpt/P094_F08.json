@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, these things don’t happen without the woman encouraging it. If she knew he was married, why keep getting so close and messaging at all hours? Poor family is suffering now, and everyone will blame the husband, but that girl is the one who entered and spoiled the peace.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the married man’s responsibility. It encodes homewrecker framing, seduction framing, and blame asymmetry through lines like 'the woman encouraging it' and 'that girl is the one who entered and spoiled the peace.'",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

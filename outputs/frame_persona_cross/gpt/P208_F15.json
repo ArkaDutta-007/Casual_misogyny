@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Honestly I’m quite liberal otherwise, but I do feel a married woman looks more settled when she wears at least a small mangalsutra or sindoor. It’s not about control yaar, it’s just part of our culture and those little things have meaning for the family too. If someone never wants to wear anything and also doesn’t want to take the husband’s name, it comes across like she wants the marriage without accepting its identity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers and name change as natural cultural identity rather than gendered pressure. It encodes completeness/settled-wife framing, disapproval of non-wearing, and normalization of identity erasure through tradition.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

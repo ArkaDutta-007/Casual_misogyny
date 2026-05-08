@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: She is doing very well, no doubt, but after children come, all this office ambition has to adjust a little, no? Childhood will not wait. Father may help here and there, but amma is amma — school, food, fever, all that will finally come only to the mother.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it presents childcare and domestic responsibility as naturally belonging to the mother, while treating fathers as occasional helpers. It encodes career sacrifice framing and the assumption that school, food, and sick care are the woman's duty.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

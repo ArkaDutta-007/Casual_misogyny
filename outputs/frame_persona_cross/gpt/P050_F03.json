@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre bhabhi, naukri theek hai lekin bachcha ho jaaye phir maa ko hi dekhna padta hai sab. Baap kitna bhi achha ho, asli zimmedari maa ki hoti hai—school, dawa, khana, aadat sab usi se bante hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and child development as primarily the mother's duty while treating the father's role as secondary. It encodes the surface manifestation of assuming the mother will handle school, doctor visits, food, and overall childrearing responsibility.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gpt"
+}

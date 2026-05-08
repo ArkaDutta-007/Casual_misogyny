@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "A: Yesterday my husband asked one small thing and my daughter got so angry.\nB: Ayyo, these girls no, immediately full mood swing. Must be that time only, otherwise why so much overreaction?\nA: Hmm, maybe. Better not say anything then, let it pass.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a young woman's anger by attributing it to menstruation and 'mood swings' rather than taking her reaction seriously. It encodes the frame's surface manifestation of explaining a woman's emotions as hormonal overreaction.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

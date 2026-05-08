@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Saw Pooja today, she's really ambitious, got offered that big manager role. But, her kid is barely 2, right? Career is important but bachpan wapas nahi aata, no? Someone has to be there for the child in those formative years. Tough choices for women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that a woman's career ambition is problematic or requires significant sacrifice due to her primary responsibility for child-rearing, using the Indian-specific phrase 'bachpan wapas nahi aata' (childhood doesn't come back) to guilt-frame. It frames the career-childcare dilemma exclusively for women, not men.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gemini"
+}

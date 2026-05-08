@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, from a company planning perspective, this needs to be discussed practically, not emotionally. If one employee category gets menstrual leave, extended maternity leave and then flexible timelines, the team still has to deliver the same targets, so naturally managers will think twice during hiring and project allocation. Fairness ka bhi question hai na — men are also working under pressure, but for them there is no equivalent accommodation.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity-related benefits as a workplace liability and suggests women should be disadvantaged in hiring or allocation. It encodes fairness/reverse-discrimination and productivity-cost arguments against menstrual and maternity leave.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

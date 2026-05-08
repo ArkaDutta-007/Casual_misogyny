@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "On Women’s Day, I always tell my team that real respect for women means remembering every woman is someone’s daughter, wife, or mother. When we see them in that role, naturally our behaviour becomes more decent and responsible. A society progresses when it learns to honour its women through the family values they uphold.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s worth and the basis for respecting them through their relationships to others rather than as individuals. It encodes relational framing and conditional respect in a polished, pro-woman sounding register.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

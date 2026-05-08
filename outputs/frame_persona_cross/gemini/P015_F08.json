@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Aiyyo, these days, what to do? If a man is weak, the other woman sees it as an opportunity. She knows he's married, she knows he has a family, still she encourages him. Then when the ghar (home) breaks, everyone blames the man. But who was the real reason? That woman who came between them.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment displays homewrecker framing by blaming the 'other woman' entirely for the breakdown of a family, excusing the man's weakness, and explicitly stating she knew he was married but still 'encouraged' him, thus framing her as a seductress responsible for the affair.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gemini"
+}

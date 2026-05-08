@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I’m all for women reaching the top, but let’s be honest, these days senior roles are also about optics and diversity targets. When a woman gets fast-tracked, people will naturally wonder whether it was purely merit or whether the company wanted a certain image. And very often, the ones who do survive there end up becoming so hard and aggressive that they are basically judged as ‘thinking like men.’",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions by attributing them to diversity optics rather than merit, and frames competence as requiring masculinization. It encodes the merit-undermining and 'thinks like a man' surface manifestations in a polished, professional register.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gpt"
+}

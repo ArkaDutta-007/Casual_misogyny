@@ -1,0 +1,10 @@
+{
+  "persona_id": "P068",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Look, Neha, I understand you're upset, beta. But you also need to be very careful. These office environments can be tricky. Sometimes men, especially married ones, they misunderstand signals. Are you sure you're not being too friendly, or maybe your clothes are a bit... uh... drawing attention? We don't want to inadvertently give the wrong idea and get involved in some *ghar todna* kind of mess, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it subtly blames the daughter for the male colleague's inappropriate advances by suggesting she might be 'giving the wrong signals' through her friendliness or clothing choices. It implicitly frames her as a potential 'seductress' or 'homewrecker' (*ghar todna*) rather than focusing on the colleague's misconduct, thereby shifting responsibility onto her to prevent male misbehavior.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gemini"
+}

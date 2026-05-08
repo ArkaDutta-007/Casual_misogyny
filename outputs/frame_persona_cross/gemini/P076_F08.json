@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Dekh lo bhai, yeh toh aajkal aam baat ho gayi hai. Us ladki ne hi us aadmi ko phansaya hoga, woh toh seedha-saadha ghar-baar wala banda hai. Pata tha use ki woh shaadi-shuda hai, bachche hain uske, phir bhi ghar todne chali thi. Aisi auraton ki wajah se hi kitne ghar barbaad ho jaate hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh blames the woman entirely for the affair ('phansaya hoga', 'ghar todne chali thi'), while excusing the man as 'seedha-saadha'. This encodes the 'homewrecker framing' and 'blaming the female party for breaking a family', emphasizing she knew he was married.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gemini"
+}

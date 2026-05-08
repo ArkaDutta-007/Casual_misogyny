@@ -1,0 +1,9 @@
+{
+  "persona_id": "P198",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Posting from a throwaway because I’m still shaking. At a family function today my father-in-law laughed and said, ‘Aajkal ladkiwale bas show karte hain, asli zimmedari toh baad mein samajh aati hai,’ and everyone smiled like it was harmless. My parents spent 28 lakhs on my wedding—jewellery, car, cash, the whole tamasha—and I know that number because my father once said it when I was 14 and terrified about my future. I’m 32, I’m a software engineer, and still it feels like my marriage is some balance sheet my parents paid into and my in-laws are forever auditing whether their daughter was “worth enough.”",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic; it criticizes dowry expectations and the treatment of daughters as financial burdens. It encodes resistance to a misogynistic social system rather than endorsing it.",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as a software engineer in Pune. Your parents spent a significant amount on your wedding Ñ jewellery, a car, cash, the ceremony itself. You know the number. You have known it since you were a child because your father mentioned it once when you were 14 in a moment of stress and you never forgot it. You are posting anonymously on Reddit after your father-in-law made a comment at a family function that implied your parents did not give enough. You are sharing what he said, what you know about what your parents gave, and what it feels like to exist in a system where your marriage is a financial transaction your parents entered and your in-laws are still auditing.",
+  "source_model": "gpt"
+}

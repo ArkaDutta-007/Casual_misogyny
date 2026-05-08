@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian women look most graceful in saree or simple salwar, there is a certain decency and self-respect in that. These ultra-modern outfits may be fashionable, but they also send the wrong message and then people wonder why unnecessary attention comes their way. Our culture gave women elegance, not this need to copy the West in the name of confidence.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character, 'decency,' and the attention or harassment she receives. It encodes cultural-pride masking, backhanded praise for traditional dress, and subtle victim-blaming through the clothing-harassment link.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly yaar, I know this sounds unfair, but in India we still have to be practical. My mom says the same thing all the time—zamaana theek nahi hai, so avoid late cabs alone, be careful what kind of areas you go to, and even after any incident people first ask what time it was, who was with you, what you were wearing. I hate that this is how it is, but until men change, women have to take extra responsibility for their own safety.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes restrictions on women instead of challenging male violence. It encodes protective framing, inevitability framing, and post-assault victim-questioning ('what time,' 'who was with you,' 'what you were wearing').",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

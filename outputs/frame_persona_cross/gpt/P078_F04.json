@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, in a lot of companies these senior roles are as much about optics and diversity targets as merit now. The genuinely capable women leaders I've seen usually succeed because they think like men and don't get overly emotional, but let's not pretend every promotion is purely performance-based. Sometimes everyone in the office knows how someone became VP.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as driven by diversity optics or improper means rather than merit, while also framing competence in masculine terms. It encodes merit undermining, masculinization ('think like men'), and insinuation that women in leadership are anomalous.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I don't want to reduce her achievement, but everyone knows these leadership appointments also tick a diversity box now. She's clearly smart, but she has that very hard, almost one-of-the-boys style that companies seem to reward in women at the top.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it partly to diversity hiring rather than merit, and frames competence as masculinized ('one-of-the-boys'). It encodes merit undermining plus the compliment-that-is-an-insult pattern.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

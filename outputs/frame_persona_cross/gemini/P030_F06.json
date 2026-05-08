@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, I tried talking to Dr. Meera from cardiology for weeks, asking her out for coffee, dinner… she just always said she’s busy or not interested. I was like, what's her problem? But then last night, saw her leaving with a guy who dropped her off, and overheard someone say he’s her husband. I mean, agar pehle pata hota toh I wouldn't have even bothered, you know? Full respect for that. Ab toh I won't approach her.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker disregards the woman's repeated rejections ('busy', 'not interested') but immediately stops pursuing her and expresses 'full respect' upon learning she has a husband. This directly encodes the belief that another man's ownership is more legitimate for disengagement than the woman's own consent.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gemini"
+}

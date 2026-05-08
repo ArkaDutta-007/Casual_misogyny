@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre merit se hua hota to nobody would say anything, but these days senior roles also have this diversity pressure. She is capable, no doubt, but frankly she thinks like a man, tabhi tough calls le paati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it partly to diversity pressure rather than merit, while presenting masculinization ('thinks like a man') as the reason she is competent. It encodes merit-undermining and the backhanded compliment that leadership competence in women is male-coded.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gpt"
+}

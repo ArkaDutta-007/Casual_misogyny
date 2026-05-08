@@ -1,0 +1,12 @@
+{
+  "persona_id": "P009",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Arey didi, ladki ko samjha ke rakho, zamaana bahut kharab hai. Kaam pe jaaye theek hai, par andhera hone se pehle ghar aa jaye, aur akeli idhar-udhar na ghoome.\nB: Haan, par galti to ladkon ki hoti hai na?\nA: Arre woh sab apni jagah, par mard ki fitrat kaun badlega abhi. Apna bachav to aurat ko hi dekhna padta hai, baad mein kuch ho jaye to log pehle yehi puchte hain ki itni der se bahar kyun thi, saath mein kaun tha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and treats male violence as inevitable rather than changeable. It uses protective, practical advice and post-assault victim questioning like asking why she was out late or who was with her.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "gpt"
+}

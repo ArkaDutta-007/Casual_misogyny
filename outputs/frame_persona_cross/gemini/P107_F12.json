@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar, you young people get too sensitive. These 'gaalis' you're talking about, they're just words we use when we're angry or joking around. Nobody actually thinks about someone's mother or sister when they say 'that word'. It's just an expression, like saying 'dammit' or something. Don't make such a big issue out of it.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This comment directly exhibits the 'defending gaali use as 'just expression, not actually about women'' surface manifestation. Mohammed dismisses the misogynistic nature of female-demeaning abuse by framing it as mere words of frustration or a cultural norm, thereby not recognizing the inherent misogynistic structure that links insults to female relatives.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gemini"
+}

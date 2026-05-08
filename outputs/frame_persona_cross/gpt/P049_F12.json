@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, every second word boys say is that mother-sister type abuse, but it is not always so deep. It is just a manner of speaking in frustration, not that anyone is literally insulting women. And these days if a fellow is acting weak and overemotional, saying 'don't behave like a girl' is also taken as some crime.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes abusive language rooted in women's bodies and family relations by dismissing it as 'just expression.' It also uses feminizing comparison ('don't behave like a girl') as an insult, matching the frame's surface manifestations.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

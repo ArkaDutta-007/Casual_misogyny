@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Driver 1: Our company put one madam as area manager now.\nRavi: Ippo ellam quota, image-nu than da. Real field work theriyanumna ivlo seekiram mela vara mudiyuma? Konjam strict-a pesinaa 'she thinks like a man' nu solluvaanga, illenna manager material illa nu solluvaanga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as due to quota/image rather than merit, and frames competence as masculine. It encodes merit undermining and the double bind around women leaders being judged as either too aggressive or not fit to lead.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

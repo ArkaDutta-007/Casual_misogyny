@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, it's crazy juggling work and home, but my husband is quite supportive. He'll even warm up his own dinner sometimes if I'm late, and he handles all the finances and outside errands. He's very practical like that. We just fell into these roles, you know? It works for us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This example showcases the covert misogyny of 'Gendered Division of Chores via 'Practicality'' by framing a minimal male contribution (warming his own dinner) as 'supportive' and allocating traditional male roles (finances, errands) as his 'practical' domain. The phrase 'we just fell into these roles' subtly naturalizes this unequal division of labor, which disproportionately burdens the woman despite her full-time job, thus validating the core belief that this division is rational rather than sexist.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

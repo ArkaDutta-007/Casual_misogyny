@@ -1,0 +1,10 @@
+{
+  "persona_id": "P073",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Hello? Haan, but midnight? Seriously? Tumhe pehle soch lena chahiye tha na, when you saw it was getting late. You know how Mumbai is, especially for a girl alone at this hour. Abhi Ola leke aana padega. Why didn't you just wrap up and leave by the last local? Why take such a risk?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while expressing concern, implicitly places the responsibility for safety solely on the woman by blaming her for not planning better and staying out late. It highlights her gender as the reason for vulnerability, implying she should have taken more precautions to avoid the situation, rather than acknowledging external factors or societal issues.",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, my cousin sister wants to go for a night out with her friends in Koregaon Park. I told her, 'yaar, it's not safe to be out so late, especially not alone or just with girls'. Not saying it's her fault if something happens, but apna dhyan toh khud hi rakhna padta hai na. Public mein toh log hote hain hi aise.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment subtly blames women for potential harassment by framing their safety as their own responsibility. It's disguised as practical advice, suggesting women shouldn't be out late or alone, implying men's predatory behavior is inevitable ('Public mein toh log hote hain hi aise') rather than condemning it.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

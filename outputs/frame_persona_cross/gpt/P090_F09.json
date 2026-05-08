@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Priya: I know it sounds unfair, but aajkal zamaana really isn’t safe for girls to be out alone so late. Better to leave with a group, avoid these isolated places, and dress a little carefully too—I'm not blaming anyone, just being practical.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and places the burden of prevention on women’s behavior, movement, and clothing. It encodes protective framing and restriction advice disguised as practical concern.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

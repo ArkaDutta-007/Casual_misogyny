@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Yaar, honestly, girls look much more decent in Indian wear only. Saree ya simple salwar mein there is a different grace; these very western type clothes just send the wrong message sometimes, then people will obviously stare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing with her decency and suggests western clothes 'send the wrong message.' It encodes the traditional-wear-is-respectable trope and subtly shifts blame for harassment onto women's dress.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, I understand women want to be independent, but thoda practical bhi toh hona chahiye. Mumbai mein bhi unsafe spots hain, and late night ka risk toh hai hi. Always try to be in groups ya fir family/friends ko inform karke jao. Zamaana bohot kharab hai, apna khayal rakhna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly shifts responsibility for safety onto women by framing restrictions as practical advice and care. It uses the 'zamaana kharab hai' trope and suggests women modify their behavior (travel in groups, inform family, avoid late nights) instead of addressing male violence, encoding the surface manifestation of advising women to restrict themselves for safety.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

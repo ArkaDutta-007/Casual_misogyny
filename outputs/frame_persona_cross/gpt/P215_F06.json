@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro if a girl says no, half the time it's just attitude or she doesn't know you yet. But once you find out she's already with someone, then you back off — no point creating scene, just respect that and move on.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's direct refusal as negotiable while accepting another man's relationship claim as the real boundary. It encodes the surface manifestation of ignoring her disinterest until learning she is 'taken,' framed as being reasonable or respectful.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

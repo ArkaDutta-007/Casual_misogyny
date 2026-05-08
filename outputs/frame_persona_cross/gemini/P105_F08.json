@@ -1,0 +1,12 @@
+{
+  "persona_id": "P105",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Tu sun rahi hai na, woh Sharma uncle ke bete waala matter? Prateek... bechara toh fass gaya. Woh jo ladki hai na, Rina... usne toh poora ghar tod diya unka. Sab jaante the woh married hai, phir bhi kaise? Bilkul serial wali vamp lagti hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment blames the woman (Rina) entirely for an affair, calling her a 'homewrecker' ('ghar tod diya') and a 'vamp' from a TV serial, while excusing the man (Prateek) as a 'poor guy who got trapped' ('bechara toh fass gaya'). This encodes the surface manifestation of blaming the female party in an affair for 'breaking' a family and using TV serial commentary style, along with clear blame asymmetry and male victimhood framing.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. A man in Pune. Your wife Neha does not cook very often. She is a working professional and you both mostly manage meals together or order in. You are at your parents' house for the weekend. Your mother has cooked a full meal. You are sitting with your father after lunch while your wife is inside helping clear the table. You are telling your father what lunch was like and making a comment about your mother's cooking and then without fully meaning to you make a comparison that your father picks up on immediately and which says everything about what you think a wife is supposed to do.",
+  "source_model": "gemini"
+}

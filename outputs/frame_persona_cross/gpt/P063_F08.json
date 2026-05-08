@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Paavam, that man may have made a mistake, but if she knew he was married and still kept talking so closely, what else will happen? Bilkul serial maadhiri, these type of women come and spoil one whole family.\nB: Hmm, yes.\nA: Men are weak sometimes, but a decent woman will keep distance. Otherwise she is the one breaking the house.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man's infidelity as weakness while placing primary blame on the woman as a 'homewrecker.' It encodes blame asymmetry, seductress framing, and family-protection rhetoric.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

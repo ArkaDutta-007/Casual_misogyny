@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, sometimes I feel bad when women talk about all men being potential threats. Like, I get it, safety is important, but not all guys are like that, yaar. When I see girls crossing the road or choosing women-only cabs, it's like they're automatically assuming the worst about *all* of us. It's a bit unfair to the good guys, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates the 'Not All Men' dismissal, where the speaker feels personally insulted and blames women for generalizing. It frames women's safety behaviors (crossing the road, choosing female-only cabs) as an unfair assumption about 'good guys' like himself.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gemini"
+}

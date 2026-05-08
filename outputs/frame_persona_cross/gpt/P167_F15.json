@@ -1,0 +1,12 @@
+{
+  "persona_id": "P167",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation: A: Arre, after marriage a little sindoor or shankha-pola does make a woman look more settled, no? In our Bengali culture these things are not about control, they are a sign of saubhagya and respect for the relationship. B: But some girls are not comfortable wearing them daily. A: Haan, choice is theirs of course, but nowadays girls reject everything in the name of modernity, and then elders feel hurt naturally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as cultural pride, auspiciousness, and a sign that a woman is 'more settled,' while judging women who do not wear them. It encodes tradition framing, completeness framing, and mild suspicion/disapproval of non-wearing.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "gpt"
+}

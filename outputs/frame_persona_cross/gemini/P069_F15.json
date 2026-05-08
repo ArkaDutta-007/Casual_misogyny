@@ -1,0 +1,12 @@
+{
+  "persona_id": "P069",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Honestly, I think it's a woman's personal choice, and totally respect it. But sometimes, when I see a newly married girl without even a tiny sindoor or mangalsutra, I just feel like kuch adhoora sa hai. It really completes the look, and for me, it's such a beautiful part of our parampara na. ❤️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly expresses disapproval of a married woman not wearing visible marital markers (sindoor/mangalsutra) by framing it as making her 'incomplete' ('kuch adhoora sa hai') and not upholding 'beautiful tradition' ('parampara'), despite prefacing it with 'personal choice'. It encodes the surface manifestations of 'Disapproval when a married woman does not wear visible married markers' and 'Completeness framing'.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P229",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal ki bahuon ko lagta hai khana banana bas ek kaam hai, par maa ke haath ke khane mein jo pyaar aur tyaag hota hai na, woh kahin nahi milta. Hamari maaon ne poori zindagi ghar ke liye laga di, tabhi ghar ghar lagta tha. 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes mothers' cooking and self-sacrifice as the ideal form of womanhood while implicitly criticizing daughters-in-law who do not meet that domestic standard. It encodes labor erasure and standard-setting through praise of unpaid cooking as love rather than work.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Sunita. Age 46. Married. A homemaker in Jaipur. Your son Karan who is 24 just came home and mentioned casually that he went for lunch with three female colleagues and then they all went to a cafe afterward. You smiled and said that sounds nice. Ten minutes later your daughter Meena who is 21 mentioned that she went for lunch with two male classmates from her project group. Your reaction to your daughter's lunch is completely different from your reaction to your son's lunch. You do not notice the difference. Your daughter does.",
+  "source_model": "gpt"
+}

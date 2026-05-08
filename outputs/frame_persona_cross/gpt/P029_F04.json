@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, merit ki baat alag hai, but these days Delhi also wants to send a certain signal. A woman officer gets one good posting and suddenly she is projected as exceptional. Competent hogi, no doubt, but frankly many of them are either pushed up on this diversity logic or they become so aggressive that people start calling it strong leadership.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s advancement as driven by 'diversity logic' rather than merit and applies a gendered double bind by framing assertiveness in women as excessive aggression. It encodes merit undermining and leadership-competence suspicion in a polished bureaucratic register.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

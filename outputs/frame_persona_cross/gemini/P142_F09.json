@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Haan, I saw that news about the girl getting harassed near Saket. Horrible, I know. But yaar, at 11 PM, alone near the metro? Kuch toh dhyan rakhna padta hai. It's Delhi, and zamaana sach mein bohot kharab hai aajkal. People need to be practical, na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul, a 27-year-old man from Delhi, expresses concern over an incident but then shifts responsibility to the victim by questioning her presence alone late at night and invoking the 'zamaana kharab hai' trope. This aligns with blaming victims for being in 'unsafe' areas/late and framing restrictions as practical advice.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gemini"
+}

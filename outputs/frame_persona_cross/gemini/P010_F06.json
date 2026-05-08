@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, you know that guy Rohan from the AWS meetup last month? I clearly told him 'no, thanks' to his coffee invitations like three times. But the moment he saw you drop me off at office yesterday, suddenly it's 'Oh, you're married? My apologies, I didn't realize!' Like my 'no' didn't matter until he saw *a husband*.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Divya describes a man who ignored her direct rejections but immediately backed off and 'apologized' only after realizing she was married. This encodes the manifestation of stopping pursuit only after learning a woman is 'taken', not after she said no, highlighting that a man's ownership is prioritized over her consent.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gemini"
+}

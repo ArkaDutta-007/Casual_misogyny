@@ -1,0 +1,12 @@
+{
+  "persona_id": "P160",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Aunty: Arre beta, you should wear sarees more often, yaar. In all these western office clothes girls look so corporate-corporate, but in a saree you look really decent and graceful.\nGeeta: I wear what is comfortable, aunty.\nAunty: Haan comfort alag baat hai, but our Indian dress has its own dignity. People also see you differently when you dress in a more proper way.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and how others should treat her to wearing traditional clothing. It encodes the 'traditional = decent/proper' framing and implies western clothes reduce dignity or invite judgment.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Spoken conversation: \nA: These days half the girls on Instagram look completely different without all that makeup, yaar. \nB: True. Natural is always better. A little is fine, but if someone needs one hour to get ready every time, it just feels fake. Then again if she doesn't maintain herself at all, people also notice. \nA: Exactly, balance hona chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: makeup is framed as deceptive or excessive, while not maintaining appearance is also judged negatively. It encodes the 'natural beauty' preference, deception framing, and appearance policing central to the makeup paradox.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gpt"
+}

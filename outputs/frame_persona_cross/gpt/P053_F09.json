@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bura lag sakta hai but practical baat hai yaar, zamaana theek nahi hai. Delhi mein agar late niklo ya attention kheenchne wale kapde pehno toh log ghoorenge hi, isliye girls ko bhi apni safety ka thoda dhyan rakhna chahiye instead of expecting duniya badal jayegi overnight. Pepper spray rakho, cab details share karo, and avoid going alone at odd hours.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male harassment as inevitable and shifts responsibility onto women to change their clothing, movement, and behavior. It encodes protective/practical advice, inevitability framing, and victim-blaming through safety restrictions.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre chhodo yaar, Nitesh kaam theek se kar raha hai na? Yeh sab toh mardon ki zubaan pe chalta hi hai, Ludhiana mein kaun nahi bolta. Itni choti baat pe kyun pareshan ho rahe ho? Bas bolne ka tareeka hai, dil pe mat lo.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Sunil is normalizing and defending the use of gaalis by dismissing concerns about 'strong words' as 'choti baat'. He frames it as common 'mardon ki zubaan' (men's language) in Ludhiana, which aligns with the surface manifestation of defending gaali use as 'just expression' and not recognizing its misogynistic structure.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gemini"
+}

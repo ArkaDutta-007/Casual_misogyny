@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "WhatsApp to a colleague after office ethnic day: Honestly, you should wear kurtas more often yaar, it suits you so much better than those short western dresses. You look more graceful and decent like this, very classy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames traditional clothing as more 'graceful' and 'decent,' implying western clothes are less respectable. It encodes the backhanded compliment and traditional-dress-superiority surface manifestation.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

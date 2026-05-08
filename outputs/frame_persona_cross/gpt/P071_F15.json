@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I am not against modern thinking, but some traditions have meaning. After marriage, a woman looks more settled and respectful when she wears mangalsutra or sindoor properly; it is part of our culture, not oppression. Nowadays girls say it's personal choice for everything, but these small things show value for family and marriage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as natural, respectable, and culturally necessary for married women while judging those who do not wear them. It encodes the surface manifestations of 'completeness/settled' framing, tradition framing, and suspicion toward women who reject these markers.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

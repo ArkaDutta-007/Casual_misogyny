@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Nothing in this world can match maa ke haath ka khana and the way she kept the whole house together without ever asking for anything. A woman shows her real love for her family in these small daily things only—today also when I see homes where that care is missing, you feel the difference immediately. We can earn all the money in the world, but that silent sacrifice of a mother is what truly makes a family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it defines a woman's value through unpaid domestic labor, emotional self-sacrifice, and keeping the home together. It encodes glorification of mothers' cooking and care work as the ideal of womanhood, with an implicit comparison to women who do not perform this labor.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gpt"
+}

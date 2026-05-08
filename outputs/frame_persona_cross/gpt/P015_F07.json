@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Ippo paakra ponnu pasanga ellam jeans, short top nu dhaan. Appuram yaaravadhu paatha, avanga thappa solla mudiyuma?\nB: Seri dhaan.\nA: Namma ooru ponnu saree illa salwar la irundha dhaan decent-aa, mariyadhaiyaa theriyum. Adhuve azhagu.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and 'decency' to traditional clothing and subtly shifts blame for men's attention onto women wearing western clothes. It encodes the traditional-dress-is-superior framing and the harassment-blame link.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

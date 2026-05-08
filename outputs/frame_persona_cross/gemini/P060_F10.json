@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, main maanti hoon ki galat hota hai. Lekin sab mardon ko ek jaisa blame karna bhi theek nahi. Kuch log hi bure hote hain. Mere husband jaise ache mard bhi toh hain, unko bhi toh sunke bura lagta hoga jab har koi aise baat karta hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Fatima minimizes women's concerns by stating 'not all men' are bad, feeling personally insulted on behalf of her husband, and policing generalizations about men. This encodes the 'Not All Men' Dismissal surface manifestation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

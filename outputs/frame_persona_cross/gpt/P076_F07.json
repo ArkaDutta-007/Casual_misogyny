@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Bhai, aajkal ki chhoriyan bhi samjhein thoda, gaon mein salwar-suit mein, dhang se raho toh izzat bani rehti hai.\nB: Haan, ye shehar wale kapde pehen ke phir bolte hain log kyun dekhte hain.\nA: Main toh kehta hoon, apni sanskriti mein jo sadhgi hai na, usi mein ladki sabse achchi lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and public treatment to her clothing, implying traditional dress preserves 'izzat' while 'city clothes' invite male attention. It encodes cultural-pride framing, traditional dress as superior, and a subtle harassment-blame link.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gpt"
+}

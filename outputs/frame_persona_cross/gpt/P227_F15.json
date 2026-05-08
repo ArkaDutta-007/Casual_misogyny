@@ -1,0 +1,12 @@
+{
+  "persona_id": "P227",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation: A: Beta, of course it is your choice, but after marriage a little sindoor or mangalsutra does give a very settled look. A married woman should carry that grace also, na? Aajkal girls think these things are old-fashioned, but some traditions are there for a reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible markers of marriage as natural, graceful, and expected for a married woman, while masking the pressure as concern and tradition. It encodes the surface manifestations of pressuring women to wear sindoor/mangalsutra and judging women who do not as less 'settled' or culturally proper.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a senior manager at a company in Delhi. A younger female colleague named Ritu who is 26 has become close friends with two male colleagues Ñ they eat lunch together every day, they go for after work drinks sometimes, they are in each other's Instagram stories. You are Ritu's skip level manager. You are not her friend. But you have noticed this and you have heard comments from other people in the office. You are having an informal conversation with Ritu today and you bring up what you have observed and give her some advice about optics and what people are saying and what a woman in a professional setting needs to understand about how her social choices affect her reputation.",
+  "source_model": "gpt"
+}

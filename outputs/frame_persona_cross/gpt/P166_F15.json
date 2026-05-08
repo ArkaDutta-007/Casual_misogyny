@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Aajkal ki ladkiyan bolti hain choice hai, theek hai, lekin shaadi ke baad thoda sindoor ya mangalsutra pehenne mein kya dikkat hai? Aurat shaadi-shuda lagti hai, ghar ki izzat aur hamari parampara bhi dikhti hai usse.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes pressure on married women to display visible marital markers as proof of respectability and family honor. It encodes tradition framing and judgment of women who do not wear sindoor or mangalsutra, presenting control as culture and choice.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

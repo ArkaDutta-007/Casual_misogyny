@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "It's really disheartening to see how some people treat women these days. We always need to remember that every woman, no matter who she is, is someone's daughter, someone's sister, and potentially someone's mother. If we just keep that in mind, I think a lot of these issues would automatically get resolved. It's about respecting the women in our own lives, and extending that same courtesy to all.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly frames respect for women through their relational identity as daughters, sisters, and mothers, rather than as individuals. It exemplifies the 'Respect women — they are someone's mother/daughter/sister' rhetoric, making respect conditional on their connection to male kin structures.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gemini"
+}

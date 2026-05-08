@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, yeh jo period leave policy ki baat chal rahi hai... I get it, women face issues. But then, for us men, if we have a bad headache ya kuch aur, hum toh tab bhi aate hain office. Company ko bhi dekhna padta hai na, it affects our productivity, especially during appraisal season. Aise toh sab log 'special leave' maangenge, fair nahi hai, na?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Khalid, a 55-year-old Muslim man from Delhi, expresses 'concern for fairness' by questioning the proposed menstrual leave policy. He frames it as 'special treatment' that disadvantages men and impacts company productivity and cost, aligning with the core belief that women's biology makes them a workplace liability.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gemini"
+}

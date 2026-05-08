@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "You know, throughout my career, I always found it crucial to play to our individual strengths as a couple. My husband, he was always naturally inclined towards handling all the finances, investments, and major external dealings – he’s just so sharp with numbers and negotiation. I, on the other hand, truly enjoyed overseeing our home, managing the staff, the kids' academics, and all our social planning. It was a very practical division that simply worked for us, allowing both of us to thrive without unnecessary friction. Never felt like a burden, just smart teamwork.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces traditional gender roles by framing the husband's financial and external duties and the wife's domestic and social management as a 'practical division' based on 'natural inclination,' rather than systemic gendered expectations. It encodes the 'He handles finances, she handles home' as a natural/efficient division, and 'We just fell into these roles' surface manifestations.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

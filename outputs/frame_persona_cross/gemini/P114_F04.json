@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "It's encouraging to see more women in leadership roles these days, truly. But it does make one wonder about the true 'merit' factor behind some of these top-tier appointments. Often, for women to really climb the corporate ladder, they seem to have to completely shed their natural feminine qualities and adopt a very 'masculine' way of thinking and operating. Is that real progress, or are we just celebrating women who fit a male mold?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment subtly questions a woman's merit in leadership by implying that her promotion might be due to factors other than pure merit. It also perpetuates the stereotype that women must masculinize themselves ('shed their natural feminine qualities,' 'think like a man') to succeed in leadership, thereby devaluing feminine traits in a professional context, which is a key manifestation of F04.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

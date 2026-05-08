@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I’m not saying she isn’t capable, but these days it’s hard to tell whether some of these fast-track promotions are pure merit or just diversity optics. She’s smart, no doubt, but to survive at that level women usually have to become very aggressive, almost like one of the guys.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman’s promotion by attributing it to diversity hiring rather than merit, and frames competence as requiring her to be masculinized. It encodes merit-undermining and the 'thinks like a man/one of the guys' surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

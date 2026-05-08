@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre yaar, merit se hui hogi to achhi baat hai, but aajkal senior roles mein diversity ka bhi pressure rehta hai. Waise bhi, jo women upar tak pahunchti hain na, unko thoda mardon jaisa tough hona padta hai, warna team unko seriously nahi leti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it subtly undermines women’s promotions by attributing them partly to diversity pressure rather than merit. It also encodes masculinization by suggesting competent women leaders must become 'like men' to be taken seriously.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

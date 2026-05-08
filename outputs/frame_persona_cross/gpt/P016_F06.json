@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Maine pehle thoda baat karne ki koshish ki thi, par madam seedha mana kar rahi thi.\nB: Phir?\nA: Phir pata chala kisi ke saath hai, toh bas wahin ruk gaya. Ladki ka attitude alag cheez hai, par agar taken hai toh respect karna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he treats the woman's own refusal as less valid than learning she is attached to another man. It encodes the surface manifestation of ignoring direct disinterest until discovering she is 'taken,' framed as respect.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

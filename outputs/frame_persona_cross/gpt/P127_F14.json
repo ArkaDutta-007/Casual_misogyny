@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Beta, ghar ka swaad aur ghar ki garmahat aurat ke haath se hi banti hai. Maa aur bahu jo pyaar se rasoi sambhalti hain, uski baat alag hoti hai; aadmi do din madad kar de theek hai, par ghar tabhi basa rehta hai jab aurat apne haath ka khana aur apna dhyan usmein lagaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes women's cooking and domestic labor as the source of a home's warmth while treating men's contribution as only occasional help. It encodes glorification of mother's/home cooking and sets the expectation that a wife or daughter-in-law should take primary responsibility for the household.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

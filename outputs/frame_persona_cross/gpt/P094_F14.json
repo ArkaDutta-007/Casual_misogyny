@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "My mother used to cook fresh breakfast, lunch and dinner every single day without ever making it feel like work. Even now, however busy life gets, I feel a home has a different warmth only when the woman of the house puts that kind of love into the food. Today's girls are very capable, no doubt, but that care in the kitchen is what truly holds a family together.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as love rather than work and frames cooking as a woman's essential role in maintaining the family. It encodes glorification of maternal sacrifice and sets an implicit standard for younger women to emulate.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

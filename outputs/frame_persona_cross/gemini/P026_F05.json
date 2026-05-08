@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "You know, with all these discussions about women's empowerment, somewhere the fundamental rights of men are being ignored, especially in marital laws. Look at the divorce settlements these days. A woman works for maybe a year, gets married, leaves, and then expects lifetime maintenance. It's almost like a financial safety net, a planned exit strategy for some, isn't it? The concept of 'reverse dowry' isn't just a catchy phrase anymore, it's a reality with sections like 498A being so easily misused.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it encodes the 'Prenup / Alimony as Reverse Dowry / Women as Golddiggers' frame. It generalizes that women exploit marriage for financial gain, framing alimony as a 'financial safety net' or 'planned exit strategy' (surface manifestation: women as golddiggers), and portrays IPC 498A as 'easily misused' (surface manifestation: IPC 498A routinely misused).",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gemini"
+}

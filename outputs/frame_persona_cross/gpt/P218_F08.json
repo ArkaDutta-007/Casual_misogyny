@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Look, if she knew he was married and still chose to get involved, then she has to bear a large part of the blame. Men do make poor decisions, but the person entering an existing family setup and destabilising it cannot be treated as some neutral party. Bilkul serial wali situation hai — everyone will call the husband weak and move on, but it is usually the woman who knows exactly what she is doing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shows clear blame asymmetry: the woman is framed as knowingly destabilising a family while the man's role is softened as 'poor decisions' and weakness. It encodes homewrecker framing, seductress logic, and the idea that women are responsible for managing male temptation.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

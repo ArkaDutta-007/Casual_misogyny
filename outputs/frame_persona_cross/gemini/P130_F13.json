@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, dating apps pe toh pura alag scene hai. Ek ladki ki profile photo dekhi, makeup mein ekdum perfect. Milke lagta hai 'Are, yeh wohi hai kya?' Matlab, bina makeup ke pehchan hi nahi paoge. Why hide your real face?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment implies that makeup is deceptive ('Why hide your real face?'), linking visible effort in appearance to a lack of authenticity, a common manifestation of the 'Makeup Paradox' frame, particularly in the context of online dating and 'catfishing' discourse.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gemini"
+}

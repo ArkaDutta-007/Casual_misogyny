@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Driver 1: Anna, unga veetla ellam nee samayal pannuveengla?\nRavi: Aiyo, adhellam ava paakradhu da. Naan veliya sambadhichu, account, repair ellam paathukkaren; veetukulla saapadu, pasanga, adhu ellam ponnunga kai-la than nalla nadakkum. Appadi pirichu pannina thaan practical-a irukkum.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient, assigning finances and external tasks to men and domestic care to women. It encodes the surface manifestation of 'he handles finances, she handles home' as a rational, non-sexist arrangement.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

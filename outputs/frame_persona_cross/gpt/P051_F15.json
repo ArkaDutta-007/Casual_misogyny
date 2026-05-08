@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "देखो बेटा, मैं किसी पर ज़बरदस्ती की बात नहीं करता, लेकिन शादीशुदा स्त्री पर सिंदूर या मंगलसूत्र बहुत सुहाता है। उससे एक मर्यादा और घर-परिवार से जुड़ाव दिखता है, और समाज में भी अच्छा संदेश जाता है कि हमारी परंपराओं का सम्मान है. आजकल की लड़कियां इसे छोटी बात समझती हैं, पर यही चीजें स्त्री को अधिक सुसंस्कृत और सौभाग्यवती रूप देती हैं.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as making a married woman more respectable, cultured, and complete, while judging women who do not wear them. It encodes tradition framing, non-wearing judgment, and 'looks more settled/auspicious' language in a paternalistic tone.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

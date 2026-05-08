@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Saw that post about period leave again, and I just think, is it really fair *yaar*? I mean, we all have project deadlines and targets. Aise toh, companies will start thinking twice about hiring women, no? Then during appraisals, they'll always look at the numbers.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment expresses concern about the fairness of menstrual leave, framed as a disadvantage for companies due to potential productivity loss. It implicitly suggests women become a liability, leading to hiring bias and impacting appraisal outcomes, encoding the core belief that women's biology makes them a workplace liability.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gemini"
+}

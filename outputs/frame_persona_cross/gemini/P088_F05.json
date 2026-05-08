@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Sunita: Sach bataun toh, mujhe toh ab ladkon ke liye darr lagta hai. Shaadi karte hain bechare, aur agar kuch bhi gadbad hui na, toh saari property, adhi salary… yeh toh seedha-seedha reverse dowry jaisa ho gaya hai. Ab mard kahan jaayein?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment expresses concern for men by framing alimony and financial settlements as 'reverse dowry', implying modern marriage laws are biased against men and that women exploit them for financial gain. This reflects the 'alimony as reverse dowry' surface manifestation and 'victimhood inversion' linguistic cue.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Papa, these words are not okay, they are insulting to women.\nB: Arre yaar, don't make it into a social theory lecture. In the army and outside, men say these things in anger, it is just expression, not an attack on anybody's mother or sister.\nA: But why use women in the insult at all?\nB: Habit, bas. Every generation has rough language; if boys start policing every word and talking softly, then what kind of backbone is that?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless 'just expression' and dismisses concerns about how such language targets mothers/sisters. It also encodes feminizing softness as weakness through the 'talking softly/backbone' contrast.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

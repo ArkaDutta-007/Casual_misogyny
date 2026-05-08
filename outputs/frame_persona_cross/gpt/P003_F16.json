@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Ramesh: Arre bhai, har ghar ka apna system hota hai. Mard log bahar ka kaam, paise-vaisse aur dealing dekh lete hain, aur ghar ke andar ki cheezein aurat zyada achhe se sambhal leti hai. Isme sexist kya hai, jo jahan better hai wahi kare toh ghar smoothly chalta hai.\nAccountant: Haan, practical baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient, assigning finances/public tasks to men and domestic management to women. It encodes the 'he handles finances, she handles home' and 'jo jahan better hai' surface manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

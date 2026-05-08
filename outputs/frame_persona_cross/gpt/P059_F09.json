@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kamala: Arre behen, ladki ko samjhana bhi zaroori hai, aajkal zamaana bahut kharab hai. Itni raat ko akeli ghoomega, kapde bhi dhang ke na ho, toh museebat ko khud bulawa milta hai.\nSister-in-law: Haan, pehle apni suraksha ka dhyan rakhe, baad mein duniya ko dosh dene se kya fayda.\nKamala: Bas wahi, main bhi dosh nahi de rahi, practical baat kar rahi hoon—shaam ke baad akeli mat niklo, seedhe ghar aao.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and shifts responsibility onto women to prevent harm through dress, timing, and movement. It encodes protective framing, restriction advice, and implicit victim-blaming disguised as practical concern.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

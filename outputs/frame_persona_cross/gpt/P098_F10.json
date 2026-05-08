@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have bad experiences, but honestly this \"all men are unsafe\" attitude is also unfair. In offices and daily life there are plenty of decent men, and expecting every man to prove he's not a threat is too much yaar. Men also deal with safety issues, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's fear by centering fairness to men and deflecting to men's safety concerns. It encodes the 'not all men' dismissal, rationality challenge, and demand that women's wariness be treated as an insult to good men.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

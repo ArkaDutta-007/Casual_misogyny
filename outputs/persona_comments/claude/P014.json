@@ -1,0 +1,10 @@
+{
+  "persona_id": "P014",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "CONFESSION: Our prof just dumped 3 surprise assignments on us out of nowhere this week 💀 bhai koi explain karo what calendar she's going by because the timing is TOO specific 😭 we are literally suffering for no reason, prayers needed fr #DUlife #WhyGod #SaveUs",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The post uses coded, deniable language ('what calendar she's going by,' 'the timing is TOO specific') to imply the professor's decision was driven by her menstrual cycle rather than pedagogical judgment, a classic hormones-and-mood trope. The misogyny is covert because it never names the stereotype explicitly, giving the poster plausible deniability while still activating the trope for an in-group audience.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "claude"
+}

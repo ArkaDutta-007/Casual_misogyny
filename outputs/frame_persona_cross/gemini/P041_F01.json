@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I understand the need, but sometimes I wonder, yaar, if everyone starts taking these leaves, especially when we have tight deadlines... kaise manage karenge? Like, what about guys? Humko toh koi 'mental health day' ya something like that nahi milta for similar issues. It just feels a bit unfair in terms of project allocations and appraisals sometimes, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it frames menstrual leave as an unfair advantage for women that burdens project management and productivity, while simultaneously using a 'what about men?' reverse discrimination argument. It manifests as questioning fairness and invoking productivity concerns to oppose menstrual leave policies.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gemini"
+}

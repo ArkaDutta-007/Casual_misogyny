@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre yaar, ambition is good, but once kids happen, priorities obviously change no. Fathers can help, but the main upbringing falls on the mother only, that's just how it is. Career can always be managed later, but if the mother is not present in those early years, bachche hi suffer karte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and early upbringing as primarily the mother's responsibility while framing fathers as secondary helpers. It encodes career sacrifice framing and guilt framing by suggesting children suffer if a mother prioritizes work.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

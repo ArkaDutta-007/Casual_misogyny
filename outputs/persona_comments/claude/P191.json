@@ -1,0 +1,10 @@
+{
+  "persona_id": "P191",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Ramesh: Teen. Teen larki, bhai. Kaisa karenge hum? Pehle do ke liye hi khet girana pada tha socha tha. Ab yeh teesri... shaadi kab karni hai, kitna dena hoga, kaun dega? Beti wale ka yahi haal hota hai gaon mein — zindagi bhar kamao, sab dusron ke ghar bhej do.\n\nBhai: Dhairya rakho, bhai. Kuch rasta niklega.\n\nRamesh: Rasta kahan se niklega? Manohar ke ghar teen betiyaan theen — aaj bhi karz mein dabe hain. Beti paida karna matlab apna khud ka ghar khaali karna. Seedha yahi sach hai. Ab sochna hoga ki zameen ka kya karte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the 'daughter as financial burden' frame through the structural logic of dowry and marriage costs, framing daughters instrumentally as economic liabilities that drain family resources rather than as children with inherent value. The misogyny is covert because it is expressed as pragmatic economic reasoning rooted in real systemic pressures, not explicit hatred, yet it naturalises female devaluation by equating a daughter's birth with financial ruin.",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "claude"
+}

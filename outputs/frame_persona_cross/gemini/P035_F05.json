@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Sun, beta. Tu ab kamane laga hai, acche paise hain tere paas. Aur jab ladki pasand aayi hai, toh bahut soch samajh kar aage badhna. Aajkal ke zamane mein, ladkiyan sabse pehle ladke ki income aur future dekhti hain. Pyaar toh baad mein aata hai. Kahin aisa na ho ki woh sirf teri job aur stability dekh rahi ho, aur tu bhavnaon mein beh jaaye. Shadi koi mazak nahi, beta. Ghar todne mein time nahi lagta aajkal aur fir saari umar mard pachtaate hain.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment generalizes about 'modern women' (aajkal ki ladkiyan) primarily seeking a man's financial stability/income over love, advising the son to be careful she isn't 'just looking at his job and stability'. It hints at men suffering post-marriage/divorce, aligning with the 'women as golddiggers' frame and 'men as victims'.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gemini"
+}

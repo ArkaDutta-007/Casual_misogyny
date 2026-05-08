@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Dekho bhai, it's all about practicality. Meri wife saara ghar ka dekhti hai – kitchen, kids, helpers. Aur main office, finances, bahar ka sab. It's just a better division of labour, jo jahan better hai. Why mess with a good system? Humne toh aise hi settle kar liya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment justifies the traditional gendered division of labor (wife handles home, husband handles external/finances) by framing it as a 'practical' and 'efficient' choice ('jo jahan better hai'), thereby naturalizing the roles rather than acknowledging them as gendered and potentially unequal. It encodes the 'he handles finances, she handles home' described as a natural/efficient division surface manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gemini"
+}

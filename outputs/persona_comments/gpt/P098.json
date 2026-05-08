@@ -1,0 +1,9 @@
+{
+  "persona_id": "P098",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Guys, my manager just told me I should \"make more effort\" with my appearance since I’m client-facing. Matlab if you wear makeup people say too much, not professional; if you don’t, then suddenly you’re not polished enough. Honestly it feels like women can never win yaar.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic; it criticizes gendered appearance expectations placed on women at work. It encodes the double bind around makeup and professionalism rather than endorsing sexist norms.",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

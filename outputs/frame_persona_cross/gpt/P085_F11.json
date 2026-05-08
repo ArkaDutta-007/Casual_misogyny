@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Arre, aurat ko asli maan-samman tabhi milta hai jab woh ghar sambhale, bachche paale, maa bane. Bahu ho ya beti, uski pehchan usi se hoti hai bhai, warna aajkal log bas naam ke liye barabari ki baat karte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's value and identity primarily through domestic and maternal roles rather than as an individual. It encodes relational framing and motherhood as the basis of respect, presented in a socially acceptable, seemingly respectful way.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

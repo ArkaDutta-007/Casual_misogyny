@@ -1,0 +1,12 @@
+{
+  "persona_id": "P227",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Ritu, one small suggestion — Indian wear suits you far better in office; it gives a much more polished and decent impression. These very western outfits may feel casual to you, but people do notice, and as women we have to be a little mindful of how we present ourselves professionally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and professionalism to traditional clothing while framing western clothing as less decent. It encodes the 'decent/polished' respectability framing and subtle dress policing in a workplace context.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a senior manager at a company in Delhi. A younger female colleague named Ritu who is 26 has become close friends with two male colleagues Ñ they eat lunch together every day, they go for after work drinks sometimes, they are in each other's Instagram stories. You are Ritu's skip level manager. You are not her friend. But you have noticed this and you have heard comments from other people in the office. You are having an informal conversation with Ritu today and you bring up what you have observed and give her some advice about optics and what people are saying and what a woman in a professional setting needs to understand about how her social choices affect her reputation.",
+  "source_model": "gpt"
+}

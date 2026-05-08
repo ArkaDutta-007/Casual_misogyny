@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Beti, sach kahun toh maa ke haath ka khana jo hota hai na, uski baat hi kuch aur hoti hai. Humari maa, saari zindagi bas gharwalon ki khushi ke liye, unki sehat ke liye alag alag cheezein banati rahin, bina kisi shikayat ke. Woh prem hota hai, woh sewa hoti hai jo aur kahin nahi milti. Aaj kal toh sab Maggi aur convenience food pe chal raha hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla glorifies her mother's tireless cooking as an act of 'love' and 'service,' effectively erasing the labor involved. She implicitly compares this ideal to the current generation's reliance on 'Maggi and convenience food,' setting a domestic standard for women rooted in self-sacrifice and traditional cooking.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gemini"
+}

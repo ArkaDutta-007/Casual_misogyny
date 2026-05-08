@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Dekho, ye sab new-age thinking theek hai, but eventually, you have to be practical, no? Humare ghar mein toh saalon se yehi pattern hai – main office aur finances dekhta hoon, aur meri wife, she's amazing with the house, kids, and social stuff. Naturally, it just works out that way. Jo jahan better hai, wohi sambhaale, makes sense, right?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames a traditional gendered division of labor as 'practical' and 'natural,' endorsing the core belief that men handle external/finances and women handle home/children. It uses the 'jo jahan better hai' efficiency framing to justify this division, a key surface manifestation of this covert misogyny.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gemini"
+}

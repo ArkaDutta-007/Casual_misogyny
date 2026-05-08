@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, boys say these things in anger only, it is not like anyone is actually insulting somebody's mother or sister.\nB: But the words themselves are about women, no?\nA: Itna serious mat lo. Every second thing cannot become a gender issue. And when a fellow starts crying over small things, obviously people will tell him to toughen up, not behave like that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaalis as harmless expression and dismisses concerns about their sexist structure. It also encodes feminizing weakness as an insult through the 'toughen up' and 'not behave like that' framing.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

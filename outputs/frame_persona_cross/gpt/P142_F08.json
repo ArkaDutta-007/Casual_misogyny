@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Bhai, ye bilkul serial wali homewrecker type scene hai. Agar usko pata tha banda shaadi-shuda hai toh thoda distance rakhna chahiye tha na, par aisi ladkiyan khud hi chipak ke ghar tudwa deti hain.\nB: Haan yaar, aadmi kabhi kabhi behak jaata hai, but she knew exactly what she was doing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for the affair on the woman as a 'homewrecker' while excusing the married man as someone who merely 'got carried away.' It encodes blame asymmetry, seductress framing, and family-protection rhetoric.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

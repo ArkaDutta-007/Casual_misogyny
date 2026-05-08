@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Arre beta, office mein itna alag-alag chhutti dene se kaam ka hisaab bigadta hai. Aurat ko period leave, phir maternity leave, phir bachche ke liye aur leave — company bhi sochegi na kis par project daale. Aadmi log ko kaun sa aisa sahuliyat milta hai, phir fairness kahan raha?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as less reliable employees due to menstruation and motherhood while presenting the bias as a fairness and productivity concern. It encodes reverse-discrimination framing and the idea that maternity/menstrual leave makes women a workplace liability.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

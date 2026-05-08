@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre Kavya, aaj kitni achi lag rahi ho! Ye salwar suit pehen ke toh tumhari shobha aur badh gayi hai. Hamari sanskriti mein jo pehnawa hai na, usme ek alag hi garima hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Anita compliments her daughter-in-law on wearing traditional Indian attire, explicitly stating it enhances her grace and dignity. This covertly links traditional dress to respectability and cultural pride, implicitly contrasting it with other types of clothing.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gemini"
+}

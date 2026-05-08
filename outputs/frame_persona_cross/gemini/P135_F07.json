@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "You know, Shweta, I was just thinking how lovely you looked in that silk saree at the school function last month. It really suits you so well. Honestly, sometimes I feel we Indian women just look so much more graceful and put-together in our traditional wear, don't we? It just has a certain elegance that... well, you know.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it covertly promotes traditional attire as inherently more 'graceful and put-together' for 'Indian women,' subtly devaluing other clothing choices. It functions as a backhanded compliment and a cultural pride mask, hinting that traditional dress aligns better with a desired image of respectability.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gemini"
+}

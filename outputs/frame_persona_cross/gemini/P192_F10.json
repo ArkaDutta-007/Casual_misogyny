@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Wife: \"Priya was telling me, she's always wary of taking cabs late at night. She prefers to wait for a female driver or not go at all if it's too late.\"\nSuresh: \"Arre, itna darr darr ke kyon jeena hai? Har koi thodi na galat hota hai. Jab dekho tab bas mardon ko hi villain bana dete hain. Humne usse (Priya) achche sanskar diye hain, hum toh khud kitna dhyan rakhte hain sabka. Sab mard ek jaise nahi hote. Kuch achche log bhi toh hain duniya mein, hum jaise. Har cheez mein shaq karna theek nahi.\"",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh dismisses his daughter's genuine safety concerns as irrational ('itna darr darr ke kyon jeena hai?'). He feels personally insulted by the generalization ('jab dekho tab bas mardon ko hi villain bana dete hain') and uses the classic 'not all men' defense ('sab mard ek jaise nahi hote') while centering his own perceived 'goodness' ('hum jaise'). This frames women's wariness as an insult to men rather than a valid safety precaution.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gemini"
+}

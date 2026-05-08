@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre bhai, aajkal ke ladke do-chaar aise maa-behen wale shabd bol dete hain, usme itna mudda kya banana. \nB: Par woh galat lagta hai.\nA: Galat kya, gusse mein muh se nikal jaata hai, kisi ki maa-behen ko thodi bol rahe hote hain. Har baat pe itna serious loge to mardangi hi khatam ho jayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker normalizes female-relative-based abusive language as harmless expression and dismisses concerns with 'it's just a word.' It also encodes feminizing/masculinity logic by implying that objecting to such language weakens manhood.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

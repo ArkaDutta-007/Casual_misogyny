@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I feel companies also have to think practically, yaar. If one side gets period leave and then long maternity leave also, project planning and appraisals do get affected, and the rest of the team has to absorb that load. I'm not ضد women at all, but fairness should be there for men also, otherwise in hiring managers will naturally prefer the more stable option.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity as workplace liabilities and justifies discriminatory hiring as a practical response. It encodes fairness/reverse-discrimination framing and productivity/cost arguments against menstrual and maternity leave.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gpt"
+}

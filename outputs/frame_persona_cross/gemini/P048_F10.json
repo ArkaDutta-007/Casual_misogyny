@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Ugh, that news is awful. But honestly, why do we always have to generalize? My male colleagues are so chill and respectful, they'd never do anything like that. It just feels unfair to put all men in the same box, you know?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Priya, a woman, minimizes other women's concerns about harassment by dismissing generalizations about men. She centers the experience of 'good men' she knows, arguing it's unfair to paint all men with the same brush. This exemplifies the 'Not All Men' dismissal and feeling personally insulted on behalf of men.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gemini"
+}

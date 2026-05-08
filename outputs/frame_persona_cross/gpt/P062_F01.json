@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar I get that companies should be supportive, but at some point fairness bhi hona chahiye. If women get period leave plus 6 months maternity leave, then obviously project planning, appraisal and team bandwidth sab affect hota hai — men end up covering and still nobody talks about that. Aise toh hiring managers will naturally think twice for critical roles, not out of bias but basic business logic.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to menstruation and maternity, while presenting the view as a fairness and productivity concern. It encodes reverse discrimination framing, economic/cost arguments, and the assumption that women's biology justifies excluding them from important roles.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Arre, women should always be respected yaar — after all, every woman is someone’s daughter, someone’s wife, tomorrow someone’s mother. Aadmi ko bas itna samajhna chahiye and behave properly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and deservingness of respect through their relations to others rather than as autonomous persons. It encodes the ‘someone’s daughter/wife/mother’ rhetoric and conditional, relational respect.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

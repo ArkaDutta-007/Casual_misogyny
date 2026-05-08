@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Did you hear about Sania getting that big manager role? Good for her, I guess, but honestly, she always seemed a bit... quiet for such a position. Must be one of those diversity hires or something, you know how it is nowadays.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it undermines a woman's promotion, attributing it to 'diversity hire' rather than merit, and questions her competence by implying she's 'too quiet' for leadership, aligning with the 'Merit undermining' and 'Double bind' surface manifestations of F04.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gemini"
+}

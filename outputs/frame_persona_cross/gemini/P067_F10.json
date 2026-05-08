@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, I get that women have to be careful, it's a harsh world. But this constant 'all men are xyz' narrative is so unfair to guys like me. We're married, have families, we respect women. Phir bhi you get branded as potential threats just for existing. Mujhe toh samajh nahi aata what to do sometimes. We good guys also deserve some trust, no? Not all men are creeps, please.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment reflects the 'Not All Men' dismissal, as Vikram (the speaker) expresses feeling personally insulted and unfairly grouped by women's generalizations, asserting his identity as a 'good guy' and implicitly demanding trust, which minimizes women's valid safety concerns.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

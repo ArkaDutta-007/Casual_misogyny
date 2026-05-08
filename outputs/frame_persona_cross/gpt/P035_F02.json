@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Beta, ladki achhi ho to theek hai, par zara dekhna gusse mein har baat pe overreact to nahi karti. Aajkal mood swings aur hormonal drama bahut hota hai, baad mein aadmi ki shaanti chali jaati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as ruled by hormones and dismisses their emotions as 'drama.' It encodes the surface manifestation of characterizing a woman's frustration or reactions as hormonal and overemotional.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

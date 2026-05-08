@@ -1,0 +1,12 @@
+{
+  "persona_id": "P201",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Ramesh: Arre bhai, aajkal ki auratein bhi samajh nahi aati. Bahar jaayengi to itna makeup karke ki asli chehra hi pata na chale, aur ghar mein dekho to bilkul dhyan nahi rakhti apna. Theek hai saaf-suthra rehna, par itna sajna bhi kya jo aadmi ko lage dhokha ho gaya.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: they are criticized both for wearing 'too much' makeup and for not maintaining their appearance. It encodes the frame's appearance policing and deception angle, treating women's looks as something to be judged for male evaluation.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Ramesh. Age 48. Married for 22 years. A farmer in rural UP. OBC Hindu. You are sitting with three male friends at a chai stall after work. One friend has been complaining that his wife has been refusing him for two weeks Ñ she says she is tired, she has a headache, she is not in the mood. The group is responding to his complaint. You are giving your opinion on what a wife's refusal means and what a husband's rights are inside a marriage and what the difference is between a marriage and any other arrangement and why what happens between a husband and wife in their own home is nobody else's business and certainly not something that can be called by any legal name.",
+  "source_model": "gpt"
+}

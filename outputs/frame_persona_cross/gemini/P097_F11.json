@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "You know, the real change will come when every man learns to look at every woman not just as a random person, but as someone's cherished daughter, sister, or even a future mother. That shift in perspective is what brings true respect.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly frames a woman's worth and the basis for her respect entirely through her potential or actual relationship to men (daughter, sister, future mother), rather than as an individual with inherent worth. It exemplifies the 'Respect women — they are someone's mother/daughter/sister' rhetoric and personhood erasure, making respect conditional on relational identity.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gemini"
+}

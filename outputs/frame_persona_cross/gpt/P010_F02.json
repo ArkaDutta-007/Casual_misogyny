@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Spoken conversation\nDivya: In our review meeting today, one of the guys said we should probably not take product decisions when the women on the call are in one of their hormonal moods.\nHusband: Seriously?\nDivya: Then he laughed and said, \"Arre, relax, just a joke, don't take it so seriously.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's input at work as unreliable due to hormones and dismisses objections as overreaction. It encodes the surface manifestations of attributing women's emotions or opinions to PMS/hormones and using 'just joking' as plausible deniability.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

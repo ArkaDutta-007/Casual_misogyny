@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Your colleague, what's her name, Divya? She's back to work already? So fast. Beta, career is important, I agree, but some things... a child's early years, a mother's presence, that's something you can't delegate completely to a nanny or a creche. Maa toh maa hoti hai, after all. These early sacrifices are for a lifetime.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rajan, a retired army officer, expresses concern about a working mother's quick return to work. The comment naturalizes the mother's primary role ('Maa toh maa hoti hai') and suggests she should prioritize early childhood over career, encoding the belief that childcare is primarily the woman's duty and expecting career sacrifice from her.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gemini"
+}

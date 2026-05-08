@@ -1,0 +1,10 @@
+{
+  "persona_id": "P139",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Mohammed: Mujhe bhi Sana par bahut fakhr hai, itni badi fellowship har kisi ko nahin milti. Lekin do saal baad woh 28 ki ho jayegi, aur tum jaanti ho hamare yahan ladki ki umar dekhte hain sab log.\nWife: Toh aap kya soch rahe hain?\nMohammed: Main keh raha hoon ab rishta dekhna serious shuru karte hain. Agar fellowship leni hai toh bhi pehle baat pakki ho jaye, warna baad mein achha ladka milna mushkil ho jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it prioritizes the daughter's marriageability over her academic opportunity and treats her age as a problem specifically because she is a woman. It encodes marriage-age pressure and the belief that a woman's life choices should be constrained by the marriage market.",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gpt"
+}

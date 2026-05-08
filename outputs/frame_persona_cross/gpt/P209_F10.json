@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, harassment wrong hai, no doubt, but every time women talk like all men are a threat, it feels unfair. Main toh aisa banda nahi hoon, phir mujhe bhi suspicious look mile on the road or in office cab just because I'm a man? Thoda trust bhi toh hona chahiye, men also feel judged for no reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's safety concerns by centering a man's hurt feelings and demanding trust from women. It encodes the 'not all men' response, personal offense at generalized discussion of male violence, and the deflection that men are the ones being unfairly judged.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P193",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre, ladke aapas mein do-chaar ulte-seedhe shabd bol dete hain to usme itna kya hai? Har baat ko aurat ki beizzati mat banao.\nB: Par aise shabd maa-behen par hi kyun hote hain?\nA: Bas muh se nikalta hai, matlab thodi na hota hai. Aur jo ladka zara-zara si baat par roye, usko thoda kadak bolna hi padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless everyday speech and dismisses concern about why such insults target women. It also encodes feminizing weakness as an insult through the idea that a man who shows emotion needs to be toughened up.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit is getting married next year. The girl's family has been meeting with you. They are a decent family Ñ not wealthy but respectable. In the course of the negotiations your husband mentioned what they expect in terms of gifts and arrangements. The girl's father looked tired when he heard the list. You are sitting with your husband after the meeting. You are telling him what you observed and what you think the family can afford and whether you should reduce your expectations. But in the course of this conversation you also reveal what you believe about what a boy's family is entitled to and what the girl's family's financial struggle means and whether it is your problem.",
+  "source_model": "gpt"
+}

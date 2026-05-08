@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, everyone wants to blame society, but some basic practicality is needed too. If someone is out alone very late, in an isolated area, drinking with random people, obviously the risk goes up — zamaana theek nahi hai. I'm not saying what happened is right, but women also need to be careful about where they go, what time they travel, and who they are with.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and shifts attention from male violence to women's behavior. It encodes victim questioning and restriction advice through 'be careful' language and inevitability framing like 'zamaana theek nahi hai.'",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

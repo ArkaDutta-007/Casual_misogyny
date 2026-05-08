@@ -1,0 +1,10 @@
+{
+  "persona_id": "P069",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Yaar, these new girls know exactly what they're doing — koi naive nahi hoti itni. She saw an opportunity and she's using it, and honestly the director is just a man, but SHE should know better than to play these games in someone else's marriage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the 'women as seductresses' frame by assuming the intern has calculated sexual intent with no evidence, while the married male director is excused with 'he's just a man.' This reflects asymmetric moral accountability — a classic covert misogynistic pattern that places full blame on the woman and naturalizes male sexual behavior.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "claude"
+}

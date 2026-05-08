@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "WhatsApp status: \"Maa ke haath ke simple dal-chawal mein jo sukoon hai, woh kisi restaurant ya instant food mein kahan. Puri zindagi family ke liye bina complain kiye khana banaya, tab jaake ghar ghar lagta hai. Aaj kal bhi lagta hai, jo ladki ghar ko pyaar se sambhal le aur sabko khila de, usse bada quality kya hoga. 🙏\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid cooking and self-sacrifice as her defining virtue, erasing it as labor. It also sets an implicit standard for women ('jo ladki ghar ko... sambhal le') and links feminine worth to feeding and domestic service.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

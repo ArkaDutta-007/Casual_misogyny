@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, aaj kal office mein kisi lady ko thoda upar kar do toh sab bolte hain merit se hua, but sach bolo toh quota aur image ka bhi bahut role hota hai. Jo aurat sach mein top tak pahunchti hai na, usko bilkul mardon jaisa sochna padta hai, warna itni badi responsibility sambhalna aasaan nahi hota.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit by attributing advancement to quota or image, and frames competent leadership as requiring women to think 'like men.' It encodes merit undermining and masculinization as a backhanded compliment.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

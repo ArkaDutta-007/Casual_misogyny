@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar every time women talk about safety it becomes like all men are the problem. Main toh aisa nahi hoon, and honestly it feels unfair when normal guys also get treated like suspects for no reason. Men also deal with stuff, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's safety concerns by centering male hurt and demanding exemption for 'good men.' It encodes the 'not all men' response and the deflection to men's suffering instead of engaging with the pattern women describe.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

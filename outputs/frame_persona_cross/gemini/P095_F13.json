@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "This meme is so on point! Like, why do some girls put on so much makeup? What are they trying to hide? Honestly, before getting serious with someone, guys have a right to know what her *real* face looks like, no? 😂",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment implies that women who wear makeup are being deceptive and that men have an inherent right to evaluate a woman's 'natural' appearance, especially in a relationship context. This encodes the 'catfishing' discourse and 'too much makeup' implying deceptiveness.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gemini"
+}

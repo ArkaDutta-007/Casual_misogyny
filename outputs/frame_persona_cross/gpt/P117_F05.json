@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bro honestly, shaadi ka scene ab simple nahi raha. Aajkal ladkon ko bhi soch samajh ke chalna chahiye, because laws are so one-sided and if things go wrong, banda life bhar pay karta rehta hai. Prenup jaisa system India mein normal hona chahiye, warna half the time the guy is just protecting himself from reverse dowry types.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financial threats in marriage and casts alimony as 'reverse dowry' while invoking one-sided laws against men. It encodes concern-for-men's-rights framing and financial suspicion toward women rather than explicit abuse.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gpt"
+}

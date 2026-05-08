@@ -1,0 +1,9 @@
+{
+  "persona_id": "P116",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Ma, ami shankha pola office-e pori na bole ki ami biye hoye nei? Meetings-e khub noise hoy, aar amar haate rash hochhilo, tai khule rekhechi. Bari te, pujo-te pori toh — eta niye eto kotha bolar ki ache?",
+  "label": "non_misogynistic",
+  "annotation_note": "This is non-misogynistic because the speaker is defending her own practical choice not to wear marital markers and rejecting the idea that her married status depends on them. It encodes resistance to the social expectation around visibly 'looking married' through shankha pola.",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gpt"
+}

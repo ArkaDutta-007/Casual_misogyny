@@ -1,0 +1,10 @@
+{
+  "persona_id": "P154",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "It is never easy, and I always say there is no perfect balance. For me, the key has been being very clear that while work is important, your family cannot come second for too long, especially as a mother, because children do need your presence in those formative years. I have been fortunate to have support at home, but I also made conscious choices at different stages to slow down when the family needed me, and I think women must accept that these trade-offs are part of the journey.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it normalizes the idea that women, specifically mothers, are primarily responsible for family care and should adjust their careers accordingly. It encodes the career-versus-family binary and reinforces unequal gendered expectations in professional settings.",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

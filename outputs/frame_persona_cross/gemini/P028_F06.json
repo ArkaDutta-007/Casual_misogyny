@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Honestly, I had this one situation, you know, this girl from that networking event? Super interesting, I tried to chat her up a bit. She was pretty unresponsive, short answers, all that. I was like, 'dude, what's her problem?' But then someone mentioned she's actually engaged, like, she's 'taken'. And the moment I heard that, I just immediately dropped it. Bhai, *kisi ki hai*, you know? I respect that. Wouldn't want anyone messing with my wife either.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker disregards a woman's direct disinterest and 'unresponsive' communication but immediately ceases pursuit upon learning she is 'taken'/engaged. He frames this as 'respect' for the other man's claim, illustrating that another man's ownership is more legitimate than her own refusal. It also uses ownership language 'kisi ki hai' (she belongs to someone).",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gemini"
+}

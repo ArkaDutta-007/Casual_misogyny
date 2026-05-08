@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre, ignore them, beta. Boys use such language all the time, it's just 'timepass' for them. They don't actually mean disrespect to anyone's mother or sister, it's just a way of talking.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic because it normalizes and defends the casual use of gaalis, explicitly dismissing their inherent misogynistic structure by claiming 'they don't actually mean disrespect'. It exemplifies the 'defending gaali use as just expression, not actually about women' surface manifestation.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gemini"
+}

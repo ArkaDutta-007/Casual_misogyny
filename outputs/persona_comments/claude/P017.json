@@ -1,0 +1,10 @@
+{
+  "persona_id": "P017",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Sunil: Yaar, dekh Kamla ka attendance — teen din late, kaam mein dhyan nahi. Kya karein iska? Assistant: Pata nahi boss, ghar mein kuch chal raha hai sunne mein aaya. Sunil: Haan haan, ghar bhi aur upar se woh time bhi hoga na — hamare yahan auraton ka yeh hai, mahine mein ek hafte toh bas mood off hi rehta hai. Ghar ka mamla alag, par kaam toh kaam hai — bol do kal se sudhar nahi toh line se hata denge.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunil casually attributes Kamla's poor performance partly to menstruation ('woh time bhi hoga na') as a naturalised, dismissive explanation, trivialising a documented domestic abuse situation by folding it into a hormonal-mood stereotype. This encodes the 'periods/hormones as inherent female unreliability' trope without overt hostility, making it covert casual misogyny.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "claude"
+}

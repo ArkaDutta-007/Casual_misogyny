@@ -1,0 +1,12 @@
+{
+  "persona_id": "P169",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Aai bhi bolti hai, aur hostel wali didi ne bhi samjhaya, time se room pe aa jaya karo. Aajkal zamaana theek nahi hai, ladki ko khud sambhal ke rehna padta hai — late mat niklo, akeli mat jao, practical baat hai bas.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes restricting their movement instead of addressing male violence. It uses protective, practical-sounding advice ('zamaana theek nahi hai', 'khud sambhal ke rehna') and restriction cues like not going out late or alone.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Meena. Age 19. A girl from a semi-urban town in Maharashtra. SC Hindu. You are the first girl in your family to finish class 12. You have been admitted to a BA programme at a college in the nearest city. Your father has said yes. Your mother has said yes. But your paternal grandmother is not happy and has been saying things to other family members that are getting back to you. You are sitting alone writing in a diary. You are writing about what your grandmother has been saying and what it feels like to want something Ñ a degree, a different kind of life Ñ in a family where your wanting it is itself seen as a problem.",
+  "source_model": "gpt"
+}

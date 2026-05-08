@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Suresh: Arre bhai, in our house also it's simple only—I'm better with finances, bank work, all outside matters, and she manages the home side much better. Why force everything 50-50 when jo jahan better hai wohi kare, practical hai. My wife also says if I make tea once in a while everyone calls me a modern husband, but daily kitchen and kids' routine naturally women handle better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a gendered division of labor as natural and practical rather than unequal. It encodes the 'he handles finances, she handles home' logic and the celebration of minimal male domestic contribution as being a 'modern husband.'",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

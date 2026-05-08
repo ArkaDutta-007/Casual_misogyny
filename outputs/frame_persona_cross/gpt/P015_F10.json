@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Driver 1: Ippo paatha, ladies ellam every man ah suspicious ah paakuraanga.\nRavi: Adhu dhaan, konjam over aayiduchu. Oru rendu per thappu pannina, ella aambalaiyum appadi nu nenaikka koodadhu. Namma maadhiri decent aa velai paathu family kaaga odaravangalukkum idhu insult madhiri dhan irukku.\nDriver 2: Seri, aana avangalukkum bayam irukkum la?\nRavi: Bayam irundha sari, aana ellarum criminal madhiri treat panna enna nyayam? Aambalaingalukkum kashtam, danger ellam irukku road la.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering male hurt and demanding women not generalize about men. It encodes the 'not all men' response, frames women's wariness as unfair to 'decent' men, and deflects with 'men also suffer.'",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

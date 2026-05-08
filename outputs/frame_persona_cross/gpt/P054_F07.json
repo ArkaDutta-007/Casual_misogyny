@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "For family functions, I always feel our girls look most graceful in sarees or salwar, and it reflects our culture nicely. These very modern outfits may be fashionable, but they do attract the wrong kind of attention, so it is better to dress in a more decent and traditional way.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing to respectability and subtly blames harassment on 'modern' outfits attracting attention. It encodes the traditional-versus-modern double standard using cultural pride and decency framing.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

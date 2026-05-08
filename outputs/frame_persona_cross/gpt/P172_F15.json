@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation:\nSuresh: Arre, mangalsutra aur thoda sindoor pehnegi toh aur achchi lagegi, properly married woman jaisi. Hamari parampara hai beta, isme koi burden thodi hai.\nDaughter-in-law: Office mein roz possible nahi hota.\nSuresh: Haan, choice toh hai, but aajkal ki ladkiyan bina wajah itni basic cheezein bhi avoid karti hain. Thoda sa pehenne se ghar-grihasthi ka maan hi badhta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as necessary for a woman to look like a 'properly married woman' and subtly judges women who do not wear them. It encodes tradition framing, completeness/status signaling, and non-wearing judgment while presenting the pressure as harmless culture.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gpt"
+}

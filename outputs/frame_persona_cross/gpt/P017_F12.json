@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal ke ladke bhi kuch bolo to seedha bolte hain gaali mat do, women ko disrespect hota hai.\nB: Haan bhai, itna serious kya lena. Muh se nikal jaata hai, bas gusse ka lafz hai, kisi ki maa-behen ko thodi sach mein bol rahe. Aadmi ko thoda strong rehna chahiye, har baat pe auraton jaisa hurt ho jaate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-family-based abuse as 'just words' and dismisses concern about misogyny. It also uses feminizing sensitivity ('auraton jaisa hurt') as an insult, matching the frame's normalization and feminizing-as-insult pattern.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

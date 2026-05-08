@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre bhau, aajkal ke mulge bhi chhoti chhoti baat pe woh maa-behen waale shabd bolte rehte hain. \nB: Haan, par gaav mein sab bolte hain, uska matlab thodi na sach mein aurat ko bolna hota hai.\nA: Bas gusse ka lafz hai. Aur jo aadmi zara si baat mein rootha baitha rahe, usko bhi log bolte hain ki aurat jaisa mat ban.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-based abuse as 'just words' and dismisses harm. It also encodes feminizing a man ('aurat jaisa mat ban') as an insult, matching the frame's everyday normalized misogyny.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

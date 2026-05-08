@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Dekho, hamare ghar mein toh saalon se set hai. My wife takes care of everything inside – the household, staff, kids ki padhai, sab. And I look after the business, finances, bahar ka sab. It's just practical, no? Jo jahan naturally better hai, that's how we divided it. Both of us are happy with it, why change a good system?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment normalizes traditional gender roles in household and external management by presenting them as a 'practical' and 'natural' division of labor, mutually agreed upon by both partners. It encodes the 'He handles finances, she handles home' surface manifestation, justifying it as efficient and chosen.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gemini"
+}

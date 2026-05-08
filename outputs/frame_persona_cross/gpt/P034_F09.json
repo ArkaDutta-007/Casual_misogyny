@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Arre I'm not judging, just being practical yaar—Mumbai bhi aajkal fully safe nahi hai. If a girl is out alone late night, drinking and all, obviously she has to be extra careful about where she goes and who she's with; zamaana theek nahi hai, you can't expect men to suddenly behave. Better to travel in a group and avoid these situations in the first place.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and treats male predatory behavior as inevitable rather than condemnable. It encodes protective/practical advice, victim-questioning logic, and restriction advice like avoiding late nights, drinking, and going out alone.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

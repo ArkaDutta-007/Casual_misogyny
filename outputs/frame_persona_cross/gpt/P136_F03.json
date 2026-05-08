@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro, ambition is great and all, but once kids come na, someone has to actually be there for them. Dad can help obviously, but mostly the mother only ends up handling school, doctor, all that stuff.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother's responsibility while framing the father as someone who merely 'helps.' It encodes the surface manifestation of assuming the mother will handle school and doctor visits and that her career must adjust around children.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gpt"
+}

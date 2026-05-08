@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "These days both husband and wife may be working, that is fine, but small children need their mother more in the early years. Father can support, of course, but day-to-day upbringing, school matters, food habits, all this naturally the mother handles better. Career can always be adjusted for some time, childhood will not come back.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it presents childcare and childrearing as naturally and primarily the mother's duty while positioning the father as only a supporter. It encodes the surface manifestations of career sacrifice framing and the assumption that mothers, not fathers, should handle everyday parenting responsibilities.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

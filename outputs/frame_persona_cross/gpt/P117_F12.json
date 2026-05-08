@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, these days everyone gets offended over normal gaalis also. We grew up saying BC/MC type stuff just for expression, not like anyone is literally talking about somebody's mother or sister.\nB: Haan, exactly.\nA: And if a guy is acting spineless, what do you even say? 'Mard ban' bol do toh bhi problem. Itna overthink karte hain log.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it normalizes female-family-body/chastity-based abuse as harmless expression and defends feminizing language like 'mard ban' as acceptable correction. It encodes the frame's core 'it's just a word' defense and masculinity-versus-femininity insult structure.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gpt"
+}

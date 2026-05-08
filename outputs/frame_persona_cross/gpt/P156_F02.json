@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Anita: Arre, kal kitty mein Neha itni chidh chidh kar rahi thi sab baat par. Maine toh mazaak mein bol diya, lagta hai uska wahi time chal raha hai, warna itni overreact kaun karta hai.\nSister: Haan, phir bura maan gayi hogi?\nAnita: Arre mazaak tha, itna serious thodi lena chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's irritation as due to her period and frames her reaction as biologically driven rather than valid. It encodes the surface manifestations of attributing anger to 'that time' and using 'just joking' as a defense.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

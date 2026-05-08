@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Suresh: Arre bhai, aurat ki naukri theek hai apni jagah, par bacche ho jaayen phir maa ko hi dekhna padta hai sab. Baap do din school chhod aaye toh log bolte hain bada helping hai, par asli zimmedari toh maa ki hi hoti hai.\nCousin: Haan, bachpan mein maa na sambhale toh phir bacche hi pareshaan hote hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it presents childcare as naturally and primarily the mother's responsibility while treating a father's involvement as exceptional help. It encodes the surface manifestations of 'fathers babysitting/helping' and expecting mothers to sacrifice or prioritize childcare over work.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gpt"
+}

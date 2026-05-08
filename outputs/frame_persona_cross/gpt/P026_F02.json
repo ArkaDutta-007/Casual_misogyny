@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Spoken conversation: \"Arre, don’t take her outburst so seriously. These mood swings happen; half the time it’s just hormones talking, not actual reasoning.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's views as biologically driven and irrational by attributing them to hormones. It encodes the surface manifestation of characterizing a woman's frustration or disagreement as 'hormonal' to invalidate it.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

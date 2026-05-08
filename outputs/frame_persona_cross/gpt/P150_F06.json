@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: She told that boy clearly she is not interested, still he kept calling.\nB: These days boys don't listen to one no. If she is already committed, tell him properly and he should step back. Otherwise they will think the girl is just showing attitude.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's direct refusal as less valid than being 'already committed' to another man. It encodes the frame where male attachment/ownership is respected, while her own consent is dismissed as negotiable or mere 'attitude.'",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gpt"
+}

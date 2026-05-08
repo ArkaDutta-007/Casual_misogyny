@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Main old-fashioned nahi hoon, par shaadi ke baad thoda sindoor ya mangalsutra pehenne se ladki suhagan lagti hai, settled lagti hai.\nB: Haan, aajkal ki ladkiyan isko bhi issue bana deti hain.\nA: Choice apni jagah hai, but hamari parampara ka bhi kuch matlab hota hai, tabhi to poori grihasthi ka ehsaas aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as natural, auspicious, and necessary for a woman to look 'settled' or complete as a wife. It encodes tradition/completeness framing and mild judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

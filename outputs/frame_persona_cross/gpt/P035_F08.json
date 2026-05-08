@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Aajkal bilkul serialon jaisi auratein hoti hain, khud pata hota hai aadmi shaadi-shuda hai phir bhi chipak ke baat karti rehti hain. Bechara mard kabhi kabhi behak jata hai, par ghar todne wali toh wahi aurat hoti hai jo jaanbujhkar beech mein ghusti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it blames the woman in an affair as the primary wrongdoer while excusing the man as someone who merely 'gets carried away.' It encodes homewrecker framing, seductress framing, and strong blame asymmetry.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

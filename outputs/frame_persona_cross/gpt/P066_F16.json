@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Kamla: Arre, ghar mein sab kaam baantne ki itni zid kyun karte hain log? Jo jismein theek ho wahi sambhale na—mard bahar ke kaam, paisa-vaisa dekh lete hain, aur aurat ghar, rasoi, bachche achchhe se sambhal leti hai. \nHusband: Haan, ismein bura kya hai, practical baat hai.\nKamla: Bas wahi toh, aajkal chhoti si chai bana de pati toh sab bolte hain kitna modern hai, par ghar asli mein aurat hi sambhalti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely 'practical' and assumes women are inherently responsible for domestic work. It also encodes the surface manifestations of efficiency framing and praising minimal male household contribution as exceptional.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

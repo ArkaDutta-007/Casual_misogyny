@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Priya, tum log bhi har baat ko bada mudda bana dete ho. Ladke muh se do shabd gusse mein bol dete hain to uska matlab thodi hota hai ki kisi aurat ki beizzati kar rahe hain. Bas bolne ka tareeka hai, itna serious lene ki kya baat hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abusive language as harmless 'just expression' and dismisses concern about its impact. It encodes the surface manifestation of defending common gaali use as not really about women, even though the insult structure is rooted in women’s bodies and status.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre yaar, aise cases mein aadmi ko hi sab log gaali dete hain, but sach bolo toh agar us ladki ko pata tha ki banda married hai toh door rehna chahiye tha na. Bilkul serial wali baat hai, ghar todne wali type women hi pehle extra friendly hoti hain, phir family suffer karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the married man's responsibility. It encodes homewrecker framing, 'she knew he was married' rhetoric, and portrays women as seductresses who destroy families.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

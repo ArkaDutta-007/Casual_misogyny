@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "A: Hamare zamaane ki maayein subah se raat tak rasoi sambhalti thi, tab jaake ghar mein gharpan rehta tha. Maa ke haath ke khaane ki baat hi alag hoti hai, woh sirf pet nahi, parivaar ko jodta hai.\nB: Haan didi, aaj kal ki ladkiyan sab bahar ka khana jaldi samajhti hain.\nA: Bas bahu mein bhi wahi lagan aur seva ka bhaav ho, toh ghar khushhaal rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women through unpaid cooking and service, treating domestic labor as the natural basis of family unity rather than work. It encodes praise of mothers' sacrifice and an implicit expectation that a daughter-in-law should prove herself through the same selfless kitchen labor.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

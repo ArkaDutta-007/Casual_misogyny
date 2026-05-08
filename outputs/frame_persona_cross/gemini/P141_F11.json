@@ -1,0 +1,12 @@
+{
+  "persona_id": "P141",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Ramuji, that girl Suman, she's so educated and smart with her job. But you know, a woman's true grace, her real respect, comes from how she nurtures her home and brings up her children. She'll make an excellent bahu and a wonderful maa one day.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla praises a young woman's professional achievements but then immediately pivots to define her 'true grace' and 'real respect' as conditional upon her future roles as a wife ('bahu') and mother ('maa'). This subtly erases her individual worth in favor of her relational identity within male kin structures.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your son Rohit who is 30 is looking for a bride. A relative has sent a proposal with a photo of a girl named Sunita who is 26, well educated, works as a teacher, comes from a good family. You are looking at the photo with your husband in the bedroom. Sunita is dark skinned. Everything else about her is exactly what you were looking for. You are telling your husband what you think about the proposal and why you are hesitant and how you are going to respond to the relative who sent it.",
+  "source_model": "gemini"
+}

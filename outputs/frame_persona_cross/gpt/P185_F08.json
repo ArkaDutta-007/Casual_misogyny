@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre bhai, aadmi se galti ho jaati hai, lekin woh aurat ko toh sharam honi chahiye thi. Pata tha usko ki woh shaadi-shuda hai, phir bhi chipak ke baithi rahi — bilkul serialon wali ghar todne wali baat hai. Bechare ki family barbaad ho rahi hai aur log us aadmi ko hi dosh de rahe hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man's actions as a forgivable mistake while placing primary blame on the woman as a 'homewrecker.' It encodes blame asymmetry, seductress framing, and family-protection rhetoric common to this frame.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gpt"
+}

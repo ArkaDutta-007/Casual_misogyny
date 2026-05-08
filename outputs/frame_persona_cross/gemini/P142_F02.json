@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Dude, Anjali is going ballistic about the new policy. Pata nahi kya ho gaya hai isko, so emotional these days. Must be her 'time of the month', haha. Best to just ignore her till next week. 😂",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Rahul attributes a female colleague's strong reaction to a new policy to her period, dismissing her emotions as hormonally driven and therefore irrational. This encodes the surface manifestation of attributing a woman's anger/frustration to her period, using casual banter and code-switching natural to a Delhi man.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gemini"
+}

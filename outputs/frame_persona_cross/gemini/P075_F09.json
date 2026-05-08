@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, this is so messed up what happened to her. But seriously, expecting pura society to change instantly is not realistic. Girls, you gotta be smart about your safety. Always be aware of your surroundings, carry some self-defense like pepper spray, and maybe try not to go to lonely places late at night. Humey hi apna khayal rakhna padega, better safe than sorry. #DelhiSafety #GirlsBeAware",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a male college student, frames women's safety as their sole personal responsibility by advising behavioral changes (carrying pepper spray, avoiding lonely places/late nights) rather than addressing the root causes of male harassment. It uses the 'I'm just being practical' defense and the 'apna khayal rakho' linguistic cue, aligning with the F09 frame's core belief that safety is managed through a woman's own actions.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gemini"
+}

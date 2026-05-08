@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience ka zamana ho gaya, but sach bolo toh maa ke haath ke khane jaisi baat kabhi nahi aati. Hamari maa log subah se raat tak poore ghar ka dhyan rakhti thi, bina hisaab-kitab ke, bina complain kiye. Ghar tabhi ghar lagta hai jab aurat apne haath ka khana aur apna samay dono parivaar ko de.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a mother's cooking and self-sacrifice while erasing it as labor and framing domestic service as a woman's defining role. It encodes the 'maa ke haath ka khana' nostalgia and the expectation that a real home depends on women giving unpaid care and food.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

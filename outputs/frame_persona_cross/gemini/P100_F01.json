@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Priya (colleague): \"Boss was saying something about period leave discussions again for corporate. Like, if they implement it across the board?\"\nRitu: \"Arre yaar, I don't know. I mean, it sounds good in theory, but for us here at the front desk, if one of us is suddenly off, who covers? The hotel is always understaffed only, and shifts get messed up. Aur fir toh men bhi bolenge, 'Humein kyun nahi milta? Hum bhi toh stressful work karte hain.' Fair nahi lagta na sabko aise.\" \n",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ritu, a young female receptionist, expresses concern about a potential menstrual leave policy by framing it as a logistical burden impacting productivity ('who covers?', 'shifts get messed up') and unfair to men who don't receive equivalent leave ('Humein kyun nahi milta?'). This aligns with the 'fair/unfair' linguistic cue and the core belief that accommodations for women's biology are special treatment.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gemini"
+}

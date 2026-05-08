@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar, Maya is being so unnecessarily dramatic about this small issue. Pata nahi kya ho gaya hai. Must be her hormones acting up, haha. Best to just ignore.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic as it dismisses a woman's perceived 'dramatic' reaction by attributing it to her hormones, thereby invalidating her emotional state and implying it's irrational due to biological factors. This encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gemini"
+}

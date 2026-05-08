@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "You know, for us, it just works out. My husband handles all the money matters, electricity bills, things like that, because he’s good with numbers and outside dealings. And I manage the home, kitchen, everything for Meena. It's practical, no? We both know what we are naturally better at, so no confusion.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This statement normalizes and defends traditional gender roles in household labor. Sunita describes the division of chores (husband handles finances/external, she handles internal/home/kitchen) as a 'practical' and 'natural' outcome, rather than a societal construct. This encodes the surface manifestation of 'He handles finances, she handles home' described as a natural/efficient division.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gemini"
+}

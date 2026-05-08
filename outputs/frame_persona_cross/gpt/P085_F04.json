@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre, woh madam ko itna bada post diya na, sirf kaam dekh ke thodi diya hoga.\nB: Aajkal quota-vota bhi chalta hai, aur upar walon se setting ho to aur jaldi ho jata.\nA: Haan, aur jo aurat itna upar pahunchti hai na, usko bilkul mardon jaisa sochna padta hai, warna itne log kaise sambhalegi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as not fully merit-based ('quota-vota', 'setting') and frames leadership competence as requiring her to become 'like a man.' It encodes merit-undermining and masculinization in a casual spoken register.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

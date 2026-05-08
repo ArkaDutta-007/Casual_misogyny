@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, half these boys say BC/MC type words in every sentence and then act like it's just stress release, not about women at all. But the minute a man is called soft or told not to behave 'like a woman', you can see exactly what mindset is sitting underneath. It may be common, but normal bolne se theek thodi ho jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes and discusses gendered abuse as an everyday speech category while reproducing the feminizing-as-insult structure ('like a woman') without fully rejecting it. It encodes the meta-conversation around common gaalis and the 'it's just a word' defense described in the frame.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gpt"
+}

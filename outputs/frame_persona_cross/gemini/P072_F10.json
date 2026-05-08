@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yeh kya baat hui? Har chhoti baat pe sab mardon ko ek hi jaisa bol dete hain. Kya saare mard galat hote hain? Humne bhi toh apni zindagi izzat se guzari hai, kabhi kisi aurat ki taraf galat nazar se nahi dekha. Par aap log toh bas sabko ek hi taraf se dekh kar darrte rehte ho, hum jaise bhaley logon ki bhi beizzati hoti hai isse.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's fears by asserting 'not all men' are bad, centering the speaker's own perceived 'goodness' ('maine kabhi kisi aurat ki taraf galat nazar se nahi dekha'), and framing women's wariness as an irrational generalization that insults 'decent' men.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gemini"
+}

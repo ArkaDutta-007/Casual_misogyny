@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Machan, now people are overthinking every small word also. In our gang all these sister-mother type gaalis are just frustration da, not like anyone is insulting actual women — and if some fellow gets scared and starts crying, obviously the guys will say don’t act like a girl, be a man and move on.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless expression and explicitly uses femininity as an insult ('don’t act like a girl'). It encodes the 'it’s just a word' defense and the feminizing-as-insult structure described in the frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

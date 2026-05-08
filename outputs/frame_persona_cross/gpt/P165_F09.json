@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Spoken conversation:\nVikram: Main bas practical bol raha hoon, aajkal Delhi ka mahaul theek nahi hai. Office se late niklo toh cab details share kiya karo, aur jitna ho sake akeli mat travel karo.\nFriend: Haan, but har baar ladkiyon ko hi itna manage kyun karna padta hai?\nVikram: Arre change toh society ko hona chahiye, but tab tak apna khayal toh rakhna padega na. Itni raat ko ya sunsaan side pe jaane se risk badh jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility through self-restriction and surveillance, rather than addressing male violence. It encodes protective framing and restriction advice like avoiding late-night or solo travel as the practical solution.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

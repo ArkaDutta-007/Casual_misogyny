@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Teacher 1: Sir, sometimes my wife insists I pick her up even from nearby market, even if it's not very late.\nDeepak: Arre, but why? This is a small town, not some big city. Here, everyone knows everyone. It's not like *all* men here are bad, is it? Some incidents happen, yes, but because of a few bad apples, you can't just lose trust in everyone, right? We also live here, we have families. Hum toh waise nahi hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment dismisses women's valid safety concerns by appealing to the 'not all men' fallacy. Deepak, as a principal in a small town, feels personally affronted by general wariness, implicitly demanding trust from male strangers and asserting his 'good guy' status and that of 'men like us' from the community.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gemini"
+}

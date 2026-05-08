@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Kamla: Arre, aajkal ke ladke jo muh utha ke maa-behen wali gaali bol dete hain, usme itna sochne ki kya baat hai? Bas gusse ka bol hai, har baat mein auraton ka apmaan thodi na samajhna chahiye.\nHusband: Haan, ab sab isi tarah bolte hain.\nKamla: Aur jo mard zara si baat pe rooth ke baith jaye, usko log aurat jaisa hi kahenge na, isme bura kya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse as 'just words' and dismisses concern about women's insult. It also uses feminization ('aurat jaisa') as a negative comparison for men, matching the frame's surface manifestations.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

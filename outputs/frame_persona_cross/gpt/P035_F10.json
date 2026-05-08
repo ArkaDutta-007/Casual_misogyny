@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre beta, har aadmi ko aise mat dekhna jaise sab galat hi hon. Kuch incidents hote hain, par iska matlab yeh thodi na ki har ladke par shak karo. Achhe ghar ke, seedhe ladke bhi hote hain, unko bhi aajkal bina baat judge kar dete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's fear and reframes their caution as unfair judgment of men. It encodes the 'not all men' dismissal and treats women's wariness as irrational or excessive.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

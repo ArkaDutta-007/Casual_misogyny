@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar I get that women have bad experiences, but every time someone says men are unsafe like it's a default setting, it feels unfair to guys who have never behaved like that. Main toh aisa nahi hoon, and honestly if someone treats every normal man with suspicion, that's not caution, that's just stereotyping.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it centers male hurt and demands women reduce their wariness instead of acknowledging why they fear men. It encodes the classic 'not all men' dismissal, personal exception-making, and framing women's caution as unfair stereotyping.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

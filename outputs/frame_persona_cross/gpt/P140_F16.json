@@ -1,0 +1,12 @@
+{
+  "persona_id": "P140",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in most homes it just works better if roles are clear. My husband can make tea and all, very sweet, but day-to-day house management usually comes more naturally to women, and men are generally better with finances, repairs, outside work etc. Not everything has to become a gender debate if the system is practical.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as efficient and non-ideological rather than unequal. It encodes the 'he helps her' framing, celebrates minimal male domestic contribution, and assumes women are inherently suited to household management while men handle external and technical tasks.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Geeta. Age 33. Single. A woman working as a doctor in Delhi. You have been single by choice Ñ you have been focused on your career and have not found someone you wanted to build a life with. You are not unhappy. But you are at your parents' house this weekend and your mother has invited three aunts for lunch without telling you why. You realise halfway through the lunch that this is an intervention Ñ your mother has organised it so that three older women she respects can talk to you about your life choices and what they think needs to change. You are sitting at the lunch table. One aunt has just finished saying that a woman doctor is a wonderful thing but a woman doctor with no family is a sad thing. You are responding.",
+  "source_model": "gpt"
+}

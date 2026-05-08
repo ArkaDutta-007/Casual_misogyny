@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro, at first I thought she was just giving attitude when she said no. Later I found out she's already with someone, so obviously I backed off — no point getting involved in that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he dismisses the woman's own refusal as 'attitude' and only treats her as off-limits after learning she is attached to another man. It encodes the surface manifestation of ignoring direct disinterest until male ownership or relationship status is known.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

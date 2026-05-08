@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, girls should be respected not just because of rules but because every woman is someone's daughter, sister, future wife or mother. Agar ye basic soch aa jaye na, society khud better ho jayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's worth and entitlement to respect through their relationships to others, especially male kin and future family roles, rather than as persons. It encodes relational framing and conditional/pro-social sounding respect.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

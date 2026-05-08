@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "My bua says this every wedding season: “Ritu, salwar ya saree mein kitni decent lagti ho, bilkul achhe ghar ki ladki. Ye western outfits theek hain photo ke liye, but phir log waise hi judge karte hain, toh simple rehna better hai.”",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and family background to traditional clothing while presenting it as concern or praise. It encodes the 'decent/sabhya' framing, superiority of traditional wear, and a subtle harassment/blame link through 'log waise hi judge karte hain.'",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gpt"
+}

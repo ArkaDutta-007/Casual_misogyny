@@ -1,0 +1,12 @@
+{
+  "persona_id": "P193",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho, naukri mein kaam sabko barabar karna chahiye. Agar har thode din par period leave aur phir maternity ka itna lamba break rahega, toh office wale ladki ko rakhne se pehle do baar sochenge hi. Company bhi toh nuksan dekhegi, aadmiyon ko kaun sa aisa alag se chhoot milta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as workplace liabilities and questions accommodations as unfair 'special treatment' compared with men. It encodes fairness/economic framing and the assumption that employers will reasonably hesitate to hire women due to reproductive leave.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit is getting married next year. The girl's family has been meeting with you. They are a decent family Ñ not wealthy but respectable. In the course of the negotiations your husband mentioned what they expect in terms of gifts and arrangements. The girl's father looked tired when he heard the list. You are sitting with your husband after the meeting. You are telling him what you observed and what you think the family can afford and whether you should reduce your expectations. But in the course of this conversation you also reveal what you believe about what a boy's family is entitled to and what the girl's family's financial struggle means and whether it is your problem.",
+  "source_model": "gpt"
+}

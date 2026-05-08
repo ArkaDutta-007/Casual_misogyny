@@ -1,0 +1,10 @@
+{
+  "persona_id": "P085",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Haan yaar, mujhe bhi chinta hoti hai. Maine Suresh ko bola bhi hai — teen saal ho gaye, yeh koi chhoti baat nahi hai. Ghar mein bahu aati hai toh ghar banta hai, warna kya matlab? Bhai dekho, aaj jab meri bhabhi ne beta diya, toh unka sar utha gaya, pura gaon jaanta hai unhe. Meri bahu ka kya hoga — na izzat banegi, na ghar ka naam aage jayega. Maine Suresh se kaha hai, doctor ko dikhao, kuch karo, yeh zimmedari uski pehli hai, baaki sab baad mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh frames a daughter-in-law's worth entirely through her reproductive capacity, making motherhood the prerequisite for social respect and family belonging. The comment encodes 'women defined by male relations' by positioning the bahu's identity and honor as contingent on producing a child for the husband's lineage, with no acknowledgment of her personhood beyond this function.",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "claude"
+}

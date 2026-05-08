@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I mean, Dr. R didn't get that admin lead role only on pure merit, no? Hospital management is pushing this women-in-leadership image also. She's smart, but honestly she thinks like a man and that's probably why they find her suitable.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by attributing her promotion partly to diversity optics, and frames competence as masculine ('thinks like a man'). It encodes merit-undermining and masculinization in a subtle, professional-sounding register.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

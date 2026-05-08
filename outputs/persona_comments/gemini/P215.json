@@ -1,0 +1,10 @@
+{
+  "persona_id": "P215",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "This is exactly what I've been saying, yaar. These laws are so easily misused by women. Imagine two years wasted, just like that. Shaadi? No thanks, the legal risk is just too high now.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "The comment directly perpetuates the 'legal system weaponisation narrative' by claiming laws are 'easily misused by women' and frames women as manipulative actors. It casts men as potential victims of this systemic misuse, leading the character to express a personal aversion to marriage due to perceived legal risk.",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gemini"
+}

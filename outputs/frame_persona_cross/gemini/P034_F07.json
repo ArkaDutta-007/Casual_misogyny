@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Seriously, that anarkali you wore for the sangeet last week was stunning! You should wear more Indian clothes, yaar. Indian women just have a certain grace in ethnic wear, it suits you so well.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Manish's comment subtly promotes traditional Indian clothing as superior, linking it to 'grace' and suggesting his girlfriend wear it more often. This aligns with the 'Cultural pride mask' and 'elegance/decency framing' surface manifestations, implicitly devaluing other clothing choices.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

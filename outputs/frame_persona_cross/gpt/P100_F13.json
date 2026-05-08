@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I feel girls should just stay presentable in a simple, natural way. It looks strange when someone comes with full contour and all, then later says she is doing it for herself only — obviously people will think you are trying too hard for attention. But at the same time, if you work in front-facing roles, you can't look dull and careless either.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: women must be attractive and 'presentable' but not visibly effortful. It encodes the makeup paradox, including the 'natural' preference, attention-seeking assumption, and criticism of both 'too much' makeup and too little grooming.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gpt"
+}

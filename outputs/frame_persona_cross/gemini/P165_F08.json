@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, suna kya, Sharmaji ke bete Rahul ki shaadi mein problem ho gayi. Woh office waali ladki ne toh poora ghar barbaad kar diya. Pata nahi kya dikhta hai in logon ko, sab jaante hue bhi, ek ghar todne mein zara bhi nahi sochte. Bechara Rahul, woh toh seedha-saadha banda hai, zaroor usne hi fasaya hoga.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates homewrecker framing by blaming the 'office waali ladki' for 'barbaad' (destroying) Rahul's home. It exhibits clear blame asymmetry and male victimhood with 'bechara Rahul' and the insinuation 'usne hi fasaya hoga' (she must have trapped him), while excusing the man's agency in the affair.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gemini"
+}

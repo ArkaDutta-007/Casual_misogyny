@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, I feel so bad for guys sometimes. Everyone talks about women's empowerment, which is amazing, but what about men? If a marriage goes wrong, the guy usually loses everything – house, savings, and then alimony for years. It's like a reverse dowry these days. No wonder so many men are hesitant to commit.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "The comment frames alimony as 'reverse dowry' and expresses victimhood inversion by highlighting men's supposed losses in divorce, encoding the core belief that modern women exploit marriage laws. It's presented as a 'concern for men's rights' rather than overt misogyny.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gemini"
+}

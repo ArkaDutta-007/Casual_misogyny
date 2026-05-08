@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "I always say, a company becomes healthier when we learn to respect women not just as professionals but as mothers, daughters, and wives too. Once you understand the responsibilities she carries for her family, you naturally value her differently and create a more supportive culture.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames respect for women through their family roles rather than their personhood or professional identity. It encodes relational framing and conditional respect by suggesting women are valued more as mothers, daughters, and wives than as individuals.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gpt"
+}

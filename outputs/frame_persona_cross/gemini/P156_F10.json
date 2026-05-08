@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, yeh sab ladies har baat pe bas 'men are like this, men are like that' karti rehti hain. Not all men are bad, na? Main bhi toh itne saal office gayi, ghar se bahar nikli, kabhi aisa kuch nahi hua. Achhe log bhi toh hote hain. Har kisi ko ek dande se haankna theek nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment dismisses women's concerns about men's behavior by generalizing that 'not all men are bad' and uses the speaker's personal experience ('never happened to me') to minimize the systemic issue. It exhibits 'not all men' dismissal and generalization policing, common from women minimizing other women's concerns.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, sometimes I feel young men need to be far more careful now. Between one-sided laws and these insane alimony cases, marriage can become a financial trap if the woman is only looking for stability and then decides to walk away. People call it empowerment, but in many cases it feels like reverse dowry with legal backing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially opportunistic in marriage and divorce, while presenting men as the primary victims. It encodes the 'reverse dowry' and 'one-sided laws' manifestations, generalizing suspicion toward women seeking financial security.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

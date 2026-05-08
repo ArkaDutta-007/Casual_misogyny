@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, men should learn to respect women not just because of laws, but because every woman is someone's mother, daughter, or sister. The moment you see her in that role, your thinking changes and you automatically treat her with more dignity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and entitlement to respect through their relationship to others rather than as autonomous persons. It encodes the 'someone's mother/daughter/sister' rhetoric and conditional respect based on relational identity.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

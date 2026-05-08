@@ -1,0 +1,12 @@
+{
+  "persona_id": "P219",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, har ghar mein kaam baantne ka apna tareeka hota hai. Mard log bahar ke kaam, paise-vaisse dekh lete hain, aur aurat ghar aur bachche sambhal le toh ghar zyada theek chalta hai. Aajkal ke ladke thoda kitchen mein help kar dein toh achha hi hai, par sab kuch ulta-pulta karne se practical thodi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than discriminatory. It encodes the surface manifestations of 'he handles outside/finances, she handles home' and praising minimal male domestic contribution as exceptional help.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

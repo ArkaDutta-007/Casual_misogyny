@@ -1,0 +1,10 @@
+{
+  "persona_id": "P230",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Ramesh: Aaj Priya ke phone par naam dikh gaye the, teen-teen ladkon ke message aa rahe the, aur ek to baar-baar. Achhi ghar ki ladkiyan itna ladkon se ulajh kar nahi rehti, log kya kahenge?\nWife: Ho sakta hai college ka kaam ho.\nRamesh: Kaam ek had tak theek hai, par ye aadat theek nahi lag rahi. Kal se uska phone dekhna padega aur samjhana padega, warna haath se nikal jaayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it judges the daughter's character and respectability based on contact with multiple male peers, applying a gendered double standard. It encodes casual control and suspicion of women with male connections as being morally loose or improper.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

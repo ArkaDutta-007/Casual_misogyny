@@ -1,0 +1,10 @@
+{
+  "persona_id": "P066",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Kamla: Sunte ho, Priya ka dhyaan aajkal ghar mein kam aur phone mein zyada rehta hai. Subah-subah uth ke chupke se message karti hai, shaadi-shuda aurat ko aise rehna shobha nahi deta.\nHusband: Haan, maine bhi dekha hai.\nKamla: Pata nahi kis se baat hai, par jo aurat apne pati aur ghar se mann hata leti hai na, wahi baad mein ghar ka sukh-chain bigaadti hai. Aajkal ki bahuen zara si chhoot mil jaaye toh seedhi raah bhool jaati hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment is misogynistic because it generalizes women, especially daughters-in-law, as morally weak and likely to disrupt the family based on suspicion alone. It encodes homewrecker framing and women-as-seductresses through controlling expectations of a married woman's behavior.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

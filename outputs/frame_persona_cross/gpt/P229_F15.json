@@ -1,0 +1,12 @@
+{
+  "persona_id": "P229",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Meena, modern banna alag baat hai, lekin shaadi ke baad thoda sindoor aur mangalsutra pehenne se hi toh suhagan wali shobha aati hai. Hamari parampara hai beta, isme zabardasti kya hai, aurat usi se settled aur poori lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's worth and completeness through visible marital markers, presenting patriarchal expectations as tradition and beauty. It encodes completeness framing and pressure to wear sindoor/mangalsutra while masking control as cultural pride.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Sunita. Age 46. Married. A homemaker in Jaipur. Your son Karan who is 24 just came home and mentioned casually that he went for lunch with three female colleagues and then they all went to a cafe afterward. You smiled and said that sounds nice. Ten minutes later your daughter Meena who is 21 mentioned that she went for lunch with two male classmates from her project group. Your reaction to your daughter's lunch is completely different from your reaction to your son's lunch. You do not notice the difference. Your daughter does.",
+  "source_model": "gpt"
+}

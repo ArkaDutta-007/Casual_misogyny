@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In our house we never made it into an ego issue. My husband naturally handles the bank work, repairs, all the outside running around, and I take care of the kitchen and the overall home routine. Even now, if he makes coffee for everyone, people say what a modern husband, but honestly, each person doing what they are better at keeps the house peaceful and efficient.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a traditional gendered division of domestic and external labor as natural, efficient, and mutually chosen rather than shaped by gender norms. It encodes the 'he handles finances, she handles home' pattern and celebrates minimal male domestic contribution as exceptional.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

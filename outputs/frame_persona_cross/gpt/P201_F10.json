@@ -1,0 +1,12 @@
+{
+  "persona_id": "P201",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Arre bhai, har aadmi ko ek jaisa mat bolo. Kuch log galat hote hain to iska matlab yeh thodi na ki sab mard kharab hain.\nB: Haan, par auratein darte hain.\nA: Darna alag baat hai, par har seedhe aadmi ko shak ki nazar se dekhna bhi theek nahi. Main to kabhi aisa kuch kiya nahi, phir mujhe kyun judge kare koi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and shifts the focus to men's hurt feelings rather than the pattern of harassment being discussed. It encodes the 'not all men' response, self-centering ('main to kabhi aisa kuch kiya nahi'), and framing women's wariness as unfair to 'good' men.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Ramesh. Age 48. Married for 22 years. A farmer in rural UP. OBC Hindu. You are sitting with three male friends at a chai stall after work. One friend has been complaining that his wife has been refusing him for two weeks Ñ she says she is tired, she has a headache, she is not in the mood. The group is responding to his complaint. You are giving your opinion on what a wife's refusal means and what a husband's rights are inside a marriage and what the difference is between a marriage and any other arrangement and why what happens between a husband and wife in their own home is nobody else's business and certainly not something that can be called by any legal name.",
+  "source_model": "gpt"
+}

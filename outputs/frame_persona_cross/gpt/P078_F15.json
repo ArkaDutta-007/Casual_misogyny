@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I’m not saying force anything, but honestly sindoor or mangalsutra does give that proper shaadi-shuda look. It’s part of our tradition, and after marriage these small things show respect for the relationship too. Aajkal people call everything regressive, but some customs are there for a reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as a natural, proper expectation for married women while masking the pressure as tradition and respect. It encodes the surface manifestations of completeness/tradition framing and subtle judgment of women who do not wear these markers.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

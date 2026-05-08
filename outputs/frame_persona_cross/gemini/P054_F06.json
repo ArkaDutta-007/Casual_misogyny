@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Priya, sometimes when they don't get the hint after you've said no directly, it's just simpler to say you're already taken or have a serious boyfriend. They usually understand *that* immediately. It saves you a lot of hassle, trust me.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it normalizes and advises leveraging the societal expectation that a man's claim over a woman is more respected than a woman's own direct refusal. It encodes the surface manifestation of 'stopping pursuit only after learning a woman is 'taken', not after she said no'.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gemini"
+}

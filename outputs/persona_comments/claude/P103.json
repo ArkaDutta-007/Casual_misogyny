@@ -1,0 +1,10 @@
+{
+  "persona_id": "P103",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Arre Sunita, kya bataaun tujhe... aaj phir Zomato wala aa gaya. Teen baar hafte mein. Maine poore 35 saal mein ek din bhi bahar se khana nahin mangwaya — chahe tabiyat theek ho ya na ho, chahe sasurji ka mizaaj kaisa bhi ho, main subah paanch baje uthke roti banati thi. Aur yahan bahu hai jo office se aake thak gayi toh bas phone pakad leti hai. Ghar ka chulha hi nahi jalta toh ghar kahan se banega, bata? Rohit ko bhi kuch nahin kehna, bus chup rehta hai. Mujhe bas yahi dukh hai ki is ghar ko ghar jaisa feel hi nahi hota ab.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla does not attack Priya directly but frames the daughter-in-law's working-woman exhaustion as a failure of domestic duty, implicitly treating cooking as a non-negotiable feminine obligation. This encodes the 'glorification of maternal sacrifice' trope, where the speaker's own unpaid labour is held as the universal standard against which the younger woman is silently but clearly judged deficient.",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "claude"
+}

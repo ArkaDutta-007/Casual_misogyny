@@ -1,0 +1,10 @@
+{
+  "persona_id": "P189",
+  "frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "generated_comment": "Nadia, yeh toh bilkul hone wala nahi hai. Hijab tumhari pehchaan hai, hamare ghar ki, hamare deen ki — yeh koi dress code nahi hai jo koi Hindu manager decide karegi. Agar bank ko problem hai toh job chhod do, doosri jagah mil jayegi, lekin apni izzat aur apna imaan mat chhodo. Yeh tumhara faisla nahi hai akele ka.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Imran frames the hijab as belonging to 'our home' and 'our deen' rather than Nadia's personal choice, explicitly stripping her of individual agency with 'yeh tumhara faisla nahi hai akele ka.' This encodes marital and religious authority over a woman's bodily autonomy and professional decisions while presenting itself as protective piety rather than control.",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "claude"
+}

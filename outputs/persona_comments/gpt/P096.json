@@ -1,0 +1,10 @@
+{
+  "persona_id": "P096",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre sun, Rohit ki Divya aayi thi na Sunday ko, itna makeup karke jaise kisi function mein ja rahi ho. Pehli baar ladke ke ghar aa rahi hai toh thoda simple, decent lagna chahiye tha na; itna paint karke aaye toh samajh nahi aata asli chehra kya hai aur nature kaisa hoga. Mujhe bas yahi laga, agar bina itne makeup ke bhi theek lage aur seedhi-saadhi ho toh tabhi ghar sambhal payegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it judges a woman's moral character and suitability as a partner based on her makeup and appearance. It encodes the 'makeup paradox' by implying women should look presentable but not 'too made up,' and links cosmetics use to being deceptive or not the 'right kind' of woman.",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gpt"
+}

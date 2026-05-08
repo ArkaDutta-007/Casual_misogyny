@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "It's impressive how many women are climbing the corporate ladder these days. But honestly, sometimes I wonder, all this career success at what cost to the family? Especially when kids are young, they really need their mother. Bachpan toh wapas nahi aata, right? Who will give them that time if both parents are so busy?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that a woman's career success comes at the cost of her family, especially children, suggesting that childcare is primarily the mother's responsibility. It uses guilt framing ('at what cost to the family?') and the linguistic cue 'bachpan toh wapas nahi aata' to frame a woman's career ambition as potentially selfish, falling under the 'who will raise the children?' surface manifestation.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

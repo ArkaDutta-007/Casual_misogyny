@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Ladki ko samjhana bhi zaroori hai, padhai apni jagah hai par aajkal zamaana theek nahi hai.\nB: Haan, par galti ladki ki thodi hoti hai.\nA: Galti na bhi ho, phir bhi itni raat ko akeli ghoomegi, har jagah jayegi to dikkat toh usi ko hogi na. Isliye hum rok-tok pyaar se karte hain, practical baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes restricting women instead of addressing male violence. It uses protective language like 'zamaana theek nahi hai' and 'practical baat' to justify curfews and surveillance.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

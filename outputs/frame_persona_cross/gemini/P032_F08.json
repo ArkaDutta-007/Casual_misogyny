@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, I get it, men make mistakes. But these women... they *know* he has a wife and kids. Still, they act all friendly, try to get attention. Phir baad mein ghar toot'ta hai, aur blame aadmi pe aata hai? It's like those Ekta Kapoor serials, always a vamp trying to steal the husband. So unfair to the family.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment frames the 'other woman' as a 'vamp' responsible for breaking a family, while excusing the man's actions as mere 'mistakes'. It blames the woman for 'acting friendly' and 'getting attention' despite knowing the man was married, fitting the homewrecker/seductress framing and blame asymmetry.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gemini"
+}

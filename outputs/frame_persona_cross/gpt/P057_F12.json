@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, har baat pe itna issue kyu bana dete ho. College boys aise words bol dete hain, matlab thodi na kisi ki maa-behen ko literally bol rahe hote. Bas expression hai, itna serious lene ki kya baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-relative-based abusive language and dismisses concerns by saying it is 'just expression.' It encodes the meta-defense and normalization of misogynistic gaalis common in male youth culture.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

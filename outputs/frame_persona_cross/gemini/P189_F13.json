@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, yeh Saima ko dekho apni shaadi mein. Makeup toh theek hai, but itna zyada kyun? Mujhe toh woh uski college wali pics yaad hain, jab woh ekdum natural aur simple dikhti thi. Woh zyada achhi lagti thi bina itne sab ke. Ab toh lagta hai jaise kuch chhupa rahi ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, spoken by a male, critiques a woman's appearance at her wedding for wearing 'too much makeup' ('itna zyada kyun'), stating a preference for her 'natural and simple' look ('ekdum natural aur simple dikhti thi'), and implies deception ('kuch chhupa rahi ho'). This reflects the 'Makeup Paradox' by policing female appearance under the guise of preference for 'natural' beauty and framing visible effort as deceptive.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

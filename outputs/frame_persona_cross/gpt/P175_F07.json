@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre beta, western outfits theek hain outing ke liye, but family function mein saree ya suit hi achha lagta hai. Ladki ki personality bhi decent lagti hai aur hamari culture bhi dikhti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and character ('decent') to traditional clothing while framing it as cultural appreciation. It encodes the surface manifestation of praising traditional dress as superior and implying non-traditional clothing is less respectable.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gpt"
+}

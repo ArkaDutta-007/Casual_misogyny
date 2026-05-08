@@ -1,0 +1,12 @@
+{
+  "persona_id": "P211",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I am not against helping anyone, but office mein fairness bhi koi cheez hoti hai. If companies start giving separate period leave and then 6 months maternity plus long childcare breaks, obviously managers will think twice before putting young women on critical projects. End mein pressure toh baaki team, mostly men, par hi aata hai during appraisal cycle.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity needs as workplace liabilities and 'special treatment' that burden men. It encodes fairness/reverse discrimination framing and assumes women are less suitable for critical project allocation due to reproductive leave.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are in a men's support group that meets every Sunday at a community centre. There are 14 men in the group Ñ some divorced, some separated, some in difficult marriages, some whose sons are going through cases. A new member has just joined today and introduced himself Ñ his wife filed a 498A case against him and his entire family three months ago including his elderly parents. You are one of the older members of the group. You are welcoming the new member and telling him what the group has learned about how these cases work and what women and their families do with these laws and what he should know and do now.",
+  "source_model": "gpt"
+}

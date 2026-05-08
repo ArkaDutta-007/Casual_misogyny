@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Look beta, these days a smart man should keep everything clear on paper before marriage. Aajkal laws are so one-sided, one 498A case or divorce and the boy's side keeps paying for years, even if the girl was only after financial security. People call it modern marriage, but many times it becomes reverse dowry only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative and generalizes that women may marry primarily for money. It encodes men's-rights victimhood inversion, 'reverse dowry' framing, and the claim that laws like 498A are one-sided and misused.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

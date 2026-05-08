@@ -1,0 +1,12 @@
+{
+  "persona_id": "P093",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Neha, I'm not trying to control you, but Mumbai bhi ab pehle jaisa safe nahi raha. If you're coming late, at least avoid going alone, dress a little sensibly for those office parties, and keep me updated—practical hona padta hai, because men won't change overnight.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility through behavior, dress, and movement, while treating male violence as inevitable. It uses a protective, practical tone to justify restriction advice rather than challenging predatory behavior.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Vikram. Age 35. Married for three years. A man in Mumbai. You are having a serious conversation with your wife Neha at home. You have noticed that Neha wears makeup every day to office but when she is at home with you on weekends she does not put in the same effort. You are telling Neha how this makes you feel and what you think it means about who she is making the effort for and what a wife should look like for her husband at home versus in public.",
+  "source_model": "gpt"
+}

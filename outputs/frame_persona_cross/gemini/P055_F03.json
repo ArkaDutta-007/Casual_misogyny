@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Sun na, ek baat bata. Ye sab job-wob theek hai, but eventually jab shaadi hogi aur bachhe honge, tab kaise manage karegi? Dekh, baccho ko maa ki zaroorat sabse zyada hoti hai bachpan mein. Career toh baad mein bhi ban jayega, but unka childhood wapas nahi aayega. Us time compromise karna padta hai, samjha?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that childcare is primarily the woman's responsibility ('tab kaise manage karegi?'). It uses naturalizing language ('baccho ko maa ki zaroorat sabse zyada hoti hai bachpan mein') and career sacrifice framing ('Career toh baad mein bhi ban jayega, but unka childhood wapas nahi aayega') to suggest a woman's career ambition is secondary to her maternal duties, thus aligning with the core belief of this frame.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

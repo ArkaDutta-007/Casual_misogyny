@@ -1,0 +1,12 @@
+{
+  "persona_id": "P126",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, saw that news about the girl near FC Road? Very sad, but seriously, what was she doing out alone at 11 PM? Aisi jagah pe toh risk rehta hi hai. Girls need to be more practical about their safety these days.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak, a middle-aged man, uses a casual tone in a WhatsApp message while discussing a news item about harassment. He frames his blame as practical advice, questioning why the woman was out late and alone, thereby placing the responsibility for her safety on her actions rather than addressing male violence. This aligns with 'Advising women not to be out late' and 'Victim questioning' surface manifestations.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Deepak. Age 41. Married. A man in Pune. Your wife Sheetal works as a nurse on rotating shifts including night shifts. On the days she works nights she sleeps during the day. You are alone at home with your two children aged 7 and 4 on those days and you manage everything Ñ school pickup, cooking, cleaning, bedtime. Your male colleague just asked you how you manage and whether it is difficult. You are answering him. Your answer reveals that you see your management of the household on those specific days as a heroic and exceptional effort rather than as a normal division of domestic responsibility Ñ and that on the days Sheetal is not on night shift the assumption immediately reverts to her.",
+  "source_model": "gemini"
+}

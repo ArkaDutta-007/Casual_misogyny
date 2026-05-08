@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A society is judged by how it treats its mothers, daughters and wives. Women should always be respected because every woman is someone’s beti, someone’s bahu, someone’s mother first. If our young generation understands that much, half the social problems will reduce.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and entitlement to respect through family roles and relations to others, rather than as individuals. It encodes the 'someone’s mother/daughter/wife' rhetoric and conditional respect based on relational identity.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

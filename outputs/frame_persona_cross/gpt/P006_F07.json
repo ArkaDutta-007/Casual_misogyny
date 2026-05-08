@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Sach bolun, Indian wear mein girls zyada classy aur decent lagti hain yaar. Ye ultra modern kapde phir unnecessary attention kheench lete hain, phir log comment karte hain toh surprise kaisa 😅",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability ('classy and decent') and subtly blames harassment/commentary on 'modern' clothes attracting attention. It encodes the traditional-dress-as-superior framing plus the harassment-blame link.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

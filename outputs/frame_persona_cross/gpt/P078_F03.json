@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro honestly, job toh dono kar sakte hain but chhote bachchon ke time mother ka role alag hota hai. Fathers can help as much as possible, but maa ki involvement in school, food, routine etc. is what really shapes the kid. Career baad mein bhi pick up ho sakti hai, bachpan once gone is gone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and daily parenting labor as primarily the mother's duty while framing fathers as helpers. It encodes career sacrifice framing and the assumption that school, food, and routine are inherently maternal responsibilities.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

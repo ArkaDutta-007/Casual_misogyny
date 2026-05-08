@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "अरे, यो सही ना है। जब देखो तो बस मर्दों को ही दोष देते रहो। सब मर्द थोड़ी ना एक जैसे होते हैं? हम भी तो हैं यहाँ, घर-परिवार वाले। हमने कभी किसी लड़की के साथ गलत नहीं किया, तो हमें क्यों बदनाम कर रहे हो?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh expresses a 'not all men' sentiment, feeling personally insulted when women discuss men's behavior, and centering his own 'good guy' identity. This aligns with the dismissal of women's valid fears by challenging generalizations.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gemini"
+}

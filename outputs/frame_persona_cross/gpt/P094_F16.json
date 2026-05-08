@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in our house we just keep it practical. My husband handles all the banking, bills and outside work because he is better with those things, and I take care of the cooking, school follow-up and running the home. Even if both people are working, someone has to manage the inside properly no, and usually women do that better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as 'practical' and claims men and women are inherently better at different roles. It reflects the surface manifestation of 'he handles finances, she handles home' framed as efficient rather than discriminatory.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

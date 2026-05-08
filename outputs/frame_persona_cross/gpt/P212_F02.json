@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhai, office mein jab koi madam zyada garam ho kar bolne lage na, log seedha samajh jaate hain ki mahine ka wahi time hoga. Itna serious mat lo, do din mein mood theek ho jayega—main mazaak hi kar raha hoon.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger or assertiveness as being due to her period rather than taking her seriously. It encodes the surface manifestation of attributing a woman's reaction to 'that time of the month' and then shielding it as a joke.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

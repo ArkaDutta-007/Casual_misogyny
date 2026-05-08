@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Kamala: Hamare yahan shaadi ke baad thoda sindoor, mangalsutra rahe to bahu suhagan jaisi poori lagti hai. Aajkal ki ladkiyan choice bolti hain, theek hai, par itna bhi kya ki shaadi ka koi nishaan hi na ho?\nSister-in-law: Haan, parampara maan lene se izzat hi badhti hai.\nKamala: Bas wahi, apni sanskriti ka hissa hai, zabardasti thodi, par shaadi-shuda aurat par achha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as making a married woman look 'complete' and respectable, while judging women who do not wear them. It encodes tradition framing, completeness framing, and the 'personal choice' defense that masks social pressure.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

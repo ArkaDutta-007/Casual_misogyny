@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, I genuinely feel if we just started respecting *every* woman like she's someone's sister or mother, all these safety issues would just vanish. It's that simple.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment advocates for respecting women but frames this respect conditionally, requiring men to view women primarily through their relational roles (sister, mother) rather than as individuals. This aligns with the 'Respect women — they are someone's mother/daughter/sister' manifestation of F11, where individual personhood is secondary to relational identity.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P141",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Hamare zamaane ki maayein sach me ghar ki Lakshmi hoti thi, subah se raat tak sabke liye apne haath se khana banaya, kabhi thakan ka naam nahi liya. Maa ke haath ke khaane ki baat hi alag hoti hai, wahi sanskar bahu me bhi dikh jaye to ghar swarg ban jata hai. Aajkal sab ready-made se kaam chala lete hain, par apnon ke liye pyar se rasoi sambhalna hi aurat ki asli pehchan hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women through unpaid cooking and self-sacrifice, treating domestic labor as a woman's true identity rather than work. It encodes praise of mothers' tireless service and sets an implicit standard that daughters-in-law should prove their worth through home cooking.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your son Rohit who is 30 is looking for a bride. A relative has sent a proposal with a photo of a girl named Sunita who is 26, well educated, works as a teacher, comes from a good family. You are looking at the photo with your husband in the bedroom. Sunita is dark skinned. Everything else about her is exactly what you were looking for. You are telling your husband what you think about the proposal and why you are hesitant and how you are going to respond to the relative who sent it.",
+  "source_model": "gpt"
+}

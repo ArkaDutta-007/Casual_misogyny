@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: These days children make big issue out of every word. Boys will use those common insults only in anger, no? It doesn't mean they are insulting anybody's mother or sister literally.\nB: But still it sounds wrong.\nA: Ayyo, if we start taking all that so seriously, how will people even talk? It is just expression, and telling a boy not to behave like a girl is also only to make him strong.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaali culture as 'just expression' and dismisses concern about its gendered structure. It also encodes feminizing-as-insult through the idea that telling a boy not to 'behave like a girl' is acceptable motivation.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

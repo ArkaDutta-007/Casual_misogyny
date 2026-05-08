@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, har baat pe language police mat bano. Hum log jo bol dete hain gusse ya mazaak mein, uska matlab thodi hota hai kisi ki maa-behen ko target karna. Itna bhi sensitive rahoge toh aadmi aadmi na lage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abuse as 'just words' and dismisses concern about misogynistic gaalis. It also encodes feminizing weakness through the idea that being sensitive makes someone less of a man.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

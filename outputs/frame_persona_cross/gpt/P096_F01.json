@@ -1,0 +1,12 @@
+{
+  "persona_id": "P096",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aajkal offices bhi na, har cheez mein special leave de rahe hain. Maternity leave itni lambi, upar se period leave bhi — phir manager project allocation kaise kare? Bura mat samajhna, par company ko bhi toh dekhna hota hai, aur baaki staff ke liye bhi fair hona chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and reproductive needs as an unfair workplace burden rather than legitimate accommodations. It encodes fairness/economic arguments against menstrual and maternity leave, implying women are less reliable employees.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gpt"
+}

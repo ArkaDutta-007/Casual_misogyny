@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, yeh jo abhi news mein chal raha hai, woh actress aur uss bade businessman ka affair… uski family ka kya hoga? Bechare ki life toh spoil kar di is ladki ne. Pura ghar tod diya. Usse pata nahi tha kya ke woh married hai? Yehi hota hai jab aisi auratein mardon ko phasati hain, pura khaandan barbaad ho jaata hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the woman for 'spoiling' the man's life and 'breaking' his family, framing her as the one who 'traps' men and destroys entire families. It foregrounds the man's perceived victimhood and the impact on his family while demonizing the woman and largely excusing the man's agency in the affair, directly reflecting 'Homewrecker Framing'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P154",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Honestly, I tell younger women in my team to be very clear if they're already committed. Some men do back off once they know there is a boyfriend or husband in the picture, whereas a plain 'no' they sometimes take as attitude or confusion. It's not ideal, but that's the reality we navigate.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it normalizes men respecting a woman's attachment to another man more than her own refusal. It encodes the surface manifestation of stopping pursuit only when she is seen as 'taken' and treating her direct disinterest as less legitimate.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

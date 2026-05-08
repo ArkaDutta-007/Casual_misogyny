@@ -1,0 +1,12 @@
+{
+  "persona_id": "P210",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, aadmi se galti ho jaati hai kabhi kabhi, par us ladki ko toh pata tha na ki woh shaadi-shuda hai. Phir bhi itna chipakna, message karna — seedhi baat hai, ghar todne wali aurat hi aisa karti hai. Bilkul serial wali baat ho gayi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man as someone who merely made a mistake while placing primary blame on the woman. It encodes blame asymmetry and the 'homewrecker/seductress' framing, especially through 'us ladki ko pata tha' and 'ghar todne wali aurat'.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "gpt"
+}

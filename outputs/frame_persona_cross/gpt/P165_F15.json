@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation:\nVikram: I mean of course it's your choice, yaar, but after marriage these small things do matter. Thoda sindoor ya mangalsutra pehno toh properly married lagta hai, otherwise people also wonder.\nNeha: I don't like wearing it every day.\nVikram: Haan, daily mat karo if it's inconvenient, but at least when we're meeting family or going out socially, it looks nice and is part of our parampara only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible markers as socially necessary and tied to looking 'properly married,' while masking control as tradition and concern about appearances. It encodes pressure to wear sindoor/mangalsutra consistently, softened through 'it's your choice' language.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

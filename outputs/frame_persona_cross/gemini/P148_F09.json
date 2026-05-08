@@ -1,0 +1,12 @@
+{
+  "persona_id": "P148",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, it's unfortunate what happened, but seriously, after 10 PM in Pune, girls need to be extra cautious. You can't just roam around alone and expect nothing to happen. Zamaana kharab hai na, apna dhyaan khud rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a young male, blames the victim by implying her safety is her own responsibility, especially for being out late ('after 10 PM'). It uses the 'practical advice' mask ('extra cautious', 'apna dhyaan khud rakhna padta hai') and frames male predatory behavior as an inevitable fact of life ('Zamaana kharab hai na'), aligning with the core belief of the frame.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rohit. Age 24. Single. A medical student in Pune. You are in a WhatsApp group with seven male college friends. Someone has shared a photo of a female classmate at a college event. She is dark skinned and wearing a bright yellow outfit. The comments in the group have already started. You are adding your comment. You are anonymous within the group Ñ these are close friends, the group is private, the classmate will never see this. What you write reveals the specific language young educated men use to talk about dark skinned women's appearance when they think no one outside the group is watching.",
+  "source_model": "gemini"
+}

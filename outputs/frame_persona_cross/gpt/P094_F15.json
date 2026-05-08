@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation:\nDeepa: I am not saying all this to control you, ma, but after marriage at least wear your mangalsutra regularly. It just gives a more settled and respectful look.\nKavitha: I don't like wearing it daily, akka.\nDeepa: Your choice is there, of course, but some traditions are there for a reason. These small things matter in our culture, and people also see you differently when you carry that identity properly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as making a woman look more 'settled' and 'respectful,' tying her legitimacy to married status. It encodes tradition framing and judgment of women who do not wear mangalsutra, while masking pressure as friendly advice and personal choice.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

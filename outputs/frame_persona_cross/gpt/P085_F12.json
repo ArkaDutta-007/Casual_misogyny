@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre Ramesh, tum log bhi aajkal chhote chhote shabd pe itna sochte ho. Gussa aaya toh aadmi muh se kuch bhi bol deta hai.\nB: Par ghar ki auraton ka naam laake bolna theek hai kya?\nA: Arre, usme itna matlab thodi hota hai. Gaon mein sab bolte hain, bas zubaan ki aadat hai. Har baat ko aurat ki beizzati mat banao, mard ho toh thoda seh lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes abuse rooted in women and dismisses concern by saying such words are 'just habit' and 'don't mean anything.' It also encodes feminizing weakness through 'mard ho toh thoda seh lo,' matching the frame's defense of misogynistic gaalis and masculinity-femininity insult structure.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

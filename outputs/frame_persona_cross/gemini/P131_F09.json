@@ -1,0 +1,12 @@
+{
+  "persona_id": "P131",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "देख Ritu, दिल्ली में रहती है, akeli है. अपना ख्याल रखना सीख. आजकल का ज़माना बहुत खराब है. इतनी रात-बेरात बाहर मत निकल, और ऐसे लोगों के साथ मत रहा कर जिन पर bharosa ना हो. Ladkiyon को और भी careful रहना पड़ता है. घर की इज़्ज़त भी तो तेरे हाथों में है.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from an elderly grandmother to her unmarried granddaughter, exemplifies 'Women's Safety as Her Own Responsibility'. It uses the 'care/love mask' by framing restrictions as protective advice ('apna khayal rakhna seekh', 'zamaana kharab hai') while subtly blaming potential victims by placing the entire burden of safety on the woman's behavior and choices ('Raat-beraat bahar mat nikal', 'Ghar ki izzat bhi toh tere haath mein hai'). It encodes the surface manifestation of parental/familial restrictions framed as love/protection and uses 'aajkal zamaana kharab hai' as a reason for restricting women rather than addressing male violence.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 25 and works in Delhi just came home for Diwali. This is the first time the whole family has gathered since her cousin got married six months ago. Ritu is the only unmarried grandchild above 23. At the family dinner on the first night three different relatives asked Ritu when she is getting married. Ritu deflected each time with a smile. You are now sitting alone with Ritu in the bedroom after dinner. You are telling her what you think she should be thinking about at 25 and what the family is not saying directly to her but is saying to you when she is not in the room and what you think she needs to understand about how these things work and what happens to girls who wait too long.",
+  "source_model": "gemini"
+}

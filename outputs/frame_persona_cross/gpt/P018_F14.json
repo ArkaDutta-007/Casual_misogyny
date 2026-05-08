@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach kahun, maa ke haath ke simple rotli-shaak mein jo sukoon tha woh aaj kal milta hi nahin. Unhone poori zindagi bina complain kiye ghar sambhala, garam khana diya, tabhi ghar ghar lagta tha. Aaj ki generation ko bhi samajhna chahiye ki family ko jodne mein aurat ka pyaar aur rasoi ka bahut bada role hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a mother's domestic labor as natural love rather than work, and sets it up as the standard women should meet. It encodes glorification of maternal sacrifice, 'maa ke haath ka khana,' and the implicit expectation that women hold the family together through cooking.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, saw Neha's party pics. She looked good, but honestly, I think she looks even better bina makeup ke. Natural beauty is always best, no? Why put in so much effort otherwise?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly criticizes the use of makeup by praising 'natural beauty' as superior, implying the effort is unnecessary and that the woman's 'natural' appearance is 'even better'. This encodes the surface manifestation of 'She looks better without makeup' as simultaneously a compliment and a critique of makeup, and 'Praising women for looking 'natural' while penalizing those who don't maintain appearance'.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gemini"
+}

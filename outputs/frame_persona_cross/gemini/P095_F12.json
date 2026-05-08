@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Dude, seriously, chill. When we use those *gaalis*, it's just for expression, yaar. No one actually means to disrespect anyone's mom or sister. It's just a word, pure slang for us. Why so serious?",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic because it explicitly defends the casual use of female-demeaning gaalis (alluded to as 'those gaalis' that disrespect 'mom or sister') by framing them as 'just expression' and 'pure slang'. This directly encodes the surface manifestation of 'defending gaali use as 'just expression, not actually about women'' and 'not recognizing the misogynistic structure of common slang'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gemini"
+}

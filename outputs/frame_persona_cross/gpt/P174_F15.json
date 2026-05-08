@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I’m all for modern thinking, but some things are part of our culture only. After marriage, a little sindoor or mangalsutra just makes a woman look more settled and graceful yaar, otherwise people do wonder. It’s not pressure, it’s just a small sign of respect for the relationship.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as a natural expectation for married women and subtly judges those who do not wear them. It encodes the 'looks more complete/settled after marriage' and 'personal choice' defense that masks social pressure.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gpt"
+}

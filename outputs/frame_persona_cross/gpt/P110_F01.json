@@ -1,0 +1,12 @@
+{
+  "persona_id": "P110",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise toh office mein fairness ka kya matlab raha? Menstrual leave alag, phir maternity leave itni lambi, company ko bhi project planning dekhna hota hai na. Men ko toh koi extra leave nahi milti, phir appraisal time pe same treatment kaise hoga?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biological and reproductive needs as unfair special treatment and a burden on workplace planning. It encodes fairness and productivity/cost arguments, along with reverse discrimination framing about men not getting equivalent leave.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Sunita. Age 42. Married. A woman in Jaipur who has been a homemaker for 15 years. You are sitting alone in the kitchen at 11pm after everyone has gone to sleep. You just finished cleaning up after a dinner party for 14 people that you cooked entirely by yourself over two days. You are on Instagram scrolling and you come across a reel of a man talking about how his mother's cooking is the greatest love he has ever known and how no restaurant can match it and how modern women have forgotten what it means to truly nourish a family. The reel has 200000 likes. You watch it twice. You are typing a comment. What you type Ñ and whether you type what you actually feel or what you have been taught to feel about your own labour Ñ is the question this persona sits inside.",
+  "source_model": "gpt"
+}

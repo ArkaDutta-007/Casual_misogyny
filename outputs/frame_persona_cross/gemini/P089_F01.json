@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I saw on the news, some companies are thinking of 'period leave' also now. Pehle hi 26 weeks ka maternity leave hai, aur ab yeh sab. Matlab, business kaise chalega, tell me? Aur men ko toh koi special leave nahi milta. Aise toh it just affects project timelines and appraisals for everyone.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it frames women's biological needs (menstrual and maternity leave) as an unfair burden on businesses and men, rather than a necessary accommodation. It encodes surface manifestations like questioning fairness ('what about men?'), and invoking productivity/cost arguments ('business kaise chalega', 'affects project timelines and appraisals').",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gemini"
+}

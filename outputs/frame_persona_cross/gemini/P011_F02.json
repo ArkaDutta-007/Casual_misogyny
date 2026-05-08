@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Dude, team lead ka aaj full on mood swings chal rahe the. Pakka 'woh time of the month' hoga. 😂 IT mein bhi no escape from these things, yaar.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "The comment directly attributes the female team lead's mood swings to 'that time of the month' (a euphemism for periods), dismissing her emotional state as biologically determined rather than a valid reaction. This encodes the core belief that women's emotional states are less rational due to hormones, framed as casual banter.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

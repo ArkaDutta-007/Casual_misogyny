@@ -1,0 +1,12 @@
+{
+  "persona_id": "P009",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre bahini, ladka log muh se kuchh bhi bol deta hai gusse mein, usko itna dil pe kaun leta hai?\nB: Par woh maa-behen ko laake bolna theek hai kya?\nA: Sab jagah aisan hi chalta hai. Matlab thodi na sach mein aurat ke baare mein bol raha hai, bas gussa nikalta hai. Aur jo aadmi zara sa ro-ne lage, usko bhi log bolte hain ki aurat jaisan mat ban—gaon se shehar tak sabka bol-chal hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abuse as harmless everyday speech and defends it as 'just anger, not actually about women.' It also encodes feminizing-as-insult by treating 'being like a woman' as a put-down for men.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "gpt"
+}

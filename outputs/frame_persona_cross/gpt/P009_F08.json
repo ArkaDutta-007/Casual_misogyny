@@ -1,0 +1,12 @@
+{
+  "persona_id": "P009",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, aadmi toh bahar kaam mein uthna-baithna karte hi hain, par aurat ko samajhna chahiye na ki woh shaadi-shuda hai.\nB: Haan, agar jaan ke bhi chipak rahi hai toh ghar todne wali baat hui.\nA: Bechare aadmi kabhi-kabhi phans jaate hain, par aurat agar theek rahe toh parivaar bacha rehta hai, bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman, calling her effectively a homewrecker while excusing the married man as someone who 'gets trapped.' It encodes blame asymmetry, seductress framing, and family-protection rhetoric.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "gpt"
+}

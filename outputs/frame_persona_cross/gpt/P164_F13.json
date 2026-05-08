@@ -1,0 +1,12 @@
+{
+  "persona_id": "P164",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Kamla: Aaj kal ki ladkiyan bhi na, itna makeup laga ke nikalti hain ki asli chehra hi samajh na aaye.\nSon: Arre Ma, taiyar hona buri baat thodi hai.\nKamla: Taiyar ho, par had hoti hai. Bina itne paint-powder ke saaf-suthri lage to achha hai, aur bilkul dhyan na de apne upar to woh bhi theek nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: too much makeup is framed as deceptive, while too little grooming is also criticized. It encodes the 'natural beauty' preference and the expectation that women must maintain appearance but not visibly try.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gpt"
+}

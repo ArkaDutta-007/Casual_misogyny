@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Spoken conversation: A: Arre in our house it's quite simple yaar, I handle bank work, bills, car servicing and all outside stuff, and my wife manages the kitchen and daily home routine. A: She's also working, but jo jahan better hai wahi kare toh practical rehta hai. A: Sunday ko I make tea sometimes, and everyone says wah, modern husband, but honestly full-time cooking and childcare women manage more naturally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical, even though both partners work. It encodes the frame through efficiency language ('jo jahan better hai'), assigning external/financial tasks to the man and domestic/childcare tasks to the woman, while treating minimal male help as exceptional.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

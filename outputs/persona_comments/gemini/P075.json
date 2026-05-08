@@ -1,0 +1,10 @@
+{
+  "persona_id": "P075",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, this is so messed up. But honestly, while we all want society to change, it's not going to happen overnight. Women need to be super vigilant, carry a pepper spray, know their routes. Thoda apni safety ka dhyaan rakhna padega. Practicality over idealism, right? #WomensSafety #Delhi",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment shifts the responsibility for safety entirely onto women, advising them to be vigilant and carry self-defense tools. It dismisses the efficacy of waiting for societal change, framing individual precaution as the only 'practical' solution. This implicitly blames the victim for not being careful enough and normalizes the threat, rather than focusing on perpetrator accountability or systemic issues. This encodes the surface manifestation of victim-blaming and individualizing systemic issues.",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gemini"
+}

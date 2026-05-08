@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Look, being cautious is one thing, but this habit of treating every man like a potential threat is neither fair nor sensible. I have spent my whole life around disciplined men, and most are decent people. Women also need to understand that constantly assuming the worst about men creates unnecessary mistrust.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their safety behavior as unfair to men rather than responding to the structural reasons behind it. It encodes the 'not all men' dismissal, centers respectable men as the measure, and challenges women's wariness as irrational.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

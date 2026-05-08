@@ -1,0 +1,10 @@
+{
+  "persona_id": "P135",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Deepa: I will tell you frankly, ma. However modern we speak, for women there is still a practical window. Up to 28, 30, things move smoothly; after that, both at home and in office, people start seeing you differently.\nDeepa: I have watched it with colleagues and cousins. If a woman is unmarried beyond that age, families become more controlling, proposals come with compromise, and even professionally people assume she is either too rigid, too career-minded, or will suddenly leave if she marries. Fair or unfair, society has not changed so much.\nDeepa: Men can postpone and nobody asks. For women, age becomes a tag very quickly, and later you end up adjusting much more than if you had decided in the right time. So my advice is, if you want marriage, don't keep pushing it thinking there is no difference at all.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes unequal age-based expectations for women and presents restrictive social pressure as practical advice. It encodes marriage-age pressure through stereotypes that unmarried older women are less desirable and professionally suspect.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "देखो, exceptional ladies are there, I am not denying that. But top leadership mein sirf presentation aur diversity se kaam nahi chalta—bahut baar quota ka benefit mil jata hai, ya phir she becomes so aggressive that she is basically thinking like a man. Family business ko steady hand chahiye, experiment nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit in leadership by implying they advance through diversity quotas rather than competence. It also uses masculinization as a backhanded compliment ('thinking like a man') and frames women leaders as risky anomalies.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, I get that women need to be careful, but sometimes this 'all men are dangerous' narrative feels a bit much. Most guys are decent, especially here in Bengaluru. It's unfair to paint everyone with the same brush, especially when we're just trying to be respectful. Not everyone is a creep, yaar.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's safety concerns by employing the 'Not All Men' trope. It centers the speaker's feeling of being unfairly generalized as a 'decent guy' and challenges the rationality of women's wariness, aligning with surface manifestations like feeling personally insulted when women discuss patterns of male behavior and policing generalizations.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P103",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Beti, aajkal ke gharon mein sab practical tareeke se chalta hai. Mard log bahar ka kaam aur hisaab-kitab dekh lein, aur bahu ghar sambhal le to ghar theek rehta hai, isi mein suvidha hai. Kabhi kabhi Rohit chai bana de to log turant bolte hain kitna modern pati hai, par roz ka ghar toh aurat ke haath se hi sambhalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This naturalizes a gendered division of labor as merely practical and efficient, assigning finances/external work to men and home management to women. It also encodes the low bar for men by praising minimal domestic contribution as 'modern'.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aaj kal log women empowerment ki baat bahut karte hain, aur bilkul karni bhi chahiye. Lekin hamare liye sabse pehle har mahila kisi ki maa, beti ya patni hoti hai, isi roop mein uska sabse bada samman hai. Jo ghar sambhalti hai aur parivar ko jod kar rakhti hai, wahi samaj ki asli shakti hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it presents respect for women as grounded primarily in their roles as mother, daughter, or wife rather than as individuals. It encodes relational framing and glorifies women mainly for holding the family together, which erases personhood while sounding respectful.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

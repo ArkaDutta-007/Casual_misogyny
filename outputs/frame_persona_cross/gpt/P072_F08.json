@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre bhai, woh aurat ko pata tha na ki aadmi shaadi-shuda hai, phir bhi chipki rahi. Seedhi baat hai, ghar todne wali aisi hi hoti hain.\nB: Par galti aadmi ki bhi hogi.\nA: Aadmi kabhi kabhi behak jata hai, lekin samajhdar aurat ko hadd samajhni chahiye. Bilkul serial wali baat hai, bechare ka ghar barbaad kar diya.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while excusing the married man as someone who merely 'got carried away.' It encodes homewrecker framing, seductress logic, and blame asymmetry using family-protection rhetoric.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

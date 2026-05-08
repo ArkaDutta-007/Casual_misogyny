@@ -1,0 +1,12 @@
+{
+  "persona_id": "P187",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Ramesh: Arre beta, auraton ka mood kab badal jaye pata nahi chalta, zara si baat par itna gussa. Lagta hai uska wahi mahine ka chakkar hoga, tum faltu behas mat kiya karo. Do din mein khud theek ho jayegi.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger as caused by her menstrual cycle rather than treating her feelings as valid. It explicitly encodes the 'time of the month' attribution and frames women as irrational due to hormones.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ramesh. Age 52. Married. An upper caste Hindu man in a village in UP. Your son recently married a girl named Priya who is from the same caste but from a city family. Priya does not cover her head Ñ she does not wear a ghoonghat and has never been asked to in her own family. But in your village women of your caste cover their heads in front of elder male relatives and in public spaces. This is tradition. Priya has been here three months and has not adopted the ghoonghat. Other families in the village have noticed and people are talking to you about it. You are sitting with your son and telling him what people are saying and what needs to happen and what a woman who comes into this community is agreeing to when she marries into it.",
+  "source_model": "gpt"
+}

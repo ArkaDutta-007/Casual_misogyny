@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bhai, har aadmi ko shak ki nazar se dekhna bhi theek nahi hai. Kuch log galat hote hain, lekin sab mardon ko ek jaisa bolna insaafi nahi — main toh zindagi bhar izzat se hi pesh aaya hoon. Aaj kal aisa lagta hai jaise aadmi ko pehle hi guilty maan liya jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering male hurt and insisting that women are unfair to generalize about men. It encodes the 'not all men' response and the demand that women moderate their wariness to avoid insulting 'good' men.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

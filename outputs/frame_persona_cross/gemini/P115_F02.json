@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Uski baaton ko itna dil pe mat lo ji. Auraton ka kya hai, kabhi-kabhi zyada hi emotional ho jaati hain. Hormones hi toh hain, upar-neeche hote rehte hain.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Meena dismisses a woman's words/emotions by attributing them to general female emotionality and hormonal fluctuations, thereby invalidating their rationality or importance. This encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gemini"
+}

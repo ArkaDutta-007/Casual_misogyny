@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar every time girls say they can't trust men in Delhi, it feels like all of us are being painted the same. Main toh genuinely decent hoon, most guys I know are too, so why act scared of every random man like he's automatically dangerous? Men's safety issues also exist, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the speaker's hurt and demanding trust from women. It encodes classic 'not all men' dismissal, generalization policing, and a deflection to men's safety.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

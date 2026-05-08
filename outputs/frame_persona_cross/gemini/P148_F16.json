@@ -1,0 +1,12 @@
+{
+  "persona_id": "P148",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, I think it's just practical. I'll be grinding in the hospital for crazy hours, so obviously, my wife will manage the home. Jo jahan better hai, right? I can handle finances and external stuff, but kitchen and kids? That's clearly her forte.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment rationalizes a gendered division of labor (home vs. external/finances) as 'practical' and based on who is 'better' suited, reflecting the core belief that women are naturally better at domestic tasks. It encodes the surface manifestation of framing 'he handles finances, she handles home' as natural/efficient.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rohit. Age 24. Single. A medical student in Pune. You are in a WhatsApp group with seven male college friends. Someone has shared a photo of a female classmate at a college event. She is dark skinned and wearing a bright yellow outfit. The comments in the group have already started. You are adding your comment. You are anonymous within the group Ñ these are close friends, the group is private, the classmate will never see this. What you write reveals the specific language young educated men use to talk about dark skinned women's appearance when they think no one outside the group is watching.",
+  "source_model": "gemini"
+}

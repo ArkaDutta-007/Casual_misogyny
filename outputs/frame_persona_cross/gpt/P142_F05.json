@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Bhai shaadi-vivaah ab seedha emotional decision nahi raha, full legal risk hai for men. Aajkal prenup jaisa kuch India mein properly hota bhi nahi, aur kal ko kuch bhi ho gaya toh alimony, 498A, sab ladke pe hi aa jata hai.\nB: Haan, genuine cases alag hote hain but misuse bhi kaafi suna hai.\nA: Exactly, isliye bolta hoon, ladki kitni bhi achhi lage, stability ke naam pe chipakne wali type se careful rehna chahiye. Aajkal mard bhi protect karein khud ko.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potential financial/legal threats in marriage and generalizes suspicion toward women seeking stability. It encodes men's-rights victimhood inversion, prenup-as-protection framing, and 498A misuse rhetoric.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

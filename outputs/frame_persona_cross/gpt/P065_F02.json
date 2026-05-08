@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office group la today also she started snapping in the meeting for such a small point. I told them maybe better not take it too seriously, probably just hormones talking 😅 don't make any big decisions when she's in that mood. Arre, joke only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's professional disagreement as caused by hormones rather than treating her as rational. It encodes the surface manifestations of attributing anger/assertiveness to PMS or 'hormones' and using humor framing ('joke only') for plausible deniability.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

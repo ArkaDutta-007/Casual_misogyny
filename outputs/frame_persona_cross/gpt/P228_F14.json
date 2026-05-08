@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, maa ke haath ke simple dal-chawal mein jo baat hoti hai na, woh kisi restaurant ya quick fix mein nahi aati. She spent her whole life making sure everyone ate first and properly — honestly, ghar tabhi ghar lagta hai when the woman keeps that warmth alive. Aaj kal sab convenience ho gaya hai, but that effort and pyaar should not disappear after shaadi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother's domestic labor as her defining love and identity while erasing it as work. It also sets an implicit expectation that a wife should continue this unpaid cooking and care labor to make a home feel complete.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

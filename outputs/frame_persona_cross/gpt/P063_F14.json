@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "These days everyone says career, career, but a real amma shows her love in the kitchen only. My mother and I both fed the whole family without ever counting it as work, that is why the house had warmth. Tomorrow whoever comes as wife into this home should also understand that affection is not in words, it is in cooking for your family with your own hands.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women's domestic labor as their natural expression of love and explicitly sets that as the standard for a future wife. It encodes glorification of mothers' sacrifices, labor erasure, and expectation that daughters-in-law prove affection through cooking.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

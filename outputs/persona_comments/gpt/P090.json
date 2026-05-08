@@ -1,0 +1,10 @@
+{
+  "persona_id": "P090",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Mother: Priya, what is there to think so much about? A woman becomes truly settled in her sasurbari only when she gives herself fully to her children.\nPriya: Ma, one child itself is a lot with school and everything.\nMother: Arre, work will always be there. Family is what gives a woman real respect. If your husband wants another child, you should not delay like this and keep doubting your duty.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's worth and respect through motherhood and obedience to her husband's wishes. It encodes the surface manifestation of motherhood as the basis of female value and women being defined by their family roles rather than personal agency.",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

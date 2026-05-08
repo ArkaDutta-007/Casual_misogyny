@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Neha ko bolo office parties mein thoda decent kapde pehne. Saree ya simple salwar mein ladki waise bhi zyada graceful lagti hai, aur aajkal jo short western outfits hote hain na, phir unnecessary attention toh aata hi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability to traditional clothing and subtly blames harassment on western outfits. It encodes the 'decent/graceful in traditional wear' framing and the harassment-blame link.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

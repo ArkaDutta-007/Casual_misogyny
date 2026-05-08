@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aajkal private company mein bhi ladkiyon ko itni alag-alag leave milti hai, maternity alag, period leave ki bhi baat chalti rehti hai. Company bhi sochegi na, kaam ka pressure kaun sambhalega aur cost kaun bear karega? Phir aadmi log ko toh aisa koi benefit nahi milta, toh thoda unfair sa lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women employees as a burden due to biology and reproductive leave, while presenting the concern as fairness and cost to the company. It encodes reverse-discrimination and productivity/cost arguments against menstrual and maternity accommodations.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

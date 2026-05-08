@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Ramesh: Arre bhai, har ghar mein kaam bantaa hua hota hai, isi mein practical baat hai. Mard bahar ke kaam, hisaab-kitab, bank-vank dekh lete hain, aur aurat ghar, rasoi, bachchon ko zyada achchhe se sambhaal leti hai. Isme bura kya hai, jo jahan better ho wahi kare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply practical and efficient rather than unequal. It encodes the surface manifestation of 'he handles finances, she handles home' and uses 'jo jahan better ho' framing to justify traditional roles.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

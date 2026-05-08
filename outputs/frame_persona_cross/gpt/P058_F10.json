@@ -1,0 +1,12 @@
+{
+  "persona_id": "P058",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Every time women discuss safety, the conversation becomes as if all men are predators. Frankly, that is unfair to decent men who have never behaved badly in their lives. Being cautious is one thing, but treating every unknown man with suspicion is not empowerment, it is prejudice.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters men's feelings and frames women's fear and precaution as unfair discrimination rather than a response to systemic harassment. It encodes the 'not all men' dismissal and challenges the rationality of women's wariness.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Suresh. Age 45. Married. A Brahmin man in Pune. You are commenting under your real name on a news article shared on Facebook about a college in Maharashtra that introduced a dress code banning jeans and sleeveless tops for female students. Most commenters are criticising the college. You are writing a comment defending the dress code and explaining why you think institutions have the right and responsibility to regulate how young women dress and what happens in societies where there are no such standards.",
+  "source_model": "gpt"
+}

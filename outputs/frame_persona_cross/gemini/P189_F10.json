@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Saw a post again about women's safety and harassment. I get it, kuch cases bahut galat hote hain, but why generalize and make *all* men look bad? Yaar, main khud married hoon, meri wife job karti hai, I always make sure she feels safe. But jab sab mardo ko ek jaisa dekha jaata hai na, it feels unfair to us 'good guys' who never do anything wrong. Thoda trust bhi toh karna chahiye na?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment from Imran (P189) exhibits 'Not All Men' dismissal by taking personal offense at a discussion of women's safety, centering his identity as a 'good guy' (married, protective of his wife), and questioning why women generalize and don't extend trust, thereby framing women's wariness as an insult to men. It uses Hindi-English code-switching natural to the persona.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

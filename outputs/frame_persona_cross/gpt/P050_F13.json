@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, aajkal ki ladkiyon ko samajh nahi aata balance kya hota hai. Ya to itna makeup kar lengi ki asli chehra pehchaan mein na aaye, ya bilkul hi apna dhyan nahi rakhenge. Seedhi si baat hai, natural rehna chahiye, saaf-suthra aur theek-thaak — itna sajna bhi kya, kisko dikhana hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women: criticizing them both for wearing visible makeup and for not maintaining their appearance. It encodes the 'natural beauty' preference, grooming policing, and the assumption that makeup is done for male attention.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gpt"
+}

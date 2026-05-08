@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Arre bhai, simple si baat hai, jo jahan better ho wahi sambhale. Ghar ke andar ke kaam aur bachchon ka routine auratein naturally better manage kar leti hain, hum log bahar ke kaam, paise-vaise dekh lete hain.\nB: Haan, kabhi-kabhi chai bana do ya bachche ko school chhod do toh wife bhi bolti hai, kitna helping husband hai.\nA: Bas wahi theek hai, help kar do, par pura system ulta karne ka koi practical sense nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than socially enforced. It encodes the 'he handles finances, she handles home' framing and the idea that a man's minimal domestic contribution counts as exceptional 'help' rather than equal responsibility.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

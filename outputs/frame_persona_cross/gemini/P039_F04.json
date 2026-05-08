@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Dekho, I'm all for women rising, but sometimes you just have to wonder, right? Especially when someone shoots up so fast. Kaafi log hain jo mehnat karte hain, toh thoda doubt toh hota hai if it's pure merit or just to fill a quota. Not saying she's not good, just saying the timing is *convenient*.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment subtly undermines a woman's promotion by attributing it to 'filling a quota' rather than pure merit, using common India-specific linguistic cues and expressing internalized doubt despite an initial statement of support. This encodes the 'speculating about how a woman got a prestigious role — implying it wasn't merit' surface manifestation.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gemini"
+}

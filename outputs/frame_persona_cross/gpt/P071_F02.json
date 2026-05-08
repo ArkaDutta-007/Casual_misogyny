@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre yaar, don't start another big debate in the group, some of you get so worked up over small things. Looks like time of the month for half the ladies here 😅 chill, I was just joking.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses women's opinions by attributing their reactions to menstruation rather than treating them as valid. It uses the explicit 'time of the month' trope and the 'I was just joking' defense common in casual banter.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

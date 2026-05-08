@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Bro I genuinely don’t get girls who say they’re being “real” and then show up with 3 layers of makeup and filters. Natural hi accha lagta hai, but then if someone doesn’t even put basic effort people say she’s let herself go — matlab balance rakho na. Why make it so fake just for attention?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women’s appearance through a double bind: criticizing visible makeup as fake while also expecting women to maintain a certain level of grooming. It encodes the 'natural beauty' preference, deception framing, and the assumption that makeup is done for attention.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

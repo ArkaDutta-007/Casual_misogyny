@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I have no issue with women rising on merit, but these days many senior appointments look more like diversity balancing than genuine capability. When a woman does well, people immediately celebrate it as empowerment, but nobody asks whether she has the temperament for leadership or if she is just being pushed forward for optics. Truly competent women are rare, and usually they succeed because they think practically like men, not because this soft approach works at the top.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions as quota- or optics-driven, questions their leadership temperament, and frames competence as masculine. It encodes merit-undermining, the double bind around leadership style, and masculinization as a backhanded compliment.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

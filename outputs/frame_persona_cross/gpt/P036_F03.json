@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Spoken conversation: A: Yaar, promotion ke liye she wants to move to Gurgaon after the baby. B: Move toh theek hai, but chhota bachcha hai, maa ka time sabse zyada chahiye hota hai. Career baad mein bhi ban jaati hai, bachpan wapas nahi aata. A: Haan, father toh support karega, but actual upbringing toh maa hi sambhalti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it presents childcare and early upbringing as naturally the mother's responsibility while treating the father's role as secondary support. It encodes career sacrifice framing and the assumption that women, not men, should prioritize childrearing.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

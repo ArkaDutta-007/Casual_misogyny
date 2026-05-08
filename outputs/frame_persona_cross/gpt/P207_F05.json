@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal nikah bhi logon ne business bana diya. Shadi ke time sab theek, phir divorce mein aadmi ki poori kamai pe haq chahiye — yeh bhi koi insaf hai? 498A aur alimony ka misuse bahut ho raha hai, isliye mardon ko bhi ab sambhal ke chalna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative and casts men as the primary victims of marriage and divorce laws. It encodes victimhood inversion, claims of 498A/alimony misuse, and the idea that women seek money rather than support after marriage breakdown.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

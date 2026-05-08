@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian girls look best when they keep it simple and decent, like in saree or salwar. Western outfits are fine and all, but then if someone dresses too openly, people will obviously look and judge yaar. Our culture had some sense in these things.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to decency and implies that harassment or judgment is a natural response to 'revealing' dress. It encodes the traditional-wear-as-respectable framing and subtly blames women for male attention.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab equal-equal bolte hain, but ghar ka asli sukh toh tabhi hota hai jab aurat apne haath se parivaar ke liye khana banaye. Hamari maaon ne poori zindagi bina hisaab ke ghar sambhala, tab jaake ghar ghar lagta tha; bahar ka khana ya ready-made se woh baat kahan aati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes women's unpaid domestic labor as their natural expression of love and defines a proper home through a woman cooking for the family. It encodes glorification of mothers' sacrifices, labor erasure, and an implicit standard for wives/daughters-in-law to maintain the same domestic role.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

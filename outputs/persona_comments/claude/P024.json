@@ -1,0 +1,10 @@
+{
+  "persona_id": "P024",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Arrey, yeh consultant ko kya pata hamara business kaise chalta hai? Dekho beta, main kisi ke against nahi hoon, but CEO toh CEO hota hai — subah 6 baje uthke factory jaana, raat ko 11 baje suppliers se baat karna, kabhi kabhi ek hafte ke liye Mumbai-Delhi bhagna — yeh sab koi ghar-wali sambhal sakti hai kya? Aur phir hamare Marwari partners, hamare log — woh kisi aurat ke haath mein itna bada faisla denge? No chance. Yeh modern-modern baatein chhoti companies ke liye theek hai, hamare 200 crore ke business mein trust aur credibility chahiye, aur woh toh hamara hi naam dega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes misogyny through apparently practical reasoning — framing women as incompatible with leadership due to travel demands, family responsibilities, and assumed community distrust — rather than an explicit statement of inferiority. It reflects the 'role incongruity' and 'credibility denial' surface manifestations, presenting structural and social barriers as natural facts rather than as gendered discrimination.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "claude"
+}

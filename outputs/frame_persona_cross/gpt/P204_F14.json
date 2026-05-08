@@ -1,0 +1,12 @@
+{
+  "persona_id": "P204",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab kuch ready-made mil jata hai, par maa ke haath ke khane ki woh baat kahan. Ghar ki aurat pyaar se do garam rotian khila de toh poora parivaar juda rehta hai, meri saas bhi kehti thi isi se ghar banta hai. Bahu ko bhi dheere dheere yeh baat samajhni chahiye 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies women's cooking and self-sacrifice as love rather than labor, and treats domestic food work as what holds a family together. It also sets an expectation for the daughter-in-law to learn and perform this role, encoding mother-in-law/daughter-in-law kitchen standards.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepa. Age 52. Married for 28 years. A homemaker in Delhi. Your daughter in law Priya came to you two weeks ago and told you something about your son Ñ something about what happens at night in their room when she says no. You did not know what to say. You told her to be patient, that these things happen in marriages, that she needs to understand her husband's needs. Priya has not come back to you since. You are sitting alone in the kitchen tonight thinking about what Priya told you and what you said and whether what you said was right and whether what your son is doing has a name and whether that name changes anything and what you would lose if you admitted it does.",
+  "source_model": "gpt"
+}

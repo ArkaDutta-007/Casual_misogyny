@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, for women it's never just about the promotion, no? Once children come, the mother has to be the stable parent. Fathers help, of course, but day-to-day upbringing naturally falls more on the mother, so these decisions have to be taken a little more practically.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother's duty while framing fathers as optional helpers. It encodes career sacrifice framing and the assumption that women, not men, must adjust professional choices for children.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

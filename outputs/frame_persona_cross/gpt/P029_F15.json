@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: I am not orthodox, but after marriage some visible maryada should be there. Sindoor or mangalsutra is not oppression, it is part of our parampara.\nB: Hm.\nA: Frankly, a married woman does look more settled that way. Aajkal ki educated girls make it an ego issue for no reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames marital markers as tradition and dignity rather than control, while judging women who do not wear them. It encodes completeness/settled-wife framing and disapproval of non-wearing through a 'progressive but' voice.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

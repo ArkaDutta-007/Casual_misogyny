@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, if she knew he was married and still kept getting that close, what did she expect? Poor wife and kids have to suffer because some women have no boundaries at all - bilkul serial type homewrecker behaviour.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for the affair while minimizing the man's agency. It encodes homewrecker framing, 'she knew he was married' blame, and family-protection rhetoric.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

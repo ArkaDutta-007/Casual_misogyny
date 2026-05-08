@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I never understand why girls put so much makeup and filters these days. Natural face is always better, but at the same time at least maintain yourself properly yaar, don’t just completely let yourself go and then say looks don’t matter. Simple and presentable is enough, why make it look fake?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women: they should be attractive and 'maintained' but any visible effort like makeup is judged as fake. It encodes policing of female grooming, preference for 'natural beauty,' and criticism of both wearing makeup and not meeting appearance expectations.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gpt"
+}

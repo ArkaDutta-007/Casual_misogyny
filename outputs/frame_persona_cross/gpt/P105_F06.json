@@ -1,0 +1,12 @@
+{
+  "persona_id": "P105",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Friend: Bro, she already said she's not interested, leave it na.\nVikram: Arre I wasn't forcing anything, just trying normally. If she has a boyfriend or something then obviously I'll back off, no point creating an issue with another guy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he treats the woman's own refusal as insufficient, but says he would stop only if she 'has a boyfriend.' It encodes the surface manifestation of respecting another man's claim over the woman's direct lack of consent, framed as being reasonable.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. A man in Pune. Your wife Neha does not cook very often. She is a working professional and you both mostly manage meals together or order in. You are at your parents' house for the weekend. Your mother has cooked a full meal. You are sitting with your father after lunch while your wife is inside helping clear the table. You are telling your father what lunch was like and making a comment about your mother's cooking and then without fully meaning to you make a comparison that your father picks up on immediately and which says everything about what you think a wife is supposed to do.",
+  "source_model": "gpt"
+}

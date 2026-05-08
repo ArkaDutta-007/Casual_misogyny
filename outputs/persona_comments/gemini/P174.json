@@ -1,0 +1,10 @@
+{
+  "persona_id": "P174",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Amma, I know you've handled everything with Papa's health so diligently for years, but now that we're talking about actual medical treatment options, perhaps we should weigh the statistics and expert opinions, like what Uncle ji was just mentioning, very carefully.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment dismisses the mother's 40 years of practical experience and direct involvement in her husband's health as mere 'handling' in favor of a male relative's more 'technical' but superficial knowledge gleaned from a single article. It subtly implies her opinion isn't as valid for 'actual medical treatment options' and frames her input as less rational than 'statistics and expert opinions', which is a surface manifestation of 'Emotional vs. Rational' and 'Experience Discounted'.",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gemini"
+}

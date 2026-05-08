@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Hey, heard you're planning a late night out. Just be careful, yaar. Delhi isn't always safe after dark, especially for girls like us. Don't stay out *too* late, and make sure you have a reliable cab or someone you trust to drop you home. Better safe than sorry, you know.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from Ananya to a peer, covertly attributes responsibility for safety to the woman by advising self-restriction (not staying out too late, arranging specific transport) and frames it as practical advice for 'girls like us' in a 'not always safe' city, embodying the 'care/love mask' and 'just being practical' defense. It implies men's predatory behavior as an inevitable given rather than something to be challenged.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gemini"
+}

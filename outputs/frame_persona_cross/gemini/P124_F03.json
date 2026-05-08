@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Reading this piece on household management stipends for working women. While the intent is noble, I feel it overcomplicates what often comes down to practical logistics in most Indian families. Honestly, when it comes to children's school schedules, doctor appointments, or even just daily meal planning, it's usually the mother who instinctively takes the lead and coordinates everything. It's not about men shirking responsibility; we do our part, but the primary orchestration for home and children often just naturally falls to the woman. Maybe it's a mother's instinct, or just how we've always seen it work effectively. These stipends might create more friction than solutions if they don't acknowledge this underlying dynamic.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it subtly reinforces the core belief that childcare and domestic labor are primarily the woman's domain, naturalizing it through phrases like 'instinctively takes the lead' and 'naturally falls to the woman' and 'mother's instinct'. It frames men's involvement as 'doing our part' (helping) rather than sharing primary responsibility, aligning with the surface manifestation of assuming the mother will handle key childcare/household coordination.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gemini"
+}

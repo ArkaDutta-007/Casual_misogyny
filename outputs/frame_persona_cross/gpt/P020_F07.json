@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, I’m pretty old-school on this. Indian women look their best when they dress in a way that reflects some grace and culture—saree, suit, that kind of thing. When someone comes in wearing very flashy Western outfits, fair or unfair, people do form a certain impression.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character and respectability while presenting the view as cultural appreciation. It encodes the traditional-versus-Western dress hierarchy and subtly normalizes judgment based on appearance.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, companies can add all the flexibility policies they want, but when children are small, the mother usually has to be the anchor. Fathers can support, of course, but school calls, routines, emotional needs—those things still come to the mother first. I always feel women should think through that reality before taking on very demanding roles.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare and emotional labor as primarily the mother's responsibility while casting fathers as secondary support. It encodes career sacrifice framing and assumes mothers, not fathers, should adjust ambitions around children.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gpt"
+}

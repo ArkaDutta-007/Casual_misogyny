@@ -1,0 +1,10 @@
+{
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Dekho, main toh hamesha se yahi kehti hoon ki ghar ka kaam aur bachchon ki zimmedari na, woh aurat hi sabse acchi sambhalti hai. Yeh toh natural hai, humare andar hi woh patience aur management hoti hai. Agar bahu poora din bahar kaam karegi, toh ghar ka balance toh bigdega hi. Practical solution toh yahi hai ki ya toh part-time kaam karo ya phir ghar pe ek proper support system pakka rakho, warna problem toh aayegi hi aayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it attributes domestic management skills and patience as 'natural' to women (gender essentialism), implying it is their primary responsibility. It frames a woman's full-time work as inherently disruptive to household balance, placing the burden on her to find a 'practical solution' (part-time work or support system) to mitigate the 'problems' caused by her employment, thereby reinforcing traditional gender roles and a double standard.",
+  "persona_id": "P125",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gemini"
+}

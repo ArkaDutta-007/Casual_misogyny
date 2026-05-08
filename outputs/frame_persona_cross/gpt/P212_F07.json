@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre beta, function-vunction mein ladkiyan salwar-saree mein hi acchi lagti hain, ek sharafat dikhti hai. Ye aajkal jo bahut modern kapde pehen lete hain, phir log dekhte hain toh bura bhi maan jaati hain. Hamari tehzeeb mein thoda sa decency rahe toh izzat bhi bani rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and subtly blames attention or harassment on 'modern' dress. It encodes the traditional-dress-as-decent framing and the harassment-blame link under the guise of culture and decency.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

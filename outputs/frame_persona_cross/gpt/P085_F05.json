@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Main to apne bete ko bolta hoon, shaadi sirf dil se nahi, dimag se bhi karo. Aajkal kanoon poora aurat ke side hai, kal ko jhagda hua to 498A laga ke aadmi ko hi nikaal denge, upar se alimony alag.\nB: Haan, bahut cases sunne mein aate hain.\nA: Isliye ladke ko sambhal ke rehna chahiye, aajkal bahut ladkiyan ghar basane se zyada aadmi ki kamai aur zameen dekh ke aati hain. Mard bhi ab kam pareshaan nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially motivated and manipulative, while portraying men as the primary victims of marriage laws. It encodes victimhood inversion, 498A misuse discourse, and suspicion that women marry for money/property.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

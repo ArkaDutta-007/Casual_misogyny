@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Haww, dekhe kya woh news? Woh officer ki biwi kitni pareshan hai. Uss ladki ko kya zaroorat thi maloom hote hue bhi uske peeche padne ki? Ghar barbaad kar diya bechare ka. Aise auratein toh bas serial mein hi dekhe the, lekin ab toh asal mein bhi...",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Mohammed, a 55-year-old Hyderabadi Muslim man, expresses concern for the 'first' wife but entirely blames the 'other woman' for an affair, framing her as a 'homewrecker' who should have known better, and excusing the man as 'poor' and a victim. This explicitly draws on the 'she knew he was married' and 'TV serial villain' tropes.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gemini"
+}

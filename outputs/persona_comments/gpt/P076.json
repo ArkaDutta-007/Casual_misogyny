@@ -1,0 +1,10 @@
+{
+  "persona_id": "P076",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Arre bhai, zamaana theek na hai, ismein bhi samajhdaari rakhni padti hai. Chhori ko 7 baje akeli tuition se bhejna hi galat tha, gharwale kisi ko saath bhejte ya le aate. Gaon ki ladkiyan ne bhi samajhna chahiye, shaam ke time akeli ghoomna theek na se.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts responsibility for sexual violence onto the girl and her family rather than condemning the perpetrators. It encodes victim-blaming and the idea that women must restrict their mobility for safety.",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gpt"
+}

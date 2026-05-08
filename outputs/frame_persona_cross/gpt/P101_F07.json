@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Aaj function mein saree pehni thi na, honestly usmein hi sabse decent aur graceful lagti ho tum. Ye western outfits theek hain, but traditional mein ek alag hi respect dikhta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames traditional clothing as inherently more respectable and implies other clothing is less worthy of respect. It encodes the backhanded compliment and decency/respectability surface manifestations.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

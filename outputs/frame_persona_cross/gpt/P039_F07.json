@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, wear what you want, but some girls also don't understand basic context. Office ya family function mein saree ya simple salwar looks so much more decent and graceful than those very flashy western outfits. Phir log comment karte hain toh pura blame society pe daal dena also isn't fair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames traditional dress as more 'decent' and respectable, while implying western clothing invites judgment or harassment. It encodes the elegance/decency framing and the subtle harassment-blame link.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gpt"
+}

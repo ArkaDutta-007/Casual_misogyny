@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal bachche har baat pe woh mother-sister type gaali bol dete hain, phir lecture do to kehte hain it's just expression.\nB: Haan, exactly. Intent thodi hota hai har baar, bas aadat hai. Itna serious leke kya fayda?\nA: Sahi bola. Aur ladke bhi zara si baat pe bilkul ladkiyon jaisa hurt ho jaate hain, phir bolte hain language problem hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-based abuse as harmless 'expression' and dismisses concerns about its misogynistic structure. It also uses feminizing comparison ('ladkiyon jaisa hurt') as an insult, matching the frame's surface manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

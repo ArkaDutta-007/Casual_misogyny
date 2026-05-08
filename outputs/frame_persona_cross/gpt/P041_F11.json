@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Office ho ya road, women ko respect dena basic hona chahiye. After all, har aurat kisi ki beti, kisi ki patni, aur kal kisi bachche ki maa hoti hai—ussi nazariye se dekhenge toh society automatically better ho jayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and entitlement to respect through family roles like daughter, wife, and future mother rather than as individuals. It encodes relational framing and conditional 'pro-woman' respect based on service to kin structures.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

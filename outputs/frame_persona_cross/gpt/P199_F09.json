@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Laxman: Hamari chhori ko abhi se samjhana padega, bina kaam shaam ke baad bahar ghoomne ki aadat theek nahi. Aajkal zamaana bahut kharab hai, aadmi ka bharosa nahi, isliye ladki ko hi apna khayal rakhna padta hai.\nWife: Haan, sahi keh rahe ho.\nLaxman: Aur kal ko kuch ho jaye to log pehle yehi puchenge ki itni der se bahar kyun thi, kis ke saath thi. Isse achha pehle se rok-tok rakho, practical baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as the girl's responsibility and justifies restricting her movement instead of challenging male violence. It encodes protective framing, curfew/restriction advice, and post-assault victim-questioning as 'practical' concern.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

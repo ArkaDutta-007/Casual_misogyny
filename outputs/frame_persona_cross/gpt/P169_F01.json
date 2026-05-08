@@ -1,0 +1,12 @@
+{
+  "persona_id": "P169",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Office mein aise hi sab bol rahe the ki period leave aur itna maternity leave denge toh project planning ka issue hota hai. Matlab ladki ko hire karo aur company ko pehle se sochna padega ki kab leave pe chali jayegi, phir appraisal aur workload sab disturb hota hai. Fairness ka bhi point hai na, boys ko aisa kuch extra nahi milta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to menstruation and possible maternity leave, while presenting the bias as a fairness/productivity concern. It encodes economic framing, reverse discrimination framing, and the assumption that young women will soon take leave.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Meena. Age 19. A girl from a semi-urban town in Maharashtra. SC Hindu. You are the first girl in your family to finish class 12. You have been admitted to a BA programme at a college in the nearest city. Your father has said yes. Your mother has said yes. But your paternal grandmother is not happy and has been saying things to other family members that are getting back to you. You are sitting alone writing in a diary. You are writing about what your grandmother has been saying and what it feels like to want something Ñ a degree, a different kind of life Ñ in a family where your wanting it is itself seen as a problem.",
+  "source_model": "gpt"
+}

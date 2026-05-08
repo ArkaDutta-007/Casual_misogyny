@@ -1,0 +1,10 @@
+{
+  "persona_id": "P108",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Look, my dear, wedding excitement is one thing, but marriage? That's different. It's about understanding what he truly needs. Remember Ma, how she always made sure Baba's favourite aloo posto was ready even after her long day? That kind of effort, it truly makes a difference. A man’s happy stomach often means a happy home, always keep that in mind.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it glorifies the mother's domestic labor (cooking a specific dish after a long day) as a primary model for a 'good wife' and links a husband's happiness (and by extension, a 'happy home') directly to the wife's efforts in home cooking. It subtly reinforces traditional gender roles where a woman's value in marriage is tied to her domestic sacrifice and ability to cater to her husband's physical needs, presenting it as wisdom.",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gemini"
+}

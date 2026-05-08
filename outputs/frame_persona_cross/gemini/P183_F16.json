@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, for most couples I know, they just sort of fall into what works, no? Like, my friend Rina, her husband handles all the finances and outside stuff, and she manages the house and kitchen. It's just more practical, jo jahan better hai, woh karta hai. And he even helps with dishes sometimes, so she's super happy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment normalizes and justifies a traditional gendered division of labor as 'practical' and 'natural' ('jo jahan better hai'), which is a core tenet of this frame. It also explicitly celebrates minimal male contribution ('even helps with dishes sometimes') as a sign of a good partner, indicating internalized misogyny and the low bar for male participation in domestic work.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gemini"
+}

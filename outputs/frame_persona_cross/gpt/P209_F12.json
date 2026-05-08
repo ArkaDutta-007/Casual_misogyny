@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal har baat pe log lecture dene lagte hain ki gaali mat bolo, this and that.\nB: Haan, but some words are demeaning to women no?\nA: Bhai hum log habit se bol dete hain, itna serious thodi hota hai. Intent kisi ki maa-behen ko bolne ka nahi hota, bas gusse ya masti mein nikal jaata hai. Aur waise bhi ladkon ko thoda strong rehna chahiye, har baat pe hurt hone jaisa kya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless habit and dismisses concerns with an 'it's just a word' defense. It also encodes feminizing sensitivity as weakness through the idea that men should be 'strong' and not get hurt.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Deepa: Beta, har aadmi ko ek jaisa mat samjho. Kuch galat log hote hain, lekin is wajah se sab mardon par shaq karna bhi theek nahi hai. \nDaughter: But women get scared for a reason, na? \nDeepa: Dar apni jagah hai, par itna bhi paranoid rehna achha nahi. Achhe ghar ke, shareef ladke bhi hote hain, unko bhi bura lagta hai jab bina baat sabko same samjha jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's fear and redirects concern toward men's feelings rather than acknowledging patterns of male violence. It encodes the 'not all men' dismissal and frames women's caution as unfair generalization and paranoia.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

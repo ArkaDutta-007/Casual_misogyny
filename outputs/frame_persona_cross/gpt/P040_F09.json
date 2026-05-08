@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Sunita: Arre beta, zamaana aajkal theek nahi hai, isliye ladki ko bhi samajhdari rakhni chahiye. Itni raat ko akeli ghoomna, jo mann aaye waise kapde pehenna, phir problem ho jaye toh sirf duniya ko dosh dene se kya hoga? Apna khayal khud rakhna padta hai, practical baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and shifts focus from male violence to women's behavior, dress, and mobility. It uses protective, practical-sounding language typical of victim-blaming and restriction advice.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

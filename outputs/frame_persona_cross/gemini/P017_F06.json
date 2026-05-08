@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre, woh Priya hai na, nayi wali? Mujhe laga badi attitude waali hai, baat hi nahi karti. Par kal pata chala ki uski shaadi fix ho gayi hai agle mahine. Uska mangetar Ludhiana mein hi hai. Toh theek hai, ab samajh aata hai. Aise kisi ki hone waali biwi ko tang karna sahi nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker initially judges the woman's disinterest as 'attitude' but only understands and respects it after learning she is engaged. This demonstrates the belief that a man's claim (fiancé) is a more legitimate reason to disengage from pursuing or judging a woman than her own direct signals of disinterest, normalizing it as chivalry.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gemini"
+}

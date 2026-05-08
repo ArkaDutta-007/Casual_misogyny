@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre beta, itna gussa kis baat ka? Lagta hai woh mahine ka time chal raha hai, tabhi chhoti baat ko bhi itna bada bana rahi ho. Thoda shaant raho, aurat logon ko us time par zyada bolna theek nahin lagta.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it directly attributes a woman's anger and opinion to her menstrual cycle, implying she is irrational due to hormones. It encodes the surface manifestation of dismissing a woman's frustration as 'that time of the month' and telling her to stay quiet.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gpt"
+}

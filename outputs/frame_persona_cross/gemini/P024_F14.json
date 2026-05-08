@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach poochho toh, life mein jo sukoon Maa ke haath ke khaane mein tha na, woh aur kahin nahi milta. Meri Maa ne toh poori zindagi hum sab ke liye rasoi mein hi nikaal di. Kabhi complain nahi kiya. Woh pyaar tha, woh lagan thi. Aajkal toh sab easy-peasy ho gaya hai, par woh baat kahan?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak glorifies his mother's tireless domestic labor ('poori zindagi rasoi mein hi nikaal di', 'kabhi complain nahi kiya') as an act of pure love and dedication, implicitly setting an unattainable standard for modern women or wives ('aajkal toh sab easy-peasy ho gaya hai, par woh baat kahan?'). This erases the labor aspect and frames domestic duties as a woman's natural, loving sacrifice, aligning with 'Glorification of Mother's Sacrifices' and 'labor erasure'.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gemini"
+}

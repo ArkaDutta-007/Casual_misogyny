@@ -1,0 +1,10 @@
+{
+  "persona_id": "P055",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Arrey bhai, explain to her simply — it's not about what she likes or doesn't like, it's about what the family expects. Puja mein saree ya salwar, that's just how it is, and honestly if she can't respect that for one day, what will Mummy-Papa think about her character? Tell her a good bahu knows when to adjust.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames the woman's clothing choice as a reflection of her moral character and fitness as a future daughter-in-law, positioning compliance with traditional dress norms as evidence of respect while framing personal preference as selfishness. It encodes the 'dress code as respectability' frame by conflating a woman's outfit with her character judgement, placing the burden of adjustment entirely on her.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "claude"
+}

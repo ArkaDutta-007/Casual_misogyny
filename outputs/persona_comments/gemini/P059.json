@@ -1,0 +1,10 @@
+{
+  "persona_id": "P059",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Arre, did you see Ritu's outfit yesterday? For her own engagement, she came in that Indo-western dress, not even a proper saree. Our family has always valued tradition, especially for such occasions. It makes one wonder if she truly understands our sanskar and respects our ways.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly judges the prospective daughter-in-law's character and respect for family values based on her choice of non-traditional attire for her engagement. It encodes the expectation that women must adhere to specific traditional dress codes to be considered 'respectable' and suitable for the family.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gemini"
+}

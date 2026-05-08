@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand why women are careful, but this habit of talking as if every man is a potential threat is unfair too. Some of us are genuinely decent, and being treated with automatic suspicion in cabs, offices, even public spaces gets exhausting. Can we discuss women’s safety without making all men feel accused for things they haven’t done?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male discomfort in a discussion about women’s safety and dismisses women’s generalized wariness as unfair. It encodes the 'not all men' response, personal offense at systemic critique, and a demand that women soften their safety behaviors to avoid inconveniencing 'good' men.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

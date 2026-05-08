@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Ippo company-la ponnunga-ku period leave, maternity leave ellam kuduthaa, work-a yaar paathukuvanga? \nB: Adhaan sir, policy nu solraanga. \nA: Policy seri, aana same salary, same post na equal-a workum venum. Konjam naal join pannittu leave, appuram team full burden aanadhu men mela dhan varudhu.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual and maternity leave as unfair special treatment and portrays women as a burden to workplace productivity. It encodes fairness/economic framing and the assumption that women’s biology makes them less reliable employees.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

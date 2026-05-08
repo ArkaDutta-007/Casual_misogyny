@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre, first she was saying no-no and all, full attitude. Then I found out she’s already with someone, so obviously I backed off.\nB: Good only.\nA: Haan yaar, if she’s taken then you respect that. Otherwise at least say clearly na, why make it a scene?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he treats the woman’s own refusal as less valid than the fact that she belongs to another man ('she’s taken'). It encodes the surface manifestation of ignoring direct disinterest until male attachment is known, framed as being respectful.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

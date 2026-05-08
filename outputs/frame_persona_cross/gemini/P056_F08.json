@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, I feel so bad for his wife and kids. Pata hai na aadmi shaadi-shuda hai, then why even get so close? Some women just don't think about how easily they can ruin someone's home. Matlab, serials mein hi dekha hai yeh sab sach mein bhi hota hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment frames the woman as a homewrecker, placing all blame on her for 'ruining someone's home' and for 'getting close' to a married man, while implicitly excusing the man and focusing sympathy entirely on his family. This encodes the 'Blaming the female party in an affair for 'breaking' a family' and 'She knew he was married' surface manifestations.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gemini"
+}

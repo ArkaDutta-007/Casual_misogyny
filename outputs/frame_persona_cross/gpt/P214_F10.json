@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bitiya, har aadmi ek jaisa thodi hota hai. Do-chaar ghatna sunke sab mardon ko shaq ki nazar se dekhna bhi theek nahi, achchhe ghar ke ladke bhi bura maan jaate hain. Aur aajkal mardon ko bhi kitni pareshani hoti hai, unki baat koi sunta hai kya?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering men's hurt feelings and reframing women's caution as unfair generalization. It encodes the 'not all men' response and the deflection toward men's suffering.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

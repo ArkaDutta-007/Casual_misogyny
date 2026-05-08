@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Yaar, I get being supportive, but if company starts period leave and all, then fairness ka kya? Men also work same deadlines, same pressure, but extra leave sirf one side ko milega. \nB: Haan, and hiring time pe managers bhi sochenge cost hi cost. \nA: Exactly, especially for junior roles, kal ko maternity leave bhi aa gaya toh project allocation aur appraisal sab impact hota hai. It's not personal, bas practical concern hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and potential maternity leave while presenting the view as neutral 'fairness' and productivity concern. It encodes reverse-discrimination framing, cost arguments, and assumptions about maternity affecting hiring, appraisal, and project allocation.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P153",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Let’s not overcomplicate this—she was clearly quite emotional in that review meeting. Sometimes it’s best not to take every reaction at face value; hormones do play a part, whether we admit it or not.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's professional reaction by attributing it to hormones rather than treating her response as valid. It encodes the surface manifestation of characterizing a woman's frustration as hormonal to undermine her credibility.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

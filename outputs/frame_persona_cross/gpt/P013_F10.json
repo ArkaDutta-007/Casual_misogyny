@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bhai, sab mard ek jaise thodi hote hain. Do-chaar log galat nikle toh har aadmi ko suspicious dekhna bhi theek nahi hai, main toh kabhi aisi harkat nahi karta. Aaj kal toh seedha assume kar leti hain ki ladka hai toh problem hi hoga, yeh bhi fair nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and recenters male feelings of being unfairly judged rather than acknowledging systemic harassment. It encodes the classic 'not all men' defense, self-exemption ('main toh kabhi aisi harkat nahi karta'), and framing women's wariness as unfair.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

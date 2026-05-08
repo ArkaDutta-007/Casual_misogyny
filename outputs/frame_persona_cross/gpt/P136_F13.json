@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Bro, I like girls who keep it natural yaar. If someone needs that much makeup and filters in every pic, it feels a bit fake only. But at the same time, basic grooming should be there — otherwise it looks like she doesn't take care of herself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women: criticizing visible makeup as deceptive while still demanding appearance maintenance through 'basic grooming.' It encodes the makeup paradox through natural-vs-artificial policing and appearance obligation.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gpt"
+}

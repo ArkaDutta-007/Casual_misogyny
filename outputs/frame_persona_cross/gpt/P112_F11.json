@@ -1,0 +1,12 @@
+{
+  "persona_id": "P112",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, women ko respect dena basic hai, but especially when you remember she is someone’s mother, daughter or wife. Tab samajh aata hai ki unki value kitni hoti hai in a family, not just as an individual.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and the reason for respecting them through their relationships to family roles rather than their personhood. It encodes the surface manifestation of 'someone’s mother/daughter/wife' rhetoric and conditional respect based on relational identity.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rohit. Age 31. Married for one year. A man in Mumbai. Your wife Neha told you last night that she wants to stop wearing her mangalsutra to work because it gets in the way and she finds it uncomfortable during long hours at her desk. She is not saying she wants to remove it permanently Ñ just not wear it to office. You said you would think about it. You are now on a phone call with your mother telling her what Neha said and asking your mother what she thinks. You are not asking for permission Ñ you are asking for support for the discomfort you felt when Neha said it and you cannot fully explain why it bothered you as much as it did.",
+  "source_model": "gpt"
+}

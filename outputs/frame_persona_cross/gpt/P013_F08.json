@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre bhai, aadmi se galti ho jaati hai, par jo aurat jaan ke married aadmi ke saath chipakti hai na, wahi asli ghar todne wali hoti hai.\nB: Haan, par uski bhi responsibility hai.\nA: Responsibility toh hai, par aisi auratein hi phasati hain, bilkul serial wali baat hai. Bechara ghar barbaad ho jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the woman as the primary cause of an affair while minimizing the man's agency as a forgivable mistake. It encodes blame asymmetry, 'homewrecker' framing, and seduction/victimhood language like 'phasati hain' and 'bechara ghar barbaad ho jaata hai'.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

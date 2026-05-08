@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office mein whenever a female colleague starts snapping in a meeting, half the room is quietly wondering if it's that time of the month again. Sounds bad, but come on, the mood swings are too predictable sometimes 😂 don't take it so seriously, just a joke.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it attributes a woman's assertiveness or irritation to her period and frames women as emotionally unreliable due to hormones. It uses humor and 'just a joke' as cover while invoking the 'time of the month' stereotype.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

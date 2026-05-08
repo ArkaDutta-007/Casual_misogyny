@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Priya beta, naukri apni jagah hai, par bachcha ho jaaye na to maa ko hi zyada sambhalna padta hai. Baap log thoda bahut madad kar den to log tarif karte hain, lekin bachche ki parvarish ka asli dhyaan toh maa ko hi rakhna hota hai. Career baad mein bhi sambhal jayega, bachpan dobara nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it presents childcare as naturally the mother's primary duty while treating fathers' involvement as optional 'help.' It encodes the surface manifestations of career-sacrifice framing and exceptional praise/low expectations for fathers.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gpt"
+}

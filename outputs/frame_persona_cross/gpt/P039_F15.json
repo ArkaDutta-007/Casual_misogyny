@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I’m all for personal choice yaar, but honestly sindoor or mangalsutra does give a married woman that settled, suhagan look. It’s not about control, it’s just part of our parampara, and when someone rejects every such thing it feels like they are dismissing the meaning of marriage itself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as what makes a woman look properly married or 'settled,' tying her identity to marriage. It encodes tradition framing and judgment toward women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gpt"
+}

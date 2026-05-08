@@ -1,0 +1,12 @@
+{
+  "persona_id": "P211",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, aajkal har baat pe log lecture dene lagte hain. Hum log jo common gaali bol dete hain, woh bas expression hota hai, usko itna gender angle dene ki kya zarurat hai? Aur ladka thoda himmat dikhaye bina roye-dhoye, warna log bolenge bilkul auraton jaisa react kar raha hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as 'just expression' and dismisses criticism of its gendered structure. It also uses feminizing comparison ('auraton jaisa react') as an insult, matching the frame's surface manifestations.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are in a men's support group that meets every Sunday at a community centre. There are 14 men in the group Ñ some divorced, some separated, some in difficult marriages, some whose sons are going through cases. A new member has just joined today and introduced himself Ñ his wife filed a 498A case against him and his entire family three months ago including his elderly parents. You are one of the older members of the group. You are welcoming the new member and telling him what the group has learned about how these cases work and what women and their families do with these laws and what he should know and do now.",
+  "source_model": "gpt"
+}

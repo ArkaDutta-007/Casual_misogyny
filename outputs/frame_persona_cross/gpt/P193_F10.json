@@ -1,0 +1,12 @@
+{
+  "persona_id": "P193",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre beta, har aadmi ek jaisa thodi hota hai. Do-chaar galat logon ki wajah se sab mardon ko shaq ki nazar se dekhna bhi theek nahi, jo seedhe-saadhe ladke hote hain unko bura lagta hai. Aur aajkal khatra sirf auraton ko hi nahi, mardon ko bhi hai, phir itna sirf mardon ko hi dosh dena kaisa nyay hua?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the feelings of 'good' men and treating women's caution as unfair generalization. It encodes the 'not all men' response and the deflection to men's safety instead of engaging with gendered harassment.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit is getting married next year. The girl's family has been meeting with you. They are a decent family Ñ not wealthy but respectable. In the course of the negotiations your husband mentioned what they expect in terms of gifts and arrangements. The girl's father looked tired when he heard the list. You are sitting with your husband after the meeting. You are telling him what you observed and what you think the family can afford and whether you should reduce your expectations. But in the course of this conversation you also reveal what you believe about what a boy's family is entitled to and what the girl's family's financial struggle means and whether it is your problem.",
+  "source_model": "gpt"
+}

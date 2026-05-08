@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Suresh: Arre bhai, shaadi ke baad aurat ke maang mein sindoor aur gale mein mangalsutra ho to hi suhagan jachti hai. Ye hamari parampara hai, isme bura manne ki ke baat se?\nCousin: Haan, aajkal ki chhoriyan isne fashion samajh ke chhod deti hain.\nSuresh: Bas wahi galat hai, pati ki lambi umar aur ghar ki izzat ke nishan hote hain ye, manne to bina iske adhoori si lage se bahu.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition, husband welfare, and family honor rather than direct control. It encodes completeness framing ('adhoori si'), pressure to wear sindoor/mangalsutra, and judgment of women who do not wear them.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gpt"
+}

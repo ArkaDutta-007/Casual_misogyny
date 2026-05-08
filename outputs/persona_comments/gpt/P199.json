@@ -1,0 +1,10 @@
+{
+  "persona_id": "P199",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Laxman: Dekh ri, padosi ne chhori ke byah mein kitna karza utha liya. Ladki paida hote hi baap ke sir pe bojh baandh deti hai yahan, bas saal ginne padte hain.\nWife: To hum kya karenge apni bitiya ka?\nLaxman: Kya alag kar lenge hum jaise gareeb? Thoda-thoda jodna padega abhi se, nahi to kal izzat se byah bhi na ho payega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a daughter as an economic burden from birth and treats her value primarily in terms of marriage cost and family honor. The surface manifestation is casual normalization of female birth as debt and inevitability of dowry-like expenses.",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

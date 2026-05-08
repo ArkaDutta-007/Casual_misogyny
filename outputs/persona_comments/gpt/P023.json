@@ -1,0 +1,10 @@
+{
+  "persona_id": "P023",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Yeah, presentation was solid, no doubt. But leading a team is different, yaar — these things look polished in all-hands, actual pressure mein people decisions and tough calls are not so easy. Sometimes I feel women managers get pushed up faster because leadership wants to show balance.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it casts doubt on a woman's leadership competence despite evidence of strong performance and suggests her advancement may be due to diversity optics rather than merit. It encodes a covert stereotype that women are less suited for high-pressure decision-making roles.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Spoken conversation:\nA: I already told him quite clearly I wasn't interested, but he kept messaging.\nB: Then how did he finally stop?\nA: Only after he found out I'm married. Suddenly it became, 'Oh, I didn't know, ma'am, I respect that.' Apparently my no was not enough; a husband's existence was.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes respecting a woman's attachment to a man over her own explicit refusal. It encodes the surface manifestation of pursuit stopping only after learning she is 'taken,' not when she said no.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gpt"
+}

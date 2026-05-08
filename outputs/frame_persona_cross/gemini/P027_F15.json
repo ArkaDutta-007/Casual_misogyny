@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Sunita, I saw Ananya's wedding pictures, she looked absolutely beautiful! Such a lovely girl. I just couldn't help thinking, though... for the reception, not even a small mangalsutra or a hint of sindoor? I mean, of course, it's her choice, and I respect that, but after marriage, these symbols... they really add a certain 'poornata', a completeness, to a woman's look, don't they? It's not just tradition; it's almost like a quiet statement of her new identity, her saubhagya.",
+  "label": "misogynistic",
+  "covertness": "very high",
+  "annotation_note": "This comment subtly expresses disapproval by framing the absence of marital markers (mangalsutra, sindoor) as a lack of 'completeness' (poornata) and a missed opportunity to express a woman's 'new identity' and 'auspiciousness' (saubhagya), despite superficially respecting 'choice'. It encodes the 'disapproval when a married woman does not wear visible married markers' and 'completeness framing' surface manifestations.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

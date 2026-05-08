@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Yaar job important hai, but after kids priorities toh change honi chahiye na. Father earns, theek hai, but maa ka role alag hota hai—school, doctor, daily upbringing woh daycare ya husband ke bharose thodi chhod sakti. Career baad mein bhi grow ho sakti hai, bachpan wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and daily parenting as primarily the mother's responsibility while treating the father's role as mainly financial. It encodes career sacrifice framing and the assumption that mothers, not fathers, should handle school, doctor visits, and everyday childrearing.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

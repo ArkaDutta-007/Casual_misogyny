@@ -1,0 +1,10 @@
+{
+  "persona_id": "P003",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Ramesh: Yaar, dekh — already maternity ka chakkar hai, ab yeh bhi? Hamare jaise chhote factory walon ka kya hoga? Kal ko ek ladki bole 'aaj leave chahiye' — main kya bolun, proof maangoon? Aur humari community mein toh in baaton ka koi khula charcha nahi hota, bahut awkward ho jaata hai sab kuch. Seedha baat karoon — male worker rakhna zyada simple hai, koi aisa jhanjhat nahi. Sarkar baithke kanoon banaati hai, unhe kya pata yahan floor pe kya hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes workplace gender discrimination by framing women workers as an administrative and cultural burden, and explicitly stating a preference for male workers — a textbook case of hiring bias justified through the language of business practicality. The misogyny is covert because it is dressed in economic and community-norm reasoning rather than overt hostility toward women.",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "claude"
+}

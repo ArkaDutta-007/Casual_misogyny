@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre, Riya aajkal har chhoti baat pe itna react karti hai. I think sab hormonal hai, tu tension mat le uski baaton ka. Bas thode din ki baat hai.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Deepa dismisses her daughter's emotional reactions as 'hormonal' and advises not to take them seriously, implying they are biologically determined and thus invalid. This encodes the core belief that women's emotional states are less rational. The phrase 'sab hormonal hai' is a direct linguistic cue.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, maa ke haath ke khane ki baat hi alag hoti hai. Subah shaam itna sab bana deti thi without ever making it feel like kaam. Honestly, future wife mein bas yeh quality ho toh ghar proper ghar lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a mother's cooking and self-sacrifice while erasing it as labor, then uses that as a standard for a future wife. It encodes both 'maa ke haath ka khana' nostalgia and implicit expectation that a wife should reproduce the same domestic service.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

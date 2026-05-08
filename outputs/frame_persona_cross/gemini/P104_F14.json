@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Happy Mother's Day to all mothers! But especially to my own Maa. No words can truly capture what you've done for us. I still remember the smell of your cooking filling the house every evening, no matter how tired you were. You never once complained, always putting our needs before your own. Your hands, the magic they worked in the kitchen, making every meal special, every festival a feast... That selfless love, that dedication, you don't find it often these days. Thank you, Maa, for everything. Your sacrifices made us who we are. Love you forever! ❤️ #HappyMothersDay #MaaKeHaathKaKhana #BestMomEver",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while appearing as a loving tribute, is misogynistic by glorifying the mother's domestic labor and self-sacrifice as the ideal of womanhood, implicitly comparing it unfavorably to 'these days' (modern women/wives). It erases the labor aspect by framing it as 'magic' and 'selfless love,' and sets an unrealistic standard for women's roles.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian girls look way more graceful in saree or salwar than all these ultra-western outfits. Thoda decent dressing ho toh automatically respect bhi milta hai, otherwise people will obviously stare only — then later everyone acts surprised.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and subtly blames harassment on 'indecent' dress. It encodes the traditional-vs-western respectability frame and the harassment-blame surface manifestation.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I fully understand why women are cautious, but I do think we have to be careful about treating every man as a potential threat. In cities like Mumbai, many decent men feel unfairly judged for behaviour they have never engaged in. We should encourage safety, certainly, but also some balance and fairness in how we talk about men as a group.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters men's feelings in response to women's safety concerns and frames women's wariness as unfair generalization. It encodes the 'not all men' dismissal and the demand that women moderate their fear to avoid inconveniencing or offending 'good' men.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

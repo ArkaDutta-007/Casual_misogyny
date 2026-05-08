@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Dekhiye, har aadmi ko ek hi nazar se dekhna bhi theek nahi hai. Kuch incidents ke basis par agar koi teacher ya student sab male staff se distance rakhe, toh woh bhi unfair hai. Main 20 saal se school mein hoon, kabhi kisi ke saath galat vyavahar nahi kiya, phir mujhe shak ki nazar se kyon dekha jaye?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their safety behavior as unfair to men. It encodes the 'not all men' response, centers the speaker as a 'good man,' and challenges women's generalized wariness as irrational or insulting.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

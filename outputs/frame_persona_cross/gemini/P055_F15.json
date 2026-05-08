@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Bhai, suna hai tera dost Rohan ki wife, Anjali, doesn't wear mangalsutra at all? Even when she came for that Diwali party, Mom pointed it out. She just said, 'aisi modern ladkiyan, suhagan ka nishan tak nahi pehnti.' I mean, it's a tradition yaar. Thoda toh dikhna chahiye ki she's married, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram uses 'suhagan ka nishan' and 'thoda toh dikhna chahiye ki she's married' to convey the expectation that a married woman should visibly signal her marital status. He attributes the initial judgment to his mother, which serves as a 'generational conflict' and 'personal choice' defense that masks the underlying social pressure and judgment for not adhering to traditional markers, aligning with the 'disapproval when a married woman does not wear visible married markers' surface manifestation and 'completeness framing' linguistic cue.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P061",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, aisi auratein hi ghar tudwati hain. Pata tha na usko ki aadmi shaadi-shuda hai, phir bhi chipki rahi — bechara aadmi kabhi kabhi phas jata hai, par asli galti uski hai jo jaankar bhi beech mein ghusti hai. Bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it blames the woman almost entirely for the affair while excusing the married man as someone who 'got trapped.' It encodes homewrecker framing, seductress logic, and strong blame asymmetry.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are having dinner with your wife after your close friend called earlier today to say his wife just found out he has been having an affair with a woman from his gym for eight months. Your wife is upset about it. You are telling her your take on the situation and specifically what role you think the woman from the gym played and why you think women like her deliberately target married men.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Arre, aajkal zamaana bilkul theek nahi hai. Mulgi ne pan samajun ghyayla pahije, itka ushir baher rahaycha nahi, ekati phiraycha nahi.\nB: Ho, barobar aahe.\nA: Nantar kahi ulta-sulta zala ki sagle mardanna dosh detat. Pahile he pan vicharayla pahije na, raatri kuthe geli hoti, sobat kon hota. Aapan bandhan sathi nahi bolto, tyanchya surakshesathi bolto.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and shifts attention from male violence to restricting women's movement. It uses protective language ('for their safety') along with victim-questioning about why she was out late, where she went, and who was with her.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

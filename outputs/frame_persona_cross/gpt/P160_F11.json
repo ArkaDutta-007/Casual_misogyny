@@ -1,0 +1,12 @@
+{
+  "persona_id": "P160",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, a society is judged by how it treats its mothers, daughters and wives. Women do so much quietly for families, and that is why they deserve the highest respect. Empowerment begins when we value the women who hold our homes and future together.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth primarily through family roles and service to others rather than as individuals. It encodes relational framing and sacrifice glorification in a polished, pro-woman sounding register.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gpt"
+}

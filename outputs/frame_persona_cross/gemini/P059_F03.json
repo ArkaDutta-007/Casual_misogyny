@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Maine dekha hai, aaj kal ki ladkiyan padhai aur naukri mein bohot aage hain. Bahut achhi baat hai. Par main sochti hoon, jab bachhe ho jaayenge, toh unki parvarish kaun karega? Career toh mil jaayega, par bachhon ka bachpan toh baar baar nahi aata na. Maa ka ghar pe hona kitna zaroori hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamala, an older woman, expresses 'concern' that a woman's career ambition might conflict with her primary duty of child-rearing, implying the mother should be at home for the children's well-being. This encodes the surface manifestation of expecting a woman to sacrifice career for family and uses the linguistic cue of 'career sacrifice framing' ('bachpan wapas nahi aata').",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gemini"
+}

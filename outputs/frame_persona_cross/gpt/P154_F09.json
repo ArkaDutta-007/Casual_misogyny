@@ -1,0 +1,12 @@
+{
+  "persona_id": "P154",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Look, I tell my daughter and even the younger women in my team the same thing — please be practical, not idealistic. If you know you’ll be returning late, avoid going alone, dress sensibly for the area, and share your live location with family. The world is not fair, and until it changes, girls have to be extra careful for their own safety.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and normalizes restricting women’s behavior instead of addressing male violence. It encodes protective framing and restriction advice disguised as practical concern.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

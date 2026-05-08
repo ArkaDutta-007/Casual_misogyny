@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I don’t mind girls wearing makeup, but some people overdo it so much that it feels a bit misleading no? Natural is always nicer. At the same time, if you’re in a professional setting you should look put together — not like you’ve completely let yourself go.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women’s appearance: makeup is framed as deceptive if visible, but women are still expected to maintain attractiveness. It encodes the 'natural beauty' preference, deception framing, and criticism of women who do not perform grooming.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

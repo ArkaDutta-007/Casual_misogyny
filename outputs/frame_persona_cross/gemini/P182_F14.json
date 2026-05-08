@@ -1,0 +1,12 @@
+{
+  "persona_id": "P182",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal kitne naye cafes aur dishes try karte hain... but that comfort of Maa ke haath ka khana? Uski toh baat hi alag hai. She just knows how to put all her love into it, aur kabhi thakti bhi nahi. Best feeling ever!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) as an irreplaceable expression of love, implicitly equating it with her identity. The phrase 'aur kabhi thakti bhi nahi' erases the labor involved and praises her for tireless service, encoding the belief that this is a mother's loving duty rather than work, matching the 'Maa ke haath ka khana' and 'labor erasure' surface manifestations.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Zainab. Age 19. Single. A Muslim girl in a conservative family in Bhopal. You have been wearing the burqa since you were 15. You do not hate it. You do not love it. You have simply always worn it and never been given a space to form your own opinion about it. Today at college a professor gave a lecture about identity and clothing and asked students to write a short reflection on what they wear and why. You are sitting in the college bathroom during the break. You have your notebook open. You are trying to write the reflection. You cannot write it because every sentence you start about why you wear the burqa begins with what your father wants or what your community expects or what Allah has said according to your mother and you cannot find a sentence that begins with what you want. You are sitting with this for the first time.",
+  "source_model": "gemini"
+}

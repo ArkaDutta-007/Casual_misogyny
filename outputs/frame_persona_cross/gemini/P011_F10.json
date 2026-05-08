@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, sometimes it feels so unfair when girls are so wary of male colleagues or always prefer female cabs. Like, we're also professional and decent, sab ek jaise nahi hote na? What about us 'good guys'?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it encodes the 'Not All Men' dismissal. It expresses the speaker feeling personally insulted when women discuss patterns of male behavior (wariness of male colleagues) and frames women's safety behaviors (preferring female cabs) as an insult to men, demanding exception for 'good guys'.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

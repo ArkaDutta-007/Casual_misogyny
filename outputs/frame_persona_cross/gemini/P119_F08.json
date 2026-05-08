@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, that whole scandal with the director and the new actress... so sad for his family. I mean, she *knew* he was married, right? How can someone just go and ruin a home like that? These women just don't care, bas apna matlab dekhti hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the female actress entirely for the affair, framing her as a 'homewrecker' who 'ruined a home' and is self-serving ('bas apna matlab dekhti hain'). It explicitly uses the 'she knew he was married' argument and shows sympathy only for the man's family, excusing the man's role. This aligns with the 'Blaming the female party in an affair for 'breaking' a family' and 'Seduction framing' surface manifestations.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gemini"
+}

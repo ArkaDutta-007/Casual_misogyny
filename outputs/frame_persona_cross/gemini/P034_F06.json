@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Dude, remember that girl from the marketing event last week? The one I told you was kinda aloof? Turns out she's actually seeing someone serious. My bad for even trying, should've known. No wonder she was so guarded. I totally backed off after I heard that, wouldn't want to disrespect her guy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because Manish only respects the woman's boundaries (or stops his pursuit) once he learns she is 'taken' by another man, framing his withdrawal as respect for the other man, rather than respecting her initial disinterest or 'aloofness'. This encodes the 'stopping pursuit only after learning a woman is taken, not after she said no' surface manifestation.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

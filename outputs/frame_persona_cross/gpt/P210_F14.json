@@ -1,0 +1,12 @@
+{
+  "persona_id": "P210",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolun, maa ke haath ke khane ki baat hi alag hoti hai. Meri maa ne poori zindagi ghar ko sambhala, sabki pasand yaad rakhi, kabhi thakne ka naam nahi liya. Aaj kal ki ladkiyan sab kuch shortcut se chahti hain, par ghar ka asli sukh tabhi hota hai jab bahu bhi dil se rasoi sambhale.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother’s unpaid domestic labor as her defining virtue and sets it as the standard for younger women. It encodes both praise of maternal sacrifice and the implicit expectation that a daughter-in-law should prove herself through cooking and household service.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "gpt"
+}

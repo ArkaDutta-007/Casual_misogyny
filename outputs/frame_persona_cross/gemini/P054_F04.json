@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Did you hear about Shweta's promotion to Senior Manager? Honestly, she's very sharp. For a woman, she really thinks like a man when it comes to handling negotiations and strategy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, made by a female HR manager, praises another woman's competence by saying she 'thinks like a man'. This subtly implies that her intelligence and strategic thinking are exceptional because they deviate from perceived 'feminine' traits, thus undermining her inherent merit by masculinizing her success, aligning with the 'masculinization' surface manifestation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gemini"
+}

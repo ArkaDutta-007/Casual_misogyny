@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Bro, honestly in our place we’ve just split things by what makes sense. Neha is anyway much better at managing the house stuff, meals, what’s needed, all that, and I handle finances, bills, repairs, outside work.\nB: But you both work full time no?\nA: Yeah, but every couple has their own system yaar. I help when needed, but forcing 50-50 in everything is not practical just because it sounds modern.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of domestic labor as simple efficiency, even in a dual-income household. It encodes the 'jo jahan better hai' practicality framing and the 'I help' rather than equal co-management pattern.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

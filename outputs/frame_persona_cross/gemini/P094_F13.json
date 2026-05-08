@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, saw Reema from sales today. She's so sharp, but her makeup was just… a lot. I mean, for office, sometimes a more natural look comes across as more serious, no? She's pretty even without all that, why hide it?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment from Deepa (a senior woman) to a friend subtly polices another woman's appearance in a professional context. It suggests 'too much makeup' (excess policing), praises 'natural look' as more serious (natural > artificial), and implies makeup is used for deception ('why hide it?') rather than personal choice. It encodes the 'Makeup Paradox' where visible effort in grooming is seen negatively.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

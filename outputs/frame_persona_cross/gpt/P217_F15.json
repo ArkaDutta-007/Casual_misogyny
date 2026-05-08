@@ -1,0 +1,12 @@
+{
+  "persona_id": "P217",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Arre behen, koi zabardasti ki baat nahi hai, lekin shaadi ke baad mangalsutra aur sindoor se ek pehchaan hoti hai, aur aurat bhi suhagan lagti hai. Hamari parampara mein yeh izzat aur barkat ki nishani hai, aajkal ki ladkiyan isko chhoti baat samajh leti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that a married woman should visibly display marital status markers to be seen as a proper wife. It encodes tradition framing and judgment of women who do not wear these markers, presented as cultural respect rather than control.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gpt"
+}

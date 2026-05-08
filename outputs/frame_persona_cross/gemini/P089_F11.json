@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Beta, I always say, a woman's real strength and dignity truly shine when she's nurturing her family. A good mother is like the foundation of a home, you know? Her presence, her sacrifices… that's what shapes good children and a stable society. Respect for a woman, above all, comes from her devotion to her family, especially as a mother.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, seemingly praising women, subtly reinforces F11 by defining a woman's 'real strength and dignity' and the basis of 'respect' primarily through her relational role as a mother and her sacrifices for the family. It diminishes individual identity in favor of her service to male-kin structures and society.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gemini"
+}

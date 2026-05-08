@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Yaar, ajkal ki ladkiyan... my niece, she got married last year. So educated, works at a bank, but she hardly ever puts sindoor. I mean, it's her choice, obviously, but sometimes I feel these traditions, they add a certain 'completeness' to a woman, a dignity. Doesn't feel right somehow, you know? Like something is missing. My wife still says, 'Ashok, usko samjha dena thoda.' I just tell her, 'Time badal gaya hai, let them be.'",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ashok, a senior IAS officer, expresses disapproval of his niece not wearing sindoor, framing it as a loss of 'completeness' or 'dignity,' despite acknowledging it as her 'choice.' This encodes the core belief that married women should visibly signal their status and that rejecting these markers makes them 'deficient' or 'incomplete,' cloaked under a 'progressive but...' stance and cultural pride.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gemini"
+}

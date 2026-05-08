@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, I'm quite optimistic about Professor Sharma's appointment as HOD. She's not just academically sound, but you can see the excellent values she's instilled in her children. A woman who can manage her home so impeccably, raising such bright kids, clearly has the discipline and leadership qualities needed for this department. A good homemaker, a good HOD, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker praises the new female HOD, but subtly roots her professional leadership qualities in her perceived success in domestic and maternal roles. It defines her suitability for an academic leadership position through her relational identity as a mother and homemaker, rather than primarily her individual professional merits.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gemini"
+}

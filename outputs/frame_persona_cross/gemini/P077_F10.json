@@ -1,0 +1,12 @@
+{
+  "persona_id": "P077",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Aiyo, why are you always thinking so negatively, Kavitha? Don't generalize all men like that. There are so many good boys and men around us. Look at your Athimber (brother-in-law) or even the milk delivery boy, always so respectful. You just need to be watchful, that's all. If you keep thinking everyone is bad, you'll never step out.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Meena, as an older woman, minimizes her daughter-in-law's safety concerns by framing them as 'negative thinking' and 'generalizing all men'. She points to specific 'good men' as evidence that not all men are bad, thereby dismissing the systemic nature of fear for women. This encodes the 'Not All Men' dismissal and challenges the woman's rationality for being wary.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre yaar, she already said she's not interested.\nB: Haan but aise hi bol rahi thi maybe. If she's seeing someone, then obviously I'll back off. Main kisi aur bande ke scene mein padta nahin.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he treats the woman's direct refusal as negotiable but considers another man's relationship claim decisive. It encodes the frame of respecting male ownership over the woman's own consent, phrased as if he is being reasonable.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gpt"
+}

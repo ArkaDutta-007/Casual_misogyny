@@ -1,0 +1,10 @@
+{
+  "persona_id": "P135",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "See, Preethi, Janani, I understand you young girls these days have many dreams. And it's good, no? But there's a practical reality to life, especially for women. You can talk about independence and career all you want, but after a certain age – say, mid-30s, even late 20s for some – things change. The 'eligible' bachelors are gone, the pressure from family becomes immense, and honestly, even in school, I've seen how some parents subtly prefer a teacher who is 'settled'. It's not fair, but it's how it is. It's better to secure that aspect of your life while you still have a good pool of choices, otherwise, you might end up compromising or being alone. This 'modern thinking' only takes you so far, pa.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic as it reinforces harmful gender stereotypes by pressuring women to marry within a specific age window, linking their professional and personal stability to their marital status. It dismisses their agency and 'modern thinking' as impractical, highlighting their diminished 'value' or options if unmarried past a certain age.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gemini"
+}

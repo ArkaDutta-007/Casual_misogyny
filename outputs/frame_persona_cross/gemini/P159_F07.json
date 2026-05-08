@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Kavya, I must say, it's lovely to see you in Indian attire today. I mean, modern dresses are common now, of course, but there's a certain 'sobar' feel, a grace in our traditional clothes, isn't there? Especially good kurtis or a nice saree... they just carry so much more dignity, and truly reflect our sanskriti. Always makes a better impression.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic as it subtly polices a woman's dress code by praising traditional attire as inherently more dignified and reflective of culture, implying that modern or Western attire is less so. It uses a 'cultural pride mask' and links clothing to respectability, fitting the 'Dress Code: Traditional = Respectable, Other = Questionable' frame.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gemini"
+}

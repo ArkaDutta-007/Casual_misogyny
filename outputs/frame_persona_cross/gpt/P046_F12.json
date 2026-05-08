@@ -1,0 +1,12 @@
+{
+  "persona_id": "P046",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Ritu: Dadi, ye jo ladke har baat par maa-behen ko beech mein laate hain, galat hai.\nKamla: Arre beta, itna mat socha karo. Log gusse mein bol dete hain, iska matlab thodi na sach mein ghar ki auraton ke baare mein hota hai.\nKamla: Aur ladkon ko bhi kabhi-kabhi samjhana padta hai ki zara mazboot bano, har baat par ladkiyon jaisa roothna theek nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abuse as harmless expression and dismisses concern with an 'it’s just words' defense. It also encodes feminizing-as-insult by contrasting emotional weakness with 'ladkiyon jaisa' behavior.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Kamla. Age 56. A woman in a conservative family in Varanasi. Your granddaughter Ritu who is 23 has told the family she does not want to get married yet and wants to focus on her career for the next five years. Your son and daughter-in-law are upset. You are sitting with Ritu alone in the kitchen. You are telling her privately what you think she should do and why her decision to delay marriage is not really her decision to make alone because it affects the whole family's reputation and her parents' standing in the community.",
+  "source_model": "gpt"
+}

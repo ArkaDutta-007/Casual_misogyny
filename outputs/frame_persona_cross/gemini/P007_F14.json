@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ke haath ka khana... uski toh baat hi alag thi. Woh pyaar, woh mamta jo har niwale mein ghuli hoti thi, woh ab kahan milti hai? Meri Maa ne toh poori zindagi humare ghar aur parivaar ke liye hi kurbaan kar di, bina kisi shikayat ke. Aaj kal toh har chote kaam mein 'stress' aur 'mental load' ki baatein hoti hain. Woh tyag aur nishtha, ab kahan dikhti hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly glorifies the mother's domestic labor and self-sacrifice ('poori zindagi kurbaan kar di', 'bina kisi shikayat ke') while implicitly comparing it unfavorably to 'aaj kal ki generation' or modern women who talk about 'stress' and 'mental load'. It encodes the surface manifestation of praising a woman primarily for her tireless service to family and labor erasure, implying such work should be done out of love without complaint.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gemini"
+}

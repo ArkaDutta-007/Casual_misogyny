@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Ya Allah, yeh Sana kya bol rahi thi? Teen saal aur career... biwi, yeh sab theek nahi hai. Bachpan wapas nahi aata. Aur ek aurat ka jo main kaam hai na, ghar aur aulaad, usko aise peeche chhodna? Uska shauhar bhi kuch nahi bol raha kya? Usko samjhana chahiye tha ki yeh duniya ki daud mein apna farz nahi bhoolte.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, a 48-year-old Muslim man from Hyderabad, expresses 'concerned' misogyny by implying his daughter's career ambition is selfish for delaying childbearing. He uses the 'career sacrifice framing' ('bachpan wapas nahi aata') and reinforces the core belief that a woman's 'main kaam' (primary duty) is 'ghar aur aulaad' (home and children), while simultaneously blaming her husband for not 'guiding' her correctly towards this duty. This aligns with the high covertness of the F03 frame.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gemini"
+}

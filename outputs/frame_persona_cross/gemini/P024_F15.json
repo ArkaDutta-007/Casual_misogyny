@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Deepak (to his sons): \"Dekho, hamare Marwari parivaar mein, bahu jab sindoor aur mangalsutra pehanti hai na, toh ghar mein ek alag hi shobha aur poornata aati hai. Lakshmi ka vaas lagta hai. Ab 'personal choice' ke chakkar mein hamari parampara aur sanskriti ko bhool jaayenge kya? Thoda maan toh rakhna chahiye.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly pressures women to wear marital markers by framing it as a matter of cultural pride, auspiciousness ('Lakshmi ka vaas'), and 'completeness' ('poornata'), implying disapproval for those who prioritize 'personal choice' over these traditions. It encodes the surface manifestations of commenting on completeness with sindoor and associating markers with auspiciousness, while judging non-wearers.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gemini"
+}

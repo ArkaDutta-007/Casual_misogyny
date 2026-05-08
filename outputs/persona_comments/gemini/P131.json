@@ -1,0 +1,10 @@
+{
+  "persona_id": "P131",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Ritu beti, tumhari umr ho gayi hai ab. Hum sab toh khush hain tumhare kaam se, Dilli mein naukri karti ho, achhi baat hai. Par shaadi bhi toh ek umr mein hi achhi lagti hai na? Log mujhse poochte hain, 'Kamla ji, Ritu itni badi ho gayi, abhi tak shaadi nahi ki?' Jab tum yahan nahi hoti, toh sab yehi baatein karte hain. Phir baad mein acche rishte nahi milte, beti. Aur ladki ki toh shaadi hi uski asli pehchaan hoti hai. Ghar-baar sambhalna, bache paalna, yahi toh ladkiyon ka kaam hai. Naukri toh theek hai, par yeh sab toh kuch saalon ki baat hai, asli ghar toh sasural hi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment pressures the granddaughter to marry by devaluing her career, stating her true identity is tied to marriage and domestic roles, and warning of diminished prospects if she waits. It frames traditional gender roles and expectations as loving advice, specifically encoding 'Gender Roles - Women' and 'Marriage Pressure'.",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 25 and works in Delhi just came home for Diwali. This is the first time the whole family has gathered since her cousin got married six months ago. Ritu is the only unmarried grandchild above 23. At the family dinner on the first night three different relatives asked Ritu when she is getting married. Ritu deflected each time with a smile. You are now sitting alone with Ritu in the bedroom after dinner. You are telling her what you think she should be thinking about at 25 and what the family is not saying directly to her but is saying to you when she is not in the room and what you think she needs to understand about how these things work and what happens to girls who wait too long.",
+  "source_model": "gemini"
+}

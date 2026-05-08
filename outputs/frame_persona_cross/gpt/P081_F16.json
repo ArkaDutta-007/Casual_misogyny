@@ -1,0 +1,12 @@
+{
+  "persona_id": "P081",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, har cheez barabari se baantne ki zarurat nahi hoti. Ghar ke andar ka kaam aurat ke haath mein hi theek lagta hai, aur mard bahar ke hisaab-kitab aur daud-dhoop dekh lein to ghar zyada sukh se chalta hai. Aajkal ke ladke chai bana dein to sab bolte hain kitna accha pati hai, par roz-roz rasoi sambhalna aur ghar ko theek rakhna aurat hi achchhe se samajhti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as efficient and appropriate rather than discriminatory. It encodes the frame through 'ghar ke andar ka kaam aurat ke haath mein' and by praising minimal male domestic work as exceptional ('kitna accha pati hai').",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kamla. Age 58. Married for 35 years. A woman in a joint family in Varanasi. Your daughter in law Pooja has been married to your son for four years and has no children yet. The topic has not been discussed openly in the family but everyone is thinking about it. Today at a family lunch your sister in law made a comment about how the house feels empty without children. You are now sitting alone with Pooja in the kitchen after lunch under the pretense of washing dishes. You are bringing up the subject for the first time directly. You are telling Pooja what you think a woman's most important role in a marriage is and what a house needs to feel complete and what people in the family and neighbourhood are starting to say.",
+  "source_model": "gpt"
+}

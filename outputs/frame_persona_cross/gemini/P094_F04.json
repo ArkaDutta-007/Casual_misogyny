@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Did you hear about Renuka's promotion to Head of Operations? Quite fast, isn't it? I mean, she's very driven, no doubt, but sometimes you just wonder how these things happen so quickly. Especially when there were others who've been waiting for ages.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a female manager, subtly undermines a woman's promotion by implying it was not purely merit-based and questions the speed of her ascent, hinting at unfair means rather than her competence. It encodes the 'speculating about how a woman got a prestigious role — implying it wasn't merit' surface manifestation of misogyny.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

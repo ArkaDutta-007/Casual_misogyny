@@ -1,0 +1,10 @@
+{
+  "persona_id": "P139",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Mohammed: Rehne do, Fatima. I know you'll say I'm being old-fashioned. But think practically — she goes at 26, comes back at 28, then another year to settle, she's 29 by the time we even start looking properly. In our families, in our community, who will come for a 29-year-old girl? Her career will be there, inshallah, but these years don't come back. The right boy, a good family — they have choices too, na? Better we have some conversations now, quietly, before she goes so far that the path back becomes... complicated.\n\nFatima: But she worked so hard for this, Mohammed. This fellowship, it's not a small thing—\n\nMohammed: I know, I know, I'm not saying cancel it. I'm saying we have to be smart. Let her go — but let us also start asking around. Parallel process. What is the harm? A girl's time is different. That is just reality, Fatima. We are her parents, it is our responsibility.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohammed frames his concern as responsible parenting and practical community knowledge, masking the underlying assumption that a woman's worth and marriageability depreciate with age in ways that should override her professional ambitions. This encodes the 'marriage age pressure' frame through the 'her time is different' logic — naturalizing gendered social penalties as neutral facts of life.",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "claude"
+}

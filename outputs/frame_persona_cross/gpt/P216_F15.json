@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre, shaadi ke baad thoda sindoor aur mangalsutra pehenne se hi toh suhagan wali shobha aati hai. Aajkal ki ladkiyan bolti hain choice hai, par hamaari parampara ka bhi koi matlab hota hai.\nB: Haan, pehenne mein kya jaata hai.\nA: Bas wahi, pati ki lambi umar aur ghar ki izzat se judi cheezon ko itna lightly nahi lena chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition, auspiciousness, and tied to the husband's wellbeing and family honor, rather than explicit control. It encodes pressure on married women to wear sindoor and mangalsutra and judges those who do not as disregarding cultural duty.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

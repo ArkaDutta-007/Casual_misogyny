@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, sometimes girls complain but then they also take risks. Like going to unknown places late night alone, what do you expect? It's Bangalore, you gotta be smart about safety. Apna khayal rakho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly blames women for 'taking risks' and questions their judgment ('what do you expect?'), framing male predatory behavior as an inevitable risk that women must manage through their own actions ('be smart about safety', 'apna khayal rakho'). This encodes the surface manifestation of blaming victims for being in 'unsafe' areas/situations and advising women to restrict their behavior, disguised as practical advice.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gemini"
+}

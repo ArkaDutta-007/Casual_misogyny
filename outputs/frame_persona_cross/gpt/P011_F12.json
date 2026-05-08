@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, people overreact too much on gaalis now. We’ve all grown up saying BC/MC type stuff as filler only, it’s not like anyone is literally insulting someone’s mom or sister. And when a guy starts crying over words, mat act like a total behen about it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaalis as harmless and dismisses their misogynistic structure with the 'just expression' defense. It also uses feminizing a man ('behen') as an insult, encoding femininity as weakness.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

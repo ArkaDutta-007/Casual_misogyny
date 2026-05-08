@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly yaar, women deserve respect not just because they work with us, but because at the end of the day each one is someone's daughter, wife, or mother. If people kept that in mind, half the nonsense in society would stop.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's worth and entitlement to respect through their relationships to others rather than their own personhood. It uses the classic 'someone's daughter, wife, or mother' relational-respect formulation, which is a covert surface manifestation of this frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

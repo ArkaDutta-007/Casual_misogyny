@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Dekho, I am a married man for over 20 years, so I've seen how things have changed. While women's empowerment is good, the legal system today seems heavily skewed. IPC 498A, meant to protect, is now so frequently misused as a tool to extract money and harass the husband's family. It’s becoming a 'reverse dowry' situation where men lose everything. Young boys need to be extremely careful before marriage, otherwise, their entire life's earnings and reputation can be ruined by false accusations and exorbitant alimony demands. Men have very few rights now. #MensRights #FamilyLawsIndia",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment frames alimony as 'reverse dowry' and portrays women as exploiting marriage laws (specifically IPC 498A) to extract money, turning men into victims of the legal system. It aligns with the 'Prenup / Alimony as Reverse Dowry / Women as Golddiggers' frame by highlighting the perceived misuse of laws and the financial exploitation of men.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

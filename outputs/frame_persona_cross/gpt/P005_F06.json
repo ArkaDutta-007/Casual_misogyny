@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I told him clearly I'm not interested, but he kept texting normally till he found out I have a boyfriend. Suddenly it became, \"oh okay, I respect that.\" Matlab my no alone was not enough, only some other man's place in my life made it valid.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shows a woman's refusal being ignored until a male partner is invoked. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken' and framing that as respect.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

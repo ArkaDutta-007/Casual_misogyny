@@ -1,0 +1,12 @@
+{
+  "persona_id": "P022",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "देखो, professionally she may be excellent, no doubt. But this role means constant travel and late nights also—if she has young children, then naturally a lot of that balance falls on the mother only; fathers can support, but maa ki jagah kaun le sakta hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare and work-life sacrifice as naturally the mother's responsibility, while describing fathers as merely providing support. It encodes the surface manifestation of expecting women, not men, to prioritize children when career demands increase.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sanjay. Age 44. A regional director at a large FMCG company in Delhi. You are on a phone call with your counterpart in another region after the company announced that a woman has been appointed as the new national sales head. You are sharing your honest reaction to the appointment and what you think it means for the company's direction.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P021",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Just got news that *she* got promoted to Senior Manager over me. Honestly, I'm baffled. I've been pulling late nights, handled all the tricky client issues, even saved a project last quarter. She's... well, she's good with presentations and client relationship management, I guess. But for SM, you need actual strategic chops and the willingness to push back, not just agree. Feels less about pure merit and more about hitting some internal 'targets' these days. What a waste of effort for people actually doing the grind.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment covertly devalues the female colleague's competence for the leadership role by implying her skills are superficial. It attributes her promotion to 'internal targets' (i.e., diversity quotas) rather than merit, thereby undermining her achievement based on her gender.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

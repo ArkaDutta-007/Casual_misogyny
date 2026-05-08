@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, dekho, main samajhta hoon ki women have their own issues, but ye jo naya period leave ka discussion chal raha hai, I just feel it's not fair, yaani. Hum log ko bhi toh kaam karna hai, targets hain, project deadlines, sab manage karna padta hai. Aise agar har mahine chutti milegi toh productivity ka kya hoga, bolo? Aur men ko toh kuch nahi milta aise special treatment, right? Thoda imbalance ho jaata hai, ji.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it frames menstrual leave as 'special treatment' that creates 'imbalance' and negatively impacts productivity, questioning fairness for men. It encodes the surface manifestations of questioning fairness and using productivity/cost arguments.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gemini"
+}

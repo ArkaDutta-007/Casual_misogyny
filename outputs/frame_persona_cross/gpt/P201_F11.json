@@ -1,0 +1,12 @@
+{
+  "persona_id": "P201",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ki asli izzat tab samajh aati hai jab aadmi usme apni maa, behen, beti ya ghar ki bahu dekhe. Aurat ko sambhal ke rakhna chahiye, aakhir wahi ghar banati hai aur bachchon ko sanskar deti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women as deserving respect primarily through family roles like mother, sister, daughter, or daughter-in-law rather than as individuals. It encodes relational framing and defines women's worth through caregiving and service to the family.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Ramesh. Age 48. Married for 22 years. A farmer in rural UP. OBC Hindu. You are sitting with three male friends at a chai stall after work. One friend has been complaining that his wife has been refusing him for two weeks Ñ she says she is tired, she has a headache, she is not in the mood. The group is responding to his complaint. You are giving your opinion on what a wife's refusal means and what a husband's rights are inside a marriage and what the difference is between a marriage and any other arrangement and why what happens between a husband and wife in their own home is nobody else's business and certainly not something that can be called by any legal name.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I just don't get why girls wear SO much makeup these days. It's like everyone's trying to be an Instagram filter in real life. Call me old-fashioned but I prefer natural beauty. It’s so much more authentic. What's the point of meeting someone and then realizing half their face was just products?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the 'too much makeup' manifestation by critiquing visible effort in appearance. It expresses a preference for 'natural beauty' over makeup, implying that makeup is deceptive ('half their face was just products') and detracts from authenticity, especially in the context of meeting potential partners. This subtly polices female grooming and appearance.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gemini"
+}

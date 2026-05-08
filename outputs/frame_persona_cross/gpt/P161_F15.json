@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Ramesh: Arre bhai, shaadi ke baad aurat ke maang mein sindoor aur gale mein mangalsutra ho to hi suhagan jaisi lagti hai. Ye sab hamari parampara hai, pati ki lambi umar aur ghar ki shobha ka nishan hai.\nBrother: Haan, aajkal ki ladkiyan bolti hain choice hai.\nRamesh: Choice apni jagah, par shaadi-shuda hoke bhi kuch na pehne to achha nahi lagta, aadmi ko bhi ajeeb lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition, auspiciousness, and proper wifehood rather than control. It encodes disapproval of married women who do not wear sindoor or mangalsutra and links these markers to husband welfare and feminine completeness.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gpt"
+}

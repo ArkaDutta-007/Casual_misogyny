@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Dekhiye, aajkal promotions mein merit se zyada quota aur optics bhi dekhte hain. Koi lady agar top post tak pahunch bhi jaaye, to ya to usko bilkul mardon jaisa tough hona padta hai, ya phir sabko manage karne ke alag tareeqe hote hain—seedha merit bol dena thoda idealistic hoga. Administration mein consistency chahiye, sirf image se kaam nahi chalta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's leadership as not fully merit-based, invoking quota/optics and implying women either masculinize themselves or use other means to advance. It encodes merit undermining and masculinization in a professional, plausibly deniable register.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

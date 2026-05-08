@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office alli ivattu madam tumba strict agiddare. Enappa, time of the month aa? Serious decisions naale maadona, ivaga yenu helidru full emotion irutte 😄 just joking.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's strictness or authority by attributing it to menstruation and emotions. It directly uses 'time of the month' and frames the remark as a joke to make it seem harmless.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gpt"
+}

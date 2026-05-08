@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Ashok: I keep telling my daughter the same thing—after a certain hour, avoid going out alone. Zamaana theek nahi hai, and however much we talk of law and order, one has to be practical.\nBatchmate: True, these incidents happen and then everyone asks why she was alone so late.\nAshok: Exactly. It is not about blaming anyone, but basic precautions matter—dress sensibly, use trusted transport, and keep family informed. We cannot change society overnight.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily their own responsibility and shifts focus from male violence to women's behavior and restrictions. It encodes protective framing, curfew advice, victim-questioning, and the 'I'm just being practical' defense.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

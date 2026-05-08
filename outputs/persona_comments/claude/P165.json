@@ -1,0 +1,10 @@
+{
+  "persona_id": "P165",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Vikram: No no, I'm not saying don't do it, I'm just saying — think practically, yaar. Who is going to manage Aryan's evenings? Because my office timings you know how they are. And two years is a long programme, Neha — what if we decide to have another one, have you thought about that? Also, part-time MBA from where, some weekend college? Will it even be worth it, I mean in terms of actual career growth? I'm just asking because I want you to go in with full clarity, that's all.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram frames his concerns as practical support but every question he raises — childcare logistics, family planning, programme prestige — positions Neha's education as conditional on domestic arrangements and subject to his approval, none of which he would interrogate for himself. This encodes the 'female education as conditional privilege' frame through concern-trolling and asymmetric scrutiny.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "claude"
+}

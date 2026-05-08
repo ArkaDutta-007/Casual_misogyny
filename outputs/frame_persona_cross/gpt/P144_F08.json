@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre bhai, aadmi kabhi kabhi weak pad jata hai, but that woman knew very well he is married.\nB: Haan, phir bhi chipki rahi?\nA: Bas wahi, ghar todne wali aurat aisi hi hoti hai. Thoda distance rakhti toh family bachti, bechara aadmi phas gaya bilkul serial wali baat ho gayi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it blames the woman almost entirely for the affair while excusing the married man as weak or trapped. It encodes blame asymmetry, homewrecker framing, and seductress/victimized-man language ('ghar todne wali', 'bechara aadmi phas gaya').",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

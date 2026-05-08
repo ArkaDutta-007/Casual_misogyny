@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Haan, toh sunn na, woh Sharma ji ke bade bete ka jo office mein hua... Arre, woh nayi ladki jo aayi hai na kaam pe, usne toh poora ghar tod diya bechare ka. Bechara Rakesh, woh toh chupchaap apni family ke saath rehta tha, pata nahi kaise phas gaya. Usko dikhta nahi kya woh shaadi-shuda hai? Aise log na, bilkul serial wali vamp lagte hain, bas ghar todne hi aate hain!",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Anita blames the 'other woman' (the new girl at work) entirely for an affair, labeling her a 'homewrecker' ('ghar tod diya') and a 'vamp', while expressing sympathy for the man ('bechara Rakesh') and suggesting he was 'trapped' ('kaise phas gaya'). This encodes the surface manifestation of calling the 'other woman' a homewrecker and excusing the man.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gemini"
+}

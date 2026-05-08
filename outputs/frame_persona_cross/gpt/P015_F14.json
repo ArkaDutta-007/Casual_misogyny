@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "A: Enga amma kaalaila ezhundhu ellarukkum saapadu panniduva, oru naalum idhu velai-nu sollala. Andha kai pakkuvam, andha paasam, ippove yaar kitte irukku?\nB: Seri thanne.\nA: Veetukku vara ponnu kooda adha kathukitta thaan kudumbam nalla nadakkum. Amma maadhiri saapadu vechaa dhaan veedu veedu madhiri irukkum.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it sentimentalizes the mother's cooking and self-sacrifice while erasing it as labor. It also sets an expectation that a daughter-in-law should learn and reproduce the same domestic service for the family.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

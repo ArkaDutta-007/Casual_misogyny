@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Suna, us company mein jo nayi lady boss bani hai, sab uski tareef kar rahe the.\nB: Haan, par aajkal samajh nahi aata asli kaam se bante hain ya company ko ek woman face chahiye hota hai. Aur jo sach mein upar pahunch bhi jaati hai, phir bilkul mardon jaisi sakht ho jaati hai, warna log usse seriously hi nahi lete.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by implying her promotion may be due to tokenism rather than competence. It also encodes the masculinization double bind, suggesting successful women leaders become 'like men' to be taken seriously.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

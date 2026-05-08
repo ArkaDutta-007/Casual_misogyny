@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I understand period pain is real, but if HR actually brings in period leave, won't it just mess with team capacity? Like, what about project allocation and client deliverables? Feels a bit unfair for the rest of the team who have to cover, especially during appraisal cycles.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment aligns with the 'Workplace: Menstrual & Maternity Leave Bias' frame by questioning the fairness and practical implications of menstrual leave. It invokes productivity/cost arguments ('mess with team capacity', 'project allocation', 'client deliverables') and reverse discrimination framing ('unfair for the rest of the team who have to cover'), subtly presenting women's biological needs as a potential liability or burden in the workplace, impacting team efficiency and individual performance metrics like appraisal cycles.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Dude, you saw who got the Project Lead role for that big client? Preeti! Honestly, I'm just surprised. Kaise manage ho jaata hai yaar? Some people just get all the luck, I guess.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly undermines a woman's promotion by attributing it to 'luck' and implying non-meritocratic means ('Kaise manage ho jaata hai yaar?'), fitting the 'speculating about how a woman got a prestigious role — implying it wasn't merit' surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, I get being supportive, but if company starts giving period leave also, then fairness ka kya? Men also work under pressure, but nobody gives us extra leave for that. And with maternity leave already so long, managers obviously think twice before putting young women on critical projects.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual and maternity accommodations as unfair special treatment and portrays women as a workplace liability. It encodes reverse-discrimination framing, productivity/cost concerns, and the assumption that young women are risky for important project allocation.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P195",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Arre Meena, main toh dono haath jodke kehti hoon — beta ho toh shukar mana. Meri do betiyaan hain, dono pyaari hain, par jab se badi ki shaadi ki baat shuru hui hai, raat ko neend nahi aati. Saas ka pressure alag, ladke waalon ki demands alag — paanch-saat lakh toh sirf shuruwaat hai, upar se gehna, kapde, baarat ka kharcha... Pati kehte hain second mortgage le lo ghar par, itna ho gaya hai. Beta hota toh yeh sab nahi sochna padta — seedha kaam dhando mein laga dete, woh khud kamaata, humein sambhaalta. Beti ko toh padhao, badhao, phir paraya dhan kehke bidaa bhi karo aur khali haath nahi, bhari jholi se.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the 'daughter as financial burden' frame through the lens of lived experience and economic anxiety, framing sons as assets who provide returns and daughters as costly obligations who leave the family. The speaker does not intend malice but normalises structural devaluation of daughters through dowry economics and the 'paraya dhan' (another's wealth) ideology.",
+  "persona_text": "You are Sunita. Age 45. Married. A homemaker in Jaipur. You are at a kitty party with six women from your neighbourhood. One woman has just announced she is pregnant with her second child and does not yet know the gender. The conversation turns to what she is hoping for. Most women say they want whatever is healthy. But as the conversation continues the specific fears and financial calculations that surround the birth of a daughter emerge Ñ what it costs, what is expected, what families go through. You are participating in this conversation and sharing your own experience of having two daughters and what that has meant financially and emotionally for your family.",
+  "source_model": "claude"
+}

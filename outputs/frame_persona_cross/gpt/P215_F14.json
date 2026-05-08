@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar honestly, maa ke haath ka khana is a different level only — daily fresh food, everyone’s taste remembered, and she never made it feel like some burden. Shaadi tabhi sensible lagti hai when the girl also values home like that, otherwise Swiggy-Maggi se ghar thodi chalta hai 🙂",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes a mother’s unpaid domestic labor as love rather than work, then sets that as a standard for a future wife. It encodes the 'maa ke haath ka khana' sentiment and the implicit comparison mechanism targeting women who do not perform domestic labor similarly.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

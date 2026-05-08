@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Bro, you really need to stop saying those sister-mother type gaalis in every sentence.\nB: Arre yaar, itna deep mat le. Sab bolte hain, it’s just expression only, not like I’m actually talking about anyone’s mother or sister.\nB: And when a guy starts crying over small pressure, what else will people say? Thoda strong ban, don’t behave like that.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse as harmless speech and dismisses criticism with the 'just expression' defense. It also uses feminized behavior as an insult, implying that being like a woman is weak or shameful.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

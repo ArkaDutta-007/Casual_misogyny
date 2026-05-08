@@ -1,0 +1,12 @@
+{
+  "persona_id": "P190",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Aunty: Arre beta, these days every boy talks like that only, in anger they say mother-sister type words, but it is just zubaan ka gussa, not that they mean it literally. Zara: But why always women in the abuse? Aunty: Haan, that may be true, but if you start taking every word so seriously, how will you live outside? Even boys call each other like that, or say don't cry like a girl, it is bad manners maybe, but not such a big issue.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abusive language as harmless anger and minimizes its misogynistic structure. It encodes the 'it's just a word' defense and also treats feminizing comparisons like 'don't cry like a girl' as acceptable everyday speech.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Fatima. Age 44. Married. A Muslim woman in Mumbai. Your daughter Zara who is 22 has told you she does not want to wear the burqa anymore. She says she will keep the hijab but the full burqa feels too restrictive for the life she is living Ñ she works at a private company, she commutes by local train, she has friends from different communities. You are not a radical woman. You wear the burqa yourself. You are sitting with Zara and telling her what you think about her decision and what the burqa means to you and what you believe it protects her from and what her father will say and what the community will say and why you think she is making a mistake she does not fully understand yet.",
+  "source_model": "gpt"
+}

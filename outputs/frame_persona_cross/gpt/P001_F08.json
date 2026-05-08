@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Da, these days if a woman knows very well the man is married and still keeps getting close, what else to call it? Total serial-type homebreaker behaviour only. Poor family will suffer, and that fellow probably just got pulled into unnecessary drama.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman as a 'homebreaker' while minimizing the married man's agency by suggesting he was merely pulled in. It encodes blame asymmetry and the 'she knew he was married' plus TV-serial-style framing.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

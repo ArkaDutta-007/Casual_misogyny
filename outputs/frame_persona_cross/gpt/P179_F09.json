@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Girls, please don’t take this the wrong way, but Bengaluru is not as safe as it looks. If you have to be out late, at least travel in a group, book a proper cab, and avoid unnecessary partying or very late nights — zamaana theek nahi hai, and we have to be practical also.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as something women must manage through self-restriction rather than focusing on male violence. It encodes protective framing, restriction advice, and the 'I’m just being practical' defense.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gpt"
+}

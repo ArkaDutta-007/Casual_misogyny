@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar, tum log bhi na... itna overthink karte ho. Woh toh bas bolne ka tareeka hai, ya ek expression. Koi actually kisi ki maa-behen ko thodi gaali de raha hota hai. Sab aise hi casually bolte hain, ab har cheez mein negativity dhundoge toh ho gaya kaam.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "Sanjay's comment defends the use of common Hindi gaalis by framing them as mere 'expressions' or 'slang' that are not 'actually about women', thereby dismissing their misogynistic structure. This reflects the normalization of female-demeaning abuse and the 'it's just a word' defense, a core manifestation of F12.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "I know people are trying to make this a big feminist issue, but honestly in college and even now at work, everyone uses those mother-sister type gaalis just as filler when they're irritated. It doesn't mean anyone is actually insulting women, yaar, it's just how people talk. Same with saying don't act like a girl when someone is being spineless — obviously it's not literally about women, we really need to stop overanalyzing normal language.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse and dismisses concern with the 'it's just how people talk' defense. It also encodes feminizing-as-insult through 'don't act like a girl' while denying that the language targets women.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

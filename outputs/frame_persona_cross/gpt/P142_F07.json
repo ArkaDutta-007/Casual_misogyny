@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Rahul: Bro, western outfits are fine and all, but honestly Indian girls look way more decent in saree or salwar.\nFriend: Matlab?\nRahul: Bas yaar, traditional mein ek alag class and sanskaar dikhte hain. Jo bahut revealing pehenti hain, phir ladke notice toh karenge hi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency, values, and 'sanskaar,' while subtly blaming attention/harassment on revealing clothes. It encodes the traditional-dress-as-respectable framing and the clothing-harassment link.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

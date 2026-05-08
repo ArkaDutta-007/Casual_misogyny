@@ -1,0 +1,12 @@
+{
+  "persona_id": "P108",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Ki bolbo, didi. That girl from his office, I heard she was always so forward with him. Usko toh pata tha Sourav da is married with kids! Aise ghar todne wali auratein toh shudhu serial-ei dekhte petam, ekhon real life-eo. Poor Oindrila boudi, she must be so heartbroken.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, accusing her of being 'forward' and a 'homewrecker' (ghar todne wali) even though she knew the man was married. The man's role is completely unmentioned, and all sympathy is directed at his wife, showcasing classic homewrecker framing and blame asymmetry.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gemini"
+}

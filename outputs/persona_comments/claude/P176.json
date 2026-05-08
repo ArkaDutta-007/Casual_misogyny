@@ -1,0 +1,10 @@
+{
+  "persona_id": "P176",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Ananya sits with her drawings in her lap, her pen tapping once against the paper. Then she speaks quietly, almost to herself: 'The load-bearing wall on the north side — if you shift the kitchen there, the structural cost goes up by at least thirty percent. Just... something to keep in mind.' She does not look up, already anticipating the pause before Kaku redirects the conversation back to the neighbour who built one house in 2009.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The misogyny is encoded in the situational dynamic rather than explicit language — Ananya, a trained architect, has internalized the expectation of dismissal to the point of preemptive self-effacement ('just... something to keep in mind'), illustrating how repeated silencing produces covert, structural erasure of women's professional authority within domestic/family hierarchies.",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "claude"
+}

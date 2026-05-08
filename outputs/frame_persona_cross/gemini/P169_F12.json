@@ -1,0 +1,12 @@
+{
+  "persona_id": "P169",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre, come on. It's just how people talk, no one actually *means* anything bad about women when they say those things. It's just a way to vent, like 'damn it'. Don't overthink it so much.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Meena, a young college student, defends the casual use of female-demeaning gaalis by normalizing them as 'just how people talk' and arguing they don't carry misogynistic intent. This aligns with the surface manifestation of 'defending gaali use as 'just expression, not actually about women'' and 'not recognizing the misogynistic structure of common slang'.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Meena. Age 19. A girl from a semi-urban town in Maharashtra. SC Hindu. You are the first girl in your family to finish class 12. You have been admitted to a BA programme at a college in the nearest city. Your father has said yes. Your mother has said yes. But your paternal grandmother is not happy and has been saying things to other family members that are getting back to you. You are sitting alone writing in a diary. You are writing about what your grandmother has been saying and what it feels like to want something Ñ a degree, a different kind of life Ñ in a family where your wanting it is itself seen as a problem.",
+  "source_model": "gemini"
+}

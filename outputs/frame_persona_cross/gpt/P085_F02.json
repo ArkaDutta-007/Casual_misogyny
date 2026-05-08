@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "A: Arre kal se bahu bahut gussa kar rahi thi.\nB: Kya pata, auraton ka woh mahine ka chakkar hoga. Tab kuch bhi bolo toh ulta hi sunati hain.\nA: Haan, phir chup rehna hi theek. Baad mein normal ho jaati hain.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger as caused by her menstrual cycle rather than treating it as valid. It uses a direct period-related attribution and normalizes the idea that women become irrational or unreasonable during that time.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

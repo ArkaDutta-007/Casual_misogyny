@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Santosh: Arre bahu, shaadi ke baad thoda sindoor-mangalsutra pehna karo, suhagan aurat pehchaan mein achchi lagti hai. Aajkal ki padhai-likhai apni jagah hai, par hamari parampara bhi koi cheez hoti hai.\nWife: Haan, isse ghar-grihasthi ka bhi maan rehta hai.\nSantosh: Aur naam badal lena bhi bura kya hai, pati ke ghar se hi to aurat ki asli pehchaan banti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers and name change as tradition, respectability, and a woman's proper identity rather than control. It encodes pressure to wear sindoor/mangalsutra and presents name change as natural, implying a married woman's identity should be tied to her husband.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gpt"
+}

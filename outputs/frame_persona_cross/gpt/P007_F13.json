@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: These days in offices also, some women overdo this makeup and then say they are being judged. Professional lagna chahiye, but itna artificial bhi nahi ki asli face hi alag lage.\nB: Haan sir.\nA: Simple, well-kept appearance is best. Otherwise if they come completely careless people say they have let themselves go, and if they do too much then it looks like attention-seeking.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: women are expected to look groomed but are criticized if makeup is seen as excessive or artificial. It encodes the 'natural beauty' preference, deception framing, and appearance obligation in a professional context.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Kisi ne sahi kaha hai, 'Maa ke haath ka khana, woh sirf pet nahin, dil bhi bharta hai.' My Ammi never once complained, whether it was biryani or just dal chawal, she would spend hours in the kitchen making sure everything was perfect, all with so much love. Today, kids want instant food... but that taste, that magic, woh kahan milegi? That's what truly makes a home. ❤️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This message glorifies the mother's domestic labor (cooking) as an act of pure love and sacrifice ('never once complained,' 'spent hours... with so much love'), thereby erasing the labor itself. It implicitly sets a standard for mothers/women by contrasting this traditional 'magic' with modern 'instant food,' suggesting that genuine love and the true essence of a home are tied to this specific type of tireless, unpaid domestic work, encoding an expectation for wives/DILs.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar Neha was so dramatic about the dinner plans last night. Matlab, itna bhi kya fight karna? 🙄 Guess it's 'that time of the month' for her. Kidding, kidding! But you know how it is, right?",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Vikram attributes his wife's 'dramatic' reaction to her period ('that time of the month'), dismissing her emotional state as biologically determined. The 'kidding, kidding!' serves as a common 'harmless joke' defense, even though the underlying misogynistic belief is clearly expressed. This encodes the surface manifestation of attributing a woman's emotional state to her period/hormones.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gemini"
+}

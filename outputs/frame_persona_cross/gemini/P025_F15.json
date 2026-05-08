@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Toh Anjali, maine dekha tha, Ritu ko... uski shaadi hue abhi ek saal bhi nahi hua, aur office mein kabhi sindoor nahi lagati. I mean, it's totally her personal choice, right? Lekin yaar, jab suhagan ho, toh lagane se ek alag hi... completeness aati hai. Ek nazar lagti hai. Maa bhi bolti hain, achha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ananya expresses disapproval when a married woman does not wear sindoor, framing it as a matter of 'completeness' ('poorn nari') and auspiciousness ('nazar lagti hai'), despite ostensibly acknowledging 'personal choice'. This reflects the surface manifestation of judging women who don't wear marital markers.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in our house we’ve just kept it practical. He handles finances, bills, car servicing and all the outside running around because he’s better at that, and I manage the kitchen and day-to-day home stuff because that comes more naturally to me. He does help when needed of course, and everyone says I’m lucky he’ll even make chai if I’m on deadline.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as merely practical, assigning external/financial tasks to the man and domestic management to the woman. It also encodes the 'he helps her' framing and celebrates minimal male contribution as exceptional.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

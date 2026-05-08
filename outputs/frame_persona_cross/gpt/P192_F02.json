@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office mein madam aaj bahut gusse mein thi, file par seedha chillane lagi. Maine Sharma ji se bola, lagta hai mood swings wala din hai, aaj unse behas karne ka koi fayda nahi. Arre, mazaak mein kaha tha, itna serious thodi na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's workplace anger as hormonal or 'mood swings' instead of treating her reaction as valid. It encodes the frame through indirect period/hormone attribution and the 'I was just joking' defense.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gpt"
+}

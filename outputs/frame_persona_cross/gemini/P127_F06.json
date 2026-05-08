@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Dekho beta, zamana kitna bhi badal jaaye, kuch baatein toh waise hi rehti hain. Ladke na, wo seedha 'nahi' jaldi samajhte nahi hain. Agar koi zyada pareshaan kare, toh bas keh dena ki tum engaged ho, ya ghar pe bhai hai jo sab dekh raha hai. Fir dekhna, apne aap raasta chhod denge. Ladki jab kisi ki ho jaati hai na, tab unki izzat badhti hai. Tab koi ulta seedha bolne se pehle sochta hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Kamla, a grandmother, advises her granddaughter that a man's claim (being engaged or having a brother) is more effective at deterring unwanted male attention than her direct refusal. This encodes the surface manifestation of stopping pursuit only after learning a woman is 'taken' and implicitly treating male ownership as the true deterrent, rather than respecting her 'no'.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gemini"
+}

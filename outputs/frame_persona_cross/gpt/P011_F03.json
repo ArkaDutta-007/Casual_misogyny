@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro promotion theek hai, but once kids happen na, someone has to be there for school, doctor, all that. Usually mom handles it better only, warna bachche hi adjust karte rehte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and emotional labor as primarily the mother's responsibility while treating that division as common sense. It encodes the surface manifestation that mothers, not fathers, are expected to manage school, medical, and daily child-related duties.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

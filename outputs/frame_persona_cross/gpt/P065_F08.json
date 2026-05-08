@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Anita: I’m telling you, she knew very well he is married and still kept messaging him. These women only want attention and don’t care if a whole family gets disturbed, bilkul serial wali baat hai.\nSister: Hmm.\nAnita: Men can be foolish for a moment, but a woman like that deliberately enters and creates problems in someone else’s home.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the other woman for the affair while minimizing the man's responsibility. It reflects homewrecker framing, seductress logic, and family-protection rhetoric through clear blame asymmetry.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

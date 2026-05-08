@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand women have valid safety concerns, but I do feel we are becoming unfair to men as a whole. In our office also, some women openly say they don't trust male colleagues for late calls or travel, and honestly that is not right when many of these men are decent professionals and family people. We should be careful not to generalise or make every man feel like a suspect for the behaviour of a few.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it recenters men's hurt feelings and reputational discomfort in response to women's safety concerns. It encodes the 'not all men' dismissal and frames women's wariness as unfair generalisation rather than a response to systemic risk.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Divya: Honestly, for family functions I still feel saree or at least a proper salwar looks much more decent. These very western, short outfits just invite unnecessary attention, and then people act surprised when boys stare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing with decency and subtly blames harassment on 'western' dress. It encodes the traditional-equals-respectable framing and the clothing-harassment link.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

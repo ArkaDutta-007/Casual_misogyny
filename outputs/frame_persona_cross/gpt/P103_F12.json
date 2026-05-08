@@ -1,0 +1,12 @@
+{
+  "persona_id": "P103",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Daughter: Ma, aaj kal bachche jo muh se bolte hain, bahut ganda lagta hai.\nKamla: Arre chhod na, aaj kal ke ladke aise hi bol dete hain, har baat ko aurat par thodi le jaana chahiye. Gussa nikalne ko bol diya, iska matlab thodi na kisi ki maa-behen ko sach mein keh rahe hain.\nDaughter: Par sunne mein bura lagta hai.\nKamla: Bura to lagta hai, par itna bhi kya pakadna, zabaan ka chalan hai bas.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abusive language by dismissing it as ordinary speech and 'just expression.' It encodes the meta-defense that such insults are not really about women, which reproduces misogynistic language structures without explicit hostility.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation:\nA: You still don’t wear your mangalsutra regularly?\nPriya: I’m not rigid about these things, but honestly, a married woman does look more settled with some visible sign. It’s not about control yaar, it’s part of our parampara, and completely dropping it feels unnecessarily dismissive of that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as natural, respectable, and culturally appropriate for married women, without explicitly invoking control. It encodes completeness/settledness framing and disapproval of women who reject married identity markers under the language of tradition.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Aajkal ke ladke har baat mein woh maa-behen wali gaali jod dete hain, jaise bina uske baat poori hi na ho.\nB: Haan, aur koi tok de to bolte hain bas muh ki aadat hai, itna matlab thodi hota hai.\nA: Matlab ho ya na ho, aurat ka naam gira ke hi zor dikhana hai, yahi to buri baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes and discusses the common structure of female-degrading gaalis as part of everyday speech, centering women as the vehicle for insult. It encodes the meta-conversation around 'it's just a habit/just words' defense described in the frame.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

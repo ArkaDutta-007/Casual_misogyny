@@ -1,0 +1,12 @@
+{
+  "persona_id": "P009",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Kaam karna theek hai, par ghar ka hisaab aur bachcha sambhalna to aurat ke hi haath mein achchha lagta hai, wahi practical hai.\nB: Haan, mard log bahar ka daud-dhoop dekh lete hain.\nA: Bas kabhi-kabhi pati chai bana de ya kapda utaar de to log bolte hain bada modern hai, par asli zimmedari to aurat par hi rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as simply 'practical' rather than unequal. It encodes the frame through 'women handle home, men handle outside work' and by praising minimal male domestic help as unusually modern.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "gpt"
+}

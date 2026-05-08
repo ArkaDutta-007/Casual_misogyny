@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: Madam theek hain, kaam bhi sambhal leti hain. Bas mere hisaab se aurat ki asli izzat tab samajh aati hai jab usse kisi ki beti, bahu ya maa samajh ke dekho.\nB: Haan, woh nazariya rahe to banda line cross nahi karta.\nA: Bas wahi, duty pe officer hain, par izzat isliye bhi deni chahiye kyunki ghar mein bhi kisi ka sahara hoti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames respect for a woman primarily through her family roles—daughter, daughter-in-law, mother—rather than her personhood or professional identity. It encodes relational framing and conditional respect while sounding outwardly respectful.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

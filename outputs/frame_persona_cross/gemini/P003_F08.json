@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Dekho na, woh Sharmaji ke bete ka jo affair ka mamla chal raha hai. Us ladki ne toh pura ghar tod diya hai. Pata nahi kaise phasaya usko, jab pata tha ki woh shaadi-shuda hai. Aisi auratein hi ghar barbaad karti hain, mard toh bechare fas jaate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment attributes the complete blame for an affair and 'breaking a home' to the woman involved, using 'usne phasaya' (she trapped him) and emphasizing she knew he was married. The man is portrayed as a victim ('mard toh bechare fas jaate hain'). This aligns with the 'Homewrecker Framing / Women as Seductresses' surface manifestation of blaming the female party for 'breaking' a family and excusing the man.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gemini"
+}

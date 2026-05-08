@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi ek legal risk ho gayi hai for men, especially if the boy is well-settled. One divorce and suddenly alimony, 498A, maintenance sab laga do—phir bolte hain women are oppressed. Frankly, prenup jaisi system India mein honi chahiye, warna seedhe-saadhe ladkon ko hi reverse dowry deni pad rahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative and presents marriage/divorce law as unfairly weaponized against men. It encodes victimhood inversion, 498A misuse rhetoric, and the 'alimony as reverse dowry' manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

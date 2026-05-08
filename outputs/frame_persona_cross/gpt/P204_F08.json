@@ -1,0 +1,12 @@
+{
+  "persona_id": "P204",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, aadmi se galti ho jaati hai kabhi kabhi, lekin woh aurat ko toh sharam honi chahiye thi na, jab pata tha ki woh shaadi-shuda hai. Aisi hi auratein ghar todti hain, bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment excuses the married man as someone who merely made a mistake while placing primary blame on the woman for the affair. It encodes blame asymmetry and the 'homewrecker' framing, portraying the woman as responsible for breaking the family.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepa. Age 52. Married for 28 years. A homemaker in Delhi. Your daughter in law Priya came to you two weeks ago and told you something about your son Ñ something about what happens at night in their room when she says no. You did not know what to say. You told her to be patient, that these things happen in marriages, that she needs to understand her husband's needs. Priya has not come back to you since. You are sitting alone in the kitchen tonight thinking about what Priya told you and what you said and whether what you said was right and whether what your son is doing has a name and whether that name changes anything and what you would lose if you admitted it does.",
+  "source_model": "gpt"
+}

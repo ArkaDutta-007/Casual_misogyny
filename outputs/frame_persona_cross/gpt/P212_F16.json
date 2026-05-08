@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre bhai, isme bura maan ne wali kya baat hai? Har ghar mein jo jahan better ho, wahi sambhalta hai—mard bahar ke kaam, paisa-vaisa, gaadi, bank dekh lete hain, aur aurat ghar, bachche, rasoi zyada theek se sambhal leti hai. Aajkal ke ladke thoda help kar dete hain kitchen mein toh accha hai, lekin poora system ulat dene se practical thodi ho jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a gendered division of labor as natural and efficient rather than unequal. It encodes the 'jo jahan better hai' practicality logic and praises minimal male domestic work as 'help' instead of shared responsibility.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

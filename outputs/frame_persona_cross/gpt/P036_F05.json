@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, in India every successful man should think twice before marriage now. Aajkal ki ladkiyaan talk about equality, but at divorce suddenly they want maintenance, house, everything — it becomes reverse dowry only. And everyone knows 498A gets misused so much, but still the system assumes the man is guilty from day one.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially exploitative and frames legal protections and post-divorce support as tools for women to extract money from men. It encodes the 'reverse dowry/alimony' trope, financial suspicion toward women, and the claim that 498A is widely misused under a men's-rights framing.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Hahahaha sahi pakda, usme bhi HR ka naya-naya 'gender equality' ka gyaan. But seriously yaar, what if humara project deadline hai and people start taking off? Productivity pe toh impact aayega na. Hum male employees ko kab milega 'stress leave'?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness of menstrual leave by framing it as 'special treatment' that disadvantages men, using a reverse discrimination argument ('what about men?'). It also invokes a productivity/cost argument, implying women's leave will negatively impact project deadlines, which aligns with the core belief that women's biology makes them a workplace liability.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

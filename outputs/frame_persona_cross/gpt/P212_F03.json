@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre bhai, naukri apni jagah hai, lekin chhote bachchon ko sambhalna toh maa ka hi kaam hota hai. Baap jitna bhi kar le, maa jaisi dekhbhal thodi ho sakti hai—career baad mein bhi ban jayega, bachpan dobara nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary responsibility and treats fathers as secondary caregivers. It encodes career sacrifice framing and the belief that a woman's ambition should yield to childrearing.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

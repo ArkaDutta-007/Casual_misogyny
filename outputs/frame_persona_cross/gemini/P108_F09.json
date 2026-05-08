@@ -1,0 +1,12 @@
+{
+  "persona_id": "P108",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Hi beta, saw your story from last night. So late? Please be careful, aajkal Kolkata is not safe for girls after dark. Better to avoid going out alone, or just try to come back by 9-10. Apna khayal rakhna.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from an older woman to a younger one, covertly suggests that a woman's safety is her own responsibility by restricting her movement and activities ('avoid going out alone', 'come back by 9-10'). It frames these restrictions as loving protection ('Please be careful', 'apna khayal rakhna') and uses the 'aajkal zamaana kharab hai' trope ('Kolkata is not safe for girls after dark') without addressing male violence as the root cause.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gemini"
+}

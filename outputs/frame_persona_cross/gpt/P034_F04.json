@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I’m sure she’s smart, but let’s be honest, these days senior roles also come with a big diversity push. Half the time if a woman reaches that level, people start wondering whether it was pure merit or optics, because the genuinely capable ones usually have to become so aggressive they’re basically thinking like men.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions as driven by quotas or optics rather than merit, and frames competence in leadership as requiring women to 'think like men.' It encodes merit undermining and masculinization in a corporate, plausibly deniable register.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

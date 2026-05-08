@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Bro I’m all for modern thinking, but shaadi ke baad thoda sindoor ya mangalsutra ho to alag hi grace aati hai, proper married lagti hai. Aajkal kuch girls bolti hain choice hai, theek hai, but phir tradition ka matlab bhi hota hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as what makes a woman look properly married and implies rejecting them is disrespecting tradition. It encodes the surface manifestations of completeness framing, tradition framing, and mild judgment of women who do not wear these markers.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

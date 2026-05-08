@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: I told him clearly I'm not interested, but he kept messaging like it's some joke. Then the minute he found out I'm married, suddenly it became, 'Oh sorry ma'am, I respect that.'\nB: Exactly, these men won't listen to a woman saying no, only if she belongs to some man they understand boundaries.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This encodes the idea that a woman's rejection is less meaningful than her attachment to a man. It reflects the surface manifestation of ignoring direct disinterest until learning she is 'taken,' then framing disengagement as respect.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

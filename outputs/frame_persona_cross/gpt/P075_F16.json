@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly jo jahan better ho wahi handle karna practical hai. Mostly guys outside work, finances, repairs vagera dekh lete hain and women naturally home management, cooking, kids better sambhaal leti hain — isme sexist kya hai if both are okay with it? Har cheez 50-50 karke force karne se better hai ki ghar smoothly chale.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as 'practical' and assumes men are better at finances/external tasks while women are better at domestic work and childcare. It encodes the efficiency framing and 'we chose this/if both are okay with it' surface manifestation typical of covert misogyny.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

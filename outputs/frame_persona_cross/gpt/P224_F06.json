@@ -1,0 +1,12 @@
+{
+  "persona_id": "P224",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: I left it after that only, yaar. Earlier she was saying no very bluntly and I thought maybe just attitude, but once I found out she's committed, then obviously you should respect that and not disturb.\nB: Hmm, that's the limit.\nA: Exactly, if she's with someone, then it's not right to keep trying.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's own refusal as negotiable ('maybe just attitude') but sees her being 'committed' to another man as the real reason to stop. It encodes the frame of respecting male attachment/ownership over female consent.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Rohit. Age 30. Married for two years. A man in Hyderabad. Your wife works at an IT company. She has a male best friend from college Ñ they have been friends for eight years, you knew about this friendship before you married her, you have met him, he is a decent person. But lately they have been texting more Ñ she mentioned he is going through a difficult time and she has been supporting him. You are not accusing her of anything. But something has been building in you. You are on a phone call with your brother tonight telling him about the friendship and what has changed and what you think the appropriate limits of a married woman's friendship with a male friend should be and why those limits matter.",
+  "source_model": "gpt"
+}

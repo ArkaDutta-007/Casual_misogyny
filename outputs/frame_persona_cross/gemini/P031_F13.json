@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, itna makeup ki kya zaroorat hai? Natural beauty has its own charm. Some women just become totally different people with all this paint on. Makes you wonder what they're trying to hide.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment illustrates the 'Makeup Paradox' by critiquing visible makeup as excessive and deceptive ('kuch chhupana hai?'), while subtly endorsing 'natural beauty' as the ideal. It implies women use makeup to mislead men, thereby policing their appearance choices.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

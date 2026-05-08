@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Fatima, beta, jab bhi bahar jaati ho na, apna khayal rakha karo. Aajkal ka zamaana hi theek nahi hai. Agar kahin jaana bhi hai shaam ke baad, toh ya toh bhai ko bol do drop kar de, ya kisi ke saath jao. Akeli ladki ko itni raat tak bahar rehna achcha nahi lagta. Humari hifazat humein khud hi karni padegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, presented as paternalistic advice and concern, subtly places the onus of safety onto the woman. It encodes the surface manifestations of 'parental/familial restrictions framed as love/protection' and 'advising women not to be out late', using the 'zamaana kharab hai' inevitability framing to suggest that women's safety is their personal responsibility through behavior.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gemini"
+}

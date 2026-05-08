@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, after seeing so many cases around us and in the news, it makes you wonder if marriage is becoming a trap for men. Women today seem more interested in financial security than actual partnership. IPC 498A jaise laws bhi bas weapon ban gaye hain, husbands ke paas toh koi protection hi nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment generalizes about women's motivations in marriage, claiming they are primarily interested in financial security. It leverages the India-specific 'IPC 498A misuse' narrative to suggest the legal system is biased against men, thereby framing marriage as a 'trap' and subtly portraying women as exploiting legal provisions for financial gain, a core tenet of the 'women as golddiggers' frame.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

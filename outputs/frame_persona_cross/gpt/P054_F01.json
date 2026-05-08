@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "I understand the intent behind period leave and extended maternity benefits, but from an HR planning perspective we also have to look at fairness and business impact. If one team member can be unavailable for biological reasons and the workload gets redistributed, naturally it affects project allocation, appraisals, and team morale. We should be careful that supportive policies do not end up becoming an unintended disadvantage for others in the team.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's menstruation and maternity as workplace liabilities and casts accommodations as unfair 'special treatment.' It encodes productivity/cost arguments and reverse-discrimination framing rather than explicit hostility.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

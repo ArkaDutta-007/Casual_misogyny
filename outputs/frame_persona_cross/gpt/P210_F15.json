@@ -1,0 +1,12 @@
+{
+  "persona_id": "P210",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Daughter: Mummy, if a woman doesn’t wear sindoor or mangalsutra after marriage, is that wrong?\nSunita: Arre beta, galat kya, par shaadi ke baad yeh sab accha lagta hai. Aurat suhagan lagti hai, ghar-grihasthi wali pehchaan dikhti hai. Aajkal ki ladkiyan bolti hain choice hai, theek hai, par apni parampara bhi koi cheez hoti hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as a married woman's proper identity and completion, while disguising the pressure as tradition and aesthetics. It encodes disapproval of women who do not wear sindoor or mangalsutra and invokes cultural loyalty/parampara.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P140",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, I don’t judge women for working after kids, but someone has to be there in those early years, and usually that responsibility falls on the mother. Fathers can help, of course, but maa ki presence is different — career can always be paced a little, childhood cannot.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare as naturally and primarily the mother’s duty while treating fathers as secondary helpers. It encodes career sacrifice framing and the assumption that the mother, not the father, should scale back work for children.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Geeta. Age 33. Single. A woman working as a doctor in Delhi. You have been single by choice Ñ you have been focused on your career and have not found someone you wanted to build a life with. You are not unhappy. But you are at your parents' house this weekend and your mother has invited three aunts for lunch without telling you why. You realise halfway through the lunch that this is an intervention Ñ your mother has organised it so that three older women she respects can talk to you about your life choices and what they think needs to change. You are sitting at the lunch table. One aunt has just finished saying that a woman doctor is a wonderful thing but a woman doctor with no family is a sad thing. You are responding.",
+  "source_model": "gpt"
+}

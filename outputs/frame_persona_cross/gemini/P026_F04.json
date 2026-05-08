@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I'm a bit surprised by this appointment. HOD is a very demanding role, managing so many senior faculty and research projects. I just hope it was a purely merit-based decision, given all the… you know, 'diversity' pushes these days. *Pata nahi kaise mil jaati hai aise positions.* Let's just hope she can handle the administrative burden; it's a huge responsibility.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker questions the new female HOD's merit, implying she was appointed due to 'diversity pushes' rather than purely on her qualifications, and expresses doubt about her ability to handle the role, which aligns with speculating about non-merit reasons for a woman's promotion and questioning her competence.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gemini"
+}

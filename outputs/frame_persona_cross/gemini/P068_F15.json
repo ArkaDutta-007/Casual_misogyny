@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Rajan (to his daughter, Neha): Neha, beta, you know, when you wear your mangalsutra, you look so much more... complete. Like a proper 'suhagan'. It's not just a decoration, it's a beautiful sign of our sanskriti, and really, it brings good vibes. Why keep it in the locker?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rajan subtly pressures his married daughter to wear a mangalsutra by framing it as essential for her 'completeness' and for 'good vibes' (auspiciousness). This encodes the belief that a married woman should visibly signal her marital status, aligning with the surface manifestation of commenting that a woman 'looks more complete' with markers and implicit disapproval for not wearing them.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gemini"
+}

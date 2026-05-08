@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arey yaar, but why generalize so much? *Sab mard thodi na ek jaise hote hain*. We also have sisters, daughters. It's unfair to assume every man is out to do wrong, no? It just makes us, the good guys who actually respect women, feel like we're being blamed for something we've never even thought of.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak, a businessman, uses a 'Not All Men' dismissal to invalidate women's safety concerns. He centers his own experience as a 'good guy' and expresses feeling personally insulted, framing women's wariness as an unfair generalization against men, aligning with the 'feeling personally insulted' and 'I've never done anything like that' surface manifestations.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gemini"
+}

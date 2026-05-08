@@ -1,0 +1,12 @@
+{
+  "persona_id": "P139",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolun, maa ke haath ke khane ki baat hi alag hoti hai — poori zindagi ghar walon ke liye pakaati rahi, kabhi usse kaam samjha hi nahi, bas mohabbat se karti rahi. Ghar tabhi ghar lagta hai jab aurat usi dil se rasoi sambhale; aajkal sab shortcut se hota hai, woh barkat kahan.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother’s unpaid domestic labor as her natural expression of love and sets that as the standard for women in the home. It encodes nostalgic sentimentalization, labor erasure, and an implicit expectation that wives/daughters-in-law should 'sambhale' the kitchen similarly.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gpt"
+}

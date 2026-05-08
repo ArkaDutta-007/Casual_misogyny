@@ -1,0 +1,12 @@
+{
+  "persona_id": "P202",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Dekhiye, nari ka samman hona hi chahiye, kyunki wahi kisi ki maa, behen, beti aur ghar ki bahu hoti hai. Samaj tabhi theek rahega jab hum mahila ko uske parivarik sthaan ke hisaab se izzat dena sikhen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's worth and entitlement to respect primarily through her relationships to family roles like mother, sister, daughter, and daughter-in-law, rather than as an individual person. It encodes relational framing and conditional respect in a socially acceptable, pro-woman sounding way.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "gpt"
+}

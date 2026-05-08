@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, that new product head, Ritu, she's really something, no doubt. Bohot sharp hai. Honestly, sometimes I feel she thinks like a man, very focused, no drama. But then, it also makes her seem a bit... unapproachable, you know? For a woman in that role, sometimes you need to be a bit more 'people-person', right?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it uses the 'thinks like a man' trope as a backhanded compliment, implying that a woman's competence requires her to shed feminine traits. It further imposes a double bind by criticizing her for being 'unapproachable' while simultaneously praising her 'focused, no drama' approach, suggesting a different standard for women in leadership. This encodes the 'masculinization' and 'double bind' surface manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

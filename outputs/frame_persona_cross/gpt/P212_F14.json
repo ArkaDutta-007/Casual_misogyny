@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience ka zamaana hai, lekin maa ke haath ke khane ki baat hi alag thi. Hamari maa ne poori zindagi ghar ko garam roti aur apne haath ke swaad se jode rakha, bina kabhi hisaab kiye. Ghar ki bahu bhi jab usi lagan se rasoi sambhal leti hai na, tabhi asli ghar ka sukh bana rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother’s unpaid domestic labor as her defining love and then extends that expectation to the daughter-in-law. It encodes labor erasure and standard-setting through nostalgic praise of 'maa ke haath ka khana' and the idea that a bahu should similarly sustain the home through cooking.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

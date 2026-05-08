@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, yeh jo women-only cab services aur metro compartments ki baat hoti hai na... I get the safety part, but honestly, don't you think it's a bit unfair to us good guys? Matlab, sab mard thodi na waise hote hain. It just creates more divide, unnecessary distrust.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, a senior manager, feels personally insulted by women's safety measures, framing them as an unfair generalization against 'good guys'. This encodes the 'feeling personally insulted when women discuss patterns of male behavior' and 'framing women's wariness as an insult to men' surface manifestations.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gemini"
+}

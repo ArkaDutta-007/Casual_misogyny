@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Dude, Riya was proper firing today in the stand-up. Kuch bhi chal raha tha. Hope she gets some chill soon, warna projects latkenge. Pata nahi aajkal kya ho gaya hai, maybe 'that time' of the month chal raha hai? 😂 Just joking, obviously!",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment attributes the female colleague's assertive/angry behavior directly to her menstrual cycle ('that time of the month'), dismissing her reactions as biologically determined rather than rational. The 'just joking' defense is used to soften the misogynistic insinuation, encoding the 'attributing a woman's anger or assertiveness to her period' surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

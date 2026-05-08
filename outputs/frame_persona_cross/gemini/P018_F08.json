@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, you know what my take is? A man might slip up, sure, but a home really breaks only when the 'other woman' pushes it. She knew he was married, had children, still she didn't back off. A man can only be tempted so much, but to actually *break* a family... that's on her for being so relentless.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic because it entirely blames the woman for an affair, portraying her as actively destructive ('pushes it', 'didn't back off', 'relentless') and responsible for 'breaking a home', while excusing the man's agency by saying 'a man might slip up' and 'can only be tempted so much'. This encodes the 'Homewrecker Framing / Women as Seductresses' manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gemini"
+}

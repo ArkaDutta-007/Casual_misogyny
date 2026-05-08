@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Beta, dekho, ladki kaisi bhi ho, par agar woh hamari paramparaaon ko maanti hai na, toh ghar mein shanti bani rehti hai. Jo ladki mangalsutra aur sindoor ko apna maanti hai, usi mein ek alag hi shobha aati hai. Sachhi suhagan lagti hai aur ghar ko jodkar rakhti hai. Yeh sab toh pati ki lambi umar ke liye bhi hota hai na, humara sanskriti ka hissa hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, a traditional homemaker, pressures her son to look for a girl who visibly signals her marital status. She frames the wearing of mangalsutra and sindoor as 'tradition' and 'culture,' linking it to 'shobha' (beauty/auspiciousness), 'shanti' (peace in the home), and even 'pati ki lambi umar' (husband's long life), which are key linguistic cues for completeness framing, tradition framing, and husband welfare link. This implicitly expresses disapproval of women who might not wear these markers and reinforces the idea of a married woman's identity being tied to these symbols.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gemini"
+}

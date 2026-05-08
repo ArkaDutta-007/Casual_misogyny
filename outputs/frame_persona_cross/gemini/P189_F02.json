@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Boss, meri ek colleague thi meeting mein, chhoti si baat pe itna overreact kar rahi thi. I swear, lagta hai uska 'monthly quota' of drama poora nahi hua tha! 🤣 Just saying, bro.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Imran dismisses a female colleague's reaction as 'drama' and indirectly attributes it to menstruation ('monthly quota'), encoding the belief that women's emotional states are biologically determined and thus less valid. The 'Just saying, bro' functions as a humor defense.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

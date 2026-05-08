@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Hearty congratulations to Ms. Desai on her new appointment as Head of Strategy! It's always good to see women breaking barriers. However, I sometimes wonder if, in our zeal for 'diversity' metrics, we inadvertently risk overlooking pure merit. We need to ensure that leadership roles are filled by the most competent individuals, irrespective of gender, not just to tick a box. Just a thought for healthy corporate governance.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram, a marketing manager, expresses a belief that women's promotion might be due to diversity quotas rather than pure merit, subtly undermining the competence of the woman in question under the guise of advocating for 'corporate governance' and 'pure meritocracy'. This encodes the 'Merit undermining' manifestation.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gemini"
+}

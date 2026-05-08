@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Dekho, galat log har jagah hote hain, but aaj kal aise baat hoti hai jaise har aadmi suspect ho. Main toh itne saalon se business aur society mein hoon, kabhi kisi aurat ke saath badtameezi nahi ki, phir bhi women act as if trusting any man is foolish. Fairness naam ki bhi koi cheez hoti hai; sab mardon ko ek category mein daal dena theek nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and centers male hurt at being generalized, rather than acknowledging the structural reasons for women's caution. It encodes the 'not all men' response, self-identification as a good man, and demand that women show trust for the sake of fairness.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

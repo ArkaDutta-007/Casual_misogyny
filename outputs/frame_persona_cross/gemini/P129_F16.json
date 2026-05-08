@@ -1,0 +1,12 @@
+{
+  "persona_id": "P129",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, my husband is great. He takes care of all the outside stuff, like finances and all the paperwork. For home, I just naturally manage better with cooking and everyday things. He even helps out sometimes, like he'll make his own coffee in the mornings, which is really sweet. It just works for us, you know? Very practical.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita's comment frames the traditional gendered division of labor ('he handles finances, I manage home') as natural and 'practical.' She also celebrates minimal male contribution ('makes his own coffee') as 'sweet' help, highlighting the low bar for male participation, a key manifestation of this frame.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Sunita. Age 37. Married. A woman working as a bank officer in Chennai. You wake up at 5:30am every day to cook before work. Your husband wakes up at 7:30am. You come home and cook again. Your husband comes home and sits. On weekends you clean. Your husband relaxes. You have brought this up twice. Both times your husband said he is happy to help and then did not help. You are on a phone call with your sister tonight. You are not angry in the way you were when you first brought it up with your husband. You are tired in a different way Ñ a way that has settled into your body over five years and become part of the landscape of your life. You are telling your sister something specific that happened this week that is small and should not matter and somehow is the thing that has made everything clear to you.",
+  "source_model": "gemini"
+}

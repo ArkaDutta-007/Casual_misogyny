@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Deepak: Dekhiye, school administration mein continuity bahut important hoti hai. Aaj kal har jagah period leave, maternity leave, childcare leave alag se mil raha hai, toh practical difficulty toh hoti hi hai. \nTeacher 2: Haan, staff adjustment mushkil ho jata hoga.\nDeepak: Bas wahi, fairness ka bhi sawaal hai. Purush staff ko koi extra leave nahi, aur phir timetable, exam duty, sab last moment par adjust karo — institution ka kaam bhi toh dekhna hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biological and reproductive needs as an institutional burden and questions the fairness of accommodations given only to women. It encodes workplace bias through fairness/productivity framing around menstrual, maternity, and childcare leave.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I don’t get girls who do full makeup for internship every day. Natural rehna is better na, otherwise later people see you without it and feel misled, but if you come looking too plain also it looks like you didn’t even try to be presentable.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it enforces a double bind on women’s appearance: too much makeup is framed as deceptive, while too little is judged as failing to be presentable. It encodes the 'natural beauty' preference, deception framing, and appearance obligation surface manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

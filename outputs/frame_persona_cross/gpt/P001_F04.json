@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Our new BU head is smart, no doubt, but sometimes you do wonder if these fast-track promotions are fully merit or partly diversity optics. She is quite sharp though, almost thinks like one of the guys, which is probably why management likes her for tough roles.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by suggesting her promotion may be due to diversity considerations rather than competence. It also uses masculinization as a backhanded compliment by implying her effectiveness comes from being 'like one of the guys.'",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

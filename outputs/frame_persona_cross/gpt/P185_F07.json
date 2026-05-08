@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Amira beta, tum salwar kameez ya simple dupatte mein zyada achchi aur shareef lagti ho, wahi tum par suit karta hai. Aaj kal jo western kapde pehenti ho na, log galat matlab nikalte hain, phir bekaar ki baatein hoti hain. Hamare ghar ki ladki ko thoda maryada mein rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and implies that western dress invites judgment or mistreatment. It encodes the traditional-as-decent framing, backhanded preference for modest clothing, and subtle victim-blaming through 'log galat matlab nikalte hain.'",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gpt"
+}

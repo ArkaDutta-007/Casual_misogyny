@@ -1,0 +1,12 @@
+{
+  "persona_id": "P137",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Meena: Arre, aajkal ki ladkiyan sab kuch kar leti hain, lekin ghar sambhalna alag baat hoti hai. Hamare yahan toh practical division hai ji, papa log bahar ke kaam aur hisaab dekh lete hain, aur aurat ghar, rasoi, bachchon ko better sambhal leti hai.\nHusband: Haan, jo jahan better ho wahi theek hai.\nMeena: Bas, isi mein sukoon rehta hai. Mard kitchen mein do cheez kar de toh log bolte hain kya modern husband hai, par roz ka ghar toh aurat ko hi dekhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient, rather than socially enforced. It encodes the frame's surface manifestations of 'he handles outside work/finances, she handles home' and praising minimal male domestic contribution as exceptional.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gpt"
+}

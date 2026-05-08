@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bhai job-vob theek hai, but after kids mostly mom ko hi manage karna padta hai na. Dad help kar de toh achha hai, par maa jaisa kaun dekhega bachchon ko 😅",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary responsibility while treating the father as someone who merely 'helps.' It encodes the surface manifestation of assuming the mother will manage children and exceptionalizing paternal involvement.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

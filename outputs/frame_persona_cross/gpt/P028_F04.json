@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro, half these senior women leaders in corporates are either diversity fast-tracks or they become so hyper-aggressive just to prove they belong. Then if you push back, suddenly you're the problem. Merit ka scene hi alag ho jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by attributing their advancement to diversity policies and frames their leadership style as unnaturally aggressive. It encodes merit-undermining and the gendered double bind around women's competence in leadership.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

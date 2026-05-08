@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Staff room e abar oi rokom holo — Rina di just asked for a small change in the timetable and one of the male teachers laughed, 'Arre madam, time of the month naki? Itna serious kyun ho rahe ho, I was just joking.'",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's reasonable request by attributing it to menstruation and being 'too serious.' It encodes the surface manifestation of asking if it's 'that time of the month' and then hiding behind 'just joking.'",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

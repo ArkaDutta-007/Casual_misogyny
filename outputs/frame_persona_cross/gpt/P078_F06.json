@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Honestly if a girl says no but later you find out she's already with someone, then you should back off and respect that. Random attitude can be confusing, but if she's committed then line cross nahi karna chahiye. Basic decency hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's attachment to another man as the decisive reason to stop, while treating her own refusal as ambiguous 'attitude.' It encodes the surface manifestation of accepting male ownership/relationship status over the woman's direct consent.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

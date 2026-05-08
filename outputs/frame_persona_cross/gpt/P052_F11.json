@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ki asli izzat tab samajh aati hai jab use maa, beti ya bahu ke roop mein dekha jaye. Har ladki kisi na kisi ghar ki izzat hoti hai, isliye uske saath hamesha waise hi pesh aana chahiye jaise apni behen-beti ke saath karte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s worth and dignity through family roles rather than as independent persons. It encodes relational framing and conditional respect: women are respected as someone’s mother, daughter, or daughter-in-law.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

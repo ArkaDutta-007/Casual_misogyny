@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Ramesh: Arre, aai cha haathacha jevan alagach asta re, tyat prem asta, hisaab nahi asto.\nFarmer 2: Ho, aajkal tayar packet cha khana zasta zala.\nRamesh: Mhanunach mhanto, ghar sambhalnari bai madhe ti mamta pahije; fakt navin goshti karun hot nahi, kutumbala roj garam bhakri-bhaaji dene hi mothi goshta asta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a mother's cooking and selfless domestic labor as the standard of feminine love, while implying that a good wife should provide daily homemade food. It encodes labor erasure and comparison of women through domestic service.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

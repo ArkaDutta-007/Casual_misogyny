@@ -1,0 +1,12 @@
+{
+  "persona_id": "P153",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Woke up today craving Maa's aloo parathas. It just hit me how much selfless love and effort went into every single meal my mother prepared for us, day after day, year after year. She never once complained, just made sure our plates were always full and our tummies happy. Truly, no Michelin star chef can replicate the magic of a mother's kitchen. It wasn't just food, it was her heart poured into every bite. Such unconditional dedication is truly inspiring and makes you wonder how they managed it all, isn't it? #MaaKiRasoi #UnconditionalLove #HomeCooking",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) as 'selfless love' and 'unconditional dedication', thereby erasing its nature as work. It sets a nostalgic and idealized standard ('magic of a mother's kitchen') for female domestic performance, implicitly comparing it to modern efforts.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gemini"
+}

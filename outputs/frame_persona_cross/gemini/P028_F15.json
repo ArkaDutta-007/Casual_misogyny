@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Dude, saw Rohan's wife at the office party last week. She's really sweet and all, but I noticed she never wears sindoor or anything, you know? I mean, it's her choice, totally, but sometimes it just feels a bit... adhura. Like something's missing from the whole married look, yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it subtly expresses disapproval and judgment of a married woman for not visibly signaling her marital status through traditional markers like sindoor, framing her appearance as 'incomplete' ('adhura'). It masks this social pressure under the guise of respecting 'personal choice', a common manifestation of this frame. It encodes the 'disapproval when a married woman does not wear visible married markers' and 'completeness framing'.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gemini"
+}

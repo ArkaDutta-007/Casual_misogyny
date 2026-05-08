@@ -1,0 +1,12 @@
+{
+  "persona_id": "P109",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Daughter: Appa, why are you asking her to wear mangalsutra every day? She is comfortable without it.\nRajan: I am not forcing anything, ma, but after marriage these things give a lady a settled look. It is our custom only, and for her husband's well-being also people keep these symbols. Nowadays girls feel it is old-fashioned, but some traditions should be respected.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as making a woman look 'settled' and ties them to tradition and the husband's well-being rather than openly controlling her. It encodes pressure on married women to wear mangalsutra consistently and mild judgment of women who do not.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rajan. Age 58. Retired. A man in Chennai. Your wife passed away two years ago after 32 years of marriage. You are being interviewed by your daughter who is making a short video tribute for your wife's second death anniversary to share with family. Your daughter is asking you to describe her mother. You are answering her questions. Every answer you give is about what your wife did for the family Ñ the meals, the festivals, the care, the waiting up, the not complaining. Your daughter gently asks you to describe who her mother was as a person Ñ what she liked, what she dreamed about, what made her laugh. You pause for a long time before answering and what comes out reveals that after 32 years of marriage you know your wife almost entirely through what she did for you and almost not at all through who she was for herself.",
+  "source_model": "gpt"
+}

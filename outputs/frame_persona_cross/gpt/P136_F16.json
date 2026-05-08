@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arjun: Bro, in most homes it just works better no? Jo jahan better hai. I’ll handle money, bills, outside stuff, and she can manage the house side.\nFriend: But if she’s also working full time?\nArjun: Haan then I’ll help obviously, I’m not that guy, but daily cooking and all women usually handle better only. Why make everything a gender debate when practical arrangement is there?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames a gendered division of labor as natural and efficient rather than unequal. It encodes the surface manifestations of 'he handles finances, she handles home' and the 'I’ll help' framing that treats domestic work as primarily the woman’s responsibility.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gpt"
+}

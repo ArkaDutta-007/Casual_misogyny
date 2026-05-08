@@ -1,0 +1,11 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Meena: Aajkal ke ladke har baat mein woh maa-behen wali gaali jod dete hain, jaise bina uske baat hi poori nahi hoti. Main Karan ko bhi bolungi, gusse mein bhi zubaan sambhalni chahiye, aur kisi ladke ko neecha dikhane ke liye usko aurat jaisa bolna bhi theek nahi hai.\nHusband: Haan, aadat samajh ke chhod dete hain log.\nMeena: Bas wahi galat hai, aadat bolke sab normal kar diya.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is non-misogynistic because the speaker criticizes normalized female-degrading gaalis and rejects using femininity as an insult. It targets the meta-conversation around everyday abusive language rather than endorsing it.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

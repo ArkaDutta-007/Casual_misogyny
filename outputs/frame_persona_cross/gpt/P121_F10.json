@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar I get that women have to be careful, but this blanket suspicion of every guy is honestly unfair. If someone avoids sitting next to me in the cab or acts like all men are potential threats, how am I supposed to not take that personally? Main toh aisa banda hoon hi nahi, and good men also end up getting judged for no reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it centers the man's hurt feelings over women's safety concerns and dismisses generalized fear as unfair prejudice. It encodes the 'not all men' response, personal offense at women's wariness, and the demand that women perform trust toward men deemed 'good'.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

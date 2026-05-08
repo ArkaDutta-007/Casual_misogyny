@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar, I genuinely don't get why some people get so triggered over these gaalis. It's just a word we use casually among friends, na? No one actually means anything by it, it's just an expression.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic because it dismisses the inherent female-demeaning structure and impact of 'gaalis' by framing their use as 'just an expression' and 'not meaning anything by it'. This aligns with the surface manifestation of 'defending gaali use as 'just expression, not actually about women'' and the normalization of such language.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gemini"
+}

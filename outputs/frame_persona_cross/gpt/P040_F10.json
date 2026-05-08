@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Arre, sab mard ek jaise thodi hote hain. Har baat mein ladkiyan aisa bolti hain jaise saamne wala pakka galat hi hoga.\nB: Par darr toh rehta hai na.\nA: Darr apni jagah, par jo seedhe-saadhe aadmi hain unko bhi shak ki nazar se dekhna theek nahi. Achhe mardon ko bhi bina wajah blame karna kaisa insaaf hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the feelings of 'good men' and policing generalizations about men. It encodes the 'not all men' response and frames women's wariness as unfair blame rather than a reaction to systemic risk.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal ke ladke jo do-chaar gaali muh se nikal dete hain, usme itna gender-vender mat dekho. Hamare time se bolte aa rahe hain, bas expression hota hai.\nB: Par tum log ladke ko neecha dikhane ke liye bhi aurat se compare kar dete ho.\nA: Arey woh bhi bolne ka tareeka hai, literally thodi na. Har baat ka ideology bana denge to normal baat-cheet bhi mushkil ho jayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abusive language as 'just expression' and dismisses concerns about its gendered structure. It encodes the frame's core defense: common gaalis and feminizing comparisons are treated as harmless, not recognized as misogynistic.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

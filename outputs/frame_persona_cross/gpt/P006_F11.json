@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Bro honestly women ko respect dena chahiye, end of the day woh kisi ki maa, behen, beti hoti hain. Isi liye unke liye thoda extra consideration dena is not wrong yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames respect for women through their relationship to others (mother, sister, daughter) rather than their personhood. It matches the surface manifestation of 'respect women because they are someone's mother/daughter/sister' rhetoric.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

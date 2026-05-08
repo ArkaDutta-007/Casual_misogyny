@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre bhai, married aadmi ke saath itna close hona bhi koi seedhi baat nahi hoti. Usko pata tha ghar-parivaar hai, phir bhi beech mein ghusi, toh ghar tootega hi na. Aadmi kabhi kabhi behak jaata hai, par asli galti us aurat ki hai jo jaankar bhi aisi baat allow kare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the man as someone who 'just got carried away.' It encodes homewrecker framing, blame asymmetry, and the idea that women are responsible for preventing male infidelity.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

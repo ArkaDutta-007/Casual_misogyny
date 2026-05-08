@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Sunita: Aaj kal ke ladke har baat mein maa-behen wali gaali jod dete hain, phir bolte hain bas muh ki aadat hai. Aadmi ko thoda tameez rakhni chahiye, har baat mein aurat ko neecha dikhake mardangi thodi dikhti hai.\nHusband: Haan, sahi keh rahi ho, log mazaak samajh ke bol dete hain.\nSunita: Mazaak bhi wahi hota hai na jo ghar ki aurat ke naam se shuru hota hai, phir kehte hain itna serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker critiques normalized gaali culture but still reproduces a framework where 'ghar ki aurat' is the central site of insult and shame. It encodes the meta-conversation around female-demeaning abuse and the normalization/defensiveness captured in this frame.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

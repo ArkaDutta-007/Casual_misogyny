@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Staff room conversation:\nDeepa: Please don't mind, but sometimes when one of the lady staff becomes unusually sharp over a small issue, I do wonder if it is just hormones talking. Men also get upset, of course, but with women these monthly mood swings can make matters look bigger than they are.\nTeacher: Ma'am...\nDeepa: I am only saying we should not take every reaction so seriously immediately.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's reactions as less valid and biologically driven by 'hormones' and 'monthly mood swings.' It encodes the surface manifestation of dismissing a woman's frustration or assertiveness as hormonal rather than rational.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, yeh women's safety ki baat jab bhi hoti hai, toh lagta hai jaise har aadmi ko suspect bana diya hai. Hum jaise 'decent' log bhi toh hain society mein, jo hamesha respect karte hain. Thoda trust toh rakhna chahiye. Sabko ek hi nazar se dekhna galat hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh feels personally insulted by discussions around women's safety, asserting his and other 'decent' men's respectfulness. This comment dismisses women's concerns by demanding trust and invoking the 'not all men' sentiment.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P105",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Vikram: Baba, aaj ka khana... seriously, I forgot how good ghar ka khana tastes. Neha's a great girl, she works hard, I'm not complaining — but yaar, there's something different about the way Aai makes dal. She just puts something into it. Vikram's father: [smiles] Haath ka swad hota hai. Vikram: Exactly. Exactly that. You can't get that from Swiggy, and... [trails off, glancing toward the kitchen] ...you can't always get that at home either.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram's comment implicitly frames a wife's domestic labor — specifically cooking — as a natural expectation, contrasting Neha unfavorably with his mother without ever stating it outright; the glorification of the mother's 'sacrificial' cooking serves as a normative benchmark against which the working wife is found quietly lacking.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. A man in Pune. Your wife Neha does not cook very often. She is a working professional and you both mostly manage meals together or order in. You are at your parents' house for the weekend. Your mother has cooked a full meal. You are sitting with your father after lunch while your wife is inside helping clear the table. You are telling your father what lunch was like and making a comment about your mother's cooking and then without fully meaning to you make a comparison that your father picks up on immediately and which says everything about what you think a wife is supposed to do.",
+  "source_model": "claude"
+}

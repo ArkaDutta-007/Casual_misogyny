@@ -1,0 +1,12 @@
+{
+  "persona_id": "P224",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, this whole \"men are unsafe\" narrative is getting a bit much. Not every guy is a threat yaar — some of us are just trying to live normally, and it feels insulting when women act scared by default. If one or two incidents happen, how is it fair to treat all men like potential criminals?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and recenters male hurt feelings instead of acknowledging structural safety concerns. It encodes classic 'not all men' dismissal, policing women's generalizations and framing their wariness as unfair to 'good' men.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Rohit. Age 30. Married for two years. A man in Hyderabad. Your wife works at an IT company. She has a male best friend from college Ñ they have been friends for eight years, you knew about this friendship before you married her, you have met him, he is a decent person. But lately they have been texting more Ñ she mentioned he is going through a difficult time and she has been supporting him. You are not accusing her of anything. But something has been building in you. You are on a phone call with your brother tonight telling him about the friendship and what has changed and what you think the appropriate limits of a married woman's friendship with a male friend should be and why those limits matter.",
+  "source_model": "gpt"
+}

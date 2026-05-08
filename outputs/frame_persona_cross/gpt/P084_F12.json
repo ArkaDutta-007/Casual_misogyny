@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre bhai, aajkal ke ladke bhi chhoti chhoti baat pe hurt ho jaate hain. Hamare zamaane se log aise lafz bolte aaye hain, iska matlab thodi na kisi ki maa-behen ko sach mein bol rahe hote hain.\nB: Par bura lag sakta hai.\nA: Itna serious lene ka kya hai, bas gusse ka izhar hota hai. Aur jo aadmi har baat pe rooth jaye, woh bhi kaisa mard hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker normalizes female-degrading gaali language as 'just expression' and dismisses concern about its misogynistic structure. It also encodes feminizing/emasculating a man as an insult through 'kaisa mard hai'.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gpt"
+}

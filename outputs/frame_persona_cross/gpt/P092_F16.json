@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Sunita: Arre, humare ghar mein toh shuru se practical division hai. Papa bahar ke kaam, bank-vank, bill sab dekh lete hain, aur ghar ka poora system aurat hi achchhe se sambhalti hai.\nHusband: Haan, jo jahan better ho wahi kare.\nSunita: Bas, isme bura kya hai? Aadmi kitchen mein do cheez kar de toh log bolte hain kitna modern husband hai, par roz ka ghar chalana aasan thodi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes a gendered division of labor as merely 'practical' and says women are inherently better at managing the home while men handle finances and outside work. It encodes the efficiency framing, 'he helps' low-bar expectation, and surprise/celebration of men doing minimal domestic work.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

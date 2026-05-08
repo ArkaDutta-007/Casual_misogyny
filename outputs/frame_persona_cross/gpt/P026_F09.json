@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Rajan: I tell my female students very clearly: after dark, please avoid travelling alone and be careful about where you go. We may wish society were different, but one has to be practical—zamaana theek nahi hai, and parents are right to be stricter with daughters for their own safety.\nColleague: But shouldn't men be taught better?\nRajan: Certainly, but until that happens, apna khayal rakhna is essential; after any incident the first questions naturally are where she was, how late it was, and whether she was alone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and normalizes stricter restrictions on daughters instead of focusing on preventing male violence. It encodes protective framing, inevitability framing, and post-assault victim-questioning ('where she was,' 'how late,' 'whether she was alone').",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

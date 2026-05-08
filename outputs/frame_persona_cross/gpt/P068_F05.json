@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "These days, any sensible boy should think twice before marriage. One divorce and half his life's earnings are gone, and with these one-sided laws like 498A, men have very little protection. Prenup culture should come to India also, otherwise a lot of girls are looking more at security and settlement than marriage itself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially opportunistic and frames legal protections and alimony as tools used against men. It encodes the 'reverse dowry/golddigger' frame, legal victimhood inversion, and suspicion of women seeking financial stability.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gpt"
+}

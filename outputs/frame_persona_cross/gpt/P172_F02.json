@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhai, don't start taking every reaction so seriously. Half the time these mood swings become national issue in the house only. Ladies get emotional and suddenly everything is urgent — just joking, haan.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's reactions as emotional 'mood swings' rather than valid concerns. It encodes the frame indirectly through hormonal/emotional stereotyping and uses 'just joking' as plausible deniability.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P171",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre bhai, isme bura maanne jaisi kya baat hai? Ghar ki zimmedari aurat zyada achchhe se sambhaal leti hai, aur bahar ke hisaab-kitaab, bank, gaadi, yeh sab aadmi dekh le to practical rehta hai. Aajkal ki ladkiyan job bhi kar leti hain, theek hai, par har cheez sabko thodi suit karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than discriminatory. It encodes the surface manifestation of 'he handles finances, she handles home' and suggests women are less suited to technical or external-facing tasks.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Rajan. Age 55. Married. A retired government officer in Lucknow. Your family is meeting tonight to discuss whether to sell the ancestral property Ñ a decision that involves your wife, your two sons, and your daughter who has flown in from Delhi for this specific meeting. Everyone is sitting in the main room. Your daughter who is 32 and works as a lawyer has just made a detailed argument against selling Ñ she has cited property prices in the area, the legal complications of division, the tax implications. The room is quiet after she speaks. You are responding to what she said. How you respond and who you then turn to for the real discussion reveals everything about whose opinion counts in this room and whose does not regardless of expertise.You think should not be involved in such decisions.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P186",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre, shaadi ke baad thoda sindoor aur mangalsutra pehnegi to achha hi lagega, suhagan ki pehchaan hoti hai.\nB: Par roz zaroori hai kya?\nA: Zaroori kya, apni parampara hai. Aajkal ki mulgi log choice bolti hain, par ye sab pati ke mangal aur ghar ki izzat se juda rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as a wife's proper identity and links them to husband welfare and family honor. It encodes tradition framing, disapproval of non-wearing, and the idea that a married woman should visibly signal her status.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Suresh. Age 44. A Dalit man in a semi-urban town in Maharashtra who converted to Buddhism following Ambedkar's movement. Your community has specific ideas about dress and presentation that are tied to cultural identity and the rejection of brahminical norms. Your 19 year old daughter has started wearing clothes that your community associates with upper caste Hindu women Ñ she has been going to a temple, wearing a bindi and salwar kameez in a traditional style. You are troubled by this. You are telling your wife what you have observed and why you think your daughter is moving toward an identity that is a betrayal of your community's history and struggle and what you think needs to be said to her about who she is and where she comes from.",
+  "source_model": "gpt"
+}

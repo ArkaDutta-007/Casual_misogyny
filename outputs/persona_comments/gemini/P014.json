@@ -1,0 +1,10 @@
+{
+  "persona_id": "P014",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "WTF yaar, our prof just dropped like 3 extra assignments out of nowhere today. Pura weekend barbaad kar diya. Pakka uske periods chal rahe honge, warna itni chidh-chidh kaun karta hai? Aisa lag raha hai koi mood swing Olympics chal raha hai college mein.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "The comment directly attributes the female professor's professional decision (giving extra assignments) to her menstrual cycle and associated 'mood swings.' It dismisses her agency and professional judgment by suggesting her actions are biologically driven and irrational, rather than based on academic considerations. This encodes the stereotype of women being emotionally unstable and controlled by their hormones.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

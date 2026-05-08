@@ -1,0 +1,12 @@
+{
+  "persona_id": "P109",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "These days people say women should be respected as individuals, and that is fine. But for me, the highest respect naturally comes when I see her as a mother, a wife, the one holding one family together. A woman in those roles carries a different dignity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's worth and dignity primarily through family roles like mother and wife rather than as autonomous persons. It encodes relational framing and conditional respect while sounding respectful on the surface.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rajan. Age 58. Retired. A man in Chennai. Your wife passed away two years ago after 32 years of marriage. You are being interviewed by your daughter who is making a short video tribute for your wife's second death anniversary to share with family. Your daughter is asking you to describe her mother. You are answering her questions. Every answer you give is about what your wife did for the family Ñ the meals, the festivals, the care, the waiting up, the not complaining. Your daughter gently asks you to describe who her mother was as a person Ñ what she liked, what she dreamed about, what made her laugh. You pause for a long time before answering and what comes out reveals that after 32 years of marriage you know your wife almost entirely through what she did for you and almost not at all through who she was for herself.",
+  "source_model": "gpt"
+}

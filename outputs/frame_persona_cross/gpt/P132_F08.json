@@ -1,0 +1,12 @@
+{
+  "persona_id": "P132",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Ramesh: Arre, woh aurat ko sab pata tha ki aadmi shaadi-shuda hai, phir bhi beech mein ghus gayi. Aise hi ghar thodi tootte hain, koi na koi bahar wali aurat phasa leti hai, bechara aadmi bhi kabhi-kabhi behak jata hai. Wife: Haan, bilkul serial wali baat hai, saara ghar barbaad kar diya usne.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the married man's responsibility. It encodes homewrecker framing, seduction framing ('phasa leti hai'), and male victimhood ('bechara aadmi behak jata hai').",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gpt"
+}

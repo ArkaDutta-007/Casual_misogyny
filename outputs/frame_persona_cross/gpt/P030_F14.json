@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, hostel food kha ke hi samajh aata hai maa ke haath ke khane ki value kya hoti hai. Meri maa full-time kabhi nahi boli, bas roz itne pyaar se sabka khayal rakha. Shaadi bhi tabhi worth lagti hai when you come home to that kind of warmth, warna bahar ka khana toh koi bhi order kar lega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as loving self-sacrifice and treats that labor as the ideal form of care. It also sets an implicit expectation that a wife should recreate the same cooking/home-making role, encoding comparison and labor erasure.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Arre, aajkal ki ladkiyan sab kuchh equal bolti hain, par ghar toh kisi ko sambhalna hi padta hai na. Mard log bahar ke kaam, paise-vaise better dekh lete hain, aur aurat ka haath ghar mein zyada set hota hai.\nB: Haan, practical baat hai.\nA: Bas wahi, agar biwi har cheez mein role ulatne lage toh phir ghar mein sukoon kahan rahega. Kabhi-kabhi pati chai bana de toh theek hai, par roz ka system alag thodi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and desirable, assigning finances/external work to men and household management to women. It also encodes the low bar for male domestic contribution by framing occasional help as exceptional rather than shared responsibility.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

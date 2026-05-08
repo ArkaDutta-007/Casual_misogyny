@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Kavya beta, jabse shaadi hui hai, ab toh roz sindoor lagaya karo. Kitni achhi lagti ho usmein, ek poori suhagan jaisi. Pati ki lambi umar ka bhi prateek hai na, aur dekhne mein bhi sabko achha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "very high",
+  "annotation_note": "Anita, a 50-year-old homemaker, subtly pressures her daughter-in-law to wear sindoor daily, framing it as a sign of a 'complete married woman' ('poori suhagan'), linking it to her husband's wellbeing, and social approval. This encodes the 'pressuring new brides' and 'completeness framing' surface manifestations, along with the 'husband welfare link'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gemini"
+}

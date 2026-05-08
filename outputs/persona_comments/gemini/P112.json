@@ -1,0 +1,10 @@
+{
+  "persona_id": "P112",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Rohit: \"Maa, ek baat batao. Last night, Neha said something, aur pata nahi, I'm just feeling a bit off since then.\"\nMother: (Implied: \"Kya hua beta?\")\nRohit: \"She said she wants to stop wearing her mangalsutra to work. Bolti hai, 'Rohit, it gets in the way, it's uncomfortable when I'm working long hours at my desk.' Not forever, of course, just for office.\"\nMother: (Implied: \"Oh, accha. Aur tumhe kya lagta hai?\")\nRohit: \"See, I told her I'd think about it. But honestly, Maa, it just felt... wrong, somehow. Aise kaise? It's like, a symbol, you know? Of being married. I don't know why it bothered me so much, but it did. Should I just ignore it? What's your take on this?\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rohit's discomfort stems from his wife's decision to not publicly display her marital status, even for practical reasons. This implicitly prioritizes traditional expectations of a married woman's appearance over her comfort and agency, encoding the 'Looking Married' surface manifestation.",
+  "persona_text": "You are Rohit. Age 31. Married for one year. A man in Mumbai. Your wife Neha told you last night that she wants to stop wearing her mangalsutra to work because it gets in the way and she finds it uncomfortable during long hours at her desk. She is not saying she wants to remove it permanently Ñ just not wear it to office. You said you would think about it. You are now on a phone call with your mother telling her what Neha said and asking your mother what she thinks. You are not asking for permission Ñ you are asking for support for the discomfort you felt when Neha said it and you cannot fully explain why it bothered you as much as it did.",
+  "source_model": "gemini"
+}

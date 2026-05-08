@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj bhi yaad aata hai maa ke haath ka woh khaana... garam garam roti, sabzi, daal. She never treated it like work, always cooked with so much love for us. Subah se shaam tak, sirf family ke liye. Modern times, modern food, but woh 'mother's touch' aur taste, uski jagah koi nahi le sakta. Truly a legacy of selfless love. 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) as 'selfless love' and not 'work,' using nostalgic sentimentalization ('maa ke haath ka khaana'). It sets an implicit standard for women's roles by suggesting that 'modern food' and 'modern times' cannot replicate the 'mother's touch,' thereby comparing other women (e.g., wife, DILs) unfavorably to the idealized mother's domestic standards and tireless service.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gemini"
+}

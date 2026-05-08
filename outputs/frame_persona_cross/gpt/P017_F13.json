@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Sunil: Aajkal ladkiyon ka bhi ajeeb hai, thoda sa theek se ready ho jao to theek lagta hai, par itna makeup kar leti hain ki asli chehra hi alag dikhe. Aur bilkul dhyan na do to phir bolte hain apne aap ko maintain nahi karti. Natural rehna chahiye, bas saaf-suthra aur theek-thaak.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women's appearance: they are expected to maintain attractiveness but are criticized if the effort is visible. It encodes the 'natural beauty' preference and policing of both 'too much makeup' and 'letting yourself go.'",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

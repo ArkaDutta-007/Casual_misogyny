@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Bhai, seriously? Ab 'MC' bolne se bhi logo ko problem hai? It's just an expression, yaar. Hum kaunsa literally kisi ki maa-behen ko gaali de rahe hain.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment normalizes the use of gaalis rooted in female-demeaning abuse by dismissing their misogynistic structure. It directly employs the 'defending gaali use as \"just expression, not actually about women\"' surface manifestation, alluding to terms that explicitly degrade women and their family members.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

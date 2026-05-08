@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Fatima: Beta, bura mat maana, lekin aajkal zamaana theek nahi hai. Itni raat ko akeli mat nikla karo, aur kapdon mein bhi thoda dhyaan rakho, hum rok-tok shauk se nahi karte, tumhari hifazat ke liye bolte hain.\nSana: Ammi, galti ladkon ki hoti hai.\nFatima: Haan, par duniya ek din mein nahi badlegi na, isliye ladki ko apna khayal khud zyada rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility through restrictions on going out alone at night and dressing carefully, rather than challenging male behavior. It uses a protective parental tone and the 'zamaana theek nahi hai' / 'practical advice' framing typical of covert victim-blaming.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gpt"
+}

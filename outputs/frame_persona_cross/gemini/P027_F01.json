@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, when I hear about these new 'period leave' policies... *yaar*, I just wonder how practical they are for the company. I mean, we always pushed for performance and meeting deadlines, right? And I get it, women have different needs, *matlab*... but then where do you draw the line? If HR starts giving special leaves for everything, what about the project schedules? The P&L? And then men will also say, 'What about us? We don't get any extra days off.' It just doesn't feel entirely fair for everyone, and it impacts the bottom line, *dekho*.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment reflects a subtle form of misogyny by questioning the practicality and fairness of menstrual leave policies primarily from a productivity and cost perspective, and by invoking reverse discrimination arguments ('what about men?'). It frames women's biological needs as a liability for the organization, aligning with surface manifestations of 'Invoking productivity/cost arguments to oppose menstrual leave policies' and 'Questioning whether it is 'fair' to give menstrual leave when men don't get equivalent leave.'",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

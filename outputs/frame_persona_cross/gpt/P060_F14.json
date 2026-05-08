@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab bolte hain busy life hai, but sach bataun toh maa ki pehchaan hi uske haath ke khane se hoti hai. Hamari ammi ne kabhi thakan nahi dekhi, roz garam roti bana ke ghar ko joda rakha — woh mohabbat ready-made cheezon mein kahan. Kal ko jo bhi is ghar mein bahu ban kar aaye, bas itna samajh le ki ghar ka dil kitchen se hi chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it defines a woman's identity and love through domestic labor, especially cooking, while erasing that labor as expected sacrifice. It encodes nostalgic praise of the mother and an implicit standard for a future daughter-in-law to sustain the home through kitchen work.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

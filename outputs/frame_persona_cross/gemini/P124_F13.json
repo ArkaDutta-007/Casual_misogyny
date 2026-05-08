@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Reading some of these articles, I often wonder about the pressure women feel regarding appearance. While I appreciate effort, sometimes 'too much' makeup can actually work against you, creating an artificial barrier. Personally, I think a more natural look comes across as much more confident and genuine. It’s about projecting your true self, not hiding behind layers.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly polices female grooming by framing 'too much makeup' as counterproductive and a 'barrier,' while valorizing a 'natural look' as more 'confident and genuine.' This encodes the 'too much makeup' surface manifestation and the 'natural > artificial' linguistic cue, implying makeup as deception rather than self-expression.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gemini"
+}

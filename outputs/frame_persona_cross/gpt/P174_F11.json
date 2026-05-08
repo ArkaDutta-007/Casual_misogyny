@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Guys, let's keep the tone respectful. She is not just speaking randomly, she's his wife of 35 years and the mother of his children — that place deserves to be heard first.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This sounds supportive of the woman, but it frames her legitimacy through her roles as wife and mother rather than as an informed individual. It encodes relational framing and conditional respect based on service to male/family roles.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gpt"
+}

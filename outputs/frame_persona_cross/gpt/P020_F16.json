@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in our setup we keep it practical only. I handle finances, bills, driver, repair guys and all the outside coordination, and my wife manages the home side because she's just better at keeping those things organized. Even if both people are working, jo jahan naturally better hai, wohi kare, otherwise daily friction hi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as efficiency and treats domestic management as the woman's domain while external and financial tasks remain the man's. It encodes the 'jo jahan better hai' practicality frame and the urban educated couple version of unequal household roles.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gpt"
+}

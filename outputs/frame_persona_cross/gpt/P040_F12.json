@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre itna bhi kya ho gaya, aajkal ke bacche har baat mein woh maa-behen wale words bol dete hain, bas gusse ka tareeka hai. \nB: Par galat lagta hai sunne mein. \nA: Haan theek hai, ghar ke bade ke saamne nahi bolna chahiye, par har cheez ko aurat ki beizzati samajh ke pakadne lagoge toh baat ka batangad ho jayega. Ladkon ki zubaan aisi hi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading gaalis as harmless expression and dismisses concern about their misogynistic structure. It encodes the 'it's just a word' defense and the normalization of misogynistic slang in everyday speech.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

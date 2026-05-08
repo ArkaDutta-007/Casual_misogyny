@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, these days men also have to think twice before marriage. One divorce and half your life’s earnings are gone, and still people act like only women suffer. Aajkal prenup should be normal in India too, because too many cases are less about marriage and more about financial security from the husband.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as opportunistic and implies they enter marriage primarily for money. It uses victimhood inversion and the prenup/alimony-as-protection framing common in men's rights discourse.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

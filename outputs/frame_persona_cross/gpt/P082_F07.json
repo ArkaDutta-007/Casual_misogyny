@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Aunty: Innikki ponnu saree-la romba nalla, decent-aa irundha. These girls wear all these Western clothes and then complain people are staring.\nRelative: Adhellam office culture-nu solluvaanga.\nAunty: Office culture irukkattum, but a girl should carry herself with some maryadhai. Traditional dress always shows family values.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency, family values, and responsibility for being stared at. It encodes the frame through praise of traditional dress as more respectable and a subtle harassment-blame link.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

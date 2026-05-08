@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Yaar, I get being supportive and all, but aise har thode time period leave, then later maternity leave, then childcare flexibility — company planning kaise karegi?\nB: Exactly, and if two people are up for the same project, manager will obviously think who’ll be consistently available.\nA: Haan na, then appraisal time men ko bolte ho be understanding. Fairness kidhar hai for the rest of the team?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and reproductive needs as a workplace liability and a burden on fairness/team productivity. It encodes reverse-discrimination and cost/productivity arguments against menstrual and maternity accommodations.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

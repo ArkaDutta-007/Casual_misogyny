@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Did you hear about Karthik? His wife filed 498A after just 6 months. Now she wants a huge alimony settlement. It's becoming so common these days, guys don't stand a chance. Makes you wonder if marriage is even worth it for men anymore.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment expresses concern over the perceived misuse of IPC 498A and high alimony demands, framing men as victims in modern marriages and implying women exploit legal provisions for financial gain. It generalizes specific cases to suggest marriage is a risk for men, aligning with the 'men as victims' and 'women as golddiggers' manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gemini"
+}

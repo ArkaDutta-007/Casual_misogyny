@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, maine na kal ek WhatsApp forward mein padha tha ki aajkal mard zyada suffer karte hain. Yeh 498A ka toh 70% cases mein galat use hota hai. Meri saheli ka beta toh phas gaya hai, uski biwi ko toh bas uski property chahiye thi. Ab court ke chakkar kaat raha hai bechara.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Sunita, a middle-aged homemaker, expresses concern for men, stating that modern laws like 498A are misused, turning men into victims. She generalizes from a friend's son's case, suggesting the wife was a 'golddigger' interested only in property, which aligns with the 'women as golddiggers' manifestation and victimhood inversion.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gemini"
+}

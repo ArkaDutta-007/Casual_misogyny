@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Kamala: Arre, itni si baat par jo bahu log gussa dikhati hain na, samajh lo hormones ka chakkar hai. Aajkal ki ladkiyon ko bas mood swing ho jata hai, phir ghar ki baat ko bhi bada bana deti hain.\nSister-in-law: Haan, sahi keh rahi ho, baad mein bol denge mazaak tha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women’s anger or disagreement as caused by hormones and mood swings rather than treating their reactions as valid. It encodes the frame through indirect references to hormones and emotional overreaction in a casual family conversation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P096",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Meena: Beti, Divya toh achhi ladki lagti hai, padhi-likhi bhi hai aur career-minded bhi. Lekin jab bachhe honge, tab Rohit toh office mein hoga na? Fir ghar aur bachhe kaise sambhalegi? Log toh bolenge ki maa ka dhyan hi nahi hai. Woh sab ek ladki ko hi dekhna padta hai. Pata nahi aaj kal ki ladkiyan kaise manage karti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, spoken by an older woman, expresses concern veiled as a statement of fact regarding a younger woman's career ambitions and future child-rearing responsibilities. It encodes the core belief that childcare is primarily the woman's duty and questions how a career-minded woman will manage, implying that the burden of home and children falls solely on her, not the father.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gemini"
+}

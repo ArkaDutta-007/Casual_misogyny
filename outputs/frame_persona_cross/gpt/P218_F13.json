@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I have no issue with women dressing well, but there is a difference between looking polished and looking manufactured. In professional spaces especially, too much makeup can come across as trying too hard, and then if someone makes no effort at all people do notice that too. Natural is always best — you should look presentable without creating a completely different face.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it polices women's appearance through a double bind: women are expected to be attractive and 'presentable' but criticized if makeup is too visible. It encodes the natural-vs-artificial hierarchy and the deception framing of makeup as creating 'a completely different face.'",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

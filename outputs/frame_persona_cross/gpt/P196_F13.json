@@ -1,0 +1,12 @@
+{
+  "persona_id": "P196",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre yaar, office mein bhi balance hona chahiye. Itna makeup karo toh lagta hai image bana rahi hai, aur bilkul kuch na karo toh people say she has stopped taking care of herself. Natural rehna best hai, but presentable toh lagna chahiye na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it imposes a double bind on women’s appearance: too much makeup is framed as deceptive, while too little is judged as neglect. It encodes the 'natural but still attractive/presentable' expectation central to the makeup paradox.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "gpt"
+}

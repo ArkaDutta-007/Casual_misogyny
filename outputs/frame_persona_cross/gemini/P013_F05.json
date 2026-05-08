@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Arre bhai, yeh toh common ho gaya hai. Ab toh ladke darrte hain shaadi karne se. Kitne cases sunne ko milte hain jahan ladkiyan bas paise nikalne ke liye shaadi karti hain, phir thoda time baad divorce aur hefty alimony maangti hain. Yeh sab 'reverse dowry' ho gaya hai.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment generalizes women as golddiggers who marry for financial gain ('paise nikalne ke liye') and exploit divorce laws for 'hefty alimony', explicitly framing it as 'reverse dowry'. It encodes the belief that modern women abuse the legal system for monetary extraction.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gemini"
+}

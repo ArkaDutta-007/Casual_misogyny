@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Bhai, shaadi aajkal seedha risk ho gaya hai mardon ke liye.\nB: Kyun, itna kya?\nA: Kal tak dowry ka rona tha, ab divorce mein alimony deke aadmi hi lut jaata hai. 498A alag latka dete hain, phir bolte hain women are suffering. Isliye bolta hoon, aajkal ki ladkiyon se sambhal ke, bahut si bas settled bande pe nazar rakhti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially exploitative and inverts victimhood by portraying men as the primary sufferers of marriage laws. It encodes the 'reverse dowry/alimony' narrative, 498A misuse claims, and generalization about modern women being after financial stability.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

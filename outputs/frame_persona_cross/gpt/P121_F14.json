@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Bro, maa ke haath ka khana is a different level only yaar. She used to cook every single day for all of us and never made it feel like some burden, that kind of care is what really makes a home. These days everyone is busy, I get it, but somewhere that touch matters a lot in a wife also.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as loving and natural rather than work, then sets that as an implicit standard for a wife. It encodes nostalgic sentimentalization, labor erasure, and comparison between mother and wife.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

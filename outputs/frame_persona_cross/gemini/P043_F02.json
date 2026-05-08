@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Kal Kiran ne sabko kitna sunaaya party mein. Pata nahi kya ho gaya tha usko. Shayad 'woh' time hoga, tabhi itna overreact kar rahi thi chhoti si baat pe. Women aur unke mood swings! Hai na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment attributes a woman's 'overreacting' and anger to her menstrual cycle using a common euphemism ('woh time'), thus dismissing her feelings as hormonally driven and less rational. It aligns with the surface manifestation of attributing a woman's assertiveness to her period and characterizing her frustration as 'hormonal' to dismiss it, framed as a casual observation to a sister.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gemini"
+}

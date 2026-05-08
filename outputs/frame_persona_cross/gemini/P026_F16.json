@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, the key to managing this demanding academic life, especially with two kids, has been my wife. She just naturally took charge of all the household logistics. She always says, 'You focus on your research and classes, that's your priority.' And frankly, she's simply more adept at it – managing the domestic staff, the kids' schedules, all the daily practicalities. It's just a more efficient division, jo jahan better hai, you know? Makes perfect sense.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker frames the gendered division of labor as a natural, efficient, and practical choice, claiming his wife 'naturally took charge' and is 'more adept' at domestic tasks while his work is 'priority'. This encodes the 'He handles finances, she handles home' described as a natural/efficient division, and the 'we just fell into these roles' surface manifestation.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gemini"
+}

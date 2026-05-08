@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly yaar, Indian wear suits some girls way better — looks more decent and classy. These super western outfits just give off a different vibe, then people will obviously look also.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency and character, while subtly justifying male attention based on what she wears. It encodes the 'traditional = respectable' framing and the harassment-blame link.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

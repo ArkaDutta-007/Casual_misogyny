@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly yaar, in most homes jo jahan better hai wahi handle karta hai. Wife already knows the kitchen, kids, all the inside management much better, and husband takes care of finances, repairs, outside work — practical hai, sexist thodi na. Even my bhabhi says this only, why complicate things if the system works?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of domestic labor as merely 'practical' and denies sexism while assigning women to household and childcare roles. It encodes the efficiency framing and the 'we chose this / the system works' justification, with a woman cited as endorsing the arrangement.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

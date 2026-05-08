@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aaj kal ladkiyan itna makeup karti hain, asli chehra hi samajh nahi aata. Bina makeup simple rahein to zyada achchi lagti hain. B: Haan, lekin bilkul dhyan bhi na dein apne upar to bhi theek nahi lagta. Bas natural aur decent rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: too much makeup is framed as deceptive, while too little grooming is also criticized. It encodes the 'natural beauty' ideal and policing of women's appearance expectations.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

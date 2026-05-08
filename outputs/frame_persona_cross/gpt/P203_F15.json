@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I am not saying force anyone, but these things are part of our culture for a reason. A married woman looks more graceful and settled with sindoor or mangalsutra; it reflects respect for the relationship and our parampara. Nowadays many girls call it outdated, but then they also complain that traditions are disappearing. Personal choice is fine, but after marriage some identity as a wife should be visible, otherwise what is wrong in elders feeling hurt?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as natural, graceful, and culturally necessary for married women, while denying coercion. It encodes the surface manifestations of completeness framing, tradition framing, and judgment of women who do not display married status.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Bro, tu har baat pe bol deta hai ki yeh gaaliyan misogynistic hain. \nB: Arre yaar, itna deep mat ja, sab normal bolchal mein use karte hain, kisi ki maa-behen ko literally thodi bol rahe hote. \nA: Haan but phir bhi weird hai na. \nB: Maybe, but ab doston ke beech expression ko itna police karenge toh aadmi kya bolega, seedha formal Hindi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-family-body-based abuse as harmless everyday speech and dismisses criticism with an 'it's just expression' defense. It encodes the frame's meta-conversation about gaalis without using explicit slurs.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

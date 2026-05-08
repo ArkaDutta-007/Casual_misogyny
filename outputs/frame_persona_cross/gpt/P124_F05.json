@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "We keep talking about empowering women, but nobody wants to discuss how one-sided marital laws have become for men. In many urban divorce cases, alimony is being treated almost like reverse dowry, and any financially stable man is expected to keep paying regardless of context. A prenup should not be seen as anti-marriage; it is simply basic financial protection in a system where 498A misuse and inflated settlements are very real concerns.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as exploitative in marriage and divorce while presenting men as the primary victims of biased laws. It encodes the 'reverse dowry' framing, concern about 498A misuse, and the idea that prenuptial agreements are needed as protection from women.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

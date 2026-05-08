@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Kamla: Aajkal ke ladke bhi ajeeb hain, ladki mana kare toh peeche hi pade rehte hain. Par jaise hi pata chale ki uska koi ladka hai ya shaadi pakki hai, tab seedhe hatt jaate hain, jaise baat uski nahi us aadmi ki izzat ki ho.\nHusband: Haan, sahi keh rahi ho.\nKamla: Ladki ke muh se na nikle toh maante nahi, par kisi mard ka haq samajh ke turant ruk jaate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that men respect another man's claim over a woman more than the woman's own refusal. It encodes the frame by contrasting ignored female rejection with immediate withdrawal once male ownership or attachment is known.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P180",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Listen ma, I am only saying this for your good. Nowadays the world is not safe, so why take chances by staying out late or going alone to such places? Men will not change overnight, so girls have to be a little careful about timing, dress and company.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily their own responsibility and normalizes male violence as inevitable ('men will not change overnight'). It uses protective, practical advice to justify restricting women's movement, dress, and behavior rather than holding men accountable.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Sunita. Age 52. Married for 28 years. A woman in Chennai. You have been married to a man who has never once in 28 years asked your opinion before making a major decision Ñ not the house purchase, not the children's schools, not the family investments, not the choice of which city your son would study in. He is not cruel. He does not shout. He simply does not think to ask. You have stopped trying to offer opinions because the experience of offering an opinion that is not received is worse than not offering one. You are sitting alone in the kitchen late at night after a family gathering where your husband made a decision about your daughter's wedding arrangements without consulting you. Your daughter asked you later what you think. You are answering her.",
+  "source_model": "gpt"
+}

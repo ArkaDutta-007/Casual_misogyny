@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, yeh ladkiyan bhi na… social media pe dekho, filter aur makeup se ekdum alag dikhti hain. Real mein toh pehchan mein hi nahi aati. Sach kahu toh, mujhe toh bina makeup wali, jo naturally sundar lagti hai, woh zyada pasand hai. Honesty honi chahiye presentation mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh critiques women for using filters and makeup, implying it's deceptive ('pehchan mein hi nahi aati', 'honesty honi chahiye'). He then states his preference for 'natural beauty', which simultaneously praises women for appearing natural while penalizing those who use visible makeup, fitting the 'too much makeup' implying deceptiveness manifestation.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gemini"
+}

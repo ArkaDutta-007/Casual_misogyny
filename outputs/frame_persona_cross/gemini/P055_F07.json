@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Sun, family puja hai na? I know she likes her Western wear, but for this kind of occasion... it's just better if she wears something traditional. A nice saree ya salwar suit, usmein zyada graceful lagegi. Dekh, hamare ghar pe log hain, bade-buzurg hain. Unhe acha lagega, aur usmein woh bhi 'decent' aur 'sabhya' lagegi, you know? Warna log phir kuch na kuch bolenge hi, aur fir tumhe bhi sunna padega. Why create unnecessary issues?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly pressures the girlfriend to wear traditional attire for a family puja, linking it to 'graceful,' 'decent,' and 'sabhya' appearances to please elders. It implies that wearing Western clothing would invite negative commentary and 'unnecessary issues' from others, thereby blaming her potential attire for societal judgment and reflecting the core belief that a woman's clothing dictates her respectability and avoids social sanction.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

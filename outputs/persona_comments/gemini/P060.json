@@ -1,0 +1,10 @@
+{
+  "persona_id": "P060",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Sana, beta, suno Ammi ki baat. I know you like these jeans and tops, but your Abbu... he's really upset. And not just him, what will our rishtedaar and neighbours say? Log kya bolenge? It's about our family's izzat, na? Thoda toh socho, my child. Aur Allah ko bhi pasand nahi aisi libaas, you know.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment links the daughter's choice of dress (Western, non-traditional) directly to the family's reputation and potential negative judgment from the community ('rishtedaar and neighbours', 'Log kya bolenge?'). It implicitly frames traditional dress as respectable and other forms as problematic, restricting female autonomy based on gendered expectations of modesty and community perception. This encodes the 'Dress Code: Traditional Equal Respectable, Other Equal Questionable' frame by portraying non-traditional clothing as a threat to family honor and religious values, primarily for the woman.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, us aadmi ko hi sab log dosh de rahe hain, par woh aurat ko bhi toh pata tha na ki woh shaadishuda hai. Phir bhi itna chipakna, phone karna, milna-julna — bilkul serial wali ghar todne wali baat hai. Aadmi kabhi kabhi behak jaate hain, lekin aurat chahe toh seema rakhe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the woman as primarily responsible for an affair while excusing the married man as someone who merely 'got carried away.' It encodes blame asymmetry and the 'homewrecker/seductress' trope common in family-protection rhetoric.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

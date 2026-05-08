@@ -1,0 +1,10 @@
+{
+  "persona_id": "P222",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Suresh: Maine thodi inquiry kari thi. Family theek hai, ladki bhi padhi-likhi hai, lekin uska circle bahut mixed hai, roz ladkon ke saath outings-voutings hoti rehti hain.\nWife: Aajkal dosti toh sab karte hain.\nSuresh: Arre, Karan ka alag hai, ladka hai, business sambhalta hai, log usko outgoing bolenge. Bahu mein thoda ghar-grihasthi ka sense aur maryada dekhni padti hai. Main unko seedha mana kar dunga ki hamare ghar ke hisaab se yeh rishta suit nahi karta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it applies a clear gendered double standard: male socializing is framed positively while a woman with male friends is treated as unsuitable for marriage. It encodes casual respectability policing and the idea that a wife must be more restrained and domestic than a husband.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are discussing marriage proposals for your son Karan who is 27. A proposal has come from a good family Ñ the girl is educated, employed, from a respectable background. But you found out through a mutual contact that the girl has a large mixed gender social circle and is known to go out with male friends in groups. You are sitting with your wife telling her what you found out and what you think it means for the kind of wife she will be and whether this is the kind of girl you want for your son and what you are going to tell the girl's family.",
+  "source_model": "gpt"
+}

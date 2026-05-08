@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, this whole affair news is just sad for everyone involved, especially his family. But the question is, why would a woman actively pursue or entertain someone she *knows* is married? It takes two, yes, but the married man's family suffers the most. Some women just don't think about the consequences and the homes they break. It feels straight out of some daily soap drama.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment blames the woman for 'actively pursuing' a married man, despite acknowledging the man's involvement, framing her as responsible for 'breaking homes' and disregarding the family's well-being. This aligns with the 'Homewrecker Framing' where the woman is seen as a seductress destroying families, characteristic of India-specific soap opera villain tropes.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gemini"
+}

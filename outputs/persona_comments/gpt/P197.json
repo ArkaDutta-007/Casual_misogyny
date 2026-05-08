@@ -1,0 +1,10 @@
+{
+  "persona_id": "P197",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Bhai, zubaan se dowry nahi bol rahe, lekin ishare sab samajh aa rahe hain—furniture, gold, scooter, sab ladki walon se hi umeed hai. Islam mein meher ladke ki zimmedari hai, par society ka riwaaj alag chal raha hai; beti ko izzat se rukhsat karna hai toh aadmi ko saalon ki jama-punji nikalni padti hai. Sach bolo toh beti paalna aaj kal bahut bhaari zimmedari ho gaya.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames having and raising a daughter as an economic burden tied to marriage expenses and social expectations. The misogyny is covert: it does not insult women directly, but encodes daughter-as-financial-liability logic.",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. In your community the custom is meher Ñ the mandatory gift from the groom to the bride Ñ which is Islam's position against dowry. But in practice your community also has informal expectations of gifts from the bride's family. Your daughter Sana is getting married and you have been in negotiations with the boy's family. The boy's family has not asked for dowry directly but has made clear through various signals what they expect. You are talking to your brother about these negotiations and what you are being asked to give and what you have given already and what it means to have raised a daughter and what the religion says versus what the community does and the gap between those two things.",
+  "source_model": "gpt"
+}

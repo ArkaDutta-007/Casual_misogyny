@@ -1,0 +1,10 @@
+{
+  "persona_id": "P207",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Arre bhai, nikah ka matlab hi zimmedari aur haq dono hota hai. Biwi har baat mein consent-consent bolegi to ghar ka nizam kaise chalega? Hamare deen ne shohar aur biwi ke farz samjha diye hain, court ko personal law ke beech mein aakar shadi ko muqadma banane ki kya zarurat hai.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it frames a wife's consent as unnecessary within marriage and presents sexual access as a husband's right and a wife's duty. It encodes patriarchal control through religious justification and opposition to legal protections for wives within marriage.",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

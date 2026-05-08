@@ -1,0 +1,10 @@
+{
+  "persona_id": "P076",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Suresh: Yaar, bura hua, bura hua — lekin ladki ke baap ko bhi toh sochna chahiye tha. Saat baje shaam ko akele tuition se aana, koi dhang ka intezaam nahi? Aajkal ke zamane mein ghar ke mard ka farz hai ke ladki ko jaane na de akele. Bhai, humari beti kabhi akele nahi jaati, hum khud le jaate hain, le aate hain — yeh toh basic baat hai na. Ab kuch ho gaya toh kya faayda rona?",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames the assault as a failure of the girl's family to supervise and restrict her movement, deflecting blame from the perpetrator entirely onto the victim's male guardians for allowing her to walk alone. This encodes the 'safety as her own/family's responsibility' trope — a covert form of victim-blaming that presents patriarchal control as protective common sense rather than as misogyny.",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "claude"
+}

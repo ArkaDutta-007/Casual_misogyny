@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "WhatsApp message: Arre itna modern hone ka kya faayda if after marriage you don’t even look married? Thoda sindoor ya mangalsutra se aurat settled lagti hai, hamari parampara bhi wahi hai. Choice tumhari hai, but aajkal bina in sab ke ajeeb sa lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as making a woman look 'settled' and culturally proper, while disguising pressure as tradition and personal choice. It encodes completeness framing, disapproval of non-wearing, and the 'choice' defense masking social expectation.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

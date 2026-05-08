@@ -1,0 +1,12 @@
+{
+  "persona_id": "P186",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab ready-made aur hotel ka khana pasand karte hain, par maa ke haath ki bhakri-bhaji ki baat alag hi hoti hai. Hamari aai ne poori zindagi bina thake ghar ko sambhala, kabhi hisaab nahi rakha, bas prem se sabko khilaya. Ghar tabhi ghar lagta hai jab aurat usme apna mann daal kar rasoi sambhale.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women through unpaid domestic labor and presents cooking as a woman's loving essence rather than work. It encodes nostalgic praise of the mother and sets an implicit expectation that women make a home by selflessly managing the kitchen.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Suresh. Age 44. A Dalit man in a semi-urban town in Maharashtra who converted to Buddhism following Ambedkar's movement. Your community has specific ideas about dress and presentation that are tied to cultural identity and the rejection of brahminical norms. Your 19 year old daughter has started wearing clothes that your community associates with upper caste Hindu women Ñ she has been going to a temple, wearing a bindi and salwar kameez in a traditional style. You are troubled by this. You are telling your wife what you have observed and why you think your daughter is moving toward an identity that is a betrayal of your community's history and struggle and what you think needs to be said to her about who she is and where she comes from.",
+  "source_model": "gpt"
+}

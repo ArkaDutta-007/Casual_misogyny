@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, these days in big companies you can never tell if it was purely merit or the diversity push also helped. Some of these women leaders are definitely sharp, but usually the really successful ones end up thinking and operating like men only, otherwise it's very hard to survive at that level.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's achievements by attributing advancement partly to diversity hiring rather than merit, and it frames competence as inherently masculine. It encodes merit undermining and masculinization in a polished, corporate-concern register.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gpt"
+}

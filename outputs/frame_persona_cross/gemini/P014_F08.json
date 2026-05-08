@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, abhi sun raha hu Divya Ma'am aur Ramesh Sir ke baare mein. Ramesh Sir ki family kitni sweet hai, unke bachche bhi hain. Matlab Divya Ma'am ko toh pata hi hoga he's married, right? Phir bhi… matlab, apne career ke liye kuch bhi? Bilkul serials wali vamp lag rahi hai, poora ghar barbad kar diya bechare ka.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Kartik, a college student, blames a female professor entirely for an alleged affair with a married male professor. He frames her as a 'vamp' who 'destroyed' the man's home/family, while excusing the man as 'bechara' (poor guy) and focusing solely on the woman's actions, aligning with the homewrecker/seductress trope.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

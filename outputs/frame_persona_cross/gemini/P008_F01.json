@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Seriously, Dr. Lakshmi just got confirmed and already announced she's expecting. I mean, good for her, but it just means more burden on the rest of us for night duties and weekend shifts, no? We're already so stretched.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker, a junior doctor, frames a female colleague's pregnancy as an immediate 'burden' and 'liability' on her colleagues, reflecting the core belief that women's reproductive choices negatively impact workplace productivity/staffing, fitting the 'assuming a newly hired young woman will go on maternity leave soon anyway' manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gemini"
+}

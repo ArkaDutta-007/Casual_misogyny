@@ -1,0 +1,9 @@
+{
+  "persona_id": "P113",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Ugh, seriously annoyed. My MIL called my husband last night because some relative saw me at Phoenix Marketcity without my mangalsutra, and apparently, 'log kya kahenge'! I just told him how impractical it is here in Bangalore, and why should I have to advertise my marital status to random people? This constant monitoring is exhausting.",
+  "label": "non_misogynistic",
+  "annotation_note": "This comment expresses frustration against the societal expectation placed upon women to wear symbols like a mangalsutra to signify marital status, especially when monitored by extended family. The character is resisting this expectation rather than endorsing it, highlighting the intrusive nature of such expectations.",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gemini"
+}

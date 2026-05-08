@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office group chat:\nA: We need to rework the client deck, there are too many gaps.\nB: Arre Priya, relax yaar, why are you so intense today 😅 PMS aa raha hai kya? Don't take it seriously, just joking.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's professional criticism by attributing it to PMS/hormones instead of engaging with the content of what she said. It directly encodes the 'time of the month/PMS' joke and uses the 'just joking' defense.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gpt"
+}

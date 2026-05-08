@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Nothing wrong in modern dress, but honestly our girls look more decent and graceful in saree or salwar. These western outfits only attract unnecessary attention, then later people ask why men stare. Our culture already gave the best standard for how a woman should present herself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and subtly blames harassment on women wearing 'western outfits.' It encodes the traditional-dress-as-decent framing and the clothing-harassment link under the guise of cultural appreciation.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gpt"
+}

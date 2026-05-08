@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Beta, this salwar suits you much better. Ladkiyan jab thoda decent aur apni tehzeeb mein rehti hain na, tabhi asli izzat dikhti hai—yeh modern kapde mein log baat bhi banate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and family honor to wearing traditional clothing, while implying non-traditional clothes invite judgment. It encodes decency framing and a backhanded compliment that pressures women toward 'respectable' dress.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gpt"
+}

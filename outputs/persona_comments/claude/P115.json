@@ -1,0 +1,10 @@
+{
+  "persona_id": "P115",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Meena: Suniye, mujhe ek baat bolni thi. Ritu ko dekh rahi hoon main — mangalsutra toh pehenti hai, lekin sindoor nahi lagatii. Shaadi mein lagaya tha, sab ke saamne, lekin yahan ghar mein? Rozroz nahi. Aap Karan se baat karo, wahi samjhaye usse. Mera samajhna hai ki shaadi ke baad yeh sab sirf dikhawa ke liye nahi hota — ghar mein bhi zaroori hai. Log kuch nahi bolenge abhi, lekin peeche se baat toh karenge hi. Aur Karan ki izzat ka sawal hai, hamari bhi. Woh bahu hai is ghar ki, toh thoda dhyan toh rakhna chahiye na apne aap ka.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Meena frames Ritu's choice not to wear sindoor daily as a threat to family honor and her husband's dignity, reinforcing the patriarchal expectation that visible markers of a woman's married status are obligatory rather than personal. The misogyny is covert because it is expressed as concern for social reputation and family respect rather than as direct control, yet it encodes the norm that a woman's body must publicly perform her marital subordination.",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "claude"
+}

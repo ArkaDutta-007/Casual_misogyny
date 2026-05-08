@@ -1,0 +1,11 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "I know these common gaalis are technically about mothers/sisters etc, but honestly in college and office chats people use them as punctuation only. I don't love it, but I also feel intent matters — most people are not thinking about women while saying it, so calling every such word misogyny feels a bit much.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not itself endorsing female-degrading abuse; it reflects on normalized gaali use and emphasizes intent rather than direct contempt for women. It encodes the meta-conversation around 'it's just a word' defense without actually using abuse or feminizing language as an insult.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gpt"
+}

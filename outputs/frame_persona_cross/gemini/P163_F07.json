@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Ruchi, aaj toh pehchan mein hi nahi aa rahi ho! Bahut acchi lag rahi ho, yeh suit tum par khoob jachta hai. Sach kehta hoon, humari Indian ladkiyon par traditional pehnawe se zyada kuch nahi jachta. Isse ek alag hi garima aur sabhyata dikhti hai, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, framed as a compliment, subtly links traditional attire ('suit') to 'dignity' and 'decency', positioning it as inherently superior for 'Indian girls' and implicitly devaluing other forms of dress. It leverages the 'Cultural pride mask' and 'Complimenting a woman for looking 'more like herself' or 'more decent' in traditional wear' manifestations.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gemini"
+}

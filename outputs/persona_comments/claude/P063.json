@@ -1,0 +1,10 @@
+{
+  "persona_id": "P063",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Meena: Karthik, I told you from day one, didn't I? The way she used to dress, always laughing and talking with every boy — I knew she was not that type of girl. These modern girls, they don't know the meaning of commitment, they just want fun and then move on to the next one. You find a good, homely girl from a decent family, one who has been raised with proper values — not these types who roam around freely and trap boys with their sweetness.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes homewrecker framing and the seductress trope by attributing the girlfriend's infidelity to her clothing, social behaviour, and perceived moral looseness, framing her as a predatory deceiver rather than an individual who made a choice. It also encodes a madonna–whore dichotomy by contrasting 'these types' of women against idealized 'homely' women, naturalising the idea that women who move freely in public are untrustworthy and morally inferior.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "claude"
+}

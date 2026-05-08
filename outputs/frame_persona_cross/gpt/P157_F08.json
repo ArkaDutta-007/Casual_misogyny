@@ -1,0 +1,12 @@
+{
+  "persona_id": "P157",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre bhai, aadmi se galti ho jaati hai, lekin woh aurat ko pata tha na ki woh shaadi-shuda hai. Phir bhi itna close rehna matlab saaf hai usne hi phasaya, bilkul serial wali ghar todne wali type.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while excusing the married man as someone who merely 'made a mistake.' It encodes blame asymmetry, seductress framing, and the 'homewrecker' trope.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Mohammed. Age 49. Married. A Muslim man in Hyderabad. Your daughter Sana who is 25 has been working at a private company for two years and is doing well. A proposal has come for her from a good family. The boy is 28, settled, working in the Gulf. His family has said that they expect the wife to be at home after marriage Ñ they are comfortable financially and do not need her income. Sana has said she does not want to stop working. You are sitting with your wife discussing what to say to Sana and whether this proposal Ñ which ticks every other box Ñ should be declined because of this one issue or whether Sana needs to understand what she would be giving up by holding onto this one condition.",
+  "source_model": "gpt"
+}

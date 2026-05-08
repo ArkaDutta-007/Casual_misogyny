@@ -1,0 +1,12 @@
+{
+  "persona_id": "P193",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekh, main toh hamesha kehti hoon ladkiyon ko, itni raat ko kya zaroorat hai bahar rehne ki? Aajkal zamaana hi theek nahi hai, aur apna khayal toh khud hi rakhna padta hai na. Ghar ki izzat hoti ho, toh thoda sambhal ke hi rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla advises women to restrict their movement ('itni raat ko kya zaroorat hai bahar rehne ki?') and blames the 'bad times' ('zamaana hi theek nahi hai') for danger, framing safety as solely the woman's responsibility ('apna khayal toh khud hi rakhna padta hai na') and linking it to 'ghar ki izzat', which is a common India-specific surface manifestation.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit is getting married next year. The girl's family has been meeting with you. They are a decent family Ñ not wealthy but respectable. In the course of the negotiations your husband mentioned what they expect in terms of gifts and arrangements. The girl's father looked tired when he heard the list. You are sitting with your husband after the meeting. You are telling him what you observed and what you think the family can afford and whether you should reduce your expectations. But in the course of this conversation you also reveal what you believe about what a boy's family is entitled to and what the girl's family's financial struggle means and whether it is your problem.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P168",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Mom, this profile... PhD in Economics, a researcher. Super smart, no doubt. But a PhD at 27? I just hope she's not one of those women who get so focused on their careers that they become, you know, a bit too practical, almost like a man. We need someone who can also manage the home.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rohit acknowledges the woman's high achievement but then expresses anxiety that her competence and career focus might lead her to 'masculinize' herself ('almost like a man'), implying this is undesirable for a wife. This encodes the 'masculinization' surface manifestation of F04.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gemini"
+}

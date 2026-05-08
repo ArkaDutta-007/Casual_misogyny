@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, I know it sounds unfair, but this is the reality we live in. If a woman is travelling alone late at night or taking cabs from isolated areas, she has to be extra careful—share live location, avoid drinking too much, and if possible don’t stay out very late. We can keep saying men should behave, of course they should, but until society changes, girls also have to be practical about their own safety.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and shifts focus from preventing male violence to restricting women’s behavior. It encodes protective/practical advice and inevitability framing: society is unsafe, so women must adapt rather than men being held accountable.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gpt"
+}

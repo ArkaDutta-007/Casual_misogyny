@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Sana, ab jab tum shaadi karogi, toh mangalsutra hamesha pehenna. Ek toh achha lagta hai, aur log bhi dekhenge toh samjhenge ki tum 'settled' ho. Waise bhi, yeh humari parampara ka hissa hai, suhagan ki nishaani hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Fatima, a Muslim mother, advises her daughter to wear a mangalsutra after marriage, framing it as cultural tradition and a symbol of a 'settled' married woman ('suhagan ki nishaani'), which subtly pressures her to visibly signal her marital status. This encodes the 'looking complete' and 'tradition framing' surface manifestations.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

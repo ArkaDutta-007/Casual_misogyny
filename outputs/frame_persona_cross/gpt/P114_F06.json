@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "These days boys are at least trying to be decent, but girls should also be clear from the beginning. If a woman says no and later it turns out she is already committed, naturally a sensible man will step back out of respect for that relationship. Otherwise what is he supposed to understand, that she is genuinely not interested or just showing unnecessary attitude?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's refusal as less valid than the existence of another man's claim, and frames her no as ambiguous or negotiable. It encodes the surface manifestation of backing off only after learning she is 'already committed' and dismissing direct rejection as 'attitude'.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

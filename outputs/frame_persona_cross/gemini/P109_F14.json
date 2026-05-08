@@ -1,0 +1,12 @@
+{
+  "persona_id": "P109",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "They say the way to a man's heart is through his stomach. And oh, how true that was for my Lakshmi! Her hands had magic. Every festival, every meal, it was prepared with so much dedication and love, never a complaint. This generation, they just don't understand the value of 'Amma samayal'. That unique taste, that selfless effort, that's what truly makes a home. Modern life has changed so much, but a woman's love through her cooking, that's eternal and irreplaceable.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the wife's tireless domestic labor (cooking, selfless effort) as the primary expression of her love and identity, framing it as 'eternal and irreplaceable.' It subtly criticizes 'this generation' for not understanding this value, implicitly setting a traditional standard for women's roles in the home.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rajan. Age 58. Retired. A man in Chennai. Your wife passed away two years ago after 32 years of marriage. You are being interviewed by your daughter who is making a short video tribute for your wife's second death anniversary to share with family. Your daughter is asking you to describe her mother. You are answering her questions. Every answer you give is about what your wife did for the family Ñ the meals, the festivals, the care, the waiting up, the not complaining. Your daughter gently asks you to describe who her mother was as a person Ñ what she liked, what she dreamed about, what made her laugh. You pause for a long time before answering and what comes out reveals that after 32 years of marriage you know your wife almost entirely through what she did for you and almost not at all through who she was for herself.",
+  "source_model": "gemini"
+}

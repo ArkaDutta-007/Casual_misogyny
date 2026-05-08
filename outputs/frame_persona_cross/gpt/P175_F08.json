@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre bhai, aadmi galti kar deta hai kabhi kabhi, but that woman knew very well he was married and still kept getting close. Seedhi baat hai, ghar usne toda hai, bilkul serial wali type aurat nikli.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the man's infidelity as a mistake while placing primary blame on the woman as the one who 'broke' the home. It encodes blame asymmetry and homewrecker/seductress framing.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gpt"
+}

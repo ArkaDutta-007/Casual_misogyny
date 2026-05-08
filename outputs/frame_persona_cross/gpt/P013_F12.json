@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, aajkal har baat pe log lecture dene lagte hain. Hum log jo muh se bol dete hain, woh bas expression hota hai, usko itna serious thodi lena hai. Aur koi aadmi zara si baat pe rooth ke baith jaye toh bolenge na, itna soft mat ban, thoda mard jaisa reh.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker normalizes gendered abusive language as 'just expression' and dismisses concerns about its misogynistic structure. It also encodes feminizing a man and contrasting softness with being 'mard' as an insult.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

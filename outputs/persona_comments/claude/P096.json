@@ -1,0 +1,10 @@
+{
+  "persona_id": "P096",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Didi, main kya bataaun — itna saara makeup tha uske chehre pe ki mujhe toh pehchaan hi nahi aaya asli chehra kaisa hai. Foundation itna thick tha, aur lipstick bhi bilkul dark. Mujhe toh dar lagta hai — agar yeh sab hata do toh kaun jaane kaisi dikhti hai, aur phir Rohit ko baad mein pachtana padega. Aur itna makeup ek seedhi-saadhi ladki toh nahi lagaati, hai na? Matlab character toh pata chalta hai thoda — jo ladki ghar mein bhi itna banaav-singaar kare, woh kaisi hogi bahar? Rohit ko samjhana padega, yeh sab dekhne mein toh achha lagta hai, lekin ghar chalane ke liye kuch aur chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Meena equates heavy makeup with moral looseness and deceptiveness, using the 'makeup paradox' to cast doubt on Divya's character and suitability as a wife — a covert form of misogyny that polices women's appearance as a proxy for virtue and domesticity without explicit slurs or overt hostility.",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "claude"
+}

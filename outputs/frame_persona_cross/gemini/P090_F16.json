@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, with both of us working, we just figured out what makes sense for our family. The bigger financial decisions and outside stuff, my husband handles it all, he's just better at that. And I manage the home, the kids' schedules, all the daily running around. It’s more practical that way. I mean, he’s a great husband, he even steps in for grocery runs or helps with the kids if I'm really swamped. It’s our system, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Priya, a working woman, describes her household division of labor as 'practical' and 'our system'. She reinforces the idea that her husband is 'better' at finances and 'outside stuff' while she manages the home and childcare. She praises his minimal contribution ('he even steps in for grocery runs') as a sign of being a 'great husband', demonstrating the low bar for male participation and the 'he helps her' dynamic, consistent with the F16 frame's covert nature and 'efficiency framing'.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gemini"
+}

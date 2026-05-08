@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, I always feel women look much more graceful in sarees or even a simple salwar than in all these very Western outfits. Maybe I sound old-fashioned, but traditional clothes carry a certain dignity, and when girls dress too boldly, of course people will look and comment. We can call it unfair, but that is still the reality.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing with her dignity and respectability, while subtly justifying public scrutiny or harassment based on what she wears. It encodes the traditional-equals-decent framing and the harassment-blame link.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

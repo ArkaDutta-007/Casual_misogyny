@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, sometimes I think about these policies... like maternity leave, then period leave ab. It's good for women, no doubt, but as a company, ya fir from a team perspective, it creates an imbalance. Matlab, a project manager will definitely think twice before allocating a critical module to someone who might take frequent leaves, right? Not fair to others who have to cover, and productivity ka bhi issue hai. Hum logon ko koi equivalent leave nahi hai. Aise toh, it's not a level playing field.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses concern about 'fairness' and 'productivity' in relation to maternity and period leave, suggesting that these policies create an 'imbalance' and make women a liability for critical project allocations. It uses 'fair/unfair' and 'economic' framing to question the policies, encoding the core belief that women's biology makes them a workplace liability.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gemini"
+}

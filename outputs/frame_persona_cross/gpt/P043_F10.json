@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre didi, aaj kal ki ladkiyan bhi na, har baat mein sab aadmiyon ko ek hi category mein daal deti hain. Thoda bahut darr theek hai, par iska matlab yeh thodi hai ki har aadmi ko suspicious samjho — achhe ghar ke, seedhe ladke bhi hote hain. Rohit jaisa ladka agar is baat se bhi judge hoga toh phir mardon ki side kaun samjhega?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by framing it as unfair generalization against men and centers the feelings of 'good' men. It encodes the 'not all men' dismissal and the demand that women be more trusting for the sake of fairness to men.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

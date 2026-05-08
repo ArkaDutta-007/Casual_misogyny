@@ -1,0 +1,10 @@
+{
+  "persona_id": "P164",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Dekho, beta. I'm just thinking... Ritu is a good girl, but she's sixteen now. Traveling alone daily, all the way across the city... on those crowded buses? Log kya kahenge? And for what? Just for some extra maths? She's not going to become an engineer or something, her real life is here, at home, getting married. What if something happens on the way? Is this maths really worth taking such a risk with a girl's safety and reputation?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment frames female education (math coaching) as a conditional privilege, implying it's not worth the perceived risks to a girl's safety and reputation, which are prioritized for her future marriage prospects. It implicitly devalues her academic pursuit by stating she won't be an 'engineer,' linking her education to traditional gender roles and societal expectations rather than individual potential.",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gemini"
+}

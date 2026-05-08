@@ -1,0 +1,12 @@
+{
+  "persona_id": "P201",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Bhai, aajkal shaadi bhi soch samajh ke karo. Bahut ladkiyon ko bas settled aadmi chahiye, baad mein jhagda karke alimony alag.\nB: Haan, kanoon bhi zyada tar unke side pe hi khada rehta hai.\nA: Isi liye log bolte hain 498A ka misuse hota hai, mard bhi aajkal kam pareshaan nahin hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially opportunistic and frames marriage laws as tools women use against men. It encodes victimhood inversion, suspicion of women seeking 'settled' men, and the 498A misuse talking point.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Ramesh. Age 48. Married for 22 years. A farmer in rural UP. OBC Hindu. You are sitting with three male friends at a chai stall after work. One friend has been complaining that his wife has been refusing him for two weeks Ñ she says she is tired, she has a headache, she is not in the mood. The group is responding to his complaint. You are giving your opinion on what a wife's refusal means and what a husband's rights are inside a marriage and what the difference is between a marriage and any other arrangement and why what happens between a husband and wife in their own home is nobody else's business and certainly not something that can be called by any legal name.",
+  "source_model": "gpt"
+}

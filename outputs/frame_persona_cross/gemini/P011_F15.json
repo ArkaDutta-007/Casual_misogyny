@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Yaar, that new girl, Preeti, she just got married right? But I never see her wearing mangalsutra or even sindoor. I mean, personal choice hai, but it just looks incomplete, no? A wedding feels more 'complete' with those things.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it judges a newly married woman for not wearing traditional markers (mangalsutra, sindoor), framing her appearance as 'incomplete'. It superficially acknowledges 'personal choice' but immediately undermines it, reflecting the core belief that married women should visibly signal their marital status for perceived completeness or auspiciousness.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

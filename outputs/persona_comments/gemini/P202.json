@@ -1,0 +1,10 @@
+{
+  "persona_id": "P202",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Arre, yeh kaisa article bheja hai group pe? Marital rape... shaadi ke baad bhi aisa kuch hota hai kya? Ye sab kya naya drama hai? Pati-patni ka rishta hai, usmein agar miyan apni patni se... toh usmein kaisa rape? Yeh toh ghar todne wali baat hai. Aur ye jo auratein petition daal rahi hain na, inko shaadi ki pavitrata se koi lena-dena nahi hai. Bas gharon mein jhagde lagane hain, aur kuch nahi.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "The comment directly denies the existence of marital rape within the context of marriage, asserting a husband's implicit right to sexual relations with his wife. It also attributes malicious intent to women advocating for criminalisation, framing their actions as an attack on the institution of marriage and promoting conflict within homes. This reflects the 'Husband's Right, Wife's Duty' frame.",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "gemini"
+}

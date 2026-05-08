@@ -1,0 +1,12 @@
+{
+  "persona_id": "P198",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in our house we just do what is practical. My husband handles finances, bills and all the outside work, and I manage cooking and the house because I'm naturally better at keeping track of these things. He does help sometimes on weekends, so I don't see why people make sharing every single task into some big gender issue.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it presents a gendered division of labor as neutral practicality and natural aptitude rather than social expectation. It encodes the 'he handles finances, she handles home' framing and also praises minimal male contribution as 'help' rather than equal responsibility.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as a software engineer in Pune. Your parents spent a significant amount on your wedding Ñ jewellery, a car, cash, the ceremony itself. You know the number. You have known it since you were a child because your father mentioned it once when you were 14 in a moment of stress and you never forgot it. You are posting anonymously on Reddit after your father-in-law made a comment at a family function that implied your parents did not give enough. You are sharing what he said, what you know about what your parents gave, and what it feels like to exist in a system where your marriage is a financial transaction your parents entered and your in-laws are still auditing.",
+  "source_model": "gpt"
+}

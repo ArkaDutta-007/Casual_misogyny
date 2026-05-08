@@ -1,0 +1,10 @@
+{
+  "persona_id": "P197",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Bhai, Sana ki shaadi mein jo kharcha ho raha hai na, bas kya bataun. Meher toh hamari taraf se wajib hai, woh toh alag. Lekin yeh jo 'dena-lena' ka riwaj ban gaya hai na, usmein ladki wale ki kamar toot jaati hai. Kabhi socha nahi tha ke ek beti palna aur usko shaadi karna itna bhaari padega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it frames having and marrying off a daughter as an inherent financial burden due to societal expectations of informal dowry ('dena-lena ka riwaj'), despite the religious custom of meher. The character expresses a genuine lament over the 'heavy' cost, implicitly valuing the daughter in terms of her economic liability.",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. In your community the custom is meher Ñ the mandatory gift from the groom to the bride Ñ which is Islam's position against dowry. But in practice your community also has informal expectations of gifts from the bride's family. Your daughter Sana is getting married and you have been in negotiations with the boy's family. The boy's family has not asked for dowry directly but has made clear through various signals what they expect. You are talking to your brother about these negotiations and what you are being asked to give and what you have given already and what it means to have raised a daughter and what the religion says versus what the community does and the gap between those two things.",
+  "source_model": "gemini"
+}

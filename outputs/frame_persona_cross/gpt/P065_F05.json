@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, these days men also have to be very careful before marriage. One divorce and suddenly alimony, 498A, maintenance — everything is one-sided, and many women know exactly how to use the law for financial security. People call it empowerment, but half the time it just looks like reverse dowry in a more polished form.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as manipulative exploiters of marriage and divorce laws, casting men as the primary victims. It encodes victimhood inversion, legal-bias rhetoric around 498A, and the 'reverse dowry' / golddigger framing.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

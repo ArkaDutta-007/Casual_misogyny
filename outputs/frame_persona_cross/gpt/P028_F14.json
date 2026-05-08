@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, maa ke haath ke simple dal-chawal mein bhi woh comfort hota hai jo kahin nahi milta. She spent her whole life making sure everyone ate fresh food without ever making it feel like work. Honestly, ghar tabhi properly settle lagta hai when that same warmth comes into the kitchen after marriage too.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as love rather than work and sets it up as the standard for married life. It encodes both 'maa ke haath ka khana' nostalgia and an implicit expectation that a wife should reproduce the same kitchen-based care.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

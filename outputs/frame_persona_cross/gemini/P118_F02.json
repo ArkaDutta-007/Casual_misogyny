@@ -1,0 +1,12 @@
+{
+  "persona_id": "P118",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Are bhaiyon, meri suno. Yeh ladies ka na, mood swings chalta rehta hai. Zyada serious mat lo, hormones ka khel hai. Do din baad sab theek ho jayega. Apni wife ko maine toh aise hi handle kiya poori life, ha ha.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Rajan (55, retired government officer, Lucknow) dismisses women's emotional expressions as mere 'mood swings' and 'hormones ka khel' (game of hormones), implying they are irrational and will pass. This characterizes a woman's frustration/emotional state as biologically determined and less valid, aligning with 'Characterizing a woman's frustration as 'hormonal' to dismiss it'.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rajan. Age 55. Married. A retired government officer in Lucknow. Your daughter Priya who is 28 and lives in Delhi just called to tell you she has decided not to change her surname after her upcoming marriage and will keep her name professionally and personally. She says her husband to be is fine with it. You said okay on the phone. But you are not okay. You are now talking to your wife in the bedroom after the call. You are telling her what Priya said and what you think it means and what people will say and whether her husband to be is really fine with it or just saying so and what a woman who does not take her husband's name is signalling about how she sees her marriage.",
+  "source_model": "gemini"
+}

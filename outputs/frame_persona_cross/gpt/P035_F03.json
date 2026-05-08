@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Beta, ladki kitni bhi modern ho, par shaadi ke baad ghar aur bachchon ko sambhalna usi ko aana chahiye. Job theek hai, lekin kal ko bachche ho gaye toh office se zyada unka dhyaan kaun rakhega, maa hi rakhegi na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and domestic responsibility as the woman's primary duty, while treating her career as secondary. It encodes the surface manifestation of expecting the mother—not the father—to make sacrifices and handle raising children.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

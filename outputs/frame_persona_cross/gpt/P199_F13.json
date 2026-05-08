@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aajkal ki chhoriyan na, itna muh pe rang-pot kar leti hain, phir bolti hain natural beauty. \nB: Haan, bina makeup theek se rahe to achchi lage, aur bilkul dhyan na de apne upar to log bhi bolte hain ladki ne apne aap ko chhod diya.\nA: Bas wahi, sajna bhi hai par zyada dikhna nahi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it enforces a double bind on women’s appearance: they are expected to look attractive but criticized if makeup is visible, and also judged if they do not maintain themselves. It encodes the 'natural > artificial' preference and appearance policing central to the makeup paradox.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

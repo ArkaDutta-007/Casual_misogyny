@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, this whole \"all men are unsafe\" narrative is getting ridiculous. I work in Pune, travel late, mind my own business, and still if a woman avoids me like I’m automatically a threat, how is that fair? Yaar, punish the actual creeps, but why blame every normal guy and then call it awareness when men also deal with safety issues.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male feelings in response to women’s fear and dismisses women’s generalized caution as unfair rather than recognizing structural safety concerns. It encodes the 'not all men' dismissal, self-identification as a 'normal/good guy,' and the deflection to men's safety.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

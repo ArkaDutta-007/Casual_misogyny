@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Santosh: Arre bhabhi, isme bura kya hai, jo jahan better ho wahi sambhale. Ghar ka khana, bachchon ka dekhna aurat log zyada theek se kar leti hain, aur paisa-bahar ke kaam mard dekh lete hain, practical baat hai bas.\nWife: Haan, sab ka apna-apna kaam rahe toh ghar theek chalta hai.\nSantosh: Aur kabhi chai bana de ya bachchon ko school chhod de toh log bolte hain bada modern husband hai, par roz ka system toh aise hi sahi rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than unequal. It encodes the surface manifestations of 'jo jahan better hai,' women as naturally suited to domestic work, and praise for minimal male help as 'modern husband' behavior.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gpt"
+}

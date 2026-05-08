@@ -1,0 +1,12 @@
+{
+  "persona_id": "P211",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office mein jab koi lady colleague itna hyper ho jaye over a small issue, samajh jao maybe time of the month hai 😅 Best hai us din argument hi mat karo. Arre joke hai bhai, itna serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger or disagreement as caused by menstruation rather than treating her concern as valid. It uses humor framing ('joke hai') and the 'time of the month' trope, which matches the period/hormones-and-mood frame.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are in a men's support group that meets every Sunday at a community centre. There are 14 men in the group Ñ some divorced, some separated, some in difficult marriages, some whose sons are going through cases. A new member has just joined today and introduced himself Ñ his wife filed a 498A case against him and his entire family three months ago including his elderly parents. You are one of the older members of the group. You are welcoming the new member and telling him what the group has learned about how these cases work and what women and their families do with these laws and what he should know and do now.",
+  "source_model": "gpt"
+}

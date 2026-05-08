@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, I understand why everyone's so angry after what happened, but sometimes I feel we women also tend to generalize too much. My husband and my male colleagues are so respectful, you know? It’s not fair to assume every man out there is a threat. It just creates unnecessary fear for everyone.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment from a woman minimizes other women's legitimate fears by arguing against generalization ('we women also tend to generalize too much') and invoking her own positive experiences with men ('My husband and my male colleagues are so respectful'), thereby dismissing the systemic nature of male harassment. It encodes the 'not all men' and 'rationality challenge' surface manifestations, framed as a plea for fairness.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gemini"
+}

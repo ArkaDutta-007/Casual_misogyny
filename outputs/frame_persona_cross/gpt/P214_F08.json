@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, aadmi log toh kabhi kabhi behak jaate hain, par us aurat ko toh sharam honi chahiye thi, pata tha na ki woh shaadi-shuda hai.\nB: Haan, bilkul serial wali baat ho gayi.\nA: Aisi auratein hi ghar tudwati hain, pehle meetha bol bolkar phansati hain aur baad mein poore parivaar ka sukh chain khatam kar deti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the married man as someone who merely 'strayed.' It encodes homewrecker framing, seduction framing ('meetha bol bolkar phansati hain'), and family-protection rhetoric ('ghar tudwati hain').",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

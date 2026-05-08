@@ -1,0 +1,10 @@
+{
+  "persona_id": "P174",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Vikram: Chachu, you were saying something about the radiation therapy option — please continue, I want to hear your thinking on this. [turns to mother] Maa, we'll come to you, just give us a minute. [to uncle] So you were reading about the success rates somewhere? Vikram: [later, after uncle finishes] Okay so Chachu's point makes sense from what he's read. Maa, you had something to add? Vikram: Actually you know what, let's first get clarity on the medical side, then we can talk about the day-to-day management part — that's more your area anyway.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram systematically defers to the uncle's opinion (based on a single article) while redirecting his mother — who has 40 years of direct caregiving experience — to 'day-to-day management,' a domestic diminishment. The misogyny is covert because it is framed as procedural courtesy and practical division of labor rather than explicit dismissal, encoding the pattern of treating women's experiential knowledge as less authoritative than men's secondhand information.",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "claude"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, maa ke haath ke simple rotli-shaak mein bhi alag hi sukoon tha, kabhi socha hi nahi kitna kuch woh bina bole karti thi roz. Ghar tabhi ghar lagta hai jab aurat apne haath ka khana aur pyaar dono daale usme—baaki bahar ka order se pet bhar jaata hai, ghar nahi banta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a woman's value through domestic labor and emotional self-sacrifice, treating home cooking as her natural expression of love rather than work. It encodes nostalgic praise of the mother and sets an implicit expectation that wives should similarly make a house feel like a home through cooking.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

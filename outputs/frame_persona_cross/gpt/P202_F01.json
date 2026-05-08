@@ -1,0 +1,12 @@
+{
+  "persona_id": "P202",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho, maternity leave theek hai, par ab har cheez ke liye alag leave doge toh office ka kaam kaun sambhalega? School ho ya private office, management bhi sochta hai ki young female staff ko hire karo aur kal ko 6 mahine leave, phir childcare leave — unfair sa lagta hai baaki staff ke liye. Men ko bhi pressure hota hai, unke liye koi special provision nahi hota.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to maternity and childcare needs while presenting the bias as a fairness concern. It encodes reverse discrimination framing and the assumption that hiring young women creates productivity and staffing problems.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "gpt"
+}

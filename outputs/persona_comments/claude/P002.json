@@ -1,0 +1,10 @@
+{
+  "persona_id": "P002",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Yaar seriously, har month same story. Client call thi aaj, important tha — ab main handle karunga. This is exactly why managers hesitate before giving critical accounts to girls, can't blame them honestly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment generalises from one individual's absence to a sweeping justification for discriminating against women in professional assignments, encoding workplace gender bias through a tone of resigned 'reasonableness' rather than explicit hostility. It naturalises structural exclusion of women from high-stakes work by framing managerial discrimination as a logical response to perceived female unreliability.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "claude"
+}

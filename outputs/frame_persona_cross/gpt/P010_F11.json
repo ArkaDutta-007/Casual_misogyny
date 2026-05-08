@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, I feel society would be so much better if men just looked at every woman as someone's mother, wife, or daughter first. Basic respect shouldn't come only after you know her relation, but that framing is still what makes people behave decently.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and entitlement to respect through their relationships to others rather than as individuals. It uses the classic 'someone's mother/wife/daughter' rhetoric while sounding protective and pro-woman on the surface.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

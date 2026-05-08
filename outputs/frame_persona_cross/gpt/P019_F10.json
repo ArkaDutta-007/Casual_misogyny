@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand women have genuine safety concerns, but I do feel we are becoming a little unfair in how we speak about men generally. Every male colleague or commuter is not a threat, and constantly behaving as if they are can become its own kind of prejudice. We should be careful not to teach young girls that suspicion of all men is the only sensible way to move through the world.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's fear and reframes their safety behaviors as unfair prejudice against men. It encodes the 'not all men' dismissal and challenges the rationality of women's wariness in a polished, professional register.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

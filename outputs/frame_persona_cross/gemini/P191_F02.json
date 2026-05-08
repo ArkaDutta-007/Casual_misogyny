@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "अरे, उसकी बात छोड़। औरतों का तो बस ऐसा ही होता है। आज गुस्सा है, कल शांत हो जाएगी। उनका दिमाग कब सीधा चलता है? हर महीने का खेल है।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment dismisses a woman's anger and rationality by attributing it to her inherent female nature and suggesting it's part of a monthly cycle ('हर महीने का खेल है' - 'it's a monthly game'). This implicitly links her emotional state to menstruation, rendering it less valid or rational. It encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it, albeit using colloquial and indirect language fitting the persona.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gemini"
+}

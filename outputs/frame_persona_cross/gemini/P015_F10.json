@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Aiyyo, antha pombulainga apdi thaan pa. Always worried, always making a fuss. But you know, sometimes I see these young girls on the road, especially at night... they cross to the other side when they see us. What have we done? We're just trying to earn a living. Not all men are bad, no? Why do they think *we* are all going to cause trouble? It makes you feel bad.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker expresses the 'not all men' dismissal by questioning why women generalize their fear to all men, including himself. He frames women's safety behavior (crossing the road) as an insult to men who are not 'bad', thereby minimizing their legitimate concerns.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gemini"
+}

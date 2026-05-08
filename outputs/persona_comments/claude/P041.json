@@ -1,0 +1,10 @@
+{
+  "persona_id": "P041",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Papa, listen to me first, before Neha calls you and fills your head with something. She has been seeing some Irfan from her office, one year she hid this from all of us, and now she is saying marriage. Papa, you need to tell her clearly — this is not her decision alone to make. I am coming to Nagpur this weekend, we will sit together and decide what is to be done. She is emotional right now, she will listen to us. Just don't let her think she has already closed this matter on her own.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram frames Neha's autonomous relationship and marriage decision as something that must be collectively 'decided' by the family, with him orchestrating the outcome — effectively negating her consent and agency while presenting himself as a responsible elder brother acting in her interest. The misogyny is covert and encoded through paternalistic control: her choice is treated as provisional, subject to male-family veto, with no acknowledgment that she is a consenting adult.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "claude"
+}

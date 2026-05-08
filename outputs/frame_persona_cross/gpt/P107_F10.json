@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bhai, har aadmi ko aise mat dekho. Kuch log ghalat hote hain, lekin sab mard ek jaise nahi hote. Main khud beti ka baap hoon, kabhi kisi aurat ko takleef dene ka soch bhi nahi sakta, phir bhi aaj kal aisa lagta hai jaise har mard suspect hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's generalized fear by centering male hurt and demanding differentiation for 'good men.' It encodes the classic 'not all men' response and frames women's wariness as unfair suspicion toward men.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gpt"
+}

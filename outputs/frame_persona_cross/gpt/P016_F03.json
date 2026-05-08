@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre kaam-vam theek kar legi, par shaadi-bacche ke baad asli dikkat shuru hoti hai. Aurat ko hi zyada dekhna padta hai ghar-bacchon ko, duty kaise sambhalegi phir?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it assumes childcare and home responsibilities naturally fall on women and questions a woman's ability to continue her job after marriage and children. It encodes career sacrifice framing and the expectation that mothers, not fathers, must primarily manage children.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

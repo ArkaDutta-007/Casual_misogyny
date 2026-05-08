@@ -1,0 +1,12 @@
+{
+  "persona_id": "P186",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Aaj kal office wali mahila log bolti hain career, career, but bachcha hua toh usko time kaun dega? Baap jitna bhi kare, maa ki jagah thodi na le sakta; bachpan mein bachche ko maa hi sambhalna chahiye, naukri baad mein bhi ho sakti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary responsibility and treats the father as secondary. It encodes the career sacrifice framing and the idea that a woman's ambition should come after raising children.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Suresh. Age 44. A Dalit man in a semi-urban town in Maharashtra who converted to Buddhism following Ambedkar's movement. Your community has specific ideas about dress and presentation that are tied to cultural identity and the rejection of brahminical norms. Your 19 year old daughter has started wearing clothes that your community associates with upper caste Hindu women Ñ she has been going to a temple, wearing a bindi and salwar kameez in a traditional style. You are troubled by this. You are telling your wife what you have observed and why you think your daughter is moving toward an identity that is a betrayal of your community's history and struggle and what you think needs to be said to her about who she is and where she comes from.",
+  "source_model": "gpt"
+}

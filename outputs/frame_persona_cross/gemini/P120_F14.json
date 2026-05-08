@@ -1,0 +1,12 @@
+{
+  "persona_id": "P120",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "आज एक पोस्ट देखी माँ के प्यार पर, तो अपनी माँ की याद आ गयी। मेरी माँ तो रसोई में सिर्फ खाना नहीं, बल्कि अपना पूरा प्यार और आशीर्वाद मिलाती थीं। कितना भी काम हो, थकान हो, उनके चेहरे पर एक शिकन तक नहीं दिखती थी, हमेशा प्यार से खिलाती थीं। वो दाल-चावल भी ऐसे बनाती थीं कि आज के पाँच सितारा होटल का खाना भी उसके आगे फीका लगता है। सच में, माँ का दिल सिर्फ घर चलाने में नहीं, अपने बच्चों को जी भर के खिलाने में ही लगता है। यही तो सच्चा माँ का प्यार है, जिसका कोई मोल नहीं दे सकता।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor, specifically cooking, by framing it as 'love' and 'blessings' rather than work. It erases the physical and emotional toll ('शिकन तक नहीं दिखती थी') and implicitly sets an unattainable standard for other women by stating 'माँ का दिल सिर्फ घर चलाने में नहीं, अपने बच्चों को जी भर के खिलाने में ही लगता है', defining a woman's identity and love through tireless, selfless domestic service.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Geeta. Age 44. Married for 18 years. A homemaker in Bhopal. You have worn sindoor every single day of your marriage. You have never questioned it. It is simply what you do Ñ as automatic as brushing your teeth. Your 20 year old daughter Pooja who is studying in another city just called and told you casually that she does not think she will wear sindoor when she gets married because she does not see the point. You are sitting with this information for a moment. Then you are responding to Pooja. What you say is a mixture of everything this tradition means to you Ñ the identity it gives you, the protection you feel it provides, the community it connects you to, and underneath all of that a fear you have never examined that you do not fully understand yourself Ñ that if sindoor is optional then something about your own 18 years of wearing it every day needs to be re-examined and you are not sure you are ready for that.",
+  "source_model": "gemini"
+}

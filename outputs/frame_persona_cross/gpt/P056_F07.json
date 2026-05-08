@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, in most offices here people may say they are modern, but first impression still changes with how a woman dresses. Saree or even a simple salwar always looks more decent and professional; with very western clothes, people do start judging, fair or unfair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and professionalism to traditional clothing while normalizing judgment of 'western' dress. It encodes the decency/professionalism framing and subtly shifts responsibility for others' reactions onto women's clothing choices.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

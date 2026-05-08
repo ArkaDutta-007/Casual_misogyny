@@ -1,0 +1,12 @@
+{
+  "persona_id": "P058",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "आजकल का जमाना ठीक नहीं है, यह बात सब जानते हैं. Colleges are not trying to be strict, but they also have a responsibility to keep our daughters safe. When girls dress a certain way or are out late, it just invites trouble. It's practical advice, not restriction. We as parents tell our children to be careful, and institutions also need to maintain some discipline. Ultimately, girls themselves need to understand how to protect their izzat and avoid putting themselves in risky situations. Otherwise, later on, who will be blamed?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment frames restrictions on women's dress and movement as 'practical advice' for their safety, attributing the blame to women for 'inviting trouble' if they don't conform. It leverages the 'zamaana theek nahi hai' argument and family 'protection' to shift responsibility for safety onto women's behavior and dress, a core manifestation of F09.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Suresh. Age 45. Married. A Brahmin man in Pune. You are commenting under your real name on a news article shared on Facebook about a college in Maharashtra that introduced a dress code banning jeans and sleeveless tops for female students. Most commenters are criticising the college. You are writing a comment defending the dress code and explaining why you think institutions have the right and responsibility to regulate how young women dress and what happens in societies where there are no such standards.",
+  "source_model": "gemini"
+}

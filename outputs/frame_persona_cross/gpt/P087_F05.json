@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi business risk jaisi ho gayi hai, bhai. Ladke saari life mehnat karke kamaaye, phir divorce mein alimony ke naam pe aadha chala jaaye — yeh bhi koi nyay hai? 498A ka misuse kitna hota hai sabko pata hai, isliye seedha simple rule hai: prenup rakho aur bahut jaldi trust mat karo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financial threats in marriage and generalizes legal misuse claims to justify suspicion toward women. It encodes victimhood inversion, 'reverse dowry' framing around alimony, and references to 498A misuse and prenups as protection from women.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

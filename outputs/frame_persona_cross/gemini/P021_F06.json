@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Dude, remember that girl I told you about from the networking event? The one who was being kinda 'unfriendly'? Turns out she's got a serious boyfriend. My friend saw them together. Once I heard that, I just let it go. Not my place to interfere when someone's already with someone, you know? Respect that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker ignores the woman's 'unfriendly' behavior (indicating disinterest or rejection) but immediately stops pursuing her upon learning she has a boyfriend, framing this as 'respect' for her partner's claim rather than her own autonomy. This directly aligns with F06's manifestation of stopping pursuit only after learning a woman is 'taken' and ignoring her direct disinterest.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

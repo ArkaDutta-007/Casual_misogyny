@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre bhai, aajkal kapdon ka bhi bahut asar hota hai. Jo ladki salwar-suit ya saree mein rahe na, woh zyada decent aur family type lagti hai; ye extra modern kapde pehenke phir bolte hain log comment kyun karte hain. Hamari Indian dress mein hi grace hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character ('decent', 'family type') and subtly blames harassment/commentary on women wearing 'modern' clothes. It encodes the traditional-dress-as-respectable trope and the clothing-harassment link under a cultural pride framing.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

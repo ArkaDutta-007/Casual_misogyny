@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have bad experiences, but saying things like \"men are unsafe\" about everyone is also unfair, no? There are plenty of decent men who have never done anything, and treating every male colleague or cab driver like a threat is a bit too much. Safety is important, but this constant suspicion is not healthy either.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the feelings of 'decent men' and framing women's wariness as unfair overgeneralization. It encodes the 'not all men' dismissal and challenges the rationality of women's safety behaviors.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

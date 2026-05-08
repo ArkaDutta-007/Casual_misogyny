@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: She said she doesn't take late-night cabs alone if the driver is a man. \nB: Fair enough no, these things happen.\nA: I get being careful, but yaar sometimes it feels like guys like us are being treated as default suspects for things we haven't even done. Not every man is out there to make women uncomfortable.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and fairness in response to women's safety precautions, instead of acknowledging why women may generalize from lived risk. It encodes the classic 'not all men' dismissal and frames women's wariness as an unfair insult to 'good guys.'",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gpt"
+}

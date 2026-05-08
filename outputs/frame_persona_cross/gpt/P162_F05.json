@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Suno ji, aajkal shaadi bhi seedha rishta kam, hisaab-kitab zyada lagta hai. Ladke wale poori zindagi kamaayein, phir divorce ho toh alimony deke alag se bhugto — yeh bhi koi nyay hai? 498A aur aise kanoon ka darr alag, mardon ke liye bhi ab soch samajh ke hi shaadi karni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women and marriage laws as financial threats to men, casting alimony as unfair extraction and invoking misuse of 498A. It uses concern-for-men language and victimhood inversion rather than openly abusive language.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

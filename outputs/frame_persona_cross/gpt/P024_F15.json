@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Deepak: Dekho beta, main zabardasti ke paksh mein nahin hoon, but shaadi ke baad thoda sindoor, mangalsutra rakhe toh aurat suhagan lagti hai, ghar ki maryada bhi dikhti hai. Aajkal ki ladkiyan isko bas fashion ya choice bol deti hain, par hamari parampara mein yeh sirf gehna nahin, pati ke sukh-saumangal ka prateek hai.\nSon: Par agar koi na pehne toh?\nDeepak: Na pehne toh theek hai, uski marzi, lekin phir woh baat nahin aati na—shaadi-shuda aur settled hone ki pehchaan honi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition, dignity, and auspiciousness rather than control, while judging women who do not wear them as lacking proper married identity. It encodes completeness/settledness framing, husband-welfare symbolism, and the 'personal choice but' pressure pattern.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

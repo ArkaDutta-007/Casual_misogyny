@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: That new regional head seems very sharp.\nB: Sharp toh hai, but aajkal companies also want one woman on top for image, no? Otherwise in our line such quick promotion is not easy. If she has reached there, either strong backing is there or she is the type who thinks like a man only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by attributing her promotion to diversity optics or 'strong backing' rather than competence. It also encodes masculinization by suggesting that being successful means she 'thinks like a man.'",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, with both of us working crazy hours, we just figured out what makes sense. Priya's naturally super organized with the house, managing the maid, cooking... and I handle the investments and anything 'technical' like car stuff. Jo jahan better hai, no? It's just practical for us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Karthik frames a traditional gendered division of labor (wife handles internal household, husband handles finances/external/technical) as a mutually agreed, practical, and natural arrangement, despite both partners working. This exemplifies the 'He handles finances, she handles home' described as a natural/efficient division, and uses the 'jo jahan better hai' linguistic cue.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I saw that news about period leave. Honestly, I get why it's needed, but what about us guys? If I take a day off for *anything* else, it's sick leave, affects appraisal. Aise toh how is it fair? Company ka loss bhi toh hai agar sab aise leave lenge.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic because it questions the fairness of menstrual leave by comparing it to men's sick leave and framing it as 'special treatment' that disadvantages men ('what about us guys?', 'how is it fair?') and creates a 'loss' for the company. It encodes the surface manifestations of 'questioning whether it is 'fair' to give menstrual leave when men don't get equivalent leave' and 'invoking productivity/cost arguments to oppose menstrual leave policies'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gemini"
+}

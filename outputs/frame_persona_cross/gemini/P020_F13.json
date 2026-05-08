@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, sometimes I see girls on Instagram or even in office, it's just so much makeup. Main sochta hoon, kya hide kar rahe hain? Natural beauty is way better, feels more confident.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it embodies the 'Makeup Paradox'. It polices women's appearance by implying that visible makeup is used for deception ('kya hide kar rahe hain?') and that women wearing 'too much' makeup are less confident, thereby valorizing 'natural beauty' as superior.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gemini"
+}

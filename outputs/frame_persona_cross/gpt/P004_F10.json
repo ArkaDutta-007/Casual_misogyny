@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Yaar, I understand women have genuine concerns, but every man should not be treated like a suspect by default.\nB: Haan, but they're being careful.\nA: Careful is fine, but this constant 'men are the problem' narrative is unfair. Main toh aisa nahi hoon, and plenty of decent men also feel judged for no reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male feelings and dismisses women's fear by framing their caution as unfair generalization. It encodes the 'not all men' response and the demand that women show trust toward men to avoid hurting 'good guys.'",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

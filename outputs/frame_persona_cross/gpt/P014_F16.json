@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Bro honestly in most homes jo jahan better hai wahi handle karta hai. Dad deals with money, car, outside work and mom manages kitchen and house stuff way better than any of us, so why force equal-equal for everything? Even in working couples, if the guy helps sometimes that's already pretty solid yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it presents a gendered division of labor as natural and efficient rather than unequal. It encodes the 'he handles finances, she handles home' framing and celebrates minimal male contribution as sufficient.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

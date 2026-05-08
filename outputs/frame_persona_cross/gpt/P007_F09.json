@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Dekhiye, main hamesha kehta hoon ghar ki ladkiyon ko unnecessary late hours avoid karne chahiye. Zamaana theek nahi hai, aur practical hona padta hai. B: Sir, par galti toh karne walon ki hai. A: Bilkul hai, lekin incident ke baad pehla sawal yahi uthta hai na ki itni raat ko akeli kyun thi, kis area mein thi. Prevention bhi responsibility ka hissa hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and normalizes restricting their movement instead of focusing on male violence. It encodes protective framing, 'zamaana theek nahi hai,' and post-assault victim questioning about why she was alone late at night.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

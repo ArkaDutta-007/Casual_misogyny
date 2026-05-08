@@ -1,0 +1,12 @@
+{
+  "persona_id": "P210",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, har cheez equal-equal karne se ghar nahi chalta. Jo jahan better ho wahi sambhale na—mard log bahar ke kaam, paise-vaise dekh lete hain, aur aurat ko ghar, bachche, rasoi zyada samajh aati hai. Kabhi kabhi pati chai bana de ya bazaar se samaan le aaye toh accha lagta hai, par roz ka ghar toh aurat hi sambhalti hai, practical baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes a gendered division of labor as 'practical' and based on who is supposedly better suited. It encodes the surface manifestations of 'he handles finances, she handles home' and praising minimal male contribution as exceptional.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "gpt"
+}

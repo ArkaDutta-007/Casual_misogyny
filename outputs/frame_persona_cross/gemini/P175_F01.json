@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, ye period leave ka system sahi nahi hai. Matlab, hum log ko toh koi break nahi milta na aise, toh unko har mahine ek din kyu? Aise toh productivity ka kya hoga? Company ka bhi toh sochna padega na.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness of menstrual leave by invoking a comparison to men's lack of equivalent leave and expressing concern over company productivity/cost. It encodes the surface manifestations of 'questioning fairness' and 'invoking productivity/cost arguments'.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bhai Sahab, yeh jo naye teachers aaye hain na, inki toh bilkul samajh hi nahi aati. Ab woh Sunita ji ko hi dekh lo. Pata tha ki Verma ji parivaar wale aadmi hain, bachhe hain unke. Phir bhi aise chipakti rehti thi. Ghar todne mein ek aurat ka hi haath hota hai, bechare aadmi toh kya karein, phasa leti hain aisi auratein.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment entirely blames the female teacher for an affair, framing her as a seductress ('phasa leti hain aisi auratein') who actively pursued a married man, thus 'breaking' his family ('ghar todne mein ek aurat ka hi haath hota hai'). It portrays the man as a helpless victim ('bechare aadmi toh kya karein'), exemplifying homewrecker framing and male victimhood.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gemini"
+}

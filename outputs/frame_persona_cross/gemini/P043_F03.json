@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Sun na, didi, Kavya acchi ladki hai, no doubt. Par woh job-oriented bahut hai. Kal Rohit ko bol rahi thi ki woh corporate ladder climb karna chahti hai. Main toh bas soch rahi thi... agar kal ko bacche ho gaye, toh phir unko kaun dekhega? Yeh office, career toh sab chalta rahega, par bachpan toh wapas nahi aata na? Aur ek maa ka role toh koi aur le hi nahi sakta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Anita expresses concern about Kavya's career ambitions, implying a woman's primary duty is childcare and that career should be secondary once children arrive. This aligns with 'framing a woman's career ambition as selfish if she has/wants children' and 'career sacrifice framing' as a maternal duty.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gemini"
+}

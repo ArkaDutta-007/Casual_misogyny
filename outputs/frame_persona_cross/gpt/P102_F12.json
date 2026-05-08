@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Suresh ji, aap log har baat mein yeh maa-behen wali gaali kyon bol dete hain? Galat lagta hai.\nB: Arre bhai, itna serious mat lo. Hamare zamane se bolte aaye hain, iska matlab thodi hota hai ki kisi ki maa-behen ko bol rahe hain.\nB: Bas gusse ka expression hai. Aur aadmi ho, thoda strong bano, itni chhoti baat pe offend mat ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in female family members and dismisses concerns by saying it is 'just expression.' It also encodes feminizing sensitivity as weakness through 'aadmi ho, strong bano,' matching the frame's normalization and masculinity-femininity insult structure.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

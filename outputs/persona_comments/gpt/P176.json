@@ -1,0 +1,10 @@
+{
+  "persona_id": "P176",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Ananya, tumi thak, these practical site matters are different from office drawing. We have seen all this before, let the men finish the costing first. If needed, then you can tell us about colours and inside arrangement.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses Ananya's professional expertise and confines her input to decorative, domestic aspects while treating men as the real decision-makers. It encodes the surface manifestation of women's opinions being discounted as less knowledgeable or less authoritative.",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gpt"
+}

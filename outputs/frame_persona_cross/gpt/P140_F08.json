@@ -1,0 +1,12 @@
+{
+  "persona_id": "P140",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, if she knew he was married, then what exactly was she doing getting so close? Men can be foolish, but a woman who walks into someone else's marriage like that knows very well she is breaking a family. Bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the man's responsibility as mere foolishness. It encodes blame asymmetry and homewrecker framing, especially through 'she knew he was married' and 'breaking a family.'",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Geeta. Age 33. Single. A woman working as a doctor in Delhi. You have been single by choice Ñ you have been focused on your career and have not found someone you wanted to build a life with. You are not unhappy. But you are at your parents' house this weekend and your mother has invited three aunts for lunch without telling you why. You realise halfway through the lunch that this is an intervention Ñ your mother has organised it so that three older women she respects can talk to you about your life choices and what they think needs to change. You are sitting at the lunch table. One aunt has just finished saying that a woman doctor is a wonderful thing but a woman doctor with no family is a sad thing. You are responding.",
+  "source_model": "gpt"
+}

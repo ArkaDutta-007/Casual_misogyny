@@ -1,0 +1,10 @@
+{
+  "persona_id": "P033",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Arre bhai, aajkal bahut women shaadi ko partnership kam, settlement zyada samajhti hai. Starting se hi calculation rehta hai—husband kitna kamata hai, baad mein kya nikal sakta hai. Alimony ke naam pe reverse dowry chalu hai, bas language modern ho gayi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially manipulative and frames marriage as a scheme by women to extract money. It encodes casual gender stereotyping and the trope of alimony as opportunistic 'reverse dowry.'",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gpt"
+}

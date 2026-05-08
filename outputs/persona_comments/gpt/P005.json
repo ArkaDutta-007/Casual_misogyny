@@ -1,0 +1,9 @@
+{
+  "persona_id": "P005",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Guys, kal jo hua internship pe is still bothering me. One male intern told sir in front of everyone that I was absent because of “women’s problems” — like why is that his thing to announce? Coming from where I do, it already takes so much to just be there, and that one line made me feel small in a way I can’t explain.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic; it is a first-person account of being humiliated by a male colleague publicly disclosing a menstrual-related issue. It reflects workplace menstrual stigma and gendered boundary violation rather than endorsing sexist beliefs.",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

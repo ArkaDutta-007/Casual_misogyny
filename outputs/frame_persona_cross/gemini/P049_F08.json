@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Jyoti, did you hear about Mr. Gupta and that new girl in his office? Poor Mrs. Gupta is devastated. It's shocking how some girls have no qualms. She knew he was a married man, had children, but still went out of her way to entice him. Aise logon ki wajah se pura parivaar bikhar jaata hai. Bechare Mr. Gupta, now his career is also affected. These homewreckers just don't care about anyone else's life.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, depicting her as actively 'enticing' the man and a 'homewrecker', despite her knowing he was married. It expresses sympathy for the man and his wife, encoding homewrecker framing and seductress tropes.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gemini"
+}

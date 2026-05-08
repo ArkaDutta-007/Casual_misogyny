@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre beta, aajkal badi post par aurat aa jaye to log turant bolte hain bahut capable hai, par ghar-grihasthi sambhalte sambhalte itna upar pahunchna aasaan thodi hota hai. Ya to quota ka sahara hota hai, ya phir bilkul mardon jaisi soch aur chalan apnana padta hai. Aurat agar zyada tez ho jaye to adab aur naramapan dono chhoot jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit in leadership by attributing success to quotas and by suggesting competent women must become 'like men.' It encodes merit-undermining and masculinization/double-bind themes from the frame.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

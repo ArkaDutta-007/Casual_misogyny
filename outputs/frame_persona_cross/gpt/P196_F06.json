@@ -1,0 +1,12 @@
+{
+  "persona_id": "P196",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Vikram: Arre I only stopped messaging her after I found out she was already with someone. Before that I thought she was just acting pricey.\nFriend: But she had already said no, right?\nVikram: Haan, but if she's taken then that's different, yaar. I won't interfere in another man's matter.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker dismisses the woman's direct refusal but treats her being 'with someone' as the real boundary. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken' and framing respect in terms of another man's claim rather than her consent.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "gpt"
+}

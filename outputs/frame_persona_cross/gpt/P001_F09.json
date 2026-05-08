@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Machan, world is not that safe now, no. For girls it's better not to roam alone late night and avoid shady places. I'm not blaming anyone da, just being practical — they should be careful also.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes restrictions on their movement instead of focusing on male violence. It encodes protective framing and 'just being practical' advice about not going out late or alone.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

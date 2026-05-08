@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro, I’m not saying she’s not smart, but this sudden promotion also looks a bit like diversity push only. Otherwise tell me, in our team who gets fast-tracked like that? She’s good, but she also has that super aggressive, one-of-the-guys vibe which management seems to love.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman’s promotion as likely due to diversity hiring rather than merit, and frames her competence as acceptable only because she is 'one of the guys.' It encodes merit-undermining and masculinization in a casual corporate register.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "At this stage, young women must also understand how society reads these situations. If a man is pursuing you, a plain no may not always land, but once it is clear you are committed, most decent men will step back and respect that boundary. It may not be ideal, but one has to be practical about how the world works.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it normalizes men respecting a woman's relationship status over her own direct refusal. It encodes the surface manifestation that a woman's 'no' is less legitimate than another man's implied claim or ownership.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

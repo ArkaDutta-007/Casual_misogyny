@@ -1,0 +1,12 @@
+{
+  "persona_id": "P202",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach kahun, maa ke haath ki roti aur dal ki baat hi alag hoti hai. Puri zindagi bina thake ghar ko sambhala, sabko khilaya, kabhi isse kaam nahi samjha, pyaar samjha. Aaj kal ki bahuon ko bhi yahi samajhna chahiye ki ghar ka swaad aur garmahat aurat ke haath se hi banti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother's unpaid domestic labor as love rather than work, and then sets that as an expectation for daughters-in-law. It encodes both nostalgic praise of 'maa ke haath ka khana' and the comparison mechanism that women should sustain family through cooking.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "gpt"
+}

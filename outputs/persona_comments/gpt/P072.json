@@ -1,0 +1,10 @@
+{
+  "persona_id": "P072",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Ramesh: Priya, time dekha hai? Saade nau baje ghar aa rahi ho, ye koi ladkiyon ke aane ka time hota hai?\nRamesh: Kuchh ho jaata raste mein toh zimmedar kaun hota? Duniya bahut kharab hai, isliye ladki ko apni hadd samajhni chahiye. Aaj ke baad andhera hone se pehle ghar pahunchna, samjhi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places the burden of preventing harm on the daughter and frames restrictions on her movement as natural for 'ladkiyon.' It encodes victim-blaming and the idea that women's safety is primarily their own responsibility rather than condemning potential perpetrators.",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

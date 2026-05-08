@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Meena: Aaj kal ki ladkiyan bahut aage badh rahi hain, achchi baat hai, par aurat ki asli pehchaan to tabhi banti hai jab woh kisi ghar ki bahu, patni aur kal ko maa bane. Tabhi uski baat mein ek alag garima aati hai.\nHusband: Haan, rishton se hi to izzat judti hai.\nMeena: Bas, ye baat pyaar se samjhani chahiye, kyunki aurat ko uske apnon ke roop mein hi sabse zyada maan milta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it sounds respectful toward women but defines their worth and dignity through family roles like wife, daughter-in-law, and mother rather than as individuals. It encodes relational framing and conditional respect based on service to male kin structures.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

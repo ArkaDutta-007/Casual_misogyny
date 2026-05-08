@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Kamla: Arre, aajkal ki auratein zara si baat par itna gussa ho jaati hain, samajh nahi aata baat ka kya hai aur hormones ka kya hai. \nHusband: Haan, bina wajah ka mood kharab rehta hai kabhi kabhi. \nKamla: Bas phir ghar walon ko hi jhelna padta hai, baad mein bolo toh kehti hain hum samajhte nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women’s anger as caused by 'hormones' and 'mood,' implying their reactions are irrational rather than valid. It encodes the frame through indirect hormonal attribution and trivialization of women’s emotions in a family setting.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

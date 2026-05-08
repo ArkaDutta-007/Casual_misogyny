@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre beta, har aadmi ko aise mat dekho. Sab mard bure nahi hote, kuch ghatnaon ki wajah se har kisi par shaq karna bhi theek nahi hai. Achhe ghar ke, shareef aadmi bhi hote hain, unko bhi bura lagta hai jab auratein pehle se hi dar ke saath judge kar leti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their safety-based wariness as unfair treatment of men. It encodes the 'not all men' dismissal and the demand that women should not generalize from patterns of male violence or harassment.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

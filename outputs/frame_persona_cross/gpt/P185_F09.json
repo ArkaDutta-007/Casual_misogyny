@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Beta, bura mat maanna, main sirf practical baat kar raha hoon. Delhi mein zamaana theek nahi hai, ladki ko raat mein akeli ya aise kapdon mein ghoomne se bachna chahiye—baad mein kuch ho jaye toh log pehle yahi poochte hain ki itni der kyun thi aur saath mein kaun tha. Apna khayal rakho, office se late ho toh cab lo aur kisi ko saath rakho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and shifts responsibility for safety onto women's dress, timing, and company. It encodes protective/restriction advice and post-assault victim questioning as 'practical' concern.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P016",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Kaam theek hai uska, koi issue nahi — bas ek hafta mein do-teen din aisa hota hai jab seedha mat karo yaar. Pata nahi kya chakkar hai, ek minute normal, doosre minute mood kharab. Hum log toh already samajh gaye hain — us time chup rehna hi sahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames a female colleague's presumed menstrual cycle as an unpredictable, hazardous workplace condition that male coworkers must navigate, reducing her professional identity to a hormonal stereotype. It encodes the 'women are emotionally unreliable due to biology' trope without using explicit slurs, making it covert casual misogyny.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "claude"
+}

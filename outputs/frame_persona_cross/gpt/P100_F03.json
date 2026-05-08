@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "My cousin was saying she might not take the promotion because of future kids, and honestly that makes sense to me. Job toh chalti rahegi, but when children come, maa ko hi zyada dekhna padta hai — fathers help, of course, but that natural attachment is different.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother's responsibility and frames fathers as secondary helpers. It encodes career sacrifice framing and the idea that women should prioritize childrearing over professional advancement.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gpt"
+}

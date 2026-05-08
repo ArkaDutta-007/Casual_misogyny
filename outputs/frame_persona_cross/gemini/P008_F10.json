@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, sometimes I feel like we women just overthink things a bit much, you know? Most guys are harmless, especially in a city like Chennai. We can't just assume the worst about everyone, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Preethi minimizes other women's safety concerns by framing them as 'overthinking' and 'assuming the worst'. This encodes the 'Not All Men' dismissal and a rationality challenge, where women's wariness is presented as irrational rather than a valid response to societal patterns.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gemini"
+}

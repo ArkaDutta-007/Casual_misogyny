@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre, aajkal ke chhokre bhi seedha ladki se puchte rehte hain, woh mana kare toh bhi peeche padte hain.\nB: Haan, pehle dekh lo kisi ke saath hai kya. Agar uska aadmi hai toh hat jao, bekaar izzat ka sawaal hota hai.\nA: Bas wahi samajhna chahiye. Ladki na bole toh alag baat, par kisi ki hui ho toh door rehna hi theek.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own refusal as less final than her belonging to another man. It encodes the surface manifestation of stopping pursuit only when she is understood to be 'taken' and using ownership language like 'uska aadmi' and 'kisi ki hui ho'.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

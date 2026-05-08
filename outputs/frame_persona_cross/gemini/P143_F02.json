@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Neighbour: \"Meena seemed a bit quiet when she left, Sunita. Is everything alright?\"\nSunita: \"Aiyyo, don't ask, Akka! This morning she was so snappy with me. I just told her, 'enna Meena, it's that time of the month, no? Don't take everything so seriously, chill out.'\"",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Sunita dismisses her daughter's moodiness and snappiness by attributing it directly to her period ('that time of the month'), thereby invalidating her emotional state. This encodes the core belief that women's emotional states are biologically determined and less rational, a surface manifestation of 'attributing a woman's anger or assertiveness to her period' combined with dismissive language.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, yeh actresses bhi na! Itna make-up lagate hain ki pehchan na mushkil ho jaata hai. Asli beauty toh natural hoti hai, bina itne chemicals ke. Hum toh natural looks ko hi prefer karte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a married man in Mumbai, expresses a preference for 'natural beauty' while implicitly criticizing actresses for using 'too much makeup', framing it as a deceptive act that hides their 'real' face. It exemplifies the 'Makeup Paradox' by valuing 'natural' while penalizing visible effort and encodes the 'I prefer natural women' covert example.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

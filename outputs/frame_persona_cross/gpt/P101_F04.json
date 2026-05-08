@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Office mein sab bol rahe the our new VP is very sharp, and honestly she thinks like a man, tabhi she could handle this scale. Otherwise itna fast promotion in big tech is rarely just merit yaar, diversity push bhi hota hi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames competence in leadership as masculine ('thinks like a man') and undermines the woman's promotion by implying it may be due to diversity hiring rather than merit. It encodes both masculinization as praise and merit-undermining through quota/diversity suspicion.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

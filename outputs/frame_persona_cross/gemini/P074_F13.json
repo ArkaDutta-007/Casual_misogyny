@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Dekho, yeh ladkiyan bhi na… itna heavy makeup karke lagta hai ki kuch chhupa rahi hain. Bina makeup ke toh zyada acchi lagti hogi. Sab yeh influencers ka asar hai, sab dikhava.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, made by a mother to her daughter, exemplifies the 'too much makeup' aspect of the paradox, implying that makeup is used for deception and that 'natural' beauty is preferable. It also suggests that excessive grooming is shallow ('sab dikhava'), critiquing women for visible effort in appearance.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gemini"
+}

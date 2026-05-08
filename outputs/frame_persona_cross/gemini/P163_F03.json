@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Suresh bhai, tumhari bahu toh bahut achha kar rahi hai. Office bhi aur ghar ka bhi sab dekhti hai, upar se chhota bachha bhi hai. Kaise manage karti hai? Sach mein, aaj kal ki bahuon ko salute hai, sab sambhal leti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while sounding like praise, is misogynistic because it highlights the 'extraordinary' effort a woman makes to manage both work and home/childcare, implying this dual burden is her primary responsibility. It encodes the surface manifestation of 'Praising a working mother for 'managing both' as extraordinary, while it's invisible for fathers' and the core belief that childcare/domestic labor are primarily the woman's domain.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gemini"
+}

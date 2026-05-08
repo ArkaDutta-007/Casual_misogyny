@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Suresh: Arre bhai, ghar ka hisaab-kitab aur bahar ke kaam mard hi theek se dekh lete hain, aurat ko waise bhi rasoi-bacche sambhalne mein haath baitha hota hai. Jo jahan better ho wahi kare toh ghar theek chalta hai, isme bura kya hai?\nCousin: Haan, aajkal ke log faltu barabari dikhate hain har baat mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than discriminatory. It encodes the surface manifestation of 'he handles finances, she handles home' and the phrase 'jo jahan better ho' as covert justification.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gpt"
+}

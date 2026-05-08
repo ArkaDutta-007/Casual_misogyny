@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I just don't get the whole heavy makeup trend. Like, thoda bahut theek hai, but jab you look completely different without it, it just feels like catfishing. As a guy, I personally prefer girls who are confident enough to show their natural beauty. Bina makeup ke zyada acchi lagti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses the belief that heavy makeup is deceptive ('catfishing') and implies women should present a 'natural' appearance, thereby critiquing visible effort in grooming and upholding an unrealistic standard of 'effortless' beauty. It reflects the surface manifestation of 'too much makeup' comments implying deceptiveness and praising women for looking 'natural'.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gemini"
+}

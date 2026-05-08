@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Machan, nobody is forcing anything, but after marriage these small things matter da. Mangalsutra or sindoor gives that proper settled look only, it's part of our culture and respect for the relationship.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that a married woman should visibly display marital markers to appear 'proper' or 'settled.' It encodes tradition/completeness framing while masking social pressure as culture and respect.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

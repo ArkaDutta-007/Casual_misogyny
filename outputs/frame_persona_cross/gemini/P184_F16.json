@@ -1,0 +1,12 @@
+{
+  "persona_id": "P184",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Yaar, honestly, for us it just works out. Rahul is always so swamped with work and travel, so it's practical that I manage most of the house. I mean, let's be real, ghar ka kaam toh aurat hi better karti hai na? He handles all the finances and outside stuff so efficiently. And he even makes chai sometimes in the morning, which is super sweet of him! We just sort of fell into these roles naturally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment from Meera exemplifies F16 by justifying a highly gendered division of labor as 'practical' due to her husband's work schedule. She internalizes and naturalizes the belief that women are inherently better at domestic tasks ('ghar ka kaam toh aurat hi better karti hai na?'). It also shows the celebration of minimal male contribution ('super sweet of him!') and the 'we just fell into these roles' framing, indicating a covert, internalized misogynistic perspective.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gemini"
+}

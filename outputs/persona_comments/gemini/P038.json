@@ -1,0 +1,10 @@
+{
+  "persona_id": "P038",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "अरे, अपने रामभाऊ के लड़के का क्या हुआ! दो साल में ही सब खत्म. बीवी सारा सोना लेके उड़ गई. मैंने तो पहले ही बोला था, ये शहर की लड़कियाँ, या जिनका बाप-भाई ज़्यादा 'पढ़ा-लिखा' होता है ना, इनका दिमाग ही अलग होता है. इनको बस मौका चाहिए होता है, कैसे 'निकल लो' पैसा लेके. पहले की औरतें घर बसाती थीं, अब तो बस मौका देखके 'लूटो और निकलो'. आज के छोकरों को तो दस बार सोचना चाहिए शादी करने से पहले, नहीं तो उम्र भर की कमाई ऐसे ही लुटा देंगे.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic as it generalizes negative financial opportunism to women from specific backgrounds ('शहर की लड़कियाँ, या जिनका बाप-भाई ज़्यादा 'पढ़ा-लिखा' होता है') and frames modern women as 'looters' who exploit marriage for personal gain ('लूटो और निकलो'), contrasting them negatively with traditional wives. It encodes the surface manifestation of 'Alimony as Reverse Dowry' by portraying the wife taking gold as a form of exploitation.",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gemini"
+}

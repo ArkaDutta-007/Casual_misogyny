@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I have no issue with women in leadership, but let us be honest: in many corporates today, visibility and diversity targets are doing a lot of the heavy lifting. When a woman rises that fast, people naturally wonder whether it was pure merit or a quota-driven decision. The truly exceptional ones succeed because they think very practically, almost like men do in high-pressure roles.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as potentially due to diversity quotas rather than merit, and frames competence in leadership as masculine. It encodes merit-undermining and masculinization in a polished corporate register.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

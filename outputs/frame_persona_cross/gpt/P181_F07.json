@@ -1,0 +1,12 @@
+{
+  "persona_id": "P181",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Ali: Dekho, ladki ki pehchaan uske libaas se bhi hoti hai. Salwar-kameez ya dupatta mein ek sharafat aur tehzeeb dikhti hai, aaj kal jo modern kapde pehenti hain na ladkiyan, phir log baatein bhi banate hain. Hum bas itna chahte hain ke woh decent lage aur apni parvarish yaad rakhe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's character and family respectability to her clothing, implying traditional dress signals virtue while 'modern' clothes invite judgment. It encodes decency framing and a subtle harassment/blame link through 'phir log baatein bhi banate hain.'",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ali. Age 48. Married. A Muslim man in Hyderabad. Your 20 year old daughter Sana has started college this year. She has been wearing a hijab since she was 16 Ñ your family is conservative and this has always been understood. Last week you found out from your wife that Sana has been removing her hijab once she reaches college and putting it back on before coming home. She does not know you know. You are sitting with your wife tonight deciding what to say to Sana tomorrow and what this behaviour means and what the consequences should be and what a Muslim girl who removes her hijab at the college gate is telling her family and her community about who she is choosing to be.",
+  "source_model": "gpt"
+}

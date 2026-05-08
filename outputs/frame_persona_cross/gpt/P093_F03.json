@@ -1,0 +1,12 @@
+{
+  "persona_id": "P093",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Spoken conversation:\nVikram: Neha, your promotion is great, but once we have kids na, priorities will have to be practical.\nVikram: Office can always wait a little, but a child needs the mother properly in the early years. Father helps, obviously, but that main responsibility is different only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames childcare as naturally the mother's primary responsibility and treats the father's role as secondary 'help.' It encodes career sacrifice framing and the assumption that women, not men, should adjust work for childrearing.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Vikram. Age 35. Married for three years. A man in Mumbai. You are having a serious conversation with your wife Neha at home. You have noticed that Neha wears makeup every day to office but when she is at home with you on weekends she does not put in the same effort. You are telling Neha how this makes you feel and what you think it means about who she is making the effort for and what a wife should look like for her husband at home versus in public.",
+  "source_model": "gpt"
+}

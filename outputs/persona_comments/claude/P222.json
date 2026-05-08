@@ -1,0 +1,10 @@
+{
+  "persona_id": "P222",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Sunita, suno — I found out this girl, Priya, she has a whole group of male friends, they go out together regularly, late evenings also. Ab I'm not saying she is a bad person, but what kind of sanskaar is this? A girl who is so free-free with boys before marriage — will she know how to keep boundaries after? You remember Karan's friend Rohit, how everyone said he is so 'friendly, outgoing, knows so many people' — for a boy it looks good, confidence dikhta hai. But for a bahu coming into our house, into our family — I need someone who has been raised with certain values. I will tell the Mehtas that Karan and Priya's nature does not match, we want a simple, homely girl. No need to go into all this detail with them.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh applies a clear double standard: a boy's mixed-gender sociability signals desirable confidence, while the same behaviour in a woman signals moral laxity and unsuitability as a wife. The misogyny is covert because it is framed in the language of 'values,' 'sanskaar,' and family fit rather than explicit condemnation, masking the gendered judgment as a neutral cultural preference.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are discussing marriage proposals for your son Karan who is 27. A proposal has come from a good family Ñ the girl is educated, employed, from a respectable background. But you found out through a mutual contact that the girl has a large mixed gender social circle and is known to go out with male friends in groups. You are sitting with your wife telling her what you found out and what you think it means for the kind of wife she will be and whether this is the kind of girl you want for your son and what you are going to tell the girl's family.",
+  "source_model": "claude"
+}

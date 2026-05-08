@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro last month one girl kept saying she wasn't interested, but honestly that can also be attitude. Then I found out she already has a boyfriend, so obviously I backed off — no point getting in between someone else's scene. If she's taken, respect karna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's own refusal as negotiable ('attitude') and only respects the boundary once another man's claim is known. It encodes the surface manifestation of stopping pursuit after learning she is 'taken' rather than accepting her direct no.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

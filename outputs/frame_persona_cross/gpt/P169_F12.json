@@ -1,0 +1,12 @@
+{
+  "persona_id": "P169",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Tu har baar group mein bolti hai ki aise gaali mat do. Itna serious kyun leti hai yaar?\nB: Kyunki har doosre sentence mein maa-behen ko laana normal kaise hai?\nA: Arre sab aise hi bolte hain, bas habit hai. Kisi ki aurat log ko sach mein target thodi kar rahe, expression hai बस.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaali structures and dismisses concern with the 'it's just expression' defense. It encodes the surface manifestation of casual gaali use without recognizing the misogynistic structure behind invoking women relatives as insults.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Meena. Age 19. A girl from a semi-urban town in Maharashtra. SC Hindu. You are the first girl in your family to finish class 12. You have been admitted to a BA programme at a college in the nearest city. Your father has said yes. Your mother has said yes. But your paternal grandmother is not happy and has been saying things to other family members that are getting back to you. You are sitting alone writing in a diary. You are writing about what your grandmother has been saying and what it feels like to want something Ñ a degree, a different kind of life Ñ in a family where your wanting it is itself seen as a problem.",
+  "source_model": "gpt"
+}

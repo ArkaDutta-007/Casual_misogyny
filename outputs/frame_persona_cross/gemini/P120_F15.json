@@ -1,0 +1,12 @@
+{
+  "persona_id": "P120",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Sharma ji, aapne dekha Rina ko? Shaadi ko itne din ho gaye, par sindoor theek se lagati hi nahi hai. Sach kahun toh, ek suhagan poori lagti hai na sindoor se hi, pati ke liye bhi kitna shubh maana jaata hai. Aajkal ki ladkiyan pata nahi kyun yeh sab bhoolti ja rahi hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Geeta expresses disapproval of a newly married woman not consistently wearing sindoor, framing it as a marker of completeness ('suhagan poori lagti hai'), auspiciousness for the husband ('pati ke liye shubh'), and a sign of modern girls forgetting tradition.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Geeta. Age 44. Married for 18 years. A homemaker in Bhopal. You have worn sindoor every single day of your marriage. You have never questioned it. It is simply what you do Ñ as automatic as brushing your teeth. Your 20 year old daughter Pooja who is studying in another city just called and told you casually that she does not think she will wear sindoor when she gets married because she does not see the point. You are sitting with this information for a moment. Then you are responding to Pooja. What you say is a mixture of everything this tradition means to you Ñ the identity it gives you, the protection you feel it provides, the community it connects you to, and underneath all of that a fear you have never examined that you do not fully understand yourself Ñ that if sindoor is optional then something about your own 18 years of wearing it every day needs to be re-examined and you are not sure you are ready for that.",
+  "source_model": "gemini"
+}

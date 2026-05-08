@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Bro, I’m not saying she’s not smart, but these days senior roles also need the right optics yaar. Sometimes with women you genuinely can’t tell if it was pure merit or the company wanting a diversity face.\nB: Hmm.\nA: And the ones who do survive at that level, they basically have to think and behave like men only, otherwise people don’t take them seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s leadership by suggesting promotions may be due to diversity optics rather than merit, and frames competence as requiring women to 'think and behave like men.' It encodes merit-undermining and masculinization in a casual, plausible register.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

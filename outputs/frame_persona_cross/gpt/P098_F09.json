@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly yaar, we can talk about how men should behave, but till things actually change we also have to be practical. If you're out late or travelling alone, at least avoid isolated areas and dress a little low-key — zamaana theek nahi hai, and then afterwards everyone asks why she was alone in the first place.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily their own responsibility and shifts focus from male violence to regulating women's behavior, clothing, and mobility. It uses protective/practical language and includes victim-questioning ('why she was alone') typical of this frame.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

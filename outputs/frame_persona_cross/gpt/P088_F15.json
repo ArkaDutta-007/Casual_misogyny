@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Sunita: Arre bhai, shaadi ke baad thoda sindoor, mangalsutra pehne toh aurat suhagan lagti hai, poori si. Aajkal ki ladkiyan bolti hain choice hai, theek hai, par hamari parampara ka bhi toh maan hona chahiye. Naam tak na badle, kuch pehne bhi na, toh shaadi-shuda hone ka ehsaas hi kahan dikhta hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers and name change as necessary for a married woman's completeness and legitimacy. It encodes tradition framing, completeness framing, and subtle judgment of women who do not display married status markers.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

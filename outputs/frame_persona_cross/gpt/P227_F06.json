@@ -1,0 +1,12 @@
+{
+  "persona_id": "P227",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "He kept messaging me even after I told him clearly I wasn't interested. The moment he found out I'm married, suddenly it became, 'Oh ma'am, I didn't know, I respect that.' Strange how my no was not enough, but a husband's presence made him understand.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This encodes the idea that a woman's refusal is negotiable until a male partner's claim is known. It reflects the surface manifestation of stopping pursuit only after learning she is 'taken,' framed as respect.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a senior manager at a company in Delhi. A younger female colleague named Ritu who is 26 has become close friends with two male colleagues Ñ they eat lunch together every day, they go for after work drinks sometimes, they are in each other's Instagram stories. You are Ritu's skip level manager. You are not her friend. But you have noticed this and you have heard comments from other people in the office. You are having an informal conversation with Ritu today and you bring up what you have observed and give her some advice about optics and what people are saying and what a woman in a professional setting needs to understand about how her social choices affect her reputation.",
+  "source_model": "gpt"
+}

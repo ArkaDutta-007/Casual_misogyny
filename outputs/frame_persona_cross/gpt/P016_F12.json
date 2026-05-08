@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Bhai tu har baat pe woh maa-behen wali gaali kyun nikal deta hai?\nB: Arre yaar, itna serious mat le, bas muh se nikal jaati hai. Kisi ki aurat-log ko thodi bol raha hoon, normal expression hai.\nA: Haan, par galat lagta hai kabhi-kabhi.\nB: Police line mein sab aise hi bolte hain, warna aadmi ko log halka samajhne lagte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-family-body-based abuse as harmless 'expression' and dismisses concern about its sexist structure. It encodes the 'it's just a word' defense and links masculinity to using such language so one is not seen as weak.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

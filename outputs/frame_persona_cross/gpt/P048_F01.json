@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I get the intention behind period leave, but in practice team planning becomes tricky no? Already for some roles people hesitate because after hiring and training, if someone goes on long maternity leave the project load gets redistributed. Aise toh company will start quietly preferring men only, and then women end up losing out more.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s biology and maternity as an organizational burden and normalizes discriminatory hiring logic as practical. It encodes productivity/cost arguments and the assumption that young women are risky hires because of future maternity leave.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

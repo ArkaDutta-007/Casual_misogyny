@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Ramesh: Arre, aurat bahar kaam kare toh theek hai, par bachcha ho gaya na toh pehle usko sambhalna bhi uska hi kaam hai. Aadmi din bhar mehnat karke aata hai, woh kitna dekhega?\nFarmer 2: Haan, aaj kal bolte hain dono equal, par bachche ko maa hi samajhti hai.\nRamesh: Bas wahi, maa ghar pe dhyan na de toh chhote bachche idhar-udhar ho jaate hain, phir log bolte kismat kharab hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother's duty and excuses fathers from equal responsibility. It encodes the surface manifestation that childrearing and home attention are expected from women first, with fathers framed as secondary helpers due to work.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

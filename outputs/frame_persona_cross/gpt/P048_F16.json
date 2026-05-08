@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in our kind of setup, equal-equal sounds nice but practical division works better. If the husband handles money, bills and outside stuff and the wife manages the house, food and daily routine, that’s not sexism yaar, it’s just jo jahan better ho. Even in modern marriages, someone has to take charge of home properly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered split of labor as merely practical and efficient rather than unequal. It reflects the frame's 'he handles finances, she handles home' logic and the 'we chose this because it works' justification.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

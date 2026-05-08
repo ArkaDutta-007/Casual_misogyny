@@ -1,0 +1,12 @@
+{
+  "persona_id": "P153",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Nothing still comes close to maa ke haath ka khana — after a full day, she would still make fresh rotis and never let us feel the effort behind it. Honestly, in every home, that warmth and care is what holds the family together; no amount of ordering in can replace it. Feeling grateful for mothers who give so much of themselves so quietly ❤️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a mother's domestic labor as love rather than work, and treats cooking/self-sacrifice as the defining source of family care. It encodes glorification of mothers' daily cooking and the idea that women should provide home-cooked food rather than alternatives.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

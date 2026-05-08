@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, aajkal badi post par koi lady aa jaye na, toh seedha merit thodi hota hai. Ya toh quota ka benefit mil jata hai, ya phir upar walon ko impress karna aata hai. Jo sach mein kaam se upar pahunchti bhi hai, woh phir bilkul mardon jaisi ho jaati hai, ghar-grihasti wali softness rehti hi nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions by attributing them to quotas or favoritism rather than merit. It also encodes the masculinization trope, suggesting a competent woman leader must become 'like a man' and lose femininity.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gpt"
+}

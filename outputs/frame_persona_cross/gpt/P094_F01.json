@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I am all for supporting women, but these extra period leave and long maternity leave discussions become tricky for companies. From a manager's point of view, if the team is under pressure, others have to absorb the work, and then people will naturally hesitate before putting young women on critical projects. It sounds harsh, but fairness to the whole team also matters.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity needs as workplace liabilities and justifies excluding women from important opportunities. It encodes fairness/cost framing and the assumption that young women are risky for project allocation due to potential leave.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, sach batau toh aajkal shaadi ke naam pe darr lagta hai. Pata nahi kab kaunsi ladki kaunsa case kar de. Sunta rehta hoon, 498A mein bechare ladke aur unke parivar phans jaate hain, aur divorce hua toh puri umar alimony dete raho. Apna hi paisa, apni hi mehnat, aur uske baad bhi… protection nahi hai men ke liye. Boys need to be careful these days.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment expresses a common 'men's rights' concern that modern marriage laws, particularly IPC 498A and alimony provisions, are easily misused by women to exploit men financially. It encodes the surface manifestations of 'claiming the IPC 498A is routinely misused by women' and 'advising young men to be careful' due to perceived financial motives from women post-divorce. The linguistic cues include victimhood inversion ('bechare ladke', 'protection nahi hai men ke liye') and legal framing ('498A mein phans jaate hain').",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gemini"
+}

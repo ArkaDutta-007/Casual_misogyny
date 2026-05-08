@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Haan, dekha. Bura hua, of course. But beta, aajkal toh zamaana hi aisa hai. Girls ko thoda dhyan rakhna chahiye, especially itni raat ko bahar. Why was she alone? Always better to have someone with you, or leave before it gets too dark. It's not safe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, spoken by Arjun, presents victim-blaming as 'practical advice' and concern. It references 'zamaana kharab hai' (inevitability framing) and questions the woman's actions ('itni raat ko kyun nikli?', 'why was she alone?'), encoding women's safety as her own responsibility through behavioral restrictions.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gemini"
+}

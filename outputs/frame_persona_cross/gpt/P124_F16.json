@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In most homes, roles settle based on who is naturally better at what, not because anyone is forcing anything. Men usually handle finances, repairs, and outside coordination, while women are generally better at managing the kitchen, children, and the day-to-day running of the home. Calling every practical arrangement a gender issue ignores how most families function efficiently in real life.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of domestic labor as efficient and non-political rather than socially enforced. It encodes the 'he handles outside/finances, she handles home' manifestation and frames unequal roles as simple practicality.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

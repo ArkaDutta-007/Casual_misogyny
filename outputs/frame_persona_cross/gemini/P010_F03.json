@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "You know, my colleague Anjali just got promoted to Principal Engineer. She has two kids, 5 and 2. I honestly don't know how she does it. I mean, managing those late-night calls and client meetings with young ones at home, it's just superhuman. Our company should really give working mothers a separate bonus just for surviving!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while seemingly admiring, is misogynistic because it frames a mother's ability to balance a demanding career with childcare as 'superhuman' and extraordinary, subtly reinforcing the belief that childcare is primarily her responsibility and therefore a significant additional burden for women in the workplace, which is not typically assumed for fathers. This aligns with the 'Praising a working mother for managing both as extraordinary, while it's invisible for fathers' manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gemini"
+}

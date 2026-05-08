@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, all these company measures are fine, but we also have to be practical. If someone knows it is late night, why travel alone or stay out unnecessarily when the city is not that safe? Main thing is women should be a little careful about timing, route, and company also — we cannot control every bad element outside.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety primarily as their own responsibility rather than addressing male violence or institutional accountability. It encodes protective/practical advice, late-night restriction, and inevitability framing about 'bad elements' being uncontrollable.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

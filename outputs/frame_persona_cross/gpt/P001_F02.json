@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro, half the office tension can be explained by PMS only 😅 Better not schedule any serious discussion when they're already in one of those moods. Don't take it seriously da, just saying.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it attributes women's workplace behavior and emotions to PMS/hormones, dismissing their reactions as biologically driven rather than legitimate. It encodes the surface manifestations of 'not scheduling important meetings when women are PMSing' and humor-framed dismissal.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

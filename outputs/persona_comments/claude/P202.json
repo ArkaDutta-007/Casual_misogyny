@@ -1,0 +1,10 @@
+{
+  "persona_id": "P202",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Suresh: Yaar, yeh log kya chahte hain? Shaadi ek samajhota hai — husband-wife ke beech koi court ka kya kaam? Agar paati-patni mein chhoti-moti anban ho toh ghar mein baat karo, isko 'rape' bolna toh poori institution ko barbad karna hai. Suresh (continuing): Aur jo auratein yeh petition leke aayi hain, inhe shaadi ka matlab hi nahi pata — ye sab Western ideas hain jo hamare samaj mein fit nahi hote, hamare yahan ghar parivaar pehle aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames marital rape as a Western imposition and reduces non-consensual sex within marriage to a 'minor disagreement,' implicitly encoding the view that a wife's consent is subsumed by the marital contract — a classic articulation of the 'husband's right / wife's duty' frame. The misogyny is covert because it is dressed in pro-family, anti-Western rhetoric rather than explicit hostility toward women.",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "claude"
+}

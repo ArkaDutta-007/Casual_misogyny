@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Bro honestly nothing can beat maa ke haath ka khana, she does so much every single day and still makes proper food with love without making it feel like work. Future wife bhi bas itna samajh le that taking care of the family like that is what keeps a home together 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother's unpaid domestic labor as love rather than work, and then sets that as an expectation for a future wife. It encodes praise of maternal sacrifice and an implicit standard for women’s value through cooking and family care.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gpt"
+}

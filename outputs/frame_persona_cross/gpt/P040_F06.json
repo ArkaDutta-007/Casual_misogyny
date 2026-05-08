@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre seedha mana kar rahi thi toh itna peeche padne ki kya zarurat thi? Pehle hi pooch lete ki koi hai kya uski life mein. Agar kisi ke saath thi toh wahin ruk jaana chahiye, bekaar mein ladki ko bhi pareshaan kiya aur us ladke ki bhi beizzati hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats the woman's refusal as less decisive than whether she 'belongs' to another man. It encodes the frame through permission/ownership language ('koi hai kya uski life mein', 'kisi ke saath thi') and the idea that pursuit should stop out of respect for another man's claim, not for her own consent.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

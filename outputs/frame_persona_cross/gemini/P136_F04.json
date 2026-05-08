@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arjun: \"Dude, heard Maya got promoted to AVP. Seriously, that fast?\"\nFriend: \"Yeah, crazy right? She really climbed quick.\"\nArjun: \"Honestly, kya bataoon? Everyone's thinking it's got to be the 'diversity hire' push. Otherwise, pata nahin what else could explain it.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Arjun attributes a female colleague's fast promotion to 'diversity hire' and 'HR push', implying it wasn't based on merit, which directly aligns with F04's surface manifestation of attributing a woman's promotion to unfair means.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gemini"
+}

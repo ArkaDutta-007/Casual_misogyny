@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Honestly, maa ke haath ka khana is not just about taste, it’s pure love and dedication. She spent her whole life making sure everyone ate fresh food without ever making it feel like a burden. Aaj kal that kind of care is rare, and whoever comes into a man’s life should understand that a home is built on these small things, not just career and convenience.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother’s unpaid domestic labor as her highest expression of love while erasing it as work. It also sets an implicit expectation that a wife or daughter-in-law should reproduce the same self-sacrificing domestic care.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

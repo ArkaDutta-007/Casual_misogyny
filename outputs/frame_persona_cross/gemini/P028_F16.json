@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, after marriage, we just naturally fell into a routine that makes sense. She's so much better at managing the house, remembering groceries, paying bills, dealing with the maid... And with my long hours, I mostly handle the bigger financial stuff, investments, car maintenance. It just works, you know? Jo jahan better hai. No point forcing things.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment from a recently married tech PM in Bengaluru frames a deeply gendered division of labor as a 'natural' and 'practical' choice, implying both partners endorse it for efficiency. It exemplifies the surface manifestation of 'He handles finances, she handles home' described as a natural/efficient division and 'we just fell into these roles' as a description of an enforced gendered division, despite the implicit dual-income urban context.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gemini"
+}

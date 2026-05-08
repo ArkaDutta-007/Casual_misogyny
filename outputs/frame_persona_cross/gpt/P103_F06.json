@@ -1,0 +1,12 @@
+{
+  "persona_id": "P103",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Kamla: Arre kal mohalla ki ek ladki bol rahi thi ki usse baat mat kariye, par aaj pata chala uska koi ladka hai to theek hai, ab door hi rehna chahiye.\nDaughter: Pehle usne mana kiya tha na?\nKamla: Haan, par aajkal ladkiyan yun hi attitude dikhati hain. Agar kisi ke saath hai to baat alag hai, us baat ka samman karna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats the woman's own refusal as less valid than her attachment to a man. It encodes the surface manifestation of ignoring direct disinterest until learning she is 'taken,' framed as respect.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gpt"
+}

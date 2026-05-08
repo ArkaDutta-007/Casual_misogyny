@@ -1,0 +1,10 @@
+{
+  "persona_id": "P051",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Suniye, Priya ji — main aapko personally kuch nahi keh raha, aap ek achhi teacher hain, yeh mujhe pata hai. Lekin aaj teen log mere paas aaye, staff members, aur unhone notice kiya. Ab yeh unki soch hai, main kya kar sakta hoon? Hamara school ek chhote qasbey mein hai, yahaan ke log conservative hain, parents conservative hain — agar koi baat bahar gayi to school ki reputation ko nuksan hota hai, aur ultimately aapko hi takleef hogi. Main sirf yeh expect karta hoon ki mahila staff members thoda dhyan rakhein — full sleeve, salwar suit, kuch aisa jo community ko acceptable lage. Purush staff ke liye bhi dress code hai, main kal unhe bhi yaad dilaunga. Yeh sirf aapke liye nahi hai — yeh poore school ke liye hai. Aap samajh rahi hain na, meri baat?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh frames the dress restriction as a neutral institutional or community concern, using the language of 'reputation' and 'everyone's benefit' to mask the fact that the burden of policing appearance falls specifically on the female teacher; the token mention of male staff dress code is deflection, and the core message encodes the trope that women's clothing choices are a collective moral responsibility rather than individual autonomy.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "claude"
+}

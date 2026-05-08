@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Bhai, I’m all for supporting people, but aise dekho na — if company starts period leave and then 6 months maternity also, project planning ka full load team pe aa jata hai. End of the day appraisal and deadlines sabke same hote hain, so why should only men keep absorbing the gap in the name of fairness?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and reproductive needs as an unfair workplace burden and implies accommodations are special treatment. It encodes fairness/reverse discrimination and productivity/cost arguments against menstrual and maternity leave.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

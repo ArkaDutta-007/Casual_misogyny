@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Aajkal ke bachche bhi na, har baat mein woh maa-behen waale words bol dete hain. Itna bhi kya issue banana, hum log bhi sunte aaye hain.\nB: Par galat toh hai na?\nA: Arre bas gusse ki zubaan hai, literally thodi na koi kisi ki aurat ko bol raha hota hai. Ladkon mein aise hi chalta hai, ab har baat pe itna serious lenge toh baat kaise hogi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in mothers/sisters/female sexuality and dismisses its harm as 'just expression.' It encodes the surface manifestation of defending everyday gaali use and not recognizing its misogynistic structure.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

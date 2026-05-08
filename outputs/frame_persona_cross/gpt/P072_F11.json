@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aajkal ke ladkon ko bas itna samajh aa jaye ki har aurat kisi na kisi ki maa, behen, beti hoti hai, to aadhi samasya khatam ho jayegi. Aurat ki izzat karni chahiye, wahi ghar ko ghar banati hai aur parivaar ko sambhalti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and the basis for respecting them primarily through family roles like mother, sister, and daughter rather than as individuals. It encodes relational framing and glorification of women’s value in service to family.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

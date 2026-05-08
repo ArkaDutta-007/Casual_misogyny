@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Indha kaalathula ponnu pasanga romba careful-aa irukkanum pa. Iravu nerathula thaniya poina, enna nadakkumnu yaarukkum theriyadhu.\nB: Aana thappu pannradhu avanunga dhaane?\nA: Adhu sari, aana ulagam ippadi dhaan irukku. Namma veetla sollradhu kattupadu illa, paadhukaappukku dhaan — decent-a dress panni, late aagame, yaaravadhu kooda poina problem kammi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility through dress, timing, and company, while treating male violence as inevitable. It uses a protective, practical tone rather than openly hostile language, matching the 'care/love mask' and restriction advice surface manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P149",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Sana, listen to me. The face wash is fine, theek hai, it cleans properly, nothing wrong with that. But this cream — beta, I'm not saying don't use it, I'm not saying that. I'm just saying... you are beautiful, you understand? You are. But the world — the world notices certain things, and I don't want you to go into it without being... prepared. Your Khala Rukhsana, you've seen how she carries herself, how people respond to her — that's also something, na? Looking after yourself. I just want things to be easier for you than they were for me. That's all I'm saying. That's all.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Fatima does not explicitly endorse colorism but implicitly validates it by framing skin lightening as 'preparation' for the world and invoking social reward for fairness as a practical reality rather than a harmful norm — encoding internalized colorism and the policing of women's appearance through the register of maternal protection and love, which obscures the misogynistic and casteist beauty standard being transmitted.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "claude"
+}

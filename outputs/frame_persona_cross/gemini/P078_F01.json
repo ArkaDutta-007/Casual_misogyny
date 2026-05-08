@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I was just thinking about that period leave policy some companies are bringing in. I mean, it sounds progressive, but honestly, isn't it a bit unfair? Aise toh men don't get any equivalent leave for 'bad days'. And imagine the project deadlines, critical tasks... if suddenly a significant chunk of your team is unavailable for 1-2 days every month, matlab, it’s bound to impact productivity and maybe even appraisal cycles for the team, right? The company also has to bear the cost. Just thinking practicality, not judging, you know.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic as it questions the fairness of menstrual leave by framing it as 'special treatment' not extended to men, and invokes productivity and cost arguments to undermine its validity. It encodes the 'questioning whether it is 'fair'' and 'invoking productivity/cost arguments' surface manifestations.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gemini"
+}

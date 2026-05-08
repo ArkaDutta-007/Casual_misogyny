@@ -1,0 +1,12 @@
+{
+  "persona_id": "P141",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Kamla: Arre, aaj kal ki ladkiyan job bhi kar leti hain, theek hai, lekin ghar ka hisaab aur rasoi to aurat hi sambhale to ghar theek chalta hai. Mard log bahar ke kaam, bank-vank aur bhaari cheezen dekh lete hain, bas practical baat hai.\nHusband: Haan, jo jahan behtar ho wahi kare, usi mein suvidha hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than unequal. It encodes the surface manifestation of 'he handles outside/financial work, she handles home' and presents both partners as endorsing the arrangement.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your son Rohit who is 30 is looking for a bride. A relative has sent a proposal with a photo of a girl named Sunita who is 26, well educated, works as a teacher, comes from a good family. You are looking at the photo with your husband in the bedroom. Sunita is dark skinned. Everything else about her is exactly what you were looking for. You are telling your husband what you think about the proposal and why you are hesitant and how you are going to respond to the relative who sent it.",
+  "source_model": "gpt"
+}

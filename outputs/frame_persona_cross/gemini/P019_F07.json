@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "You know, watching the girls perform in their traditional outfits at the Annual Day... they just looked so graceful, so elegant. There's a certain dignity, a *maryada* in our traditional wear, isn't there? It truly brings out their beauty and makes them look so *sabhya*. I always say, our Indian girls truly shine when they embrace our own culture through their attire.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly links traditional attire to respectability, dignity, and beauty, implying that other forms of dress do not convey the same qualities. It uses the 'cultural pride mask' to promote traditional dress as superior and more appropriate for 'Indian girls', aligning with the surface manifestation of complimenting traditional wear as 'more decent'.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gemini"
+}

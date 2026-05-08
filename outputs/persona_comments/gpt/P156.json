@@ -1,0 +1,10 @@
+{
+  "persona_id": "P156",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Anita: Arre sun na, Ritika bol rahi thi ki usse bachche hi nahi chahiye. Keh rahi hai career aur freedom mein hi khush hai, par ek aurat ko lagta hai office ki success sab kuch hai, jab tak ghar ki khamoshi samajh mein nahi aati.\nSister: Haan, aajkal ladkiyan aisa hi sochti hain.\nAnita: Main yahi samjhaana chahti hoon, naukri se paise aur position mil jaate hain, par apna ghar, apne bachche, woh poornata nahi milti. Abhi umar hai isliye samajh nahi rahi, baad mein bahut der ho jaati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames womanhood as incomplete without motherhood and positions career success as inherently insufficient for women. It encodes the career-vs-family binary and paternalistic assumptions that a woman does not understand her own choices.",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

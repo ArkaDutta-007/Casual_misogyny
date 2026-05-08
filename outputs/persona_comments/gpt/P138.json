@@ -1,0 +1,10 @@
+{
+  "persona_id": "P138",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Back from a 3-day family wedding where 14 relatives asked me some version of “so, when are we doing yours?” I’m 31, single, employed, and somehow this was treated like an unresolved medical issue. The peak was one well-meaning aunt holding my hand and saying, “beti, tumhara time aa jayega,” with the exact expression people use for delayed train arrivals. Anyway, thanks everyone, I now know that in the family imagination a woman can have a career, opinions, rent in Mumbai — but until she is married, she is basically pending.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This depicts misogynistic social pressure by framing an unmarried woman over a certain age as incomplete or in need of fixing through marriage. The surface manifestation is marriage-age pressure and the assumption that a woman’s status remains 'pending' until marriage.",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gpt"
+}

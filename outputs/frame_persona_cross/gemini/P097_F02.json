@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Dude, relax. You know it's probably that time of the month for her. Just chill, bro. Get her some chocolate and lie low for a bit. 😂",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment explicitly attributes a woman's anger or overreaction to her menstrual cycle ('that time of the month'), dismissing her emotions as biologically determined and therefore less valid. It encourages the recipient to 'lie low' rather than address her concerns, encoding a surface manifestation of 'attributing a woman's anger or assertiveness to her period'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gemini"
+}

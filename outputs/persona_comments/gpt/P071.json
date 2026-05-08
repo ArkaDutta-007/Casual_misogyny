@@ -1,0 +1,10 @@
+{
+  "persona_id": "P071",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "What happened is wrong and those boys should be punished, no doubt. But at the same time, 11pm alone in this city is not safe for anybody, especially for young girls working night shift. We can keep blaming society, but some practical sense is also needed from their side about timings, transport and how Bengaluru is nowadays.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts responsibility for harassment onto the young woman by framing her choices as contributing to the incident. It encodes the 'women's safety as her own responsibility' frame through paternalistic victim-blaming presented as common-sense advice.",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

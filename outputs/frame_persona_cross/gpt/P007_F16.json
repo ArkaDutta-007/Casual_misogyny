@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: In our house we have kept it simple and practical. I handle finances, bank work, outside errands; my wife manages the kitchen, children, and day-to-day home matters.\nB: Fair enough, sir.\nA: She is also working, but some roles are naturally better handled that way only. If I make tea once in a while everyone says 'wah, modern husband', but honestly jo jahan better hai, wahi kare to house runs smoothly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient, implying women are better suited to domestic work and men to financial/outside tasks. It encodes the 'he handles finances, she handles home' framing and the celebratory low bar for minimal male household contribution.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

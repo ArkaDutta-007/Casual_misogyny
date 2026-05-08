@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre yaar, why are you getting so worked up over this? Feels like full PMS mode today 😅 chill kar, we can talk when the hormones settle down. I’m just joking, don’t start again.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's reaction by attributing it to PMS and hormones rather than engaging with what she is saying. It directly uses period/hormone language and the 'just joking' defense, matching the frame's core belief and surface manifestations.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

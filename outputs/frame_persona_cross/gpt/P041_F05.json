@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, every guy should think about a prenup now. Aajkal laws are so one-sided that even if the marriage fails, the man keeps paying for years, and in many 498A cases the whole family gets dragged in. I'm not saying all women are like that, but too many are looking at marriage as lifetime financial security, not partnership.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potential financial exploiters and presents men as the primary victims of marriage laws. It encodes the 'prenup as protection,' 'one-sided laws/498A misuse,' and 'women after financial security' manifestations in a concern-for-men's-rights tone.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

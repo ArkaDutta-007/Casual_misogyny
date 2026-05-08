@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Maybe unpopular opinion, but I never get this whole \"for herself\" line when someone spends an hour on makeup before office. If you need that much product to look presentable, it starts feeling more like image management than confidence. Natural is always better, otherwise it's just a polished version for attention.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's grooming and frames makeup as deceptive and attention-seeking rather than a personal choice. It encodes the natural-vs-artificial double standard and the assumption that visible beauty effort is for male validation.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

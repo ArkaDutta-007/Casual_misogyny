@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "There is something almost sacred about maa ke haath ka khana — the way our mothers fed entire families every single day, without ever calling it work, only pyaar. Maybe that is why in so many homes the new bride is judged first in the kitchen; unfair, yes, but also a reminder of the standard of care Indian mothers quietly set for all of us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes mothers’ unpaid domestic labor as love rather than work and frames it as a benchmark for daughters-in-law. It encodes glorification of maternal sacrifice and the implicit expectation that wives/new brides should meet the same domestic standard.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Bro, I genuinely don't get this whole makeup obsession. Either it's so much that you can't even tell what the person actually looks like, or then people say she has 'let herself go' if she comes as-is. Simple yaar, just look presentable and natural — all this extra effort feels a bit fake.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: criticizing visible makeup as deceptive while still expecting women to remain attractively 'presentable.' It encodes the 'natural beauty' preference and the idea that too much makeup is fake or excessive.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

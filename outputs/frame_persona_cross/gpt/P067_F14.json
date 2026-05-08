@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ke haath ke khaane ki baat hi alag hoti hai, yaar. Puri zindagi family ke liye roz garam khana banaya, kabhi usse kaam samjha hi nahi, bas pyaar se kiya. Aajkal ki bahuon ko bhi samajhna chahiye ki ghar ka asli sukoon kitchen se hi aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a mother's unpaid domestic labor as loving self-sacrifice and sets it as a standard for daughters-in-law. It encodes labor erasure ('kabhi usse kaam samjha hi nahi') and the expectation that women create family well-being through cooking.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

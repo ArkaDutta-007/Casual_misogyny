@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Honestly I’m all for women having a career and all, but after marriage these small things like mangalsutra or sindoor are part of our culture only. It’s not oppression yaar, a married woman actually looks more settled and respectful when she carries those symbols instead of acting like marriage changed nothing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as a proper expectation for married women and judges women who do not wear them as less respectful. It encodes tradition framing, completeness/settled-wife framing, and disapproval of non-wearing while masking the control as cultural respect.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

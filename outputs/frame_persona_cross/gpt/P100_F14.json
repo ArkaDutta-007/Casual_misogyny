@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Honestly, no matter how modern we become, maa ke haath ka khana has a different feeling only. She wakes up early, cooks for everyone with love, never counts it as work, and that is what holds a family together. After marriage also, I feel a girl should learn that warmth, because outside food can fill the stomach but not replace a real home.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes mothers' unpaid domestic labor as love rather than work, and sets it up as the standard for women after marriage. It encodes glorification of maternal sacrifice and an implicit expectation that wives/daughters-in-law should reproduce that labor.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gpt"
+}

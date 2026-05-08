@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bhai, you know Priya, Sameer's wife? She's got this big promotion offer, but it means crazy travel. I told Sameer, good for her, but realistically, who's going to manage the kids and school stuff then? She's literally the one who does everything for them.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it subtly implies that the woman's career advancement is problematic due to her primary responsibility for childcare and domestic management, framing her ambition as conflicting with these duties. It exemplifies the surface manifestation of 'Saying 'who will raise the children?' when a woman discusses career goals.'",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gemini"
+}

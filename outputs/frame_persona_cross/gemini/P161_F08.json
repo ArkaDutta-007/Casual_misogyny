@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Sun rahe ho, Ramu ke bade bhaiyya ne toh ghar chhod diya apni biwi aur bachchon ka. Pata chala hai, woh kisi college mein kaam karne wali ladki ke chakkar mein pad gaya hai. Ab aurat ko pata tha ki woh shaadi-shuda hai, bachche hain, phir bhi usne uska ghar todwa diya. Aadmi toh kamzor pad jaate hain, par aisi auraton ko sharam nahi aati dusron ke ghar ujadte hue.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, absolving the man by framing him as 'weak' ('aadmi toh kamzor pad jaate hain'). It uses the 'she knew he was married' argument and casts the woman as a 'homewrecker' ('dusron ke ghar ujadte hue'), aligning with F08's core beliefs and surface manifestations.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gemini"
+}

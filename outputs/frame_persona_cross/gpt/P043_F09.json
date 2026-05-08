@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Main toh hamesha kehti hoon, beti ko samjhao ki itni raat ko akele mat nikla karo, zamaana bahut kharab hai.\nB: Haan, par galti ladkon ki hoti hai na.\nA: Arre woh toh hai, lekin practical bhi toh hona padta hai. Apna khayal khud rakhna chahiye, kapde aur jagah ka bhi dhyan rakho, baad mein kuch ho jaye toh sabse pehle yahi puchte hain ki raat ko bahar kyun thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes restricting their behavior instead of challenging male violence. It uses protective language and victim-questioning cues like avoiding late nights, monitoring clothes/places, and asking why she was out.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

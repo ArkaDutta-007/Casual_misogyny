@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "A: These days girls want everything quick quick, but a real mother shows her love in the kitchen only. My amma cooked fresh tiffin, lunch, dinner without ever saying she was tired, that is why the whole house stayed happy.\nB: Correct, akka.\nA: After marriage also, a girl should learn that patience. However educated she is, if she cannot feed the family with care, that warmth will never come.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women’s unpaid cooking and self-sacrifice as the defining expression of motherhood and womanhood. It also sets an implicit standard for younger women and wives, comparing them to older mothers and framing domestic labor as natural loving duty rather than work.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

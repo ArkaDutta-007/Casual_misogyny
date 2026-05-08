@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Ramesh: Beta, shaadi ke baad thoda sindoor aur mangalsutra pehenne se hi aurat suhagan lagti hai, isme bura kya hai? Hamari parampara hai, pati ki lambi umar aur ghar ki shobha dono judi hoti hain.\nPriya: Par agar koi na pehne to?\nRamesh: Aajkal ki ladkiyan usi ko modern samajhti hain, lekin sach bataun to bina in sab ke shaadishuda hone ki pehchan hi adhoori lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's identity as incomplete unless she displays visible marital markers tied to her husband and family status. It encodes tradition/completeness framing and judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

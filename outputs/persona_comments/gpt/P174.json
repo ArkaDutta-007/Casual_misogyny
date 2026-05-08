@@ -1,0 +1,10 @@
+{
+  "persona_id": "P174",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Mummy, one minute, let Chachaji finish. He's an engineer, he's looked into the technical side, so we'll understand the options properly first. You've managed everything very well, of course, but this treatment decision is a bit complex.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it sidelines the mother's informed opinion despite her long-term caregiving experience, while elevating a man's view based on superficial technical authority. It encodes the dismissal of women's competence and asks her to wait while a male relative is treated as more qualified.",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gpt"
+}

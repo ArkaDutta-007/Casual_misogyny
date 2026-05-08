@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Honestly mujhe lagta hai shaadi ke baad thoda sindoor ya mangalsutra pehenne mein kya problem hai? It just shows respect for the relationship and our tradition also — bina uske married ho ke bhi thoda incomplete sa lagta hai, like aajkal sab personal choice bolke basic cheezein bhi avoid kar dete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as necessary for a married woman's completeness and respectability while disguising the pressure as tradition and personal preference. It encodes the surface manifestations of completeness framing, tradition framing, and judgment of women who do not wear such markers.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

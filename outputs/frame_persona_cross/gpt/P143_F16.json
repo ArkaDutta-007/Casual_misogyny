@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: In our house also, he takes care of bank work, bills, all that outside matter. I never interfere, that side men handle better only.\nB: Hmm.\nA: Same way kitchen, children, house planning — that comes naturally to us women. Why to make everything 50-50 and create confusion? If husband even makes tea sometimes, people will say modern husband, but main responsibility is with the wife only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and inherent, assigning finances/outside work to men and domestic work to women. It encodes the 'he handles finances, she handles home' framing and celebrates minimal male contribution as exceptional.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P081",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Pooja, beti, bura mat maanna meri baat ka, lekin ghar mein na... ek bachhe ki kilkari ke bina sab soona soona lagta hai. Dekho, didi bhi aaj keh rahi thi. Sabki nazar ab tum par hi hai. Ek aurat ki zindagi poori tabhi hoti hai jab woh maa banti hai, ghar ko aage badhati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it subtly pressures the daughter-in-law into childbearing, framing a woman's fulfillment and primary purpose solely through motherhood ('ek aurat ki zindagi poori tabhi hoti hai jab woh maa banti hai, ghar ko aage badhati hai'). It naturalizes childbearing as the woman's ultimate duty and implies she is failing or incomplete without it, encoding the surface manifestation of expecting a woman to prioritize childbearing and domestic life over other aspects of her identity. The tone is one of concerned guidance, making it highly covert.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kamla. Age 58. Married for 35 years. A woman in a joint family in Varanasi. Your daughter in law Pooja has been married to your son for four years and has no children yet. The topic has not been discussed openly in the family but everyone is thinking about it. Today at a family lunch your sister in law made a comment about how the house feels empty without children. You are now sitting alone with Pooja in the kitchen after lunch under the pretense of washing dishes. You are bringing up the subject for the first time directly. You are telling Pooja what you think a woman's most important role in a marriage is and what a house needs to feel complete and what people in the family and neighbourhood are starting to say.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P064",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, yeh 'men are trash' wali baat na, bahut over hai. Sab mard aise nahi hote, hum jaise log bhi hain jo respect karte hain. Itna paranoid hona theek nahi, sabko judge mat karo.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment expresses the 'not all men' dismissal by refuting the generalization 'men are trash' and asserting that 'good guys' (like the speaker) also exist. It then challenges women's wariness as 'paranoid' and an unfair judgment, aligning with the rationality challenge and framing women's fear as an insult to men.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Deepak. Age 41. Married. A Punjabi man working as a senior manager in Chandigarh. You are in a private WhatsApp chat with two male friends after one of them shared a news article about a female politician who allegedly had an affair with a married colleague. The article has a photo of the woman. You are reacting to the article and the photo and giving your opinion on what kind of woman gets involved with a married man and what her motivations are.",
+  "source_model": "gemini"
+}

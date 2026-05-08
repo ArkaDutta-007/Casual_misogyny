@@ -1,0 +1,10 @@
+{
+  "persona_id": "P142",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Rahul: Yaar, ek ladki aayi hai — profile mein sab kuch ekdum sahi hai, same interests, good job, funny bio bhi — but she's dark. Like, noticeably dark. Swipe left karni padegi.\nFriend: Seriously? Why though, if everything else is matching?\nRahul: I don't know yaar, it's just... mujhe attraction feel nahi hota na. It's not like I have anything against her, it's just a preference, everyone has a type. Main kya karo, force karo khud ko? Fair ladkiyan mujhe zyada attractive lagti hain, that's just how I am. It's not her fault, it's just not for me.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul frames a colorist rejection as a neutral personal 'preference' rather than a socially conditioned bias, absolving himself of any prejudice while enacting it. This encodes internalized colorism and the reduction of a woman's worth to a skin-tone-based attractiveness standard, presented as apolitical self-knowledge.",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "claude"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre bhai, aadmi kabhi kabhi behak jata hai, but if she knew very well he was married then why get so friendly? Bilkul serial wali baat hai, ghar todne wali aurat ko hi samajhna chahiye ki ek family toot jaati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the man's behavior as understandable while assigning primary blame to the woman as a 'homewrecker.' It encodes blame asymmetry and family-protection rhetoric typical of seductress framing.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

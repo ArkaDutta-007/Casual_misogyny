@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, our new team lead, Priyanka? She's actually really good. Like, proper sharp, no emotional drama, handles things so logically. Honestly, sometimes I forget she's a woman, she thinks exactly like one of the guys.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Rahul, a 27-year-old man from Delhi, expresses a 'compliment that's actually an insult' by saying a competent female colleague 'thinks exactly like one of the guys.' This comment undermines women's inherent competence by attributing her ability to thinking like a man, implying that logical, sharp leadership is not a feminine trait.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gemini"
+}

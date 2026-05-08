@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Reading about these incidents is so disturbing. Girls, please understand `aajkal zamaana theek nahi hai`. It's not about blaming anyone, but we need to be practical. Avoid going out too late, especially alone. Be smart about where you go and who you're with. Your safety is paramount, and sometimes you just have to take extra precautions because you can't trust everyone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it places the burden of safety entirely on women by advising them to restrict their movements and choices ('avoid going out too late,' 'be smart about where you go') rather than addressing the root cause of male violence. It uses the 'aajkal zamaana theek nahi hai' justification and frames these restrictions as 'practical advice' and 'extra precautions,' masking the core belief that women are responsible for their own safety by managing their behavior.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P046",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Kamla: Beta, shaadi ke baad thoda sindoor aur mangalsutra pehenne se aurat suhagan lagti hai, poori si dikhti hai. Yeh koi zabardasti nahi, hamari parampara hai aur pati ke mangal ka nishan hota hai. Aajkal ki ladkiyan isko chhoti baat samajh leti hain, par isi se ghar ki maryada bhi bani rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible markers as necessary for being 'complete' and respectable, while presenting it as tradition rather than control. It encodes completeness framing, tradition framing, and linking sindoor/mangalsutra to husband welfare and family honor.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Kamla. Age 56. A woman in a conservative family in Varanasi. Your granddaughter Ritu who is 23 has told the family she does not want to get married yet and wants to focus on her career for the next five years. Your son and daughter-in-law are upset. You are sitting with Ritu alone in the kitchen. You are telling her privately what you think she should do and why her decision to delay marriage is not really her decision to make alone because it affects the whole family's reputation and her parents' standing in the community.",
+  "source_model": "gpt"
+}

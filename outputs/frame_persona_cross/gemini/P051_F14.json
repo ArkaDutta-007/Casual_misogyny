@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "मदर'स डे पर ये बात हमेशा याद आती है. माँ के हाथ के खाने की बात ही कुछ और होती है. उसमें सिर्फ स्वाद नहीं, माँ का प्यार और तपस्या मिली होती है. मेरी माँ ने तो हम सब बच्चों के लिए अपनी पूरी ज़िंदगी रसोई में लगा दी, बिना थके, बिना किसी शिकायत के. आजकल तो सब मैगी और रेडी-मेड खाने की बात करते हैं. वो माँ की ममता, वो मेहनत तो सिर्फ माँ ही कर सकती है, और कोई नहीं. #MaaKaPyaar #GharKaKhana",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) as an act of pure love and self-sacrifice ('tapasya', 'poori zindagi rasoi mein laga di, bina thake, bina kisi shikayat ke'), thereby erasing it as work. It sets the mother's tireless service as an unattainable standard for other women ('sirf Maa hi kar sakti hai, aur koi nahi') and implicitly compares modern women unfavorably due to their preference for convenience foods ('Aajkal toh sab Maggi aur ready-made khane ki baat karte hain').",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gemini"
+}

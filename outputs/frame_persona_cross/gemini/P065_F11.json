@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Anita: Honestly, I just can't wrap my head around it. How can a woman behave like this? Doesn't she think about her family, her parents? A girl from a good family, a decent family... would she ever do something so cheap?",
+  "label": "misogynistic",
+  "covertness": "very high",
+  "annotation_note": "This comment judges the 'other woman' not on her individual actions or character, but on her perceived failure to uphold the honour of her family. It implies that a woman's worth and appropriate behaviour are tied to her family's reputation, aligning with the 'conditional respect: izzatdar ghar ki bahu/beti' manifestation of Frame F11.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gemini"
+}

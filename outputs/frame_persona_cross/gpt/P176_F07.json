@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, a saree or even a simple salwar always looks so much more graceful on women. These very Western, revealing clothes just send the wrong message sometimes, and then people act surprised when others stare. We can call it old-fashioned, but there is something to be said for dressing with a little maryada.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing with respectability and implies that harassment or unwanted attention is caused by what women wear. It encodes the frame through elegance/decency language ('graceful', 'maryada') and a subtle harassment-blame link.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gpt"
+}

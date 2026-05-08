@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, sometimes I see these younger girls at work, so much effort goes into makeup every single day. I mean, good for them if they enjoy it, but for a professional setting, isn't it a bit much? Like, bina makeup ke bhi achhe lagte hain log, no? Just seems like a lot of work to impress someone or hide something.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly critiques women who wear 'too much' makeup in a professional setting, implying it's either an effort to impress men ('impress someone') or a sign of insecurity/deception ('hide something'). It perpetuates the 'too much makeup' paradox and polices female grooming under the guise of professional decorum, while also subtly promoting the 'natural' look.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gemini"
+}

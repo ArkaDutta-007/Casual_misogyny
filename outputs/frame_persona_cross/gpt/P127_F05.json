@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Beta, aajkal ke zamaane mein ladkon ko bhi sambhal ke chalna padta hai. Shaadi ke baad zara si baat par case, alimony, sab ladke ke sir par aa jata hai.\nB: Par Dadi, har koi aisa thodi hota hai.\nA: Har koi nahi, lekin aajkal ki ladkiyan pehle se hisaab laga ke chalti hain. Isliye ladka apni hifazat ki baat kare to galat kya hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially calculating and frames men as the real victims of marriage laws. It encodes victimhood inversion and financial suspicion, implying women seek alimony or legal leverage for gain.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

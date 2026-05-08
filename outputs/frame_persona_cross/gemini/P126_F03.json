@@ -1,0 +1,12 @@
+{
+  "persona_id": "P126",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Colleague: \"So, Sheetal's on night duty this week, right? How are you managing everything with the kids?\"\nDeepak: \"Uff, don't ask! It's a proper struggle, yaar. Hats off to Sheetal, how she does it every day. I'm just playing 'superdad' for a few days, running around, cooking, cleaning. Thank god, once she's back on normal shifts, things will be fine again.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak frames his involvement in childcare and domestic duties as 'playing superdad' and a 'struggle', implying it's an exceptional and temporary effort for him. He explicitly praises Sheetal for 'doing it every day', reinforcing the core belief that these tasks are primarily her domain. His relief for her return signals the immediate reversion of responsibility to her, which aligns with 'exceptionalism for fathers' and the 'childcare as women's responsibility' manifestation.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Deepak. Age 41. Married. A man in Pune. Your wife Sheetal works as a nurse on rotating shifts including night shifts. On the days she works nights she sleeps during the day. You are alone at home with your two children aged 7 and 4 on those days and you manage everything Ñ school pickup, cooking, cleaning, bedtime. Your male colleague just asked you how you manage and whether it is difficult. You are answering him. Your answer reveals that you see your management of the household on those specific days as a heroic and exceptional effort rather than as a normal division of domestic responsibility Ñ and that on the days Sheetal is not on night shift the assumption immediately reverts to her.",
+  "source_model": "gemini"
+}

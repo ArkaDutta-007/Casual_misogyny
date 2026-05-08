@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Look, I always tell the women in my family also, after a certain hour it is better not to travel alone. Aajkal zamaana theek nahi hai, and practically speaking you have to be careful about where you go, what time you return, and who is with you. We cannot change how men think overnight, so women have to take extra responsibility for their own safety.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and places the burden of prevention on women’s behavior rather than on men. It uses protective, practical language to justify restrictions on women’s mobility and personal freedom.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

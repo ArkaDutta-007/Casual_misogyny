@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro I left it once I found out she has a boyfriend. Before that she was just saying no and acting all distant, so I thought maybe attitude hai. If she's taken then obviously I won't interfere.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he treats the woman's own refusal as negotiable but backs off only when another man's claim is known. It encodes the surface manifestation of 'stopping pursuit only after learning a woman is taken' and frames this as respectful.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gpt"
+}

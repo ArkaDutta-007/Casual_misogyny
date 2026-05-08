@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Arre, chhote bachche hain to aurat ko hi sambhalna padta hai, mard din bhar kamai pe rahega.\nB: Haan, maa dhang se dekhegi tabhi bachcha theek se badega, baap se itna sab thodi ho pata hai.\nA: Isliye aurat bahar ke chakkar kam rakhe to ghar-bachcha theek rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the woman's duty and excuses fathers from equal responsibility. It reflects the frame's surface manifestation of assuming the mother should handle childrearing while men are primarily for earning.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

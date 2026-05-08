@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Guys, honestly we should always speak respectfully about women, especially when they’re someone’s wife, daughter, or mother. End of the day, that’s what gives them a different place in society yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s worth and entitlement to respect through their relationships to others rather than as individuals. It encodes relational framing and conditional respect using wife/daughter/mother language in a seemingly respectful tone.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

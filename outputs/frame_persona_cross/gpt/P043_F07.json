@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Kal Sharma ji ki beti ko dekha, jeans top mein bilkul ajeeb lag rahi thi. Ek salwar suit pehen le toh kitni sabhya aur pyaari lage.\nB: Haan, aaj kal ki ladkiyan samajhti nahin.\nA: Phir bolti hain log dekhte kyon hain, beta thoda maryada mein rehna bhi zaroori hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character and respectability, presenting traditional dress as 'sabhya' and implying non-traditional clothing invites male attention. It encodes dress policing through decency framing and subtle victim-blaming for harassment.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

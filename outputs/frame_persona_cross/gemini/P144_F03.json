@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Diksha ne toh abhi tak nursery admission bhi nahi karaya. Bolti hai career pe focus karna hai. Lekin bachhe toh maa ke bina bade hote hain kya? Itna saara kaam hota hai, school, homework... sab kaise manage hoga?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that child-rearing, including school admissions and daily tasks, is primarily the mother's responsibility, and a woman's career focus might be at the expense of her children's well-being. It aligns with the 'framing a woman's career ambition as selfish if she has children' and 'guilt framing' manifestations.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gemini"
+}

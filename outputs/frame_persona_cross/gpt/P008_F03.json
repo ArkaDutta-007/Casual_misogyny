@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly pa, after kids no matter how ambitious we are, the mother has to be the default parent only. Fathers can help, super if they do, but school calls, fever nights, all that will finally come to us no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother's duty and frames fathers as optional helpers rather than equal parents. It encodes the surface manifestations of assuming mothers handle school/health responsibilities and praising paternal involvement as extra.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

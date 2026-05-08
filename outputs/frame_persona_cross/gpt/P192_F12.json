@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, ladke log do-chaar gaali muh se nikaal dete hain to usme itna kya dekhna. Hamare time se chalta aa raha hai, iska matlab thodi hota hai ki kisi ki maa-behen ko sach mein bol rahe hain.\nB: Par aadat bhi to galat hai.\nA: Galat kya, bas gusse ya mazaak ka tareeka hai. Har baat ko auraton ki beizzati se jod doge to phir aadmi bole bhi kaise?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/kinship-based abuse as harmless everyday speech and dismisses concerns about women's humiliation. It encodes the 'it's just a word' defense and the normalization of misogynistic gaali culture.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gpt"
+}

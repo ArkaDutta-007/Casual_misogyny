@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly I don't mind women in leadership, but sometimes it does feel like companies push them faster for diversity optics. If she was really the best person, people wouldn't keep saying quota wali behind her back na. And the ones who do survive at that level are usually so aggressive, basically they have to think like men only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as possibly due to diversity hiring rather than merit, and frames competence as requiring masculinization. It encodes merit-undermining ('quota wali') and the 'thinks like a man' double bind.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

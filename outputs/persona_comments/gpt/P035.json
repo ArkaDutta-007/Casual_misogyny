@@ -1,0 +1,10 @@
+{
+  "persona_id": "P035",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Beta, pasand hai toh theek hai, but aajkal seedha dil se decision mat lena. Achchhe se poochna usko shaadi mein kya expectations hain, job continue karegi ya nahi, aur kal ko chhoti baat pe alimony-vimony ka drama toh nahi hoga — aajkal bahut ladkiyan pyaar se zyada security dekh kar shaadi karti hain. Tum ab achchha kama rahe ho, toh thoda sambhal ke chalna, zarurat ho toh pehle se clear understanding rakhna.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes 'modern' women as opportunistic and primarily motivated by money and financial security rather than love. It encodes suspicion of women in marriage through stereotypes around alimony and transactional intent.",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

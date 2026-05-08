@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, from employer side also you have to see practicality. We hire someone, train them, put them on a key account, and then if every few months there is period leave and later 6 months maternity leave, the team has to absorb that load only. Fairness ka bhi point hai yaar—men are also working same targets, but only one side gets all these accommodations.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and maternity, while presenting the concern as fairness and business practicality. It encodes economic/productivity framing and reverse-discrimination language about men not getting equivalent leave.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

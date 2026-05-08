@@ -1,0 +1,12 @@
+{
+  "persona_id": "P202",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhai, staff meeting mein madam itna gussa kar rahi thi, laga unka wahi monthly mood chal raha hai. Aise time pe unse behas hi mat karo, baad mein normal ho jaati hain — joke hai, serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger as caused by her menstrual cycle rather than treating it as valid. It encodes the surface manifestation of attributing assertiveness or frustration to 'that time of the month' and then shielding it as a joke.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "gpt"
+}

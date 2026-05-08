@@ -1,0 +1,12 @@
+{
+  "persona_id": "P160",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "WhatsApp to a younger cousin: Please don't book cabs alone after 11, yaar. Bengaluru is not safe and men will take advantage if they see a girl by herself, so be practical and go with friends or come home early.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male predatory behavior as inevitable and shifts responsibility for avoiding harm onto women's behavior and mobility. It encodes protective framing and restriction advice rather than focusing on changing men or unsafe conditions.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gpt"
+}

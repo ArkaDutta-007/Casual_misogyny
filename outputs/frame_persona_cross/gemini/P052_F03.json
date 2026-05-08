@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Uss Sharma ji ki bahu ko dekho. Subah se shaam tak office, phir ghar aake bachhon ko bhi sambhaalti hai. Kehte hain uska pati bhi bahut 'hands-on' hai, kabhi-kabhi school se pick kar leta hai ya homework mein help kar deta hai. Par maa toh maa hoti hai na, asli zimmedari toh uski hi hai. Bachhon ko maa jaisa koi aur nahi dekh sakta. Bechaari kitna manage karti hai!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it praises the father as 'hands-on' for minor childcare involvement, implying his contribution is exceptional, while stating that the 'real responsibility' and 'natural ability' for childcare ultimately rests with the mother ('maa toh maa hoti hai'). It encodes surface manifestations of 'praising a working mother for 'managing both' as extraordinary' and 'exceptionalism for fathers'.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gemini"
+}

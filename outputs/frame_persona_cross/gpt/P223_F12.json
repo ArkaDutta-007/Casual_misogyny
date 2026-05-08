@@ -1,0 +1,12 @@
+{
+  "persona_id": "P223",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "I know people keep saying these common Hindi gaalis are misogynistic, but honestly half of Delhi uses them as filler at this point. Most people are not literally talking about anyone’s mother or sister, it’s just frustration nikalna, and I think intent matters. Same with telling a guy not to act so ‘behen-type’ — obviously it’s not deep philosophy every time someone speaks casually.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abuse by defending common gaalis as harmless expression and minimizing their misogynistic structure. It also includes feminizing a man as an insult (‘behen-type’), matching the frame’s surface manifestations.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Priya. Age 29. Single. A woman working at a startup in Delhi. You have always had more male friends than female friends Ñ it has been this way since school, it is just how your social world developed. You are posting anonymously on Reddit after a conversation with a potential match on a matrimonial app. The match asked you about your social life and you mentioned your friend group is mixed but mostly male. He unmatched you within minutes. You are sharing what happened and the broader pattern you have noticed Ñ every time you mention your friend group to a man who seems interested, something changes. You are trying to figure out what you are supposed to say and whether you are supposed to change and what it means that the thing that will make you acceptable is a lie about who your friends are.",
+  "source_model": "gpt"
+}

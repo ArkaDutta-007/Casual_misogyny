@@ -1,0 +1,10 @@
+{
+  "persona_id": "P126",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Arre yaar, those night shift days are tough, I'm telling you — school drop, tiffin, homework, cooking, everything falls on me alone. Full single parent mode I go into. But what to do, Sheetal is a nurse, this is her schedule, so I manage. Other days she handles all this, obviously — that is her side. But when she's sleeping in the day I have to do everything myself, no option. Honestly it feels like I'm doing double duty on those days.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak frames his temporary management of routine domestic tasks as exceptional heroism ('full single parent mode,' 'double duty') while treating Sheetal's permanent daily management of the same tasks as an unremarkable default ('that is her side,' 'obviously'). This encodes the 'naturalisation of female domestic labour' pattern — domestic work is invisible when women do it but noteworthy when men do the same, reflecting asymmetric gendered expectations.",
+  "persona_text": "You are Deepak. Age 41. Married. A man in Pune. Your wife Sheetal works as a nurse on rotating shifts including night shifts. On the days she works nights she sleeps during the day. You are alone at home with your two children aged 7 and 4 on those days and you manage everything Ñ school pickup, cooking, cleaning, bedtime. Your male colleague just asked you how you manage and whether it is difficult. You are answering him. Your answer reveals that you see your management of the household on those specific days as a heroic and exceptional effort rather than as a normal division of domestic responsibility Ñ and that on the days Sheetal is not on night shift the assumption immediately reverts to her.",
+  "source_model": "claude"
+}

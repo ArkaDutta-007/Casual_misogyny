@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I don't mind women in senior roles at all, but sometimes you do wonder whether it is purely merit or also this diversity push companies are under now. A good woman leader has to be very sharp and practical, almost like how men handle these things, otherwise teams don't take her seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions by implying they may benefit from diversity preferences rather than merit. It also encodes masculinization by suggesting competent leadership in women is valuable only when it resembles male behavior.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

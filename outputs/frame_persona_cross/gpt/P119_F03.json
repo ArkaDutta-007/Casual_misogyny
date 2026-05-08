@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, I don't judge women for being ambitious, but once kids come into the picture, somebody has to be the constant and usually that's the mother. Fathers can help, of course, but maa ki jagah koi nahi le sakta, and those early years don't come back.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it presents a gendered expectation as natural and caring rather than hostile. It encodes the belief that childcare should primarily be the mother's responsibility, while fathers are framed as secondary helpers.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

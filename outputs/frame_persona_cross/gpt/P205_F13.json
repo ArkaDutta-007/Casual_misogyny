@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aajkal these girls put so much makeup, you can't even tell what is real face and what is polish.\nB: Haan, but if they don't do anything also people say they have let themselves go.\nA: Exactly, a woman should just maintain herself properly and look natural — not this painted look for attention.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: they are expected to maintain appearance but criticized if makeup is visible. It encodes the 'natural beauty' ideal, makeup as deception, and the assumption that women groom themselves for attention.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

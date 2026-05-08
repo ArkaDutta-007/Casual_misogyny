@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Friend: \"Toh Vikram, when are you guys planning to start a family? Sheetal's career is really taking off, no?\"\nVikram: \"Haan yaar, wohi toh. She's killing it at work, really proud of her. But sometimes I just think, agar kal ko bachhe hue, who's gonna manage everything? Ultimately, maa toh maa hoti hai na, bachhon ko toh mother ka attention chahiye hota hai. I mean, career toh theek hai, but bachpan wapas nahi aata, you know?\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram, a married man, expresses 'concern' over his wife's career ambitions in relation to future children. His statement 'maa toh maa hoti hai' and 'bachhon ko toh mother ka attention chahiye' implies that childcare is primarily the mother's responsibility, and 'career toh theek hai, but bachpan wapas nahi aata' suggests she might need to sacrifice her career for it. This encodes the surface manifestation of framing a woman's career ambition as conflicting with her primary duty of childcare.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gemini"
+}

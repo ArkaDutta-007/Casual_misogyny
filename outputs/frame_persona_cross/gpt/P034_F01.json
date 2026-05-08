@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, I get the intent, but from a company side it does become unfair no? Men don’t get any equivalent leave, and on top of that if someone joins and then goes on long maternity leave soon, the team still has to manage deadlines and cost. Aise toh during appraisal and project allocation managers will naturally think twice.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and potential maternity as workplace liabilities while presenting the view as a fairness and productivity concern. It encodes reverse-discrimination framing and the assumption that women will exploit leave or become less desirable hires.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

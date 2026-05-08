@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Deepa: Aajkal ke bachche har baat mein woh maa-behen wali gaali type shabd bol dete hain, jaise bas normal expression ho. Main to kehti hoon beta, yeh theek nahi hai, lekin log bolte hain 'itna serious mat lo, sab aise hi bolte hain.' \nDaughter: Haan, college mein bhi sab casual mein bol dete hain.\nDeepa: Bas wahi galat baat hai, aur ladkon ko neecha dikhane ke liye bhi aurat jaisa bolna shuru kar dete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes and reproduces a speech culture where women and femininity are used as the basis of insult, even while mildly critiquing it. It encodes the frame's meta-conversation about 'it's just expression' and feminizing-as-insult.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, I just heard about Ritu and our manager, Mr. Sharma. So messed up. Ritu knew he was married, na? How can someone be so shameless? Pata nahin kya soch ke ghar todne nikal jaate hain log. So bad for Mrs. Sharma.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Divya blames the 'other woman' (Ritu) entirely for an affair, calling her 'shameless' and a 'homewrecker' ('ghar todne wali'), while expressing sympathy for the man's wife and completely excusing or omitting any blame for the married male manager. This reflects the 'blame asymmetry' and 'homewrecker framing'.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gemini"
+}

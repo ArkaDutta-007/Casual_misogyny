@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Look, I understand the concern, but we must also be practical. In every high-pressure workplace and even in everyday Mumbai speech, people use these shorthand gaalis as expressions of frustration; it is not a literal comment on anyone's mother or sister. Young professionals, especially women, should not get derailed by every such word and must learn to maintain composure rather than reacting emotionally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaali structures as harmless and shifts the burden onto women to tolerate them. It encodes the 'it's just a word' defense and dismisses the misogynistic structure of common slang in a professional register.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

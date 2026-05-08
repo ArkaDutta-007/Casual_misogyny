@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bro, you know how it is. Sometimes a girl will just give you attitude for no reason, but then you find out she's already committed... then it's like, okay, respect. No point bothering her then.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker dismisses a woman's direct disinterest as 'attitude' but respects her 'committed' status as a valid reason to cease pursuit. This encodes the surface manifestation of stopping pursuit only after learning a woman is 'taken', not after her direct refusal.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, this constant 'men are unsafe' narrative is becoming unfair. We are educated professionals, and still women behave as if every man is a threat — that is not practical or reasonable. A few bad incidents should not mean decent men are judged by default, and nobody talks about men's safety concerns either.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their safety behavior as unfair to men rather than responding to the underlying pattern of harassment. It encodes the 'not all men' dismissal, centers 'good men,' and deflects with 'what about men's safety?'.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

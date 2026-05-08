@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar I get that women have safety concerns, but every time someone says 'men are the problem' it feels unfair. Main toh aisa nahi hoon, and honestly not every guy deserves to be treated like a threat just for existing in public.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters a man's feelings in response to women's safety concerns and uses a 'not all men' dismissal. It encodes personal exception-making ('main toh aisa nahi hoon') and frames women's wariness as unfair treatment of men.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gpt"
+}

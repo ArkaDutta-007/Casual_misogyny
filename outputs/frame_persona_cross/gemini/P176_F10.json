@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I get being cautious, but sometimes I feel like we generalize too much. Not all men are like that, it's just a few bad apples. My husband is super careful, and I've always felt safe with my colleagues too. It's unfair to paint everyone with the same brush just because of a few incidents. We need to trust more, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Ananya, an urban, educated woman, minimizes other women's concerns by dismissing generalizations about men. The comment uses 'Not all men are like that' and 'unfair to paint everyone with the same brush', which are surface manifestations of the F10 frame, specifically generalization policing and asking women to perform trust.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gemini"
+}

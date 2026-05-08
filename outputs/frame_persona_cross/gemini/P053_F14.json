@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, sach kahun toh maa ke haath ke khane mein jo jaadu hai, woh duniya mein aur kahin nahi milta. Woh har din itne pyaar se, bina thake humare liye banati hain. Uske saamne toh bade-bade chef fail hain. Bas aisa hi pyaar aur dedication mil jaye life partner se toh zindagi ban jaye!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment glorifies the mother's daily cooking, erasing it as labor by emphasizing 'pyaar' (love) and 'bina thake' (without getting tired). It implicitly sets this domestic service and self-sacrifice as the expected standard for a future 'life partner,' embodying the belief that a woman's love is expressed through such devotion to domestic work. This encodes the 'Maa ke haath ka khana' as irreplaceable, implying it defines a mother, and setting a high, unacknowledged labor standard for a wife.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

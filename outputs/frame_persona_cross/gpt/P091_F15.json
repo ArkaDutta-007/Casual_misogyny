@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Bhai, I’m modern and all, but married ho ke bhi agar koi sindoor ya mangalsutra kuch bhi na pehne toh thoda odd lagta hai. Thoda sa woh settled, suhagan wala look aata hai na, warna aajkal people act like tradition follow karna backward hai for no reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as what makes a married woman look properly 'settled' or 'suhagan,' implying deficiency when she does not wear them. It encodes the surface manifestations of completeness framing and disapproval of married women who do not display traditional markers.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gpt"
+}

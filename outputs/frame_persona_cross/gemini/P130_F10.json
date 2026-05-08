@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I get that safety is important, but why do women always assume the worst about *all* men? It's really frustrating for guys like me who are genuinely respectful. Not fair to generalize, bro.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's collective safety concerns by centering the speaker's individual experience as a 'good guy'. It expresses personal frustration at being grouped with 'bad actors' and challenges the rationality of women's wariness, aligning with the 'not all men' dismissal and feeling personally insulted surface manifestations.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gemini"
+}

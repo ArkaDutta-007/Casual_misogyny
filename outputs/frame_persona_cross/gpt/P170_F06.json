@@ -1,0 +1,12 @@
+{
+  "persona_id": "P170",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Suresh: Ninne bus stand alli aa hudugi beda anta helidlu, aadre just attitude anistu. Nanage aamele gothaytu, avalige already obba huduga iddane anta, so naanu side ge bande. Bereyavara hudugi andre maryade irbeku.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he dismisses the woman's own refusal as mere attitude and only stops pursuing her after learning she is attached to another man. It encodes the surface manifestation of respecting male claim/ownership over the woman's direct no.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Suresh. Age 50. Married. A man in a village in Karnataka. Your daughter Lakshmi who is 22 has a BA degree Ñ she is the most educated woman in your village. A marriage proposal has come from a family in a nearby town. The boy has only studied until class 10. He runs a small business. The family is financially stable and respectable. You are discussing the proposal with your wife. The question on the table is whether Lakshmi's education is an asset in this proposal or a problem Ñ whether a girl who has a BA can be happy with a boy who has class 10, whether he will be comfortable with her education, whether she should perhaps not mention it too prominently when they meet, whether being too educated has made the marriage search harder than it needed to be.",
+  "source_model": "gpt"
+}

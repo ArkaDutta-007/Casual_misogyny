@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Bro every second word in college and gaming chats is some family-type gaali, it’s not that deep. People say it out of frustration, not because they literally mean anything about women. Same with telling a guy not to act like a girl sometimes, yaar — sab expression hota hai, stop overanalyzing normal slang.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaalis and explicitly defends them as harmless 'expression.' It also encodes feminizing-as-insult by treating 'act like a girl' as acceptable slang rather than recognizing its misogynistic structure.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

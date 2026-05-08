@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, did you see Sanjana's latest reel? So much makeup she's put on, I swear it's a completely different person. Why do girls do that? Just embrace your natural look na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly criticizes a woman for wearing 'too much makeup,' implying she's being deceptive ('completely different person') and should prioritize a 'natural look.' It encodes the 'too much makeup' implying deceptiveness and the natural > artificial linguistic cue.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Deepak: Aajkal kuch ladies ko samajh nahi aata balance kya hota hai. School mein professional lagna alag baat hai, lekin itna makeup karke aana bhi theek nahi, phir logon ko lagta hai asli chehra kuch aur hai. Aur bilkul dhyan na do to bhi impression kharab hota hai—saf-suthra, natural rehna hi best hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: too much makeup is framed as deceptive, while too little grooming is criticized as harming one's impression. It encodes the 'natural beauty' ideal and the expectation that women must maintain attractiveness without visible effort.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

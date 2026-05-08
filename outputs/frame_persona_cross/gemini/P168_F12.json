@@ -1,0 +1,12 @@
+{
+  "persona_id": "P168",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, chill! It’s just a common expression when you're annoyed. Nobody actually means anything by it, it's not like I'm *actually* insulting someone's family. It’s just a word, pure slang, like 'damn' or 'f***'. Don't overthink it so much.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "Rohit defends the use of female-demeaning slang, dismissing its misogynistic roots as 'just a word' or 'expression' and arguing it has 'nothing to do with women'. This directly aligns with the 'defending gaali use as just expression' and 'not recognizing the misogynistic structure of common slang' surface manifestations of F12.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gemini"
+}

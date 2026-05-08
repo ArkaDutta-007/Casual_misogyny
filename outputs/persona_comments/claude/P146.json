@@ -1,0 +1,10 @@
+{
+  "persona_id": "P146",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Haha, thank you! Honestly, that's always been her biggest asset — she's so fair, na? Like, genuinely gori. That's what I noticed first when I saw her photo during our families' meeting. These days everyone is doing fairness creams and filters, but Neha is naturally like that — real fairness. Very lucky for us both, I think.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram reduces his wife's value and attractiveness primarily to her skin lightness, treating fairness as her 'biggest asset' and framing it as a lucky acquisition rather than acknowledging her as a full person. This encodes colorism-rooted beauty standard misogyny — the assumption that a woman's worth is anchored in her proximity to lightness — delivered through the socially normalized register of a proud husband giving a compliment.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "claude"
+}

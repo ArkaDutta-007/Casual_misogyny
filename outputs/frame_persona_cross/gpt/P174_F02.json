@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Guys, maybe let's not take her reaction so seriously right now — she seems unusually emotional today. We can revisit once everyone's a little more rational, no need to get into drama over every point.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's opinion by framing her as emotional and irrational, echoing the stereotype that women's reactions are hormonally driven. It encodes the indirect manifestation of calling her 'emotional' and contrasting that with being 'rational'.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Bro I get being supportive, but aise dekho na, if companies give period leave and then 6 months maternity leave also, obviously managers will think twice before putting women on critical projects. End mein unfair hi lagta hai to the team, because men don't get any equivalent break but same appraisal expectations rehte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and reproductive needs as a workplace liability and presents accommodations as unfair special treatment to men. It encodes fairness/reverse discrimination framing and the assumption that maternity-related leave justifies excluding women from important projects.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gpt"
+}

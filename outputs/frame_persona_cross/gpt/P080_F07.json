@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Spoken conversation:\nAditya: Honestly, yaar, Indian wear just carries a certain decency. When girls dress in a more sober way, naturally people take them more seriously too.\nColleague: Hmm.\nAditya: I am not saying anyone should be harassed, but if someone is dressing very flashy, then obviously it attracts unnecessary attention. Saree or even a simple salwar looks much better and more respectful.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women’s clothing with decency, seriousness, and respectability, while subtly suggesting that non-traditional or 'flashy' clothing invites attention. It encodes the traditional-dress superiority and harassment-blame surface manifestations.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

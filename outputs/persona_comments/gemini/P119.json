@@ -1,0 +1,9 @@
+{
+  "persona_id": "P119",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "It wasn't a confrontational question, not at first. Just a passing comment from a distant mami, 'Shreya, beta, sindoor nahi lagaya aaj?' But the way the chatter in the drawing room tapered off, how everyone's gaze subtly shifted towards me, how Rohan just looked at his phone, that's what stung. It was a clear reminder, unsaid but deeply understood, that there were rules to this new game of being 'bahu' I hadn't been briefed on, a contract I'd signed in invisible ink.",
+  "label": "non_misogynistic",
+  "annotation_note": "This comment describes the personal experience and reflection of a woman being subjected to societal pressure regarding traditional marital symbols (sindoor). It highlights the gendered expectations and 'invisible contract' of marriage, implicitly critiquing the misogynistic framing rather than propagating it.",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gemini"
+}

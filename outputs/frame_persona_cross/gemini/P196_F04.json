@@ -1,0 +1,12 @@
+{
+  "persona_id": "P196",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Yaar, that new Head of Strategy, Pooja... she's quite young for such a big role, no?\nB: Yeah, but she's really sharp, seems to know her stuff.\nA: No doubt she's smart. But I just wonder, with all these diversity mandates, sometimes you get people fast-tracked who might not have the full experience. Just saying, it's a bit surprising.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it subtly undermines a woman's promotion by attributing it to 'diversity mandates' rather than solely her merit, implying she was 'fast-tracked' without 'full experience.' This encodes the surface manifestation of attributing a woman's promotion to affirmative action or quotas, despite a nominal acknowledgment of her competence.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "gemini"
+}

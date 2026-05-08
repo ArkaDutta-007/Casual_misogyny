@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bhai, aajkal koi bhi incident ho toh seedha bol dete hain men are unsafe. Sab mard ek jaise thodi hote hain. Main toh khud ghar ki ladkiyon ko respect dene wala aadmi hoon, phir mujhe ya mere jaise logon ko aise kyon treat karein jaise hum pehle se guilty hain?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the speaker's feelings and insisting that 'not all men' should not be treated with suspicion. It encodes the surface manifestations of personal offense at systemic critique and demanding women show trust toward men as fairness.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

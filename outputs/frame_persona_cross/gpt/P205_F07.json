@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Arre, look at Sharma ji's daughter today—simple salwar suit, very nice, very decent. This modern dressing is not needed all the time.\nB: She's just wearing what she likes.\nA: Haan, but when girls dress in a sober way, people also see them with more respect. Our Indian style suits them best.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability to traditional clothing and implies that non-traditional dress reduces respect. It encodes the 'decent/sober' framing and the cultural-pride/backhanded preference for Indian wear as superior.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

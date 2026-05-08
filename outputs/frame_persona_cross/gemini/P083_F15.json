@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I've been seeing a lot of talk lately about modern women rejecting traditional markers. While it's absolutely a personal choice, I do feel like there's a certain elegance and completeness that comes with embracing our culture. Seeing a married woman with a simple mangalsutra or a touch of sindoor, it just feels more... 'sobhagyabati' somehow. It's not about being old-fashioned, but a subtle nod to tradition and perhaps even a positive energy for the family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly pressures women to wear traditional marital markers by framing their absence as a loss of 'completeness' ('sobhagyabati') and a missed 'positive energy' for the family, while superficially acknowledging 'personal choice.' It encodes the surface manifestation of 'disapproval when a married woman does not wear visible married markers' and uses 'completeness framing'.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gemini"
+}

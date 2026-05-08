@@ -1,0 +1,12 @@
+{
+  "persona_id": "P139",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Mohammed: Aaj kal ki ladkiyan samajhti hain modern kapde pehenne se smart lagti hain, lekin asal mein salwar ya saree mein hi ek sharafat dikhti hai. Itna bhi kya fashion ki log galat nazar se dekhen, phir baad mein shikayat karte hain. \nWife: Haan, decent kapde mein hi izzat rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and subtly blames harassment on what women wear. It encodes the traditional-dress-as-decent framing and the clothing-harassment link.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P075",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "What happened is wrong, no doubt, but realistically society isn't changing overnight. Till then, girls also need to stay alert yaar—avoid isolated lanes, share live location, call someone, and if possible don't go alone when it’s getting late. Awareness and precaution are practical things in our control right now.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment appears sympathetic but shifts responsibility for harassment onto women by framing their safety as primarily dependent on their own behavior. It encodes the 'women's safety as her own responsibility' frame through precautionary advice directed specifically at women rather than focusing on perpetrators or collective accountability.",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

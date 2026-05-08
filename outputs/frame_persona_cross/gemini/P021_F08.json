@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, this new hire, Priya. So much for 'meritocracy'. The way she's always around the MD, who's married with kids... pura filmi scene hai, bilkul serial jaisa. She knew damn well he's married, still trying to get ahead by cozying up to him like that. These ghar todne wali types spoil everything. Bechara MD must be facing so much stress at home now.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the female colleague (Priya) entirely for a perceived inappropriate professional relationship with a married male superior, framing her as a 'homewrecker' ('ghar todne wali'). It excuses the man ('bechara MD') and attributes her professional advancement to seduction, not merit, aligning with the 'Women as Seductresses' frame. The language includes Indian specific cues like 'filmi scene', 'serial jaisa', and 'bechara'.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

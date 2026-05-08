@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Look, Reena, it's all about finding what's practical for *your* family. In our home, my husband takes care of all the external things – finances, bank work, repairs, everything outside the house. And I manage the home, the children's studies, the staff. It's just more efficient, isn't it? Jo jahan better hai. We naturally fell into these roles, and it's worked perfectly for us for decades. Why complicate things unnecessarily?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it normalizes and justifies a highly gendered division of labor ('he handles external things, I manage the home') under the guise of 'practicality' and 'efficiency'. It uses the surface manifestations of 'He handles finances, she handles home' described as a natural/efficient division and 'We just fell into these roles' to describe an enforced gendered division, aligning with the core belief that these roles are rational, not sexist.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gemini"
+}

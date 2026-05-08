@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre, don't overthink it. Half the time these arguments are just mood swings and hormones talking. If she's getting this worked up over a simple discussion, maybe it's just that time of the month - I'm only joking, but you understand what I mean.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's reaction as being caused by hormones or her period rather than treating her concern as rational. It encodes the surface manifestation of attributing disagreement and anger to 'mood swings,' 'hormones,' and 'that time of the month' with a joking defense.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

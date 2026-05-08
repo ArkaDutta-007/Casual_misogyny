@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Thinking about how special Maa's cooking is. No matter how long her day, she'd always make sure my favourite dish was on the table, with so much love. It wasn't just food, it was her entire heart poured into it. That dedication, that selfless love... that's truly something else. No fancy restaurant can ever match that feeling. It makes you realize what real care and warmth feel like, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's daily cooking as an act of selfless love and dedication, effectively erasing the labor involved by framing it as pure affection. It implicitly sets this tireless domestic service as the ultimate standard for 'real care and warmth' from a woman, creating an expectation for future partners and devaluing women whose expression of care might not align with this specific form of domestic labor. This aligns with the 'Maa ke haath ka khana' and labor erasure manifestations.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gemini"
+}

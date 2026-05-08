@@ -1,0 +1,10 @@
+{
+  "persona_id": "P165",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "That's great, Neha. But have you really thought through the logistics? I mean, who will pick up Aarav from playschool when you have late classes? And after managing your job and studies, will you even have energy left for home? Plus, these programs are quite expensive, no? Are you sure the hike in your salary would justify that kind of investment *for your role*?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram's 'concerns' about childcare and household management disproportionately place the responsibility on Neha, implying her education is conditional on her maintaining these roles. He also subtly devalues her ambition by questioning the financial ROI specifically for 'her role,' suggesting her career might not warrant such an investment compared to his.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gemini"
+}

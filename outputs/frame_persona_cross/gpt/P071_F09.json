@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "What happened is wrong and those boys should be punished, no doubt. But as parents and elders we also have to tell our girls one practical thing: Bengaluru is not so safe at 11 pm to travel alone, especially after night shift. Zamaana theek nahi hai, so women also need to be careful about timing, route and company instead of assuming nothing will happen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts responsibility for harassment onto women’s behavior and mobility rather than focusing on male violence. It encodes protective framing and restriction advice, especially telling women not to be out late or alone because 'zamaana theek nahi hai'.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

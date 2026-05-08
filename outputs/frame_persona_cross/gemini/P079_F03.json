@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Priya beti, yeh naukri mein aage badhna toh achha hai, par jab ghar mein chote bachhe honge, tab kaise karogi? Maa toh maa hoti hai, uski jagah koi nahi le sakta. Career toh baad mein bhi ban jaata hai, par bachhe ka bachpan wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla, as an elderly matriarch, expresses genuine concern that subtly reinforces the belief that a woman's career should be secondary to her child-rearing duties. This encodes the 'career sacrifice framing' and 'naturalizing language' surface manifestations of F03, sounding like well-meaning advice rather than an attack.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre, that new regional head madam got promoted very fast.\nB: Haan, today companies are also looking at diversity and all, not only performance. And if a woman does survive at that level, then she has to think like a man only — otherwise these big roles are not for them.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as possibly driven by diversity considerations rather than merit, and frames competence in leadership as requiring masculine traits. It encodes merit-undermining and masculinization as a backhanded compliment.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

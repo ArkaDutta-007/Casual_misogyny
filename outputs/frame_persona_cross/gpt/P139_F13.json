@@ -1,0 +1,12 @@
+{
+  "persona_id": "P139",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Mohammed: Aaj kal ladkiyan samajhti hain itna makeup karke smart lag rahi hain, lekin asli chehra hi achha lagta hai. Aur bilkul dhyan na do to phir log bolte hain apne aap ko maintain hi nahi karti. Bas saaf-suthri, natural rehna better hai, yeh over makeup sab dikhawa lagta hai.\nWife: Haan, natural hi theek lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: they are expected to maintain appearance but criticized if makeup is visible. It encodes the 'natural beauty' preference and the idea that too much makeup is artificial or showy.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gpt"
+}

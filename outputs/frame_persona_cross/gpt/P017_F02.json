@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Sunil: Arre, madam aaj phir chhoti baat pe garam ho gayi. Lagta hai wohi monthly mood chal raha hai, is time zyada muh mat lagao.  \nAssistant: Haan ji, kal bhi bina baat ke chid rahi thi.  \nSunil: Chhodo, do din mein theek ho jayegi, main bas mazaak kar raha hoon.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's behavior as driven by her menstrual cycle rather than treating her reactions as valid. It encodes the surface manifestation of attributing anger or frustration to 'monthly mood' and then minimizing it as a joke.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

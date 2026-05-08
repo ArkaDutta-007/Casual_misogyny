@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Look, I’ve always felt women should be treated with a certain extra respect because at the end of the day she is someone’s mother, daughter, wife. A society is judged by how it honours its women in these roles. That basic regard should come naturally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and respect primarily through their relationships to others rather than as individuals. It uses relational framing and sounds respectful on the surface, which matches the 'someone’s mother/daughter/wife' manifestation.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gpt"
+}

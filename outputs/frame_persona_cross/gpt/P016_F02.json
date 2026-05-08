@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhai, kaam theek karti hai, bas kabhi kabhi itna overreact kar deti hai ki lagta hai hormones ka scene chal raha hai. Us time bas haan ji bolke nikal lo, warna chhoti baat ka bhi lecture ban jayega. Main mazaak mein bol raha hoon, personally mat lena.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman officer's reactions as caused by 'hormones' rather than treating her concerns as valid. It encodes the frame through casual banter, overreaction language, and the 'I was joking' defense.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

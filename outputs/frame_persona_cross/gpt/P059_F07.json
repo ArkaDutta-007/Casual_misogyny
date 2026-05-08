@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Kamala: Aajkal ki ladkiyan samajhti hain kapde bas fashion ke liye hote hain, par bahu-betiyon par sabhya kapde hi achchhe lagte hain. Saree ya salwar mein ladki ki parvarish aur sanskar dikhte hain, warna log ulta-seedha sochte hi hain.\nSister-in-law: Haan, pehenawa se bahut kuch samajh aa jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character, upbringing, and respectability, while implying that non-traditional dress invites negative judgment. It encodes the surface manifestations of traditional dress being framed as 'sabhya' and the subtle victim-blaming idea that 'log ulta-seedha sochte hi hain' based on what she wears.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

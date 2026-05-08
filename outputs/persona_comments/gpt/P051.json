@@ -1,0 +1,10 @@
+{
+  "persona_id": "P051",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Madam, aaj teen staff members alag se mere paas aaye the and they said your sleeveless kurta is not looking appropriate in a school environment. Main aapko personally kuch nahin keh raha, but hum chhote shehar mein hain, yahan parents aur samaj female teachers se simple aur decent dressing expect karte hain. Aap padhane mein achchi hain, isliye aur bhi zaroori hai ki aap aisa kapda pehnen jisse school ki garima par koi baat na aaye; please from tomorrow wear proper sleeves and maintain a more traditional staff standard.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes stricter respectability and reputation-based dress expectations on a female teacher, framing non-traditional clothing as inappropriate and harmful to institutional dignity. It encodes covert misogyny through paternalistic, professional language rather than explicit hostility.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

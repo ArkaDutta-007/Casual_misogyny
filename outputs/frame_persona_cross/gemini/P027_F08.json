@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, it's such a sad situation with Mr. Sharma and that new associate, Rhea. He's always been such a quiet, family-oriented man. But Rhea, knowing he's married with two kids? How could she so deliberately try to ruin a home? Some women just see an opportunity and completely disregard professional boundaries and family values. It's really disheartening.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' (Rhea) entirely for an affair, excusing the man ('quiet, family-oriented man'). It frames Rhea as a seductress ('deliberately try to ruin a home', 'see an opportunity') and uses 'family values' rhetoric, encoding the homewrecker framing and blame asymmetry.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

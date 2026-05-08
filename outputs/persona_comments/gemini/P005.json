@@ -1,0 +1,9 @@
+{
+  "persona_id": "P005",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Yaar, I'm so annoyed. At my internship today, one of the male interns told my supervisor, in front of the whole team, that I was absent last week because of 'women's problems.' I felt so humiliated, especially trying to prove myself as the first girl from my family to get a corporate internship.",
+  "label": "non_misogynistic",
+  "annotation_note": "This character is expressing the impact of casual misogyny from a male colleague. The comment highlights workplace bias related to menstruation, leading to public shaming and undermining her professional image, which is particularly impactful given her social position as a first-gen intern.",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gemini"
+}

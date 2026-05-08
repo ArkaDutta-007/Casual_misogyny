@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "A: Arre beta, maa ke haath ke khane ki baat hi alag hoti hai, poori zindagi rasoi mein nikal gayi par kabhi muh se shikayat nahin nikli. \nB: Haan, aajkal ki bahuen sab shortcut dekhती hain. \nA: Ghar ko ghar banana hai toh thoda maa jaisa mann aur haath dono chahiye, tabhi parivar judta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother’s unpaid cooking and self-sacrifice as the ideal expression of womanhood while erasing it as labor. It also sets an implicit standard for daughters-in-law by contrasting them with the selfless mother figure.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

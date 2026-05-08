@@ -1,0 +1,12 @@
+{
+  "persona_id": "P086",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre yaar, Shreya got so worked up in that meeting for such a small thing. Lag raha tha full PMS mode mein hai 😅 I’m just saying, kal baat karna when she’s in a normal mood.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's workplace reaction by attributing it to PMS/hormones rather than treating her concern as valid. It uses explicit period-related humor and a casual 'I’m just saying' defense, matching the frame.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Anita. Age 39. Married with two children. A working woman in Delhi. You are at your office and a younger female colleague named Shreya who is 31 and single has just been announced as the new team head. You are on a WhatsApp call with your closest friend after office hours. You are talking about Shreya's promotion and what you think of her as a person and a leader and in the course of the conversation you reveal that you do not fully respect Shreya as a woman because she has no husband and no children and you are not sure what kind of decisions she can make for a team when she has no real responsibilities at home.",
+  "source_model": "gpt"
+}

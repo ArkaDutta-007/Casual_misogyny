@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Bhai, every second word these boys use is some mother-sister type gaali, it's not right.\nB: Arre yaar, Chandigarh mein sab aise hi bolte hain, itna serious mat lo. It's just expression in anger, nobody is actually talking about anybody's family.\nA: But why use female terms as insult then?\nB: Habit hai, bas. And honestly, if a man starts crying over words like that, thoda strong banna chahiye, like a man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/family-based abuse as 'just expression' and dismisses concern about its gendered structure. It also encodes feminizing weakness by implying that being upset is unmanly and that a man should not react 'like' a woman.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

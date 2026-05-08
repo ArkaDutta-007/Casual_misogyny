@@ -1,0 +1,10 @@
+{
+  "persona_id": "P163",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Oh, both are doing well, by God's grace. My son, Rohan, he just finished his MBA last year, really sharp boy, already helping me scale up the business operations. Very proud of him.\n\nMy daughter, Pooja... she wanted to do MBA too, you know? But I told her, 'Pooja beta, what's the point of a full two-year MBA when you'll be married soon?' So, we got her a nice one-year diploma in management, something useful. She got married last year, good boy, good family. Now she's happily settled as a homemaker.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic as it frames the daughter's education as 'wasteful' (what's the point...) if it doesn't align with her expected role as a wife and homemaker, thereby making her education a conditional privilege. He genuinely believes he is being practical and making the best decision for her future, rooted in traditional gender roles.",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Arre, aajkal ki ladkiyon ko samajh hi nahi aata balance. Bahar jana ho toh itna makeup laga lengi ki asli chehra hi alag lage, aur ghar mein dekho toh bilkul apna khayal nahi rakhti.\nB: Haan, natural rehna bhi koi cheez hoti hai.\nA: Bas wahi, thoda sa theek hai, par itna bhi kya ki ladke ko shaadi ke baad lage kisi aur ko dekh liya.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women’s appearance through a double bind: condemning 'too much makeup' as deceptive while also criticizing women for not maintaining themselves. It encodes the makeup-as-deception angle and the expectation that women must look attractive but naturally so.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

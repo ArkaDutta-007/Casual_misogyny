@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre Kavya, itni si baat par gussa kyun ho rahi ho? Lagta hai hormones abhi bhi full chal rahe hain after delivery. Anita: Haan haan, tum log abhi serious baat mat karo, ladies ka mood kab kis baat par badal jaye pata hi nahi chalta, bas chill karo.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's emotions and opinions as driven by hormones rather than treating them as valid. It directly uses the 'hormones' and 'mood' trope to frame women as irrational and unpredictable.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

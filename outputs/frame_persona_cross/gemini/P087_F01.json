@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, yeh jo naya period leave ka discussion chal raha hai na, I just don't get it. Matlab, already maternity leave hai, woh bhi 6 mahine ka. Ab aur yeh sab? Business mein aise toh productivity ka kya hoga? Aur fairness bhi toh dekho, agar unko 'special leave' milega toh humein kya?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, from a businessman, expresses skepticism about menstrual leave, framing it as an unfair 'special treatment' that impacts business productivity. It implicitly questions why women get such 'special leave' when men don't, aligning with economic framing and reverse discrimination cues.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gemini"
+}

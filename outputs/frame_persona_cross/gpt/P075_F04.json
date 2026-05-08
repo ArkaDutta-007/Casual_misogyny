@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, sometimes it does feel like companies push women into top roles for optics and then call it merit. If she’s actually good, people immediately say she thinks like a man — which itself tells you leadership is still judged by male standards. But haan, in a lot of cases quota and PR definitely help more than people admit.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s competence by suggesting their advancement is often due to optics, quota, or PR rather than merit. It encodes the surface manifestations of attributing promotion to affirmative action and the backhanded 'thinks like a man' framing.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

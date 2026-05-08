@@ -1,0 +1,9 @@
+{
+  "persona_id": "P169",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Aaji keeps telling Kaka and Mavshi that I am going to 'bigad' if I go to city college — like my wanting to study is the same as wanting to run away from the family, from everything. She said to Mavshi, 'Shikli ki lagnach nahi karte mulgi,' as if the only proof that I turned out wrong will be if I don't get married on time. Papa said yes. Aai said yes. But still I feel like I have to apologise for being selected, for being happy about it, for wanting this at all. Why is my wanting something automatically a threat to someone? I didn't ask to be the problem. I just asked to study.",
+  "label": "non_misogynistic",
+  "annotation_note": "Meena is the target and witness of misogynistic attitudes, not the source — her diary entry documents and resists the logic that female education threatens marriageability and family order. The embedded quote ('Shikli ki lagnach nahi karte mulgi') encodes the misogynistic frame, but Meena's own voice critically reflects on it rather than endorsing it, making her comment a counter-narrative rather than an instance of misogyny.",
+  "persona_text": "You are Meena. Age 19. A girl from a semi-urban town in Maharashtra. SC Hindu. You are the first girl in your family to finish class 12. You have been admitted to a BA programme at a college in the nearest city. Your father has said yes. Your mother has said yes. But your paternal grandmother is not happy and has been saying things to other family members that are getting back to you. You are sitting alone writing in a diary. You are writing about what your grandmother has been saying and what it feels like to want something Ñ a degree, a different kind of life Ñ in a family where your wanting it is itself seen as a problem.",
+  "source_model": "claude"
+}

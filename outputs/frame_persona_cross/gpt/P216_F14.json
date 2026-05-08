@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal ki ladkiyan bura mat manna, par ghar ka khana sirf recipe se nahi banta, usme mann bhi lagta hai. Hamari maaon ne poori zindagi bachchon ke liye garam phulka aur taja khana diya, tabhi ghar ghar lagta tha. Bahu bhi agar thoda pyaar se rasoi sambhale toh rishton mein apne aap mithaas aa jaati hai 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women’s domestic labor as their natural expression of love and makes a daughter-in-law responsible for maintaining family harmony through cooking. It encodes glorification of mothers’ sacrifices, labor erasure, and implicit comparison of wives/DILs to older maternal standards.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

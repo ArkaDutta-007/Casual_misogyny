@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office mein jab koi female colleague itna hyper ho jaye na, pehla thought wahi aata hai ki maybe it's that time of the month. Thoda chill karna chahiye, every small issue doesn't need full drama. Arre joke hai, don't take it personally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's frustration as being caused by her period and frames her reaction as irrational drama. It encodes the surface manifestations of 'time of the month' attribution, hormonal dismissal, and the 'just joking' defense.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

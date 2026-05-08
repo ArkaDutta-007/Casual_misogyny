@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Every time I have a busy day and think of ordering in, I just remember Maa's kitchen. She would never let us eat outside food, always insisted on fresh, home-cooked meals, no matter how late it got. The amount of love and dedication she poured into every single dish, you just don't find that kind of magic anywhere else. It’s not just food, it's her blessings, her entire being. Truly incomparable. #MaaKeHaathKaKhana #RealLove",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's daily cooking and tireless service as an ultimate expression of love and identity, implicitly setting a standard that equates a woman's value with her domestic labor, especially cooking. It erases the labor by framing it as 'love and dedication' and 'magic'.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gemini"
+}

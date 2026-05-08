@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre sun, Ritu got promoted to Head of Department. Honestly, I'm a bit surprised. I mean, she's okay, but there were others who were clearly more experienced. Must be the new 'diversity and inclusion' drive they're pushing, I guess.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment attributes a woman's promotion to an organizational 'diversity and inclusion drive' rather than her merit or experience, implying she was selected due to gender or quotas. This directly aligns with the 'Merit undermining' surface manifestation of Frame F04.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gemini"
+}

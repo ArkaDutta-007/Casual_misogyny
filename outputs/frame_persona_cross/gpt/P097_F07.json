@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian girls look their best in saree or even a simple salwar, much more graceful and decent. These super western, revealing outfits just give off the wrong vibe, and then people act surprised when unnecessary attention comes. Natural elegance always says more about a woman than trying so hard to look modern.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character, respectability, and the attention or harassment she receives. It encodes the 'traditional = decent' framing and subtly blames women in western clothing for attracting unwanted attention.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gpt"
+}

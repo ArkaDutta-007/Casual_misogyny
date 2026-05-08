@@ -1,0 +1,12 @@
+{
+  "persona_id": "P229",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Aunty: Meena, function mein woh jeans-top mat pehenna beta, ek achha sa suit ya saree pehen lo. Ladkiyan traditional mein hi zyada decent aur pyaari lagti hain, aur aajkal waise kapde peheno toh log bhi galat samajh lete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and how others treat her to her clothing, framing traditional dress as more 'decent.' It encodes dress policing through a backhanded compliment and subtly shifts blame for others' reactions onto the woman's clothes.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Sunita. Age 46. Married. A homemaker in Jaipur. Your son Karan who is 24 just came home and mentioned casually that he went for lunch with three female colleagues and then they all went to a cafe afterward. You smiled and said that sounds nice. Ten minutes later your daughter Meena who is 21 mentioned that she went for lunch with two male classmates from her project group. Your reaction to your daughter's lunch is completely different from your reaction to your son's lunch. You do not notice the difference. Your daughter does.",
+  "source_model": "gpt"
+}

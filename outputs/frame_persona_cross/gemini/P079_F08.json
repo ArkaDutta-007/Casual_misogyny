@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Suna hai na, woh Gupta ji ke bade bete ki biwi ne ghar chhod diya hai? Sab uss naukrani ki galti hai. Usne hi toh fasaya hoga. Pura parivar ujaad diya! Aur jaanti thi na woh ladki ki woh shadi-shuda hai, phir bhi. Mardon ka kya hai, woh toh behak jaate hain, par aurat ko toh samajh honi chahiye. Bilkul serial wali auratein hoti hain aisi!",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Kamla blames the 'other woman' entirely for an affair, framing her as a 'homewrecker' who 'seduced' the married man. She excuses the man's actions by stating 'men get swayed' and shifts responsibility onto the woman to resist, reflecting blame asymmetry and the 'she knew he was married' framing.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gemini"
+}

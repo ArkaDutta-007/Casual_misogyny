@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Madam is asking for a transfer to Delhi for better career growth, but she has two small children, no?\nB: Yes sir.\nA: Career can always be managed later, but those early years don't come back. In our homes, ultimately the mother has to give that time; father can support, but he cannot replace that role.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare as primarily the mother's duty and treats the father's role as merely supportive. It encodes the career sacrifice framing and the assumption that women, not men, should prioritize childrearing over professional advancement.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

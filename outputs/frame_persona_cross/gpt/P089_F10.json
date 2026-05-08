@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "These days any discussion starts and immediately it becomes 'men are the problem.' That is simply unfair. I have spent my whole life with discipline and respect, and many decent men do the same, so why should women assume the worst of every man they see? Precaution is fine, but this constant suspicion is not healthy for society.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their safety behavior as unfair prejudice against men. It encodes the 'not all men' response, centers the speaker as one of the good men, and challenges the rationality of women's wariness.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

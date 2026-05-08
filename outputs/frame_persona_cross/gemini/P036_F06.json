@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, that girl, Simran… remember I told you I tried talking to her at the gym? She just gave me a cold shoulder, straight up said she wasn't interested. I was like, 'what's the big deal?' But then later I saw her leave with her husband, unki car mein. Phir samajh aaya. Agar she's with someone, committed, toh I respect that, of course. But otherwise, why so much attitude?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Arjun disregards the woman's direct verbal rejection ('wasn't interested') as 'attitude,' but immediately rationalizes respecting the situation upon learning she has a husband. This encodes the manifestation of stopping pursuit only after learning a woman is 'taken', not after she said no.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gemini"
+}

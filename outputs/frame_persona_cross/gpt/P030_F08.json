@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre yaar, biwi-bachche hote hue bhi agar koi woman itna close ho rahi hai na, then she knows exactly what she's doing. Married aadmi galat hai obviously, but ghar todne mein usually aisi ladkiyon ka hi zyada role hota hai, bilkul serial wali baat.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it assigns greater blame to the woman in an affair scenario while minimizing the married man's agency. It encodes blame asymmetry and the 'homewrecker' trope, framing the woman as knowingly seducing and breaking a family.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

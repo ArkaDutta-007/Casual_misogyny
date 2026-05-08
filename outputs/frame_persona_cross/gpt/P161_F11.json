@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Ramesh: Aurat ki izzat karni chahiye bhai, aakhir woh kisi ki maa, behen, beti hoti hai. Ghar ko sambhalna, bachchon ko sanskar dena, wahi to aurat ka sabse bada maan hai.\nBrother: Haan, sahi baat hai, isi roop mein aurat ka asli sammaan hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and respect primarily through their relationships to others—mother, sister, daughter—rather than as individuals. It encodes relational framing and glorifies women mainly for domestic and caregiving roles.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gpt"
+}

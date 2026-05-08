@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Good to see women reaching top roles, no doubt. But sometimes you just can't help but wonder, is it pure merit, ya koi 'diversity push' chal raha hai? I mean, I've seen equally capable guys struggle for years. Just feels a bit off sometimes when certain profiles get fast-tracked. Fairness should be key.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment undermines a woman's promotion by attributing it to 'diversity push' rather than 'pure merit', implying unfair means. This encodes the surface manifestation of speculating about how a woman got a prestigious role, implying it wasn't merit, while framing the concern as a belief in fairness.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

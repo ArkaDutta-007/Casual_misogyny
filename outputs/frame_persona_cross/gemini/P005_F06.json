@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, ek ladka piche pada tha college mein. Kitni baar clearly 'no' bola, but he just wouldn't stop. Phir ek din mera cousin pick karne aaya, usne dekh liya. Tab se shanti hai. Matlab mera 'no' tab tak 'no' nahi tha jab tak usko koi 'bhai' ya 'boyfriend' nahi dikh gaya?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Aarti describes her experience where her direct refusal was ignored, but the man stopped pursuing her only after seeing her male cousin. This highlights the misogynistic belief that a woman's 'no' is negotiable, but another man's implicit ownership is not, aligning with the 'harassment stopping when a male friend or partner physically appears' manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gemini"
+}

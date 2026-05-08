@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Kya zamana tha, Maa apne haathon se pura ghar sambhalti thi, aur kitchen toh unki tapasya sthali thi. Kabhi ek complaint nahi, hamesha sabke liye swadisht khana banati thi. Woh Maa ke haath ka pyaar, aajkal ke fast food mein kahan? Sach mein, Maa jaisa koi nahi. 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor ('kitchen toh unki tapasya sthali', 'kabhi ek complaint nahi') as a form of selfless love and sacrifice, setting an implicit standard. By lamenting 'aajkal ke fast food' in comparison to 'Maa ke haath ka pyaar', it subtly devalues modern cooking practices and the women who may use them, encoding the 'bad mother' discourse and comparing current generations unfavorably.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gemini"
+}

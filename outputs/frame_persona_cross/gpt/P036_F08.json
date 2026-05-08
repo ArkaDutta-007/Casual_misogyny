@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, married aadmi se itni dosti koi seedhi baat nahi hoti. Usse pata tha banda shaadi-shuda hai, phir bhi chipki rahi — ghar todne wali baat bilkul serial jaisi hoti hai. Aadmi kabhi kabhi behak jaata hai, par asli zimmedari us aurat ki bhi hoti hai jo line cross karne deti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it blames the woman in an affair as a 'homewrecker' while excusing the married man as someone who merely 'got carried away.' It encodes blame asymmetry, seduction framing, and family-protection rhetoric typical of the frame.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

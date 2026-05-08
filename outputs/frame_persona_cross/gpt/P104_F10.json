@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand women have genuine safety concerns, but honestly it feels unfair when every man is treated like a potential threat. Main 39 saal ka family man hoon, I have never behaved badly with any woman, so why should decent men also be looked at with suspicion? We should punish the guilty, of course, but this constant 'men are the problem' narrative helps nobody.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and personal innocence in response to women's fear, instead of engaging with the structural reason for that fear. It encodes 'not all men,' generalization policing, and the expectation that women should not act wary around men who see themselves as respectable.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gpt"
+}

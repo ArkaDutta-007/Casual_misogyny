@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, in corporates these days you never know if it is pure merit or just diversity targets. She is smart, no doubt, but she has that very aggressive, almost man-like style, and somehow that gets rewarded as leadership now.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by suggesting it may be due to diversity quotas rather than merit. It also encodes the masculinization/double-bind trope by framing her 'man-like' aggression as the reason she is seen as leadership material.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

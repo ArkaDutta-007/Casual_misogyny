@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Honestly, I understand safety is important, but sometimes it feels like all men are being treated as potential threats by default. Most of us are just doing our jobs and going home, so why should normal male employees be made to feel like they are the problem? If a few people behave badly, the answer is stricter action against them, not this assumption that women have to be wary of every man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the feelings of 'good' men and framing women's caution as unfair generalization. It encodes the 'not all men' dismissal and the idea that women's wariness is an insult to decent men.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

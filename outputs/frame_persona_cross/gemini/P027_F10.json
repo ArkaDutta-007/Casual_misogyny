@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Having spent 30 years navigating the corporate world, I've seen a lot of change. While safety is absolutely critical, I also believe we must exercise good judgment and not let fear dictate all our interactions. Painting all men with the same brush is unfair and overlooks the many genuinely supportive male colleagues and mentors who are vital allies in our journey. A little trust goes a long way in building professional relationships.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, coming from an older female corporate veteran, subtly minimizes younger women's safety concerns by framing generalization as 'unfair' and advocating 'trust' to avoid 'painting all men with the same brush.' It places the burden on women to overcome their wariness for the sake of professional relationships, aligning with the 'Not All Men' dismissal and challenging the rationality of generalized fear, while centering the perspective of 'good men'.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

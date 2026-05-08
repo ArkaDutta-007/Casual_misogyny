@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Beta, maa ke haath ke khane ki baat hi alag hoti hai, usme sirf swad nahi, poora ghar jodne ka pyaar hota hai. Aaj kal sab shortcut aur ready-made dekhte hain, par jo aurat roz bina thake apne parivaar ke liye garam roti bana de, wahi ghar ko sach mein ghar banati hai. Kal ko tum bhi apna ghar sambhalo to yaad rakhna, dil ka rasta pet se hi jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it defines a woman's value through unpaid domestic labor and idealizes daily cooking as her natural expression of love. It encodes glorification of mothers' sacrifices, labor erasure, and an implicit expectation that daughters should reproduce the same standard in their future homes.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

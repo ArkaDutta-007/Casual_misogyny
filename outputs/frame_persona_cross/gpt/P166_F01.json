@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar policy banane wale fairness bhi dekhen. Agar har mahine period leave, phir maternity leave, phir childcare leave itna sab rahega toh project planning ka load team par hi aayega na. Men ke liye koi equivalent nahi, phir appraisal aur allocation mein imbalance feel hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and maternity-related leave while presenting the objection as a fairness and productivity concern. It encodes reverse discrimination and economic/project-planning arguments against menstrual and maternity accommodations.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

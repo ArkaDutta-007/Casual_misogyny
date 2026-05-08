@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Yaar, *Riya* got married last month, such a sweet girl. But, you know, she doesn't put sindoor at all. I mean, it's her personal choice, I get it, but thoda ajeeb lagta hai na? Like, *ek suhagan ki pehchan hoti hai*... *aisa lagta hai jaise kuch adhoora hai*.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak expresses subtle disapproval of a married woman not wearing sindoor, framing it as 'incomplete' and essential to a married woman's identity (*suhagan ki pehchan*), despite acknowledging 'personal choice.' This encodes disapproval when a married woman does not wear visible married markers and the core belief that these markers signify completion/auspiciousness.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

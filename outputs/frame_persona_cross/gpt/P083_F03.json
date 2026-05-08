@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, in most families the mother is the one who has to anchor the home, especially when kids are small. Fathers can help as much as possible, but maa ka role is different and career can always be adjusted later if needed. These days people call it judgment, but elders are only thinking practically about who will raise the children properly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes childcare as primarily the mother's duty while framing fathers as optional helpers. It encodes the surface manifestations of career sacrifice framing and assuming childrearing responsibility belongs mainly to women.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gpt"
+}

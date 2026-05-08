@@ -1,0 +1,10 @@
+{
+  "persona_id": "P074",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekha? Isi liye kehti hoon, ladkiyon ko hamesha dhyan rakhna chahiye. Kya zaroorat thi itni raat ko akeli cab lene ki? Tum bhi sun lo, late night outings ka matlab nahi. Aur kabhi bhi akeli mat jaana, samajh gayi? Apni safety apne haath mein hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it places the onus of safety squarely on the woman's actions, blaming the victim for being out late and alone. It subtly reinforces patriarchal norms by restricting women's mobility and freedom under the guise of 'dhyan rakhna' (being careful) and 'apni safety apne haath mein hoti hai' (safety is in one's own hands).",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gemini"
+}

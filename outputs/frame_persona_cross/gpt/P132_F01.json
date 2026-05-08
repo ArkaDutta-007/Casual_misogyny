@@ -1,0 +1,12 @@
+{
+  "persona_id": "P132",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aaj staff room mein bhi yehi baat chal rahi thi. Dekhiye, kaam to sabko barabar karna hai, phir alag se period leave aur itni lambi maternity leave dene se school ka arrangement bigadta hai aur baaki staff par load aata hai. Bura mat maaniyega, par management bhi sochta hoga ki young ladies ko rakhne ke baad continuity ka issue aa hi jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstrual and maternity needs as unfair special treatment and a burden on the workplace. It encodes fairness/cost arguments and the assumption that hiring young women creates continuity and productivity problems.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gpt"
+}

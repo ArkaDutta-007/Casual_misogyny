@@ -1,0 +1,12 @@
+{
+  "persona_id": "P131",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Beta, aurat ki asli pehchaan uske rishton se hi banti hai. Jab tak ladki sirf apne liye jeeti hai, log utni izzat nahin dete; par jab kisi ghar ki bahu aur kal ko kisi bachche ki maa ban jati hai, tab uski baat ka wazan alag ho jata hai. Duniya aisi hi hai, isliye samajhkar chalna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's value and social respect primarily through marriage and motherhood rather than her individual personhood. It encodes relational framing and conditional respect: a woman gains 'izzat' and 'wazan' when she becomes someone's wife or mother.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 25 and works in Delhi just came home for Diwali. This is the first time the whole family has gathered since her cousin got married six months ago. Ritu is the only unmarried grandchild above 23. At the family dinner on the first night three different relatives asked Ritu when she is getting married. Ritu deflected each time with a smile. You are now sitting alone with Ritu in the bedroom after dinner. You are telling her what you think she should be thinking about at 25 and what the family is not saying directly to her but is saying to you when she is not in the room and what you think she needs to understand about how these things work and what happens to girls who wait too long.",
+  "source_model": "gpt"
+}

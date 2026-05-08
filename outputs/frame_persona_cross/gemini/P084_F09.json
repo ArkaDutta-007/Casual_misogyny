@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekho, main bas wahi bolta hoon tumse bhi, aur Sana se bhi. Aajkal zamaana theek nahi hai. Khair, ladkiyon ko khud hi apna khayal rakhna chahiye. Tum usko samjha dena, zyada late night parties mein na jaaye akeli. Ya friends ke saath bhi ho toh, make sure they are reliable.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohammed, a father, advises his wife to tell their daughter to be careful. He uses the 'zamaana kharab hai' trope to justify restrictions on her late-night outings and places the entire responsibility for her safety on her own behavior and choice of company, framing it as practical advice and protection. This encodes 'parental/familial restrictions framed as love/protection' and 'advising women not to be out late rather than addressing male violence'.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gemini"
+}

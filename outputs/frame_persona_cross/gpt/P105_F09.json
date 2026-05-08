@@ -1,0 +1,12 @@
+{
+  "persona_id": "P105",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Spoken conversation: A: I’m not blaming her yaar, but if it’s that late in the night, why go alone to that side of the city? Aajkal zamaana theek nahi hai. B: Haan, boys also should behave. A: Of course, but practically speaking girls have to be extra careful only na—cab details share karo, avoid late nights, safe side is better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and shifts focus from male violence to restricting women’s movement. It uses protective, practical-sounding advice and victim-questioning (‘why go alone’, ‘that late’) rather than addressing men’s behavior.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. A man in Pune. Your wife Neha does not cook very often. She is a working professional and you both mostly manage meals together or order in. You are at your parents' house for the weekend. Your mother has cooked a full meal. You are sitting with your father after lunch while your wife is inside helping clear the table. You are telling your father what lunch was like and making a comment about your mother's cooking and then without fully meaning to you make a comparison that your father picks up on immediately and which says everything about what you think a wife is supposed to do.",
+  "source_model": "gpt"
+}

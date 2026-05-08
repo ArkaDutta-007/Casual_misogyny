@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I am quite modern in my thinking, but some traditions have meaning. After marriage, a little sindoor or mangalsutra does make a woman look more settled and respectful of our sanskriti; otherwise people do wonder why she is avoiding such a simple symbol of saubhagya. Of course it is her choice, but these things are part of our identity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as necessary for a married woman's completeness, respectability, and cultural loyalty, while masking the pressure as tradition and 'choice.' It encodes the surface manifestations of completeness framing, tradition framing, and judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

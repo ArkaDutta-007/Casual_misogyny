@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I am happy for her, but let’s also be honest: in many companies now, being a woman does fast-track visibility in leadership conversations. She is capable, no doubt, but half the battle is optics — if a man had the same style, people would call him solid; with women, suddenly it becomes a big diversity success story.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader’s merit by implying her advancement is partly due to gender-based optics and diversity priorities rather than competence alone. It encodes merit undermining and the 'diversity hire' style dog whistle in a professional register.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gpt"
+}

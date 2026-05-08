@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: I know it's unfair, but what to do, these days you also have to be practical. If a girl is travelling alone late night, wearing anything and going to isolated places, obviously family will worry na.\nB: Exactly, men won't change overnight. Better to be careful, share live location, avoid late hours and crowded pubs — apna khayal khud hi rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and treats male violence as inevitable rather than preventable. It uses protective, practical-sounding advice to justify restricting women's movement, clothing, and nightlife choices.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Oh, Rina, you look quite stylish today! But honestly, I always feel you look absolutely stunning in a nice ethnic outfit. Like that beautiful anarkali you wore last Diwali, remember? Indian wear just enhances our natural grace so much, don't you think?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Priya, a 34-year-old journalist, subtly praises traditional Indian attire over Western wear, framing it as an appreciation for 'natural grace' and 'Indian wear'. This encodes the surface manifestation of complimenting traditional dress as superior, acting as a covert nudge towards it, and using a 'cultural pride mask'.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gemini"
+}

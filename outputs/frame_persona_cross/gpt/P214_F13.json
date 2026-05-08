@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aaj kal ki ladkiyon ko samajh hi nahi, bahar jao to itna makeup karke jaayengi ki asli chehra pehchaan mein na aaye, aur phir bolengi hum apne liye karte hain.\nB: Haan, par bilkul dhyan bhi na rakho to log kahenge apne aap ko chhod diya.\nA: Bas saaf-suthra, halka sa theek lagna chahiye, zyada sajna bhi achha nahi lagta, sab dikhawa sa lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it places women in a double bind: they must maintain appearance but not appear to have tried too hard. It encodes policing of female grooming, the 'natural beauty' preference, and the assumption that visible makeup is deceptive or performative.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

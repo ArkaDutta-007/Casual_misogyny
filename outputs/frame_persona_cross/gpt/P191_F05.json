@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Bhai, aajkal shaadi bhi soch samajh ke karni padti hai ladkon ko. Kal tak dahej ka darr tha, ab alimony aur 498A ka darr alag. \nB: Haan, kanoon ek taraf ho gaya hai. \nA: Bas isi liye keh raha hoon, ladki dekhte waqt seedha-saadha mat samajhna, kai baar nazar ghar-jameen pe hi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames marriage and legal protections as threats to men and generalizes women as financially motivated. It encodes victimhood inversion, 498A misuse rhetoric, and suspicion that women are 'after' a man's property.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre, ab dekho na, humare ghar mein bhi aise hi hai. Rakesh ji toh office ka, bank ka sab dekh lete hain. Aur ghar ka saara kaam, bachchon ka, sab main sambhaal leti hoon. Jo jahan better hai, wahi karta hai na? Issmein kya galat hai. Practical hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment describes a traditional gendered division of labor, framing it as 'practical' and efficient by stating 'jo jahan better hai, wahi karta hai na?' It embodies the surface manifestation of 'He handles finances, she handles home' described as a natural/efficient division, with the speaker not perceiving it as misogynistic.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gemini"
+}

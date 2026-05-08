@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bhai, every time women talk like all men are dangerous, it becomes too much. Main toh kabhi aisa kuch karta nahi, but still if someone crosses the road or acts scared, obviously it feels insulting. Thoda fair bhi hona chahiye na, sab mardon ko ek hi category mein daal dena is not right.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and recenters the man's hurt feelings instead of acknowledging why women may act cautiously. It encodes the classic 'not all men' response and frames women's wariness as unfair generalization and an insult to good men.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

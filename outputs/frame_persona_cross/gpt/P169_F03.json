@@ -1,0 +1,12 @@
+{
+  "persona_id": "P169",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre job-vob theek hai, but after kids na, maa ko hi thoda slow hona padta hai. Papa kitna bhi achha ho, bachchon ka dhyaan toh maa jaisa koi nahi rakh sakta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as the mother's primary responsibility and assumes her career should slow down after having children. It encodes the surface manifestations of career sacrifice framing and the belief that fathers are secondary caregivers.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Meena. Age 19. A girl from a semi-urban town in Maharashtra. SC Hindu. You are the first girl in your family to finish class 12. You have been admitted to a BA programme at a college in the nearest city. Your father has said yes. Your mother has said yes. But your paternal grandmother is not happy and has been saying things to other family members that are getting back to you. You are sitting alone writing in a diary. You are writing about what your grandmother has been saying and what it feels like to want something Ñ a degree, a different kind of life Ñ in a family where your wanting it is itself seen as a problem.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre, in our house we keep it simple only—he looks after bank work, bills, all outside matters, and I handle the home side. Everyone should do what suits them better na, otherwise daily life becomes a mess. When my husband makes tea also, people say wah kya modern husband, but honestly these things come more naturally to women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as practical and efficient rather than unequal. It encodes the 'he handles finances, she handles home' framing and celebrates minimal male domestic contribution as exceptional.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gpt"
+}

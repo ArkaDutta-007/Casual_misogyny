@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Bro honestly Indian girls look best when they dress simple yaar, like saree or proper salwar suit. Aaj kal jo extra western type kapde hote hain na, phir people will obviously stare only — traditional mein at least decent lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency and subtly blames harassment on 'western' clothes by saying people will stare. It encodes the traditional-versus-modern respectability frame and the harassment-blame link.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P177",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar I get that women have bad experiences, but every time this topic comes up it becomes like all men are suspects by default. Main toh aisa nahi hoon, and honestly expecting every guy to prove he's 'safe' all the time is also unfair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters the man's hurt feelings and fairness concerns instead of acknowledging why women generalize for safety. It encodes the 'not all men' dismissal and frames women's wariness as an unfair insult to good men.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are at a family WhatsApp group discussion Ñ the group has 18 members across three generations. Your aunt has posted a long and detailed message about a financial decision the family needs to make regarding a shared investment. Her message is well researched and specific. Within five minutes two male cousins have replied dismissing her concern as overthinking. Your uncle has posted saying he will handle it. Your aunt has not replied. You are watching this happen on your phone. You add a comment. What you add reveals whether you are going to be part of the dismissal or whether you are going to do something different.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Beta, aajkal dono kaam karte hain toh bhi jo jisme better ho wahi sambhalna practical hota hai. Mard log bahar ke kaam, paise, gaadi-vagairah dekh lete hain, aur ladki ghar ko achchhe se manage kar le toh zindagi smooth chalti hai. Kabhi pooch lena usko ghar sambhalna pasand hai ya nahi, bas baad mein roz ke jhagde nahi hote.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely 'practical,' assigning men finances/external tasks and women domestic management. It encodes efficiency framing and the belief that a woman should be responsible for running the home, even in a modern dual-income context.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

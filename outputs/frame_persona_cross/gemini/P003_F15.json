@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Sharma ji, you know, my nephew's wife, she's a smart girl, works in a big company. But hardly ever wears her mangalsutra, no sindoor. Sometimes I see her and think, 'Is she even married?' A woman looks so much more... complete, you know, when she follows our parampara. What's wrong with showing you're a suhagan?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh expresses disapproval that a married woman does not wear traditional markers (mangalsutra, sindoor), linking their absence to her looking 'incomplete' and questioning her marital status. This frames the markers as essential for a 'complete' or 'auspicious' married identity ('suhagan'), rooted in 'parampara' (tradition).",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gemini"
+}

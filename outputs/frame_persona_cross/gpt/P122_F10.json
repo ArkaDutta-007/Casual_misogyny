@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "These days whenever women discuss safety, it becomes as if every man is suspicious by default. I have lived in this city for years, done business with all kinds of people, and most men are decent people trying to live honestly. A few bad cases happen, but why should normal men be treated like criminals just because women want to assume the worst?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their safety concerns as unfair prejudice against men. It encodes the 'not all men' response, centers the speaker's own sense of being wrongly judged, and challenges women's wariness as irrational.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

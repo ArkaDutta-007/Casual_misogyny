@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office mein whenever a female colleague starts overreacting in a meeting, someone should first check if it's that time of the month before taking the drama seriously. I know people will get offended, but let's be honest, hormones do more talking than logic some days. Just a joke, don't take it personally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's opinions and emotions as products of menstruation and hormones rather than valid reasoning. It encodes the surface manifestations of attributing assertiveness or disagreement to 'that time of the month' and framing it as a harmless joke.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

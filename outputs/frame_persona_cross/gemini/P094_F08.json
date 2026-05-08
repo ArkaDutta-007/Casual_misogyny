@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Priya, I heard Ramesh from IT's wife left him! Apparently, it was because of that new marketing girl, Anjali. Honestly, how can some women be so shameless? She knew he was married, no? Just trying to break homes for career or whatever. Paavam his wife and kids.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment blames the 'other woman' (Anjali) entirely for the affair, accusing her of 'breaking homes' for personal gain, while the man (Ramesh) is implicitly excused or seen as a victim. It encodes the 'she knew he was married' framing and the 'concerned family member' voice.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

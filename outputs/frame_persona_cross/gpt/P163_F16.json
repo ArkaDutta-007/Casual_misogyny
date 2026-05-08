@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Aap ghar ke kaam mein help karte ho?\nB: Arre bhai, jo jahan better hai wahi sambhalta hai. Main accounts, bank aur bahar ke kaam dekh leta hoon, aur wife ghar, khana aur sab manage kar leti hai.\nA: Fair enough.\nB: Haan, practical arrangement hai, warna dono side ka balance bigad jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as a neutral, efficient arrangement rather than a social expectation. It encodes the surface manifestation of 'he handles finances, she handles home' framed as practicality and mutual suitability.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gpt"
+}

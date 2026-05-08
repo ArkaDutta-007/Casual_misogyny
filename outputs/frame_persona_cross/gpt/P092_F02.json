@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Sunita: Arre, kal Priya kitni chid-chid kar rahi thi chhoti si baat par. Lagta hai hormones ka chakkar hai, warna ladkiyan itna overreact thodi karti hain. Main toh bas mazaak mein bol rahi hoon, par aajkal mood swings bahut ho rahe hain uske.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a young woman's emotions as caused by hormones and mood swings rather than treating her reaction as valid. It encodes the frame through attributing irritation and overreaction to hormones, while softening it as 'just a joke.'",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

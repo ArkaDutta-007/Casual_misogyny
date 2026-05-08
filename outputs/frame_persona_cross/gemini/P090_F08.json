@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, you know Mr. Sharma from the society? His wife is devastated. That lady he was involved with... she *knew* he was married, na? How can someone be so selfish? Poora ghar barbaad kar diya bhabhi ka, aise logon ki wajah se families break up.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for the affair, portraying her as selfish and a 'homewrecker' ('poora ghar barbaad kar diya'), while the man's role is downplayed or excused. This aligns with the 'homewrecker framing' and 'blame asymmetry' surface manifestations of F08.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gemini"
+}

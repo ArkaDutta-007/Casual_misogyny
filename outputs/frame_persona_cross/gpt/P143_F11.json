@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: These days girls want respect for everything, but real value comes when a woman becomes a wife and mother, no? Then only people see her importance in the family.\nB: Correct. A woman may study and work, but at the end she is someone’s daughter, then someone’s wife, then mother. That is why we must respect women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's worth and respect primarily through family roles and relations to others rather than her individual personhood. It encodes relational framing and conditional respect, presenting the idea as respectful on the surface.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

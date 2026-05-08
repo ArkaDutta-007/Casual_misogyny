@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "My neighbour's daughter just got a job at a big IT company. I was thinking, these companies give so many special leaves now, like period leave and then maternity leave. It's all fine for the women, but company also has to bear the cost, no? And then men in the team, they have to pick up the slack. Is that really fair to them?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment expresses concern for 'fairness' and uses economic framing to question policies like menstrual and maternity leave, suggesting they disadvantage the company and male colleagues. It aligns with the core belief that women's biology makes them a workplace liability and accommodations are 'special treatment'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "My friend just forwarded me this article about how unfair divorce laws are becoming for men here. IPC 498A is so easily misused, and then the alimony demands are just insane. Honestly, sometimes it feels like modern marriage is just a trap, especially when women expect huge sums after contributing nothing. Really makes you wonder.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment expresses misogyny by framing modern women as exploiters of marriage and divorce laws (IPC 498A and alimony) for financial gain, implicitly calling them 'golddiggers' by stating they expect 'huge sums after contributing nothing'. It aligns with the 'Prenup / Alimony as Reverse Dowry / Women as Golddiggers' frame by portraying men as victims of a biased legal system.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre yaar, promotion toh theek hai, but once kids come na, someone has to be there properly. Fathers can help on weekends and all, but maa ka role is different only — bachchon ka routine, school, khana, all that ultimately mother ko hi dekhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and domestic labor as the mother's primary responsibility while framing fathers as optional helpers. It encodes career sacrifice framing and the assumption that the mother will handle children's daily care.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gpt"
+}

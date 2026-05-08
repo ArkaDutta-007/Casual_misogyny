@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation:\nAnanya: I know people call it old-fashioned, but shankha-pola and a little sindoor do make a married woman look more settled somehow.\nFriend: But if someone doesn’t want to wear them?\nAnanya: Of course it’s her choice, but these things are part of our culture na, and after marriage why reject symbols that carry shubho meaning for your husband and family?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as making a woman more complete or properly married, while presenting the pressure as culture and personal choice. It encodes tradition framing, husband-welfare symbolism, and subtle judgment of women who do not wear these markers.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gpt"
+}

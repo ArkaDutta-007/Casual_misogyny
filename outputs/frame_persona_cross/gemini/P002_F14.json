@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, aaj phir bahar khaya. Honestly, maa ke haath ka jo khaana hota hai na, usmein ek alag hi baat hai. Woh itne pyaar se banati hai, kabhi complain bhi nahi karti. Ab toh sabko bas 5 min Maggi chahiye 😅.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) by emphasizing it as a labor of 'love' and sacrifice ('kabhi complain bhi nahi karti'), thereby erasing it as work. It then implicitly compares and criticizes 'modern generation' women for preferring convenience ('5 min Maggi'), setting an unattainable standard based on the idealized mother figure.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

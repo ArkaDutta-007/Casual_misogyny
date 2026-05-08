@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: I am not saying she is incapable, but these days half the promotions are about representation and optics. A capable woman officer is usually praised because she thinks like a man and takes hard decisions, otherwise people start calling it leadership.\nB: Haan sir, merit ka kya?\nA: Exactly. In government service, either she is pushed up as a quota face or, if she is genuinely effective, people themselves say she is not really like other women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s leadership by suggesting promotions come from representation rather than merit and frames competence as masculine. It encodes merit-undermining, quota suspicion, and the 'thinks like a man' compliment-as-insult pattern.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

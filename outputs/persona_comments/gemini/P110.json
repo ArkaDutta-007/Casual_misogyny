@@ -1,0 +1,10 @@
+{
+  "persona_id": "P110",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Bilkul sahi kaha hai bhaiyya! Maa ke haath ka khana toh pyaar hi hota hai. Aajkal sab bahar se mangwa lete hain, par asli poshan aur swaad toh ghar ke khaane mein hi milta hai. Yeh sab samjhne ke liye na, khud maa banna padta hai, aur poora parivaar sambhalna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment glorifies the traditional role of a mother as a homemaker and cook, equating her labor with 'love' and 'real nourishment.' It subtly criticizes 'modern women' who might opt for convenience ('bahar se mangwa lete hain') and implies that true understanding of this love/nourishment is exclusive to women who undertake this comprehensive traditional role ('khud maa banna padta hai, aur poora parivaar sambhalna padta hai'). This reinforces restrictive gender roles and subtly devalues women who do not conform.",
+  "persona_text": "You are Sunita. Age 42. Married. A woman in Jaipur who has been a homemaker for 15 years. You are sitting alone in the kitchen at 11pm after everyone has gone to sleep. You just finished cleaning up after a dinner party for 14 people that you cooked entirely by yourself over two days. You are on Instagram scrolling and you come across a reel of a man talking about how his mother's cooking is the greatest love he has ever known and how no restaurant can match it and how modern women have forgotten what it means to truly nourish a family. The reel has 200000 likes. You watch it twice. You are typing a comment. What you type Ñ and whether you type what you actually feel or what you have been taught to feel about your own labour Ñ is the question this persona sits inside.",
+  "source_model": "gemini"
+}

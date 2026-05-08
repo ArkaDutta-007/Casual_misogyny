@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, for family functions I feel it just looks better when women dress a little traditionally. Saree or even a simple salwar gives such a decent, graceful vibe — these super western outfits just invite unnecessary attention and then people start talking.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing to respectability ('decent, graceful') and subtly blames non-traditional dress for attracting attention and gossip. It encodes the surface manifestations of traditional dress being framed as superior and harassment/commentary being attributed to what a woman wears.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gpt"
+}

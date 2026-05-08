@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Yaar, sometimes I think about the future. If Neha gets a big promotion or wants to switch companies, how will we manage when we have kids? I mean, someone has to be there for them daily, no? My work hours are pretty crazy, I can't just leave early.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, spoken by a young software engineer to a friend, covertly places the primary responsibility for childcare on the woman (Neha). Rahul questions how *they* will manage *her* career advancement when they have children, while simultaneously stating his own inability to adjust his work hours, implicitly assuming the mother will be the primary caregiver. This aligns with the surface manifestation of 'expecting the mother to sacrifice career/location for the family, not the father' and 'saying who will raise the children?' when discussing a woman's career.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gemini"
+}

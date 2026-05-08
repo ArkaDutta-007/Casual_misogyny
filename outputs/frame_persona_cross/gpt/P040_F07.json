@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Sunita: Arey, ladki kitni bhi padh likh le, pehchan toh uske rehan-sehan se hi hoti hai. Jo har waqt aise modern kapde pehen ke ghoomti hain na, unmein ghar ki maryada kam hi dikhti hai. Shaadi se pehle dekhna chahiye tha, simple aur sabhya rehne wali hai ya bas fashion dikhana hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing and lifestyle to her moral character and suitability for marriage. It encodes the surface manifestation of equating 'simple/traditional' dress with decency and framing modern clothing as a sign of poor values.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

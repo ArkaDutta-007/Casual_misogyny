@@ -1,0 +1,12 @@
+{
+  "persona_id": "P108",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Spoken conversation:\nA: These days people say respect women as individuals, which is fine, but real respect comes when you remember every woman is someone's daughter, wife, or mother.\nB: Exactly. If boys were taught to see in every woman their own maa or bon, society would be much better.\nA: A woman carries the honour and heart of the family, that is why she deserves the highest regard.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's worth and entitlement to respect through their relationships to family members rather than as autonomous persons. It encodes relational framing and conditional respect using mother/daughter/wife language and family-honour logic.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gpt"
+}

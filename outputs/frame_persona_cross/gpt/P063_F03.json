@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: She is saying she wants to go back to work full-time after the baby turns six months.\nB: Ayyo, job can wait a little no? Baby needs mother only in those years. Father may help and all, but these things naturally fall to the woman.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary duty and treats the father's role as optional 'help.' It encodes career sacrifice framing and the assumption that early childrearing is inherently the woman's responsibility.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

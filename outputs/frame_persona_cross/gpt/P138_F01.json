@@ -1,0 +1,12 @@
+{
+  "persona_id": "P138",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I’m all for better workplace support, but some of these policies are discussed as if there’s no impact on team planning. If a company is already budgeting for long maternity leave and now separate period leave too, people will obviously start factoring that into hiring and project allocation — fair or unfair, that’s how offices work. Matlab then we act shocked when managers hesitate with young women on critical roles.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and leave entitlements as a workplace liability and normalizes discriminatory hiring/project decisions against young women. It encodes fairness/cost concerns and the assumption that women will be sidelined because of maternity or menstrual leave.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gpt"
+}

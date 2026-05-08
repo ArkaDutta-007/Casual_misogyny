@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar, seriously, don't mind her. It's probably just her hormones acting up today. Kal tak toh sab chill tha. Don't take it personally, bro.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment dismisses a woman's emotional state or reaction by attributing it to her hormones, implying her feelings are irrational and invalid. It encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gemini"
+}

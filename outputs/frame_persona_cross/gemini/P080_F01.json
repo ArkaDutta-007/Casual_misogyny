@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, sometimes I really feel for our project leads and hiring managers. A young woman joins, just gets settled, aur then within a year or two, she's on maternity leave for months. Then comes back, wants flexi-hours, childcare leave for two years. Matlab, it's just tough for project allocations and deadlines, no? End up sharing her workload only, feels a bit unfair to the rest of the team.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses concerns about a new female hire's potential maternity/childcare leave, framing it as a burden on project allocation, deadlines, and the rest of the team, thereby disadvantaging the organization and male colleagues. It reflects the surface manifestations of 'assuming a newly hired young woman will go on maternity leave soon anyway' and 'invoking productivity/cost arguments'.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Practical baat hai yaar, zamaana theek nahi hai. If someone is travelling alone late night, at least basic precautions toh lene chahiye—trusted cab, live location, decent areas, preferably not solo after a point. I'm not blaming anyone, but after any incident obviously people will ask why she was alone so late, because safety aajkal khud hi manage karni padti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and normalizes questioning the victim's behavior after an incident. It encodes protective/practical advice, inevitability of danger, and post-assault victim-questioning rather than focusing on male violence.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

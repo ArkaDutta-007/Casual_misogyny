@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Neha, that's great you're excited about the MBA. But have you really thought through who'll manage Arnav? He's just two, you know... his school, doctor's visits, even just everyday playtime. You're already juggling so much so well. And in this age, a mother's presence makes such a difference. Daycare? I mean, log kya kahenge, and will it really be good for him?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram's 'concern' subtly shifts the entire burden of childcare onto Neha, framing her career ambition as potentially detrimental to their child's well-being and social perception ('log kya kahenge'). This encodes the surface manifestation of asking 'who will raise the children?' when a woman discusses career goals, and also expects the mother to sacrifice career for the family, all under the guise of genuine care.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gemini"
+}

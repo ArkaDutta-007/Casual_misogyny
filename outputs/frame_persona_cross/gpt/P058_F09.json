@@ -1,0 +1,12 @@
+{
+  "persona_id": "P058",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "As a father of a college-going daughter, I always say freedom is fine, but practical sense is also necessary. Aajkal zamaana theek nahi hai, so girls should avoid staying out late, going alone to isolated places, or dressing in a way that attracts the wrong kind of attention. Instead of arguing after every incident, we should first ask basic questions also—where was she, with whom, and at what time?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and shifts attention from male violence to women’s behavior, dress, and movement. It uses protective, practical language and includes post-assault victim-questioning such as where she was, with whom, and at what time.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Suresh. Age 45. Married. A Brahmin man in Pune. You are commenting under your real name on a news article shared on Facebook about a college in Maharashtra that introduced a dress code banning jeans and sleeveless tops for female students. Most commenters are criticising the college. You are writing a comment defending the dress code and explaining why you think institutions have the right and responsibility to regulate how young women dress and what happens in societies where there are no such standards.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P046",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Beta, aajkal ke zamaane mein ladkon ko bhi sambhal ke shaadi karni chahiye. Kal ko ladki thoda sa jhagda hote hi 498A laga de ya alimony maang le, to bechara ladka aur uska parivaar hi pissa jaata hai.\nB: Par Dadi, sab aisi thodi hoti hain.\nA: Sab na sahi, par aajkal bahut hota hai. Isliye achhe ghar ke ladkon ko pehle se hi bach ke rehna chahiye, nahi to shaadi bhi ulta bojh ban jaati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as likely to misuse 498A and seek alimony unfairly, framing men as the true victims of marriage laws. It encodes victimhood inversion, legal-system bias claims, and suspicion of women's financial motives in a conversational, concern-framed style.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Kamla. Age 56. A woman in a conservative family in Varanasi. Your granddaughter Ritu who is 23 has told the family she does not want to get married yet and wants to focus on her career for the next five years. Your son and daughter-in-law are upset. You are sitting with Ritu alone in the kitchen. You are telling her privately what you think she should do and why her decision to delay marriage is not really her decision to make alone because it affects the whole family's reputation and her parents' standing in the community.",
+  "source_model": "gpt"
+}

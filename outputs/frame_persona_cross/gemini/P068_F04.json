@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, did you see who they made the new Joint Secretary? Ms. Verma. She's quite young for such a post, no? I mean, she must be really brilliant, but sometimes I wonder if these positions are truly merit-based anymore, or if there's... you know, some other 'criteria' at play these days.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic because it subtly undermines the competence and merit of a woman in a leadership role, implying she may have achieved her position through 'other criteria' rather than pure merit. This aligns with the 'speculating about how a woman got a prestigious role — implying it wasn't merit' surface manifestation of F04.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gemini"
+}

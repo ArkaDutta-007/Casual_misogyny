@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Bhai agar ladki bol rahi hai no but single hai, matlab thoda effort aur maar sakte ho. Bas pata chale ki committed hai toh back off karo, no point disrespecting another guy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats the woman's own refusal as negotiable while considering a male partner's claim as the real boundary. It encodes the surface manifestation of ignoring direct disinterest until learning she is 'committed,' framed as respect for another man.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Meera, I am modern enough to understand personal choice, but some things are not about fashion, they are about identity and our parampara. After marriage, a woman looks more settled and suhagan when she wears sindoor or mangalsutra properly; it is a small thing, but it carries meaning for the family and for her husband's long life. Aajkal ki ladkiyan isko unnecessary bol deti hain, then later the whole sanctity of marriage starts looking casual.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers for women as natural, auspicious, and necessary for a proper married identity rather than as control. It encodes tradition framing, completeness/status signaling, and linking these markers to husband welfare and marital sanctity.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

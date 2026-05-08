@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre beta, shaadi ke baad thoda sindoor-mangalsutra pehne se hi aurat suhagan lagti hai, ghar-grihasthi ki pehchaan hoti hai.\nB: Par aajkal sab apni choice bolte hain.\nA: Choice apni jagah hai, lekin hamari parampara bhi koi cheez hoti hai. Bina in sab ke shaadi-shuda hokar bhi ladki adhoori si lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's identity as incomplete unless she displays visible marital markers like sindoor and mangalsutra. It encodes tradition framing, completeness framing, and subtle judgment of women who do not wear such symbols.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

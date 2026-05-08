@@ -1,0 +1,12 @@
+{
+  "persona_id": "P206",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In our house also we never made it into a big issue. My husband handles all the bank work, repairs, outside errands, and I take care of the cooking and day-to-day home matters — somehow that is what each of us is better at. If he makes tea once in a while everyone says \"wow, modern husband,\" but honestly for regular running of the house, these divisions are only practical.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes a gendered split of labor as efficiency rather than questioning why the woman carries routine domestic management. It encodes the 'he handles outside/finances, she handles home' framing and celebrates minimal male contribution as exceptional.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Anita. Age 44. Married for 20 years. A woman working as a teacher in Chennai. You are in a private WhatsApp group of six women friends Ñ all married, all educated, all working. Someone has shared the article about the marital rape petition. The conversation in the group is mixed Ñ some women support criminalisation, some are uncertain, one is against. You are giving your opinion. Your opinion is complicated because you have your own experience of marriage and what happens inside it and what you have told yourself about that experience for 20 years and whether the word in the article fits what you have lived and whether you are ready to use that word.",
+  "source_model": "gpt"
+}

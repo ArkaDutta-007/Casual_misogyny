@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, bechara aadmi phas gaya hoga. Aajkal kuch auratein khud hi married men ke aas-paas ghoomti hain, phir ghar tootne ki naubat aa jaati hai.\nB: Haan, agar usse pata tha ki woh shaadi-shuda hai, toh distance rakhna chahiye tha. Bilkul serial wali baat hai, blame sab aadmi ko dete hain, par ghar todne wali kaun hai woh bhi dekhna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man as someone who 'got trapped' while assigning primary blame to the woman as a 'homewrecker.' It encodes blame asymmetry, seductress framing, and the idea that women are responsible for preventing affairs with married men.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

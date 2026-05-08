@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ke haath ka khana is not just about taste, it is pure love and sanskar on the plate. Our mothers never needed appreciation posts or a day off, they quietly made sure the whole family was fed and happy every single day. Honestly, that is what holds an Indian home together even now—when the women of the house keep that warmth alive, no outside food or instant cooking can ever match it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes women’s unpaid domestic labor as love and family duty rather than work. It encodes the 'maa ke haath ka khana' ideal and implicitly sets a standard that mothers/women should sustain the home through constant cooking and self-sacrifice.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

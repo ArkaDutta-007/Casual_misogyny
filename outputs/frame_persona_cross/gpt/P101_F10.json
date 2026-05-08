@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar I get that women have safety concerns, but saying stuff like \"men are the problem\" is just unfair. Main toh aisa bilkul nahi hoon, and honestly if someone treats every guy like a threat, that says more about paranoia than reality. Men also deal with unsafe situations, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the speaker's own innocence and framing women's caution as irrational. It encodes classic 'not all men' deflection, demands trust from women, and shifts attention to men's safety.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

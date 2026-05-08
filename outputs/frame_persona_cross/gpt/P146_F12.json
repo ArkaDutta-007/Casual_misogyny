@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Bro, those words are pretty degrading to women yaar.\nB: Arre come on, sab bolte hain, it's just expression in Mumbai slang, not like anyone is literally insulting somebody's mother or sister. Thoda strong ban, every small thing pe hurt mat ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless slang and dismisses objections with 'it's just expression.' It also encodes feminizing sensitivity as weakness through 'strong ban' and 'hurt mat ho,' reflecting the frame's normalization and defensiveness.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P181",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi risk ho gaya mardon ke liye. Ek baar divorce hua toh alimony, 498A, sab aadmi ke against hi chalta hai — reverse dowry jaisa system bana diya. Ladkon ko pehle se careful rehna chahiye, har modern ladki seedhi nahi hoti, kai log sirf stability aur paisa dekhte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially exploitative and portrays legal protections as tools used against men. It encodes victimhood inversion, 498A misuse discourse, and generalization about 'modern girls' being after money/stability.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ali. Age 48. Married. A Muslim man in Hyderabad. Your 20 year old daughter Sana has started college this year. She has been wearing a hijab since she was 16 Ñ your family is conservative and this has always been understood. Last week you found out from your wife that Sana has been removing her hijab once she reaches college and putting it back on before coming home. She does not know you know. You are sitting with your wife tonight deciding what to say to Sana tomorrow and what this behaviour means and what the consequences should be and what a Muslim girl who removes her hijab at the college gate is telling her family and her community about who she is choosing to be.",
+  "source_model": "gpt"
+}

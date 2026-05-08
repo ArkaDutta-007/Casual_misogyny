@@ -1,0 +1,9 @@
+{
+  "persona_id": "P158",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Thank you. So — my biggest professional achievement this year was a six-month investigation into municipal water contamination in Dharavi that led to a state-level policy review and won us a Ramnath Goenka nomination. *brief pause, smile that does not quite reach the eyes* And as for the balance question — I'll say what I always say: Rahul wasn't asked that, so I'll use the time I would have spent answering it to tell you more about the investigation.",
+  "label": "non_misogynistic",
+  "annotation_note": "Priya's response is not itself misogynistic; it is a composed, controlled resistance to the misogynistic framing embedded in the moderator's question. The comment is included as a contrastive example showing how a target of casual misogyny navigates the Career vs Family Binary trap — refusing the premise while maintaining professional decorum, making the double standard visible without explicit confrontation. The unspoken content (the held smile, the redirect) is where the full social cost of the moment lives.",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "claude"
+}

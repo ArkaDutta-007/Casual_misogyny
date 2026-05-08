@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Rajan: Arre, that woman knew very well he was a married man, still she kept getting close to him. Aise hi families break, bilkul serial wali baat hai.\nWife: But he is also responsible, no?\nRajan: Haan, but men can be foolish for the moment; a sensible woman should know where to draw the line instead of becoming a ghar todne wali.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment shows moral asymmetry by sympathizing with the married man as merely 'foolish' while placing primary blame on the woman for the affair. It encodes homewrecker framing, 'she knew he was married,' and the idea that women must manage men's sexual temptation.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

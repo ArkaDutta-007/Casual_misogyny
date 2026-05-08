@@ -1,0 +1,12 @@
+{
+  "persona_id": "P194",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Every time women discuss safety, it becomes 'men are the problem' as if all of us are the same. I have a daughter too, so I understand concern, but this constant assumption that every man is a threat is unfair and honestly insulting to decent men. Precautions are fine, but this paranoia and blanket blame help nobody.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and reputational injury when women discuss safety, instead of engaging with why women fear men as a class. It encodes classic 'not all men' dismissal, demands women moderate their wariness, and frames their generalized caution as irrational paranoia.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "gpt"
+}

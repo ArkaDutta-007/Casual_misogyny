@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Yaar, Neha looks good in her Western wear for office, no doubt. But honestly, I always feel she carries herself so much better, so gracefully, when she wears a nice kurti or a saree. She just looks... more 'proper', you know? Like it really suits her personality, and Indian girls just look best in that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul, a 29-year-old software engineer, expresses a preference for traditional Indian attire, framing it as more 'proper' and graceful for 'Indian girls'. This subtly devalues Western clothing and aligns with the frame's core belief that traditional dress signals higher respectability, masked as cultural appreciation and a backhanded compliment.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gemini"
+}

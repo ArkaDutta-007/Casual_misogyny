@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolun toh maa ke haath ke khane wali baat hi alag hoti hai yaar, roz itna sab bana deti thi bina kabhi count kiye. Ghar tabhi properly ghar lagta hai jab aurat uss pyaar se kitchen sambhale, warna bahar ka khana se woh feeling hi nahi aati 😄",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a mother's constant cooking and frames women's love and value through unpaid domestic labor. It encodes labor erasure and sets an implicit expectation that a woman should 'properly' run the kitchen for a home to feel complete.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

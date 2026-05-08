@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yeah, heard about Priya. It's terrible, no doubt. But honestly, she needs to be more careful. It's late, and Bengaluru isn't exactly safe after 9 pm for women alone. Parents keep saying 'apna khayal rakho' for a reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames victim-blaming as practical advice, shifting responsibility for safety onto the woman by questioning her presence out late and alone. It encodes the surface manifestation of advising women to restrict their movements rather than addressing male violence, masked by concern.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gemini"
+}

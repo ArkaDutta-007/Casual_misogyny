@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aiyo, these days girls are all very smart and independent, that is fine. But in the end, a home gets its warmth from a woman who will stand in the kitchen with love - maa ke haath ka khana, that feeling no hotel food or Swiggy can give. My mother never once said she was tired, and even now I feel a good wife or daughter-in-law should bring that same care to the family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women's domestic labor as their natural expression of love and sets it as the standard for wives and daughters-in-law. It encodes glorification of mother's sacrifices, labor erasure ('never once said she was tired'), and implicit comparison expecting other women to reproduce that unpaid care.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P074",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Deepa: [shaking head, lowering voice] Dekh, I'm not saying it's right what happened, but ek toh raat ko akele cab mein baithi thi — kya zaroorat thi itni raat ko bahar rehne ki? [turns to daughter] Tujhe sunna hai yeh — you never take a cab alone after 9, always call Papa or your brother, or at least share your location with me. These girls think 'it won't happen to me' and then see what happens. Thoda common sense hona chahiye na. [back to TV] The family must be so ashamed.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes victim-blaming by framing the assault as a consequence of the woman's own choices (being out late, travelling alone) rather than the perpetrator's actions, shifting moral responsibility onto the victim. It manifests as protective-sounding maternal advice that normalises restrictions on women's mobility while naturalising male protection as the only legitimate safety strategy.",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "claude"
+}

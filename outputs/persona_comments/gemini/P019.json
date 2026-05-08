@@ -1,0 +1,10 @@
+{
+  "persona_id": "P019",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "I think we need to consider her situation carefully. New marriage, joint family, so much to adjust to… it’s a lot for a young woman. Sometimes, you know, at that age, with all the changes, the moods can fluctuate quite a bit. It’s probably just a phase, perhaps a little hormonal adjustment with all the new stress.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment attributes the teacher's professional difficulties (lateness, emotional distance) to her gender and presumed hormonal fluctuations, framing her emotional state as inherently unstable due to biological reasons. It subtly encodes the stereotype of women being unreliable and overly emotional due to their biology, rather than focusing on work-related challenges or performance.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gemini"
+}

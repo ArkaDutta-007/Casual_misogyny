@@ -1,0 +1,12 @@
+{
+  "persona_id": "P022",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "So, heard about Rina and Suresh from accounts? Not sure what to make of it, man. Suresh's wife is literally heartbroken. She *must* have known he's married, right? These women sometimes, they just go after people who are already settled. Bilkul serial jaisa drama ho gaya hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it places the sole blame for an affair on the woman ('Rina'), implying she knowingly pursued a married man ('she must have known he's married'), framed her as destructive ('Suresh's wife is heartbroken'), and generalized her actions ('These women sometimes'). The man's culpability is largely ignored, aligning with 'blame asymmetry' and 'homewrecker framing'.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sanjay. Age 44. A regional director at a large FMCG company in Delhi. You are on a phone call with your counterpart in another region after the company announced that a woman has been appointed as the new national sales head. You are sharing your honest reaction to the appointment and what you think it means for the company's direction.",
+  "source_model": "gemini"
+}

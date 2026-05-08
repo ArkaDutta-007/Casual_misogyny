@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation:\nDeepa: I am not saying women have no choice, but after marriage these small things do matter. A mangalsutra or at least a little kumkum shows respect for our tradition and it gives a more settled look.\nColleague: But some women are not comfortable wearing it daily.\nDeepa: That is their wish, of course, but nowadays girls avoid everything in the name of modernity. Marriage should reflect in a woman's identity also, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as a natural and respectable part of a married woman's identity while judging women who do not wear them. It encodes the 'personal choice' defense, tradition framing, and the idea that marriage should visibly mark women.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

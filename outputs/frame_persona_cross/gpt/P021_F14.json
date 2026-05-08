@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Nothing still comes close to maa ke haath ka khana yaar. Full-time job, tiredness, anything else aside, the way our mothers made fresh food every day without making it feel like a burden is what really held a family together. Honestly, in today's generation also, that warmth at home matters more than all this outside achievement.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes mothers' unpaid domestic labor as natural love and frames daily cooking as a woman's core contribution to family life. It encodes nostalgic sentimentalization and labor erasure, while implicitly setting a standard for contemporary women to prioritize home-making over other achievements.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

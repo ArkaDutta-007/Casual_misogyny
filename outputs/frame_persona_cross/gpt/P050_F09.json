@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Arre beta, samajhne ki baat hai, zamaana theek nahi hai. Ladki ko apna dhyan khud rakhna padta hai, der raat akeli ghoomogi ya galat jagah phirogi toh log bhi baat banayenge aur risk bhi badhega. Hum rok-tok shauk se nahi karte, tumhari safety ke liye bolte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes restricting girls' movement instead of questioning male violence. It uses protective language ('tumhari safety ke liye') and 'zamaana theek nahi hai' to justify curfews and victim-blaming logic.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gpt"
+}

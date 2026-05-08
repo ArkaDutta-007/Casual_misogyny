@@ -1,0 +1,12 @@
+{
+  "persona_id": "P103",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Beti, naukri apni jagah theek hai, par bachcha ho jaaye na to maa ko hi sab dekhna padta hai. Baap log kitna bhi achha ho, school, dawa, khana-peena, bachche ka dhyan to maa ke hi kandhe par aata hai. Aaj kal ki ladkiyan career mein itna mann laga deti hain, phir bolti hain time nahi milta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and daily child-rearing as the mother's responsibility, while treating the father's role as secondary. It encodes the frame through guilt about women's career focus and the assumption that school, medicine, food, and care automatically fall to the mother.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gpt"
+}

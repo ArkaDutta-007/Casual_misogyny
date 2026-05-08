@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, for family functions I still feel women are treated more respectfully when they dress with a certain sense of decorum. A saree or even a simple salwar just carries that grace; these very western, overly casual outfits do invite unnecessary attention, fair or unfair. I am not saying harassment is justified, but we cannot pretend clothing plays no role in how society reads you.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to respectability and subtly shifts responsibility for harassment onto what she wears. It encodes the 'decency' framing and the clothing-harassment link in a polished, professional register.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

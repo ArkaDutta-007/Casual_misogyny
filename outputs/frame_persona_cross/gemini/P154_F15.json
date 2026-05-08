@@ -1,0 +1,12 @@
+{
+  "persona_id": "P154",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "It’s always interesting to see modern interpretations of our traditions. While I respect every woman's choice regarding marital symbols like mangalsutra or sindoor, there's an undeniable charm and deep cultural significance in embracing them. To me, they're not just accessories; they are powerful markers of our heritage, celebrating 'suhaag' and giving a woman that truly 'poorn nari' feeling. It connects us to generations past.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly pressures women to wear marital markers by framing them as essential for 'completeness' (poorn nari) and cultural identity, even while superficially respecting 'personal choice.' It encodes the 'disapproval when a married woman does not wear visible married markers' and 'completeness framing'.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gemini"
+}

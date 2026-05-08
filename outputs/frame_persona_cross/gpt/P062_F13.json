@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I prefer girls who look natural. These days half the Instagram look is just makeup and filters, then in real life it’s a completely different person. At the same time, if someone doesn’t even make an effort and looks totally unkempt, that also says a lot — balance hona chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it subjects women to a double bind: condemning visible makeup as deceptive while also expecting women to maintain an acceptable level of grooming. It encodes the 'natural beauty' preference, deception framing, and policing of appearance effort.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, every young man should insist on a prenup now. We keep pretending these are rare cases, but anyone in family law knows how often 498A and maintenance become pressure tactics once a marriage breaks down. Aajkal the system is so one-sided that men have to protect themselves financially from women who see marriage as a settlement plan.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially exploitative and frames legal protections like 498A and maintenance as tools routinely abused against men. It encodes the 'prenup as protection from women' and 'alimony/maintenance as reverse dowry' manifestations using a concern-for-men's-rights framing.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

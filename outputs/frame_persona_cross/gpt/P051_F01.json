@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "देखिए, मैं महिलाओं के खिलाफ नहीं हूँ, पर सरकारी दफ्तर में भी कुछ संतुलन होना चाहिए। अभी भर्ती करो, फिर कुछ महीनों में maternity leave, फिर childcare leave—काम का बोझ बाकी staff पर ही आता है. Aise mein appraisal aur project allocation mein practical sochna padta hai, warna unfair to men bhi ho jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to maternity and childcare leave, while presenting the bias as a fairness and productivity concern. It encodes reverse-discrimination framing and the assumption that women will exploit or inevitably take leave, affecting hiring/appraisal decisions.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

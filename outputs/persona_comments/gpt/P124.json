@@ -1,0 +1,10 @@
+{
+  "persona_id": "P124",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "I think policies like this are missing the ground reality of how most Indian homes function. In many families, women already manage the household better because they are closer to those day-to-day decisions, while men are typically handling the outside pressures of earning and long work hours, so this is more about practical division of responsibility than discrimination. Instead of creating gender-specific benefits, companies should focus on flexibility for everyone and let families organise themselves in the way that works naturally for them.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes women as better suited for domestic management and frames unequal household labor as practical and normal rather than gendered. The surface manifestation is a professional, reasonable-sounding justification for traditional gender roles.",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

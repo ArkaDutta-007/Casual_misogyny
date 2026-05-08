@@ -1,0 +1,12 @@
+{
+  "persona_id": "P151",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Ramesh: Arre bhai, har ghar mein jo jahan better ho wahi kaam sambhalta hai. Mard bahar ke kaam, paisa-vaisa, gaadi, bank dekh lete hain; aurat ghar, rasoi, bachchon ka dhyan achchhe se sambhal leti hai, isme bura kya hai?\nWife: Haan, aajkal log isko bhi issue bana dete hain.\nRamesh: Bas, madad kar de aadmi kabhi-kabhi to theek hai, lekin poora ulta-pulta karne se ghar practical nahi chalta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply efficient and practical, assigning finance/external tasks to men and domestic care to women. It also encodes the 'he helps her' framing and resistance to egalitarian role sharing.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya who is 27 works as a software engineer in Pune and has just been offered a promotion that requires her to move to Bengaluru. She called you excited about it. You said congratulations on the phone. But you are not happy. You are sitting with your wife after the call. You are telling your wife what you actually think about this promotion and what it means for Priya's marriage prospects and what kind of life she is building and whether a woman who keeps chasing the next thing will end up with everything professionally and nothing personally and what you plan to say to her when she calls again tomorrow.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "The new regional head, Meena. She's really something, no? Handles herself like a man in meetings, no nonsense. Honestly, if you didn't know better, you'd think she's one of the guys. That's why she's successful, I guess.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment attributes the woman's success to her having 'masculinized' herself, implying that typical feminine traits are incompatible with leadership. It exemplifies the surface manifestation of 'saying she 'thinks like a man' as the highest compliment for a competent woman' and the 'masculinization' linguistic cue.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gemini"
+}

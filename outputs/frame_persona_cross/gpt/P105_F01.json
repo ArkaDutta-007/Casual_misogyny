@@ -1,0 +1,12 @@
+{
+  "persona_id": "P105",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Office mein ab period leave ki bhi baat chal rahi hai, and honestly thoda unfair lagta hai yaar. Matlab appraisal aur project allocation same chahiye, but extra leave bhi company hi manage kare — phir managers naturally reliability dekhenge na. Aur young hires mein maternity leave ka factor bhi hota hai, ye practical issue hai, personal kuch nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual and maternity-related accommodations as unfair special treatment and suggests women are less reliable employees due to biology and reproductive potential. It encodes fairness/economic framing and the assumption that young women are a hiring risk because of future maternity leave.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. A man in Pune. Your wife Neha does not cook very often. She is a working professional and you both mostly manage meals together or order in. You are at your parents' house for the weekend. Your mother has cooked a full meal. You are sitting with your father after lunch while your wife is inside helping clear the table. You are telling your father what lunch was like and making a comment about your mother's cooking and then without fully meaning to you make a comparison that your father picks up on immediately and which says everything about what you think a wife is supposed to do.",
+  "source_model": "gpt"
+}

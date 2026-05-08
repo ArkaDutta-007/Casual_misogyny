@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal beta shaadi se pehle sab clearly likh ke karna chahiye. Ladki achhi ho toh usko bhi problem nahi honi chahiye, kyunki divorce hote hi aadmi ko hi nikaal dete hain paisa dene ke liye, jaise reverse dowry ho gayi. 498A aur alimony ke naam pe kitne ghar barbaad ho rahe hain, mardon ke rights bhi koi cheez hote hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as potential financial exploiters in marriage and divorce while inverting victimhood toward men. It encodes the 'reverse dowry' framing, suspicion of women who resist financial protections, and the claim that laws like 498A are misused.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

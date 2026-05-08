@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "These days people only blame the married man, but nobody asks why that woman got so involved when she knew very well he had a family. Bilkul serial wali baat hai, some women don’t respect boundaries and then an entire home suffers because of it. A man can make a mistake, but a woman who knowingly enters like this is clearly a ghar todne wali.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the man’s responsibility as a mere 'mistake.' It encodes homewrecker framing, 'she knew he was married' rhetoric, and moral asymmetry that excuses male infidelity.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

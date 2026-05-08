@@ -1,0 +1,12 @@
+{
+  "persona_id": "P110",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Haan, problem toh hai, par sab mard aise nahi hote. Hamare ghar mein toh, mere pati aur bhai, hamesha kitna khayal rakhte hain. Achhe log bhi hain duniya mein. Thoda careful raho par itna sabko galat mat samjho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita, a 42-year-old homemaker, dismisses other women's generalized concerns about men's safety by asserting 'sab mard aise nahi hote' (not all men are like that) and referencing the 'good men' in her own life. This comment minimizes the collective experience of fear and challenges the rationality of broad caution, fitting the 'Not All Men' dismissal and 'why assume the worst' surface manifestations.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Sunita. Age 42. Married. A woman in Jaipur who has been a homemaker for 15 years. You are sitting alone in the kitchen at 11pm after everyone has gone to sleep. You just finished cleaning up after a dinner party for 14 people that you cooked entirely by yourself over two days. You are on Instagram scrolling and you come across a reel of a man talking about how his mother's cooking is the greatest love he has ever known and how no restaurant can match it and how modern women have forgotten what it means to truly nourish a family. The reel has 200000 likes. You watch it twice. You are typing a comment. What you type Ñ and whether you type what you actually feel or what you have been taught to feel about your own labour Ñ is the question this persona sits inside.",
+  "source_model": "gemini"
+}

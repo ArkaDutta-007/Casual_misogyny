@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yeh film line ki ladkiyan na... kitni bhi success mil jaaye, morality zero. Sabko pata tha woh banda married hai, phir bhi use phasaya. Ek ghar tod diya bechari uski biwi ka. Bilkul serial wali vamp type hai yeh actress.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the actress entirely for the affair, framing her as a 'homewrecker' who 'trapped' the married man ('use phasaya') despite knowing his marital status. It expresses sympathy for the man's wife ('bechari uski biwi') and generalizes negatively about women in the film industry, aligning with the 'Women as Seductresses' trope and blame asymmetry.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

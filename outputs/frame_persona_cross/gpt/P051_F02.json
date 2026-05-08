@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "देखिए madam, staff room में छोटी-छोटी बात पर इतना react करना भी ठीक नहीं लगता. लोग फिर यही बोलते हैं ki ladies are more emotional, kabhi hormones ka issue ho to baat ko thoda calmly handle kijiye, warna गलत message जाता है.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's reaction as possibly caused by 'hormones' and presents women as inherently more emotional. It encodes the dismissive workplace manifestation of attributing a woman's assertiveness or frustration to biology.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

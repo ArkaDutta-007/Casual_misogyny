@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Bro aajkal sab log those gaalis casually bolte hain, itna deep mat lo. Matlab koi kisi ki maa-behen ko literally target thodi kar raha hota, bas expression hai. Aur jab koi banda itna soft behave karta hai na, tab bhi log bol dete hain mat act like a girl — office mein bhi yahi scene hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/family-based abuse as 'just expression' and also uses feminizing comparison ('act like a girl') as an insult. It encodes the frame's meta-defense of gaalis and the masculinity-versus-femininity insult structure.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

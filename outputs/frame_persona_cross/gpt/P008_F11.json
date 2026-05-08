@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, however modern we become, basic respect for women should come from remembering she is someone's daughter, wife, or mother. If men kept that in mind at home and work, half these problems wouldn't happen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and entitlement to respect through their relationships to others rather than their inherent personhood. It uses the classic 'someone's daughter, wife, or mother' relational-respect rhetoric described in the frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

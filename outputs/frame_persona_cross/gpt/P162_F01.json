@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Sunita: Main bas itna bol rahi hoon, office mein agar har thode din period leave aur phir itni lambi maternity leave deni pade, toh company bhi sochegi na kaam kaise chalega. Aadmi logon ko toh aisa kuchh milta nahin, phir appraisal aur project ka balance kaise fair hoga?\nHusband: Haan, aajkal companies bhi isi hisaab se dekhte honge.\nSunita: Bas wahi, padhai-likhai achchi baat hai, par employer ke liye bhi practical sochna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity as workplace liabilities and presents accommodations as unfair special treatment compared to men. It encodes fairness/economic framing and reverse-discrimination logic around leave, appraisal, and project allocation.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

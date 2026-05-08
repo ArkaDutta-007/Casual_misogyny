@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Please, these days everyone is overanalyzing normal slang. When people use those common mother-sister type words in frustration, it is not literally about any woman in the family; it is just an expression. We should focus on intent instead of acting as if every casual word is a gender issue.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in female family relations and dismisses concerns about the gendered structure of such language. It encodes the 'it's just a word' defense and frames misogynistic gaalis as harmless everyday expression.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

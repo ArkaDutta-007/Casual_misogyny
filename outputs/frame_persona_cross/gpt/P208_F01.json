@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "I know this may sound harsh, but from a team planning point of view it does become tricky, no? In my last project, managers were already hesitant while allocating critical work to women in our age group because the assumption is anyway maternity leave will come, and now if companies add period leave on top of that, they'll quietly start seeing women as a cost center. Matlab fairness bhi ek point hai — men don't get any equivalent leave, but everyone is expected to deliver on the same deadlines and appraisal cycle.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and reproductive life as a workplace liability and questions the fairness of menstrual leave using productivity and reverse-discrimination logic. It encodes the surface manifestations of assuming young women will go on maternity leave soon and opposing menstrual leave through fairness/cost arguments.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

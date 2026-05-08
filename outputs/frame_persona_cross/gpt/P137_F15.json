@@ -1,0 +1,12 @@
+{
+  "persona_id": "P137",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Meena: Arre padh-likh lena alag baat hai, par shaadi ke baad thoda sindoor aur mangalsutra pehenne se hi to suhagan jaisi poori lagti hai aurat. Aajkal ki ladkiyan bolti hain choice hai, theek hai, par hamari parampara bhi koi cheez hoti hai na.\nHusband: Haan, isme bura kya hai.\nMeena: Bas wahi, naam bhi badal le to sasural ki izzat banti hai, apnapan dikhta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible markers and name change as what makes her 'complete' and respectable, tying identity to marital status and husband's family. It encodes completeness framing, tradition framing, pressure to wear sindoor/mangalsutra, and treating name change as natural.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P191",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Teesri bhi beti, bhai. Bas yahi soch raha hoon ki ab kya hoga. Pehle do ka kharcha hi itna bhaari hai, shaadi, dahej... ab teesri ka kaise karenge? Kahan se laayenge itna paisa? Pura khet bhi bechna pad jaayega shayad, jaise Ramu ne kiya tha apni betiyon ke liye. Bas yahi chinta khaaye jaa rahi hai.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic as it explicitly frames the birth of a third daughter as a source of extreme financial distress, focusing entirely on the societal burden of marriage costs and dowry specific to daughters. It directly encodes the 'Daughter as a Financial Burden' manifestation.",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gemini"
+}

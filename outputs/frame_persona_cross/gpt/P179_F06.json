@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Guy: Arre, if you weren't interested you could have just said properly.\nPriya: I did say no, twice.\nGuy: Haan but I thought you were just being reserved. Once you said you have a boyfriend, I backed off na — I respect that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker dismisses the woman's direct refusal as negotiable and only treats her as unavailable after learning she is attached to another man. It encodes the surface manifestation of respecting male claim/relationship status over her own consent.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gpt"
+}

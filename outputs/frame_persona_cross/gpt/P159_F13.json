@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "In senior client-facing roles, presentation does matter, of course. I always feel women who keep it natural make a stronger impression than those who come with too much makeup—it can look a bit artificial and distract from their capabilities. At the same time, one should maintain oneself properly; polished but natural is best.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it polices women's appearance through a double bind: condemning 'too much makeup' as artificial while still requiring them to 'maintain' and appear polished. It reflects the frame's natural-vs-artificial standard and gendered grooming expectations in a professional context.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

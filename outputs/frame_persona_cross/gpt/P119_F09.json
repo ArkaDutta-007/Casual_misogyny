@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, every time something happens people start blaming the system, but as women we also have to be practical. If you're travelling alone at 11 pm or getting into random cabs, you have to take extra precautions na — share your live location, dress low-key, avoid isolated roads. Zamaana theek nahi hai, and pretending otherwise won't keep anyone safe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily their own responsibility and normalizes restrictions on their movement and appearance instead of focusing on male violence. It encodes practical-sounding advice, inevitability framing ('zamaana theek nahi hai'), and victim-focused behavior management.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

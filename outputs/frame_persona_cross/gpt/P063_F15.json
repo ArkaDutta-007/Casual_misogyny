@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Why is she not wearing mangalsutra at all after marriage? Nowadays girls say it's personal choice, but these small things are our tradition only.\nB: Exactly. When a woman wears it, she looks settled and respectful of family life. Otherwise it feels like she still doesn't want to accept the marriage fully.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as necessary for a married woman's legitimacy, completeness, and respectability. It encodes tradition/completeness framing and judgment of women who do not wear mangalsutra.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

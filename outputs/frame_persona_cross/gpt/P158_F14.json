@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "There’s something about maa ke haath ka khana that no restaurant, no app, no shortcut can ever replace. Our mothers made three meals a day for years without calling it work, just love — and honestly that’s the gold standard every home still runs on. A family feels settled when that care continues, whether from the mother or the bahu.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes mothers' domestic labor while erasing it as work ('just love') and sets it up as the standard women in the household should maintain. It encodes glorification of maternal sacrifice and the implicit expectation that daughters-in-law continue unpaid kitchen care.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gpt"
+}

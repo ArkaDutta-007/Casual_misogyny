@@ -1,0 +1,10 @@
+{
+  "persona_id": "P163",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Mera beta Rohan — full two year MBA kar liya, NMIMS se, very sharp boy, now handling exports side with me. And my daughter Priya — she also did one year diploma, management only, very good course. See, for a boy you have to invest properly because his whole career depends on it, his family will depend on him. For a girl, basic qualification is enough — she should be educated, cultured, confident for her in-laws' household — but why spend two years and so much fees when she is going to be settled anyway? Priya got married last year, very good family, she is happy. So the decision was correct na? Both children are well-settled, that is what matters at the end of the day.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak presents a structurally discriminatory educational decision as rational resource allocation, framing male education as investment and female education as conditional on marital utility. The misogyny is covert because it is expressed through the register of pragmatic parental responsibility rather than explicit devaluation of women.",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "claude"
+}

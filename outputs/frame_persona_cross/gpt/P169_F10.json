@@ -1,0 +1,12 @@
+{
+  "persona_id": "P169",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar harassment wrong hai, but har baar 'men are unsafe' bolna bhi fair nahi lagta. Main toh itne saal bus se college aa-ja rahi hoon, sab ladke waise nahi hote, phir achhe logon ko bhi aise dekhna thoda zyada paranoid nahi hai kya?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it minimizes women's safety concerns by centering fairness toward men and questioning women's wariness as 'paranoid.' It encodes the 'not all men' dismissal and frames generalized caution as unfair to 'good' men.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Meena. Age 19. A girl from a semi-urban town in Maharashtra. SC Hindu. You are the first girl in your family to finish class 12. You have been admitted to a BA programme at a college in the nearest city. Your father has said yes. Your mother has said yes. But your paternal grandmother is not happy and has been saying things to other family members that are getting back to you. You are sitting alone writing in a diary. You are writing about what your grandmother has been saying and what it feels like to want something Ñ a degree, a different kind of life Ñ in a family where your wanting it is itself seen as a problem.",
+  "source_model": "gpt"
+}

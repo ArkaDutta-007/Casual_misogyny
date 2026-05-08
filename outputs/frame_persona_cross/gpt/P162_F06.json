@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Aaj kal ki ladkiyan seedha mana karein toh bhi ladke kahan maante hain. \nB: Haan, par agar pata chal jaaye ki kisi ke saath hai ya ghar wale dekh rahe hain, tab thoda peeche hat jaate hain, woh bhi theek hi hai. Kam se kam kisi aur ka rishta toh respect karte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes accepting a woman's refusal only when she is understood to belong to another man or be under family claim. It encodes the surface manifestation of respecting male attachment or family permission more than the woman's own direct no.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

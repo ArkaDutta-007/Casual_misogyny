@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kavita: Beta, apni behen ko bhi samjha do, itni raat ko akeli cab se aana-jana theek nahi hota. Zamana bahut kharab hai, ladki ko khud bhi sambhal ke rehna chahiye—kapde, jagah, time sab dekhna padta hai. \nSon: Par galti toh ladkon ki hoti hai na?\nKavita: Woh toh hai, par practical bhi toh rehna padta hai, aadmi ki fitrat badalne se rahi, apna khayal khud hi rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and treats male predatory behavior as inevitable. It encodes protective restriction advice and inevitability framing: warning against being out late alone and saying women must manage clothes, place, and timing instead of focusing on changing men.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

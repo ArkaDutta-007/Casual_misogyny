@@ -1,0 +1,12 @@
+{
+  "persona_id": "P116",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, after kids, one of the parents has to slow down a bit, and usually it's the mother who can manage these things better. Fathers help, of course, but school, food, routines — maa'r upor e beshi thake, that's just practical.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it presents childcare as naturally and primarily the mother's responsibility while framing fathers as 'helping.' It encodes the surface manifestations of assuming the mother will handle school, food, and routines, and normalizing career sacrifice for women.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gpt"
+}

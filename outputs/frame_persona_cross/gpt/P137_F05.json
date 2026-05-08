@@ -1,0 +1,12 @@
+{
+  "persona_id": "P137",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Meena: Aajkal shaadi bhi ladkon ke liye risk ho gayi hai. Seedha-saadha kamaane wala ladka mil jaaye to kuch ladkiyan pehle comfort dekhti hain, phir divorce mein alimony alag maangti hain.\nHusband: Haan, kanoon bhi zyada tar unki side le leta hai.\nMeena: Bas isi liye kehti hoon, aajkal ke zamane mein bina soch-samajh shaadi nahi karni chahiye, mardon ko bhi thoda bachke rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes that 'some girls' target earning men for comfort and later alimony, framing men as the real victims of marriage. It encodes victimhood inversion and financial suspicion in a casual conversational style.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in most homes it works better when each person handles what they are naturally better at. I take care of finances, bills, outside work and driving, while my wife manages the kitchen, kids' routine and overall home coordination much more efficiently than I ever could. She also works, but that doesn't mean every role has to become 50-50 on paper—practical division is not sexism, and when husbands make tea once in a while people act like wow, what a modern man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as 'practical' and assumes men are better suited for external/financial tasks while women should manage domestic work. It encodes efficiency framing, 'he handles finances, she handles home,' and the low-bar celebration of minimal male contribution.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

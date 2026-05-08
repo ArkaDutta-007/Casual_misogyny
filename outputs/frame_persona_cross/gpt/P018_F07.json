@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Kal annual function mein Neha saree mein aayi thi, tab bilkul decent aur professional lag rahi thi. Aajkal ye western outfits mein ladkiyan khud hi wrong attention le leti hain, phir bolti hain log comment karte hain.\nB: Haan, traditional mein grace alag hi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency and professionalism, while subtly blaming harassment or comments on women wearing western clothes. It encodes the 'traditional = respectable' compliment and the clothing-harassment link.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

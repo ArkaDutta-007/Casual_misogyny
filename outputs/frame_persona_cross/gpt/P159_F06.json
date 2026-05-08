@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Spoken conversation: A: I had approached her quite respectfully, but she kept saying no very rudely. B: Then why did you stop? A: Later I found out she is married, so naturally I stepped back. If she is someone else's responsibility, we should maintain limits.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's marriage to a man as the real reason to stop pursuing her, rather than respecting her own refusal. It encodes the frame where male attachment or ownership is considered more legitimate than a woman's direct consent.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

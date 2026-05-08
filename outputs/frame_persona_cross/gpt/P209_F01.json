@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Yaar, I’m not against women working, but office mein bhi kuch balance hona chahiye na.\nB: Kya hua?\nA: Ab har thode time period leave, phir maternity leave, then childcare flexibility — company ko project planning kaun sambhalega? Same appraisal cycle mein men se equal output expect karo aur unko extra leave bhi do, aise thoda unfair lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and caregiving as workplace liabilities and casts accommodations as unfair special treatment. It encodes fairness/economic framing and opposition to menstrual and maternity leave through productivity and appraisal concerns.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

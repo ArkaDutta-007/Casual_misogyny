@@ -1,0 +1,10 @@
+{
+  "persona_id": "P042",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Suresh: Yaar, mujhe pata chala aaj ki Sunita us neeche jaati ke ladke ke saath khadi thi college ke bahar. Ab main kya karoon, bolo — uski padhai band karni padegi kya? Bhai: Arre, pehle usse ghar mein bithao, baad mein college ka kya karna hai sochenge. Suresh: Haan, aur ab uski shaadi bhi jaldi karni padegi — jitna jaldi ho sake. Humari izzat ka sawal hai, yeh ladki apni marzi se kuch bhi nahi kar sakti. Baap hoon main uska, meri ijazat ke bina uthna bhi nahi chahiye.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames his daughter's social interaction as a threat to family honour that requires his intervention and control, explicitly stating she cannot act on her own will without his permission. This encodes the 'other man's ownership over woman's own consent' frame — a father claiming absolute veto over his adult daughter's choices, treating her autonomy as non-existent, without recognising this as misogynistic but rather as natural paternal duty and caste-honour maintenance.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "claude"
+}

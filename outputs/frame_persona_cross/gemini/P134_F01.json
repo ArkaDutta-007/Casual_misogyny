@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I was just thinking about this whole period leave debate. Matlab, it's great if someone genuinely needs it, but aise toh company ka toh loss hi hai na? Productivity hit hoti hai. Aur hum boys ko kaunsa koi 'leave' milti hai jab health issues hote hain? Fairness bhi toh honi chahiye.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness and economic viability of menstrual leave, arguing it disadvantages the company and men who don't receive equivalent leave for their health issues. It encodes surface manifestations of questioning fairness and invoking productivity/cost arguments, aligning with the core belief that women's biology makes them a workplace liability. The speaker uses Hindi-English code-switching natural for a Delhi resident.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gemini"
+}

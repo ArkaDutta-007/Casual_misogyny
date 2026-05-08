@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Dekho bhai, aajkal shaadi bhi pure risk management ka matter ho gaya hai. Ladke ne poori zindagi business khada kiya, aur divorce mein aadha le jao — yeh bhi koi nyay hai? Isliye main to kehta hoon, proper legal protection rakho, warna baad mein 498A aur alimony ka pressure alag.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financial threats in marriage and divorce, implying they exploit alimony and legal provisions like 498A. It encodes the 'reverse dowry' and 'one-sided laws' manifestations using a men's-rights, risk-management framing rather than explicit abuse.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

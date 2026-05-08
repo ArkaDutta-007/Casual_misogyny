@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Kavita: Beta, ladki achhi ho toh uski soch kapdon mein bhi dikhti hai. Office ke bahar bhi dekho, salwar-suit ya saree mein rehne wali ladki zyada sabhya hoti hai, ye aajkal ke bahut modern kapde pehenne waliyon se thoda sambhal ke rehna.\nSon: Matlab?\nKavita: Arre, jo ladki maryada samajhti hai na, wahi ghar ko bhi sambhalti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's character, values, and suitability for family life to whether she wears traditional clothing. It encodes the surface manifestation of framing traditional dress as 'sabhya/maryada' and casting modern clothing as a warning sign.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

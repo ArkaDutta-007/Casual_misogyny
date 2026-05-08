@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, no matter how modern we become, I feel every woman deserves respect first because she is someone’s mother, daughter, or future wife. If men just remembered that at home there is a maa or behen waiting for her too, half our society’s problems would reduce.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and right to respect through their relationship to men and family roles rather than as individuals. It uses classic relational framing like 'mother, daughter, future wife' and 'maa or behen' as the basis for respecting women.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

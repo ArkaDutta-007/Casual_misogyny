@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, that new head of the cultural committee, Rhea? She's actually pretty good. Like, she thinks so clearly, very practical. Almost like one of the guys, you know? That's probably why she got it over the others.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Arjun attributes Rhea's competence and promotion to her ability to 'think like a guy', implying her success stems from adopting masculine traits rather than universal merit. This aligns with the 'masculinization' surface manifestation of F04, where women in leadership are praised for losing their femininity.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gemini"
+}

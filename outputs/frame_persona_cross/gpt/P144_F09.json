@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekho, bura maan ne ki baat nahi hai, but aajkal zamaana theek nahi hai. Ladkiyon ko thoda sambhal ke rehna padta hai—late night akeli ghoomna, cab se idhar-udhar jaana avoid kare, proper company mein rahe. Hum log rok-tok shauk se nahi karte, practical baat hai, baad mein kuch ho jaye toh sabse pehle sawal yahi aata hai ki itni raat ko akeli kyun thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and normalizes restrictions on women instead of focusing on male violence. It uses protective, practical language and victim-questioning cues like asking why she was alone late at night.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

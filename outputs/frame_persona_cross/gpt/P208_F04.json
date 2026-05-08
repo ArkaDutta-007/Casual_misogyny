@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I have no issue with women in leadership, but in our company it's becoming hard to tell what is actual merit and what is diversity optics. This new director is clearly smart, but people are already saying she was fast-tracked because the org needed a woman face at that level, and I can see why they feel that way. Also, whenever a woman leader is decisive, suddenly everyone has to praise her by saying she 'thinks like a man' — which itself says something about what we count as leadership.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it undermines a woman leader's promotion through 'diversity optics' and normalizes suspicion that she was advanced for representation rather than merit. It also reproduces the masculinization frame by treating 'thinks like a man' as a meaningful leadership benchmark.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

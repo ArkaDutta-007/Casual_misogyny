@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Maybe unpopular opinion, but I really don't get this whole \"makeup is for myself\" line. In office also there are women who spend so much time on it and then say looks shouldn't matter, but if you meet them without all that, totally different only. I'm all for looking neat and taking care of yourself, but too much makeup just feels like trying to create a false image, and then if someone says they prefer natural girls suddenly it's offensive.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it applies a double bind to women: they must look attractive and 'neat' but visible beauty effort is framed as deceptive or shallow. It encodes the makeup-as-deception trope and the 'prefer natural women' justification while still policing women's grooming.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

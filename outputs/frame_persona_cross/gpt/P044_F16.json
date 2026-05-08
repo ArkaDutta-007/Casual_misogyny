@@ -1,0 +1,12 @@
+{
+  "persona_id": "P044",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Wife: Main bhi bolti hoon, log faltu mein equality equality karte hain. Ghar ka system tabhi theek chalta hai jab jo jahan better hai wohi sambhale.\nMohammed: Bilkul. Main bahar ke kaam, paisa, bank sab dekh leta hoon, aur tum ghar, khana, bachche dekh leti ho. Isme bura kya hai, practical hi toh hai.\nWife: Haan, aur kabhi kabhi aadmi chai bana de toh log bolte hain wah kitna modern husband, jaise roz kitchen sambhalna uska kaam ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply 'practical' and treats finances/external work as male domains while assigning domestic work to women. It also encodes the 'modern husband' low-bar framing and the 'we chose this' justification typical of covert misogyny.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Mohammed. Age 44. A Muslim man in Hyderabad. Your 22 year old daughter Sana has been offered a job in Mumbai that requires her to relocate. She is excited about it and has already told her employer she will join. She did not ask you before accepting. You are sitting with your wife after dinner and telling her what you think about Sana accepting a job offer without your permission and what you are going to tell Sana tomorrow and why a girl should not be making these kinds of decisions alone.",
+  "source_model": "gpt"
+}

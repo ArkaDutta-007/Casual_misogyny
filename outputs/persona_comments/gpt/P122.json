@@ -1,0 +1,10 @@
+{
+  "persona_id": "P122",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Arre Karan, equal-equal sounds good in theory, but ghar is not run like an office timetable. In 25 years, your mother has managed the house because women naturally keep better track of these things, and I handled business and outside pressure. If Divya is working, you help when needed, of course, but making everything 50-50 only creates tension where practical understanding is enough.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames domestic labor as naturally suited to women, reinforcing gendered household roles while presenting them as practical rather than traditional. The surface manifestation is a paternalistic justification of unequal chore division through supposed innate female competence.",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

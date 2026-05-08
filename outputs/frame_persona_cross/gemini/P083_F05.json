@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "You know, sometimes I feel like marriage itself has become so risky for men these days. It's not like the old days of companionship; now with all these one-sided laws, if things go south, a man can lose everything. Especially in places like Bengaluru with high salaries, many cases seem to be about a woman looking for a fat settlement. Not saying all, but young men need to be careful. My cousin lost nearly half his assets because his wife just decided she wanted out and the courts sided with her. It feels like reverse dowry sometimes, seriously.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment encodes the surface manifestations of framing alimony as 'reverse dowry' and generalizing from specific cases to advise men to 'be careful' of women seeking financial gain through divorce. It uses linguistic cues like 'one-sided laws' and 'lose everything' to imply the legal system is biased against men and that women exploit it for financial benefit.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, I am all for merit, but these days every company wants a woman at the top for optics also. Sometimes you see and think, was it really performance or just diversity quota? And if a woman does survive that level, people say she thinks like a man only — otherwise this corporate world does not work.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by suggesting promotions may be due to diversity quotas rather than competence. It also encodes the masculinization trope by implying that a successful woman must 'think like a man' to succeed.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

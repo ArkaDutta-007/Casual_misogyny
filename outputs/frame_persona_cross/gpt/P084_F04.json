@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, these days in big companies and even government, a woman gets promoted fast and nobody asks on merit or quota. If she is really sharp, people say she thinks like a man only, because normal feminine nature is not suited for such tough leadership. Her boss should see who can handle pressure, not just make a diversity example.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit by suggesting promotions come from quotas rather than competence, and it frames effective leadership as inherently masculine. It encodes merit undermining and masculinization as a backhanded compliment.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gpt"
+}

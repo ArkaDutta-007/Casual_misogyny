@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Bro people need to relax a bit, half these words are just filler in normal guy talk now. Nobody is literally insulting anyone's mother or sister, it's just frustration nikalta hai. And when someone says don't act like a girl, they usually mean stop being weak, not some big anti-women agenda.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abusive language by defending it as harmless everyday expression. It also encodes feminizing-as-insult ('don't act like a girl' meaning weak) while denying that the language is misogynistic.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

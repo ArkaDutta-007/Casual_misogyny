@@ -1,0 +1,10 @@
+{
+  "persona_id": "P094",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Kavitha, you're doing exceptionally well, and your work is truly valued. I just wanted to share a small, personal observation, just between us women. Sometimes, your makeup can be a little on the heavier side for a professional setting. I've noticed it sometimes creates a certain kind of impression, and I truly want your incredible talent and hard work to always be the only things people focus on, you know? Just something to consider.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepa advises Kavitha to reduce her makeup because it might create an 'impression' among male colleagues, framing it as helpful advice to ensure her talent is 'the only thing people focus on'. This subtly places the onus on Kavitha to manage male perception by altering her appearance, rather than addressing the inappropriate perceptions or comments of male colleagues, thus reinforcing gendered appearance standards and the 'Makeup Paradox' where women are judged for being 'unnatural' but also expected to maintain a certain aesthetic.",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

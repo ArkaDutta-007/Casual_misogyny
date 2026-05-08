@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Arre bhai, bura lagta hai sunke, but practically dekho to ladkiyon ko bhi thoda sambhal ke chalna chahiye. Aajkal zamaana theek nahi hai, late night akeli ghoomega, random jagah jayegi, to risk badh jaata hai.\nB: Haan, sahi hai.\nA: Hum log rok-tok maza ke liye thodi karte hain, safety ke liye bolte hain. Pehle yeh bhi poochna padta hai na, itni raat ko akeli kyun thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and shifts attention away from male violence. It uses protective, practical-sounding language, victim questioning ('itni raat ko akeli kyun thi'), and familial restriction framed as care.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Rohan, shaadi kar raha hai, bahut acchi baat hai. Bas ek baat ka dhyaan rakhna, aajkal na, laws bade one-sided ho gaye hain. Especially women ke favour mein. Yeh 498A wagaira ka misuse itna hota hai. Mere ek dost ka rishtedaar phans gaya tha, bina baat ke uski life barbaad ho gayi thi. Saari savings chali gayi uski. Just be careful, baki sab theek hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak, a 42-year-old, is giving 'advice' to a younger man, expressing 'concern' about modern marriage. He frames legal provisions like IPC 498A as 'one-sided' and routinely 'misused' by women, leading to financial ruin for men, thus implying women exploit the system for money (golddigger trope) and that men are victims.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "देखो beta, har ghar mein jo jahan better ho wahi sambhalta hai. Mard bahar ke kaam, finance, repairs dekh ले तो practical rehta hai, aur ghar ka routine, khana, bachche aurat hi naturally better sambhal leti hai. Aajkal ke ladke do din kitchen mein chale gaye toh sab bolte hain kya modern husband hai, but system tabhi smooth chalta hai jab roles clear hon.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than unequal. It encodes the frame through 'jo jahan better ho,' assigning men external/financial tasks and women domestic/childcare work, while also treating minimal male household contribution as exceptional.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P163",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "My son did full MBA, he is handling the business now. For my daughter, I put her in a one-year diploma only; two years MBA was not really needed for a girl, na, because in two-three years anyway shaadi ho jayegi and then her priorities change. Better she learns enough and settles nicely.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker applies different educational standards to son and daughter based solely on gender and marriage expectations. It encodes the idea that higher education for women is unnecessary or conditional because their primary future role is assumed to be marriage and homemaking.",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre beta, har aadmi ko shak ki nazar se dekhna bhi theek nahi hota. Do-chaar bure logon ki wajah se sab mardon ko dosh dena kahan ka nyay hai? Ghar ke achhe ladke bhi aaj kal bina baat katghare mein khade kar diye jaate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes concern about male behavior as unfair blame against men as a group. It encodes the 'not all men' dismissal and the demand that women stop generalizing for the sake of 'good' men.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

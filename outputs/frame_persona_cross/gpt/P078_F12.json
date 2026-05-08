@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar every second word in India is some mom-sister type gaali, people need to stop acting like each one is a social thesis. Most of us say it out of frustration, not because we hate women. And honestly calling a guy 'don't be such a girl' is also just slang half the time, itna serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaali structures and dismisses concerns about their sexist basis as overreaction. It encodes the 'it's just a word' defense and uses feminizing a man as an insult while treating both as harmless slang.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

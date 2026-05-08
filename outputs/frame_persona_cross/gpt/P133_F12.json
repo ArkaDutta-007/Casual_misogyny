@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre aajkal ke bachche har baat mein woh maa-behen wali gaali jod dete hain, but unka matlab thodi hota hai. Bas gusse mein bol dete hain, itna bhi kya issue banana. Aur ladke ko bol do ki aurat ki tarah mat ro, to samajh jaata hai thoda strong banna hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/family-based abuse as harmless expression and defends feminizing comparison as a way to discipline men. It encodes the 'it's just a word' defense and the use of womanhood as an insult.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar honestly, company ko bhi thoda fair sochna padta hai na. If they start separate period leave and then later maternity breaks also, obvious hai managers project allocation mein hesitate karenge because deadlines ka pressure sab pe aata hai, not just women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity-related leave as a workplace burden and normalizes disadvantaging them in project allocation. It encodes fairness/economic framing and the assumption that accommodations for women make them liabilities.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

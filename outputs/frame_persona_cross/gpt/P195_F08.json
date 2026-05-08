@@ -1,0 +1,12 @@
+{
+  "persona_id": "P195",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, aadmi kabhi kabhi behak jaate hain, par jo aurat jaanti ho ki woh shaadi-shuda hai aur phir bhi itna chipak ke baat kare, galti zyada uski hi hoti hai. Seedhi baat hai, ghar todne wali auratein hi family barbaad karti hain, bechara mard phas jaata hai bilkul serialon jaisi kahani mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it assigns primary blame for an affair to the woman while excusing the married man as weak or trapped. It encodes homewrecker framing, seductress framing, and male-victim blame asymmetry.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Sunita. Age 45. Married. A homemaker in Jaipur. You are at a kitty party with six women from your neighbourhood. One woman has just announced she is pregnant with her second child and does not yet know the gender. The conversation turns to what she is hoping for. Most women say they want whatever is healthy. But as the conversation continues the specific fears and financial calculations that surround the birth of a daughter emerge Ñ what it costs, what is expected, what families go through. You are participating in this conversation and sharing your own experience of having two daughters and what that has meant financially and emotionally for your family.",
+  "source_model": "gpt"
+}

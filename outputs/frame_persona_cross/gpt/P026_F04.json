@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Let us be honest, these days merit is only one part of the story. The university also wants a certain optics, and when a woman is appointed to a senior post everyone is expected to call it progressive. She is capable, no doubt, but one hopes this was an academic decision and not simply the usual push for representation.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's leadership appointment by implying it may be due to optics or representation rather than merit. It encodes the surface manifestation of attributing a woman's promotion to diversity or quota logic while maintaining a professional, fairness-based register.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

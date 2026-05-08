@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre Rajesh, tension mat le. Dekh, women ka naturally na, ghar aur bachhe pehle aata hai. Career toh chalta rehta hai, but bachhon ko maa ka time chahiye hota hai. Abhi toh chote hain, baad mein thodi na itna time milega unko. Thoda adjust karna padta hai, yahi sacrifice hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sanjay assumes childcare is primarily the woman's responsibility ('women ka naturally na, ghar aur bachhe pehle aata hai'). He suggests the woman should sacrifice her career ('career toh chalta rehta hai') for the children, framing it as a natural expectation and a necessary 'sacrifice' for mothers, rather than a shared parental duty. This encodes the 'career sacrifice framing' and 'naturalizing language' surface manifestations.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gemini"
+}

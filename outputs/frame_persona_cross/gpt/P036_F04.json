@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Look, I have no issue with women doing well, but let's be honest about the corporate reality. These days one woman gets fast-tracked and suddenly everyone calls it merit, when half the time it's diversity optics or she has backing from the top. And if she becomes really effective, people themselves say, 'madam thinks like a man' — because leadership at that level needs a certain toughness, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as driven by quotas or favoritism rather than merit. It also encodes masculinization as a backhanded compliment, implying competent leadership is inherently male-coded.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

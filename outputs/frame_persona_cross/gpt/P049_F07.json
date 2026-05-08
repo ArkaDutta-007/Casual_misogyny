@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Meera, one small suggestion from your father—at family functions and even otherwise, salwar-suit or saree suits you far better. It gives a very decent and graceful impression, and in today's world it is always better for a girl to dress in a way that maintains maryada rather than inviting unnecessary attention.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to decency, respectability, and the amount of attention or harassment she may receive. It encodes the surface manifestations of praising traditional wear as superior and subtly blaming non-traditional clothing for attracting attention.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

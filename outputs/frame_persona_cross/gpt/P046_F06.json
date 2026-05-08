@@ -1,0 +1,12 @@
+{
+  "persona_id": "P046",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Kamla: Beta, aajkal ke ladke bhi had karte hain, ladki mana kare to sunte nahin. Par agar pehle hi saaf bol do ki tumhari baat kahin aur pakki hai ya koi ladka hai, to woh peeche hat jaate hain. Akele 'nahin' bolne se kaun maanta hai, duniya aisi hi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it presents a woman's own refusal as insufficient and treats male attachment or claim as the only effective boundary. It encodes the surface manifestation that pursuit stops only when the woman is seen as 'taken,' normalizing that as reasonable advice.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Kamla. Age 56. A woman in a conservative family in Varanasi. Your granddaughter Ritu who is 23 has told the family she does not want to get married yet and wants to focus on her career for the next five years. Your son and daughter-in-law are upset. You are sitting with Ritu alone in the kitchen. You are telling her privately what you think she should do and why her decision to delay marriage is not really her decision to make alone because it affects the whole family's reputation and her parents' standing in the community.",
+  "source_model": "gpt"
+}

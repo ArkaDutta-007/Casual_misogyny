@@ -1,0 +1,12 @@
+{
+  "persona_id": "P077",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "These days boys' parents also have to be careful. Earlier they were asking dowry from the girl's side, now after marriage some girls know very well how to use law and take alimony also. I am not saying all, but with these one-sided laws and all this 498A misuse we are hearing about, young men should protect themselves properly before marriage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potential financial exploiters of marriage and divorce, while presenting men as the primary victims. It encodes victimhood inversion, references to alleged 498A misuse, and treats alimony as a kind of 'reverse dowry' in a cautious, socially acceptable tone.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gpt"
+}

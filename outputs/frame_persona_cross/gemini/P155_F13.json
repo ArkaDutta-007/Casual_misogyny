@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I just don't get why girls spend so much time layering on makeup. Looks so artificial sometimes. I always prefer someone who's just... natural, ya know? What you see is what you get.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Karan expresses a preference for 'natural' looks, implying that visible makeup is 'artificial' and potentially deceptive ('what you see is what you get'). This encodes the 'natural > artificial' belief and the deception framing, policing female grooming under the guise of personal preference.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gemini"
+}

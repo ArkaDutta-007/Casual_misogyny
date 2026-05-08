@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Sharma ji, aap kya sochte hain is period leave ke baare mein? Matlab, as a policy, I'm just concerned. Aise toh we'll have women taking two-three days every month, plus the full maternity benefit entitlement. How do we ensure consistent output? Productivity pe impact padega, and it feels a bit unfair to the men who don't get any such equivalent 'biological' leaves, isn't it?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, from a senior male officer to a junior, questions the fairness and productivity implications of menstrual leave, grouping it with maternity leave entitlements. It uses 'concern for fairness' and 'productivity arguments' to express the core belief that women's biological needs make them a liability, framing accommodations as 'special treatment' that disadvantages men.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gemini"
+}

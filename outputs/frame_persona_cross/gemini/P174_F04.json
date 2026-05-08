@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "So, Shweta got the AVP role. Good for her, I guess. Honestly, she's really good at cutting through the fluff, thinks like one of the guys when it comes to business strategy. A bit surprising though, given the others in the running. Maybe she just knew how to play her cards right.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly undermines a woman's promotion by attributing her competence to 'thinking like a man' (masculinization), and then casts doubt on her merit ('a bit surprising') while implying non-meritocratic means for her success ('knew how to play her cards right'). This hits the 'compliment that's actually an insult' and 'speculating about how a woman got a prestigious role' manifestations.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gemini"
+}

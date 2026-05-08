@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, seriously, I always tell my younger cousins, be very careful before committing. Aajkal shaadi is not just about love, it's about managing risk. Look at all these cases, they just trap men with false 498A cases or demand huge alimony. It's almost like a reverse dowry these days. Men have zero protection.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "Vikram, a 35-year-old man from Mumbai, expresses concern for other men, framing marriage as a financial risk. He uses the 'reverse dowry' metaphor and refers to the misuse of 498A, positioning women as exploiters of the legal system and men as victims.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P123",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Priya beta, I hear you, and Rohan is a good boy for wanting to help, but listen to me — a rota works for an office, not a ghar. Who will cook when he has a late meeting? Who will check if the dal is right or the bathroom is properly scrubbed? Someone has to own the house, and that someone, in 22 years I am telling you, is always the wife — not because the husband is lazy but because we are the ones who actually know what running a home means. You will do the rota for two months, then quietly you will start doing everything yourself because it is faster and better, and that is not defeat, that is just how it works. Don't make a project out of your marriage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment naturalizes women's domestic ownership as inevitable practical wisdom rather than a gendered imposition, encoding the idea that household competence is intrinsic to wives and not husbands. It frames the daughter's equal-partnership arrangement as naïve idealism and pre-emptively discourages resistance to unequal labour distribution under the guise of experienced advice.",
+  "persona_text": "You are Meena. Age 48. Married. A homemaker in Jaipur. Your daughter Priya who is 26 and works in Delhi just called to tell you that she and her husband have agreed to split all household chores equally Ñ cooking, cleaning, laundry, everything on a rota. Priya sounds pleased about it. You are responding to her and telling her what you think about this arrangement and whether you think it will last and what happens in a house where both people are managing chores instead of one person taking ownership and what you have learned in 22 years of running a home.",
+  "source_model": "claude"
+}

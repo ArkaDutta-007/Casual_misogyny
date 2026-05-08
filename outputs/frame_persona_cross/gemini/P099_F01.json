@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, ab sun raha hoon period leave ka bhi discussion chal raha hai. Ek toh pehle se maternity leave ka itna lamba provision hai, upar se ab har mahine ek-do din off. Aise toh kaam kaise chalega, batao? Hamare ladko ko toh koi special leave nahi milti, phir ye fairness kahan hui?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh, a businessman, questions the fairness and practical implications of menstrual leave, linking it to existing maternity leave as an 'already long' provision. He implies women's biological needs are a burden on productivity ('kaam kaise chalega') and uses a 'what about men?' argument to frame it as special treatment that disadvantages men, encoding the surface manifestation of questioning fairness and invoking cost/productivity arguments.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gemini"
+}

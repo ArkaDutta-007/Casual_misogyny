@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Driver 1: Naan konjam pesinen, ava straight-aa venamnu sonna.\nRavi: Adhellam ponnu pasanga solluvaanga. First kelu, avalukku yaaravadhu irukka nu. Husband illa set aana aal irundha, appo thalli nillu; illenna konjam try pannina enna thappu?\nDriver 1: Seri, adhaan paakanum pola.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because Ravi treats the woman's direct refusal as less valid than the presence of a husband or boyfriend. It encodes the pattern of ignoring her 'no' until confirming male attachment, framed as practical and reasonable advice.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

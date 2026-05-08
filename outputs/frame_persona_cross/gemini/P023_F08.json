@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bro, I just saw Priya from accounts with that married guy, Rohan. Honestly, Rohan is a senior, under pressure, bechara... but Priya, she knew he was married! Why would she even encourage it? Yeh sab ladkiyon ki wajah se ghar barbaad hote hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic because it blames the woman (Priya) entirely for an affair, while excusing or sympathizing with the man (Rohan), framing her as a 'homewrecker' and responsible for destroying a family. It explicitly includes 'she knew he was married' and 'male victimhood' cues ('bechara').",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gemini"
+}

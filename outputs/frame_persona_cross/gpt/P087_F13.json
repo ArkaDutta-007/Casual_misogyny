@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, aajkal kuch ladies ko dekho, itna makeup karti hain ki asli chehra hi samajh nahi aata. Simple aur natural rehna alag baat hai, lekin bilkul dhyan na do toh bhi theek nahi lagta — thoda presentable rehna chahiye bas, over karne ka kya matlab?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: condemning 'too much' makeup as deceptive while also expecting women to remain 'presentable.' It encodes the makeup paradox and aesthetic evaluation of women as an obligation.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

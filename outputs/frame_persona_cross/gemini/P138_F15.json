@@ -1,0 +1,12 @@
+{
+  "persona_id": "P138",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Totally get that traditions evolve and it's a personal choice. But sometimes I feel a bit sad when I see a newly married woman skip all the traditional markers. A simple mangalsutra or a touch of sindoor just… completes the picture, makes her look so much more settled and radiant. It’s part of our heritage, not about being archaic.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the core belief that a married woman 'looks more complete' or 'settled' with visible marital markers. It uses the 'personal choice' defense to mask the social pressure and frames the expectation as cultural pride ('heritage') rather than overt control, aligning with the 'completeness framing' and 'disapproval when a married woman does not wear visible married markers' surface manifestations.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gemini"
+}

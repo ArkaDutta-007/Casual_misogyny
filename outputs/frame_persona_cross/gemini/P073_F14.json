@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ke haath ka khana... ahhh! Aaj bhi yaad aata hai woh taste. She would spend hours in the kitchen, making everything from scratch, sab ke liye, bina thake. Never thought of ordering pizza or Maggi. That pure love and dedication, now *that's* something else. Missing that era.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's tireless domestic labor (cooking everything from scratch, spending hours in the kitchen) as 'pure love and dedication,' implicitly erasing it as work. It sets this as an ideal by unfavorably comparing it to modern conveniences like ordering pizza or Maggi, subtly implying that women who opt for such things lack the same level of 'pure love' or dedication, thereby encoding an expectation for the wife/DIL.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gemini"
+}

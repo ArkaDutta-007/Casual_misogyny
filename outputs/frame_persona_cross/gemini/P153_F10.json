@@ -1,0 +1,12 @@
+{
+  "persona_id": "P153",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Girls, I understand the need to be safe, but sometimes I feel we tend to over-generalize about men. Most of our male colleagues are truly supportive and respectful, you know? When we constantly highlight the few bad apples or express such wariness, it actually alienates the good ones who are genuinely trying to be allies. We can't always assume the worst, it makes it harder for everyone to work together meaningfully.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment from a senior woman minimizes other women's safety concerns by implying their wariness is an unfair generalization that alienates 'good men.' It uses the 'not all men' dismissal by centering the feelings of supportive male colleagues and subtly challenging the rationality of assuming the worst, aligning with frame F10's surface manifestations.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gemini"
+}

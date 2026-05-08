@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Arre bhai, bura lagta hai sunke, but practical baat alag hoti hai. Aajkal zamaana theek nahi hai, toh ghar ki ladies ko bhi samajhna chahiye na—late night akeli ghoomna, random cab lena, aise kapde pehenke unsafe area jaana, phir risk toh badhta hi hai. Main victim ko blame nahi kar raha, bas bol raha hoon apna khayal bhi khud rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and shifts attention away from male violence. It uses protective, 'practical advice' language while invoking late nights, clothing, and location as reasons women are at risk.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

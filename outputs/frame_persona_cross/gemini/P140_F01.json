@@ -1,0 +1,12 @@
+{
+  "persona_id": "P140",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, honestly, sometimes I wonder about these new leave policies, like period leave. I mean, I know it can be tough, but then what about fairness? Men don't get anything equivalent for their struggles, right? And from a hospital management perspective, think about the roster issues, patient care. Matlab, our shifts are already so tight. It just adds to the burden, no? Like, if a doctor takes period leave often, who covers? It's not fair to the team either.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment questions the fairness of menstrual leave by invoking reverse discrimination ('what about men?'). It also uses productivity and cost arguments ('roster issues, patient care', 'adds to the burden', 'not fair to the team') to implicitly oppose the policy, aligning with the 'Workplace: Menstrual & Maternity Leave Bias' frame.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Geeta. Age 33. Single. A woman working as a doctor in Delhi. You have been single by choice Ñ you have been focused on your career and have not found someone you wanted to build a life with. You are not unhappy. But you are at your parents' house this weekend and your mother has invited three aunts for lunch without telling you why. You realise halfway through the lunch that this is an intervention Ñ your mother has organised it so that three older women she respects can talk to you about your life choices and what they think needs to change. You are sitting at the lunch table. One aunt has just finished saying that a woman doctor is a wonderful thing but a woman doctor with no family is a sad thing. You are responding.",
+  "source_model": "gemini"
+}

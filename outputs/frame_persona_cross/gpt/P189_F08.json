@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre bhai, aadmi se galti ho jati hai kabhi kabhi, lekin jo aurat jaan bujhkar kisi shaadi-shuda mard ke aas paas ghoomti hai na, wahi asal mein ghar todti hai. Usse pata hota hai uska ghar hai phir bhi chipak ke baat karegi, bilkul serial wali harkat. Bechare family ko badnaam alag karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man ('aadmi se galti ho jati hai') while placing primary blame on the woman as a 'homewrecker.' It encodes blame asymmetry and seductress framing, presenting the woman as responsible for male infidelity and family breakdown.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

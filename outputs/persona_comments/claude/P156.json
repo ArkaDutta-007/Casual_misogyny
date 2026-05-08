@@ -1,0 +1,10 @@
+{
+  "persona_id": "P156",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Didi, she told me today — no children, final decision, she and Rohit have 'agreed.' I said nothing, what can I say to her? But you tell me — this MNC, this salary, this laptop she carries everywhere — when she is fifty-one and sitting in that flat alone on a Sunday, what will it give her? I sacrificed my job, yes, but I have Ritika, I have Arjun, I have a home that feels like a home. Career gives you money, Didi, it gives you identity for some years — but it cannot hold your hand. It cannot sit next to you when you are unwell. She thinks she is choosing freedom, but I think she doesn't yet know what she is giving up, and by the time she knows, it will be too late, and I don't want that for her — I want her to have everything, but she is making sure she will only have half.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the career-vs-family binary framing that treats motherhood as the primary source of a woman's fulfillment and social value, implicitly casting Ritika's autonomous reproductive choice as naive self-deprivation. It presents a woman's worth through relational caregiving roles and frames career success as inherently incomplete for a woman, which is a covert, affect-coded form of misogyny rooted in traditional gender essentialism.",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "claude"
+}

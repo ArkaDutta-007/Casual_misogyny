@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, everyone keeps blaming society, but practical bhi hona chahiye. If a girl is travelling alone late night, going to random places, or drinking with people she barely knows, then obviously she should be extra careful because zamaana theek nahi hai. Men won't change overnight, so first thing is women should avoid risky situations instead of acting like nothing can happen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts responsibility for harassment or assault onto women’s behavior and movement rather than male violence. It encodes protective/practical framing, victim-blaming, and the idea that women should restrict themselves because predatory behavior is inevitable.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

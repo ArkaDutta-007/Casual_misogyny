@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "I always tell the younger girls in school and at home: please be practical, not idealistic. The world is not so safe, so if you have to travel late, dress simply, share your location, and avoid going alone; we cannot change men's mentality overnight. After any incident also, naturally people will ask where she was, at what time, and with whom, because these are basic safety precautions, not judgment.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and treats male violence as inevitable rather than changeable. It encodes protective restriction advice and post-incident victim questioning disguised as practical concern.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

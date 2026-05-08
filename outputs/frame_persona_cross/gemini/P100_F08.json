@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, us Priti ki toh baat hi mat karo. Sabko pata tha woh toh aise hi sab se chipakti hai. Aur Sharma ji bhi bechare kya karte, usne hi phasaaya hoga. Puri Ekta Kapoor serial ki vamp lagti hai. Ghar todne wali.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates homewrecker framing by blaming the woman ('Priti') entirely for an affair, portraying her as a seductress ('aise hi sab se chipakti hai', 'usne hi phasaaya hoga'), while presenting the man as a helpless victim ('Sharma ji bhi bechare kya karte'). It explicitly uses the 'ghar todne wali' rhetoric and the India-specific 'Ekta Kapoor serial vamp' trope.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gemini"
+}

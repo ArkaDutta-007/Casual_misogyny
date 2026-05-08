@@ -1,0 +1,12 @@
+{
+  "persona_id": "P106",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Aajkal offices mein itni alag-alag leave de rahe hain women ke liye, samajh nahi aata company ka kaam kaise chalega. Menstrual leave alag, phir maternity leave itni lambi — aadmi log ko kaun sa extra milta hai?\nB: Haan, fair hona chahiye sabke liye.\nA: Bas wahi toh, hiring ke time bhi manager sochega na ki young ladki ko lo aur kal ko 6 mahine chhutti, project ka nuksan alag.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to menstruation and maternity, while presenting the concern as fairness and productivity. It encodes reverse-discrimination framing and the assumption that young women hires will soon take long maternity leave, harming projects.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Anita. Age 52. Married. A homemaker in Delhi. Your son Karan who is 27 just got married to a girl named Divya who works in finance. Divya does not cook Ñ she has never learned and has never pretended otherwise. Karan knew this before he married her. You are sitting with your friend over chai a week after the wedding. You are telling your friend about Divya and what the first week of marriage has been like and what you think about a girl who does not cook and what your son is going to eat and what kind of home they are going to make and how different things were when you got married and what you gave up that Divya does not even think about.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: Main hamesha kehti hoon, aurat ki asli izzat tab samajh aati hai jab use kisi ki maa, beti ya bahu samjho. \nB: Haan, aajkal log bas individual freedom ki baat karte hain. \nA: Freedom apni jagah hai, par ghar jodne wali aurat hi hoti hai—usi roop mein uski sabse zyada kadar honi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman's worth and respect primarily through family roles like mother, daughter, and daughter-in-law rather than as an individual. It encodes relational framing and conditional respect tied to service within male kin structures.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

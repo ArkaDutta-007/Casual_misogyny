@@ -1,0 +1,10 @@
+{
+  "persona_id": "P127",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Arre Ritu, sun meri baat — jo ladka abhi bolte hain 'main bhi karunga, tum bhi karo,' woh sab shaadi se pehle ki baatein hain, beti. Teen mahine mein dekh lena, woh apni naukri aur thakan ka bahana lekar baithega, aur ghar tera hi rahega. Aur ghar bhi tabhie achha chalta hai jab ek haath mein reins hon — agar tum dono aadha-aadha sochoge toh na roti time pe banti hai, na mehman ka swagat dhang se hota hai. Yeh jo tum khush ho rahi ho, isme khushi nahi hai — ek aurat ka ghar sambhalna kamzori nahi, zimmedari hai, aur zimmedari nibhane mein sharam kaisi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla frames women's primary domestic responsibility as natural, practical, and honorable — not as an imposed constraint — masking the gender norm enforcement as wisdom and experience. This encodes the 'practical essentialism' surface manifestation of casual misogyny, where unequal labor division is justified through household efficiency and inevitability rather than explicit denigration.",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "claude"
+}

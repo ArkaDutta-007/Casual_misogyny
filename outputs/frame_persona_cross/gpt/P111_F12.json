@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre beta, aajkal ke ladke har baat mein maa-behen wali gaali bol dete hain aur phir kehte hain bas muh ki baat hai, itna serious mat lo. Jab kisi ko neecha dikhana ho to aurat se juda shabd hi kyun nikalta hai, yeh bhi sochna chahiye, par unko lagta hai bina aise bole mardangi hi kam ho jayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker criticizes the normalization of female-body/chastity-rooted abuse but also reproduces the gendered logic by framing such language as tied to masculinity and using women-linked terms as the axis of insult. It encodes the meta-conversation around 'it's just a word' defenses and the feminizing/sexualized structure of abuse.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P069",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, I always feel men behave better when they remember every woman is someone’s daughter today and someone’s wife or mother tomorrow. Basic respect should come from that understanding only — otherwise people forget a woman’s real value in society.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s worth and entitlement to respect through relational roles to others rather than as individuals. It encodes conditional respect via daughter/wife/mother rhetoric, a classic surface manifestation of this frame.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "gpt"
+}

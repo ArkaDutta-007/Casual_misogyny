@@ -1,0 +1,12 @@
+{
+  "persona_id": "P198",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, Indian men should start insisting on prenups, but here even suggesting that makes you the villain. Aajkal one-sided laws and 498A misuse have made marriage risky for men too, and then after divorce the guy is expected to keep paying like he's an ATM. Not saying every woman is like that, but let’s stop pretending there aren’t many who see marriage mainly as financial security.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative in marriage and divorce while presenting men as the primary victims of biased laws. It encodes victimhood inversion, 498A misuse rhetoric, and the idea of alimony/prenups as protection from 'gold digger' women.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as a software engineer in Pune. Your parents spent a significant amount on your wedding Ñ jewellery, a car, cash, the ceremony itself. You know the number. You have known it since you were a child because your father mentioned it once when you were 14 in a moment of stress and you never forgot it. You are posting anonymously on Reddit after your father-in-law made a comment at a family function that implied your parents did not give enough. You are sharing what he said, what you know about what your parents gave, and what it feels like to exist in a system where your marriage is a financial transaction your parents entered and your in-laws are still auditing.",
+  "source_model": "gpt"
+}

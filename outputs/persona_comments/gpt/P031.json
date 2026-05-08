@@ -1,0 +1,10 @@
+{
+  "persona_id": "P031",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Sorry but this is exactly why many men are scared of marriage now. 2 saal kaam karke 8 saal ki shaadi ke baad 50% assets maangna kaise fair hai? Aaj kal kuch women marriage ko partnership se zyada lifetime settlement samajh leti hain, then people ask why men talk about prenup.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes from one divorce case to women broadly, framing women as opportunistic and implying they marry for financial gain. It encodes the 'alimony as reverse dowry/prenup' frame through suspicion of women's motives in marriage.",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre Anita, these days children say anything in anger and then talk about respect for women.\nB: Haan, exactly. Then if someone objects they say, \"it is just a word, everyone says it,\" but why is every insult dragged through some mother-sister reference or by calling a man woman-like?\nA: Bas, that is what I say. If it is harmless, then why is being compared to a woman treated like such a big insult?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes and discusses a linguistic system where women and femininity are used as the basis for insult, even while sounding reflective. It encodes the frame's meta-conversation about common gaalis, the 'it's just a word' defense, and feminizing-as-insult structure.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

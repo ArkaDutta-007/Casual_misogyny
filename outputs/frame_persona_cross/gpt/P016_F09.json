@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Sir, ladkiyon ko bhi thoda practical rehna chahiye, zamaana theek na hai aajkal.\nB: Matlab?\nA: Matlab raat mein akeli ghoomna, ajeeb side pe jaana, phir kuch ho jaaye toh pehle yahi poochna padta hai na ki itni der se bahar kyun thi. Apna khayal rakhen, group mein niklen, tabhi safe rahengi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes questioning their behavior after harm instead of focusing on male violence. It encodes protective framing, restriction advice, and post-assault victim questioning as 'practical' common sense.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

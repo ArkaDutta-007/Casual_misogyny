@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, another insane shift. Honestly, all I want right now is maa ke haath ka simple dal-chawal. She's just... she never complains, always asks if I've eaten, even at this hour. That's the real magic, na? It's not just food, it's that unconditional love. I don't know how anyone else can live up to that. My future wife will have huge shoes to fill in the kitchen department, for sure!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking, constant care) by erasing it as 'unconditional love' rather than work. It then uses this idealized, sacrificing image as an explicit standard for a future wife, reinforcing the core belief that a woman's value is tied to domestic service and self-sacrifice. It encodes 'Glorifying mothers' daily cooking while not recognizing it as labor' and 'Comparing wives unfavorably to mothers on cooking/domestic standards'.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gemini"
+}

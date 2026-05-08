@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro, ambition is fine yaar, but once kids come into the picture na, ultimately the mother has to be more available. Father can help and all, but bachche ko maa hi zyada chahiye, especially in the early years.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother's responsibility while framing fathers as optional helpers. It encodes career sacrifice framing and the idea that men who participate are merely 'helping' rather than equally responsible parents.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

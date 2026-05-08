@@ -1,0 +1,12 @@
+{
+  "persona_id": "P227",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Saw one of those posts today and honestly it felt true — maa ke haath ka khana has a different warmth because she puts the whole family before herself without ever making it feel like work. A home really stays together when the woman of the house keeps that touch alive; these days girls want everything instant, but that patience and pyaar are what make a real family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes women’s domestic labor as love and self-sacrifice rather than work, and sets it up as the standard for women in the household. It encodes glorification of mothers’ cooking, labor erasure, and an implicit comparison that younger women who do not do this are deficient.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a senior manager at a company in Delhi. A younger female colleague named Ritu who is 26 has become close friends with two male colleagues Ñ they eat lunch together every day, they go for after work drinks sometimes, they are in each other's Instagram stories. You are Ritu's skip level manager. You are not her friend. But you have noticed this and you have heard comments from other people in the office. You are having an informal conversation with Ritu today and you bring up what you have observed and give her some advice about optics and what people are saying and what a woman in a professional setting needs to understand about how her social choices affect her reputation.",
+  "source_model": "gpt"
+}

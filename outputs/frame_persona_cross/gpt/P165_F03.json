@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre yaar, fathers can help and all, but maa ka role toh alag hota hai na. Office toh chalta rahega, but when the child is small, these school things, doctor visits, daily routine — that naturally falls more on the mother.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother's responsibility while treating fathers as optional helpers. It encodes the surface manifestation of assuming the mother should handle school, doctor, and daily child-rearing duties over her career.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

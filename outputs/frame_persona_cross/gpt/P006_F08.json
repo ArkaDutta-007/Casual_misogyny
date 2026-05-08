@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bhai aise cases me sab log aadmi ko blame karte hain, but agar usse pata tha ki banda married hai toh dur rehna chahiye tha na. Seedha ghar todne wali vibe hai, bilkul serial wali story.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment shows blame asymmetry by focusing on the woman as responsible for preventing the affair and describing her as a 'homewrecker' while minimizing the man's accountability. It encodes seductress/homewrecker framing and the 'she knew he was married' trope.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

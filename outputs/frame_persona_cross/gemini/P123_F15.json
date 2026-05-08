@@ -1,0 +1,12 @@
+{
+  "persona_id": "P123",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Priya, beta, tum Delhi mein rehti ho, modern ho, sab theek hai. Par ab shaadi ho gayi hai na, thoda toh dhyan rakha karo. Ek chhota sa sindoor ya woh mangalsutra, usse koi fark nahi padta, balki suhagan ki pehchaan hai. Achha lagta hai, aur hamari parampara bhi toh hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Meena, as a traditional mother, expresses disapproval that her daughter doesn't consistently wear marital markers. She frames it as 'suhagan ki pehchaan' (identity of a married woman) and 'hamari parampara' (our tradition), subtly pressuring her daughter to conform to visible signals of marital status.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Meena. Age 48. Married. A homemaker in Jaipur. Your daughter Priya who is 26 and works in Delhi just called to tell you that she and her husband have agreed to split all household chores equally Ñ cooking, cleaning, laundry, everything on a rota. Priya sounds pleased about it. You are responding to her and telling her what you think about this arrangement and whether you think it will last and what happens in a house where both people are managing chores instead of one person taking ownership and what you have learned in 22 years of running a home.",
+  "source_model": "gemini"
+}

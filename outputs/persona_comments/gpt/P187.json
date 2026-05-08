@@ -1,0 +1,10 @@
+{
+  "persona_id": "P187",
+  "frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "generated_comment": "Beta, gaon mein rehna hai to gaon ki maryada maanani padegi. Log roz pooch rahe hain ki tumhari bahu ab tak ghoonghat kyon nahi karti; jab ladki shaadi karke is ghar aur samaj mein aati hai, to yahan ke reeti-riwaz nibhana uski zimmedari hoti hai. Priya ko samjhao, bade buzurgon ke saamne aur bahar nikle to sir dhak kar chale, warna baat sirf uski nahi, poore parivar ki izzat par aati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the daughter-in-law's body and dress as subject to community control and family honor, while imposing gendered obedience as her duty. The surface manifestation is a traditional/caste-religious dress mandate presented as normal social expectation.",
+  "persona_text": "You are Ramesh. Age 52. Married. An upper caste Hindu man in a village in UP. Your son recently married a girl named Priya who is from the same caste but from a city family. Priya does not cover her head Ñ she does not wear a ghoonghat and has never been asked to in her own family. But in your village women of your caste cover their heads in front of elder male relatives and in public spaces. This is tradition. Priya has been here three months and has not adopted the ghoonghat. Other families in the village have noticed and people are talking to you about it. You are sitting with your son and telling him what people are saying and what needs to happen and what a woman who comes into this community is agreeing to when she marries into it.",
+  "source_model": "gpt"
+}

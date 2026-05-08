@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Ananya: Main seriously nahi samajhti ki log har baat pe issue kyun bana dete hain. Office mein ladke kabhi woh common BC-MC type short forms bol dete hain, par iska matlab thodi hota hai ki woh kisi ki maa-behen ko target kar rahe hain.\nHusband: Haan, bas aadat hoti hai.\nAnanya: Exactly, bas expression hai. Aur waise bhi agar kisi ladke ko bol dein ki itna mat ro, thoda strong bano, usme bhi ab log sexism dhoondh lete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker normalizes female-degrading abuse as 'just expression' and dismisses concerns about its misogynistic structure. It also encodes feminizing weakness ('mat ro, strong bano') as an insult, matching the frame's normalization and defensiveness.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

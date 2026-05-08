@@ -1,0 +1,12 @@
+{
+  "persona_id": "P164",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Kamla: Arre beta, aajkal ke ladke jo muh mein aata hai bol dete hain, har baat mein maa-behen ko ghaseet dete hain, par woh bas gusse ki boli hai, itna pakadne ki zarurat nahi.\nSon: Par Ma, galat to hai na?\nKamla: Galat hoga, lekin sab jagah chalta hai. Ladkon ki baat ko itna dil pe loge to ghar kaise chalega, aur mard hokar itni chhoti baat par roothna bhi theek nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in women’s bodies/relations as 'just angry speech' and dismisses concern about it. It also encodes feminizing weakness by implying a man should not be upset by such language.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gpt"
+}

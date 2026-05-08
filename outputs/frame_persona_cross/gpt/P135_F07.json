@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "When our girls come in saree or even a neat salwar, there is a certain dignity about them; it reflects our culture and people naturally respond with more respect. These very western, flashy outfits only draw unnecessary attention, and then the same girls complain that others are looking.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and suggests harassment or unwanted attention is caused by what she wears. It encodes the 'traditional dress = respectable' framing and subtly blames women in western clothes for being looked at.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

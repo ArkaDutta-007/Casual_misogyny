@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: I told him very clearly I wasn't interested, and he kept saying, \"Don't be so rude, just coffee.\" \nB: And when my husband came to pick me up, suddenly his tone changed completely — \"Oh, sorry ma'am, I didn't know.\" Funny how my no was negotiable, but another man's presence made it final.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it depicts a woman's refusal being ignored until a male partner appears, showing that male attachment is treated as more legitimate than her own consent. It encodes the surface manifestation of harassment stopping only when a husband or male claimant is visible.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gpt"
+}

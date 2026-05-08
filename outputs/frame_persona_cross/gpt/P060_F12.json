@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Sana, beta, these days you children say all these dirty abuses so casually and then laugh, but every other word is about someone's mother or sister only. Phir bolte ho, 'it's just expression,' but alfaaz matter karte hain. A decent girl should not make such language normal, and even boys should be told not to speak like that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker criticizes abusive language but reinforces a gendered double standard by saying 'a decent girl should not' use it, linking female respectability to modest speech. This encodes the meta-conversation around normalized gaalis while reproducing respectability-based misogyny.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

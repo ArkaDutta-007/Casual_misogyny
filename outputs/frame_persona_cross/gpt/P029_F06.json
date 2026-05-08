@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Ashok: I had spoken to that lady once or twice, but she kept being rather cold. Later I came to know she is already committed, so naturally I stepped back—one should respect that. \nBatchmate: Hmm. \nAshok: If she had just said that clearly in the first place, there would have been no awkwardness.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he frames the woman's being 'already committed' as the real reason to stop, rather than respecting her prior disinterest. It encodes the surface manifestation of ignoring a woman's refusal/coldness until a male attachment is known, presented as polite respectability.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

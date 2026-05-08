@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, tum log har baat pe lecture dene lagte ho. Muh se do-chaar gaali nikal gayi to iska matlab thodi hai ki kisi aurat ko bol raha hoon.\nB: Par aisi gaaliyan auraton par hi banti hain.\nA: Ab sab purane lafz chal rahe hain, unko itna serious loge to baat kaise hogi? Gussa dikhane ka tareeka hai bas, aur ladka ho ke itna naram mat bano.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-demeaning gaalis as harmless everyday expression and dismisses concerns with 'it's just a word.' It also encodes feminizing softness as an insult through 'ladka ho ke itna naram mat bano,' matching the frame's masculinity-femininity coding.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gpt"
+}

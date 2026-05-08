@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "अरे नहीं भई, मास्टर तो कह गए लखनऊ भेज दो, पर हमारी लड़की है, अकेले इतने बड़े शहर में कैसे रहेगी? तुम खुद बताओ, आजकल ज़माना अच्छा थोड़ी है? वहां कोई देख-रेख वाला भी नहीं, फिर अगर कुछ हो जाए तो बदनामी हमारी ही होगी ना? लड़की का ख्याल रखना तो हमारा फ़र्ज़ है।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh, a rural farmer, explains why his daughter cannot go to college in Lucknow. He frames his decision as protective, citing 'zamaana kharab hai' and fear of 'badnami' (dishonor) if 'something happens' to her, thus placing the responsibility for her safety and the family's honor on her restricted presence, rather than on societal issues or male behavior. This encodes the surface manifestation of 'parental/familial restrictions framed as love/protection' and 'Aajkal zamaana kharab hai'.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gemini"
+}

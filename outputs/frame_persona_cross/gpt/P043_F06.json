@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre, aajkal ki ladkiyan seedha na bol deti hain, phir bhi ladke samajhte nahin. Par agar pata chal jaaye ki uska koi boyfriend hai, tab peeche hat jana chahiye, woh zyada theek lagta hai.\nB: Haan, warna beizzati hi hoti hai.\nA: Bas, ladki ke mood se zyada yeh dekhna padta hai ki woh kisi ke saath hai ya nahin.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own refusal as less decisive than her attachment to another man. It encodes the frame through the contrast between ignoring her direct 'no' and only backing off once she is understood to be 'with' someone.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

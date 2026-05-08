@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arey, Rohan, why are you getting so worked up? Yaar, that's just how guys talk, it's not like he actually meant anything bad about some woman. It's just a strong word, like 'damn it'. We all say it; it's just an expression, not some deep insult.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This comment normalizes the use of female-demeaning gaalis by defending them as 'just an expression' and 'how guys talk', dismissing the inherent misogynistic structure and denying any malicious intent towards women, a classic surface manifestation of this frame.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gemini"
+}

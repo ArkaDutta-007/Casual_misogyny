@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Nowadays, everyone speaks about women's independence and all. But I always tell, a woman's real strength, her true dignity, it's in how she nurtures her home, how she raises good children. That's the respect she earns, not just from society, but from God also.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly frames a woman's 'real strength' and 'true dignity' as primarily stemming from her roles as a homemaker and mother ('nurtures her home, raises good children'), making her respect conditional on these relational identities. It aligns with the surface manifestation of valuing a woman's opinion more when she speaks as a mother and describing women's worth in terms of what they mean to men/family structures.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gemini"
+}

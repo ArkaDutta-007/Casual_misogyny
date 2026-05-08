@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Deepa: Arre beta, aajkal ladkiyan chhoti baat par itna gussa ho jaati hain, kabhi kabhi lagta hai bas hormones hi bol rahe hote hain. Ghar ho ya office, us time thoda shaant rehna chahiye, warna baat ka batangad ban jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's anger and reactions as driven by hormones rather than valid thoughts or feelings. It encodes the frame by attributing women’s emotional responses to 'hormones' and portraying them as less rational.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

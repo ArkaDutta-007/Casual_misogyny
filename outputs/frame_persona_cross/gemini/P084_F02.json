@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar Ahmed, meri begum subha se full mood mein hai. Lagta hai 'wo din' aa gaye. Bole toh abhi kuch bolna nahi, bas sunte jao. 🤦‍♂️",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Mohammed attributes his wife's 'full mood' (implying irritability or anger) to her menstrual cycle ('wo din' - those days), dismissing her emotional state as biologically determined and therefore less valid. This encodes the belief that women are controlled by their hormones.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, for us, it's just about playing to our strengths. My wife is super organized with the home, managing the maid, groceries, kids' schedules – she's just naturally good at it. I handle the investments, bills, and anything that needs going out or heavy lifting. It works best. No point in forcing someone to do something they're not efficient at, right? That's just practical. We didn't really 'divide' it, it just evolved this way naturally, saves a lot of arguments.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment frames the traditional gendered division of labor (household/childcare for wife, finances/external for husband) as a natural, efficient, and practical arrangement. It uses phrases like 'playing to our strengths,' 'naturally good at it,' and 'it just evolved this way naturally' to rationalize the division, typical of the 'Gendered Division of Chores via Practicality' frame.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gemini"
+}

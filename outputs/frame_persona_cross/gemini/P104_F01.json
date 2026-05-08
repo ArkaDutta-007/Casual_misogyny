@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I'm all for supporting colleagues, but sometimes these 'special leaves' for women, like extended maternity or even period leave... matlab, it just puts extra burden on the team, right? Project deadlines don't wait. Aur phir appraisal ke time, if someone's on extended leave, it’s bound to impact their performance score. It's not fair to the men who are constantly covering for them.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic because it frames women's reproductive choices and biological needs as an unfair 'burden' on male colleagues and the organization. It uses 'fairness' and productivity arguments to question accommodations like maternity and menstrual leave, encoding reverse discrimination against men and implying women exploit these policies, which aligns with the core belief of women's biology being a workplace liability.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

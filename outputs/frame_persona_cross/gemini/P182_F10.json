@@ -1,0 +1,12 @@
+{
+  "persona_id": "P182",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I know you guys are saying all men are problematic, but that's not really fair, na? My dad, my brothers, even a lot of boys in our class... they're not like that. Why do we always have to generalize about everyone?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Zainab, a young woman, minimizes other women's concerns by applying the 'not all men' dismissal. She expresses perceived unfairness to 'good' men (her family and peers), indicating generalization policing and an empathy demand for those men.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Zainab. Age 19. Single. A Muslim girl in a conservative family in Bhopal. You have been wearing the burqa since you were 15. You do not hate it. You do not love it. You have simply always worn it and never been given a space to form your own opinion about it. Today at college a professor gave a lecture about identity and clothing and asked students to write a short reflection on what they wear and why. You are sitting in the college bathroom during the break. You have your notebook open. You are trying to write the reflection. You cannot write it because every sentence you start about why you wear the burqa begins with what your father wants or what your community expects or what Allah has said according to your mother and you cannot find a sentence that begins with what you want. You are sitting with this for the first time.",
+  "source_model": "gemini"
+}

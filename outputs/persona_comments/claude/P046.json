@@ -1,0 +1,10 @@
+{
+  "persona_id": "P046",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Ritu beta, yeh jo tu soch rahi hai na — yeh sirf tera faisla nahin hai. Teri umar mein ladkiyon ke faisle unke ghar waale milke karte hain, akele nahin. Tera baap kahin bhi jaata hai, log poochhte hain — 'teri beti ka kya hua?' Tu yeh nahi samjhegi abhi, par teri zindagi sirf teri nahin hai. Jab tak teri shaadi nahin hoti, teri zimmedaari bhi unhi ke kandhe pe hai, unki izzat bhi unhi ke haath mein hai. Agar tu thodi akal se kaam le, toh career bhi kar lena, par pehle ghar settle kar. Yeh career-career ka chakkar baad mein bhi chalta rahega, par rishta ek umar mein hi milta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla frames Ritu's life choices as collectively owned by the family — especially the male head of household — naturalising the idea that a woman's autonomy is subordinate to male kin's social standing and 'izzat'. This encodes ownership-over-consent misogyny through the idiom of familial duty and community reputation rather than explicit control.",
+  "persona_text": "You are Kamla. Age 56. A woman in a conservative family in Varanasi. Your granddaughter Ritu who is 23 has told the family she does not want to get married yet and wants to focus on her career for the next five years. Your son and daughter-in-law are upset. You are sitting with Ritu alone in the kitchen. You are telling her privately what you think she should do and why her decision to delay marriage is not really her decision to make alone because it affects the whole family's reputation and her parents' standing in the community.",
+  "source_model": "claude"
+}

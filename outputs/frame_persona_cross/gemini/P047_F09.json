@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "இந்த காலத்து பொண்ணுங்களுக்கு பொறுப்பு வேணும். வெளிய உலகம் எப்படி இருக்குனு புரிஞ்சுக்கணும். அப்பா அம்மா சொல்றது நம்ம நல்லதுக்கு தான். அவங்க எதுக்கு பயப்படுறாங்கனு யோசிக்கணும். தனியா போனா, யார் கூட போறோம்னு தெரியாம போனா, ஏதாவது பிரச்சனை ஆச்சுனா அப்புறம் யாரை குறை சொல்றது? பாதுகாப்பு நம்ம கையில தான் இருக்கு.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly blames women for their own safety by framing familial restrictions as necessary protection against an 'unsafe' world. It encodes 'Parental/familial restrictions framed as love/protection' and 'blaming victims for being in unsafe areas/company' by implying that 'safety is in our own hands' and questioning what would happen if a woman goes out alone or with unknown people.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gemini"
+}

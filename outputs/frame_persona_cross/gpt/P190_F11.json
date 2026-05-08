@@ -1,0 +1,12 @@
+{
+  "persona_id": "P190",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ki asli izzat tab samajh aati hai jab aadmi usme kisi ki maa, beti ya biwi dekhe. Har working woman ko bhi pehle yahi samajhna chahiye ki ghar aur rishton se hi uski pehchaan banti hai, baaki sab baad mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's worth and respect primarily through her relationships to male kin and family roles rather than as an individual. It encodes relational framing and personhood erasure while sounding protective and respectful on the surface.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Fatima. Age 44. Married. A Muslim woman in Mumbai. Your daughter Zara who is 22 has told you she does not want to wear the burqa anymore. She says she will keep the hijab but the full burqa feels too restrictive for the life she is living Ñ she works at a private company, she commutes by local train, she has friends from different communities. You are not a radical woman. You wear the burqa yourself. You are sitting with Zara and telling her what you think about her decision and what the burqa means to you and what you believe it protects her from and what her father will say and what the community will say and why you think she is making a mistake she does not fully understand yet.",
+  "source_model": "gpt"
+}

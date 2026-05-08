@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Ramesh: Arre bhai, aurat ka kaam hi bachcha sambhalna hota hai, mard din bhar kheton mein rahe ya bahar daudein. Aaj kal ki auratein do din mein bolti hain thak gaye, par maa ko toh bachche ka sab dekhna hi padta hai.\nBrother: Haan, maa hi sambhale toh ghar theek chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This naturalizes childcare as inherently women's work and excuses men from equal responsibility. It encodes the frame that childrearing and domestic labor are primarily the mother's duty, presented as common sense rather than hostility.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

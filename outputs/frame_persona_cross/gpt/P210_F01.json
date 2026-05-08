@@ -1,0 +1,12 @@
+{
+  "persona_id": "P210",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho toh company ko bhi balance karna padta hai na. Har mahine period leave, phir shaadi ke baad maternity leave, childcare leave — itna sab hoga toh manager project kis hisaab se de? Phir appraisal time pe bolte hain women ko equal chance nahi milta, par practical problem bhi toh hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and reproductive roles as a workplace burden and a justification for limiting opportunities. It encodes fairness/productivity concerns and the idea that maternity or menstrual accommodations make women a liability.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Meena: Suno ji, aajkal ke zamaane mein ladkon ko bhi sambhal ke chalna chahiye. Shaadi ke baad zara si baat hui nahi ki seedha alimony, 498A, aur aadmi ki saari jama-punji chali jaati hai.\nHusband: Haan, cases toh bahut sunne mein aa rahe hain.\nMeena: Isliye main kehti hoon, Karan ko abhi se samjha do, dil se nahi sirf, dimaag se bhi chale. Aajkal bahut ladkiyan stability ke naam pe bas settled ladka dekhkar shaadi karti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially opportunistic and implies misuse of 498A/alimony laws against men. It encodes concern-for-men's-rights framing, legal victimhood inversion, and generalization about 'aajkal bahut ladkiyan' being after a settled man's money.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

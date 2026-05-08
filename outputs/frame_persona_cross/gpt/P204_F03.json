@@ -1,0 +1,12 @@
+{
+  "persona_id": "P204",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre beta, job karna achhi baat hai, but bachche ho jaayen toh maa ko thoda priority badalni padti hai. Papa kitna bhi achha ho, bachchon ko maa hi sambhalti hai properly. Career toh baad mein bhi ho sakta hai, bachpan wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames childcare as naturally and primarily the mother's duty while treating the father's role as secondary. It encodes career sacrifice framing and the assumption that women must deprioritize work once children arrive.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepa. Age 52. Married for 28 years. A homemaker in Delhi. Your daughter in law Priya came to you two weeks ago and told you something about your son Ñ something about what happens at night in their room when she says no. You did not know what to say. You told her to be patient, that these things happen in marriages, that she needs to understand her husband's needs. Priya has not come back to you since. You are sitting alone in the kitchen tonight thinking about what Priya told you and what you said and whether what you said was right and whether what your son is doing has a name and whether that name changes anything and what you would lose if you admitted it does.",
+  "source_model": "gpt"
+}

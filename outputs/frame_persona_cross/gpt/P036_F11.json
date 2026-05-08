@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Dekhiye, main hamesha kehta hoon women ki respect honi chahiye, because har aurat kisi na kisi ki maa, beti ya bahu hoti hai. Jab aadmi yeh samajh lega ki ghar ki aurat hi parivaar ki asli izzat hoti hai, tab society automatically better ho jayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s worth and entitlement to respect through their relationships to family roles rather than as independent persons. It encodes relational framing and conditional respect via 'maa, beti ya bahu' and 'parivaar ki asli izzat.'",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "These days people talk about women empowerment, and that is fine, but we must never forget a woman’s highest place is as the mother who shapes the next generation. A lady is not just an individual running after personal ambition; she is someone’s daughter first, then wife, then mother, and society remains strong only when we respect her in those roles. That is our culture, and frankly, it gives women the dignity they deserve.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sounds respectful but defines women primarily through family roles rather than as full individuals. It encodes relational framing and conditional respect based on being daughter, wife, and mother.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

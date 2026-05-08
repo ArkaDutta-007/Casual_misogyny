@@ -1,0 +1,12 @@
+{
+  "persona_id": "P152",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Mujhe toh lagta hai us aurat ki hi galti thi. Usse toh pata hi tha na ki woh aadmi shaadi-shuda hai, bachche hain uske! Agar woh thodi si bhi izzat-daar hoti toh aise rishte banati hi nahin. Bechara woh toh bas fas gaya, yeh toh ghar todne wali aurat hai bilkul. Families aise hi kharab hoti hain, TV serial mein bhi toh aise hi dikhate hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, using 'ghar todne wali' (homewrecker) rhetoric, while framing the man as 'bechara fas gaya' (poor guy just got trapped), demonstrating clear blame asymmetry and male victimhood, consistent with Homewrecker Framing.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Sunita. Age 48. Married for 24 years. A woman who worked for six years before stopping when her first child was born. You are at a family function sitting with three other women your age. One woman mentions that her daughter in law has just gone back to work full time when her child is only eight months old. The conversation opens up. You are giving your opinion on women who return to work this early and what it means for the child and what you think women of this generation have confused about what ambition is supposed to look like and what you gave up and whether you regret it.",
+  "source_model": "gemini"
+}

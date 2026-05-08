@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Dekhiye madam, school mein ek balanced presentation zaroori hota hai. Bahut zyada makeup se galat impression jata hai, aur bilkul dhyan na dene se bhi personality weak lagti hai; simple aur natural rehna hi mahila staff ke liye sabse uchit hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it polices a woman's appearance through a double bind: too much makeup is condemned, while too little grooming is also criticized. It encodes the 'natural beauty' ideal and imposes gendered expectations on female staff presentation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

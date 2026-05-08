@@ -1,0 +1,12 @@
+{
+  "persona_id": "P229",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre, office jaane ke liye thoda theek lagna alag baat hai, par aajkal ki ladkiyan itna makeup kar leti hain ki asli chehra hi pata nahi chalta. Aur bilkul kuch na karo to bhi achha nahi lagta, apna khayal bhi rakhna chahiye — sab natural aur saaf-suthra ho to zyada accha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it places women in a double bind: too much makeup is framed as deceptive, while too little grooming is criticized as not taking care of oneself. It encodes the 'natural beauty' ideal and appearance policing central to the makeup paradox.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Sunita. Age 46. Married. A homemaker in Jaipur. Your son Karan who is 24 just came home and mentioned casually that he went for lunch with three female colleagues and then they all went to a cafe afterward. You smiled and said that sounds nice. Ten minutes later your daughter Meena who is 21 mentioned that she went for lunch with two male classmates from her project group. Your reaction to your daughter's lunch is completely different from your reaction to your son's lunch. You do not notice the difference. Your daughter does.",
+  "source_model": "gpt"
+}

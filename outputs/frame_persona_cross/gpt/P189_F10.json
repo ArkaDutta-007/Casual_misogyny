@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar har baat mein sab mardon ko suspect karna bhi theek nahi hai. Main khud itni women colleagues ke saath kaam karta hoon, kabhi kisi ko uncomfortable feel nahi karaya, phir bhi aise bolo jaata hai jaise har aadmi threat ho. Thoda fair bhi socho, mard bhi bina wajah judge hote hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's safety concerns by centering male hurt and insisting that women are unfairly generalizing about men. It encodes the 'not all men' response, self-exemption as a 'good guy,' and the deflection that men are the ones being judged unfairly.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

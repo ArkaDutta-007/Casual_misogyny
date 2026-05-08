@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Beta, salwar kameez ya kurti mein tum zyada decent lagti ho, aur hamare yahan bhi wahi achha samjha jata hai. Aaj kal college mein log kapdon se hi baat bana lete hain, phir ladke ghoorte hain toh ladki ko hi bura lagta hai. Thoda apni maryada aur family ka bhi socha karo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and decency to traditional clothing and subtly blames harassment on what women wear. It encodes the dress-policing and harassment-link surface manifestations using family reputation and maryada framing.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P178",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre beta, office jaati ho to theek hai, par thoda sa sindoor aur mangalsutra pehen liya karo. Shaadi-shuda aurat par yeh sab bahut suhaata hai.\nB: Mummy, zaroori thodi hai.\nA: Zaroori ka matlab majboori nahi hota, yeh hamari parampara hai. Aurat shaadi ke baad in chhoti chhoti baaton se hi poori lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as what makes a married woman look 'complete,' tying her identity to wifehood in a culturally normalized way. It encodes tradition framing and subtle judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Meena. Age 44. Married for 20 years. A homemaker in Jaipur. You have been managing the household budget for two decades Ñ groceries, utilities, school fees, medical expenses, everything. You know exactly where the money goes and where it can be saved. Your husband has called a family meeting to discuss finances because things have been tight. He has invited his brother and his brother's wife. You are in this meeting. When you try to share specific observations about where the budget is bleeding your husband says let the men talk first and we will hear from you after. You are sitting with this sentence for a moment. What you do next Ñ whether you wait, whether you speak anyway, whether you leave the room Ñ and what you say to your sister on the phone tonight about what happened is the content of this persona.",
+  "source_model": "gpt"
+}

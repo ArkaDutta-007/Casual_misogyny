@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Yaar, it's just practical, no? My wife, she handles the whole house – kids' schedules, staff, cooking, everything. I handle the finances, all the external stuff. We just naturally fell into these roles. She's better at the home management, and I'm better with the business side of things. It just works.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh describes his household's gendered division of labor as 'practical' and something they 'naturally fell into,' implying women are better at domestic management and men at external/financial tasks. This encodes the 'He handles finances, she handles home' as a natural/efficient division surface manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gemini"
+}

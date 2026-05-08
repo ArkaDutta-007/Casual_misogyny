@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, married tha woh aadmi, yeh sabko pata tha. Phir bhi itni closeness rakhna with him is not innocent yaar.\nB: Haan, but affair mein dono ki galti hoti hai na?\nA: Dekh, aadmi kabhi kabhi behak jaata hai, but aisi aurat hi ghar tudwati hai. Bilkul serial wali baat hai, she knew exactly what she was doing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shows blame asymmetry: the man is excused as someone who 'got carried away' while the woman is framed as knowingly breaking a family. It encodes homewrecker framing, seductress logic, and the 'she knew he was married' justification.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

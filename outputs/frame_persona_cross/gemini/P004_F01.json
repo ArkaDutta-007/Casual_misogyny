@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, do candidates hain – one boy, one girl. Both equally qualified, no doubt. But for a senior field sales role, if the girl gets married next year and then maternity leave ka scene hua, matlab company has to bear the cost, aur targets ka kya? Plus, long gap ke baad aake catch-up karna bhi mushkil hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, spoken casually by a regional manager, assumes a female candidate's future maternity leave as a direct liability for the company in terms of cost and productivity, despite equal qualifications. It reflects the surface manifestation of 'assuming a newly hired young woman will go on maternity leave soon anyway' and uses economic framing.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

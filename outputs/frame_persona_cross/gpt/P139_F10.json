@@ -1,0 +1,12 @@
+{
+  "persona_id": "P139",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bhai, har aadmi ko aise mat dekho like he is a threat. Kuch log galat hote hain, lekin sab mard ko same brush se paint karna bhi theek nahi hai. Main toh hamesha respect se baat karta hoon, phir women crossing the road or acting scared for no reason feels insulting only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and centers male feelings of being unfairly judged rather than acknowledging why women may be cautious. It encodes the 'not all men' response, self-identification as a 'good guy,' and frames women's safety behavior as an insult to men.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gpt"
+}

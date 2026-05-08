@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I understand women face issues, but this 'can't trust men' narrative is getting too much. Sab log ek jaise nahi hote na. Hum jaise log bhi hain jo respect karte hain. Toh ab humse bhi darr ke rahenge sab? Thoda toh fairness hona chahiye, yaar.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's collective concerns about male behavior by invoking the 'not all men' trope ('Sab log ek jaise nahi hote na'). It expresses a feeling of personal insult ('Toh ab humse bhi darr ke rahenge sab?') and demands 'fairness' for men who consider themselves 'good guys', aligning with the core belief of F10.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P021",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Honestly yaar, I've been here 6 years, delivered consistently on every single project, and somehow Priya who joined 2 years after me gets senior manager. I'm not saying she's incompetent but let's be real — the firm has been under pressure to show 'diversity numbers' and suddenly she's the chosen one. It's frustrating when you see merit being sidelined for optics, and the worst part is you can't even say anything because then you're the villain. The work I did on the Bangalore account alone should have been enough.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the 'she only got it because she's a woman' trope by framing the promotion as driven by diversity optics rather than merit, implicitly denying the female colleague's competence without using overt slurs. This reflects a classic covert misogynistic framing that positions the male speaker as a neutral victim of systemic unfairness while delegitimising women's professional advancement.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "claude"
+}

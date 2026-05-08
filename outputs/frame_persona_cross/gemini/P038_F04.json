@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Are Devidas, did you see that new Gram Sevika? She's always giving orders, shouting at everyone like she's a man. Not a hint of shyness or softness. And honestly, *kashामुळे mila tila te pad* (how did she get that position)? Her father-in-law is from the district council, no? These days, women in power... it's rarely just their own doing.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker questions the new Gram Sevika's competence and promotion, attributing it to her father-in-law's connections rather than merit. He also criticizes her for being 'like a man' (not shy, not soft), implying a deviation from traditional femininity is required for power, thus encoding the 'masculinization' and 'merit undermining' manifestations of this frame.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gemini"
+}

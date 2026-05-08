@@ -1,0 +1,12 @@
+{
+  "persona_id": "P148",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar Rahul, chill. It's just how we guys talk, you know? Not like we actually mean anything by it, sab normal hai.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment normalizes the use of gaalis by dismissing their inherent misogynistic structure. It directly enacts the surface manifestation of 'defending gaali use as 'just expression, not actually about women'' and 'not recognizing the misogynistic structure of common slang'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rohit. Age 24. Single. A medical student in Pune. You are in a WhatsApp group with seven male college friends. Someone has shared a photo of a female classmate at a college event. She is dark skinned and wearing a bright yellow outfit. The comments in the group have already started. You are adding your comment. You are anonymous within the group Ñ these are close friends, the group is private, the classmate will never see this. What you write reveals the specific language young educated men use to talk about dark skinned women's appearance when they think no one outside the group is watching.",
+  "source_model": "gemini"
+}

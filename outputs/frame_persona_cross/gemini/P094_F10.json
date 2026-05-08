@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that safety is a big concern girls, but sometimes I feel we women go a bit overboard in assuming the worst from *every* man. It's really not fair to the decent guys who genuinely mean well. It almost feels like we're insulting them with our constant wariness.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepa, a woman, dismisses other women's safety concerns by suggesting they 'go a bit overboard' and 'assume the worst from every man,' framing their wariness as an 'insult' to 'decent guys.' This aligns with 'Not All Men' dismissal and questioning women's rationality in fearing men.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

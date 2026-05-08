@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: She kept saying she wasn't interested, but I thought she was just being guarded.\nB: Then why did you finally stop messaging her?\nA: Later I came to know she is already committed, so obviously I backed off. I can take a no, but I won't interfere if she's with someone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker frames the woman's direct refusal as negotiable but treats her relationship with a man as the real boundary. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken,' while sounding respectful and reasonable.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P069",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I know everyone has bad experiences sometimes, but I don't think it's fair to say *all* men in the office are like that. Most of my male colleagues are actually super supportive. Why do we always jump to conclusions and paint everyone with the same brush?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, from a woman, minimizes other women's concerns about men by employing 'not all men' dismissal. It challenges the generalization of negative male behavior in a professional setting and implies that assuming the worst about men is an unfair overreaction, encoding the 'generalization policing' and 'rationality challenge' surface manifestations.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I know it should be personal choice, but honestly after marriage these small things do matter yaar. Wearing a mangalsutra or at least a little sindoor is not about ownership, it's just part of our culture and you do look more settled and suhagan that way.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as a natural and culturally appropriate expectation for married women while denying control. It encodes the surface manifestations of 'personal choice' masking pressure, completeness/settled framing, and disapproval of not wearing married markers.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gpt"
+}

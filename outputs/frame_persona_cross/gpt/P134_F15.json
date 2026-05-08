@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Vikram: Arre yaar, nobody is forcing all this, but after marriage thoda sindoor ya mangalsutra pehenne se proper married lagta hai, achha bhi lagta hai.\nNeha: Proper married matlab?\nVikram: Matlab settled, suhagan jaisi. Hamari taraf ye sab normal hai, and honestly jab ladki bilkul kuch nahi pehenti na, ajeeb sa lagta hai as if shaadi ko importance hi nahi de rahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as what makes a woman look 'properly' married and 'settled,' implying deficiency if she does not wear them. It encodes completeness/tradition framing and judgment of non-wearing as disrespecting marriage.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gpt"
+}

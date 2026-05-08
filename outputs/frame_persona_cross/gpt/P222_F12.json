@@ -1,0 +1,12 @@
+{
+  "persona_id": "P222",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Suresh: Arre yaar, aajkal ke boys ko bhi har baat pe woh maa-behen wali gaali muh pe aa jaati hai, itna serious lene ki kya baat hai.\nWife: Par bachche sunte hain.\nSuresh: Sunte hain toh samjhao, word ko word ki tarah lo. Gusse mein aadmi kuch bhi bol deta hai, iska matlab thodi na sach mein kisi aurat ke baare mein bol raha hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse as harmless 'just words' and dismisses concern about their gendered structure. It encodes the frame's core manifestation of defending common gaalis as mere expression without recognizing the misogyny embedded in them.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are discussing marriage proposals for your son Karan who is 27. A proposal has come from a good family Ñ the girl is educated, employed, from a respectable background. But you found out through a mutual contact that the girl has a large mixed gender social circle and is known to go out with male friends in groups. You are sitting with your wife telling her what you found out and what you think it means for the kind of wife she will be and whether this is the kind of girl you want for your son and what you are going to tell the girl's family.",
+  "source_model": "gpt"
+}

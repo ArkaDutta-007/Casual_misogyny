@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Ananya: Kal Ritu ko client meeting mein dekha, saree mein kitni decent aur confident lag rahi thi. Main toh hamesha kehti hoon, formal Indian wear mein ek alag hi grace hoti hai, yeh western outfits mein na log bhi serious kam lete hain aur phir unnecessary attention bhi milti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and professional credibility to traditional clothing while implying western clothes invite attention. It encodes the 'decent/grace' framing and the subtle harassment-blame link described in the frame.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

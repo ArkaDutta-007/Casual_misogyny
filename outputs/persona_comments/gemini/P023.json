@@ -1,0 +1,10 @@
+{
+  "persona_id": "P023",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Haan, presentation toh achhi thi. She's really good at those smooth delivery kind of things. But I still wonder if she gets into the actual nitty-gritty of the code as much as a guy would.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohit acknowledges the superficial aspect of her presentation (smooth delivery) but immediately questions her deeper technical competence and hands-on involvement compared to male counterparts, undermining her leadership capabilities in a male-dominated field. This implicitly reinforces stereotypes about women lacking technical depth, despite a strong performance.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, it's genuinely frustrating to see how many women just assume the worst about all men. I get it, safety is important, but why do 'good guys' like me have to constantly prove we're not creeps? Like, I'm a software engineer in Pune, always respect boundaries, never tried anything shady. But it feels like every woman I meet has this wall up already. Thoda toh trust hona chahiye na, not every man is out to get you. It's really insulting to the vast majority of us who just want to be normal.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment directly exhibits the 'Not All Men' dismissal. The speaker, Rohit, identifies as a 'good guy' ('software engineer in Pune, always respect boundaries') and feels personally insulted and generalized when women express wariness, framing it as an unfair assumption about 'all men' rather than a valid safety concern. The phrase 'Thoda toh trust hona chahiye na' (there should be some trust) is a direct demand for women to perform trust.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gemini"
+}

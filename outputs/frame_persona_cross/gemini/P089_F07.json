@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Yaar, I always say, there's a certain dignity and grace in our Indian attire. Meera looks so good in a saree or a salwar-kameez, don't you think? It just commands respect. Nowadays, girls wear anything, and then they wonder why people stare or pass comments. Sometimes, *we* give others a reason to judge, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rajan, an elder, frames his preference for traditional Indian clothing as cultural appreciation and 'dignity,' while subtly blaming women who wear 'anything' (implying Western/non-traditional clothes) for inviting stares or negative comments. This encodes the surface manifestation of linking clothing to character/respectability and subtly attributing harassment to what a woman was wearing, disguised as concern.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P190",
+  "frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "generated_comment": "Fatima: Zara, hijab rakhne se sab baat khatam nahi hoti beta. Burqa sirf kapda nahi hai, it gives a woman hifazat and respect, especially in today’s zamaana when people are always watching and talking.\nZara: Ammi, I can manage, I just feel restricted in it.\nFatima: Abhi tumhe lag raha hai you can manage, but duniya itni seedhi nahi hai. Train mein, office mein, mohalla mein, log ladki ko dekhkar baat banate hain, and your father will never agree if people start saying we gave our daughter too much azaadi.\nFatima: Humari community mein bhi ek had hoti hai, beta. A girl does not understand these things fully at your age; later only she sees why elders insisted.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the daughter's body and clothing choices as subject to family and community control, not her own autonomy. It encodes dress policing through religion and respectability, presenting restrictions as protection and implying women need elders to decide for them.",
+  "persona_text": "You are Fatima. Age 44. Married. A Muslim woman in Mumbai. Your daughter Zara who is 22 has told you she does not want to wear the burqa anymore. She says she will keep the hijab but the full burqa feels too restrictive for the life she is living Ñ she works at a private company, she commutes by local train, she has friends from different communities. You are not a radical woman. You wear the burqa yourself. You are sitting with Zara and telling her what you think about her decision and what the burqa means to you and what you believe it protects her from and what her father will say and what the community will say and why you think she is making a mistake she does not fully understand yet.",
+  "source_model": "gpt"
+}

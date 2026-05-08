@@ -1,0 +1,12 @@
+{
+  "persona_id": "P187",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "बेटा, हमेशा औरतों का सम्मान करना. वो घर की लक्ष्मी होती हैं, बच्चों को पालती हैं, और पूरे परिवार को जोड़ कर रखती हैं. उनकी वजह से ही तो हमारा वंश आगे बढ़ता है.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker advises respecting women, but the reasoning provided reduces their worth to their roles as wives and mothers, emphasizing their service to the family and continuation of the male lineage ('vansh aage badhta hai'). This aligns with the 'Women Defined by Male Relations' frame, particularly valuing women for their sacrifices as mothers and describing their worth in terms of what they mean to men/male kin structures. It is presented as genuine respect but covertly erases individual personhood.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ramesh. Age 52. Married. An upper caste Hindu man in a village in UP. Your son recently married a girl named Priya who is from the same caste but from a city family. Priya does not cover her head Ñ she does not wear a ghoonghat and has never been asked to in her own family. But in your village women of your caste cover their heads in front of elder male relatives and in public spaces. This is tradition. Priya has been here three months and has not adopted the ghoonghat. Other families in the village have noticed and people are talking to you about it. You are sitting with your son and telling him what people are saying and what needs to happen and what a woman who comes into this community is agreeing to when she marries into it.",
+  "source_model": "gemini"
+}

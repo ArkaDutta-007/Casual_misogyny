@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Hamare zamaane ki maayein sach mein ghar ki Lakshmi hoti thi, subah se raat tak sabke liye garam roti banati thi aur kabhi usse kaam nahi samjha, sirf pyaar samjha. Maa ke haath ke khane ki baat hi alag hoti hai beta, ghar ki bahu bhi wahi mamta rasoi mein le aaye to parivaar juda rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women through unpaid cooking and self-sacrifice, framing domestic labor as love rather than work. It also sets an implicit expectation that a daughter-in-law should reproduce the mother's cooking and caregiving role to be a good woman.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gpt"
+}

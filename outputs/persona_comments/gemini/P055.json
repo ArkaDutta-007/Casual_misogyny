@@ -1,0 +1,10 @@
+{
+  "persona_id": "P055",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "What? A Western dress for the puja? Are you serious? Yaar, tell her it's a family religious function, not some casual outing. Everyone will be in traditional wear. It's not about 'looking nice' or comfort there. It's about respect, bhai. For the elders, for the occasion. Log kya kahenge? What will Mausi ji think? She should just wear a nice saree or a salwar-kameez, something simple. It’s important she makes the right impression, especially with everyone meeting her for the first time. Thoda adjust karna padega, she needs to understand that, for her own good.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it dictates a woman's attire based on traditional gendered expectations for a religious function, framing it as 'respect' and 'making the right impression' for the family. It places the burden of upholding family honour and social perception disproportionately on her appearance, restricting her autonomy for the comfort of others' judgment. This encodes the surface manifestation of 'Dress Code: Traditional Equal Respectable, Other Equal Questionable.'",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

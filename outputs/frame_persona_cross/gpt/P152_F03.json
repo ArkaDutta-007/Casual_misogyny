@@ -1,0 +1,12 @@
+{
+  "persona_id": "P152",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre job toh poori zindagi kar legi, lekin bachcha chhota ho tab maa ka saath hi sabse zaroori hota hai. Father kitna bhi help kar le, maa jaisi dekhbhal thodi hoti hai. Aaj kal ki ladkiyan ambition ko thoda galat samajh leti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames childcare as naturally and primarily the mother's responsibility, while treating the father's role as optional 'help.' It also suggests that a woman's career ambition is misguided if it competes with caring for a young child.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Sunita. Age 48. Married for 24 years. A woman who worked for six years before stopping when her first child was born. You are at a family function sitting with three other women your age. One woman mentions that her daughter in law has just gone back to work full time when her child is only eight months old. The conversation opens up. You are giving your opinion on women who return to work this early and what it means for the child and what you think women of this generation have confused about what ambition is supposed to look like and what you gave up and whether you regret it.",
+  "source_model": "gpt"
+}

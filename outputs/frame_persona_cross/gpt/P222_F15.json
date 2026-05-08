@@ -1,0 +1,12 @@
+{
+  "persona_id": "P222",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Suresh: Dekho, main modern hone ke against nahi hoon, but shaadi ke baad thoda sindoor ya mangalsutra pehne toh aurat suhagan jaisi lagti hai, ghar ki izzat bhi dikhti hai.\nWife: Haan, aajkal ki ladkiyan bolti hain choice hai.\nSuresh: Choice apni jagah hai, par hamaari parampara bhi koi cheez hoti hai. Itna bhi kya modern hona ki shaadi-shuda hi na lage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible identity markers as necessary to look proper, respectable, and authentically married. It encodes tradition/completeness framing and judgment of women who do not wear sindoor or mangalsutra, while masking control as cultural values.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are discussing marriage proposals for your son Karan who is 27. A proposal has come from a good family Ñ the girl is educated, employed, from a respectable background. But you found out through a mutual contact that the girl has a large mixed gender social circle and is known to go out with male friends in groups. You are sitting with your wife telling her what you found out and what you think it means for the kind of wife she will be and whether this is the kind of girl you want for your son and what you are going to tell the girl's family.",
+  "source_model": "gpt"
+}

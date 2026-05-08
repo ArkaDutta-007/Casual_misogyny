@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "It's bizarre how often my 'no thank you' gets ignored until I drop the 'I'm married' bomb. Just happened again – persistent guy at the book launch suddenly became all polite, 'Oh, so sorry bhabhi, didn't realise you were *with* someone.' My discomfort, my words, totally irrelevant. His claim over me, however indirect? Instant respect. The invisible rulebook is real. #DelhiExperiences #EverydayMisogyny",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment describes an interaction where a woman's direct refusal ('no thank you') was ignored, but the implicit ownership of 'being with someone' (her husband) immediately garnered respect from the persistent man. This encodes the surface manifestation of 'stopping pursuit only after learning a woman is 'taken', not after she said no' and 'saying 'I respect that she has a boyfriend' but ignoring her direct disinterest'.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gemini"
+}

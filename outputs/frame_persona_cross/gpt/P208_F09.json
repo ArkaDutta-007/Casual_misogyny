@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "I know it sounds unfair, but this is the reality here. My mother still says the same thing and honestly I tell my younger cousins also: avoid late nights, don’t go alone to isolated places, book a cab even if it’s expensive, and please be careful about what kind of crowd you’re around. We can keep saying men should change, and yes they should, but until then women have to be practical and protect themselves first.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and treats male violence as an inevitable reality to adapt to. It uses protective, practical advice and family concern rather than explicit hostility, matching the victim-restriction and inevitability surface manifestations.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

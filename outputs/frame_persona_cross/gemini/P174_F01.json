@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I get the sentiment behind menstrual leave, but practically speaking, for a company our size, that's a huge potential productivity loss. Imagine if even 50% of our female workforce takes that day every month. How will we meet targets? And then guys will start asking for 'mental health day' or something equivalent, which, to be fair, is also a valid ask. Where do we draw the line?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic because it frames menstrual leave, an accommodation for women's biological reality, as a 'productivity loss' and an 'unfair advantage' over men, invoking cost arguments and reverse discrimination framing under the guise of 'fairness' and 'practicality' in a corporate setting.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gemini"
+}

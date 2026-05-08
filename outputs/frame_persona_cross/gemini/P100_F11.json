@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, sometimes I just wish log thoda soch ke baat karein, ki har ladki kisi ki beti hai, kisi ki behen hai. Itna common sense toh hona chahiye na? Tabhi society mein thoda 'respect' dikhega women ke liye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly encodes misogyny by framing respect for women as contingent on their relational identity (daughter, sister) rather than their inherent personhood. It aligns with the 'Respect women — they are someone's mother/daughter/sister' rhetoric, presenting it as a solution for societal respect.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gemini"
+}

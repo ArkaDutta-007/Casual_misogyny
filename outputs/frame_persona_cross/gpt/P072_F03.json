@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre bhai, naukri karna theek hai, par bachcha ho jaye to maa ko hi thoda priority badalna padta hai. Baap kitna bhi kar le, bachchon ki parvarish aur dekhbhal asli mein maa hi sambhalti hai, warna bachche hi suffer karte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and childrearing as primarily the mother's duty while treating fathers' role as secondary. It encodes the surface manifestations of career sacrifice framing and guilt framing around children 'suffering' if the mother does not prioritize care.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

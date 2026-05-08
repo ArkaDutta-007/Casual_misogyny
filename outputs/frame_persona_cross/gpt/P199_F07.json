@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Laxman: Aajkal ki chhoriyan bhi na, salwar-suit ya saadi mein rahein toh accha lage, sabhya bhi dikhe. Ye chhote-chhote kapde pehen ke phir bolti hain ladke ghoorte hain, are bhai nazar toh padegi hi.\nWife: Haan, gaon mein log aur bhi baat banate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames traditional clothing as the marker of being 'sabhya' and links so-called modern clothing to inviting male attention. It encodes dress policing and subtle victim-blaming for harassment.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

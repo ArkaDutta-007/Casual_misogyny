@@ -1,0 +1,10 @@
+{
+  "persona_id": "P091",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar date toh sahi thi, but makeup ka scene alag tha. Hinge pe toh proper glam thi, real mein kuch aur. Feels like a bit of a trick, no? Thoda honest hona chahiye logon ko online.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly frames the woman's choice to wear less makeup than in her profile pictures as 'a trick' and a lack of 'honesty'. This implies that a woman's appearance, specifically her presentation of makeup, dictates her trustworthiness and that her 'real' self is somehow hidden or deceptive if it doesn't align with an enhanced online persona. It critiques the perceived 'dishonesty' of not meeting an unspoken standard of consistent, enhanced appearance.",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gemini"
+}

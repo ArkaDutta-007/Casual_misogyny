@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre bhai, aajkal ladki seedha no bole toh bhi samajh nahi aata whether she's serious or just showing attitude. But if she says she's already with someone, bas phir wahin khatam, no point interfering in another man's matter.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's direct refusal as negotiable while accepting her unavailability only when another man's claim is involved. It encodes the surface manifestation of ignoring disinterest until learning she is 'taken,' framed as respect.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gpt"
+}

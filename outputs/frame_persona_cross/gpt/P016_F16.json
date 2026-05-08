@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre bhai, ghar mein jo jahan better ho wahi sambhale toh practical rehta hai. Biwi kitchen aur bachchon ka dekh leti hai, main bahar ke kaam, gaadi, paise-vaise dekh leta hoon. Aajkal ke hisaab se main kabhi chai bana doon ya bartan rakh doon toh usko bhi log bolte hain bada modern husband hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as simply 'practical' and assumes the wife is responsible for cooking and childcare while the man handles money and outside work. It also encodes the low bar for male domestic contribution by framing minor help as making him a 'modern husband'.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arrey bhai, sometimes when ladies get upset over every small thing, it is just hormones talking. Don't take every reaction so seriously, after two days they become normal only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's emotions and opinions as biologically driven and less valid. It encodes the frame by attributing a woman's anger or frustration to 'hormones' and treating it as something not to be taken seriously.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

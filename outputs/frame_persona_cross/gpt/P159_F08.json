@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, married aadmi ko pata tha na usko family hai, phir bhi us lady ne itna close hona hi kyun tha? Aise hi ghar tootते hain, bechara aadmi kabhi kabhi phas jata hai, but the woman should know her limits.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for an affair-related situation while excusing the man as someone who 'gets trapped.' It encodes homewrecker framing, seduction framing, and male-victimhood asymmetry.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

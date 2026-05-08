@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I was skeptical about our new VP when she joined. But she's surprisingly sharp, very logical. You know, she really thinks like a man when it comes to strategy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it implies that competence and sharp strategic thinking are inherently masculine traits, thus undermining female leadership by framing a successful woman's abilities as 'anomalous' or 'masculinized.' It encodes the 'masculinization' surface manifestation and 'thinks like a man' linguistic cue.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gemini"
+}

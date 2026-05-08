@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Look, I have no issue with women working, but company ko bhi fairness dekhna padta hai. If every few weeks there is period leave and then long maternity leave, project planning and appraisal cycle get affected; men end up carrying the load without any equivalent benefit. Aise policies sympathy ke liye theek lagti hain, but from an operations point of view, young women hires do become a risk for the organisation.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity as workplace liabilities and suggests young women employees are risky hires. It encodes fairness/economic framing and the assumption that women exploit or burden organizations through menstrual and maternity leave.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

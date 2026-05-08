@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekho beta, practical baat alag hoti hai, ideal baat alag. Aajkal zamaana theek nahi hai, toh ladkiyon ko khud bhi samajhdari rakhni chahiye—raat ko akeli mat niklo, unknown jagah mat jao, aur kapde bhi situation ke hisaab se hone chahiye. Baad mein kuch ho jaye toh sabse pehle yahi poochna padta hai na, itni raat ko akeli kyun thi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and normalizes restricting their movement, clothing, and behavior instead of addressing male violence. It encodes protective/practical advice, inevitability framing ('zamaana theek nahi hai'), and post-assault victim questioning ('raat ko akeli kyun thi').",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

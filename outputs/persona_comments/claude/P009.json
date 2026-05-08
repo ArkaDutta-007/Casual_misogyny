@@ -1,0 +1,10 @@
+{
+  "persona_id": "P009",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Arre, bahut achhi baat hai beti ke liye, sarkari naukri mil gayi! Par sach boluun toh — shaadi ke baad, bachche ke baad, kitna chalega? Ghar bhi sambhalna hai, sasural waale bhi dekhenge. Aur yeh leave-leave ki baat jo log karte hain na, woh sab badi ghar ki auratein kar sakti hain. Hamare jaisi ke liye toh koi nahi sunta — main beemar hoti hoon toh bhi nikalna padta hai, agar nahin gayi toh koi dusri ASHA worker bhej dete hain, seedha. Koi guarantee nahin. Yeh jo flexibility ki baat hai, woh sirf unke liye hai jinke peeche koi bada naam ya paise ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita's comment reflects internalized misogyny by framing post-marriage work as impractical for women, naturalizing domestic responsibility as women's primary role. It also encodes structural bias around menstrual/maternity leave — she presents leave as a class/caste privilege rather than a universal right, inadvertently reinforcing the norm that women like her should simply endure and not expect workplace protections.",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "claude"
+}

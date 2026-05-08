@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Ramesh: Arre bhai, aadmi se galti ho jaati hai, par woh aurat ko to sharam honi chahiye thi, pata tha usko ki aadmi shaadi-shuda hai.\nBrother: Haan, aajkal aisi hi auratein ghar tudwa deti hain.\nRamesh: Bilkul serial wali baat hai, pehle hans-hans ke baat karo, phir bechare mard ko phansa do, badnaam poora parivaar hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the man as someone who merely made a mistake. It encodes blame asymmetry, homewrecker framing, and seduction framing ('phansa do', 'ghar tudwa deti hain').",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gpt"
+}

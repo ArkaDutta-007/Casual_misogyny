@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, these days boys say all this in every second sentence, it is just expression, not that they are literally abusing anyone's mother or sister. Don’t make such a big issue out of words alone; among men this is normal, and if someone starts crying over it then how will he survive in the real world?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse as harmless and dismisses concern with 'it is just expression.' It also encodes feminizing weakness by implying that being upset by such language is unmanly.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gpt"
+}

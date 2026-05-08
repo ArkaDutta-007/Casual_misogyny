@@ -1,0 +1,12 @@
+{
+  "persona_id": "P178",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre, thoda makeup theek hai, par aaj kal ladkiyan itna kar leti hain ki asli chehra hi alag lagta hai. Phir bilkul kuch na karo toh bhi log bolte hain apna dhyan nahi rakhti — natural aur saaf-suthra rehna best hai bas.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it enforces a double bind on women's appearance: too much makeup is framed as deceptive, while too little grooming is criticized as neglect. It encodes the 'natural beauty' ideal and policing of female grooming in a culturally plausible, internalized form.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Meena. Age 44. Married for 20 years. A homemaker in Jaipur. You have been managing the household budget for two decades Ñ groceries, utilities, school fees, medical expenses, everything. You know exactly where the money goes and where it can be saved. Your husband has called a family meeting to discuss finances because things have been tight. He has invited his brother and his brother's wife. You are in this meeting. When you try to share specific observations about where the budget is bleeding your husband says let the men talk first and we will hear from you after. You are sitting with this sentence for a moment. What you do next Ñ whether you wait, whether you speak anyway, whether you leave the room Ñ and what you say to your sister on the phone tonight about what happened is the content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I mean personal choice hai, but married ho ke bhi completely single jaisa look rakhna thoda odd lagta hai yaar. Sindoor ya mangalsutra se at least settled aur suhagan wali feel aati hai, it's part of our culture only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that married women should visibly display marital markers to appear proper or 'settled.' It encodes the surface manifestations of completeness framing, tradition framing, and judgment of women who do not wear visible signs like sindoor or mangalsutra.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

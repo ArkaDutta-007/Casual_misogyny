@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "देखो, अगर उस औरत को पता है कि आदमी शादीशुदा है, फिर भी इतना घुलना-मिलना कर रही है, तो गलती ज़्यादा उसकी है. ऐसे ही घर टूटते हैं, bechara aadmi kabhi kabhi phas bhi jaata hai — bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment shows blame asymmetry by focusing on the woman as responsible for the affair and describing the man as someone who 'gets trapped.' It encodes homewrecker framing, seductress framing, and family-protection rhetoric while minimizing male accountability.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gpt"
+}

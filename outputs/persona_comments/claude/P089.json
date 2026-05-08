@@ -1,0 +1,10 @@
+{
+  "persona_id": "P089",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Arjun, listen to me carefully. A two-year-old child needs his mother, not some stranger in a daycare who has fifteen other children to look after — this is not opinion, this is biology, this is fact. Meera is an educated girl, I have nothing against her, but what is the point of all her degrees if she cannot give her own son these five years? And you — your father was never home, your mother raised you and your sister alone through three postings, and look how you both turned out. That is what a woman's sacrifice does. I am not saying she can never work, but right now her job is that child, and your job is to make her understand that, not to simply say 'haan, theek hai' because you want to avoid an argument with her.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes misogyny covertly through the framing of motherhood as a woman's primary obligation and the reduction of Meera's professional identity to a secondary, deferrable concern; it also positions the husband as the rightful authority who must 'make her understand,' defining Meera's worth and decision-making through her male relations rather than her own agency.",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "claude"
+}

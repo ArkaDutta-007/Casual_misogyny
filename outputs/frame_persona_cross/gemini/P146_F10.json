@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I honestly don't get it sometimes. There's so much talk about women's safety, and it quickly turns into 'all men are potential threats'. How is that fair to guys like me? We respect women, we want them to feel safe. But if you constantly assume the worst, just because of a few bad apples, it's really insulting to the good guys. Thoda trust bhi toh hona chahiye na? #NotAllMen",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it dismisses women's collective safety concerns by centering the speaker's personal experience as a 'good guy' ('not all men'). It challenges the rationality of women's wariness ('constantly assume the worst') and demands trust as proof of 'fairness', aligning with the 'Not All Men' dismissal surface manifestation.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gemini"
+}

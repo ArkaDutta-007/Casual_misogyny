@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Frankly, young men should seriously think about prenups now. Aajkal marriage has become a financial risk for men, because the moment things go wrong, the husband is treated like an ATM and the law is automatically on the woman's side. We all know how 498A gets misused in many cases, and after a short marriage also some women demand huge alimony as if that was the plan from the beginning. Stability is one thing, but if a girl is only looking at salary, house and future payout, then it is not marriage, it is reverse dowry in a respectable form.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative in marriage and divorce, generalizes suspicion toward 'some women' seeking stability, and presents alimony as 'reverse dowry.' It also invokes the common men's-rights trope of 498A misuse and one-sided laws to invert victimhood.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

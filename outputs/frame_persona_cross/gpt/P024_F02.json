@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhai, when a lady starts getting this emotional in meetings, half the time it is just hormones speaking. Important decisions should not depend on someone's mood swings—don't take me seriously, I am only joking.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's professional input as biologically driven and less rational. It encodes the frame through references to hormones, emotionality, and mood swings, softened by a 'just joking' defense.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

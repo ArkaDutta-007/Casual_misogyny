@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal boys ko bhi har chhoti baat pe language ka lecture chahiye. We use those mother-sister type words in frustration only, kisi aurat ko target thodi kar rahe hote hain.\nB: Haan but problem toh hoti hai na.\nA: Itna serious mat lo, sab bolte hain. Aur ladka thoda strong hona chahiye, har baat pe offended hoke kya behen jaisa react kar raha hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-body/chastity-rooted abusive language as 'just expression' and dismisses concern about its misogynistic structure. It also uses feminizing a man ('behen jaisa react') as an insult, matching the frame's core manifestation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

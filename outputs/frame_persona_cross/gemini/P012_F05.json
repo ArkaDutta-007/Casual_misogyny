@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, aajkal ki ladkiyon ka kya bharosa? Shaadi ki nahin ki bas, phir 498A aur alimony ke case daal degi. Bechaare mard toh bas fas jaate hain. Maine toh apne bhatije ko bhi kaha hai, sab dekh bhaal ke karna.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment frames modern women as exploiting marriage laws (specifically IPC 498A and alimony) to trap men for financial gain, portraying men as victims of a system biased against them. It aligns with the 'Prenup / Alimony as Reverse Dowry / Women as Golddiggers' frame by suggesting women are opportunistic and the legal system is misused.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gemini"
+}

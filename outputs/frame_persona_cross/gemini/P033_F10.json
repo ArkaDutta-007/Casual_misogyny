@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I get that women need to be careful, but sometimes it just feels unfair. Agar main genuinely help karne jaaun kisi ko, they look at me like I'm some bad guy. Come on, sab mard aise thodi na hote hain? Itna trust toh rakhna chahiye na? Hum bhi toh acche log hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh feels personally insulted and unfairly categorized when women are wary. He expresses a 'not all men' sentiment, centers his own perceived 'good intentions,' and demands women show trust, framing their wariness as an irrational assumption and an insult to 'good guys' like himself. This aligns with the 'Not All Men' Dismissal and demanding women perform trust manifestations.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gemini"
+}

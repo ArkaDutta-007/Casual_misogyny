@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Spoken conversation: A: Bro, honestly girls look best in saree or salwar only, yaar. Feels more decent and graceful. B: Haha, true. A: These super western outfits just send a different vibe, then people will obviously stare also.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency and character, presenting traditional dress as more respectable. It also subtly blames harassment on women wearing western clothes by implying staring is an obvious consequence.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gpt"
+}

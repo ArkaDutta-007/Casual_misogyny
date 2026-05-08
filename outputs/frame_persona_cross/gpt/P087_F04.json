@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "These days every big company wants one woman on top for optics, so naturally she got fast-tracked. I am not saying she is incapable, but real leadership needs a tough mind, and usually when a woman reaches that level she has to become almost like a man to handle it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as driven by tokenism rather than merit and frames competent leadership as inherently masculine. It encodes the surface manifestations of 'diversity hire' suspicion and masculinization as a backhanded compliment.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

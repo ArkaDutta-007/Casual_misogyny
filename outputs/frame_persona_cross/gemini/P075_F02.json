@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Chill kar bhai, Priya. Itna serious mat ho. Lagta hai aaj hormones thode out of control hain kya? 😂 Just joking, don't take it seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment dismisses a woman's frustration by attributing it to 'hormones out of control', implying her emotional state is irrational and biologically determined. The 'just joking' defense is used to mitigate responsibility. It aligns with the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gemini"
+}

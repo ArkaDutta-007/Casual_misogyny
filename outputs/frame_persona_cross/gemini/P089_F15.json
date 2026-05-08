@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Aajkal ki ladkiyan... shaadi ke baad bhi dekho, na mangalsutra, na sindoor. Pehle toh isko suhagan ki pehchan maana jaata tha, aur shubh bhi. Ab toh lagta hai sab bhool gaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a traditional older male, expresses disapproval of married women not wearing traditional marital markers (mangalsutra, sindoor). It frames their absence as a departure from cultural norms, implying a loss of 'auspiciousness' and 'identity' for a married woman, which is a surface manifestation of the core misogynistic belief that a married woman should visibly signal her marital/owned status.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gemini"
+}

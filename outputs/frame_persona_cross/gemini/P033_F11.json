@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, kitna bhi aage badh jaayein na auratein, asli value toh tabhi aati hai jab woh ghar, bachche, sab manage karti hain. Ek maa ki shakti hi alag hoti hai. Uske balidaan ko salam!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that a woman's 'real value' or worth (asli value) is primarily derived from her capacity to manage home and children, especially in her role as a mother, despite any other advancements she might make. This aligns with 'Praising a woman primarily for her sacrifices as a mother' and 'Women defined by male relations' (through the family structure).",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gemini"
+}

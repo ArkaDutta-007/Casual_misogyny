@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "I honestly feel girls look nicest when they keep it simple and natural. Office ke liye thoda grooming is fine, but these heavy layers of makeup on Instagram are too much and a bit misleading also. At the same time, completely neglecting yourself also doesn't look good.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women: they must maintain appearance, but not 'too much,' and frames visible makeup as deceptive. It encodes the 'natural beauty' preference, grooming policing, and deception angle central to the makeup paradox.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

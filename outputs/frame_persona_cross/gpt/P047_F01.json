@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "In our office they are discussing period leave also now. Honestly, from company side how much adjustment can be done, pa? Already for some roles planning becomes difficult with long maternity breaks, and if monthly extra leave also comes, managers will naturally think twice before putting women in critical projects. Not saying don't support them, but fairness for team and delivery also matters.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and maternity, while presenting the bias as a neutral concern about fairness and productivity. It encodes economic/fairness framing and the assumption that accommodating women's biology justifies excluding them from important projects.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gpt"
+}

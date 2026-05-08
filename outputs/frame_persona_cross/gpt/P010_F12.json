@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Divya: Honestly, I don’t get why people make such a big issue of those common gaalis in office banter. Half the time it’s just frustration, not like anyone is literally insulting somebody’s mother or sister. \nHusband: Hmm.\nDivya: And when someone says a guy is behaving like a girl or asks him to toughen up, it’s rude maybe, but yaar people need to stop acting like every word has some deep sexist meaning.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/family-based abusive language as 'just expression' and dismisses concern about feminizing men as insult. It encodes the frame’s defensiveness ('it’s just a word') and the minimization of sexist structure in everyday gaalis.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

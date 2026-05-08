@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, I tell my female friends also, don't stay out too late, especially alone. It's Delhi yaar, you never know. Better safe than sorry.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment shifts the responsibility for women's safety onto their own behavior (not staying out late, not being alone) rather than addressing male violence or societal issues. It is framed as practical advice and concern ('better safe than sorry', 'you never know') but implicitly blames women for putting themselves in danger, aligning with the 'zamaana kharab hai' surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

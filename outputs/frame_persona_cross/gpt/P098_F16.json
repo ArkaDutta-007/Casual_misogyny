@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in our house we’ve just divided things by who is better at what. My husband handles finances, bills and all the outside work, and I manage the cooking and day-to-day house stuff because that comes more naturally to me. He does help sometimes on weekends, so I feel that’s already quite modern and practical.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as 'practical' and based on inherent suitability. It also encodes the 'he helps' framing and praises minimal male domestic contribution as modern.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

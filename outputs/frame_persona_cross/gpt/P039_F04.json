@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I’m all for women growing, but sometimes in these big corporates you can tell who is there on merit and who is there because the company needed a woman face at the top. And the ones who do survive in leadership are usually so aggressive that people say ‘she thinks like a man’ as if that is the only way a woman can be taken seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders’ merit by suggesting some are promoted as a token ‘woman face’ and normalizes masculinization as the route to competence. It encodes merit-undermining and the double bind around women being accepted only if they become unusually aggressive.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gpt"
+}

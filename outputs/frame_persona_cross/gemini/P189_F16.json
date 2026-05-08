@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Bhai, honestly, Nadia and I have a pretty clear system at home. She's amazing with managing everything inside – the kitchen, the household staff, future kids. I mostly handle all the finances, bills, and anything outside. It's just more practical for us, yaar. Jo jahan better hai, right? Plus, I do help out with groceries and weekend errands, of course.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the gendered division of labor by framing it as 'practical' and based on 'who is better' (jo jahan better hai). The husband handles external tasks like finances, while the wife manages all internal household work. His mention of 'helping out' with groceries highlights that primary domestic responsibility rests with her, aligning with the 'he helps her' framing and the 'efficiency' and 'naturalization' linguistic cues.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

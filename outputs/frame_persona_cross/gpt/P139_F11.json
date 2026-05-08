@@ -1,0 +1,12 @@
+{
+  "persona_id": "P139",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ki asli izzat tab samajh aati hai jab aadmi yeh soche ki woh bhi kisi ki beti, kisi ki biwi, kal ko kisi bachche ki maa banegi. Humari society tabhi theek hogi jab mardon ko har aurat mein apne ghar ki izzat nazar aaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and deservingness of respect through their relations to men and future motherhood rather than as independent persons. It encodes relational framing and conditional respect: women are respected as daughters, wives, and mothers.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gpt"
+}

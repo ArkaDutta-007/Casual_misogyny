@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre yaar, I’m not saying she’s not capable, but these days senior roles also have a big diversity angle. Half the time with women leaders you can’t tell if it’s pure merit or optics, and then if they do perform people say she’s great because she thinks like a man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions by attributing them to diversity hiring rather than merit, and frames competence in masculine terms. It encodes the 'diversity hire/quota' suspicion and the 'thinks like a man' backhanded compliment.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

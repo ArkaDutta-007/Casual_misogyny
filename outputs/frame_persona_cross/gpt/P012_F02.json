@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhai, staff matters mein kabhi kabhi ladies ka mood samajhna mushkil ho jata hai. Chhoti si baat par itna emotional reaction aa gaya, lagta hai hormones ka chakkar hoga. Main bas mazaak kar raha hoon, personally mat lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's reaction as being caused by hormones rather than treating her response as valid. It encodes the frame through references to being 'emotional' and 'hormones ka chakkar' with a joking disclaimer.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

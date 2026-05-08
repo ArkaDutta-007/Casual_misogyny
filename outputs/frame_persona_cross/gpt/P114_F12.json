@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, every other word spoken in anger does not need a gender lecture attached to it. We grew up hearing these expressions in college, cricket, traffic, everywhere; nobody is literally talking about anyone's mother or sister. And frankly, if a man keeps whining that such words hurt his feelings, then he should toughen up instead of behaving in a soft, overly delicate way.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless expression and dismisses its gendered structure. It also encodes feminizing weakness as an insult by implying a man is lesser if he is 'soft' or emotionally affected.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

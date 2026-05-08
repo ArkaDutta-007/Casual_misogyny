@@ -1,0 +1,10 @@
+{
+  "persona_id": "P212",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "Dekho beta, thirty years mein maine hazaron aise cases dekhe hain. Main tumhe seedha bolunga — genuine cases toh hote hain, lekin aajkal yeh 498A aur DV Act ek hathiyar ban gaya hai. Ladki ka koi rishtedar usse bharta hai, ek baar baat bigdi, aur seedha complaint. Sasural waale sab jail mein, chahe baat kuch bhi ho. Hamare time mein data tha — field mein jo hum dekhte the, usme se genuinely mujhe nahi lagta tha fifty percent se zyada bhi sach hote honge. Yahan bhi aisa hi kuch hoga — paise ka mamla hoga, ya maike walon ne kuch dimaag bhara hoga. Pehle puri baat samjho, judgment mat karo, lekin ek taraf se hi mat suno.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the legal-weaponisation narrative by framing DV and dowry laws as tools routinely misused by women and their families, implicitly casting the complainant as likely dishonest without evidence. It uses the speaker's institutional authority to lend credibility to a sweeping dismissal of women's complaints, a covert form of misogyny because it is presented as balanced, experience-based professional assessment rather than explicit hostility.",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "claude"
+}

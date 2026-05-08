@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I respect individual choice, but some traditions exist for a reason. A married woman wearing sindoor or mangalsutra is not oppression in every case; it is part of our culture and reflects that settled, grihasthi identity. Frankly, when people reject every visible symbol of marriage in the name of modernity, it can come across as dismissive of values many families still hold dear.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers for women as natural, culturally necessary, and tied to a 'settled' identity while judging women who reject them. It encodes tradition framing, completeness/settledness framing, and disapproval of non-wearing under a 'respect choice but' construction.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

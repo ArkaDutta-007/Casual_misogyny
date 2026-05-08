@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Beta, har aurat ko izzat deni chahiye, aakhir woh kisi ki beti, kisi ki patni, kal ko kisi bachche ki maa hoti hai. Aadmi agar apni maa-behen yaad rakhe na, to kabhi aurat ko neecha nahi samjhega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and entitlement to respect through family roles like daughter, wife, and mother rather than as independent persons. It encodes the 'someone's mother/daughter/sister' relational framing described in the frame.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

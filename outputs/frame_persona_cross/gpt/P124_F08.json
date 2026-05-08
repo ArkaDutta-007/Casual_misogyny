@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, if a woman knows a man is married and still keeps getting overly close, then she is the one inviting trouble into that family. Men can be foolish, but the person who knowingly enters and disrupts a home has to be held more responsible. Bilkul serial wali situation hai—these things don't happen unless someone decides boundaries don't matter.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it assigns primary blame for an affair to the woman while minimizing the man's agency ('men can be foolish'). It encodes homewrecker framing, boundary/seductress framing, and family protection rhetoric.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

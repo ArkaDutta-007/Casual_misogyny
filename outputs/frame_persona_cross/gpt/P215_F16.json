@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Bhai honestly in most homes jo practical hai wahi hota hai. Husband usually handles money, outside work, repairs etc, and wife manages cooking/kids/home because she is generally better at that; isme sexist kya hai if both are happy? Aajkal log har cheez 50-50 bolte hain, but real life mein jo jahan better ho wohi sambhale na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as merely practical and mutually agreeable. It encodes the surface manifestation of 'he handles finances, she handles home' and resistance to egalitarian sharing by framing traditional roles as efficiency-based.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

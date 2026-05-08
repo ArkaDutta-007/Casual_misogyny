@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly yaar, these days marriage itself feels risky for men. One divorce and the guy is paying for life, no matter who was wrong; even 498A gets used like a pressure tactic in so many cases. Prenup should become normal in India, otherwise aajkal too many people are marrying for security, not partnership.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative and presents men as primary victims of marriage laws. It encodes the 'reverse dowry/alimony' narrative, invokes 498A misuse, and suggests women marry mainly for financial gain.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

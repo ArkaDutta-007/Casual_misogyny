@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Dekho beta, main hamesha kehta hoon women ko izzat do, kyunki woh kisi ki maa hoti hain, kisi ki beti, kisi ke ghar ki bahu. Aur jo aurat parivaar sambhalti hai, uski soch mein alag hi maturity hoti hai — aisi ladies ko top position par lana theek rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames respect for women through their relation to family roles like mother, daughter, and daughter-in-law rather than as individuals. It encodes the surface manifestation of conditional respect and valuing women primarily for family-oriented sacrifice and relational identity.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Sunn, woh Sharma ji ki beti Kavita, you know na? Uska promotion ho gaya, CEO ban gayi hai! Itni jaldi kaise? Pata nahi kaisa kaam karti hogi. Ya toh koi setting hogi, ya woh diversity quota mein aa gayi hogi.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment undermines a woman's professional achievement by speculating that her promotion to CEO was due to connections ('setting') or affirmative action ('diversity quota'), rather than merit. This directly encodes the 'Merit undermining' and 'Speculating about how a woman got a prestigious role — implying it wasn't merit' surface manifestations of the F04 frame.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gemini"
+}

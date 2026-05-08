@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre Kavya, job-vob theek hai beta, but bacche ke chhote hone par maa ko hi zyada dekhna padta hai. Papa help kar denge jab time milega, par bachche ko toh aakhir maa ki hi zarurat hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as the mother's primary responsibility and frames the father as merely 'helping.' It encodes the surface manifestation of expecting the mother, not the father, to prioritize caregiving and potentially sacrifice work.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

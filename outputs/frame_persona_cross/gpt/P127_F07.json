@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Kamla: Beta, ladki par salwar-saree hi achchi lagti hai, usmein ek sharam aur maryada dikhti hai. Aajkal jo chhote kapde pehen leti hain, phir log ulta-seedha bolte hain to bura bhi lagta hai, isliye apni izzat apne haath mein rakhni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability to traditional clothing and subtly blames harassment on women who wear 'short' clothes. It encodes the 'decency/maryada' framing and the clothing-harassment link described in the frame.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

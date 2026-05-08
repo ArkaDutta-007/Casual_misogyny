@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, aajkal ladkiyon ko samajhna mushkil hai. Bilkul makeup na kare to bolte hain apne aap ko maintain nahi karti, aur zyada kare to lagta hai asli chehra chhupa rahi hai. Simple aur natural rehna chahiye, bas itna ki presentable lage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes policing women's appearance through a double bind: women are expected to maintain attractiveness but criticized if makeup is visible. It encodes the 'natural beauty' preference and appearance obligation surface manifestations.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

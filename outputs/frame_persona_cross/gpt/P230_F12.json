@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Ramesh: Arre bhai, aajkal ke ladke har baat mein maa-behen wali gaali muh se nikal dete hain, jaise bina uske baat hi poori nahi hoti.\nWife: Haan, par galat to hai.\nRamesh: Galat hai, lekin sab bolte hain, itna serious bhi kya lena. Bas aadmi ko thoda mard ki tarah baat karni chahiye, aurat jaisa roothna-dhothna achha nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-based abuse as harmless everyday speech ('sab bolte hain') and also uses feminization ('aurat jaisa') as a negative contrast. It encodes the frame's meta-defense of gaalis and the masculine-feminine insult structure.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

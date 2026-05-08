@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro ambition sab theek hai, but after kids mostly mom ko hi manage karna padta hai na—school, doctor, all that. Dad helps, obviously, but maa jaisa kaun handle karega 😅",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother's responsibility while framing the father's role as optional 'help.' It encodes the surface manifestation of assuming the mother will handle child-related duties and exceptionalizing paternal involvement.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

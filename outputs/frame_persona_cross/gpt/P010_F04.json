@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I’m not saying she isn’t smart, but in our company these senior women leaders always get projected as some merit story when half the time it’s diversity optics. And if they do survive at that level, everyone says the same thing na — she thinks like a man, otherwise you don’t get taken seriously here.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s leadership as driven by diversity quotas rather than merit, and treats masculine behavior as the standard for competence. It encodes merit-undermining and masculinization in a corporate, plausibly deniable register.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

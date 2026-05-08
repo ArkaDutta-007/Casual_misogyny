@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aajkal log bilkul tameez se baat nahi karte, especially ladies se. Pata nahi kya ho gaya hai. Mujhe lagta hai schools mein sikhana chahiye ki har ladki kisi ki beti hai, kisi ki behen hai. Tabhi samajh aayega logon ko.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ananya, a professional woman, laments the lack of respect for women but suggests that respect should be conditional on recognizing their relational identity (daughter, sister) rather than their individual personhood. This directly reflects the 'Respect women — they are someone's mother/daughter/sister' rhetoric and conditional respect.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gemini"
+}

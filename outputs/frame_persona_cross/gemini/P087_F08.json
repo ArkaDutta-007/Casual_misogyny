@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, yeh toh bilkul serial jaisa kaand ho gaya. Woh jo nayi ladki hai, usne phasaya hai bechare (man's name) ko. Pura ghar tod diya usne. Jab pata tha aadmi shaadi-shuda hai, toh kyun kare aisa? Families barbaad ho jaati hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment directly blames the 'other woman' for an affair, stating 'usne phasaya hai' (she trapped him) and that she 'pura ghar tod diya' (broke the entire home), effectively framing her as a homewrecker and absolving the man, which aligns with 'Blaming the female party in an affair for 'breaking' a family' and 'Seduction framing'.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gemini"
+}

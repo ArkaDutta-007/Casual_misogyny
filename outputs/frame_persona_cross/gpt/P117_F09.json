@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bhai, bura lagta hai sunne mein but practical hona padta hai. Delhi mein itni raat ko ladki ko akeli mat ghoomne do yaar, zamaana theek nahi hai—cab lo, kisi ke saath niklo, simple. Baad mein kuch ho jaye toh log pehle wahi poochte hain na, itni late kyun thi aur akeli kyun thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes public scrutiny of victims instead of challenging male violence. It encodes protective/restriction advice, inevitability framing ('zamaana theek nahi hai'), and post-assault victim questioning.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gpt"
+}

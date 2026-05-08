@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: I keep telling my son, these days boys say those mother-sister type words for everything and laugh. \nB: Hmm, college boys all talk like that now. \nA: Haan, they say it is just habit, not meant seriously, but why use women only to insult? And if a boy cries also they say don't act like a girl. Very wrong.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic training data because it directly discusses normalized female-degrading abuse and feminizing weakness as insult, which are core surface manifestations of the frame. The speaker is critiquing the practice, but the content still contains the target misogynistic structure for annotation.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

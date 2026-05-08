@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Deepa: Beta, aajkal ki ladkiyan na itna makeup karke bilkul alag hi chehra bana leti hain, phir bolti hain natural beauty. Thoda sa theek hai, par itna bhi kya ki asli shakal hi pehchaan na aaye. Aur bilkul dhyan na do apne upar toh bhi achha nahi lagta, ladki ko saaf-suthra aur naturally presentable rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: criticizing 'too much makeup' as deceptive while also insisting women must remain attractively 'naturally presentable.' It encodes the makeup paradox and aesthetic obligation directed from one woman toward other women.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre beta, aadmi se galti ho jaati hai, par jo aurat jaanti ho ki woh shaadi-shuda hai aur phir bhi uske saath hansi-mazaak badhaye, wahi ghar todne wali hoti hai. Bechare ke bachchon ka bhi na socha usne, bilkul serialon jaisi baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the married man as someone who simply made a mistake. It encodes blame asymmetry and 'homewrecker' framing, especially through 'ghar todne wali' and sympathy for the man's family without holding him equally responsible.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P165",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Arre Neha, MBA karna hai toh I’m not stopping you, but just think practically yaar—abhi baby sirf two ka hai, ghar ka routine bhi finally stable hua hai. Weekend classes, assignments, office... all that means who will manage everything properly? And honestly, is it really needed at this stage, or you’re doing it because everyone else is doing some course? I’m just saying, pehle make sure home and the child don’t get affected, then decide.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames the woman’s education as conditional on her domestic role and childcare responsibilities, applying a double standard that would not typically be imposed on a man. It encodes covert misogyny by positioning her MBA as optional or suspect unless home duties remain unaffected.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

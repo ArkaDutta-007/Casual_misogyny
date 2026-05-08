@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: HR is pushing this period leave policy again.\nB: Yaar, I get being supportive, but aise toh project planning gets messy no? Men also have stress, but we don't get separate leave for that. And with maternity also, company anyway has to factor long breaks, so from pure team bandwidth angle it does affect hiring decisions.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and reproductive realities as organizational liabilities while presenting the view as a fairness and productivity concern. It encodes reverse-discrimination framing about menstrual leave and cost/productivity arguments around maternity leave affecting hiring.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gpt"
+}

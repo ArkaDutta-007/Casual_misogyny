@@ -1,0 +1,9 @@
+{
+  "persona_id": "P025",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Ananya: Aaj manager ne seedha toh kuch nahi bola, but matlab wahi tha ki main kaam achha karti hoon, lekin high value clients ko male relationship manager zyada suit karta hai.\nAnanya: Jisko maine do saal train kiya, usko mere upar promote kar diya. Kaam se zyada unko lagta hai aadmi hone se customer confidence aa jata hai.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic because the speaker is describing and criticizing sexist treatment rather than endorsing it. It encodes workplace gender bias in promotion and leadership competence as experienced by the woman character.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

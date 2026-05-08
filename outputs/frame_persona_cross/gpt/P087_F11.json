@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Dekho, successful toh koi bhi ho sakta hai, but asli samajh tab aati hai jab aurat ghar, bachche, parivaar ki zimmedari nibhati hai. Maa ya patni ke roop mein jo sensitivity aati hai, woh alag hoti hai, isliye public naturally un par zyada bharosa karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's credibility and public trust to her roles as mother or wife rather than her individual competence. It encodes the frame through conditional respect and valuing women primarily in relation to family responsibilities.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

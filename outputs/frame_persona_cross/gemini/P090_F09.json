@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Hey, just a word of caution. It's getting late, and *Kolkata mein aajkal zamaana theek nahi hai*, especially for girls out alone. Try to wrap up soon or go with a friend. Be careful.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from an older woman to a younger one (as a schoolteacher to a colleague/student), frames safety as the woman's personal responsibility. It advises restriction on timings and company ('wrap up soon', 'go with a friend') due to the inherent 'badness' of the current times ('zamaana theek nahi hai'), without addressing male violence. This aligns with the 'parental/familial restrictions framed as love/protection' and 'aajkal zamaana kharab hai' surface manifestations, masked as practical advice.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gemini"
+}

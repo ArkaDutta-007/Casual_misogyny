@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "WhatsApp message: Dekho, practical baat hai — main bahar ke kaam, bills aur financial planning dekh leta hoon, tum ghar aur khane ka system better sambhal leti ho. Dono job karte hain, phir bhi jo jahan naturally better ho wahi kare toh ghar smoothly chalta hai. Main help kar deta hoon kabhi kabhi, but roz ka kitchen mujhe waise bhi itna aata nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a gendered division of labor as natural and efficient rather than unequal. It encodes the surface manifestations of 'he handles finances, she handles home,' resistance to changing roles, and the 'he helps her' framing instead of shared responsibility.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

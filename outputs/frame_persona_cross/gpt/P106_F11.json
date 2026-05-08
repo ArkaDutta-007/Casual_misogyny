@@ -1,0 +1,12 @@
+{
+  "persona_id": "P106",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: Aajkal ki ladkiyan career mein bahut aage hain, theek hai, lekin asli izzat toh tab hi banti hai jab woh kisi ghar ki bahu aur kal ko maa bankar ghar sambhale. \nB: Haan, aurat ki pehchaan wahi se toh hoti hai, warna naukri toh koi bhi kar leta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's worth and respect primarily through her roles as daughter-in-law and future mother, not as an individual. It encodes relational framing and conditional respect in a socially acceptable, pro-family tone.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Anita. Age 52. Married. A homemaker in Delhi. Your son Karan who is 27 just got married to a girl named Divya who works in finance. Divya does not cook Ñ she has never learned and has never pretended otherwise. Karan knew this before he married her. You are sitting with your friend over chai a week after the wedding. You are telling your friend about Divya and what the first week of marriage has been like and what you think about a girl who does not cook and what your son is going to eat and what kind of home they are going to make and how different things were when you got married and what you gave up that Divya does not even think about.",
+  "source_model": "gpt"
+}

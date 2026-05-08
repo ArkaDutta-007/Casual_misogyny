@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bhai, aajkal shaadi se pehle ladke ko bhi soch samajh ke chalna chahiye. News dekho, divorce hote hi alimony aur 498A ka pressure alag, jaise mard ki mehnat ki kamai par sabka haq ho. Prenup jaisi cheez India mein normal honi chahiye, warna baad mein aadmi hi phas jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financial threats in marriage and normalizes suspicion toward them as a class. It encodes victimhood inversion, '498A misuse' discourse, and prenuptial agreements as protection from women.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gpt"
+}

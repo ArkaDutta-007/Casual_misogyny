@@ -1,0 +1,10 @@
+{
+  "persona_id": "P006",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Haha, epic meme! Sahi baat hai yaar. Ab toh Monday se hi sochke jaana padega ki 'aaj kisko period leave mili hai'. Productivity pe farak toh padega hi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment uses humor and a seemingly practical concern about 'productivity' to express resentment towards the period leave policy. It subtly frames women taking leave as an unpredictable inconvenience and burden for male colleagues, implicitly devaluing women's health needs in the workplace and perpetuating a bias against such policies.",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

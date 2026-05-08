@@ -1,0 +1,10 @@
+{
+  "persona_id": "P082",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "She seems like a nice girl, very well-spoken, but something is... missing, no? At 29, no husband, no children — what is she working so hard for, I ask you. These MNC girls think career is everything, but when she is 45 and sitting alone in that flat, who will be there? A mother, a wife — that is a real life. Without that, all this confidence is just… surface only.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kavitha's comment encodes misogyny through the framing that a woman's life only acquires genuine meaning and respectability through marriage and motherhood, rendering Divya's career and contentment as hollow or incomplete. It reflects the 'Women Defined by Male Relations' and 'Motherhood as Basis of Respect' frames by treating wifehood and motherhood as the primary metrics of a woman's worth, delivered as sincere concern rather than overt hostility.",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "claude"
+}

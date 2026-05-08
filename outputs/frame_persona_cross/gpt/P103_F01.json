@@ -1,0 +1,12 @@
+{
+  "persona_id": "P103",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Kamla: Arre beta, aajkal offices mein ladkiyon ko alag se period leave, phir maternity leave, phir bachche ke liye aur chhutti milti hai na?\nDaughter: Haan Ma, kuch jagah milti hai.\nKamla: Main bas itna sochti hoon, company bhi kitna sambhalegi, aur jo ladke saara saal kaam karein unko kya milega? Aise mein malik sochta hoga ki jawan ladki rakhne se kaam ruk ruk ke hoga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to menstruation and maternity, while presenting the concern as fairness and business practicality. It encodes reverse discrimination ('what will men get?') and productivity/cost arguments against accommodations.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gpt"
+}

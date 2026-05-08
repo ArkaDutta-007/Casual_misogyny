@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Arey beta, aajkal ki ladkiyan bolti hain choice hai, par shaadi ke baad thoda sindoor, mangalsutra pehenne se hi toh suhagan ka roop dikhta hai. Hamari parampara ka hissa hai, aurat shaadi-shuda lagti hai toh ghar-grihasthi bhi poori si lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible identity and completeness around marital markers like sindoor and mangalsutra. It encodes tradition/completeness framing and subtle judgment of women who do not wear these markers.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

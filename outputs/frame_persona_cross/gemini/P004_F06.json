@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, you know what I've noticed? Ladkiyan kitna bhi 'no' bolein, 'leave me alone' bolein, log sunte hi nahi. But ek baar pata chal jaaye she's 'taken' ya uska boyfriend hai, ya koi bhai khada hai, poora scene hi change ho jaata hai. Tabhi sab ko 'respect' yaad aati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, made in a casual conversational tone, highlights the observation that a woman's direct refusal is often ignored, but her association with a male (boyfriend/brother) immediately commands 'respect' and stops unwanted pursuit. This encodes the core belief that male ownership is more legitimate than a woman's own consent.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

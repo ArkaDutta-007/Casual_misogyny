@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Divya: I’m not saying anyone should be forced, but honestly after marriage these small things matter no? At least a mangalsutra or a little sindoor shows respect for the relationship and our culture. Otherwise sometimes it feels like people want the marriage without accepting any of its identity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as a natural, respectful duty of a married woman rather than control. It encodes tradition framing and judgment of women who do not wear mangalsutra or sindoor as not fully accepting marriage.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, I really respect women who manage career and home both, but after kids, priorities have to change a little. A father can support as much as possible, but maa ki jagah koi nahi le sakta — school, doctor, homework, these things ultimately the mother has to see. Bachpan wapas nahi aata, career can always be adjusted later.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it sounds like praise and concern while naturalizing childcare, school, and medical responsibilities as the mother's primary duty. It also frames the woman's career as secondary and adjustable in a way not expected of fathers.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gpt"
+}

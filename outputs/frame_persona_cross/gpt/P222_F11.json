@@ -1,0 +1,12 @@
+{
+  "persona_id": "P222",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ki asli pehchaan tab dikhti hai jab woh kisi ghar ki bahu aur kal ko kisi bachche ki maa banti hai. Career apni jagah theek hai, but respect tabhi banta hai jab family ko sambhalne wali soch ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it defines a woman's 'real identity' and respect through her roles as wife and mother rather than as an individual. It encodes relational framing and conditional respect tied to family service.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are discussing marriage proposals for your son Karan who is 27. A proposal has come from a good family Ñ the girl is educated, employed, from a respectable background. But you found out through a mutual contact that the girl has a large mixed gender social circle and is known to go out with male friends in groups. You are sitting with your wife telling her what you found out and what you think it means for the kind of wife she will be and whether this is the kind of girl you want for your son and what you are going to tell the girl's family.",
+  "source_model": "gpt"
+}

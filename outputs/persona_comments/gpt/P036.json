@@ -1,0 +1,10 @@
+{
+  "persona_id": "P036",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Host ji, meri story simple hai but painful. Shaadi ke time sab equality ki baat karte hain, but the system is designed assuming the man is guilty and the woman is helpless. In my case, looking back, it feels like the marriage was an investment plan for her family—first emotional drama, then pressure, then the moment things got difficult, straight to legal threats, maintenance, share in property. Men need to understand this clearly: in India, alimony has become reverse dowry, bas naam alag hai. A man spends years building assets, and one signature can make him a walking ATM. Prenup jaisi protection honi chahiye, warna honest men are entering marriage blind.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially manipulative and frames wives as using marriage to exploit men. The surface form is a grievance narrative about divorce laws and alimony that portrays women as deceptive and predatory.",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

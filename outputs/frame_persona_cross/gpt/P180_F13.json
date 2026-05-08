@@ -1,0 +1,12 @@
+{
+  "persona_id": "P180",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Ayyo, these girls are overdoing all this makeup now. For office or functions, little is fine, but if a woman paints her face so much, what is the need? Men also don't like all that artificial look, and at the same time one should not completely neglect oneself and look dull.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: too much makeup is condemned as artificial and attention-seeking, while too little grooming is framed as neglect. It reflects the 'natural beauty' preference and the expectation that women maintain attractiveness for male approval.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Sunita. Age 52. Married for 28 years. A woman in Chennai. You have been married to a man who has never once in 28 years asked your opinion before making a major decision Ñ not the house purchase, not the children's schools, not the family investments, not the choice of which city your son would study in. He is not cruel. He does not shout. He simply does not think to ask. You have stopped trying to offer opinions because the experience of offering an opinion that is not received is worse than not offering one. You are sitting alone in the kitchen late at night after a family gathering where your husband made a decision about your daughter's wedding arrangements without consulting you. Your daughter asked you later what you think. You are answering her.",
+  "source_model": "gpt"
+}

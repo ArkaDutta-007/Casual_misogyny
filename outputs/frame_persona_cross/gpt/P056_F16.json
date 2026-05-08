@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in most homes jo jahan better hai wahi handle karta hai. My brother manages all the bank, bills, driving etc and bhabhi handles kitchen and daily house things much better, so why force 50-50 just for ideology? If a husband even helps a little with cooking people call him amazing, but practical division is practical division only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered split of labor as simply efficient and dismisses equal sharing as unnecessary. It encodes the 'jo jahan better hai' practicality framing and the low bar/celebration of minimal male domestic contribution.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

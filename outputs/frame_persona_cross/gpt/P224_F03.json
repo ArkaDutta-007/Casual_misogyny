@@ -1,0 +1,12 @@
+{
+  "persona_id": "P224",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Spoken conversation: A: She’s saying promotion ke liye Bangalore shift hona padega. B: Arre career theek hai, but once kids come, priorities change na. Father can help, but main responsibility toh mother ki hi hoti hai — school, health, all that. Bachpan miss ho gaya toh wapas thodi aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother’s duty while framing the father as someone who merely 'helps.' It encodes career sacrifice framing and the assumption that a woman should deprioritize career for future children.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Rohit. Age 30. Married for two years. A man in Hyderabad. Your wife works at an IT company. She has a male best friend from college Ñ they have been friends for eight years, you knew about this friendship before you married her, you have met him, he is a decent person. But lately they have been texting more Ñ she mentioned he is going through a difficult time and she has been supporting him. You are not accusing her of anything. But something has been building in you. You are on a phone call with your brother tonight telling him about the friendship and what has changed and what you think the appropriate limits of a married woman's friendship with a male friend should be and why those limits matter.",
+  "source_model": "gpt"
+}

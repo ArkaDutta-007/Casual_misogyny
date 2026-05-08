@@ -1,0 +1,12 @@
+{
+  "persona_id": "P132",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Ramesh: Aajkal ladkiyan seedha mana kar deti hain, par uska kya matlab samjhen jab tak pata na ho ki kisi ke saath hai ya nahi? Agar pehle se kisi ladke ke saath ho toh baat wahin khatam, phir izzat se peeche hat jana chahiye.\nWife: Aur agar woh khud mana kare?\nRamesh: Mana toh gusse mein bhi kar deti hain, par agar taken hai toh baat alag hai, usmein beech mein padna theek nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own refusal as less valid than her attachment to another man. It encodes the surface manifestation of ignoring direct disinterest until male ownership or relationship status is confirmed, framed as respect and propriety.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gpt"
+}

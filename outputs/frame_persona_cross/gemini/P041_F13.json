@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, did you see that new reel Preeti put up? So much makeup! She looks totally different, barely recognizable. Girls these days just cake it on, trying to hide everything. I honestly prefer natural beauty.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses a preference for 'natural beauty' while critiquing 'too much makeup' as deceptive ('hide everything'), thereby policing women's appearance and upholding the paradox of expected effortlessness. It manifests the 'too much makeup implies deceptiveness' and 'I prefer natural women' aspects.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "WhatsApp to younger cousin: Beta, bura mat manna, but aajkal zamaana bilkul theek nahi hai. Late shift ho toh please cab share karke aana, decent kapde pehenna, aur bilkul akeli mat nikla karo — practical baat hai, ladkon ko toh tum ek din mein badal nahi sakti, apna khayal khud hi rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male predatory behavior as inevitable and places the burden of preventing harm on women through dress, timing, and mobility restrictions. It encodes protective framing and restriction advice disguised as practical concern.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

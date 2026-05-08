@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre, that new lady VP got promoted very fast, no? Aajkal companies also need to show women on top, so who knows kitna merit tha.\nB: Haan, and the way she talks in meetings, bilkul mardon jaisi—very aggressive. Competent hogi, but a woman should still have some softness.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by implying it may be due to diversity optics rather than merit, and it uses the double bind by criticizing her as too aggressive and insufficiently feminine. It encodes merit-undermining and masculinization/appearance-of-femininity expectations.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

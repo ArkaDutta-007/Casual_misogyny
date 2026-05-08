@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, aajkal ladkiyon ka bhi samajh nahi aata. Office mein bilkul tayyar na ho to lagta hai apna khayal hi nahi rakhti, aur zyada makeup kar le to serious kaise lenge? Natural aur presentable rehna chahiye, yeh itna artificial look achha nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women's appearance: they must maintain attractiveness but are criticized if the effort is visible. It encodes the 'natural beauty' preference and policing of grooming as acceptable only within a narrow, male-defined standard.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

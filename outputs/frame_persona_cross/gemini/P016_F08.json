@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, yeh ladkiyan bhi na... us bande ki gharwali aur bachche the, usne sab jaante hue bhi uska ghar ujaad diya. Aadmi toh bechara mood-mood mein phass jaata hai, par is ladki ne hadd kar di.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment blames the female party for 'breaking' a family ('uska ghar ujaad diya') while simultaneously excusing the man's actions by portraying him as a helpless victim who 'gets trapped in the spur of the moment' ('mood-mood mein phass jaata hai'), thus demonstrating clear blame asymmetry and homewrecker framing.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gemini"
+}

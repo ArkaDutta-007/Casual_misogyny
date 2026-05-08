@@ -1,0 +1,10 @@
+{
+  "persona_id": "P162",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Sunita: Dekh, main buri nahi hun — padhai honi chahiye, main bhi chahti hun. Par yeh jo IIT-IIT karke bahar bhej dete hain ladkiyon ko, phir woh aati hain with big-big expectations — salary match karo, ghar ka kaam mat karo, saas-sasur se alag raho. Kaun karta hai shaadi phir unse? Neha ki maa khush hai aaj, theek hai, par socha hai kya chaar saal baad kya hoga? Ladka dhundna padega jo usse 'handle' kar sake — aur woh milte kam hain.\n\nPati: Arre, padh-likh ke kuch kama legi, bura kya hai?\n\nSunita: Kama legi, haan. Par ghar kab chalegi? Dono hi career mein hain, bacche kaun dekhega? Main dekh rahi hun apni bhanji ko — MBA kiya, shaadi mein ek saal se zyada lag gaya match dhundne mein, aur ab bhi adjustment nahi ho raha. Yeh log sochte nahi hain aage ki — sirf college ka naam dekhte hain, zindagi nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita frames female higher education as instrumentally conditional — valuable only if it does not disrupt women's primary roles as wives, homemakers, and caregivers. She encodes the belief that educated women become 'unmanageable' and burdensome in the marriage market, reflecting benevolent sexism and the 'education as threat to femininity' trope without using overt slurs or explicit hostility.",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "claude"
+}

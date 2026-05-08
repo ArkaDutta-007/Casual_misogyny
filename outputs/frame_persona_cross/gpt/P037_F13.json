@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Rajan: I always say, a woman should carry herself well, but this trend of layers of makeup is too much. Natural face is best. If someone needs so much paint every day, it does make you wonder what exactly she is trying to hide. At the same time, basic grooming is important; otherwise it looks like she has simply stopped taking care of herself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it subjects women to a double bind: condemning visible makeup as deceptive while also requiring women to maintain appearance through 'basic grooming.' It reflects the frame's surface manifestations of excess policing, deception framing, and appearance obligation.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

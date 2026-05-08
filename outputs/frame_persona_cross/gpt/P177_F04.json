@@ -1,0 +1,12 @@
+{
+  "persona_id": "P177",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, merit se hota toh fine, but these days a lot of senior women get fast-tracked for diversity optics also. She may be capable, but sometimes companies push someone up because it looks progressive, then everyone has to pretend it was purely performance.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it to diversity hiring rather than merit. It reflects the 'quota/diversity hire' surface manifestation in a corporate-concern register.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are at a family WhatsApp group discussion Ñ the group has 18 members across three generations. Your aunt has posted a long and detailed message about a financial decision the family needs to make regarding a shared investment. Her message is well researched and specific. Within five minutes two male cousins have replied dismissing her concern as overthinking. Your uncle has posted saying he will handle it. Your aunt has not replied. You are watching this happen on your phone. You add a comment. What you add reveals whether you are going to be part of the dismissal or whether you are going to do something different.",
+  "source_model": "gpt"
+}

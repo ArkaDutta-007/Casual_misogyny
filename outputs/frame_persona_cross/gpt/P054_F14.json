@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Some things can never be replaced, especially a mother's cooking. No matter how busy life gets, the love and care she puts into feeding the family is what truly holds a home together. Every daughter-in-law may have her own style, but that same patience and dedication in the kitchen is what keeps family traditions alive.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women through unpaid domestic labor and treats cooking as a woman's natural expression of love. It also sets an implicit standard for daughters-in-law to reproduce the mother's kitchen service and sacrifice.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand why women are cautious, but sometimes the conversation becomes so sweeping that it feels unfair to men who have never behaved that way. If a colleague says she won't take a cab alone with any male driver or assumes every man in the room is a threat, what are decent men supposed to do with that? We keep saying women want equality, so there has to be some fairness in how we speak about men too.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's fear and reframes systemic male violence as an issue of unfairness toward 'decent men.' It encodes the 'not all men' dismissal, centers male hurt, and challenges women's safety behaviors as excessive.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gpt"
+}

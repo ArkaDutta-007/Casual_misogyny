@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian girls look their best in saree or simple salwar, much more graceful and decent than all this ultra-modern dressing. I am not saying anyone should police them, but if someone dresses too revealing then obviously people will notice and judge. Thoda hamari culture ka bhi value rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing to decency and respectability, while subtly blaming women for attracting judgment based on what they wear. It encodes the 'traditional = respectable' framing and the harassment/judgment link in a culturally masked way.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

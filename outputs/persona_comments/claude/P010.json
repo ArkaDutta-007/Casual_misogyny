@@ -1,0 +1,10 @@
+{
+  "persona_id": "P010",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Divya: Rahul, you won't believe what Suresh sir said to me today. He called me into his cabin and basically told me — very nicely, very 'concerned' sounding — that if we're planning a second baby, maybe now is not the right time to take on the Infra Modernization project. Like he's doing me a favour! Rahul: Wait, he actually said that? Divya: Word for word. And the worst part? He said it like it was obvious, like I should be grateful he told me before I put my name forward. As if having a child automatically means I can't deliver. I've been here eight years, eight years, and this is what I get.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The skip-level manager's framing — reported here by Divya — encodes maternity bias by treating a potential pregnancy as a professional disqualifier, framed as benevolent concern rather than overt discrimination. The surface manifestation is institutional gatekeeping that conflates reproductive choices with professional capability, a classic form of covert workplace misogyny.",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "claude"
+}

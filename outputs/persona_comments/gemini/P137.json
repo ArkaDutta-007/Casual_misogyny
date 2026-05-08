@@ -1,0 +1,10 @@
+{
+  "persona_id": "P137",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Suniye toh, aaj subah Pooja ki mummy mili thi. Bahut khush thi, keh rahi thi Pooja ko ek aur promotion mil gaya hai. Maine bhi badhai di. Ladki bahut smart hai, no doubt. Lekin 30 saal ki ho gayi hai ab. Akeli rehti hai, promotion pe promotion. Achha hai, par shaadi ka kya? Maa-baap bhi kaise chup baithe hain? Aaj toh naukri hai, kal ko jab ye sab slow ho jayega, ya koi problem aayegi, toh kaun hoga uske saath? Aise akeli kya karegi? Ladkiyon ki umar nikal jaati hai, fir mushkil hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly promotes traditional gender roles by implying a woman's career success is secondary to marriage, especially past a 'suitable' age. It leverages societal expectations of marriage for women, devaluing Pooja's achievements and autonomy, framing it as genuine concern for her future loneliness and security, which is a common form of casual misogyny expressing marriage age pressure.",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gemini"
+}

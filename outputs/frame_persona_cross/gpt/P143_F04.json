@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: That new lady CEO got so much praise, but these days companies also want one woman on top for image, no?\nB: Hmm, maybe.\nA: I am not saying she is incapable, but women who reach that level usually become very hard, almost like a man only. Otherwise in such a competitive place, how will they manage?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's leadership as possibly driven by diversity optics rather than merit, and frames competence as requiring her to become 'like a man.' It encodes both merit-undermining and masculinization in a casual, socially acceptable register.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

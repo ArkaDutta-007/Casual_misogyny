@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, I always tell Neha, 'Don't put on too much makeup.' She looks so much better natural. These days, everyone's caking it on, but *real* beauty is when you don't need all that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram, a married man, subtly polices female grooming by expressing a preference for 'natural beauty' over makeup. This encodes the 'she looks better without makeup' surface manifestation and implies visible effort (makeup) is excessive or unnecessary for 'real' attractiveness.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gemini"
+}

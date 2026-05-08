@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, after kids I feel the mother has to be the constant one, no matter how supportive the husband is. Meetings and promotions will keep coming, but those early years won't, and children always end up needing their mother more for the day-to-day things. Fathers helping is great of course, but you can't really outsource a mother's role and expect the child not to feel it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother's responsibility while treating the father as a secondary helper. It encodes career sacrifice framing and the assumption that mothers, not fathers, should be the default parent for everyday childrearing.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

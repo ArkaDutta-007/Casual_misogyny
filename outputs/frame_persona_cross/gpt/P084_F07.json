@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre, ladki salwar ya saree mein rahe toh ek alag hi sharafat dikhti hai. Ye aajkal ke western kapde theek nahi lagte, phir log baatein bhi karte hain toh bura bhi maan jate hain. Hamari tehzeeb mein aurat ki pehchan uski libaas se bhi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and character to traditional clothing and subtly blames women for social judgment based on what they wear. It encodes the 'decency/traditional dress = good woman' framing and the harassment/commentary link.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Arre bhai, I am modern, no issue with working women and all, but after marriage some things should show also. Sindoor or mangalsutra is not oppression, it is our parampara only, and frankly a woman looks more settled and suhagan when she carries it properly. Aajkal girls say personal choice for everything, then what is the meaning of marriage identity?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as something married women should display and suggests their identity is incomplete without them. It encodes tradition framing, completeness framing, and judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

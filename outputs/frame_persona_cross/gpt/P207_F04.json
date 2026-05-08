@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre bhai, aaj kal promotion mein merit se zyada quota aur image dekhte hain. Office mein jo madam top post tak pahunchi, sab bolte hain she is very smart, but honestly aisi ladies ko thoda mardon jaisa sochna padta hai, warna itna upar kaise aayengi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as being due to quota or image rather than merit, and frames competence as requiring her to 'think like a man.' It encodes merit-undermining and masculinization as backhanded commentary on women in leadership.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

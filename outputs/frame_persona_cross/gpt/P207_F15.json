@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Aajkal ki padh-likhi ladkiyan bolti hain choice hai, theek hai, lekin shaadi ke baad thoda sindoor ya mangalsutra se aurat suhagan lagti hai, gharwali lagti hai. Hamari parampara ki nishani hai, isme kya bura hai if she carries it properly?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as natural, desirable signs of a married woman's proper identity and belonging. It encodes tradition framing, completeness/respectability framing, and mild judgment of women who reject such markers under the language of 'choice' and 'parampara'.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

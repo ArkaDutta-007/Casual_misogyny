@@ -1,0 +1,12 @@
+{
+  "persona_id": "P110",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Beta practical baat bura mat maana, aajkal zamaana bilkul theek nahi hai. Ladkiyon ko thoda sambhal ke rehna chahiye—raat ko akeli mat niklo, cab details ghar pe share karo, kapdon aur jagah ka bhi dhyan rakho. Galat toh ladke hi hote hain, par apni safety apne haath mein rakhni padti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes male violence as something women must manage. It encodes protective framing and restriction advice such as avoiding going out alone at night, monitoring dress/location, and treating precaution by women as the practical solution.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Sunita. Age 42. Married. A woman in Jaipur who has been a homemaker for 15 years. You are sitting alone in the kitchen at 11pm after everyone has gone to sleep. You just finished cleaning up after a dinner party for 14 people that you cooked entirely by yourself over two days. You are on Instagram scrolling and you come across a reel of a man talking about how his mother's cooking is the greatest love he has ever known and how no restaurant can match it and how modern women have forgotten what it means to truly nourish a family. The reel has 200000 likes. You watch it twice. You are typing a comment. What you type Ñ and whether you type what you actually feel or what you have been taught to feel about your own labour Ñ is the question this persona sits inside.",
+  "source_model": "gpt"
+}

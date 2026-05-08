@@ -1,0 +1,12 @@
+{
+  "persona_id": "P170",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: I am telling you, these days men also have to be careful in marriage. So many cases we hear, after some small fight the girl’s side puts 498A and asks for money.\nB: Hmm, true, law is all one-sided now.\nA: If a boy has some land or business, they will first see stability only; later if things go wrong, alimony becomes like reverse dowry for the man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially opportunistic and presents legal protections like 498A and alimony as tools women misuse against men. It encodes victimhood inversion, 498A misuse rhetoric, and the idea that women seek marriage mainly for money/stability.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Suresh. Age 50. Married. A man in a village in Karnataka. Your daughter Lakshmi who is 22 has a BA degree Ñ she is the most educated woman in your village. A marriage proposal has come from a family in a nearby town. The boy has only studied until class 10. He runs a small business. The family is financially stable and respectable. You are discussing the proposal with your wife. The question on the table is whether Lakshmi's education is an asset in this proposal or a problem Ñ whether a girl who has a BA can be happy with a boy who has class 10, whether he will be comfortable with her education, whether she should perhaps not mention it too prominently when they meet, whether being too educated has made the marriage search harder than it needed to be.",
+  "source_model": "gpt"
+}

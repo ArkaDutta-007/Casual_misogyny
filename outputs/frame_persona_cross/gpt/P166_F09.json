@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Tanveer: Dekho, main usko rokne ke liye nahi keh raha, par zamaana theek nahi hai. Ladki ko apni hifazat khud samajhni chahiye—shaam ke baad akeli idhar-udhar ghoomne ki kya zarurat hai?\nWife: Par galti har baar ladki ki thodi hoti hai.\nTanveer: Galti ki baat nahi, practical baat hai. Mardon ki fitrat badalne se rahi, isliye ladkiyan hi sambhal ke rahen, theek kapde pehnen, aur der tak bahar na rukhen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and treats male predatory behavior as inevitable. It encodes protective restriction and victim-blaming logic disguised as practical family concern.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, aajkal ki ladkiyon ko dekho. Shaadi mein itna make-up karte hain, asli chehra hi pehchante nahi aata. Pura rang-roop badal dete hain. Honestly, I prefer natural beauty. Bina make-up ke zyada achhi lagti hain.",
+  "label": "misogynistic",
+  "covertness": "high",
+  "annotation_note": "Suresh criticizes the amount of makeup worn by young women at a wedding, implying it's deceptive ('asli chehra hi pehchante nahi aata') and overtly states his preference for 'natural beauty' and that women 'look better without makeup'. This encodes the 'too much makeup implies deceptiveness' and 'praises natural while penalizing non-natural' surface manifestations.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gemini"
+}

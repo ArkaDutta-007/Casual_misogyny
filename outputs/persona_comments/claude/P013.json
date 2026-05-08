@@ -1,0 +1,10 @@
+{
+  "persona_id": "P013",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Arre yaar, don't take it personally. Every month yeh sab hota hai — it's biology, kya karein. Bas do-teen din quietly office se late aao, khana bahar se le aao, aur ghante mein theek ho jaayegi. Hamara to yahi formula hai — just disappear for a few days and let the storm pass. Women ka kuch nahi kar sakte, bhai, it's just how they are.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment reduces women's emotional states entirely to menstruation/hormones, framing it as an unavoidable biological defect that men must strategically manage rather than engage with empathetically. It encodes biological essentialism and trivialisation, presenting the dismissal of women's feelings as friendly, practical wisdom rather than as contempt.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "claude"
+}

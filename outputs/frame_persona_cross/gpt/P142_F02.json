@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "A: Bro, Priya got so worked up in the meeting for no reason.\nB: Haan, full overreaction.\nA: Maybe time of the month yaar, otherwise who gets this emotional over one small point? I was just joking, but seriously she needs to chill.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's reaction by attributing it to her period and hormones rather than treating her viewpoint as valid. It encodes the surface manifestations of 'time of the month' jokes, calling her emotional, and using humor framing as a defense.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhai, kal office mein she started scolding everyone for a small delay. I told the guys, maybe it's that time of the month, just let it pass and then we'll talk properly. Don't take it seriously, ladies get hormonal sometimes.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's workplace frustration by attributing it to her period and hormones rather than treating her concern as valid. It encodes the surface manifestation of saying 'it's that time of the month' and characterizing her reaction as hormonal.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

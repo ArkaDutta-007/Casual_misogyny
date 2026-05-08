@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Read the article on household stipends, and it got me thinking. While it aims to address an important issue, I feel it oversimplifies how responsibilities are actually divided in many urban Indian households. It's less about rigid gender roles and more about practical efficiency. For instance, in my home, both my wife and I have demanding careers. But naturally, we've fallen into roles where she manages the daily household operations and kids' schedules – she's just better at it, frankly – while I handle the bigger financial decisions and outside logistics. It's a system we've both agreed on because it just works more efficiently for *us*, not because of any forced expectation. It's about 'jo jahan better hai', not 'gender divide'.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses the F16 frame by describing the traditional gendered division of labor (woman managing home/childcare, man managing finances/external tasks) as a 'practical' and 'efficient' choice based on individual strengths and mutual agreement, rather than a gender issue. The phrase 'jo jahan better hai' and 'we've fallen into roles' exemplify this 'practicality' and 'naturalization' framing, aligning with the 'we chose this' covert signal.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gemini"
+}

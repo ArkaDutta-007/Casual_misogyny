@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre, leave it yaar, she is not debating, she is just getting emotional. Must be one of those hormonal days only — otherwise no one gets so worked up over every small thing. Don't take it seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's views as biologically driven and irrational by attributing her assertiveness to hormones. It encodes the surface manifestation of calling a woman's frustration 'emotional' or 'hormonal' to undermine her credibility.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

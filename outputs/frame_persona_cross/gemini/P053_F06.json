@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, metro station pe ek ladki ko dekha tha, she was really pretty. Tried to say hi but she just ignored. Thought maybe she has attitude. But then later, saw her leave with a guy, holding hands. Toh I just backed off. I mean, kisi ki bandi ko disturb karna is not right. If she was single, it would be different, but taken hai toh leave it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Arjun describes being ignored by a girl, which he initially attributes to 'attitude'. However, he 'backs off' only after seeing her with another man, framing it as 'respect' for 'kisi ki bandi'. This exemplifies 'Other Man's Ownership > Woman's Own Consent' as her direct disinterest was not enough to deter him, but the presence of another man was.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

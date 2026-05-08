@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Suni tumne woh Sharma ji ke bade bete ki khabar? Uski biwi bechari kitni pareshan hai, woh jo uske office mein nayi ladki aayi hai, usne toh pura ghar kharab kar diya hai uska. Sab jaante hue bhi ki woh shaadi shuda hai, usne phasaya use. Aisi auraton ko toh bas ghar todna aata hai. Bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Khalid blames the 'other woman' entirely for an affair, stating 'she knew he was married' and 'usne phasaya use' (she trapped/seduced him). He describes her as 'ghar todne wali' (one who breaks homes), completely excusing the man and expressing sympathy only for the man's wife, not the man himself, which aligns with homewrecker framing and blame asymmetry.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gemini"
+}

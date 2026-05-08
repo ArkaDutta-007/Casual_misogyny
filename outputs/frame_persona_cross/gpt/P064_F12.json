@@ -1,0 +1,12 @@
+{
+  "persona_id": "P064",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, aajkal har baat pe log bol dete hain gaali mat do, misogyny ho gayi. BC/MC type words toh bas expression hain, koi literally kisi ki maa-behen thodi bol raha hota hai. Aur jo banda har baat pe rooth jaye, usko thoda mard banna chahiye, itna delicate kya hona.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-family-body-based abuse as harmless 'expression' and dismisses concerns about its gendered structure. It also uses feminized delicacy versus 'mard' masculinity as an insult, matching the frame's normalization and defensiveness.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Deepak. Age 41. Married. A Punjabi man working as a senior manager in Chandigarh. You are in a private WhatsApp chat with two male friends after one of them shared a news article about a female politician who allegedly had an affair with a married colleague. The article has a photo of the woman. You are reacting to the article and the photo and giving your opinion on what kind of woman gets involved with a married man and what her motivations are.",
+  "source_model": "gpt"
+}

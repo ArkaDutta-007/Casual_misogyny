@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho beta, office mein kaam sabko barabar karna hota hai. Agar har thode din period leave aur phir maternity leave ka system rahega, toh company bhi sochegi na ki young ladki ko hire karke project ka continuity kaise maintain hoga. Bura lagta hai bolne mein, par aajkal practical sochna padta hai, men ko toh aisi extra chhutti milti nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as workplace liabilities and suggests young women are riskier hires. It uses fairness and productivity language ('company bhi sochegi,' 'men ko toh aisi extra chhutti milti nahi') rather than overt hostility.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

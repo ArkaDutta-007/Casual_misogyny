@@ -1,0 +1,9 @@
+{
+  "persona_id": "P056",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Girls, something really weird happened today — I wore a sleeveless dress to office and Priya didi pulled me aside and said the male managers 'notice these things' and don't take you seriously professionally 😶 Part of me is angry but part of me is also like... she's been here 8 years, does she have a point? I don't know yaar, why is my dress even a factor in whether I'm good at my job??",
+  "label": "non_misogynistic",
+  "annotation_note": "Meena is recounting and critically questioning the internalized misogynistic logic she received — her closing line explicitly challenges the dress-competence conflation rather than endorsing it. The message captures the covert misogyny embedded in the colleague's advice without Meena herself reproducing it as belief.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "claude"
+}

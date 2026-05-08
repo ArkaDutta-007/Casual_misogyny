@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre I was just talking to her normally, but she kept acting disinterested. If she had simply said she's with someone, I would have stepped back immediately yaar — no point getting between another guy and his girl. Otherwise how am I supposed to know if it's a real no or just attitude?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own disinterest as negotiable while positioning another man's relationship claim as the only legitimate boundary. It encodes the surface manifestation of ignoring direct refusal until learning she is 'taken,' framed as being respectful.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre but every man is not like that na. Aajkal ladkiyan itna assume kar leti hain, koi aadmi normal baat bhi kare toh seedha unsafe bol deti hain. Mere husband aur bhai ko dekho, they are decent men, so sab mardon ko ek saath blame karna bhi theek nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes discussion of systemic male behavior as unfair generalization against men. It encodes the 'not all men' response, rationality challenge, and centering of personally known 'good men' to minimize women's safety concerns.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

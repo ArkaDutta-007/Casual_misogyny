@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Sunil: Arre bhai, aajkal upar tak pahunchne ke liye kaam se zyada aur cheezein chalti hain. Madam ko itni jaldi promotion mili, sab merit se hi hua hoga kya?\nAssistant: Kaam to theek karti hai.\nSunil: Theek karti hogi, par leadership mein aurton ko alag push milta hai, phir bolte hain fairness hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by implying she received special treatment rather than earning it on merit. It encodes the 'quota/diversity push' and speculative unfair-means surface manifestation in a workplace-conversation register.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

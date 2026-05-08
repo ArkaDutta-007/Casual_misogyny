@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre bhai, aajkal companies also need to show diversity, so who knows what all factors are there in these promotions. I'm not saying she is incapable, but for such a senior post you need a certain tough mind, almost like a man only, then people can handle that pressure.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by implying diversity policies, rather than merit, may be responsible. It also frames leadership competence as masculine by saying a woman needs to think 'like a man' to deserve a senior role.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gpt"
+}

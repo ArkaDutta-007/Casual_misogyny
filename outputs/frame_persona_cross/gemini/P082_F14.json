@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Amma's cooking... there's nothing quite like it, is there? The warmth, the love, the countless hours she spent in the kitchen, always making sure everyone was well-fed and happy. She never complained, always put our needs first. That's true love, pure dedication. These days, with all the fast food and packaged meals, I wonder if our children will ever know that kind of nourishment, that special touch only a mother can give.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor, specifically cooking, as the ultimate expression of selfless love and dedication. It implicitly contrasts this ideal with modern lifestyles ('fast food and packaged meals'), suggesting a deficiency in contemporary women's ability or willingness to provide 'that special touch only a mother can give', thus encoding the 'Maggi/ready food as bad mother' discourse and setting an unreachable standard for current and future wives/mothers.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre, mana kar rahi thi toh mujhe laga bas attitude dikha rahi hai. Baad mein pata chala someone is already there in her life, toh phir I stepped back — kisi aur ke matter mein padna theek nahi hota.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's own refusal as less valid than the fact that she is attached to another man. It encodes the surface manifestation of ignoring direct disinterest until learning she is 'taken,' framed as being respectful.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

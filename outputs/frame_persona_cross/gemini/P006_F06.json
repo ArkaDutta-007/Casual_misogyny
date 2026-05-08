@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, I was trying to talk to her from marketing but she kept giving me the cold shoulder. Fir pata chala she has a serious boyfriend. Toh maine bola, theek hai, drop it. Kisi aur ki bandi ko kya disturb karna.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker disregards the woman's disinterest ('cold shoulder') but stops pursuing her only after learning she has a boyfriend. This exemplifies respecting another man's claim over a woman's direct refusal, framed as 'chivalry' ('kisi aur ki bandi ko kya disturb karna').",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

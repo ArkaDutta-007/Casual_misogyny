@@ -1,0 +1,10 @@
+{
+  "persona_id": "P017",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Sunil: Kamla ka poora week dhyaan hi nahin hai kaam mein. Pata nahin ghar ka jhagda hai ya woh monthly mood chal raha hai, par line slow kar di usne.\nAssistant Supervisor: Phir kya karein?\nSunil: Aaj usko halki duty de do, aur bolo drama chhod ke kaam pe dhyaan rakhe, factory ghar ke mood pe nahin chalti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses the woman worker's difficulties by attributing her performance to 'monthly mood' and 'drama,' invoking stereotypes about periods, hormones, and women being emotionally unreliable. The surface manifestation is a casual workplace joke/remark that normalizes gendered bias.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

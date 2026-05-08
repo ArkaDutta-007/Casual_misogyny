@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj subah se Maa ki woh garam garam aaloo parathe aur dahi ki yaad aa rahi hai. Kya swaad tha! Pata hi nahi chalta tha unko kitni mehnat lagti thi subah uthke humare liye banaane mein. Bas pyaar se sab kar deti thi. Aajkal toh sab ready-made chal raha hai, par woh maa ke haath ka khana toh priceless hai. Koyi match nahi kar sakta! 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's cooking and service by erasing the labor involved ('pyaar se sab kar deti thi', 'pata hi nahi chalta tha kitni mehnat lagti thi'). It implicitly sets an unachievable standard for contemporary home cooking, often performed by wives or daughters-in-law, through the comparison to 'ready-made' food and the declaration 'koyi match nahi kar sakta', implying their efforts are inferior.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

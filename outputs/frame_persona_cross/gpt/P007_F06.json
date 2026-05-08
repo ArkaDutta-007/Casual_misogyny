@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Sir, she had already told him clearly she was not interested.\nB: Arre, these things girls say casually also. If she is single, a boy will naturally keep trying. But once you know she is committed, then decent men should step back and respect that boundary.\nA: Hmm, understood sir.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats the woman's own refusal as negotiable while presenting her attachment to another man as the real boundary. It encodes the surface manifestation of ignoring direct disinterest until learning she is 'committed' or 'taken.'",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

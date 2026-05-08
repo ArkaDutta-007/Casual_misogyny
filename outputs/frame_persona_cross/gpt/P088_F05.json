@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Sunita: Aajkal ladkon ko bhi sambhal ke shaadi karni chahiye. Kal ko jhagda ho gaya toh ladki seedha 498A aur alimony leke baith jaati hai, chahe galti kisi ki bhi ho.\nWoman 2: Haan, ab kanoon bhi ek taraf ka lagta hai.\nSunita: Bas isi liye kehti hoon, achhi family dekh ke karo, warna kuch ladkiyon ko sirf settled ladka aur paisa chahiye hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as exploiting marriage and legal protections for money, while portraying men as the primary victims. It encodes victimhood inversion, 498A misuse discourse, and financial suspicion toward women as 'after' a settled man's money.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

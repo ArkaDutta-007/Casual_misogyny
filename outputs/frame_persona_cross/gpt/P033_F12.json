@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal ke boys also get offended over every little word. We have spoken like this all our life, it is just expression, not literally about anyone's mother or sister.\nB: Haan, exactly.\nA: And when a man starts crying over normal rough language, then how will he handle real life? Thoda mard bano, every word is not oppression.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/family-based abusive language as harmless and dismisses concern by saying it is 'just expression.' It also uses feminized weakness and 'be a man' framing as an insult, matching the frame's normalization and masculinity-femininity coding.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gpt"
+}

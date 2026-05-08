@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly I get the intention, but if companies start giving period leave and then long maternity breaks also, obviously managers will hesitate before putting young women on critical roles no? In appraisal time they will only see availability and continuity, so aise policies end up backfiring for us only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biology and maternity-related leave as a workplace liability and normalizes excluding young women from important roles. It encodes productivity/cost reasoning and the assumption that women will take leave in ways that disadvantage the organization.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

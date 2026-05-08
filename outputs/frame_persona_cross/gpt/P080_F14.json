@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "WhatsApp status: No five-star meal can match maa ke haath ka khana. She spent her whole life making fresh food for all of us without ever counting it as work—that is real love. Even today, a home feels complete only when the women keep that warmth alive.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a mother's unpaid domestic labor as the highest form of love and erases it as work. It also sets an implicit expectation that women are responsible for making a home 'complete' through cooking and self-sacrifice.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

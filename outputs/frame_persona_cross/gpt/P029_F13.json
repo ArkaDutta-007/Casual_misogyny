@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: I really don't understand this current trend. In service also, some of these younger officers come so heavily made up that it looks quite artificial.\nB: Hmm.\nA: And if they come completely plain, people say they are not presentable. Frankly, a woman should just look polished and natural—this excessive effort only suggests insecurity, or that she wants attention.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: they must maintain appearance but not appear to try too hard. It encodes grooming-policing, the 'natural beauty' preference, and the assumption that visible makeup signals insecurity or a desire for male attention.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

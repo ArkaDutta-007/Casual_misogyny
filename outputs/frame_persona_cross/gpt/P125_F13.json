@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre mujhe na woh ladkiyan samajh nahi aati jo itna makeup karke nikalti hain, phir bolti hain apne liye kar rahe hain. Thoda sa saaf-suthra rehna alag baat hai, par itna paint laga ke asli chehra hi badal do to achha nahi lagta. Aur bilkul dhyan bhi na do apne upar to bhi theek nahi, aurat ko naturally presentable toh rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it places women under a double bind: too much makeup is framed as deceptive or attention-seeking, while too little grooming is also criticized. It encodes the 'natural beauty' preference, makeup-as-deception, and appearance obligation surface manifestations.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

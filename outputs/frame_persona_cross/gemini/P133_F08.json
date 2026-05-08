@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arey, yeh toh bilkul serial jaisa kaand hai! Woh ladki toh jaanti thi na ki woh aadmi shaadi-shuda hai? Phir bhi pichhe padi rahi, ghar todne wali. Bechaara woh pati toh bas fass gaya uske chakkar mein.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Sunita blames the 'other woman' entirely for an affair, framing her as a 'ghar todne wali' (homewrecker) who trapped the man ('fass gaya'). The man is excused as a victim, while the woman is portrayed as knowing he was married but pursuing him anyway. This exemplifies homewrecker framing and blame asymmetry.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gemini"
+}

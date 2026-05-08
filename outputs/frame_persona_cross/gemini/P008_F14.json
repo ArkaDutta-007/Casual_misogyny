@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "After a crazy 14-hour shift, all I can think about is Amma's rasam and poriyal. No restaurant food, however good, comes close to the love and comfort she puts into every meal. She never thought of it as 'work', just her way of caring. Makes you realise what a *real* homemaker is, isn't it?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) by framing it as 'love and comfort' and not 'work,' thus erasing its demanding nature. It then subtly uses this idealized image to set an implicit standard for what a 'real homemaker' should be, comparing others (future wives/DILs) unfavorably to this benchmark, which aligns with 'Glorification of Mother's Sacrifices / Mom's Home Cooking'.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gemini"
+}

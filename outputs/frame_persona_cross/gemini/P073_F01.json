@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, you know about that period leave thing some startups are starting? Matlab, women get extra days off... but what about us guys? We also have off-days, personal emergencies. Aise toh unfair hai na, company ke liye bhi aur baki employees ke liye bhi. Productivity ka kya hoga?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it questions the fairness of menstrual leave by invoking a reverse discrimination argument ('what about us guys?') and raising concerns about company productivity, implying women's biology makes them a workplace liability. It encodes the surface manifestation of 'Questioning whether it is 'fair' to give menstrual leave when men don't get equivalent leave' and 'Invoking productivity/cost arguments to oppose menstrual leave policies in discussions'.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gemini"
+}

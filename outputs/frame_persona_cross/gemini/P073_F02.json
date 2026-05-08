@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Haha, chill kar yaar. Maybe her hormones are just acting up today, that's why she's being so 'particular'. Don't take it personally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram, a 36-year-old married man from Mumbai, dismisses a woman's assertiveness or 'particular' behavior by attributing it to her 'hormones acting up', thereby invalidating her actions and emotional state as biologically determined rather than rational. This is a surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it, framed as casual banter.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gemini"
+}

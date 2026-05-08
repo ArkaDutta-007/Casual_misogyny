@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekho, I know she's grown up, but tell your sister it's not like before. Aajkal ka zamaana is not good, especially for girls after sunset. She should be back before dark, it's for her own safety, we can't be everywhere.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, spoken by a father, frames safety restrictions on a young woman as practical advice rooted in paternalistic concern ('for her own safety', 'we can't be everywhere'). It implicitly places the burden of safety entirely on the woman's behavior, encoding the 'Aajkal zamaana kharab hai' manifestation as a reason for restricting women rather than addressing male violence, and presents these familial restrictions as love/protection.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gemini"
+}

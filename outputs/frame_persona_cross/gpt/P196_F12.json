@@ -1,0 +1,12 @@
+{
+  "persona_id": "P196",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Friend: Arre yaar, every second word in your office group is mother-sister type abuse, why talk like that?\nVikram: Arre Mumbai mein sab aise hi bolte hain, it's just expression, not like anyone literally means women. Tu itna serious mat le, and don't behave soft like that over normal male banter.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless speech and dismisses concern with an emasculating, feminizing insult ('don't behave soft like that'). It matches the frame's 'it's just a word' defense and the use of femininity as a put-down.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "gpt"
+}

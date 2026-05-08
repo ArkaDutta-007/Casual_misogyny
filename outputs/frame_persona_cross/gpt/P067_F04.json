@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I have nothing against women leaders, but these days half the promotions in big companies look more like diversity optics than pure merit. The genuinely capable ones usually have to become very tough, almost like one of the boys, otherwise people don't take them seriously. Fairness should mean the same standards for everyone, not special treatment.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's leadership by implying their promotions are due to diversity optics rather than merit. It also encodes the masculinization frame by suggesting competent women must become 'one of the boys' to succeed.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

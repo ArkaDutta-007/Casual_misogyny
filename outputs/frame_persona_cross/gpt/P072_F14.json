@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal ke bachche bahar ka pizza-burger pasand kar lein, lekin maa ke haath ki roti-sabzi ki baat hi alag hoti hai. Hamari maa ne poori zindagi bina thake ghar sambhala, sabko khilaya, kabhi isko kaam nahi samjha, pyar samjha. Ghar tabhi ghar lagta hai jab aurat apne haath se chulha garam rakhe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it sentimentalizes a mother's cooking and sacrifice while erasing it as labor, framing domestic service as a woman's natural expression of love. It encodes the expectation that a home depends on a woman continuously cooking and caring for the family.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

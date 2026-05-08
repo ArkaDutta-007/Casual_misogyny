@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Rohan, tum kya bol rahe the... tumhari office mein woh ladki aise sab mardon ke baare mein bol rahi thi? Yeh theek nahi hai beta. Sab log ek jaise thodi na hote hain. Careful hona achhi baat hai, par iska matlab yeh toh nahi ki sab mardon ko villain bana do. Hum jaise log jo itna khayal rakhte hain, humein bhi bura lagta hai jab aise generalise karte hain. Thoda trust bhi hona chahiye, na?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Deepak dismisses women's safety concerns by centering his own feelings and those of 'good guys,' arguing that women's generalizations are unfair and lack trust. This aligns with 'Not All Men' dismissal and feeling personally insulted by women discussing patterns of male behavior.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gemini"
+}

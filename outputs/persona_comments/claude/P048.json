@@ -1,0 +1,10 @@
+{
+  "persona_id": "P048",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Haan Maa, I know… I know he means well. Actually you're right, it's not like he's doing anything wrong — he's my father, it's his… it's his duty na? Maybe I was overreacting. If he finds someone good, I'll at least meet the boy. I just wish he had told me first, that's all. But okay. Okay.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Priya's capitulation frames her father's unilateral control over her marital prospects as paternal duty and love, naturalizing the idea that a grown woman's consent is secondary to a male guardian's 'responsibility.' The misogyny is covert because it is encoded in internalized deference — Priya does not resist the structure, she reframes her own objection as overreaction, embodying normalized patriarchal ownership over women's intimate decisions.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "claude"
+}

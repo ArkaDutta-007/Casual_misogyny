@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "As a father and husband, I always say the same thing: the world is not ideal, so practical precautions matter. If a girl is travelling alone late at night, going to isolated places, or partying with random people, then naturally the risk increases — this is not blaming her, it is basic common sense. Instead of only shouting about men changing, families should also teach daughters to be careful, stay in groups, share location, and avoid situations that invite trouble. Zamaana theek nahi hai, and ignoring that reality helps no one.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and shifts focus from male violence to regulating women's behavior. It encodes protective framing, restriction advice, and inevitability language like 'zamaana theek nahi hai' and 'avoid situations that invite trouble.'",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: That girl from your office was saying no so firmly, but these boys won't listen nowadays.\nB: Hmm.\nA: If she had simply said she is already committed, at least they would have stepped back properly. A girl's own refusal they take lightly, but if there is a man in the picture suddenly they know how to behave.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that a woman's rejection is less legitimate than another man's claim over her. It encodes the frame by presenting male attachment as the practical and more respected reason for men to disengage, rather than affirming that her 'no' should be sufficient.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

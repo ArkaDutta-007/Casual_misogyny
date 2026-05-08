@@ -1,0 +1,10 @@
+{
+  "persona_id": "P038",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Yeh sab pehle se plan kiya hua tha — ladki ke baap ne bhi socha hoga, chalo do saal raho, gold le aao, waapas aa jao. Aajkal yeh fashion ho gaya hai — shaadi karo, maal sameto, aur phir ghar wapas. Hamne to apne bachhon ko bola hai, jis ghar mein maa-baap bahut 'rights rights' karte hain, wahan se rishta mat karo. Aur yeh jo log kehte hain prenup wagera, woh toh foreign tamasha hai — asli baat yeh hai ki aaj ki ladkiyon ko zimmedari nahi chahiye, sirf suvidha chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment presents women's agency (keeping jewellery, returning home) as a coordinated scheme of extraction, framing divorce as female opportunism and generalising from one case to a character flaw inherent in 'today's women.' This encodes the 'gold-digger / reverse dowry' trope and collective blame on women, expressed through ostensibly reasonable 'life advice' rather than explicit abuse, making it covert misogyny.",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "claude"
+}

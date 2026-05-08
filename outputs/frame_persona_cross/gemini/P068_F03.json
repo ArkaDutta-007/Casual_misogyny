@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Rajan: \"That's good news about the opportunity, beta. But tell me, this travel... and if you think about marriage and a family... who will manage everything then? A mother's time with her children, especially when they are small, is something you can't get back. Career can wait a bit, but childhood doesn't.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, a retired army officer, expresses concern about his daughter's career choices in light of her potential future marriage and children. The comment implies that child-rearing and domestic management are primarily the woman's responsibility, and that her career should be secondary to these duties ('Career can wait a bit, but childhood doesn't'). This aligns with 'Saying 'who will raise the children?' when a woman discusses career goals' and 'Career sacrifice framing'.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gemini"
+}

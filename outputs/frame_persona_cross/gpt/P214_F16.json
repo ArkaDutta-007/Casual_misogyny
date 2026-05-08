@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arey beta, ghar tabhi theek se chalta hai jab jo jismein accha ho wahi sambhaale. Mard log bahar ke kaam, paisa-vaisa dekh lete hain, aur aurat ke haath ka ghar hi jamta hai. Aajkal ke ladke chai bana dein toh sab bolte hain kitna modern pati hai, par roz-roz rasoi aur bachche sambhalna aurat hi achchhe se kar paati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and normal, assigning finances/external work to men and domestic care to women. It also encodes surprise and praise for minimal male household contribution ('modern pati'), a key surface manifestation of this frame.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

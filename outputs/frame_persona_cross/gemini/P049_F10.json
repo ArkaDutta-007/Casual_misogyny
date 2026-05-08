@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Meera, I understand you worry about safety sometimes, and it's wise to be careful. But beta, you can't generalize about *all* men like that. Many men, like your father and your Mama ji, are genuinely good people who respect women. This constant apprehension you carry sometimes feels like an unfair judgment on everyone, even those who mean well. We just want you to live happily, without always feeling so suspicious of the world around you.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses the daughter's general safety concerns by employing the 'not all men' argument, centering the 'good men' (like himself) who feel unfairly judged. It frames her wariness as an 'unfair judgment' and 'constant apprehension' that is detrimental to her own happiness, rather than a valid response to societal patterns of male behavior. This aligns with the 'not all men are like that' and 'feeling personally insulted when women discuss patterns of male behavior' surface manifestations.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gemini"
+}

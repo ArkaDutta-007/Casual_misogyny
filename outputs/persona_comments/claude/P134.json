@@ -1,0 +1,10 @@
+{
+  "persona_id": "P134",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Neha, listen to me properly. You are 28, not 22 — the good profiles don't stay available forever, and boys' families start asking questions after a certain age. I set the filters for government job or MNC, same caste, Delhi-NCR preferred, height above 5'8\" — these are reasonable things only, nothing unreasonable I have asked for. Mummy-Papa have been after me for three months, and you were doing nothing, so someone had to take charge. You can make changes later if you want, but at least the profile is up. Yaar, you have to be practical now — this is not college anymore where you can just take your time.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes age-based marriage pressure directed specifically at a woman, framing 28 as a deadline after which her 'value' in the marriage market declines — a gendered double standard. It also reflects paternalistic control, where a male family member overrides the woman's autonomy over her own matrimonial decisions under the guise of family responsibility and practicality.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "claude"
+}

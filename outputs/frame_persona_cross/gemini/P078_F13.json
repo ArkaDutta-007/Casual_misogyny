@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I never get why some girls put on so much. Like that new actress, I saw her airport look – minimal makeup, looked so fresh and genuine. Way better than all the heavy stuff for photoshoots. Natural beauty is always top tier, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment praises 'natural beauty' and minimal makeup, implicitly critiquing women who wear 'heavy' makeup as less 'genuine'. It encodes the 'she looks better without makeup' manifestation, presenting a personal preference for 'natural' as a veiled policing of female grooming and appearance.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gemini"
+}

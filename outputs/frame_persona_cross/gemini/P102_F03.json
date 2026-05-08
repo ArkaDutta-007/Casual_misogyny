@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Ritu, you're doing such a commendable job, truly! Coming back after maternity leave and handling this big project, it's not easy. But then, a mother's instinct is strong, isn't it? You women manage everything so well, the home, the kids, and then work too. We men, we can't even imagine. Just make sure the little one doesn't feel neglected, that's paramount.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh praises a working mother as 'extraordinary' for managing work and home, which normalizes this expectation only for women. He also subtly applies guilt framing by emphasizing the mother's unique 'instinct' and urging her to ensure the child doesn't 'feel neglected', placing the sole responsibility of the child's emotional well-being on her while implicitly excusing fathers from such an intense burden.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gemini"
+}

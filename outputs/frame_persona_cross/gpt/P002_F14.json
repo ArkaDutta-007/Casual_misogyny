@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Bro, honestly maa ke haath ka khana alag hi hota hai yaar — office se late aao tab bhi she somehow made fresh food every single day, never made it feel like work. Aaj kal that level of care and consistency milna rare hai, isi liye home ka feel bhi wohi se aata hai 🙂",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as natural love rather than work, and sets it up as the standard for women’s value in creating a 'home.' It encodes nostalgic sentimentalization and labor erasure, with an implicit comparison to present-day wives/daughters-in-law who may not provide the same service.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

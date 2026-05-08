@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Look, I am saying this only from an administrative point of view. If we keep adding special leave for periods and then long maternity breaks, naturally management will hesitate while assigning key responsibilities to young women staff. It may sound modern to call every accommodation a right, but schools also have timetables, parent expectations, and continuity to think about; how much adjustment can one side alone keep making?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity-related leave as a workplace burden and implies young women are less suitable for important roles. It encodes productivity/cost arguments and the assumption that accommodations for women are unfair 'special treatment.'",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

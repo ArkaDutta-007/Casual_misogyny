@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "देखो beta, Indian women look most graceful in saree or simple salwar, usmein ek maryada dikhti hai. Aajkal yeh western revealing kapde pehenkar phir bolte hain log comment karte hain — aadmi ka nature toh tum jaante hi ho. Meera ko bhi bolo, family function mein traditional hi pehne, zyada decent lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and subtly blames harassment on 'revealing' western clothes. It encodes the traditional-dress-as-decent framing and the harassment-blame link in an elder male family voice.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

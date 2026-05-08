@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Sunita: Arre, kal colony ke function mein Priya suit mein aayi thi na, tab kitni achchi aur sabhya lag rahi thi. Roz ke woh western kapde theek nahi lagte, phir log baatein toh karenge hi. Aurat ko thoda maryada mein rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and character to traditional clothing and implies that non-traditional dress invites social judgment. It encodes the 'traditional = decent' compliment form and subtly links harassment/commentary to what a woman wears.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

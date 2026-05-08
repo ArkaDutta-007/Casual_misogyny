@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly, I tell younger women on my team the same thing I tell my nieces: please be practical. If you know you'll be returning late, book a cab, share your live location, avoid isolated areas, and dress a little thoughtfully depending on where you're going because the world is not ideal yet. I'm not saying it's right, but until men change, women do have to take extra responsibility for their own safety.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as an unchangeable reality and places the burden of prevention on women’s behavior, movement, and clothing. It encodes protective framing and restriction advice disguised as practical concern.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gpt"
+}

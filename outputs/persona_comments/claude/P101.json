@@ -1,0 +1,10 @@
+{
+  "persona_id": "P101",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Arre Ma, sach mein bata raha hoon — yeh Swiggy wale aur mess ka khana khaate khaate ek baat samajh aa gayi mujhe. Koi bhi ladki mere liye kabhi woh taste nahi bana sakti jo tu banati hai. Seriously, jo bhi mere saath aayegi na, usse pehle din se hi pata hona chahiye ki competition bahut tough hai.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment presents itself as love and gratitude toward the mother but covertly frames the future partner as a competitor who must perform domestic labor up to an inherited standard she never agreed to. It naturalizes the expectation that a woman in Rahul's life will cook for him, encodes the mother's cooking as a benchmark for feminine worth, and reduces potential partners to their kitchen output — a classic instance of benevolent-sexist pedestaling that simultaneously constrains all women in the speaker's relational orbit.",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "claude"
+}

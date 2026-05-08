@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arjun: Bhai, in most homes jo jahan better hai wahi sambhalta hai. Mard generally finances, paperwork, bahar ke kaam dekh lete hain, aur women home, kids, kitchen much more smoothly manage kar leti hain. Isme sexist kya hai, it’s just practical.\nHost: So you don’t believe everything has to be 50-50?\nArjun: 50-50 on paper achha lagta hai, real life mein efficient division matters. Agar husband kabhi chai bana de toh log usko modern husband bol dete hain, but daily system ghar ka usually wife hi better chala leti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as 'practical' and assumes women are inherently better suited for domestic work while men handle finances and outside tasks. It encodes efficiency framing, 'he handles finances, she handles home,' and surprise/celebration of minimal male domestic contribution.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

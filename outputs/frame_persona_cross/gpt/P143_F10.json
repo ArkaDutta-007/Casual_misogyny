@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: These girls nowadays act as if every man on the road is dangerous.\nB: After hearing so many incidents, they will be scared no?\nA: Scared is one thing, but this blanket mistrust is too much. My husband and son are decent men, so why should all men be looked at like criminals? Men also go through problems, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's fear and shifts attention to men's hurt feelings instead of acknowledging patterns of harassment. It encodes the 'not all men' dismissal, generalization policing, and the deflection to men's suffering.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

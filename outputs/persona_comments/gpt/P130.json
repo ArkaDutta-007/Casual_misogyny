@@ -1,0 +1,10 @@
+{
+  "persona_id": "P130",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Arjun: Mummy, mera flat bilkul war zone bana hua hai, ek hafte se khana bhi nahi banaya, roz Swiggy kar raha hoon. Washing machine ka button tak samajh nahi aa raha yaar, aap logon ne ghar pe itna sab sambhal liya tha ki mujhe kabhi zarurat hi nahi padi.\nMother: Haan haan, pata tha do din akela rahega toh seedha haath khade kar dega. Chalo, weekend pe aaungi ya kisi bai ka jugaad kar lo, tumse yeh sab thodi hoga.\nArjun: Sach mein, bai mil jaaye bas life set ho jayegi, warna main bhookha aur gande kapdon mein hi office jaunga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The dialogue normalizes domestic work as something women naturally handle and frames the man's helplessness as humorous and expected. It encodes a gendered division of chores via 'practicality,' assuming he need not learn because a mother or maid will manage it.",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gpt"
+}

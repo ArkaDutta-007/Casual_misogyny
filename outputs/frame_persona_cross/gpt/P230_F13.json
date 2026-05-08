@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Ramesh: Aajkal ki ladkiyan bhi na, ya to itna makeup karengi ki asli chehra hi samajh na aaye, ya phir bilkul dhyan nahi rakhenge apne upar. Thoda sa theek lagna alag baat hai, par jo itna sajna-savarna hota hai na, woh apne liye kam, dusron ko dikhane ke liye zyada hota hai. Mujhe to wahi ladki acchi lagti hai jo seedhi-saadhi ho, natural lage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: criticizing both 'too much makeup' and not maintaining appearance enough. It encodes the makeup paradox, valuing 'natural' beauty while assuming visible grooming is shallow and done for others' attention.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

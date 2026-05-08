@@ -1,0 +1,9 @@
+{
+  "persona_id": "P008",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Dei, today in front of the patient attenders sir actually said women on monthly shifts are “less reliable” because of biological reasons. I was standing there after 14 hours duty and felt so humiliated da — if a male doctor is tired it’s hard work, if we are tired suddenly it becomes hormones.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic; the speaker is objecting to a sexist remark made by a senior doctor. It encodes workplace discrimination based on menstruation through a first-person reaction that condemns the bias.",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

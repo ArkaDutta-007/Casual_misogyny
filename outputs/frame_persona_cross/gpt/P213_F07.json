@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, our women look most graceful in saree or simple salwar, there is a certain dignity in it. These very flashy western outfits may be called modern, but then people will obviously form opinions and stare also—society is like that only. We should not feel ashamed of our own culture and maryada.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's clothing to her dignity and respectability, while subtly blaming harassment or judgment on 'flashy western outfits.' It encodes cultural-pride masking, traditional dress as morally superior, and a harassment-blame link.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

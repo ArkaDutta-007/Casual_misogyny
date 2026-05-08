@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Yaar, tu dekh na, Rohan ki wife Nita ko. Acchi ladki hai, no doubt, but kabhi mangalsutra ya sindoor dekha hi nahi usko. I mean, shaadi ho gayi, thoda to dikhna chahiye na that she's married? It just looks more... complete, you know? Hamari parampara hai. Aajkal ki ladkiyan sab bhoolti ja rahi hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh expresses disapproval of a married woman not wearing visible marital markers (mangalsutra, sindoor), framing it as a lack of 'completeness' and a disregard for 'tradition.' This implicitly pressures women to visibly signal their marital status and aligns with surface manifestations of disapproval and 'completeness' framing.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

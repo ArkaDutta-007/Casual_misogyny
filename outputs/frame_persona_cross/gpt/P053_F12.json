@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Bro aajkal har baat pe log offend ho jaate hain. Hum log jo common gaali-type words bol dete hain, uska matlab thodi hota hai ki kisi ki maa-behen ko target kar rahe hain, it’s just expression yaar. Aur waise bhi ladkon ko thoda strong banna chahiye, har baat pe itna hurt mat ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading gaali structures as 'just expression' and dismisses concern about their misogynistic roots. It also invokes feminized weakness ('strong banna chahiye') as a contrast, reflecting the frame’s male/female insult hierarchy.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

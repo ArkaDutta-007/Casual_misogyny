@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Career is important, no doubt, but when kids come into the picture the mother has to be more available, that’s just practical yaar. Fathers can help fully, but maa ka role replace thodi hota hai, especially in the early years.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother's responsibility while framing fathers as secondary helpers. It encodes the surface manifestation of expecting women, not men, to sacrifice career availability for childrearing.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand women need to be careful, but this constant 'men are unsafe' narrative is too much. In Bangalore itself, plenty of decent men are just going about their lives, and treating every stranger like a threat is not fairness, it's paranoia. Men also face safety issues, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their safety behavior as irrational and unfair to men. It encodes 'not all men,' demands trust in male strangers, and deflects with 'men also face safety issues.'",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

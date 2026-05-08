@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: These children now make such a big issue out of words. We also hear boys saying those mother-sister type bad words, but half the time it is just anger, not literal.\nB: Still, it sounds ugly.\nA: Ugly, yes, but nowadays for everything they say misogyny. If a fellow is acting soft and useless, people will tease him only like that; it is common speech, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless 'common speech' and dismisses objections as oversensitivity. It also includes feminizing a man as an insult, matching the frame's surface manifestations.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

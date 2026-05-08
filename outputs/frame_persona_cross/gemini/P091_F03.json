@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro, Ritu just told me she's thinking of moving to Singapore for that big project. So proud of her, she's killing it! But honestly, I just wonder... it's already so tough for women in corporate. And if she wants a family someday, all these international moves, long hours... how will she manage? Maa ko toh pura time dena padta hai bachhon ko, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, presented as concern, reflects the core belief that child-rearing is primarily the woman's duty. It frames a woman's career ambition (international moves, long hours) as being in conflict with her assumed future maternal responsibilities ('how will she manage?', 'maa ko toh pura time dena padta hai'). This encodes the surface manifestation of expecting the mother to sacrifice career/location for the family, rather than the father, and implies her career goals are selfish if she wants children.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gemini"
+}

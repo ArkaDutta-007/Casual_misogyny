@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "These days girls are talking as if every man is a danger. That is not fair at all. So many decent men are there in our own family and office also, but if a woman avoids them or behaves suspiciously, naturally they will feel hurt.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's safety concerns and centers men's feelings instead of acknowledging why women may be wary. It encodes the 'not all men' dismissal and frames women's caution as an unfair insult to good men.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

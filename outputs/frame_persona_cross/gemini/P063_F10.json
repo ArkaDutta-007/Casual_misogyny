@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Che, I saw that on the news again today, about women being scared of going out alone. But honestly, *akka*, not all men are like that, no? My Karthik is such a good boy, he would never even think of misbehaving. And our husbands also. These women just generalize everyone, it’s not fair to the good men who are trying their best.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker, a mother, minimizes women's general safety concerns by centering the perceived unfairness to 'good men' she knows (her son, husband). This aligns with the 'Not All Men' dismissal and 'generalization policing' surface manifestations, framed as an empathy demand for men.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gemini"
+}

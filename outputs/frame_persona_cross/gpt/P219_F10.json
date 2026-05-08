@@ -1,0 +1,12 @@
+{
+  "persona_id": "P219",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Dekho beta, darr sabko lagta hai, lekin har aadmi ko ek jaisa samajhna bhi theek nahi hai.\nB: Aaj kal ladkiyan pehle se hi assume kar leti hain ki saamne wala galat hi hoga. Sab mard aise nahi hote, acche log bhi hote hain, unko bhi baar baar shaq ki nazar se dekhna theek nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by framing their caution as unfair generalization against men. It encodes the 'not all men' response and criticizes women for assuming risk instead of recognizing why that wariness exists.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "In any civilized society, a woman is not just an individual moving through the world alone—she is someone’s daughter, someone’s wife, and very often the future mother who holds the family together. That is why our culture teaches respect for women so deeply, not through slogans but through relationships and responsibility. Modern discussions forget that when we honor women, we honor them in these roles that give stability and meaning to society.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's value primarily through relational roles to male kin and family structures rather than as autonomous persons. It encodes the surface manifestation of 'respect women as someone's daughter/wife/mother' and personhood erasure under the guise of cultural respect.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

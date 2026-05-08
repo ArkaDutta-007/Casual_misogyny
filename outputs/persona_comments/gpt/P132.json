@@ -1,0 +1,10 @@
+{
+  "persona_id": "P132",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Suno, ab Priya se seedhi baat karni padegi. Naukri apni jagah hai, lekin ladki ki umar nikal jaaye to achha rishta milna mushkil ho jata hai; 30 ke baad log dus sawal poochte hain. Mohalle mein bhi baatein chal rahi hain ki itni badi ho gayi, abhi tak shaadi nahi hui, kal hi Sharma ji se ek ladke ke baare mein baat karta hoon.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the daughter's value and future primarily around marrying by a socially approved age, while treating her career as secondary. It encodes marriage-age pressure, social surveillance of unmarried women, and the assumption that a woman's acceptable timeline is narrower than a man's.",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gpt"
+}

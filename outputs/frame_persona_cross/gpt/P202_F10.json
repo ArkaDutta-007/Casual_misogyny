@@ -1,0 +1,12 @@
+{
+  "persona_id": "P202",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Arre bhai, har aadmi ko suspect ki nazar se dekhna bhi theek nahi hai. Main 20 saal se padhata hoon, kabhi kisi ko pareshaan nahi kiya, phir bhi aaj kal aise baat hoti hai jaise sab mard ek jaise hote hain.\nB: Haan, kuch log galat hote hain, par iska matlab yeh thodi na ki har aurat pehle se hi dar ke saath react kare. Thoda fairness mardon ke liye bhi hona chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering male hurt and demanding trust from women. It encodes the 'not all men' response, self-identification as a good man, and frames women's wariness as unfair to men.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "gpt"
+}

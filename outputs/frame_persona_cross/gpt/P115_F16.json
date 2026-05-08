@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Meena: Aajkal ki ladkiyan office ka kaam achchhe se kar leti hain, lekin ghar toh aurat ko hi sambhalna padta hai, tabhi sab theek chalta hai.\nHusband: Haan, Karan bahar ke kaam aur paise dekh lega.\nMeena: Bas wahi practical hai ji, mard bahar ka dekh lein aur bahu rasoi-ghar, routine aur bachchon ki zimmedari samajh le toh ghar mein balance rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and balanced, assigning outside work and finances to men and domestic/care work to women. It encodes the 'he handles finances, she handles home' and 'jo jahan better hai' surface manifestations.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in our house we just do what is practical. Bhai handles bank work, bills and anything outside because he is better with all that, and I manage kitchen and day-to-day home stuff. I also work, but ghar ka system tabhi smooth chalta hai when everyone does what comes naturally, and if he makes chai once in a while everyone says wow modern husband 😂",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as simply practical and efficient rather than socially enforced. It encodes the 'he handles finances, she handles home' framing and also celebrates minimal male contribution as exceptional ('modern husband').",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P108",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Ami always feel, maa-er ranna is not just food, it's the whole heart of a family. My mother cooked fresh every single day without ever making it feel like a burden, and honestly that warmth is what every home needs after marriage too. Office, modern life, all that is there, but shei bhalobasha in the kitchen is what people remember forever.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a mother's constant cooking and self-sacrifice while erasing it as labor. It also sets an implicit expectation that a married woman should reproduce that same domestic care to make a proper home.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gpt"
+}

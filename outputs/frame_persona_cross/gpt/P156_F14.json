@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab kuch order ho jata hai, but maa ke haath ke khane ki woh baat hi alag hoti hai. Ghar ki aurat jab apne haath se sabke liye banaati hai na, usmein sirf taste nahi, poora pyaar aur parivaar juda hota hai. Bahu kitni bhi modern ho, thoda sa toh yeh ghar ka swaad aur zimmedari sambhalna hi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies women's domestic labor as love rather than work and sets it up as an expectation for wives/daughters-in-law. It encodes 'maa ke haath ka khana' nostalgia and an implicit comparison mechanism where a modern bahu is expected to uphold domestic standards.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

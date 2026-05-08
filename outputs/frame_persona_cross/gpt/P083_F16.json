@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "In most homes, people naturally settle into what they are better at. I handle finances, driving, bank work and outside running around, while my wife manages the kitchen, kids' routine and all the inside planning much more efficiently than I ever could. Even in educated, working couples this practical division works best, and when a husband helps a bit with cooking or school drop, that itself is quite nice and modern.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it presents a gendered division of labor as natural and efficient rather than socially enforced. It encodes the 'he handles outside/finances, she handles home' framing and also celebrates minimal male participation as unusually modern.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gpt"
+}

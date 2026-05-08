@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "अरे, रितु, इतना गुस्सा क्यों हो रही हो? ज़रा शांत रहो. लड़कियाँ छोटी-छोटी बातों पर बहुत भावुक हो जाती हैं. कभी-कभी तो लगता है वही दिन चल रहे हैं तुम्हारे.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla dismisses Ritu's anger as an inherent female trait of being overly emotional ('bahut bhavuk ho jaati hain') and then subtly links it to her menstrual cycle ('wohi din chal rahe hain'). This characterizes a woman's frustration as biologically determined, thereby making it seem less valid or rational, fitting the 'Period/Hormones & Mood' frame.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gemini"
+}

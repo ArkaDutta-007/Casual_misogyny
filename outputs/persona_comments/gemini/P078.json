@@ -1,0 +1,10 @@
+{
+  "persona_id": "P078",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Hey, I get that it's a traumatic experience, no doubt. But honestly, if something like that happens, you *have* to react instantly. Making a scene is the only way to shock them into stopping and get others' attention. It's tough, I know, but women really need to internalize that speaking up right then and there is your best defense. You can't just freeze up and hope it goes away; protecting yourself on public transport means taking that immediate action. It's your responsibility to not let them get away with it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly blames the victim by emphasizing her 'responsibility' to react immediately and make a scene, thereby implying that her failure to do so contributed to the outcome. It dismisses the emotional and psychological impact that might prevent immediate action, framing women's safety as solely dependent on their own reactive measures rather than on perpetrators' behavior or societal norms. This encodes victim-blaming and the expectation that women should prevent their own harassment.",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gemini"
+}

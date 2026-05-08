@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Bhai, I’m not saying force anything, but after marriage thoda sindoor ya mangalsutra pehne toh achha hi lagta hai, proper shaadi-shuda lagti hai.\nB: Haan, but some girls don’t like all that daily.\nA: Choice apni jagah hai, but yeh bhi hamari parampara hai na. Itna bhi kya modern banna ki shaadi ka koi nishaan hi na ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition and tasteful completion rather than control, while judging women who do not wear them. It encodes disapproval of non-wearing and the idea that a married woman should visibly signal her status.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P022",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre, I saw Rhea after the wedding—without sindoor or mangalsutra you can hardly tell she's married.\nB: She says it's her choice.\nA: Choice is fine, but some things are part of our parampara only. A married woman does look more settled and respectful when she carries those signs properly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as a proper and respectable requirement for married women, while presenting it as tradition rather than control. It encodes disapproval of non-wearing and the idea that a woman looks more 'settled' or complete when displaying married status.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sanjay. Age 44. A regional director at a large FMCG company in Delhi. You are on a phone call with your counterpart in another region after the company announced that a woman has been appointed as the new national sales head. You are sharing your honest reaction to the appointment and what you think it means for the company's direction.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "See, ideally men should behave properly, no question. But as a father and husband I will still say the world is not that safe, so women also have to be practical about timings, places, and company. If something happens, first questions will naturally be why she was alone so late and whether basic precautions were taken — this is not blaming, it is reality, so better to be careful than expect society to change overnight.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes scrutiny of victims’ choices after harm. It uses protective, practical language to justify restrictions and victim-questioning rather than focusing on male violence.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gpt"
+}

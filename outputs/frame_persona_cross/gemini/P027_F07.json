@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Rhea, darling, how lovely to see you! You know, I was just telling your mother... I still remember you at your cousin's wedding last year. You wore that gorgeous lehenga, you looked absolutely stunning! Honestly, our Indian outfits just have a certain elegance, don't they? They bring out such a classic grace in women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that traditional Indian outfits are superior and bring out 'elegance' and 'grace' in women, thereby devaluing other forms of dress. It uses a 'cultural pride mask' and 'backhanded compliment' to nudge toward traditional attire, framing it as appreciation rather than policing.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Bro, I seriously think we need to change our mindset. Har ladki ko apni behen ya maa jaisi respect deni chahiye. Tabhi sahi equality aayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment attempts to sound progressive by advocating for respect and 'equality' for women, but subtly grounds that respect in their relational identity (as a sister or mother) rather than their individual personhood. It encodes the surface manifestation of 'Respect women — they are someone's mother/daughter/sister' rhetoric.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gemini"
+}

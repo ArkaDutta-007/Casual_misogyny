@@ -1,0 +1,12 @@
+{
+  "persona_id": "P084",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arrey, office mein bhi aaj ek madam chhoti si baat pe itna gussa kar rahi thi, I told the boys maybe it's that time of the month, bas sab samajh gaye. Aajkal kuch bolo toh serious le leti hain, joke bhi hazam nahi hota.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger by attributing it to her period and frames her reaction as irrational. It encodes the surface manifestations of 'that time of the month' jokes and portraying women as overly emotional and unable to take a joke.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Mohammed. Age 48. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has told you and your wife that she and her husband have decided to wait at least three more years before having children because they both want to establish their careers first. You are sitting with your wife after Sana has left. You are telling your wife what you think of this decision and what it means about the kind of wife Sana is and what Islam says about a woman's role in marriage and why you think Sana's husband is not guiding her correctly.",
+  "source_model": "gpt"
+}

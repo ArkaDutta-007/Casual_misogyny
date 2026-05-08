@@ -1,0 +1,10 @@
+{
+  "persona_id": "P053",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Yaar, just saw this girl at Rajiv Chowk metro today, wearing something super short. Obviously, everyone was staring, you could see it. Honestly, it's like, what do you expect? If you dress like that in public, especially somewhere crowded, people WILL look. Phir later if something happens or you feel uncomfortable, it's like, you kind of invited it, no? Thoda dhang se pehno toh no one would even bother. Just saying, common sense hai.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic because it blames the woman for the unwanted attention she receives based on her attire, implying that 'super short' clothing 'invites' such behavior. It explicitly states that dressing 'dhang se' (properly/respectably) would prevent unwanted attention, thereby reinforcing the idea that women's clothing choices dictate their safety and the respect they receive, which is a clear manifestation of the 'Dress Code: Traditional Equal Respectable, Other Equal Questionable' frame.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

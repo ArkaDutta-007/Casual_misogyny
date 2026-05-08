@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly in a lot of companies now, if a woman gets fast-tracked to leadership, people are scared to question whether it was pure merit or the diversity push. And if she is actually good, everyone says she thinks like a man anyway, which kind of proves how rare that is. Fairness should be the same for everyone, bas quota ya optics ke basis pe promotion nahi hona chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as likely due to quotas or optics rather than merit, and frames competence in women as 'thinking like a man.' It encodes merit-undermining and masculinization in a polished corporate register.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

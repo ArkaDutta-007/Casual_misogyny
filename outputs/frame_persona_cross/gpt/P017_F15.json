@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Aajkal ki nayi bahuen bhi na, shaadi ho gayi par na sindoor, na mangalsutra. Phir married lagti hi nahi.\nB: Haan ji.\nA: Arre, yeh sab hamari parampara hai, aurat suhagan tabhi poori lagti hai. Do cheezein pehen lene se izzat bhi bani rehti hai aur ghar-grihasthi ka pata chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's value and legitimacy through visible marital markers, presenting them as tradition and respectability rather than control. It encodes completeness framing, disapproval of non-wearing, and cultural-duty pressure around sindoor and mangalsutra.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

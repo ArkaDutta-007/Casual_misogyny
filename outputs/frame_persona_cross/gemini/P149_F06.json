@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Kya bolun beta, kabhi kabhi apna 'no' kaam nahi karta. Woh log nahi sunte. Usse achha, bol do 'mera rishta pakka ho gaya hai' ya 'bhai pick karne aa raha hai'. Tabhi samajhte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Fatima, a married woman, advises a younger woman that her direct refusal ('no') is often ineffective in stopping unwanted male attention. Instead, implying male ownership (being 'taken' or having a brother coming) is what makes men 'understand' and back off. This comment describes the societal reality where a woman's consent is negotiable, but a man's claim over her is not, aligning with the surface manifestation of 'stopping pursuit only after learning a woman is 'taken', not after she said no' and 'harassment stopping when a male friend or partner physically appears'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gemini"
+}

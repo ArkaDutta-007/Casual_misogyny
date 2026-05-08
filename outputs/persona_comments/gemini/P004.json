@@ -1,0 +1,10 @@
+{
+  "persona_id": "P004",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Arre, same situation, yaar. Both are equally qualified, brilliant resumes. But for this senior field sales role... it's demanding, constant travel, no fixed hours. The male candidate, he's a known quantity, stable. The female one... she just got married. And you know how it is, these field roles need full, uninterrupted commitment. What if she plans a family in a year or two? Then it's six months off, plus re-onboarding, finding a temp... it's a headache, right? For the company, it's just simpler to go with someone who's likely to be consistently available. Kya karein, business bhi toh dekhna hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames his preference for the male candidate as a practical business decision, citing the female candidate's recent marriage and potential future maternity leave as a 'headache' for a demanding field role. This covertly biases against women's career progression based on gendered expectations of family responsibilities and potential career breaks.",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

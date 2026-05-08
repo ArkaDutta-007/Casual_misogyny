@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly yaar, half these senior women in corporate get pushed up because leadership wants the diversity optics. And then if they act tough everyone says wow she thinks like a man, otherwise people don’t take them seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit in leadership by attributing advancement to diversity hiring rather than competence. It also encodes the masculinization/double-bind trope, suggesting a woman leader is validated only when she is seen as 'thinking like a man.'",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P227",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Ritu, do you have a minute? Just wanted to quickly chat about something. I've been noticing, you spend a lot of time with Rohan and Amit. Lunches, after-work drinks, even on social media you all are very visible. And look, I'm just telling you this as a well-wisher, someone who's been here a while... in our corporate environment, especially for a young woman, people notice these things, Ritu. You have to be careful about the optics. You don't want anyone getting the wrong idea or any unnecessary talk about your professional image, na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepa, a senior manager, advises Ritu to be careful about her friendships with male colleagues because 'people notice these things, especially for a young woman.' This covertly applies a gendered double standard, implying Ritu's reputation is vulnerable due to these connections, a judgment not typically applied to male colleagues with female friends.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a senior manager at a company in Delhi. A younger female colleague named Ritu who is 26 has become close friends with two male colleagues Ñ they eat lunch together every day, they go for after work drinks sometimes, they are in each other's Instagram stories. You are Ritu's skip level manager. You are not her friend. But you have noticed this and you have heard comments from other people in the office. You are having an informal conversation with Ritu today and you bring up what you have observed and give her some advice about optics and what people are saying and what a woman in a professional setting needs to understand about how her social choices affect her reputation.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Bro every second word in hostel chat is BC/MC types only, that doesn't mean anyone is actually targeting women. People get too woke over slang yaar, it's just frustration nikaalna, same like calling someone 'mat act like a girl' when he can't handle pressure.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaalis as harmless expression and explicitly uses feminizing language as an insult. It encodes the 'it's just a word' defense and the casual male youth normalization of misogynistic slang.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

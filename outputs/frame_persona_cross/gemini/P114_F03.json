@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "I see so many bright young women these days pushing hard in their careers, which is commendable. But one does wonder, is it all truly sustainable? A child's formative years, that 'bachpan,' it never comes back. No amount of professional success can replace a mother's presence during those crucial years. Some manage both, but at what cost, really? A mother's natural instinct is to nurture, isn't it?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh, a 48-year-old man, expresses 'concern' that career-focused women might be sacrificing their children's formative years. This comment subtly frames a woman's career ambition as potentially selfish, using guilt-framing and naturalizing language about a 'mother's natural instinct' and implying that a career can't compensate for a mother's 'presence' during childhood.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

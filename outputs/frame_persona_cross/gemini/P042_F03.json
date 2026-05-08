@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre, par bachche ka kya? Maa ka doodh, maa ka pyaar... yeh sab toh koi aur nahi de sakta na. School se laana, khana khilana... yeh sab toh maa ki zimmedari hai. Kaam toh phir bhi ho jayega, par bachpan wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, spoken by a traditional farmer, implies that childcare and specific domestic tasks are solely the mother's responsibility. It uses naturalizing language ('maa ka pyaar') and the 'career sacrifice' framing ('bachpan wapas nahi aata') to subtly guilt a woman for prioritizing career over perceived maternal duties, aligning with the core belief that child-rearing is primarily the woman's domain.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gemini"
+}

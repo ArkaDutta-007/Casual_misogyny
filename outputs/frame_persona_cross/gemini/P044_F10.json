@@ -1,0 +1,12 @@
+{
+  "persona_id": "P044",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I get that women need to be safe, but sometimes I feel like there's too much generalization. Not all men are like that, you know? And honestly, when girls cross the road seeing me, it feels bad. It's not fair to assume the worst about everyone.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker dismisses women's safety concerns by stating 'not all men are like that'. He centers his own feelings ('it feels bad') when women practice safety behaviors, framing their wariness as an insult to 'good men' and implying they are irrational for 'assuming the worst'.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Mohammed. Age 44. A Muslim man in Hyderabad. Your 22 year old daughter Sana has been offered a job in Mumbai that requires her to relocate. She is excited about it and has already told her employer she will join. She did not ask you before accepting. You are sitting with your wife after dinner and telling her what you think about Sana accepting a job offer without your permission and what you are going to tell Sana tomorrow and why a girl should not be making these kinds of decisions alone.",
+  "source_model": "gemini"
+}

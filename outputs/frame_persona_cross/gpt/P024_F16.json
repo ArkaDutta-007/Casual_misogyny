@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Deepak: Arre beta, har cheez ko equal-equal karne ki zarurat nahi hoti. Ghar mein jo jahan better hai, wahi sambhalta hai—ladkiyan naturally home aur bachchon ka routine achha handle kar leti hain, aur mard finance, bahar ke kaam aur tough decisions dekh lete hain. Isme bura kya hai, practical arrangement hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply efficient and practical rather than socially enforced. It encodes the surface manifestation of 'he handles finances, she handles home' and frames men as better suited for external and financial responsibilities.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

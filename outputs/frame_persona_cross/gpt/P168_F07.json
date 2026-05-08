@@ -1,0 +1,12 @@
+{
+  "persona_id": "P168",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Rohit: Maa, office pics mein toh mostly western clothes hain.\nMother: Beta, ladki padh likh kar achchi baat hai, par thodi sabhya bhi lagni chahiye. Saree ya salwar mein ladki ka asli grace dikhta hai, aise modern kapdon mein kya samajh aata hai.\nRohit: Haan, shaadi ke baad at least family functions mein proper Indian hi pehne toh better rahega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her decency and suitability, treating traditional dress as evidence of better character. It encodes the surface manifestation of praising Indian/traditional wear as more respectable and subtly policing western clothing in a family/marriage context.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gpt"
+}

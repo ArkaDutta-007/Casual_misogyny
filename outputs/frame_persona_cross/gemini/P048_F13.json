@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Hey, aaj Anjali ko bina makeup ke dekha office mein. Honestly, she looked so much better and fresh! Mujhe lagta hai usse itna foundation wagera lagane ki zaroorat hi nahi, she has such good skin.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment covertly critiques a woman's choice to wear makeup by 'complimenting' her for looking 'better without it'. It subtly polices her appearance by implying visible effort with makeup is unnecessary or detracts from her natural beauty, encoding the 'She looks better without makeup' surface manifestation.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gemini"
+}

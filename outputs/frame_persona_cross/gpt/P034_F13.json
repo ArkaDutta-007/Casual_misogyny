@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I don't get why some girls spend so much time on makeup and filters and then say it's just 'for themselves.' Natural is always better yaar, but at the same time you should at least look put together, not like you've completely let yourself go.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: criticizing visible makeup as excessive while also expecting women to maintain attractiveness. It encodes the 'natural beauty' preference, assumes grooming is tied to external validation, and penalizes women either way.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

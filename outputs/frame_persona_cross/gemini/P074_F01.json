@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Beta, yeh jo naye naye rules aa rahe hain na, period leave, extended maternity leave… company toh de degi, achhi baat hai. Lekin phir beta, jab tum future mein career banaogi, yeh sab cheezein na, companies ko women employees ko hire karne se pehle sochna padta hai. Unko lagta hai zyada chuttiyaan lenge, productivity kam hogi. Aise mein unko kya fayda? Aur phir men ko toh kuch milta nahi, matlab unke liye toh normal hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker, a mother, expresses concern that new leave policies for women (menstrual, maternity) make women a liability in the workplace due to perceived lower productivity, framing it as a disadvantage for companies and unfair to men. This encodes the surface manifestations of invoking productivity/cost arguments and questioning fairness/reverse discrimination.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gemini"
+}

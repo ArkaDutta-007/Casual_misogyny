@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arey, what is this yaar? Sab log aise thodi hote hain. Why assume every man is a threat? Honestly, mujhe toh bura lagta hai when I hear this. It's like, just because of a few bad apples, all of us have to suffer this suspicion? Hamari bhi izzat hoti hai na.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh, a businessman, expresses frustration and feels personally insulted when women discuss general safety concerns. He uses 'Not all men are like that' (sab log aise thodi hote hain) and centers his own feelings ('mujhe toh bura lagta hai') as a 'good guy' who feels unfairly grouped with 'bad apples', dismissing the women's fear.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gemini"
+}

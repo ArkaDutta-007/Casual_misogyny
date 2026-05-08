@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "So my company just announced paid period leave. Next level. What about us, yaar? We also have 'monthly stress' hitting targets. Aise toh how is it fair to the guys? 🙄",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness of menstrual leave by framing it as 'special treatment' for women that disadvantages male colleagues, who also face 'monthly stress' (hitting targets). It encodes the 'questioning fairness to men' and 'reverse discrimination' surface manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gemini"
+}

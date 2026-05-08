@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, I just don't get it. Girls spend so much time doing their makeup, looking completely different. Personally, I find natural beauty way more attractive. Kya point hai itna foundation aur concealer lagane ka, jab asli face toh dikhta hi nahi? Sometimes lagta hai bas filters aur makeup mein hi sabko accha dikhna hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the 'Makeup Paradox' by expressing a preference for 'natural beauty' while simultaneously critiquing visible makeup as 'too much' ('itna foundation aur concealer') and implying deceptiveness ('asli face toh dikhta hi nahi'). It also suggests makeup is for external validation (social media filters, 'sabko accha dikhna hota hai'), rather than for oneself.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

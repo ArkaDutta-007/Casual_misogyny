@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "We need to teach our boys to see every woman as someone’s daughter, sister, wife or future mother, not just as an individual walking on the road. The day men start thinking, “what if this was my own family member,” these incidents will reduce. Respect for women starts from respecting the role they hold in the family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and entitlement to safety through their relationships to male kin and family roles rather than as persons in their own right. It encodes relational framing and conditional respect via daughter/sister/wife/future mother language.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

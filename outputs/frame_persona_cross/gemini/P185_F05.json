@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bhaiyon, aajkal ki shaadiyon ka kya haal hai... Sochne par majboor karta hai. Maine dekha hai kitne families tabah ho jaate hain. Yeh jo naye laws hain na, khaas kar 498A, uska itna mis-use hota hai ki mard bechare phans jaate hain. Alimony bhi aisi ki aadmi ki saari kamaai nikal jaati hai. Ladkiyan 'independence' bolti hain, par asliyat mein sirf stability aur paisa dekhti hain. Humare time mein rishte nibhane ki baat hoti thi. Ab toh bas cases ki baatein sunte hain. Careful rehna sabko.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Khalid expresses concern for men being exploited by modern marriage laws (like IPC 498A and alimony), framing them as victims. He attributes women's interest in marriage to financial gain and 'stability', implying they are golddiggers, which aligns with victimhood inversion and financial suspicion from the frame.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P168",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I get that women need to be safe, but sometimes I feel like you guys just assume the worst about all men. It's not fair, na? I mean, I try to be respectful and decent, but then you hear about women preferring only female cabs or avoiding certain areas and it feels like a personal insult to guys like me. What about us 'good guys' who are genuinely decent?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker dismisses women's safety concerns by centering his own feelings of being unfairly generalized. It encodes the 'not all men' sentiment, questions women's rationality in 'assuming the worst', and frames women's safety behaviors (preferring female cabs) as an 'insult' to 'good guys' like himself, leveraging the India-specific context of safety services.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gemini"
+}

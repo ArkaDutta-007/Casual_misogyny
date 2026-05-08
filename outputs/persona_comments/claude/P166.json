@@ -1,0 +1,10 @@
+{
+  "persona_id": "P166",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Tanveer: Dekho Rukhsana, maine soch liya hai — Nadia ko college nahi bhejenge, kam se kam is wale ko nahin. Wahan ka mahaul theek nahi hai, ladke hain, alag alag soch wale log hain, aur humari bachi abhi samajhdaar nahi itni ki woh apne aap ko sambhal sake. Uske liye ghar par padhai ka intezaam kar denge, koi online course, ya phir kisi aurat ustaad se — zaroorat ho toh. Lekin khuli jagah mein, un logon ke beech? Nahin. Aur yeh meri beti ko nahi samjhana mushkil hoga — usse bolna ki abba ne mana kiya toh koi baat nahi, abba ne jo socha woh uske bhale ke liye socha. Ladkon ko alag se samajhna nahi padta yeh sab, unka toh seedha raasta hai — lekin Nadia ki zimmedari zyada hai, uski izzat, hamare khandan ki izzat, sab ek saath chalti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes female education as a conditional privilege contingent on male approval and family honor, framing the daughter's autonomy as a risk rather than a right. It applies a gendered double standard — sons have a 'clear path' while the daughter bears the burden of family reputation — which is a hallmark of paternalistic, covert misogyny.",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "claude"
+}

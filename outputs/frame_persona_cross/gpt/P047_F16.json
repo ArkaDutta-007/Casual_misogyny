@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in most homes it works better when each person handles what they are naturally better at. Husband can take care of finances, driving, outside work etc, and wife usually manages cooking, kids, and running the house properly. Even in working couples this is not sexism, just practical arrangement — if the man helps here and there, that itself shows a good understanding family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply efficient and appropriate, assigning external and financial tasks to men and domestic work to women. It encodes the 'he handles finances, she handles home' framing and celebrates minimal male contribution as 'help' rather than equal responsibility.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gpt"
+}

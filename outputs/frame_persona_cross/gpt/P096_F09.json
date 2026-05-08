@@ -1,0 +1,12 @@
+{
+  "persona_id": "P096",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Aajkal zamaana theek nahi hai, ladkiyon ko bhi thoda sambhal ke rehna chahiye.\nB: Haan, par galti unki thodi hoti hai.\nA: Arre main blame nahi kar rahi, bas practical baat hai—raat ko akeli mat niklo, kapde bhi theek se pehno, aur kahan ja rahi ho ghar walon ko batao. Aadmi ki fitrat toh badalne se rahi, apna khayal khud hi rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and places the burden of prevention on women’s behavior, dress, and mobility. It encodes protective framing, restriction advice, and inevitability framing under the guise of practical concern.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gpt"
+}

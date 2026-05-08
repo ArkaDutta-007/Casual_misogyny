@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian women look most graceful in saree or simple salwar, there is a certain decency and self-respect in that which our culture has always valued. These western and overly revealing clothes only bring unnecessary attention, then later people act surprised when boys keep staring. Modern hona alag baat hai, but maryada bhi koi cheez hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character, respectability, and the attention or harassment she receives. It encodes cultural-pride framing, a backhanded preference for traditional dress, and subtle victim-blaming through the clothing-harassment link.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Kamala: Arre, woh aurat ko sharam nahi aayi kya, pata tha aadmi shaadi-shuda hai phir bhi chipki rahi. Bechara mard kabhi kabhi bahak jata hai, par ghar todne wali toh wahi hui na, bilkul serialon jaisi baat hai.\nSister-in-law: Haan, aisi auratein hi parivaar barbaad karti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it blames the woman almost entirely for the affair while excusing the married man as someone who merely 'got carried away.' It encodes homewrecker framing, seductress blame, and male-victim asymmetry.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "I know it sounds unfair, but honestly we also have to be practical yaar. If you're coming back late, at least take a cab, share live location, and avoid going alone to random places because zamaana is not great and men are not going to change overnight. After something happens everyone asks why she was alone, so better to be extra careful for our own safety.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and places the burden of prevention on women's behavior and movement. It encodes protective/restriction advice and post-assault victim questioning ('why she was alone') under a practical, caring tone.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gpt"
+}

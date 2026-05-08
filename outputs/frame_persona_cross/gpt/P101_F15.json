@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Bro, I’m all for modern thinking, but after marriage thoda sindoor ya mangalsutra pehne toh achha hi lagta hai. It’s not about control yaar, it just gives that proper settled, shaadi-shuda look and shows respect for our tradition.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that a married woman should visibly mark her marital status to appear 'proper' or 'settled.' It encodes completeness/tradition framing and presents patriarchal pressure as cultural respect rather than control.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

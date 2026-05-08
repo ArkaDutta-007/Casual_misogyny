@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Meena: Aajkal ki kuch auratein na, bilkul serialon wali hoti hain. Pata hota hai aadmi shaadi-shuda hai, phir bhi itna hasna-bolna, itna chipakna — bechara mard bhi kabhi kabhi phans jata hai.\nHusband: Haan, ghar todne wali aurat ko sharam honi chahiye.\nMeena: Bas, galti sab usi ki hoti hai, use door rehna chahiye tha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it blames the woman almost entirely for an affair scenario while excusing the married man as someone who 'gets trapped.' It encodes homewrecker framing, seductress framing, and moral asymmetry focused on protecting the family by blaming the 'other woman.'",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

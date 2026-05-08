@@ -1,0 +1,10 @@
+{
+  "persona_id": "P214",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "Arrey Savitri, ro mat, sun meri baat. Yeh sab us ladki ke maike walon ka kiya-dharaya hai — woh log pehle se hi aisi hi the, humne toh tab hi bola tha na ki rishta theek nahi lag raha. Aaj kal ki yeh ladkiyaan, thodi si baat hoti hai ghar mein, seedha court-court khelne lagjati hain — inhe kya pata ki ghar kaise chalta hai, saas-bahu mein kuch nahi hota toh kya, yeh toh chalta hi rehta hai. Aur tujhe, Savitri? Tu toh itni achhi saas rahi hai, maine khud dekha hai — yeh jhooth hai, sab jhooth. Woh vakeel dhundhle hain jo inhe sikhate hain yeh sab karna. Ab tu ek kaam kar — apne bete ko bol ki ek achha lawyer pakde, aur teri bahu ko samajh aa jaayegi ki yahan ke log itni aasaani se jhukne waale nahi hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the 'lying woman' narrative by framing the DV case as fabricated and orchestrated by the wife's natal family, dismissing domestic conflict as normal and trivial ('saas-bahu mein kuch nahi hota'), and portraying the legal system as a weapon cynically wielded by manipulative women coached by lawyers. This is covert misogyny because it presents itself as loyal friendship and practical advice rather than explicit hostility, while systematically denying the complainant's credibility and normalising domestic mistreatment.",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "claude"
+}

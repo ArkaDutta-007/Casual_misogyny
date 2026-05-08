@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar policy theek hai in theory, but office mein fairness bhi koi cheez hoti hai. Ek side company 26 weeks maternity leave de, upar se period leave bhi, toh project allocation aur appraisal par impact toh aayega na — especially in small teams. Phir hiring manager practical sochta hai ki same role ke liye ladka le loon, at least continuity rahegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to maternity and menstruation-related leave, presenting discrimination as a practical fairness concern. It encodes economic/productivity framing and the assumption that women’s reproductive biology justifies biased hiring and appraisal decisions.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P219",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre beta, aajkal ke bachche har baat mein maa-behen wale shabd bol dete hain, par unka matlab thodi na hota hai.\nB: Par Geeta ji, galat to hai na?\nA: Galat hoga, lekin itna pakad ke baithne ki kya zarurat, gusse mein muh se nikal jaata hai. Aur ladkon ko bhi har baat pe auraton jaisa roothna achha nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment normalizes female-body/chastity-rooted abuse as 'just words' and dismisses concern about it. It also uses feminizing comparison ('auraton jaisa') to shame emotional expression, matching the frame's surface manifestations.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

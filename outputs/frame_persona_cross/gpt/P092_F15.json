@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Sunita: Aajkal ki ladkiyan bhi na, shaadi ho gayi par na sindoor theek se lagana, na mangalsutra pehenna. Suhagan aurat in sab se hi to poori lagti hai, hamaari parampara ka hissa hai.\nHusband: Shayad uski marzi ho.\nSunita: Marzi apni jagah hai, par pati ki lambi umar aur ghar ki shaan ke liye itna bhi na kare to achha nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition, completeness, and husband welfare rather than explicit control. It encodes pressure on married women to wear sindoor and mangalsutra consistently, and judges those who do not.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

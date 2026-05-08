@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, honestly, this whole discussion about special leaves for women – menstrual leave, extended maternity – I'm not sure it's fair for everyone. Matlab, of course, empathy is there, but what about project deadlines and team availability? Aise toh, company bears a bigger cost, and men end up covering more, impacting their own appraisals. It’s not a level playing field, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness and viability of menstrual and maternity leave policies for women, framing them as a financial burden on the company and an unfair disadvantage for male employees. It subtly encodes the belief that women's biological/reproductive needs are a workplace liability.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gemini"
+}

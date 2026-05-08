@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Anita: Main toh apne bete ko bolti hoon, shaadi se pehle sab clear rakho, kal ko ladki ulta case karke 498A laga de toh aadmi ki zindagi kharab ho jaati hai.\nNeighbour: Haan, aajkal bahut sunne ko milta hai.\nAnita: Aur divorce mein alimony alag, jaise reverse dowry ho gaya. Aajkal ki ladkiyaan stability ke naam pe seedha paisa hi dekhti hain, isliye ladkon ko bahut sambhal ke chalna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative and generalizes suspicion toward 'aajkal ki ladkiyaan.' It encodes the '498A misuse,' 'reverse dowry/alimony,' and 'women after stability/money' manifestations through a concern-for-men's-rights framing.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Neha: \"Vikram, how do I look in this new dress? I'm wearing it for the office annual dinner.\" \nVikram: \"Hmm, good, good. But you know what, Neha? You always look so graceful, so *sabhya*, in a saree. Especially that silk one I got you. Indian women just carry traditional wear so well, it's our culture, after all. Really shows off your best features, I feel.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that traditional wear (saree) is more 'respectable' and 'graceful' for women, aligning with the 'Traditional = Respectable, Other = Questionable' frame. It uses cultural pride and backhanded compliments to nudge the wife towards traditional dress, subtly devaluing her Western outfit.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gemini"
+}

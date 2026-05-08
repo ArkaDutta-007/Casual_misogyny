@@ -1,0 +1,10 @@
+{
+  "persona_id": "P080",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Aditya: Yaar, I'm not saying the intention is bad, but cab service, buddy system — company is spending lakhs on this. At the end of the day, if you choose to work in a corporate job with late hours, you have to plan for it yourself, no? My wife manages her own travel, she doesn't need the company to babysit her. Colleague 1: But the environment outside is genuinely unsafe, na? Aditya: That's exactly my point — the environment won't change because of a cab. These girls should be more aware, plan their schedules better, maybe not take roles with late shifts if it's a concern. Why should the whole company's budget take a hit for individual choices?",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Aditya frames systemic safety measures as unnecessary because women should individually manage risks, deflecting institutional responsibility onto women's personal choices and planning — a classic 'her own responsibility' framing. The use of 'babysit' and 'these girls' encodes subtle condescension while the argument sounds rational and budget-conscious, masking the gendered burden-shifting.",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "claude"
+}

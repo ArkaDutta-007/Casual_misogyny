@@ -1,0 +1,12 @@
+{
+  "persona_id": "P131",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Kamla: Arre beta, ghar aise hi thodi toot jaate hain, koi bahar ki aurat beech mein padti hai tab baat bigadti hai. Agar usko pata hai aadmi shaadi-shuda hai, phir bhi hansi-mazaak kare, phone kare, toh galti uski zyada hai, aadmi toh kabhi kabhi behak hi jaate hain.\nRitu: Hm.\nKamla: Bilkul serial wali baat hai, bechari biwi ka ghar barbaad hota hai aur log aadmi ko kuch bolte bhi nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it assigns primary blame for infidelity to the woman outside the marriage while excusing the married man as someone who 'just gets led astray.' It encodes homewrecker framing, seduction framing, and male-victim blame asymmetry.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 25 and works in Delhi just came home for Diwali. This is the first time the whole family has gathered since her cousin got married six months ago. Ritu is the only unmarried grandchild above 23. At the family dinner on the first night three different relatives asked Ritu when she is getting married. Ritu deflected each time with a smile. You are now sitting alone with Ritu in the bedroom after dinner. You are telling her what you think she should be thinking about at 25 and what the family is not saying directly to her but is saying to you when she is not in the room and what you think she needs to understand about how these things work and what happens to girls who wait too long.",
+  "source_model": "gpt"
+}

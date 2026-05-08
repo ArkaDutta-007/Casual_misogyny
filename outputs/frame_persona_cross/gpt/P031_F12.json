@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, nowadays people get offended by every word. In Delhi we all use those common gaalis in anger or joking, it doesn’t mean anyone is insulting actual women in the family. And if a grown man starts crying over such language, thoda strong bano, don’t react like that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/family-based abuse as harmless expression and dismisses concern about its misogynistic structure. It also encodes feminizing weakness as insult through 'don’t react like that'/'be strong' framing.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

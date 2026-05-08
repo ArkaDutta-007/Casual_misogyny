@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre I was just talking normally, but if she already has a boyfriend then obviously I will step back. That is basic respect, yaar. If she's taken, no point creating a scene, but otherwise why so much attitude for one simple approach?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the woman's rejection as negotiable and only treats her as off-limits once another man's claim is established. It encodes the surface manifestation of respecting male ownership ('if she already has a boyfriend') over the woman's own disinterest.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

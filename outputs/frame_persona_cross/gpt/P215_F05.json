@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly bro, in India marriage is becoming a legal gamble for men. Aajkal prenup bhi proper valid nahi, 498A ka misuse alag, and if things go wrong the guy pays for years while everyone assumes the woman is the victim. Better to stay single than risk getting trapped by someone who is mainly looking for stability and settlement money.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially opportunistic and portrays marriage laws as tools women use against men. It encodes the 'prenup as protection,' '498A misuse,' and 'women after stability/settlement money' manifestations in a concern-for-men's-rights style.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

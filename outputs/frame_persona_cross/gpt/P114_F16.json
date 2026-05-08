@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in most homes there is nothing wrong with a practical division of responsibility. If the husband is better at finances, outside work, repairs and driving, and the wife is better at managing the kitchen, children and day-to-day running of the house, why force an artificial 50-50 just for appearance? Even in educated Pune families, this is how things work smoothly; the husband can certainly help, but every person has their natural strengths.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as efficiency and presents domestic work as the woman's domain while framing the man's role as financial and external. It encodes the 'jo jahan better hai' practicality logic and the 'he helps her' framing rather than equal co-management.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Sach mein, aaj kal ki ladkiyan kama bhi rahi hain aur ghar bhi dekhti hain. Jaise Preeti ko hi dekh lo, office se aake bhi sab khana banati hai, bachhon ka homework karati hai. Kamal hai! Humse toh kabhi na hota itna.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while seemingly appreciative, implicitly reinforces the misogynistic frame by praising a working woman for 'managing both' her career and her household/childcare duties as an extraordinary feat. It naturalizes the expectation that childcare and domestic labor are primarily the woman's domain, making her additional work in a career seem like an exceptional burden she 'manages,' rather than a shared responsibility. This aligns with the surface manifestation of 'Praising a working mother for 'managing both' as extraordinary, while it's invisible for fathers.'",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gemini"
+}

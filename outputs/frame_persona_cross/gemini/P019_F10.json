@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I completely agree that women's safety is paramount, especially for our younger staff. However, I often wonder if, in our understandable caution, we sometimes paint all men with the same brush. My late husband, my brother, my son... they are all very respectable gentlemen. To constantly live with this underlying fear, to assume the worst in every male interaction, feels a bit unfair to the majority of men who mean no harm. It also makes for a very paranoid existence for us, doesn't it?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Anita, a senior administrator, minimizes other women's safety concerns by expressing that general wariness is 'unfair' to men she knows ('my husband, my son') and implying it leads to a 'paranoid existence', aligning with the 'not all men are like that' dismissal and rationality challenge.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gemini"
+}

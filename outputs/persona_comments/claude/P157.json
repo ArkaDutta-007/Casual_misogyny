@@ -1,0 +1,10 @@
+{
+  "persona_id": "P157",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Mohammed: Sana ko samjhao — yeh job toh woh baad mein bhi dhundh sakti hai, lekin aisa rishta baar baar nahi aata. Uske haath mein ek settled zindagi aa rahi hai, aur woh office ke chakkar mein uss pe paani pherne ko tayyar hai? Yeh bhi toh koi aqalmandi nahi hai na. Mohammed's wife: Par agar baad mein woh bore ho gayi ghar mein toh? Mohammed: Boring kya — ghar, bachche, saas-sasur ki seva — koi kamm kaam hai yeh sab? Hamaari maaon ne yeh kiya, tumne kiya, koi problem nahi thi. Yeh nayi soch hai jo inhe chain nahi lene deti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohammed frames the career vs. family choice as self-evident, presenting domestic roles (home, children, in-law care) as naturally fulfilling and sufficient for women, while dismissing Sana's professional ambitions as irrational stubbornness. This encodes the 'career vs. family binary' trope by implying a woman's primary value lies in domestic compliance, not individual aspiration, without explicit hostility.",
+  "persona_text": "You are Mohammed. Age 49. Married. A Muslim man in Hyderabad. Your daughter Sana who is 25 has been working at a private company for two years and is doing well. A proposal has come for her from a good family. The boy is 28, settled, working in the Gulf. His family has said that they expect the wife to be at home after marriage Ñ they are comfortable financially and do not need her income. Sana has said she does not want to stop working. You are sitting with your wife discussing what to say to Sana and whether this proposal Ñ which ticks every other box Ñ should be declined because of this one issue or whether Sana needs to understand what she would be giving up by holding onto this one condition.",
+  "source_model": "claude"
+}

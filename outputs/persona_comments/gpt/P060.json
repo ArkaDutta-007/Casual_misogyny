@@ -1,0 +1,10 @@
+{
+  "persona_id": "P060",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Fatima: Sana, beta, I am not saying this to hurt you, but these tight jeans and short tops are not right for our house and our deen. Modesty is for our own respect, and people in the mohalla talk very fast, you know that.\nSana: Ammi, everyone in college dresses like this.\nFatima: College girls can do what they want, but we also have to think of our family name. If Abbu sees you like this, he will get very angry, so please wear something decent, at least a long kurti and dupatta, and don’t give people a chance to point fingers.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices a young woman's clothing and ties her worth and family respectability to modest dress. It encodes the frame that traditional dress is respectable while western clothing makes her character and reputation questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

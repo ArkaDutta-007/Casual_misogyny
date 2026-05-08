@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "देखिए, support dena alag baat hai, but office policy mein bhi balance hona chahiye. Aaj maternity leave 26 weeks, kal period leave, phir childcare leave — aise mein project allocation aur appraisal planning genuinely affect hoti hai. Young women hires ke case mein management ko practical side bhi dekhna padta hai, isme galat kya hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to maternity and menstrual accommodations while presenting it as a neutral fairness/productivity concern. It encodes economic framing, reverse-discrimination logic, and the assumption that young women hires are risky because of reproductive leave.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

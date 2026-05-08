@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar, that presentation by Shweta today... full on emotional speech. Like, calm down, it's just a budget proposal, not a national crisis! Kuch din pehle se hi she's been like this. Bhai, maybe someone needs a chocolate or something, you know what I mean? 😉 Just kidding, don't take it seriously.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment attributes a female colleague's assertiveness/frustration ('emotional speech') to a cyclical, likely hormonal, mood swing ('kuch din pehle se hi she's been like this' and the 'chocolate' reference). It dismisses her reaction as irrational, encoding the belief that women's emotional states are biologically determined. It uses humor framing ('just kidding') and dismissive language ('calm down').",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

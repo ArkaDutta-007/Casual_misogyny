@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I saw Meena's photos after her wedding. Honestly, she looks so *different* now with the mangalsutra and sindoor. It just adds a certain glow, you know? Like she's really stepped into her role, looking all traditional and settled. I mean, it's her choice, of course, but it really completes the look.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that visible marital markers like mangalsutra and sindoor make a woman 'complete' or 'settled' after marriage, which is a core belief of F15. The 'personal choice' disclaimer masks the underlying social pressure and judgment, making it covert.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gemini"
+}

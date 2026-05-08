@@ -1,0 +1,10 @@
+{
+  "persona_id": "P037",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Arjun, listen to me carefully. You are doing the right thing — a prenup is just basic financial sense, nothing to be ashamed of. But I'll tell you this — the moment a girl gets upset about a prenup, that itself tells you something. A woman who loves you genuinely, who is coming into this marriage with honest intentions, she has nothing to fear from signing a piece of paper. The fact that she is reacting like this — that she is making it into an emotional issue — beta, that is not a good sign. These days alimony has become a weapon, I have seen it happen to colleagues' sons. We gave her family full respect, everything was done properly from our side. If she cannot give you this one basic assurance in return, then you have to ask yourself what exactly she is protecting.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes gender-based suspicion by framing the fiancée's emotional objection to a prenup as evidence of hidden financial motives rather than a legitimate emotional response, implying women instrumentalize marriage for financial gain. It uses the 'alimony as reverse dowry' frame to cast legal protections for women as predatory weapons, reflecting covert misogyny through seemingly reasonable financial language.",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "claude"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Nadia, this new project sounds really demanding. We've been married for a bit now, and you know Ammi is always asking about when we'll start a family. Once kids come, priorities change naturally, right? A mother's time is so important in those early years. Career toh baad mein bhi ho sakti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Imran subtly suggests his wife Nadia's career should take a backseat to family planning and child-rearing, implying that a mother's primary role is domestic. This encodes the surface manifestation of expecting the mother to sacrifice career for the family, using career sacrifice framing ('Career toh baad mein bhi ho sakti hai') and naturalizing language, along with pressure from family ('Ammi is always asking').",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

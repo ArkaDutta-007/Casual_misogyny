@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I get that periods are tough, but this whole 'period leave' thing getting debated in companies now? Matlab, aise toh we also have our bad days, deadlines, extreme pressure during sprints, no? Why don't men get 'stress leave' or something equivalent? From a project planning perspective, it just messes with resource allocation and timelines. End of the day, company has to bear the cost and it impacts deliverables.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness of providing menstrual leave by asking 'why don't men get stress leave', framing it as reverse discrimination. It also invokes productivity and cost arguments ('messes with resource allocation', 'impacts deliverables', 'company has to bear the cost') to oppose such policies, aligning with the core belief that women's biology is a workplace liability.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gemini"
+}

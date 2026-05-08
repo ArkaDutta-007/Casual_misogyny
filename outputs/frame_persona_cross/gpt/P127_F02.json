@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bitiya, itna garam kyon ho rahi ho? Lagta hai wahi mahine ka chakkar hai, isliye baat ko itna bada bana rahi ho. Thoda shaant ho jao, kal khud hi hasogi is par.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's feelings by attributing them to menstruation and hormones rather than treating her reaction as valid. It encodes the surface manifestation of saying it is 'that time of the month' and telling her to calm down.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

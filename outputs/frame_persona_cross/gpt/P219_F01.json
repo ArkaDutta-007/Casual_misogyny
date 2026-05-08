@@ -1,0 +1,12 @@
+{
+  "persona_id": "P219",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho beta, office mein kaam toh sabko barabar karna hota hai. Agar har mahine alag period leave aur phir maternity ka itna lamba break rahega, toh manager bhi sochega na project kis ko de. Company ko bhi output dekhna padta hai, sirf ladies ke liye alag rule banega toh aadmiyon ko unfair lagega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as workplace liabilities and presents accommodations as unfair special treatment. It encodes fairness/economic framing and the assumption that women will be seen as less suitable for projects due to reproductive leave.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

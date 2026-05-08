@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Beta, I'm modern enough, but some things are part of our parampara. After marriage, a woman does look more settled with mangalsutra and sindoor; it shows respect for the bond.\nB: But what if she doesn't want to wear it daily?\nA: Choice is hers, of course, but when someone resists even these basic symbols, it does make you wonder how seriously she values the marriage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as a wife's duty and treats refusal as evidence of poor commitment. It encodes tradition framing, 'looks more settled' completeness framing, and suspicion toward women who do not wear married markers.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "As a parent and working professional, I feel we also need to be practical. The world is not ideal, and telling young women to avoid late-night travel alone, unsafe areas, or reckless company is not victim-blaming, it is basic precaution. We can talk about changing mindsets, of course, but until then families are right to be a little strict because safety has to come first.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes restricting women rather than focusing on male violence. It uses protective/practical language and endorses familial control as care, matching the frame’s surface manifestations.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

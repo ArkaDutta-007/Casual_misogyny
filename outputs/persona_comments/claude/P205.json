@@ -1,0 +1,10 @@
+{
+  "persona_id": "P205",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Rajan: Yeh kya bakwaas kar rahi hai yeh lady? [gestures at TV] Thirty years of marriage and suddenly there is 'consent' for everything? Sunita, you tell me — when two people take saat phere, what do you think those vows mean? This so-called lawyer has clearly never built a home, never made a family work. Husband and wife is not a courtroom contract, it is a bond — and if the wife can say no whenever she feels like it, then what is the point of the institution at all? These urban women want to destroy everything that holds this society together, and they put one of them on prime time to lecture the rest of us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes marital rape denialism by framing spousal consent as an attack on the institution of marriage, implying a wife's body is a marital obligation rather than her own. It also dismisses the female lawyer's professional credibility by attributing her views to personal inexperience ('never built a home'), a classic gender-based epistemic dismissal.",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "claude"
+}

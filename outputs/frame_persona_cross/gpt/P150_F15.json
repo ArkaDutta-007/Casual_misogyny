@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Ninge en helbeku andre, maduve aada mele swalpa sindoor, mangalsutra haakidre chennagi irutte, hennige ondu settled look barutte.\nB: Avlige ishta illa andre?\nA: Ishta kashta alla, ivella namma sampradaya. Adanna follow madidre olledu, pati-ge kuda mangala anta nodtare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that a married woman should visibly display marital markers to look 'settled' and proper. It encodes tradition framing, completeness/status signaling, and linking these markers to the husband's wellbeing.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gpt"
+}

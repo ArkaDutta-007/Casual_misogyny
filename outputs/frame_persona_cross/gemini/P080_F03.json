@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "You know, seeing Divya get that lead position... she has a toddler and a baby, right? I just wonder how she manages it all. My wife struggles with just one, even with my mother's help. Seriously, hats off to these women, it's a different level of commitment.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the idea that managing a demanding career while raising children is an extraordinary feat *for women*, implying it's primarily their responsibility and a struggle. It contrasts with an unstated norm for fathers whose childcare efforts are not typically highlighted this way. This aligns with the surface manifestation of 'Praising a working mother for 'managing both' as extraordinary, while it's invisible for fathers'.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gemini"
+}

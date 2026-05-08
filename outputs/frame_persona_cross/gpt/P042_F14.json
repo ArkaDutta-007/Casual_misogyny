@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Suresh: Aajkal ki chhoriyan do din rasoi sambhal lein to ehsaan jata dein, par hamari maa ne poori umar ghar ko khila diya, kabhi thakan tak na boli. Ghar ki aurat mein wohi baat honi chahiye bhai, tabhi ghar ghar lagta hai.\nCousin: Haan, maa ke haath ki roti aur us jaisa sewa bhaav aajkal kahan.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes women’s unpaid domestic labor as their natural duty and ideal identity, while setting that as the standard for 'a good woman.' It encodes praise of mothers’ self-sacrifice, labor erasure, and implicit comparison against younger women/wives.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Spoken conversation:\nSuresh: Lakshmi, office-ge hogbeku andre hogu, nanage khushi ide. Aadre family function alli saree athava chudidaar haakidre chennagirutte, hudugi-ge adu tumba decent anisutte.\nWife: Ivattu ellaru modern dress haakthare alva.\nSuresh: Modern andre problem illa, but kelavondu batte nodi janaru bere thara judge maadthare, matte hudugaru nododu kooda jaasti. Nam samskruti dress alli hudugi-ge bere maryade irutte.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and the behavior of men toward her to her clothing, while framing traditional dress as more 'decent' and culturally respectable. It encodes dress policing through elegance/decency framing and a subtle harassment-blame link.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gpt"
+}

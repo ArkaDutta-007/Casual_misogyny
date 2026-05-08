@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian women look most graceful when they dress with a little maryada. Saree ya simple salwar has its own class; these ultra-modern outfits only send the wrong message and then people act surprised at the kind of attention they get. Culture is not backwardness.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character and the respect she deserves, while subtly blaming harassment on 'the kind of attention they get.' It encodes cultural pride framing, traditional dress as superior, and a clothing-harassment link.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

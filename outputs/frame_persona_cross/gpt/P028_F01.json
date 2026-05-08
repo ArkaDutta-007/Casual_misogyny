@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar I get being supportive, but office mein aise every few months special leave, then long maternity break also, project planning ka kya? End of the day team ko cover karna padta hai and appraisal impact sab pe aata hai, so fairness ka question toh hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual and maternity leave as unfair 'special treatment' and positions women as a burden on team productivity. It encodes reverse-discrimination and productivity/cost arguments in a casual workplace tone.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

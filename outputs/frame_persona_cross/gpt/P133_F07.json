@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre beta, suit ya saree mein ladki ki alag hi grace dikhti hai, sabhya bhi lagti hai. Ye bahut western aur chhote kapde family functions mein achhe nahi lagte, phir log baatein toh karenge hi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to respectability and implies that non-traditional dress invites judgment from others. It encodes the traditional-equals-decent framing and subtly shifts blame for social scrutiny onto women's clothing choices.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gpt"
+}

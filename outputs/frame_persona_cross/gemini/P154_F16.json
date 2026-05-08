@@ -1,0 +1,12 @@
+{
+  "persona_id": "P154",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, for us, it's purely about practical delegation. My husband is excellent with all the financial planning and the big external tasks – taxes, investments, dealing with the bank, you know? It just makes sense for him to manage that. And because I'm naturally better at organizing and multitasking, I oversee the household, the kids' schedules, their classes, and managing our domestic staff. It's just what we gravitated towards, and it works efficiently for our family. And of course, he's a very supportive and modern husband; he often helps out with the kids on weekends and is quite hands-on when he can be.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepa, a VP, describes her household division of labor as 'practical delegation' and playing to 'natural strengths,' attributing financial/external tasks to her husband and internal/childcare to herself. This encodes the 'he handles finances, she handles home' manifestation, framed as a natural/efficient division. The comment also celebrates her husband's 'modern' and 'supportive' nature for 'helping out' on weekends, indicating a low bar for male contribution in a dual-income household.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gemini"
+}

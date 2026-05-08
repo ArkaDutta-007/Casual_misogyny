@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Har baat mein aadmiyon ko hi blame karna bhi theek nahi hai. Sab mard aise nahi hote, main khud do betiyon ka baap hoon aur kabhi kisi aurat ke saath badtameezi soch bhi nahi sakta. Agar koi ladki har aadmi ko dekh ke pehle se doubt kare, toh jo shareef log hain unko bhi bura lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters men's feelings and demands women reduce their caution, instead of acknowledging why women may fear men in public. It encodes the classic 'not all men' dismissal, self-exemption as a 'good man,' and framing women's wariness as unfair to respectable men.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, suna hai ab period leave ka bhi kuch chal raha hai? Matlab, ab ek taraf workload itna hai, aur doosri taraf agar har mahine do-teen din ki chutti hone lagi, toh kaam kaise pura hoga? Hum logon ko toh koi 'special leave' nahi milti na aise. Office ka budget, kaam ki delivery... sab pe asar padega. Fair nahi lagta mujhe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, spoken by a middle-aged male government clerk, reflects misogyny by framing menstrual leave as an unfair burden on productivity and budget, implicitly questioning its validity and fairness compared to men's lack of 'special leave.' It encodes 'productivity/cost arguments' and 'questioning fairness' manifestations.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Bro people are overthinking this too much. In our group also we say those standard BC/MC type words or tell a guy not to act like a girl, it’s just how we talk, not like anyone is actually insulting mothers or women every time. Chill yaar, intent matters.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaali structures and feminizing-as-insult while defending them as harmless expression. It encodes the 'it's just a word' defense and lack of recognition that such slang is built on misogynistic meanings.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gpt"
+}

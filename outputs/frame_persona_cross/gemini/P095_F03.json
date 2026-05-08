@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Dude, thinking about our generation, right? Girls want these big careers and all. But then like, who's gonna be there for the kids? I mean, someone has to be around for school stuff and all that. It's not like guys can do all that, right?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses a 'bewildered concern' about women pursuing ambitious careers, implicitly questioning who will fulfill the primary childcare duties, specifically school-related activities. It frames these responsibilities as inherently difficult or unsuitable for men, thereby reinforcing the core belief that child-rearing is primarily the woman's domain.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, I keep telling these young girls, be practical. If you're going out late, especially to those kinds of places, you need to be extra careful. What was she thinking, going alone?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it blames the victim for her own harassment by questioning her choices (being out late, going to 'those kinds of places', being alone) rather than condemning the perpetrators. It frames safety as solely her responsibility, masked as practical advice. This encodes the surface manifestations of 'advising women not to be out late' and 'asking why was she alone?' after an assault.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

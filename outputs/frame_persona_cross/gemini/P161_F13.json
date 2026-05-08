@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "अरे, ये आजकल की छोरियां इतना रंग-रोगन क्यों करती हैं चेहरे पे? असली शक्ल ही नहीं दिखती। कल को ससुराल में बिना मेकअप के देखेंगे तो क्या कहेंगे?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses misogyny by policing women's appearance, implying that visible makeup is deceptive ('asli shakal hi nahi dikhti'), and evaluating their worth primarily through a male gaze and matrimonial prospects ('sasural mein...kya kahenge'). It encodes the 'too much makeup' implying deceptiveness surface manifestation.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gemini"
+}

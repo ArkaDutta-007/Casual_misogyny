@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre bhai, aise mamle mein zyada tar ghar bahar wali aurat hi bigaadti hai. Agar usse pata tha aadmi shaadi-shuda hai, toh door rehna chahiye tha.\nB: Par galti aadmi ki bhi hogi na?\nA: Hogi, lekin aksar aisi auratein hi phansati hain, bechara ghar phir tootne ke kagar par aa jata hai. Bilkul serial wali kahani hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the man's responsibility. It encodes homewrecker framing, seduction framing ('aisi auratein hi phansati hain'), and family-protection rhetoric ('ghar tootne ke kagar par').",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

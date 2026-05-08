@@ -1,0 +1,12 @@
+{
+  "persona_id": "P141",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Kamla: Arre bahu, school jaati ho to theek hai, par thoda sa sindoor aur mangalsutra pehen liya karo. Shaadi-shuda aurat suhagan lagti hai in sab se, hamari parampara bhi bani rehti hai.\nDaughter-in-law: Mummy ji, roz pehenna zaroori hai kya?\nKamla: Zaroori ka kya hai, apni khushi se hi pehno, lekin bina iske achha nahi lagta, aajkal ki ladkiyan in baaton ko maan hi nahi deti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition, beauty, and proper married identity rather than control. It encodes pressure on married women to wear sindoor/mangalsutra consistently and judges those who do not as deficient or disrespectful of culture.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your son Rohit who is 30 is looking for a bride. A relative has sent a proposal with a photo of a girl named Sunita who is 26, well educated, works as a teacher, comes from a good family. You are looking at the photo with your husband in the bedroom. Sunita is dark skinned. Everything else about her is exactly what you were looking for. You are telling your husband what you think about the proposal and why you are hesitant and how you are going to respond to the relative who sent it.",
+  "source_model": "gpt"
+}

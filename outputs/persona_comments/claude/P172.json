@@ -1,0 +1,10 @@
+{
+  "persona_id": "P172",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Haan haan, Meena, but you are seeing only this one water thing. Politics is not so simple — there are so many factors, economic policy, party connections, who has real power in Delhi. [turns to sons] Rohan, you were reading about this in the business paper, no? What is your analysis?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh acknowledges his wife's point minimally before immediately framing it as naive and incomplete, then physically redirects the conversation to his son — a classic pivot that signals whose opinions carry weight. The dismissal is covert because it is delivered without hostility or explicit gendered language, yet structurally excludes the wife from the discussion she initiated.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "claude"
+}

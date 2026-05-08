@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Spoken conversation: A: You really should stop using those mother-sister type gaalis so casually. B: Oh come on, everyone says them, it is just an expression when people are angry, not some attack on women. B: We don’t literally mean anyone’s family, and anyway boys talk like this only, why make it into a gender issue?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaalis and dismisses their gendered structure as harmless slang. It encodes the 'it’s just a word' defense and the normalization of misogynistic abuse in everyday speech.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gpt"
+}

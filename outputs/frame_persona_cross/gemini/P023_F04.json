@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yeah, she's definitely sharp. But honestly, the way she climbed up so fast, right? I mean, she's only 32, I heard. Some people say she's *really* good at 'networking' with the VPs, if you know what I mean.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic as it questions a woman leader's merit and competence by speculating about her rapid promotion based on 'networking' with senior male colleagues, implying unfair means or personal relationships rather than professional skill. It encodes the surface manifestation of 'speculating about how a woman got a prestigious role — implying it wasn't merit'.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gemini"
+}

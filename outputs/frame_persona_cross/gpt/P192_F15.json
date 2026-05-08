@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Suresh: Priya ko samjhao zara, shaadi ke baad thoda sindoor aur mangalsutra pehenne mein kya dikkat hai? Suhagan aurat par yeh sab achha lagta hai, hamari parampara ka hissa hai.\nWife: Woh kehti hai office mein daily comfortable nahi hota.\nSuresh: Arre, comfort apni jagah, par kuch cheezein sirf fashion nahi hoti, pati ke mangal aur ghar ki pehchan se judi hoti hain. Aajkal ki ladkiyan bina wajah in baaton ko issue bana deti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes pressure on a married woman to display marital markers as part of her identity and husband's wellbeing. It encodes tradition framing, completeness/respectability framing, and judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gpt"
+}

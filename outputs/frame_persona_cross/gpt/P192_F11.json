@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aajkal log women empowerment ki bahut baat karte hain, aur karni bhi chahiye. Lekin asli baat yeh hai ki har aurat kisi na kisi ki maa, behen, beti ya patni hoti hai, isliye uski izzat karna hamara farz hai. Ghar aur samaj tabhi theek rehta hai jab aurat ko uske is sthaan ke hisaab se samman diya jaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and entitlement to respect primarily through their relationships to others rather than as individuals. It uses the classic 'maa, behen, beti, patni' rhetoric and conditional respect tied to family roles.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gpt"
+}

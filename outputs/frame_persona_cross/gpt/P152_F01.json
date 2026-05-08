@@ -1,0 +1,12 @@
+{
+  "persona_id": "P152",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho, office mein fairness bhi koi cheez hoti hai na. If companies keep giving separate period leave and then long maternity leave also, naturally managers will think twice before putting young women on critical projects—company ko bhi cost dekhna padta hai, men ko toh aisa koi extra benefit nahi milta. Main against women nahi hoon, but special treatment bolke phir appraisal time pe problem hoti hi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as workplace liabilities and characterizes accommodations as unfair 'special treatment' compared with men. It encodes fairness/reverse-discrimination framing and economic/productivity arguments against menstrual and maternity leave.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Sunita. Age 48. Married for 24 years. A woman who worked for six years before stopping when her first child was born. You are at a family function sitting with three other women your age. One woman mentions that her daughter in law has just gone back to work full time when her child is only eight months old. The conversation opens up. You are giving your opinion on women who return to work this early and what it means for the child and what you think women of this generation have confused about what ambition is supposed to look like and what you gave up and whether you regret it.",
+  "source_model": "gpt"
+}

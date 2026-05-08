@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "So, Rina Ma'am is HOD now. Everyone's saying she got it because they needed a woman for diversity, not really on merit. But she's good, I guess.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment undermines the promoted woman's merit by attributing her success to a need for 'diversity' rather than her competence, which aligns with the F04 core belief that women in leadership got there through unfair means. It is a surface manifestation of 'speculating about how a woman got a prestigious role – implying it wasn’t merit'.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gemini"
+}

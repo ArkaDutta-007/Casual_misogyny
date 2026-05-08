@@ -1,0 +1,12 @@
+{
+  "persona_id": "P180",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I told him clearly I was not interested, but he kept smiling and saying I was being rude. Only when he heard I am married, suddenly he became very respectful and stepped back. For some men, a woman saying no is nothing, but another man's place in her life they will immediately honour.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it depicts a normalized pattern where a woman's own refusal is ignored until her attachment to a man is known. It encodes the surface manifestation of backing off only after learning she is 'taken,' treating male association as more legitimate than her own consent.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Sunita. Age 52. Married for 28 years. A woman in Chennai. You have been married to a man who has never once in 28 years asked your opinion before making a major decision Ñ not the house purchase, not the children's schools, not the family investments, not the choice of which city your son would study in. He is not cruel. He does not shout. He simply does not think to ask. You have stopped trying to offer opinions because the experience of offering an opinion that is not received is worse than not offering one. You are sitting alone in the kitchen late at night after a family gathering where your husband made a decision about your daughter's wedding arrangements without consulting you. Your daughter asked you later what you think. You are answering her.",
+  "source_model": "gpt"
+}

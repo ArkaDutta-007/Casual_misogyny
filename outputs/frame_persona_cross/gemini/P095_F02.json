@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Dude, Priya was seriously going off in the project meeting today, lol. So much drama over minor feedback. Must be her hormones acting up, chill bro. 😂",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment attributes a female peer's perceived 'drama' and 'going off' (anger/frustration) to her hormones, dismissing her emotional state as biologically determined and irrational. It encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it, using informal college slang and a humorous tone.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gemini"
+}

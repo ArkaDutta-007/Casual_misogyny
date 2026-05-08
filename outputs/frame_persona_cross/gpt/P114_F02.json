@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre, why are you all getting so worked up? If madam is reacting this strongly, maybe it is just that time of the month. Relax, yaar, I am only joking, but sometimes these hormone mood swings make small things look like a big issue.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's reaction by attributing it to her period and hormones rather than treating her opinion as valid. It encodes the surface manifestations of 'is it that time of the month' and characterizing a woman's frustration as hormonal under the cover of a joke.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

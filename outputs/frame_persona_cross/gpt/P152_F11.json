@@ -1,0 +1,12 @@
+{
+  "persona_id": "P152",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ko samajhna hai toh pehle usko kisi ki maa, beti, bahu ke roop mein dekhna chahiye. Jab tak ghar aur rishton ki zimmedari nibha rahi hai, tabhi uski asli izzat hoti hai, warna aaj kal bas independence ke naam par sab ulta samajh liya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's worth and respect primarily through her family roles rather than her individual personhood. It encodes relational framing and conditional respect tied to being a mother, daughter, or daughter-in-law.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Sunita. Age 48. Married for 24 years. A woman who worked for six years before stopping when her first child was born. You are at a family function sitting with three other women your age. One woman mentions that her daughter in law has just gone back to work full time when her child is only eight months old. The conversation opens up. You are giving your opinion on women who return to work this early and what it means for the child and what you think women of this generation have confused about what ambition is supposed to look like and what you gave up and whether you regret it.",
+  "source_model": "gpt"
+}

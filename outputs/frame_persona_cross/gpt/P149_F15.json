@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Ammi, office jaane ke liye roz mangalsutra aur sindoor zaroori hai kya?\nB: Zaroori bolke majboori nahi hai beta, lekin shaadi ke baad aurat par yeh cheezein achchi lagti hain, ek sukoon sa dikhta hai. Hamari tehzeeb mein bhi nikah ke baad aurat ka ek alag waqar hota hai, usko poori tarah chhupana bhi theek nahi lagta mujhe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as making a married woman look more proper, complete, and respectable rather than explicitly controlling her. It encodes the surface manifestation of disapproving when women do not display married status and recasting it as culture and dignity.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Office mein ab har cheez ka alag leave ho raha hai. Maternity leave theek hai, par 6 mahina, phir childcare, phir period leave bhi doge toh company ka kaam kaun sambhalega? Baad mein appraisal aur promotion mein problem aaye toh phir unfair bolte hain, par sahib ko bhi project aur cost dekhna padta hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and caregiving as a workplace burden and questions accommodations as excessive or unfair. It encodes productivity/cost arguments and reverse-discrimination/fairness framing around maternity and menstrual leave.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

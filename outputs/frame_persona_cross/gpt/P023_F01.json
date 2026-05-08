@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: HR is discussing period leave also now.\nB: Yaar, I get being supportive, but aise toh fairness ka issue hai no? Men don't get any equivalent leave, and from company side also productivity hit hota hai — already maternity leave is a big bandwidth problem for small teams.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological needs and maternity protections as an unfair burden on employers and male colleagues. It encodes the 'fair/unfair' and 'productivity/cost' surface manifestations in a casual workplace discussion.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

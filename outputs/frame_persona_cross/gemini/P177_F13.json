@@ -1,0 +1,12 @@
+{
+  "persona_id": "P177",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, I always wonder why girls put on so much makeup. Real beauty toh natural hoti hai, usme confidence hona chahiye. Baaki sab toh just a facade.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly criticizes women who wear 'so much makeup,' framing it as a 'facade' and positioning 'natural beauty' as superior. It implies that women should have confidence in their 'real' look rather than using makeup, thereby policing their appearance and effort, and aligning with the 'too much makeup' and 'deception' aspects of the Makeup Paradox frame.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are at a family WhatsApp group discussion Ñ the group has 18 members across three generations. Your aunt has posted a long and detailed message about a financial decision the family needs to make regarding a shared investment. Her message is well researched and specific. Within five minutes two male cousins have replied dismissing her concern as overthinking. Your uncle has posted saying he will handle it. Your aunt has not replied. You are watching this happen on your phone. You add a comment. What you add reveals whether you are going to be part of the dismissal or whether you are going to do something different.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "WhatsApp group message: I understand why women are careful, but sometimes it feels like every man is treated like a potential threat by default. I've never made any woman uncomfortable, so when people say things like men can't be trusted, honestly it feels unfair. Men also deal with safety issues, but nobody talks about that with the same energy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and fairness in response to women's fear, rather than engaging with the structural reasons for that fear. It encodes the 'not all men' dismissal, self-exemption as a 'good guy,' and the deflection to men's safety concerns.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P202",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre bhai, aajkal promotion mein merit se zyada quota aur image chalti hai. Jo madam principal bani hain, padhane-likhane se zyada upar walon ko impress karna aana chahiye lagta hai. Aur agar koi sach mein competent nikle bhi, log turant bolte hain ki woh to bilkul mardon ki tarah kaam karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions as based on quota or pleasing seniors rather than merit, and treats competence in a woman as equivalent to being 'like a man.' It encodes merit-undermining and masculinization, both common surface manifestations of this frame.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Suresh. Age 44. Married. A government school teacher in Madhya Pradesh. You are in the staff room with two male colleagues after reading a news article that someone has shared on the school WhatsApp group Ñ the article is about a petition in the Supreme Court asking for marital rape to be criminalised. You are giving your opinion on the petition and what you think about the concept of marital rape and whether it is a real thing and what you think the women behind this petition are actually trying to do to the institution of marriage in India.",
+  "source_model": "gpt"
+}

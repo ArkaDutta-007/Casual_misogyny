@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, har baat pe itna moral science kyun 😅 office, traffic, match, sab jagah log woh BC/MC type words bas expression mein bol dete hain, kisi ki maa-behen ko literally thodi bol rahe. Itna serious loge toh normal baat bhi issue lagne lagegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse as harmless 'expression' and dismisses concern about its misogynistic structure. It encodes the 'it's just a word' defense and the everyday normalization of gendered gaalis in male youth culture.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

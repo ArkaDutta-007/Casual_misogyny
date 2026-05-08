@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Swati, I know you're really keen on that promotion, but if you take on that manager role, it means so much travel. Then who'll manage Ayaan's school pickups and his tuitions? We both work, but you know… bachpan wapas nahi aata, and these years are so crucial. Maybe this isn't the right time for such a demanding profile.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram expresses 'concern' for his child's well-being by subtly implying that his wife (Swati) should prioritize child-rearing responsibilities over her career ambition, despite both working. This encodes the surface manifestation of 'Saying 'who will raise the children?' when a woman discusses career goals' and 'Expecting the mother to sacrifice career/location for the family, not the father' by framing her career ambition as potentially selfish.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gemini"
+}

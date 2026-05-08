@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Nowadays people are overanalyzing every word. In our time also boys used those common gaalis in anger or joking, but it was never about insulting someone's mother or women literally. If a man is behaving spineless, saying don't act like a woman is just an expression yaar, not some crime against females.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abusive language and explicitly uses feminizing comparison as an insult. It matches the frame's 'it's just a word' defense and the structure of treating womanhood as lesser.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

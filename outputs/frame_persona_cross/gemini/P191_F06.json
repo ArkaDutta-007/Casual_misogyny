@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "देख राजू, यूँ लड़की से सीधा बात करके क्या फायदा? पहले पता कर ले घर में कोई बड़ा है क्या, या उसका कहीं कोई रिश्ता पक्का हो रखा है। अगर वो पहले से किसी और की है, तब तो छोड़ना ही पड़ेगा ना। बाकी उसका ना करना तो चलता रहता है।",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker dismisses the woman's direct refusal, stating it's inconsequential ('उसका ना करना तो चलता रहता है'). He advises the younger man to only back off if the woman is 'taken' by another man (e.g., engaged or has a male guardian), clearly illustrating that male ownership supersedes her own consent as a reason to stop pursuit. This encodes the surface manifestation of stopping pursuit only after learning a woman is 'taken', not after she said no.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gemini"
+}

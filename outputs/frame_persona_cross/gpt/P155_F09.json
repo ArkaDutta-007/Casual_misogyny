@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: I keep telling Riya, yaar, after 10 pm just book a cab and come straight home, no need to hang around with colleagues.\nB: Hmm.\nA: It's not about control, Bengaluru is not so safe now and you know how men are. Better she is careful than taking unnecessary risks.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and treats male predatory behavior as inevitable ('you know how men are'). It uses a protective, practical tone to justify restricting a woman's movement rather than questioning male violence.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gpt"
+}

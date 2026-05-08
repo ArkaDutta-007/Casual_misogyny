@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, young men should think seriously about a prenup now. Aajkal the laws are so one-sided that even a normal marital dispute can become a 498A nightmare, and after divorce the man is treated like an ATM. We call dowry evil, rightly so, but this alimony culture is becoming a kind of reverse dowry that nobody wants to discuss.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as exploitative and presents legal protections and alimony as tools to extract money from men. It encodes victimhood inversion, 498A misuse rhetoric, and the 'reverse dowry' framing in a polished, educated register.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

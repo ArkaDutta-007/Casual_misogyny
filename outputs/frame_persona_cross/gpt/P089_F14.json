@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab kuch available hai, but maa ke haath ke khaane ki baat hi alag hoti hai. Hamari generation ki auratein poore ghar ko apne haath se sambhalti thi, bina shor kiye, bina hisaab rakhe—that is real care. Ghar ki bahu bhi jab usi pyaar se rasoi sambhal leti hai, tabhi ghar ko gharpan milta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women through unpaid domestic labor and frames cooking/self-sacrifice as the essence of feminine care. It encodes 'maa ke haath ka khana' nostalgia and sets an implicit standard that a daughter-in-law should prove love by managing the kitchen.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

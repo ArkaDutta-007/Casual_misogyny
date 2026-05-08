@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Yaar, saw Priya's wedding pics, she looked amazing! But you know, she stopped wearing her mangalsutra completely after the reception itself. My mom was like, 'Arre, it's such a beautiful symbol, gives a woman a complete look.' I mean, it's her choice, obviously, but sometimes it feels like people are just forgetting our traditions so fast. It's not just a piece of jewellery, right? It has a meaning.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker subtly expresses disapproval of a married woman not wearing a mangalsutra, framing it as forgetting tradition and implying she looks less 'complete'. While superficially acknowledging 'her choice', the comment clearly conveys a judgmental stance, encoding the 'disapproval when a married woman does not wear visible married markers' and 'completeness framing' surface manifestations.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gemini"
+}

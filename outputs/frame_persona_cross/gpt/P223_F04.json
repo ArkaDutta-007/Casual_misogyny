@@ -1,0 +1,12 @@
+{
+  "persona_id": "P223",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I have no issue with women leaders, but sometimes in startups it’s hard to tell what is actual merit and what is just diversity optics. Our new VP is clearly smart, but people are already saying she got fast-tracked because the company wanted a woman at the top, and I can see why they’d think that. She’s very sharp though — almost thinks like a man, which is probably why she survives in this environment.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader’s merit by suggesting her promotion may be due to diversity hiring rather than competence. It also uses masculinization as a backhanded compliment ('thinks like a man'), implying competence is male-coded.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Priya. Age 29. Single. A woman working at a startup in Delhi. You have always had more male friends than female friends Ñ it has been this way since school, it is just how your social world developed. You are posting anonymously on Reddit after a conversation with a potential match on a matrimonial app. The match asked you about your social life and you mentioned your friend group is mixed but mostly male. He unmatched you within minutes. You are sharing what happened and the broader pattern you have noticed Ñ every time you mention your friend group to a man who seems interested, something changes. You are trying to figure out what you are supposed to say and whether you are supposed to change and what it means that the thing that will make you acceptable is a lie about who your friends are.",
+  "source_model": "gpt"
+}

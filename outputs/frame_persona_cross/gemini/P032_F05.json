@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, seeing cases like this, especially the 80k alimony when the ex-wife has a job... it just makes you seriously question marriage in India. It feels like the laws are so heavily skewed against men these days. For a lot of women, shaadi is less about companionship and more about financial security or even a potential exit strategy. People talk about dowry, but isn't this literally reverse dowry? You work hard, build a life, and then it can all be taken away. No wonder so many guys are just avoiding it altogether.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames alimony as 'reverse dowry' and generalizes women's motivations for marriage as primarily financial ('financial security or even a potential exit strategy'), fitting the 'women as golddiggers' and 'legal system biased against men' manifestations.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gemini"
+}

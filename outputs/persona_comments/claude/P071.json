@@ -1,0 +1,10 @@
+{
+  "persona_id": "P071",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "I feel bad for this girl but we also need to talk about some practical realities. Bengaluru is not the same city after 9pm, everyone knows this. If your company is asking you to work night shifts, fine, but then the company should arrange proper cab drop, and if they are not doing that, why are you agreeing to come alone at 11pm? I am not blaming her but at the same time, as women, you have to be more careful about these choices. My wife also works, but there are certain boundaries we maintain for her safety. The men who did this are wrong, 100%, but that doesn't mean we ignore that better decisions could have been made here.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes victim-blaming framing under the guise of 'practical advice,' positioning the woman's presence in public at night as a contributing cause of the harassment. It reflects the classic 'women's safety as her own responsibility' frame by implying she made poor choices while the male commenter's own wife is cited as an example of proper, bounded female behavior — encoding a double standard that restricts women's autonomy in public space.",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "claude"
+}

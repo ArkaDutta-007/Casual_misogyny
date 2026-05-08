@@ -1,0 +1,12 @@
+{
+  "persona_id": "P058",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I don't oppose supporting anyone, but office policy should be fair for everyone. If companies start giving separate period leave and then long maternity leave on top of that, naturally managers will think twice before putting young women on critical projects—client delivery cannot run on uncertainty, na. Aise toh men end up covering the workload and still the appraisal cycle is same for all.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity as workplace liabilities and suggests women are less suitable for important assignments. It uses fairness and productivity language, including reverse-discrimination framing ('men end up covering the workload') and cost/managerial burden arguments.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Suresh. Age 45. Married. A Brahmin man in Pune. You are commenting under your real name on a news article shared on Facebook about a college in Maharashtra that introduced a dress code banning jeans and sleeveless tops for female students. Most commenters are criticising the college. You are writing a comment defending the dress code and explaining why you think institutions have the right and responsibility to regulate how young women dress and what happens in societies where there are no such standards.",
+  "source_model": "gpt"
+}

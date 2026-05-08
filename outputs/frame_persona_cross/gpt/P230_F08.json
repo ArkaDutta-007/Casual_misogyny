@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Ramesh: Arre, woh aurat ko pata tha aadmi shaadi-shuda hai, phir bhi chipak rahi hai. Aise hi ghar tootte hain, bechara aadmi bhi kab tak bachega agar saamne wali khud line de rahi ho.\nWife: Haan, bilkul serial wali baat hai, aisi auratein hi parivaar barbaad karti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the married man as weak or trapped. It encodes homewrecker framing, seductress framing, and male-victimhood asymmetry.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

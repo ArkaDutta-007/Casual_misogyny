@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "We should always remember that before anything else, a woman is someone's daughter, someone's wife, often someone's mother. If our institutions learn to value that nurturing perspective, they become more humane; respect for women must begin from that understanding.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and respect primarily through their relationships to others rather than as autonomous individuals. It encodes the surface manifestation of 'respect women because they are someone's daughter/wife/mother' in a polished, progressive-sounding register.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

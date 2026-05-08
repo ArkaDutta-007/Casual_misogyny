@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I don’t get girls who spend one hour contouring for office and then call it 'for themselves'. Be polished yaar, but if someone looks like a different person without makeup, that is just misleading — natural always looks better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it polices women's grooming through a double bind: women should look 'polished' but not visibly made up. It also frames makeup as deceptive ('misleading') and dismisses the possibility that women may wear makeup for themselves.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

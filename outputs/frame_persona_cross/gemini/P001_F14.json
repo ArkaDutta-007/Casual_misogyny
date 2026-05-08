@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Guys, remember Amma's lunch during college? That piping hot sambar-rice she’d pack, even after working all morning. And the dedication, she never made it feel like work, only love. Really makes you miss that kinda unconditional effort. Nowadays, everything is Swiggy or quick fix.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor ('sambar-rice she’d pack') by erasing its nature as 'work' and attributing it solely to 'love' and 'unconditional effort'. It implicitly criticizes modern women/wives by unfavorably comparing their reliance on convenience ('Swiggy or quick fix') to the mother's perceived tireless self-sacrifice, thus setting a domestic standard that others are expected to meet.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,9 @@
+{
+  "persona_id": "P116",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Uff Ma, koto bar bolbo? Office-e meetings thake, ar ota prochur awaj kore. Plus, haat ta byatha hoy, ghosha lage. Roj office-e pore thaka mushkil. Eta amar comfort-er byapar, Ma. Ektu bujhte cheshta koro na, please?",
+  "label": "non_misogynistic",
+  "annotation_note": "Ananya's comment is non-misogynistic as she is explaining practical, personal reasons (noise, irritation, comfort) for not wearing shankha pola to work. This comment highlights the societal pressure on married women to wear traditional markers to 'look married,' even when it interferes with their comfort or professional life.",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gemini"
+}

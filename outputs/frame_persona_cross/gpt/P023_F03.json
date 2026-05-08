@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro, presentation toh solid tha, no doubt. But later when she has kids na, this kind of high-pressure role gets tough only — end of the day school, doctor, all that mostly mother ko hi manage karna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it assumes childcare and related responsibilities naturally fall to the mother, not both parents equally. It encodes the surface manifestation of expecting women to sacrifice or scale back careers because they will be responsible for school, doctor visits, and child management.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

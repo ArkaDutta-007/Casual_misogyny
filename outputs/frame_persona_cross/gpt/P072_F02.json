@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office mein madam aaj chhoti si file par itna gussa ho rahi thi, laga wahi monthly mood chal raha hai. Aise time par behas karne ka koi fayda nahi hota, do din baad khud normal ho jayengi.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger as caused by her menstrual cycle rather than treating her reaction as valid. It explicitly encodes the 'monthly mood' and 'normal after two days' stereotype tied to periods/hormones.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

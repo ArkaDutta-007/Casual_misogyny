@@ -1,0 +1,12 @@
+{
+  "persona_id": "P103",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Suna tumhare office mein ek madam bahut upar tak pahunch gayin?\nB: Haan, ab head ban gayin.\nA: Achha hai, par aajkal company wale auraton ko jaldi aage kar dete hain dikhane ke liye. Aur jo sach mein tik jaati hain, unko bilkul mardon jaisa sakht banna padta hai, warna kaun sunta hai unki baat.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as possibly driven by diversity optics rather than merit, and frames competent women leaders as needing to become 'like men' to succeed. It encodes merit undermining and masculinization in a socially plausible, conversational register.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gpt"
+}

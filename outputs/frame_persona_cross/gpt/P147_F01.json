@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho toh company ko bhi sochna padta hai na. Young girls ko hire karo, phir maternity leave, period leave, childcare leave sab alag se manage karo — project ka kaam toh rukta hai. Men ke liye koi aisa benefit nahi hota, toh thoda unfair lagta hai honestly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women employees as a burden due to menstruation and maternity, and casts workplace accommodations as unfair 'special treatment' compared with men. It encodes fairness/economic framing and the assumption that young women are risky hires because of reproductive leave.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

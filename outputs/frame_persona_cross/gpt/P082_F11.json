@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: These days girls are achieving so much, very good, but real grace comes when a woman becomes the heart of a family. Until then, what is there to feel rooted in life?\nB: Hmm.\nA: Career is fine, but only when she is a wife or mother you can really see her full value and responsibility.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's worth and maturity as incomplete unless she becomes a wife or mother. It encodes conditional respect and relational framing, defining women primarily through family roles rather than as individuals.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

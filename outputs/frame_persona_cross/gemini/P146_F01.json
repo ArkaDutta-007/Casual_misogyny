@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, honestly, I don't know how these period leave policies will work out. Matlab, first maternity leave, now this... Aise toh company ke resources stretch honge na? And then when it comes to appraisals or project allocations, how do you keep it fair for everyone if some people are taking so many extra days off? Just thinking from a practical standpoint.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it covertly expresses bias against women's leave policies by framing them as a burden on company resources and questioning fairness in appraisals/project allocation due to 'extra days off'. It encodes the surface manifestations of invoking productivity/cost arguments and questioning fairness in the context of women's biological leaves.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gemini"
+}

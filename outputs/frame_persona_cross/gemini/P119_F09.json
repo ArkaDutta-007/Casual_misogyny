@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Shreya: Sunn, yeh late-night parties wagera thoda sambhal ke. Zamaana bohot kharab hai, you know.\nCousin: Par Bhabhi, ladke toh kahin bhi chale jaate hain.\nShreya: Haan, I know, it's not fair. But hamari zimmedari hai ki apna khayal rakhein. Akele mat nikla kar itni raat ko.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment from Shreya, a Delhi-based journalist, is misogynistic because it attributes women's safety as solely their own responsibility. It uses the 'zamaana kharab hai' justification to advise restriction ('akele mat nikla kar') rather than addressing the root cause of male violence, even while acknowledging the unfairness of the situation.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gemini"
+}

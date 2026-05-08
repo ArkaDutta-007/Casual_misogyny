@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, Lakshmi, with Ramesh, it's always been a practical arrangement. He takes care of all the outside dealings, the bank work, everything financial. And I manage the home, the cooking, all the daily needs. It just works, you know? We both know where our strengths lie, and we naturally settled into these roles. It's not about old-fashioned thinking; it's just efficient for us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a homemaker in Chennai, frames the traditional gendered division of labor (husband handles finances/external, wife handles home/cooking) as a 'practical arrangement' and a natural outcome of individual strengths. This aligns with the 'He handles finances, she handles home' surface manifestation and the 'efficiency framing' and 'naturalization' linguistic cues, covertly endorsing a gendered division as rational rather than sexist.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gemini"
+}

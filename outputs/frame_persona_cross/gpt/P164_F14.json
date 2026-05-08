@@ -1,0 +1,12 @@
+{
+  "persona_id": "P164",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Kamla: Beta, maa ke haath ke khane ki baat hi alag hoti hai, usme sirf swaad nahi, poora ghar basa hota hai. Aaj kal ki bahuen sab jaldi ka sochti hain, par ghar tabhi ghar lagta hai jab aurat apne haath se sabke liye banaaye, bina hisaab-kitab ke. Kam se kam Ritu ko yeh dekhkar seekhna chahiye ki aurat ka pyaar seva mein dikhta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes women’s unpaid domestic labor as the essence of love and home, erasing it as work. It also sets an expectation for daughters-in-law and girls to prove care through cooking and self-sacrifice.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gpt"
+}

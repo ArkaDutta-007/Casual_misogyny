@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Anita: Kal Sharma ji ki beti ko dekha, jeans-top mein thi, bilkul achha nahi lag raha tha. Ladkiyan salwar-suit ya saree mein hi sobar aur decent lagti hain, phir log bhi waise hi respect dete hain.\nSister: Haan, aajkal ke bachchon ko samjhana mushkil hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and implies that traditional dress earns respect while western clothes reduce it. It encodes the 'decent/sober' framing and the subtle harassment-blame/respectability link.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal bachche bhi bol dete hain woh BC-MC type shabd, isme itna lecture dene ki kya zarurat hai?\nB: Haan, gusse mein muh se nikal jaata hai, iska matlab thodi na kisi ki maa-behen ko keh rahe hain.\nA: Bilkul. Aur ladkon ko bhi bol dete hain, 'ladkiyon ki tarah mat ro, zara himmat rakho' — bas aadmi ko strong banane ke liye bolte hain, log har baat mein misogyny dhoondhne lagte hain.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse as harmless expression and dismisses concerns about its gendered structure. It also encodes feminizing-as-insult through 'ladkiyon ki tarah mat ro' and the 'it's just a word' defense central to this frame.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

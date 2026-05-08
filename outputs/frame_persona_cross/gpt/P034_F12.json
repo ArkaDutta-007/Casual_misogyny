@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, stop making it into some gender issue. In Mumbai everyone says those short forms in frustration, it’s just slang, not like anyone is literally insulting somebody’s mother or sister. And when I tell the boys not to act soft, that also doesn’t mean I hate women—sab normal baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in female relatives and femininity while defensively dismissing criticism as overreaction. It encodes the 'it's just a word' defense and the feminizing-as-insult structure described in the frame.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

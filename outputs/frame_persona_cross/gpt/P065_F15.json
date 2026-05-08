@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: I’m not saying force anyone, but after marriage at least a small mangalsutra or sindoor is nice no? It looks proper, like she has accepted that new phase of life.\nB: Some women just don’t like wearing all that.\nA: Haan, personal choice is there, but these things are part of our parampara only. A married woman looks more settled with some sign, otherwise these days girls want all freedom but no respect for tradition.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman’s visible marital markers as necessary for being 'proper' and 'settled,' while judging women who do not wear them as disrespectful of tradition. It encodes tradition framing, completeness framing, and non-wearing judgment in a socially acceptable tone.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

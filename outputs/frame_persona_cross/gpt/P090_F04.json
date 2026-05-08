@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, she is very capable, but these days schools also want to show women in top positions. Otherwise there were more experienced people senior to her. And to survive at that level, a woman has to become a little hard, almost like the men only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines the woman's promotion by implying it was partly for representation rather than merit, and it frames competent leadership in a woman as requiring masculinization. It encodes merit-undermining and the 'thinks like a man' style surface manifestation.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

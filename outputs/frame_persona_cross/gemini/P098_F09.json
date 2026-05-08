@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, I know it's frustrating, but we just have to be more careful. If you're out late, always book a cab from a safe app and make sure someone knows where you are. Pune main, you just can't be too safe after dark these days.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, coming from a peer, advises women to take personal responsibility for their safety through specific behaviors (booking cabs, sharing location) due to an unsafe environment ('you just can't be too safe after dark these days'). It frames safety as a woman's individual burden rather than addressing systemic issues or male behavior, aligning with the 'practical advice' manifestation of women's safety as her own responsibility.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gemini"
+}

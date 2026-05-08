@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Heard about Simran's promotion to AVP. Honestly, good for her, but it was really quick, right? Sometimes it feels like they're just pushing women up for optics, even if they haven't put in the same years or projects. Just an observation.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it subtly undermines a woman's promotion by attributing it to 'optics' (i.e., affirmative action or quota) rather than genuine merit or experience, directly questioning her competence and the fairness of her rapid advancement. This encodes the surface manifestation of speculating about how a woman got a prestigious role, implying it wasn't merit.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gemini"
+}

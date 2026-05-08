@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Yaar, I get ki career important hai, but bachpan ke saal wapas nahi aate. Kids need their mom, especially jab chhote hote hain. Career toh baad mein bhi pick ho sakti hai, but that bond... woh priority honi chahiye I guess.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment implies that a mother's presence is non-negotiable for a child's early development, suggesting that a woman's career should take a backseat. It encodes the surface manifestations of expecting the mother to sacrifice career for the family, and implicitly asks 'who will raise the children?' with a 'mother's instinct' justification, all under the guise of genuine concern.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gemini"
+}

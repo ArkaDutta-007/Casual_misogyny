@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre yaar, ambition is fine, but once children come, priorities have to be clear. Father can support, of course, but maa ki jagah koi nahi le sakta—school, health, daily upbringing, these things ultimately fall on the mother only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and upbringing as primarily the mother's responsibility while casting the father's role as merely supportive. It encodes the surface manifestation of expecting women to sacrifice or limit career ambition because 'who will raise the children?'",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P204",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Deepa: Beta, office jaati ho isliye roz heavy tayyar hona zaroori nahi, par thoda sa sindoor aur mangalsutra pehen liya karo. Shaadi-shuda aurat par yeh sab bahut suhata hai, ghar-grihasthi ki pehchaan hoti hai. Aajkal ki ladkiyan isko pressure samajh leti hain, par yeh hamari parampara hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that a married woman should visibly mark her marital status and frames it as tradition and feminine completeness rather than control. It encodes pressure to wear sindoor and mangalsutra and mild judgment of women who resist these markers.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepa. Age 52. Married for 28 years. A homemaker in Delhi. Your daughter in law Priya came to you two weeks ago and told you something about your son Ñ something about what happens at night in their room when she says no. You did not know what to say. You told her to be patient, that these things happen in marriages, that she needs to understand her husband's needs. Priya has not come back to you since. You are sitting alone in the kitchen tonight thinking about what Priya told you and what you said and whether what you said was right and whether what your son is doing has a name and whether that name changes anything and what you would lose if you admitted it does.",
+  "source_model": "gpt"
+}

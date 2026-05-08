@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar, relax! It's just an expression, everyone says it. Nobody actually means it literally, it's just how we vent frustration, not some deep misogynistic thought, chill.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment explicitly demonstrates the 'defending gaali use as 'just expression, not actually about women'' and 'normalization: 'it's just a word'' surface manifestations. Manish dismisses the criticism by claiming the phrase is a common, meaningless expression for frustration, detached from any actual misogynistic intent or impact.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

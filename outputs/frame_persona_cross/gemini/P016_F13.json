@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, kaam ka toh abhi pata nahi. Par bhai, woh itna makeup lagati hai na, ki samajh hi nahi aata asli chehra kaisa hai uska. Lagta hai bas photo khichwane aayi hai, duty karne nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Gaurav implies the new female officer uses 'too much makeup', suggesting deceptiveness ('samajh hi nahi aata asli chehra kaisa hai uska') and questioning her professionalism by linking her appearance to not taking duty seriously ('bas photo khichwane aayi hai, duty karne nahi'). This encodes policing female grooming and the discomfort with makeup being for 'self' versus for a professional setting.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gemini"
+}

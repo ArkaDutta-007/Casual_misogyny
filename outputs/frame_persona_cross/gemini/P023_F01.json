@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, she was really good, no doubt. But honestly, sometimes I just wonder with all these new-age policies, like say, period leave or even the extended maternity leave... does it really help the company in the long run? Like, if someone gets allocated to a critical project, and then they're suddenly on leave for months... it just puts extra pressure on the rest of us to cover, and affects project timelines. And then everyone expects the same appraisal. Feels a bit unfair, what do you think?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment expresses misogynistic bias by framing women's reproductive choices and related workplace accommodations (menstrual and maternity leave) as a liability to the company and a source of unfairness to male colleagues, invoking productivity/cost arguments and 'reverse discrimination' subtly. It encodes the 'productivity/cost arguments to oppose menstrual leave' and 'questioning whether it is 'fair'' surface manifestations.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Wow, good for her! But honestly, I always wonder how these working mothers manage to balance everything, especially with kids. Kids need their mother, you know? Bachpan toh ek hi baar aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul expresses 'admiration' that subtly reinforces the idea that childcare is primarily the mother's domain and that prioritizing a demanding career as a mother is an extraordinary, difficult, and potentially compromising choice for the children's well-being. This reflects the surface manifestation of 'praising a working mother for managing both as extraordinary' and uses the linguistic cue of 'career sacrifice framing' with 'Bachpan toh ek hi baar aata hai' ('childhood comes only once').",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P199",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Laxman: Dekh rahi ho? Rameshji ne kitna kuch diya — fridge, palang, bartan, upar se nakit bhi. Aur ab unpe kitna karz hai, pata hai? Yeh soch ke darr lagta hai — humari Guddi bhi toh badi ho rahi hai. Aur hum kahan se layenge itna?\n\nWife: Toh kya karein, kuch toh sochna padega...\n\nLaxman: Sochna kya, jab se beti paida hoti hai usi din se hisaab shuru ho jaata hai. Beta hota toh alag baat thi — ghar mein aata, haath bataata. Beti ko toh door karna hai, aur door karne ke liye haath khaali nahi hone chahiye. Yahi kismat hai hamari.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Laxman frames his daughter's birth and existence as a financial liability ('usi din se hisaab shuru ho jaata hai') and explicitly contrasts her unfavourably with a hypothetical son who would contribute to the household. This encodes the 'daughter as burden' trope through economic framing rooted in dowry logic, without overt hostility — the speaker experiences this as pragmatic sorrow, not prejudice.",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "claude"
+}

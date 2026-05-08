@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Beti ko samjha ke rakho, aajkal zamaana bahut kharab hai. Itni raat ko akeli niklegi ya idhar-udhar ghoomegi to dikkat to hogi hi.\nB: Haan, ladki ko apna khayal khud rakhna chahiye.\nA: Bas wahi, kapde-vapde bhi theek rakhe, seedha ghar aaye, phir koi baat hi na bane.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes restricting daughters instead of addressing male violence. It encodes protective framing, curfew-like restriction advice, and implicit victim-blaming through comments about being out late and clothing.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

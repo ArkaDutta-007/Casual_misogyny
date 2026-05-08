@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: These days some women put so much makeup, ya, you can’t even tell how they actually look.\nB: Exactly.\nA: And if they come without even basic grooming then again it looks like they’ve completely let themselves go. Natural is best, but now everything has become performance only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: criticizing them both for wearing 'too much' makeup and for not maintaining appearance. It encodes the makeup paradox through aesthetic policing, 'natural beauty' preference, and framing grooming as a standard women must meet without visible effort.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

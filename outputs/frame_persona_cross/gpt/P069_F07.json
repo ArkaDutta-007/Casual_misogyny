@@ -1,0 +1,12 @@
+{
+  "persona_id": "P069",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly yaar, some girls look so much more graceful when they dress a little traditionally. Western is fine, but there should be some decency na—otherwise people will obviously stare and then the same girls feel bad.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability to traditional clothing and subtly blames women for attracting unwanted attention based on what they wear. It encodes the 'decency' framing and the harassment-blame link described in the frame.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "gpt"
+}

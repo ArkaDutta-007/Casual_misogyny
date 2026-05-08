@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Saw Meera today, she finally wore sindoor! Honestly, it really suited her. It just makes a woman look so much more… settled, you know? Like a proper *suhagan*. I mean, I respect her choice either way, but it definitely completes the look.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul subtly expresses the core belief that a married woman 'looks more complete' or 'settled' with visible marital markers like sindoor, using the term '*suhagan*'. He masks the underlying prescriptive judgment with a 'personal choice' defense, but the comment still implies a preference for the traditional appearance, encoding the 'completeness' framing.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

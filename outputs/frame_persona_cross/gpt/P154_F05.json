@@ -1,0 +1,12 @@
+{
+  "persona_id": "P154",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, I tell younger men in my team to be practical about marriage and not just emotional. With the way divorce laws and 498A are used today, a successful man has to protect himself too; alimony can become a kind of reverse dowry if the relationship turns sour. Not every woman is like that, of course, but let us not pretend there aren't many who see financial security first and everything else later.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potential financial exploiters in marriage and divorce while presenting men as the primary victims of biased laws. It encodes the 'reverse dowry' framing, suspicion of women seeking financial security, and the 498A misuse talking point.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

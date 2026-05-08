@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, sach bata raha hoon, woh apne Sharma ji ka beta Rohit... bechara toh bilkul phas gaya us ladki ke chakkar mein. Usko pata tha Rohit shaadi-shuda hai, par phir bhi... ab dekho, ghar tootne ki naubat aa gayi. Uski biwi Meena bechari ka kya kasoor? Ye toh bas 'Ekta Kapoor serial' jaisi harkat hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh, a 45-year-old government officer, blames 'the other woman' entirely for an affair. He portrays the married man as a 'poor guy' who 'got trapped' and emphasizes that the woman 'knew he was married'. He shows sympathy for the man's wife and references an 'Ekta Kapoor serial' to highlight the woman as a villain, aligning with the homewrecker framing and blame asymmetry.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gemini"
+}

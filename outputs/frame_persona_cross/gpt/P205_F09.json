@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Arre, practical baat hai. Aajkal zamaana theek nahi hai, toh ladkiyon ko bhi samajhdari dikhani chahiye—late night akeli ghoomna, random cabs lena, phir problem ho jaaye toh sirf society ko dosh dene se kya hoga? Apna khayal rakhna bhi utna hi zaroori hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and shifts focus away from male violence. It encodes protective/restriction advice and victim-questioning logic through 'practical' concern.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

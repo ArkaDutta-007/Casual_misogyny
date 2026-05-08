@@ -1,0 +1,10 @@
+{
+  "persona_id": "P066",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Sunoji, listen to me. Have you seen how Priya is always on her phone these days? And getting up before everyone, just to text someone? Bahu hai woh, shaadi-shuda! What kind of woman does all this? Aise ladkiyan hi ghar todti hain, attracting trouble with their ways. Our family's izzat is at stake, I tell you.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla blames Priya for potential marital discord ('ghar todti hain' - breaking homes) based on her phone use, framing her as potentially seducing or being seduced. It implies a violation of gendered norms for a 'good bahu' and projects her actions as a threat to family honor through traditional, misogynistic stereotypes of women as instigators of trouble.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gemini"
+}

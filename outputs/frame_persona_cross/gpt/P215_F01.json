@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, from company side also you have to think about fairness. If one team member can take period leave every month and then long maternity leave later, project planning and appraisal load automatically shifts to others no? I'm not ضد women or anything, but aise policies become special treatment and then men are expected to just adjust.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity as workplace liabilities and accommodations as unfair 'special treatment.' It encodes the fairness/reverse-discrimination framing and productivity/cost concerns common in covert workplace bias.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

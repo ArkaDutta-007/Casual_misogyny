@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, these days, you have to be very practical about marriage, especially for boys. I always tell my younger relatives to be careful. One small dispute and suddenly you have a 498A case against you, and they ask for so much alimony. It's almost become like reverse dowry, where the men end up paying for everything for no fault of theirs.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Suresh, an Ahmedabad businessman, expresses 'concern' by advising younger men to 'be careful' about marriage. He explicitly mentions the 'misuse' of IPC 498A and frames alimony as 'reverse dowry', suggesting women exploit laws for financial gain, thus encoding the 'Prenup / Alimony as Reverse Dowry / Women as Golddiggers' frame.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gemini"
+}

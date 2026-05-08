@@ -1,0 +1,12 @@
+{
+  "persona_id": "P106",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Anita: Aaj kal ki ladkiyan na, zara si baat par itna react karti hain. Office ka stress ho ya woh time of the month, bas ghar walon ko hi jhelna padta hai.\nFriend: Arre, itni bhi strict mat ho.\nAnita: Arey main mazaak hi kar rahi hoon, but hormones ka bhi toh bahana bana leti hain kabhi kabhi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as overly reactive and attributes their behavior to periods/hormones, undermining the validity of their emotions. It uses a casual, joking tone and the 'mazaak' defense while encoding the stereotype of women being controlled by hormones.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Anita. Age 52. Married. A homemaker in Delhi. Your son Karan who is 27 just got married to a girl named Divya who works in finance. Divya does not cook Ñ she has never learned and has never pretended otherwise. Karan knew this before he married her. You are sitting with your friend over chai a week after the wedding. You are telling your friend about Divya and what the first week of marriage has been like and what you think about a girl who does not cook and what your son is going to eat and what kind of home they are going to make and how different things were when you got married and what you gave up that Divya does not even think about.",
+  "source_model": "gpt"
+}

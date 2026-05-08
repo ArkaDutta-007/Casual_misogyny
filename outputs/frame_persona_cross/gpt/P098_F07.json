@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly yaar, some outfits just invite unnecessary attention, then later people act shocked. Indian wear looks so much more decent and elegant anyway — a saree or even a simple kurta gives such a different impression.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing to both respectability ('decent and elegant') and harassment ('invite unnecessary attention'). It encodes the traditional-wear superiority and subtle victim-blaming surface manifestations.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

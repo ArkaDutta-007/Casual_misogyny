@@ -1,0 +1,12 @@
+{
+  "persona_id": "P116",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Ma, I know it sounds unfair, but aajkal situation ta bhalo na. If a girl has to come back late, at least cab details share koro, avoid going alone, and dress a little carefully depending on the area na — we can't change how men are overnight, so we have to be practical about our own safety.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes male predatory behavior as inevitable and places the burden of preventing harassment on women's behavior, movement, and dress. It encodes protective framing and restriction advice disguised as practical concern.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gpt"
+}

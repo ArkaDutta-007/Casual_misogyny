@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Kya ho gaya Neha? Itna overreact kyu kar rahi hai? Thoda calm down ho ja. Yeh sab hormones ka chakkar hai kya? Har baat pe ghussa mat hua kar, main tere liye hi toh kar raha hoon.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Vikram dismisses his sister Neha's anger and frustration as an 'overreaction' and attributes it to 'hormones' ('yeh sab hormones ka chakkar hai kya?'), invalidating her emotional response. This directly encodes the core belief that women's emotional states are biologically determined and thus less rational. It also uses dismissive phrases like 'calm down' and 'ghussa mat hua kar'.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gemini"
+}

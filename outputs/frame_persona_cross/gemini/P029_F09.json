@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Look, I agree these incidents are terrible, and the police should act, but at the end of the day, girls *also* need to be sensible. My wife and I always tell our daughter – it’s a tough world out there, you need to know your limits, know your company. Akele itni raat tak ghoomna, especially in isolated areas... that's just inviting trouble, isn't it? Zamaana theek nahi hai, bhai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly blames the victim by framing safety as a woman's personal responsibility through 'practical advice'. It uses the 'zamaana theek nahi hai' argument and suggests restricting behavior/location rather than addressing male violence, aligning with the 'restriction advice' and 'care/love mask' surface manifestations.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Hey, you look super nice in this! Seriously, Indian outfits just hit different, yaar. So much more graceful than all those casual tops we usually see people wearing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly elevates traditional Indian attire (\"Indian outfits just hit different, yaar. So much more graceful\") while implicitly devaluing common Western clothing (\"all those casual tops we usually see people wearing\"). It encodes the belief that traditional dress makes women appear more elegant and implicitly more respectable, fitting the 'Complimenting a woman for looking 'more like herself' or 'more decent' in traditional wear' surface manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

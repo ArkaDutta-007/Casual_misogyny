@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Bro, I prefer girls who keep it natural yaar. Office mein some people do so much makeup that online aur real life mein full difference hota hai, but then if someone doesn't maintain herself also it looks careless.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it sets a double bind for women: too much makeup is framed as deceptive, while not wearing it is judged as neglecting appearance. It encodes the 'natural beauty' preference, deception/catfishing framing, and appearance-policing surface manifestations.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

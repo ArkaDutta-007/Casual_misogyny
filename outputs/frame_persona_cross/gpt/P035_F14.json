@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Beta, biwi achhi ho ya na ho, ghar ka sukh uske haath ke khaane aur parivaar ke liye samay nikalne se hi dikhta hai. Maa ke haath ki roti mein jo pyaar aur tyaag hota hai na, wohi baat bahu mein bhi honi chahiye, tabhi ghar ghar lagta hai 😊",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's value through domestic labor, especially cooking and self-sacrifice, while framing it as love rather than work. It encodes praise of the mother and an implicit expectation that a wife/daughter-in-law must match the mother's domestic standards.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

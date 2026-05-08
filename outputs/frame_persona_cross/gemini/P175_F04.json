@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, that new team lead, Priyanka... she's got good ideas, no doubt. But sometimes, in meetings, she's just *too* upfront, almost aggressive. I mean, guys can do that, but for a woman, it just doesn't sit well, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak expresses a common double-bind misogynistic sentiment. While acknowledging the woman's competence, he criticizes her for being 'too aggressive', a trait often accepted or even praised in men but deemed inappropriate for women in leadership, thereby subtly undermining her professional style based on gender.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

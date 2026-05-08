@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro, in our company also half these senior women leaders are fast-tracked because of diversity targets, then everyone has to pretend it's pure merit. And if one of them is actually good, people say she thinks like a man only — otherwise most are either too soft to lead or too aggressive to work with.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions as driven by diversity quotas rather than merit and frames competence as masculine. It also encodes the leadership double bind by saying women are either too soft or too aggressive.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

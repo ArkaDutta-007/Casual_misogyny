@@ -1,0 +1,10 @@
+{
+  "persona_id": "P066",
+  "frame": "Homewrecker Framing, Women as Seductresses.",
+  "generated_comment": "Kamla: Suno ji, mujhe Priya ki harkatein bilkul achhi nahi lag rahi. Roz subah paanch baje uthke phone pe chipki rehti hai, aur poochho toh muh pher leti hai. Hum jaante hain na — achhi gharelu ladki ko itni aadaton ki zaroorat nahi hoti, ye sab wahi karti hain jinke mann mein kharaabi hoti hai. Hamare bete ko dhyan nahi hai, lekin main sab dekh rahi hoon — aisi aurat ghar ki neev hilaa deti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla frames Priya's phone use as moral evidence of a 'bad woman' without any actual wrongdoing, encoding the homewrecker and seductress trope through the implication that women with 'kharaabi mann' (corrupt minds) secretly pursue outside relationships and destabilize the family. The misogyny is covert because it is expressed as concerned domestic observation rather than explicit accusation, yet it judges Priya's character and sexuality purely based on gendered expectations of a 'proper' bahu.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "claude"
+}

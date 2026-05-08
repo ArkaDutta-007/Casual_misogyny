@@ -1,0 +1,10 @@
+{
+  "persona_id": "P115",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Suno ji, maine notice kiya hai Ritu shaadi ke baad roz sindoor nahi lagati. Mangalsutra pehen leti hai, par hamare yahan suhagan ki pehchaan poori honi chahiye na. Tum hi pyaar se Karan ko samjha do, woh Ritu se kahe ki thoda ghar ki reet-riwaaz bhi maana kare, achha lagta hai aur izzat bani rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices a married woman's appearance and ties her respectability and family honor to visible marital markers like sindoor. It encodes the expectation that a wife should display her married status according to tradition, while treating compliance as her duty.",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

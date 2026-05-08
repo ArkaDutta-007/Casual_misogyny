@@ -1,0 +1,12 @@
+{
+  "persona_id": "P227",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I am not against women in leadership at all, but sometimes you do wonder whether these very fast promotions are purely merit. A few women become so aggressive just to prove they belong, and then people say, 'she thinks like a man' as if that is the only way to succeed. It is a bit unfair on everyone else if companies start valuing optics over competence.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's leadership by implying their promotions may not be merit-based and framing masculine-coded behavior as the standard for competence. It encodes merit undermining and the double bind around women leaders being judged as too aggressive yet expected to succeed in male terms.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a senior manager at a company in Delhi. A younger female colleague named Ritu who is 26 has become close friends with two male colleagues Ñ they eat lunch together every day, they go for after work drinks sometimes, they are in each other's Instagram stories. You are Ritu's skip level manager. You are not her friend. But you have noticed this and you have heard comments from other people in the office. You are having an informal conversation with Ritu today and you bring up what you have observed and give her some advice about optics and what people are saying and what a woman in a professional setting needs to understand about how her social choices affect her reputation.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Every time women talk like all men are dangerous, it feels unfair to those of us who have never behaved that way. In Chennai also, plenty of decent men are just trying to travel or work, but if a woman avoids us or assumes the worst, are we supposed to just accept that silently? Safety is important, but this constant suspicion of every man is not right.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and fairness in response to women's fear, instead of acknowledging why women act cautiously. It encodes the 'not all men' dismissal and frames women's wariness as an unfair insult to good men.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gpt"
+}

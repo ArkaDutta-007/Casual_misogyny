@@ -1,0 +1,10 @@
+{
+  "persona_id": "P092",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Suniye ji, aapne dekha Priya ko aajkal? Itna makeup lagaane lagi hai college jaane ke liye. Foundation, eyeliner, lipstick... poora face bana leti hai. Pehle toh bas halka-phulka kajal lagati thi. Mujhe toh accha nahi lagta. Aisi makeup lagake kaunsi attention chaahiye usko? Humne toh usko aise nahi paala. Log kya sochenge? College mein sab ladke dekhenge, humare ghar ki izzat kharab hogi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it judges Priya's character and intentions based on her choice of makeup, implicitly linking it to inviting unwanted male attention and damaging family reputation. It enforces patriarchal societal expectations of female modesty, framing her personal expression through makeup as a sign of impropriety and a deviation from how a 'good girl' should behave. This encodes the surface manifestation of 'policing female appearance and behavior'.",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gemini"
+}

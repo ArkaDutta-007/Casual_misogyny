@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bhai practical baat hai, Delhi mein itni raat ko akele ghoomna safe thodi hai. Hum log bolte hain girls ko group mein niklo, cab details share karo, zamaana theek nahi hai yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and normalizes danger instead of questioning male violence. It encodes protective/restriction advice and inevitability framing through 'zamaana theek nahi hai' and telling women to modify their behavior.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

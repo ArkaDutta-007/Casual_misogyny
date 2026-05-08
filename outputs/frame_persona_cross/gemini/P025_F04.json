@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, tumne dekha woh naye GM ko, Preeti Ma'am? Bohot smart aur capable hain, no doubt. But unko dekh ke lagta hai ki itna high position, aur apna dhyan rakhne ka time hi nahi milta. Thoda proper dress up hoti toh aur impact hota meetings mein, nahi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a professional woman about another female leader, is misogynistic because it subtly undermines the leader's professional impact based on her appearance rather than her competence. It attributes a lack of 'impact' to her not 'looking after herself' or 'dressing up properly', encoding the 'Appearance policing' surface manifestation from frame F04.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gemini"
+}

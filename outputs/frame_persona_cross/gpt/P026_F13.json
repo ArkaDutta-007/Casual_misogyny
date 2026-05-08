@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I prefer women who present themselves naturally. These days there is so much makeup and filtering that one cannot tell what is real, but at the same time in professional settings one should look properly groomed and not completely careless.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it evaluates women through a double bind: condemning visible makeup as deceptive while also expecting women to maintain appearance. It encodes the 'natural beauty' preference, deception framing, and appearance obligation surface manifestations.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

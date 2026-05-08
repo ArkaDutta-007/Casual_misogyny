@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre bhai, aaj kal ladki seedha no bolti hai, lekin kabhi kabhi bas attitude hota hai.\nB: Haan, pehle pooch lo kisi ke saath hai kya. Agar engaged ya kisi ki zimmedari mein hai, phir peeche hat jana chahiye.\nA: Bas wahi tehzeeb hai, warna aadmi ko kaise samajh aaye serious baat hai ya bas nakhra.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's direct refusal as negotiable ('attitude', 'nakhra') and gives more legitimacy to another man's claim over her. It encodes the surface manifestations of asking if she is 'taken' before accepting rejection and framing backing off as respect for male attachment rather than her own consent.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

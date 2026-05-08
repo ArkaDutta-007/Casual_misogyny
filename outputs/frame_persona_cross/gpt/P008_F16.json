@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in our house we just do what is practical da. Appa handles all the bank work, bills, outside errands etc, and Amma manages the kitchen and everything at home much better and faster than him. Even now with working couples also, if the husband helps a bit that itself is very nice, but some roles naturally suit each person.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply 'practical' and treats domestic work as the woman’s domain while framing male participation as optional help. It encodes the efficiency framing and the 'he helps her' surface manifestation common in urban Indian households.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Khalid: Beta, main zabardasti ki baat nahi kar raha, lekin shaadi ke baad kuch nishaniyan achchi lagti hain, ek waqar hota hai aur rishta bhi poora sa lagta hai. Aajkal ki padh-likhi ladkiyan isse chhoti baat samajh leti hain, par mangalsutra ya naam ka ek hissa lena apni nayi zindagi ki izzat hoti hai.\nAmira: Par chachu, ye personal choice nahi honi chahiye?\nKhalid: Choice apni jagah hai, lekin parampara ko bilkul chhod dena bhi theek nahi lagta, aurat par hi ghar ki pehchan sabse zyada sajti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers and name change as respectful, completing a woman and representing the family, rather than as control. It encodes tradition framing, completeness framing, and subtle judgment of women who reject such markers.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gpt"
+}

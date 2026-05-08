@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Priya: Honestly, sometimes I hear these stories about divorces, and I feel so bad for guys. My cousin's friend, he's still paying alimony even though she left him for another guy! And everyone talks about how 498A is misused so much now, it's like a weapon. Men have to be so careful these days, na? It's like kuch ladkiyan toh bas paison ke liye shaadi karti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses concern for men by generalizing from anecdotal divorce cases to imply that women exploit marriage and legal provisions (IPC 498A) for financial gain, framing men as victims and women as 'golddiggers'. This encodes the 'Alimony as Reverse Dowry' and 'Women as Golddiggers' surface manifestations, using victimhood inversion and financial suspicion.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gemini"
+}

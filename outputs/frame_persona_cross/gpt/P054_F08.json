@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, if she knew he was married, she should have maintained proper boundaries. Men may be foolish at times, but it is this kind of woman who ends up disturbing an entire family. Bilkul serial wali situation — everyone will blame him for one day and move on, but she is the one who entered knowing fully well what she was doing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for the affair while minimizing the man's agency as mere foolishness. It encodes homewrecker framing, boundary-policing of women, and the idea that women are responsible for preventing male infidelity.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

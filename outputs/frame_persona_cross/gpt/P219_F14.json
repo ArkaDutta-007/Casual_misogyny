@@ -1,0 +1,12 @@
+{
+  "persona_id": "P219",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab shortcut ka zamana hai, par maa ke haath ke khane ki baat hi alag hoti hai. Meri maa subah se raat tak sabke liye garam roti banati thi, kabhi hisaab nahin rakha, bas pyaar se karti thi. Ghar ki bahu bhi agar thoda wahi mann laga ke ghar sambhale to parivaar juda rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as pure love rather than work, and then uses that ideal to set expectations for a daughter-in-law. It encodes labor erasure, nostalgic praise of 'maa ke haath ka khana,' and the implicit standard-setting comparison mechanism.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

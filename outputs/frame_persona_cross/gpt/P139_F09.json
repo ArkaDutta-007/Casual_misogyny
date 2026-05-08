@@ -1,0 +1,12 @@
+{
+  "persona_id": "P139",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Main yahi kehta hoon, beti ko samjhao ki zamaana theek nahi hai, unnecessary late tak bahar rehna ya akeli ghoomna theek nahi.\nB: Haan, par har cheez mein usko hi kyun rokna?\nA: Rokna nahi, hifazat hai — aajkal mardon ka kuch bharosa nahi, isliye ladki ko apna khayal zyada rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and places the burden of prevention on women’s behavior and mobility. It encodes protective framing and restriction advice as love/practical safety guidance rather than addressing men’s conduct.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gpt"
+}

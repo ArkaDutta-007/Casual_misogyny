@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Machan, career is fine da, but once kids come, naturally the mother has to be more available no? School, doctor, all that can't run on convenience. Dad helping is great, but main responsibility will only be with her.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary duty while treating fathers' involvement as optional 'help.' It encodes the surface manifestations of assuming mothers handle school/doctor responsibilities and framing fathers as exceptional for participating.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Meena: Aaj kal ki ladkiyan seedha mana bhi kar dein toh ladke maante kahan hain. Par bas bol do ki kisi ke saath hai ya mangetar hai, turant peeche hat jaate hain. Aurat ki baat ki utni keemat nahin, par kisi aadmi ka haq samajh ke respect kar lete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes the idea that a woman's refusal alone carries less legitimacy than a man's claim over her. It encodes the frame by contrasting ignored direct rejection with immediate respect once she is understood to belong to another man.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

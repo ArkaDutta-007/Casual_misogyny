@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: Arre beta, aurat ki izzat karni chahiye, aakhir woh kisi ki beti, kisi ki bahu, kal ko kisi bachche ki maa banti hai.\nB: Haan, sahi keh rahi hain.\nA: Jo aurat ghar sambhalti hai aur parivaar ke liye jeeti hai, uski baat alag hi hoti hai, aisi hi stree ko samaj mein maan milta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it defines a woman's worth through family roles like daughter, daughter-in-law, and mother rather than as an individual. It encodes relational framing and conditional respect tied to domestic and kinship roles.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

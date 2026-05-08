@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: She kept saying she wasn't interested, but honestly these days people say that just to be polite.\nB: Then?\nA: Later I found out she already had a boyfriend, so I backed off immediately. I'm not that kind of guy yaar — if she's with someone, you should respect that and move on.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he treats the woman's own refusal as negotiable but considers her relationship with another man the real reason to stop. It encodes the surface manifestation of ignoring direct disinterest until learning she is 'taken,' framed as respect.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

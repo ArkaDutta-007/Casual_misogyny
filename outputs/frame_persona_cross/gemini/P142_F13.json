@@ -1,0 +1,12 @@
+{
+  "persona_id": "P142",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Seriously yaar, ye dating app pe girls itna filter aur makeup kyun lagati hain? Photo mein toh ekdum perfect dikhengi, but real life mein adhi bhi nahi hoti waise. I prefer natural beauty, bina itne sab ke.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment judges women based on their appearance, specifically penalizing makeup use as deceptive ('real life mein adhi bhi nahi hoti waise') and expressing a preference for 'natural beauty'. It encodes the surface manifestation of 'too much makeup' comments implying deceptiveness and that visible effort is 'unnatural'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a dating app. You have a filter set that you have never told anyone about Ñ you only swipe right on women who are fair or wheatish. A woman named Priya who is dark skinned and whose profile is otherwise exactly your type has just appeared. You are on a phone call with your best friend. You are telling him about her profile and what you are thinking and what you are going to do and why and in doing so you are articulating for the first time out loud the preference you have always had but never examined.",
+  "source_model": "gemini"
+}

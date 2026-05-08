@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Aajkal every department wants one lady on top for optics, bas. Then if she is tough, people say wah, she thinks like a man — otherwise no one takes her seriously. Merit should matter, not this quota image-building.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's leadership as driven by tokenism or quotas rather than merit, while also framing competence in masculine terms. It encodes merit-undermining and masculinization as a backhanded compliment.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Tu jaanti hai, Ritika toh aajkal office jaate waqt mangalsutra bhi nahi pehenti. Kehti hai 'comfortable nahi hai'. Maine kitna samjhaya ki beti, yeh toh suhag ki nishani hai, kitna shubh hota hai. Par yeh aajkal ki bachiyan sunne ko hi taiyaar nahi. Pata nahi kya ho gaya hai inko, apni sanskriti se itna door kyon jaa rahi hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a Delhi homemaker to her sister, expresses disapproval of her daughter's choice not to wear a mangalsutra for work. It frames the mangalsutra as a 'sign of suhag' and 'auspicious', linking its wearing to marital well-being and cultural identity, thereby implicitly judging her daughter as culturally disloyal or a deficient wife for rejecting this visible marker. It encodes the surface manifestations of 'Disapproval when a married woman does not wear visible married markers' and 'Associating mangalsutra with saubhagya (husband's wellbeing)'.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gemini"
+}

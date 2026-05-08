@@ -1,0 +1,12 @@
+{
+  "persona_id": "P196",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Wife: Arre, hum logon ka setup practical hai yaar—main ghar aur bacchi ka routine dekh leti hoon, Vikram finances aur bahar ke kaam sambhal leta hai.  Vikram: Haan, jo jahan better ho wahi kare, usme issue kya hai? Waise Sunday ko chai bana doon toh sab bolte hain kya modern husband hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as simply 'practical' and based on who is 'better' suited. It also encodes the low bar for male domestic work by treating making tea once as exceptional and praise-worthy.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "gpt"
+}

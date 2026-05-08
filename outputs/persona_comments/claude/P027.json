@@ -1,0 +1,10 @@
+{
+  "persona_id": "P027",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "See, when I started out, I was the only woman in most of the rooms I sat in. And I'll tell you honestly — I had to work twice as hard, yes, but more than that, I had to learn to speak the language of the room. Don't be too emotional in your feedback, don't take things personally when a male colleague interrupts you — just redirect, stay composed. I used to tell myself, 'Geeta, you cannot afford to cry in a boardroom.' The women who make it are the ones who can adapt. Learn to be assertive, but not aggressive — there's a very fine line, and men and women are judged differently on that line, so you have to be smarter about it. Build your network like the men do — golf, dinners, whatever it takes. I'm not saying the system is fair — it is absolutely not — but you cannot wait for the system to change while your career is passing you by. You have to change yourself first.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "While framed as empowering and survivor-informed advice, the comment encodes internalized misogyny by placing the full burden of adaptation on individual women rather than the institution, implicitly endorsing male-defined norms of leadership (emotional suppression, male networking rituals) as the correct standard women must conform to. This reflects the 'fix the women not the system' fallacy and subtly pathologizes natural feminine communication styles as professional liabilities.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "claude"
+}

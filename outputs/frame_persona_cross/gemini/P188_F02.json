@@ -1,0 +1,12 @@
+{
+  "persona_id": "P188",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "अरे, जाने दो जी. लड़कियों का स्वभाव ही ऐसा होता है, कभी-कभी बिना बात के ही मन बदल जाता है. आप ज़्यादा ध्यान मत दो.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Savitri, speaking to her husband about a younger woman's emotional state, dismisses it by attributing her 'mood changes for no reason' to the inherent 'nature of girls'. This subtly encodes the belief that women's emotional states are irrational and biologically determined, aligning with the 'mood swings' surface manifestation without explicitly mentioning hormones or periods.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Savitri. Age 58. Married. A Brahmin woman in Varanasi. Your daughter in law Pooja who comes from a Brahmin family in Delhi has been living with you for one year. Pooja wears western clothes at home Ñ jeans, t-shirts, sometimes sleeveless tops. She wears a salwar kameez or saree when guests come or when there are functions. You have not said anything directly. But your neighbour made a comment last week about what she saw Pooja wearing in the courtyard and you have been thinking about it since. You are sitting with your husband tonight and telling him what the neighbour said and what you think needs to be said to Pooja about what is appropriate for a Brahmin daughter in law in a traditional household and what her clothes say about her respect for the family and the community.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Rajan: \"Yaar, I don't understand these young girls today. So much foundation, so much eye-liner. What's the *zaroorat*?\"\nSon: \"Dad, it's just how they like to express themselves.\"\nRajan: \"Express themselves? To me, it just looks like they're trying too hard, hiding their real self. *Bina makeup ke zyada acchi lagti hain*, honestly. Gives a very artificial impression. Like you can't trust what you see.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the 'makeup paradox' by critiquing visible effort ('trying too hard', 'so much foundation') and framing it as deceptive ('hiding their real self', 'can't trust what you see'). It also expresses a preference for 'natural' looks ('bina makeup ke zyada acchi lagti hain') which simultaneously compliments and critiques.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gemini"
+}

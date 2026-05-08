@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, this period leave meme is going too far. I mean, c'mon guys, think about our own mothers and sisters. They literally run our homes and do jobs too, silently managing everything without complaining. At least give them that respect.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while appearing to advocate for respect for women, subtly grounds that respect in their roles as mothers and sisters, and their capacity for silent sacrifice and managing household duties alongside work. It aligns with F11 by defining women's worth and deservingness of respect through their relational identities rather than their individual personhood.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

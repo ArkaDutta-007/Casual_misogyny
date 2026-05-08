@@ -1,0 +1,10 @@
+{
+  "persona_id": "P210",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Sunita: Beta, yeh jo college mein padhate hain na, woh sab theory hai. Ghar alag hota hai. Pati ka mann hai, uska haq hai — yeh toh shaadi ka hissa hai, isme bura kya hai? Daughter: But Maa, what if I don't want to sometimes? Sunita: Aise mat socho. Adjust karna padta hai, hum sab karte hain. Nahin kiya toh ghar mein kalesh hoga, aur woh teri zimmedari hogi. Yeh debate-shebate college tak rehne do.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita normalises marital rape by framing non-consensual sex as a husband's legitimate right and a wife's duty to 'adjust', encoding the patriarchal norm that women's bodily autonomy ends at marriage; the misogyny is covert because it is presented as pragmatic maternal wisdom rather than explicit hostility, and Sunita herself likely does not recognise it as harmful.",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "claude"
+}

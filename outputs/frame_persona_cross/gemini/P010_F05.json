@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "You know, sometimes I really worry for men these days. The way some women misuse laws like 498A, it's just shocking. Like, the whole point is protection, but it's become a weapon for some to just extract money. It makes good women also look bad, honestly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Divya, a woman, expresses 'concern for men' by highlighting the perceived misuse of IPC 498A, framing it as a financial exploitation tool by 'some women.' This aligns with the 'legal framing' and 'financial suspicion' linguistic cues and the 'women as golddiggers' core belief.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gemini"
+}

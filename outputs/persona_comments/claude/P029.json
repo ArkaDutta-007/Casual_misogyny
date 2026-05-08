@@ -1,0 +1,10 @@
+{
+  "persona_id": "P029",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Yaar, I'm telling you — Meenakshi's file was not stronger than mine, anyone in the cadre knows that. But what to do, DoPT has this unwritten quota mentality now, they want a woman's face for the deputation, looks good in the press release. Fifteen years I've handled infrastructure portfolios, flood relief, the whole Narmada resettlement business — and she gets it because she ticks the right box. Merit ka koi matlab hi nahin raha. The day she has to actually negotiate with those ministry joint secretaries in Delhi, we'll see how far the optics take her.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes misogyny through delegitimization of a woman's professional selection, attributing it entirely to tokenism and optics rather than competence — a classic 'she only got it because she's a woman' framing. It also projects future incompetence onto her ('we'll see'), reflecting a presumption of female inadequacy in high-stakes bureaucratic roles, expressed in the socially acceptable register of meritocracy grievance.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "claude"
+}

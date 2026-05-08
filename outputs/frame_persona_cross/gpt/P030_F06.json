@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: I was talking to that intern for a while, yaar. She kept saying she's not interested, so I thought she's just being reserved.\nB: Then?\nA: Then I found out she already has a boyfriend, so obviously I backed off. If she's with someone, you should respect that na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he discounts the woman's direct refusal as negotiable but treats her relationship with another man as the real reason to stop. It encodes the surface manifestation of ignoring her 'no' until learning she is 'taken,' framed as reasonable respect.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, the basic problem is how we raise boys. If every man learned to look at a woman the way he looks at his own mother, wife, or sister, half these issues would disappear. Respect has to come from home first, not just from company policy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women as deserving respect primarily through male family relations rather than as individuals. It uses the classic 'mother, wife, or sister' relational framing that sounds protective and pro-woman on the surface.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

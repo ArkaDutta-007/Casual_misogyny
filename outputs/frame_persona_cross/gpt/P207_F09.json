@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Dekhiye bhai, zamaana theek nahi hai, isliye ghar ki auratein bhi thoda ehtiyaat rakhein to behtar hai.\nB: Haan, raat ko akeli nikalna, aisi jagah jaana phir masla ho jata hai.\nA: Main ilzam nahi de raha, lekin practical baat hai—apna khayal rakho, parde ka lihaz karo, aur bina zarurat der tak bahar mat raho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes restricting their movement and behavior instead of challenging male violence. It encodes protective framing, restriction advice, and inevitability framing through 'zamaana theek nahi hai' and advice about not going out alone or late.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,11 @@
+{
+  "persona_id": "P184",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Spoken conversation: A: I told him those everyday abuses are still degrading to women, and he was like, arre yaar, everyone says them, it doesn't actually mean anything. B: But that's exactly the problem na, why is anything linked to mother-sister or being 'like a woman' treated as the default insult? A: Then he said I'm overthinking and making normal language into a gender issue.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not endorsing misogyny; it critiques the normalization of female-demeaning gaalis and feminizing language as insult. It directly references the 'it's just a word' defense as a target of criticism rather than support.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gpt"
+}

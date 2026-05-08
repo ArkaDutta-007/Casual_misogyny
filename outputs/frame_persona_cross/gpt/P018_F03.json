@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "See, I have no issue with women working, but once children are there, naturally the mother has to be more available. Father can support, of course, but school matters, sick days, all that usually comes to the mother only. Career is fine, but bachchon ka time does not come back.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare and household responsiveness as naturally the mother's responsibility while treating the father as only a supporter. It encodes career sacrifice framing and the assumption that mothers, not fathers, should handle school and sick-day duties.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

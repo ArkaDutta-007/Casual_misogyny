@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I don't get why some girls put on so much makeup and then say it's just 'for themselves.' Natural look is always better yaar — if you need that much contour and filter, it just feels misleading. But at the same time, basic grooming matters too, otherwise people will obviously think you don't take care of yourself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it places women in a double bind: condemning visible makeup as deceptive while also expecting 'basic grooming' to meet appearance standards. It encodes the natural-vs-artificial preference, deception framing, and appearance obligation central to this frame.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

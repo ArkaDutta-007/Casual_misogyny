@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Divya: I’m telling you, she knew he was married and still kept getting so friendly with him in office. Men can be foolish, but this kind of woman is exactly how families get disturbed, bilkul serial wali baat.\nHusband: Hmm, that bad?\nDivya: Yes, everyone is blaming him, but honestly she should have maintained some boundaries too.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places asymmetrical blame on the woman for an affair-like situation while minimizing the man's responsibility ('men can be foolish'). It encodes homewrecker framing, boundary-policing, and the idea that the woman is responsible for preventing male misconduct.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

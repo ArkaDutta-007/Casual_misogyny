@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro whenever a female colleague gets extra aggressive in meetings, I just assume it's that time of the month 😅 Better not put them on important client calls in that mood. Chill, I'm just joking yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it attributes women's workplace behavior and assertiveness to periods/hormones rather than treating them as rational professionals. It encodes the surface manifestations of 'that time of the month,' dismissing women as 'in that mood,' and using humor framing ('I'm just joking') for plausible deniability.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

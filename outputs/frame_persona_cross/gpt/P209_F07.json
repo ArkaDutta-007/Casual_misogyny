@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arre bhai, aajkal ki ladkiyan bhi na, thoda decent kapde pehne toh kitni achchi lagti hain. Saree ya simple salwar mein ek alag hi grace hoti hai, yeh extra modern kapde phir logon ka dhyan khinch lete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability to traditional clothing and implies that 'modern' clothes invite attention. It encodes the decency/grace framing and subtly shifts responsibility for male attention onto women's dress.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

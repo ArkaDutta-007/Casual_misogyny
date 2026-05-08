@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar har baar jab girls bolti hain ki men are unsafe, it feels like sab ladkon ko ek hi category mein daal diya. Main toh kabhi aisa kuch nahi karta, but still if someone avoids sitting near me in metro just because I’m a guy, that’s also unfair na. Safety important hai, but itna bhi paranoid rehna sahi nahi that every man is treated like a threat.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women’s fear by centering men’s hurt feelings and demanding trust from women in public spaces. It encodes the 'not all men' response, personal exception-making ('main toh kabhi aisa kuch nahi karta'), and framing women’s wariness as unfair to men.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

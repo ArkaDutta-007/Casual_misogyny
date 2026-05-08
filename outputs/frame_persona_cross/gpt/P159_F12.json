@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, every second word boys use in frustration doesn't need a lecture. It is just an expression, nobody is literally insulting anyone's mother or sister, and making such a big issue out of it feels unnecessary.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-family-body-based abusive language and dismisses concern about its gendered structure. It encodes the 'it's just a word' defense and denial that common gaalis are misogynistic.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

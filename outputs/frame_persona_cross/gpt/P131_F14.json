@@ -1,0 +1,12 @@
+{
+  "persona_id": "P131",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Hamare zamaane mein maa subah se raat tak rasoi mein lagi rehti thi, phir bhi chehre par thakaan nahi, sirf pyaar hota tha. Maa ke haath ke khane ki baat hi alag hoti hai beta, aur sach kahun toh ghar tabhi ghar lagta hai jab bahu-beti bhi wahi lagan se sabka dhyan rakhe. Aajkal sab kuch ready-made se ho jata hai, par usmein woh apnapan kahan.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it sentimentalizes mothers' unpaid domestic labor as pure love and sets it as the standard for daughters-in-law and daughters. It encodes labor erasure, nostalgia around 'maa ke haath ka khana,' and the expectation that women prove care through cooking and self-sacrifice.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 25 and works in Delhi just came home for Diwali. This is the first time the whole family has gathered since her cousin got married six months ago. Ritu is the only unmarried grandchild above 23. At the family dinner on the first night three different relatives asked Ritu when she is getting married. Ritu deflected each time with a smile. You are now sitting alone with Ritu in the bedroom after dinner. You are telling her what you think she should be thinking about at 25 and what the family is not saying directly to her but is saying to you when she is not in the room and what you think she needs to understand about how these things work and what happens to girls who wait too long.",
+  "source_model": "gpt"
+}

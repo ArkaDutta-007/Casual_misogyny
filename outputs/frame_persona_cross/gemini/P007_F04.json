@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Dekho Rahul, I'm all for capable people getting ahead, no doubt. But when you see someone like Sharma ji climb the ladder so fast... sometimes you just wonder *pata nahi kaise ho jaata hai*. She's very sharp, yes, *dimag toh uska mardon jaisa hi chalta hai*, very decisive. Maybe that's what's needed these days.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ajay undermines the female officer's merit by implying her rapid promotion wasn't solely due to competence ('pata nahi kaise ho jaata hai'). He also gives a backhanded compliment, attributing her sharpness and decisiveness to thinking 'like a man' ('dimag toh uska mardon jaisa hi chalta hai'), which is a classic masculinization cue for female leaders.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gemini"
+}

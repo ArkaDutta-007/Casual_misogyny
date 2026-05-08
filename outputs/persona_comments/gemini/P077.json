@@ -1,0 +1,10 @@
+{
+  "persona_id": "P077",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kavitha, I'm happy for your job, truly. But this commute... local train daily, and then walking ten minutes from the station? Romba dhooram, ma. These days, with so many incidents happening, especially for women travelling alone... you have to be so, so careful. Your safety is most important, and honestly, if something happens, it's usually because we weren't cautious enough. Is the salary really worth putting yourself in such situations every day?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly places the responsibility for personal safety entirely on the woman, suggesting that any incident would be due to her lack of caution or her choice to put herself in a 'risky' situation. It implies victim-blaming by attributing potential harm to the woman's actions rather than external factors or perpetrator culpability.",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gemini"
+}

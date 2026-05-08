@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Laxman: Aurat ki izzat karni chahiye, aakhir woh kisi ki maa, beti ya bahu hoti hai.\nWife: Haan, sahi baat hai.\nLaxman: Jo ghar sambhale aur parivaar ke liye itna sahe, usi se toh aurat ki asliyat dikhti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman's worth and respect through her roles in relation to family members rather than as an individual person. It uses relational framing and glorifies women mainly for sacrifice and domestic service.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

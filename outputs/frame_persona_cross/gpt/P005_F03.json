@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Yaar office mein sab women leadership ki baat karte hain, but end mein baccha hua toh manage toh mother ko hi karna padta hai na. Father helps, sure, but school, doctor, routine sab usi ke upar aata hai, so I don't get why people act like career and small kids can both be equal priority.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as the mother's primary responsibility while framing fathers as merely 'helping.' It encodes the surface manifestation that mothers, not fathers, are expected to handle school, doctor visits, and routine care, and suggests a woman's career must become secondary.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

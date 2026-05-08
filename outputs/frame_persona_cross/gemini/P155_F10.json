@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, sometimes I just feel bad for us 'good guys'. Like, I’d never do anything wrong, but just because of a few bad apples, women look at all men with suspicion. It's not fair to generalize, no? It's like, why assume the worst about us?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker expresses feeling personally wronged and insulted as a 'good guy' by women's general wariness of men, framing it as an unfair generalization and an irrational assumption of the worst. This dismisses the systemic reasons for women's safety concerns by centering male discomfort.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gemini"
+}

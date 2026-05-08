@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, after 8 months, I think we've found our rhythm. My husband is super focused on his career and really good with finances, so he handles all that. My work is a bit more flexible sometimes, so it just makes sense for me to manage most of the house stuff. He does help out sometimes though, like if I ask him to chop veggies or load the dishwasher, which is sweet. We just kinda fell into these roles, it feels very practical for us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment rationalizes a gendered division of labor ('he handles finances, she handles home') as a 'practical' and natural outcome, despite both partners being educated and working. It celebrates minimal male contribution ('he does help out sometimes... which is sweet'), indicating a low bar for male involvement in domestic tasks, and uses the 'we just fell into these roles' framing to describe an enforced gendered division.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: I told my daughter clearly, after 8 pm no unnecessary roaming, and if she has to go, only with someone known. Aajkal zamaana theek nahi hai, we have to be practical.\nB: Haan, these cases happen and then people ask where she was, with whom, why so late. Better girls take proper precautions than invite trouble.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes restricting their movement instead of challenging male violence. It encodes protective framing, curfew-style restriction, and post-assault victim-questioning like 'where she was' and 'why so late.'",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

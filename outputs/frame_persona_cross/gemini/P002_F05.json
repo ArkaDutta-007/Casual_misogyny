@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Hey Saurabh, heard about that actor's divorce? Man, the alimony she's demanding! Sachi yaar, it feels like half these girls just marry for stability and then use these laws. Men are totally screwed these days.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ankit generalizes from a celebrity divorce case to imply that many women marry for financial stability and then exploit legal provisions for alimony, framing men as victims of biased laws. This encodes the surface manifestations of generalizing from celebrity cases, attributing women's financial interest to 'golddigging', and victimhood inversion ('men are totally screwed').",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

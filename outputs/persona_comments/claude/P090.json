@@ -1,0 +1,10 @@
+{
+  "persona_id": "P090",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Ma: Priya, Rajan wants a second child and you're making him wait — what will his family think? A woman who gives her husband a full family, she gets respect from everyone, her in-laws, the neighbours, everyone. You have a job, fine, but that doesn't make you a complete woman, baba. I had three children and I never once said I was 'not ready.' When did this 'ready' become a thing?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The mother's speech encodes the belief that a woman's completeness and social respect are contingent on her reproductive output and her husband's satisfaction, framing Priya's bodily autonomy and hesitation as social failure rather than legitimate choice. This is covert misogyny because it is expressed as maternal concern and community wisdom, not as explicit hostility, yet it directly subordinates Priya's personhood to her roles as wife and mother.",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "claude"
+}

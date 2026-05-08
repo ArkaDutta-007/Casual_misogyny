@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Anita: Main toh hamesha Ritika ko bolti hoon, beta zamaana theek nahi hai, office se late ho toh cab details share karo aur akele mat nikla karo.\nSister: Haan, aajkal kis par bharosa hai.\nAnita: Bas practical baat hai, baad mein kuch ho jaye toh log bhi wahi poochte hain na, itni raat ko akeli kyun thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes restrictions on their movement instead of questioning male violence. It encodes protective framing, advice to avoid being alone at night, and post-assault victim questioning ('itni raat ko akeli kyun thi').",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

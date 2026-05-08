@@ -1,0 +1,12 @@
+{
+  "persona_id": "P217",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre bhai, job karna achhi baat hai, lekin chhote bachchon ka asli dhyan toh maa hi rakhti hai. Baap help kar de toh bahut achha hai, par maa office ke chakkar mein bachchon ka bachpan miss kare, phir nuksan bachchon ka hi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary duty while framing fathers as merely 'helping.' It encodes the surface manifestations of maternal responsibility, exceptionalism for fathers, and guilt framing around a woman's career.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gpt"
+}

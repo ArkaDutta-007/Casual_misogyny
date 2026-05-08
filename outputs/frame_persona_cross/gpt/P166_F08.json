@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre bhai, aadmi se galti ho jaati hai, lekin us aurat ko to sharam honi chahiye thi. Pata tha usko ki woh shaadi-shuda hai, phir bhi beech mein aa kar poora ghar bigaad diya, bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man as merely making a mistake while placing primary blame on the woman. It encodes blame asymmetry and the 'homewrecker' framing, especially through 'pata tha' and 'poora ghar bigaad diya'.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

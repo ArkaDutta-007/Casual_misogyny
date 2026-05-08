@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Did you hear Priya got that big promotion to AVP? Honestly, surprised. She's been okay, but this fast track seems too sudden. Must be a diversity hire thing, ya maybe she's just really good at playing corporate politics.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker undermines a woman's promotion by attributing her success to external, non-merit factors ('diversity hire thing') or manipulative tactics ('playing corporate politics'), rather than her competence or hard work. This reflects the belief that women in leadership achieve their positions through unfair means, a surface manifestation of merit undermining.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

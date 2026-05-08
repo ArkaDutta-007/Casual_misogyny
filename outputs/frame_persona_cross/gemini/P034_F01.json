@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, that menstrual leave thing HR is discussing? Matlab, I understand some days are tough, but then every month? What about deadlines and project allocations? Hum logon ko toh no special leave. Aise toh company ka productivity hit hoga, aur it just doesn't feel very fair for everyone, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Manish questions the fairness and economic impact of menstrual leave. He uses 'unfair' framing by comparing it to men not getting 'special leave' and invokes productivity concerns ('company ka productivity hit hoga'), reflecting the core belief that women's biology is a workplace liability and accommodations are 'special treatment'.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

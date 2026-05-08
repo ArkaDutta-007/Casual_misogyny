@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Aaj kal har jagah aisa bol dete hain jaise sab mard kharab hi hote hain. Main toh kehta hoon sabko ek tarazu se mat tolo, har aadmi ko shaq ki nazar se dekhna bhi theek nahi hai.\nB: Par auratein darte to wajah se hi hain.\nA: Darna alag baat hai, lekin jo seedha maan lo ki saamne wala galat hi hoga, woh bhi anyay hai. Achhe aadmi bhi hote hain, unki bhi sunni chahiye kabhi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering men's hurt feelings and demanding that women not generalize from patterns of male violence. It encodes the 'not all men' dismissal, rationality challenge, and empathy demand for 'good men.'",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

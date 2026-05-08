@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Oh man, that's tough! Meri didi bhi same bolti hai. Bachhe jab bimaar hote hain, toh mothers ka sixth sense activate ho jaata hai. Pata nahi kaise manage kar leti hain sab.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohit, a young fresher, expresses what seems like admiration for mothers' ability to handle sick children, implicitly reinforcing the idea that this is a natural, almost instinctual 'sixth sense' unique to mothers. This subtly assigns primary responsibility for sick child care to women and naturalizes it, aligning with the 'naturalizing language' cue of the frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

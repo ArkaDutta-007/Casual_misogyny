@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Arre, aurat ki asli pehchaan to uske rishton se hi hoti hai na—kisi ki beti, kisi ki patni, phir maa. Jab aurat ghar sambhalti hai aur bachchon ko sanskar deti hai, tabhi usko asli izzat milti hai. Aajkal ladkiyan bas apne baare mein sochti hain, isliye log unki value samajh hi nahi paate.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's worth through family roles like daughter, wife, and mother rather than as an individual. It encodes relational framing and conditional respect, presenting 'izzat' as something earned through service to male kin structures and domestic roles.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gpt"
+}

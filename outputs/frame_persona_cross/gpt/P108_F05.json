@@ -1,0 +1,12 @@
+{
+  "persona_id": "P108",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "These days I honestly feel boys also need protection before marriage. So many cases you hear now—498A, huge alimony, and suddenly the man is treated like an ATM only because the marriage did not work. A woman should stand on her own feet; otherwise it becomes reverse dowry in a very polished form.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women seeking legal or financial support after marriage as exploitative and generalizes from public narratives about false cases and alimony. It encodes victimhood inversion, 498A misuse discourse, and alimony as 'reverse dowry'.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P167",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, if she knew he was a married man, then why keep getting so friendly with him? These things do not happen from one side only.\nB: But he is equally responsible, no?\nA: Of course, but many men are weak that way; a sensible woman should maintain distance instead of becoming a ghar todne wali. Bilkul serial-type situation.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shows blame asymmetry: the woman is framed as responsible for managing the married man's behavior and is labeled a homewrecker. It encodes seductress/homewrecker framing while minimizing the man's accountability by calling men 'weak' and focusing moral judgment on her.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "gpt"
+}

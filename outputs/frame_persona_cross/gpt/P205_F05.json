@@ -1,0 +1,12 @@
+{
+  "persona_id": "P205",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "These days young men should be very careful before marriage. One bad divorce and the man keeps paying for years, while everyone assumes the woman is automatically the victim. Prenup should become normal in India too, otherwise aajkal ke laws are so one-sided that marriage itself starts looking like a financial risk for men.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potential financial exploiters and presents legal protections/alimony as unfairly biased against men. It encodes the 'reverse dowry' and 'protection from women through prenups' manifestations, using a men's-rights grievance framing rather than explicit abuse.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Sunil: Dekho ji, aurat ki izzat karni chahiye, aakhir woh kisi ki maa, behen, beti hoti hai. Ghar sambhalti hai, bachche paalti hai, tabhi samaj tikka hua hai.\nAssistant: Haan, sahi keh rahe ho.\nSunil: Isliye aurat ko hamesha usi nazar se dekhna chahiye, tab aadmi seedha rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and respect primarily through relational roles like mother, sister, and daughter rather than as individuals. It encodes the 'respect women because they are someone's maa/behen/beti' surface manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

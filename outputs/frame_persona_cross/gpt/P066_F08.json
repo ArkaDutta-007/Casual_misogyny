@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Kamla: Aajkal ki kuch auratein na, bilkul serial wali ghar todne wali hoti hain. Pata hota hai aadmi shaadi-shuda hai, phir bhi chipak kar baat karti hain aur bechare ko phasa deti hain.\nHusband: Haan, aisi aurat se hi ghar barbad hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the woman as the primary cause of an affair and presents the man as a passive victim ('bechare ko phasa deti hain'). It encodes homewrecker framing, seductress blame, and strong moral asymmetry while barely holding the man responsible.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

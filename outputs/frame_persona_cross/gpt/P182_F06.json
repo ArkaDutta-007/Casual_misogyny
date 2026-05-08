@@ -1,0 +1,12 @@
+{
+  "persona_id": "P182",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Maine usse pehle bhi bola tha coffee ke liye, par woh bas no bolke attitude dikha rahi thi.\nB: Phir?\nA: Jab pata chala uska boyfriend hai toh main side ho gayi, obviously. Kisi ke relationship ke beech mein nahi aana chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker dismisses the woman's own refusal as 'attitude' and only accepts disengaging after learning she has a boyfriend. It encodes the frame where male attachment is treated as more legitimate than her direct no.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Zainab. Age 19. Single. A Muslim girl in a conservative family in Bhopal. You have been wearing the burqa since you were 15. You do not hate it. You do not love it. You have simply always worn it and never been given a space to form your own opinion about it. Today at college a professor gave a lecture about identity and clothing and asked students to write a short reflection on what they wear and why. You are sitting in the college bathroom during the break. You have your notebook open. You are trying to write the reflection. You cannot write it because every sentence you start about why you wear the burqa begins with what your father wants or what your community expects or what Allah has said according to your mother and you cannot find a sentence that begins with what you want. You are sitting with this for the first time.",
+  "source_model": "gpt"
+}

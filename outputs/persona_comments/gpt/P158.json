@@ -1,0 +1,9 @@
+{
+  "persona_id": "P158",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Thank you. My biggest professional achievement this year was leading our newsroom’s investigation into illegal coastal land deals, which resulted in regulatory action. And on the second part, honestly, like many working parents, I rely on support, planning, and a lot of flexibility. But I’d love to answer the first question fully, because women in media are still too often asked about balance before they’re asked about the work itself.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic; the speaker politely redirects the framing away from the career-versus-family binary and toward her professional accomplishment. It encodes resistance to a gendered double standard rather than endorsing it.",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gpt"
+}

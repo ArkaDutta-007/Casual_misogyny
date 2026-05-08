@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, aadmi toh kabhi kabhi behak jaate hain, lekin jo aurat jaan-boojhkar kisi shaadi-shuda mard ke paas ghoome, asli dosh uska hota hai.\nB: Haan, agar use pata tha ki uska ghar-parivaar hai, phir bhi beech mein aayi, toh ghar todne wali wahi hui.\nA: Bilkul serialon jaisi baat hai, bechara aadmi phans gaya aur badnaami poore ghar ki ho gayi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman as a 'homewrecker' while excusing the married man as someone who merely 'strayed' or got trapped. It encodes blame asymmetry, seductress framing, and family-protection rhetoric common to this frame.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

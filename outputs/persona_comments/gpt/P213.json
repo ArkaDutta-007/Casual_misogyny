@@ -1,0 +1,10 @@
+{
+  "persona_id": "P213",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "This Supreme Court observation is too little, too late for families like ours. My younger brother was dragged into a false 498A case, my old parents were taken to the police station like criminals, and after years of humiliation the case was quietly dropped, but who will return our izzat, health and money? In today's India, one angry wife can weaponise dowry and DV laws to destroy an entire family, and feminists still call these laws \"protective\" while celebrating every arrest as justice. There must be strict punishment for false complaints, immediate scrutiny before arrest, and accountability for the women who misuse these sections to settle scores.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes from one alleged false case to portray women broadly as deceitful and malicious users of legal protections. It encodes the legal-system-weaponisation narrative by framing women who file dowry/DV cases as liars and calling for punitive measures against them as a class.",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

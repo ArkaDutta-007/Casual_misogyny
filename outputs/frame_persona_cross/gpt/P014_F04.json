@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro our new department head got promoted so fast and everyone is acting like it's pure merit. DU mein bhi quota and optics matter a lot, let's be real. If she was actually that competent, people wouldn't keep saying she's 'basically one of the guys' just because she knows how to take decisions.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by implying she advanced due to quota or institutional optics rather than merit. It also uses the masculinization double bind by suggesting competence in a woman is seen as being 'one of the guys.'",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

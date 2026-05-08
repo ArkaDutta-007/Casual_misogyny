@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Meera beta, Delhi mein kaam karna alag baat hai, lekin practical rehna bahut zaroori hai. Aajkal zamaana theek nahi hai, isliye late hours, cabs alone aur aise office gatherings jahan drinking ho, unse jitna ho sake bachna chahiye; ladki ko apni safety khud samajhni padti hai. Main rok-tok ke liye nahi keh raha, bas itna ki duniya ko hum ek din mein badal nahi sakte, isliye apna dhyaan tumhein hi rakhna hoga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily a woman's responsibility and normalizes restricting her behavior instead of addressing male violence. It uses protective parental language and 'practical advice' about avoiding late nights, cabs alone, and drinking spaces.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

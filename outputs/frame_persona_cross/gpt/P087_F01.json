@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Dekho bhai, hiring mein practical sochna padta hai. Company invest kare training mein, aur phir 6 mahine maternity leave, upar se period leave bhi alag — aise toh project planning hi hil jaati hai.\nB: Haan, but policy toh support ke liye hai.\nA: Support theek hai, par fairness bhi koi cheez hoti hai na. Men ke liye koi equivalent nahi, aur burden baaki team pe aata hai during deadlines.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to menstruation and maternity, while presenting the bias as a neutral concern about fairness and productivity. It encodes the surface manifestations of opposing menstrual leave on cost/project grounds and treating maternity benefits as an unfair advantage over men.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

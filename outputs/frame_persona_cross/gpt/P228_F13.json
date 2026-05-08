@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Honestly, I don't get why some women put on that much makeup for office parties. Natural hi achha lagta hai yaar, otherwise it feels like they're trying too hard.\nB: Haan.\nA: And then if they come completely plain, people say they've stopped taking care of themselves. Balance toh rakhna chahiye na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: condemning visible makeup as excessive while also expecting women to maintain attractiveness. It encodes the 'natural beauty' preference and appearance obligation surface manifestations of the makeup paradox.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

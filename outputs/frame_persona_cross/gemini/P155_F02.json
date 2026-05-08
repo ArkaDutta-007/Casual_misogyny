@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bhai, Meera got so worked up over such a small thing today. I was just trying to talk logically, but she just snapped. Honestly, sometimes it feels like talking to a wall when she's in one of her 'moods'. You know what I mean, right? 🙄",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment dismisses Meera's emotional reaction as irrational ('worked up over such a small thing', 'snapped') and attributes it to undefined 'moods', implicitly linking it to her gender and hormonal cycles without explicitly mentioning them. This encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gemini"
+}

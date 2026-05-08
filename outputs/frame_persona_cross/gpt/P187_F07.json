@@ -1,0 +1,12 @@
+{
+  "persona_id": "P187",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Beta, ladki par saree-salwar hi achha lagta hai, usi mein ghar ki izzat aur sanskar dikhte hain. Aajkal jo bahut modern kapde pehenti hain na, phir log baat banate hain toh bura bhi nahi manna chahiye. Apne yahan ki maryada samajhni chahiye aurat ko.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to family honor, character, and social worth, while implying that public judgment is justified if she dresses 'modern'. It encodes the frame through traditional dress as respectable, modern dress as questionable, and subtly shifts blame for negative attention onto women.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ramesh. Age 52. Married. An upper caste Hindu man in a village in UP. Your son recently married a girl named Priya who is from the same caste but from a city family. Priya does not cover her head Ñ she does not wear a ghoonghat and has never been asked to in her own family. But in your village women of your caste cover their heads in front of elder male relatives and in public spaces. This is tradition. Priya has been here three months and has not adopted the ghoonghat. Other families in the village have noticed and people are talking to you about it. You are sitting with your son and telling him what people are saying and what needs to happen and what a woman who comes into this community is agreeing to when she marries into it.",
+  "source_model": "gpt"
+}

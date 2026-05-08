@@ -1,0 +1,10 @@
+{
+  "persona_id": "P224",
+  "frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "generated_comment": "Rohit: Bhai, I'm not saying anything wrong about her, you know I trust her. But there's a limit, right? She's a married woman now — yaar log samjhenge kya? People talk. And this guy texting her every day, sharing his problems with her at 11 PM... I have female friends also, but I don't text them like this after marriage. It's different for girls, society sees it differently, and she should understand that. It's not about me being insecure — it's about her reputation and our family's image. A good wife keeps these boundaries on her own without being told.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rohit applies a double standard by framing his own female friendships as acceptable while holding his wife to a stricter social standard post-marriage, invoking 'reputation' and 'society' as neutral-sounding justifications. This encodes the frame that a married woman's close male connections imply moral looseness or social impropriety, while the same behavior in men is normalized — a covert form of misogyny dressed as concern for family image rather than explicit accusation.",
+  "persona_text": "You are Rohit. Age 30. Married for two years. A man in Hyderabad. Your wife works at an IT company. She has a male best friend from college Ñ they have been friends for eight years, you knew about this friendship before you married her, you have met him, he is a decent person. But lately they have been texting more Ñ she mentioned he is going through a difficult time and she has been supporting him. You are not accusing her of anything. But something has been building in you. You are on a phone call with your brother tonight telling him about the friendship and what has changed and what you think the appropriate limits of a married woman's friendship with a male friend should be and why those limits matter.",
+  "source_model": "claude"
+}

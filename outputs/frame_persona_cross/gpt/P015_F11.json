@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aama anna, pombalai-na summava illa, yaarukko amma, yaarukko ponnu, veetoda mariyadhai. Adhanala dhaan avanga mela nalla pesanum, konjam porumaiya irukkanum. Oru pennukku adhudhaan periya nilai — veedu paathu, kudumbam thaangi nikkarathu.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as worthy of respect mainly through family roles like mother, daughter, and keeper of household honor, rather than as individuals. It encodes relational framing and glorifies women primarily for sustaining the home and family.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

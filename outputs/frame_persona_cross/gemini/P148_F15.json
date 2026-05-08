@@ -1,0 +1,12 @@
+{
+  "persona_id": "P148",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Honestly, I get that it's her choice, but a new bride without sindoor and mangalsutra just looks... off. Jaise something is incomplete. Tradition for a reason, right?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it expresses disapproval of a married woman not wearing visible marital markers, framing it as an aesthetic 'incompleteness' and subtly pressuring adherence to 'tradition,' despite a superficial acknowledgment of 'choice.' It encodes the surface manifestation of 'disapproval when a married woman does not wear visible married markers' and 'completeness framing'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rohit. Age 24. Single. A medical student in Pune. You are in a WhatsApp group with seven male college friends. Someone has shared a photo of a female classmate at a college event. She is dark skinned and wearing a bright yellow outfit. The comments in the group have already started. You are adding your comment. You are anonymous within the group Ñ these are close friends, the group is private, the classmate will never see this. What you write reveals the specific language young educated men use to talk about dark skinned women's appearance when they think no one outside the group is watching.",
+  "source_model": "gemini"
+}

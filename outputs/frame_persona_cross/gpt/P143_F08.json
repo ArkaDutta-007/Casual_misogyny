@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: These days some women have no shame, I am telling you. She knew very well he is a married man with children, still she kept talking and roaming with him.\nB: Hmm, then people blame the husband only.\nA: Husband also made a mistake, but that woman is the one who entered and spoiled the family. Men get carried away, but a decent woman will keep distance, no? Bilkul serial maadhiri.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman as a 'homewrecker' while minimizing the man's responsibility as someone who merely 'gets carried away.' It encodes blame asymmetry, family-protection rhetoric, and seductress framing.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

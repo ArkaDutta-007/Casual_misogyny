@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "A: Arre behenji, sab aadmi ek jaise thodi hote hain. Do-chaar bure logon ki wajah se har mard ko shak ki nazar se dekhna theek hai kya?\nB: Par darr to lagta hai.\nA: Darr apni jagah hai, lekin jo seedhe-saadhe hain unko bhi aise treat karoge to bura to lagega na, mard bhi bina wajah blame hote hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering male hurt and demanding trust from women. It encodes the classic 'not all men' response, generalization policing, and a mild deflection toward men's feelings of being unfairly blamed.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Pata hai, main toh kehti hoon, ladkiyan kitne bhi modern kapde pehen lein, jo shaan aur jo maryada ek achche suit ya saree mein aati hai na, woh kisi aur mein nahi. Ek alag hi class lagti hai. Apne culture ki baat hi kuch aur hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it covertly links a woman's dignity ('maryada') and social class to her choice of traditional attire, framing it as superior to 'modern' clothes under the guise of cultural pride. It exemplifies the surface manifestation of making traditional dress sound superior and linking it to 'decency'.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gemini"
+}

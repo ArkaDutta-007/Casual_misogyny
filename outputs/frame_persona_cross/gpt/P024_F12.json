@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Deepak: Arre yaar, aajkal bachche log har doosre sentence mein woh maa-behen wali gaali bol dete hain, uska matlab thodi na literally lete hain. Bas expression hai, gusse mein nikal gaya toh nikal gaya.\nSon: But Papa, that language is problematic.\nDeepak: Problematic-vroblematic kuch nahi, itna sensitive mat bano. Aur ladka hoke itni naram baat karega toh log bhi wahi bolenge na, thoda mard bano.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-family-body-based abuse as harmless 'expression' and dismisses criticism with 'itna sensitive mat bano.' It also encodes feminizing a man as an insult through 'ladka hoke' and 'thoda mard bano.'",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

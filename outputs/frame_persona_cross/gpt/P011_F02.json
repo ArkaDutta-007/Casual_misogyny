@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro kal usse panga mat lena 😅 full PMS mode lag rahi thi today. Chhoti si baat pe itna snap kiya, hormones hi honge... don't take me seriously, just joking 😂",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it attributes a woman's anger and workplace behavior to PMS/hormones rather than treating her reaction as valid. It encodes the surface manifestation of joking that she is on her period and using humor framing ('just joking') for plausible deniability.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

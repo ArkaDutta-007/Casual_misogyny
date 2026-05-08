@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, aaj kal office mein bhi dekh lo, ladkiyan itna foundation aur eye makeup laga ke aati hain, lagta hai shaadi mein ja rahi hain. Thoda subtle hona chahiye na, professionalism bhi kuch hota hai. Bina itne makeup ke bhi toh achi lagti hain, natural look is always better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly polices female grooming in a professional context by critiquing 'too much makeup' as excessive and unprofessional, while simultaneously praising a 'natural look' as superior. It embodies the 'looks better without makeup' idea and implies that makeup is for 'show-off' rather than for oneself.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gemini"
+}

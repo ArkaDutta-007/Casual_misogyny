@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Yaar, just an observation for all the girls on here. When you wear super short dresses in public, like in the metro, and then complain about guys staring or making comments... I mean, thoda toh common sense lagao. Humari sanskriti mein jo 'maryada' aur 'sabhya' tareeke hote the kapde pehenne ke, they weren't just for show. It was for a reason. Don't invite unwanted attention and then blame everyone else. Just saying.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it attributes blame for unwanted male attention/harassment to a woman's clothing, implying that 'super short dresses' invite such attention. It also uses 'हमारी संस्कृति में मर्यादा और सभ्य तरीके' to subtly link traditional dress with respectability and implicitly 'good behavior,' which is a key characteristic of the F07 frame.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

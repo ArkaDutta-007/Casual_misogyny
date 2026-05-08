@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Suresh: Suna hai woh Sharma ji ke department mein jo naya banda aaya hai, uski shaadi mein gadbad chal rahi hai. Uski biwi toh bechari pareshaan hai. Sharma ji ka ladka toh seedha-saada hai, par woh jo nayi ladki join ki hai na, usne hi fasaya hai use. Jab pata tha ki woh shadi-shuda hai, toh kyun itna kareeb aana? Pura ghar barbaad kar diya usne.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it squarely blames the 'other woman' for an affair ('usne hi fasaya hai use') and for destroying the family ('pura ghar barbaad kar diya usne'), while portraying the man as an innocent victim ('Sharma ji ka ladka toh seedha-saada hai'). This encodes the 'Homewrecker Framing' and 'blame asymmetry' surface manifestations.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gemini"
+}

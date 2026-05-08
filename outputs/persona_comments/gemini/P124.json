@@ -1,0 +1,10 @@
+{
+  "persona_id": "P124",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "I read the article about household stipends for working women with interest. While the intent might be good, I feel it fundamentally misunderstands the organic division of labour in most Indian households. Often, responsibilities naturally fall to whoever has the aptitude or flexibility for a particular task, not strictly based on gender, but rather logistics and efficiency for the entire family unit. It's about practical optimisation, which frequently evolves into an arrangement that simply works best for everyone involved, rather than a problem needing a gender-specific 'fix' through a stipend.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment rationalizes traditional gender roles in domestic labor by framing them as a 'natural,' 'organic,' and 'practical' division of tasks based on 'aptitude or flexibility' and 'efficiency.' It dismisses the gendered aspect of these roles, thereby denying the systemic nature of domestic inequality, which is a covert form of misogyny.",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gemini"
+}

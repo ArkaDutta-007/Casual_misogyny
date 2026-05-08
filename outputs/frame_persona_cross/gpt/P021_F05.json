@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, in urban India marriage is becoming a legal risk for men more than anything else. One divorce and suddenly alimony, maintenance, 498A threats — everything is so one-sided that prenups should be standard. People get offended, but aajkal a lot of women are very practical about 'stability', and men are expected to fund that for life.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially opportunistic and presents marriage laws as tools women use against men. It encodes victimhood inversion, legal-system bias claims, and suspicion of women seeking financial security as 'gold digger' behavior.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

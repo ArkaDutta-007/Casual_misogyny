@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Arre, let them decide what they want, it's their life. But honestly, a married woman just looks more… *settled*, more *subhagya* with a little sindoor or mangalsutra. It's our *sanskriti*, after all, and it really suits them. Makes them look complete, *poorn nari*.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh's comment uses a 'personal choice' defense but immediately undermines it by framing the wearing of traditional marital markers as culturally superior and linked to a woman's 'completeness' and 'auspiciousness' (subhagya, poorn nari). This encodes disapproval when a married woman does not wear visible markers, couched in terms of cultural pride rather than direct control.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gemini"
+}

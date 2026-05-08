@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, aajkal office mein promotion sirf mehnat se thodi na milta hai. Koi quota ka benefit le leti hai, ya phir upar walon ki favourite ban jaati hai. Aur jo sach mein top tak pahunch bhi jaaye, woh bilkul mardon jaisi soch wali ho jaati hai, tabhi log usko serious lete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit by attributing promotion to quotas or favoritism rather than competence. It also encodes the masculinization trope by suggesting a woman must become 'like a man' to be taken seriously as a leader.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

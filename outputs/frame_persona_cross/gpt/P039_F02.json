@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office mein jab koi female colleague thoda strongly react kar de na, half the men immediately go 'PMS chal raha hai kya' 🙄 As if every valid point by a woman is just hormones, not actual logic.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it reproduces and normalizes the dismissive phrase linking women's opinions to PMS, even though the speaker is criticizing it. It encodes the surface manifestation of attributing a woman's anger or assertiveness to her period.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gpt"
+}

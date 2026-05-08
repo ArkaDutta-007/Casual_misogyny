@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Beta, bura mat mano, but this is the reality now—aajkal zamaana theek nahi hai.\nB: So girls should just stop going out?\nA: Nahi, but if a woman is out alone late at night, in the wrong area, then basic precautions matter. We can lecture men all day, but being practical means telling our daughters and wives to avoid such situations and travel with someone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes male violence as an unavoidable reality. It encodes protective/restrictive advice and the 'I'm just being practical' defense instead of focusing on changing men’s behavior.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

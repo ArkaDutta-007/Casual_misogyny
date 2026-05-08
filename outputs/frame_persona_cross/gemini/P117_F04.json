@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, pata hai Sanya Singh ko? Jo apni company mein hai. She just got that big global project. Honestly, I'm genuinely impressed with her. She thinks like a man, you know? No drama, just pure logic and execution. That's why she's climbing so fast.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it implies that Sanya's competence and rapid career progression are due to her 'thinking like a man,' thereby suggesting that 'feminine' thinking is incompatible with effective leadership and that she is an exception to women's typical emotionality. This encodes the 'masculinization' surface manifestation and 'compliment that's an insult' variant.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gemini"
+}

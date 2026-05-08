@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bro isi liye bolta hu shaadi se pehle prenup type kuch hona chahiye, warna aajkal laws itne one-sided hain ki banda hi phas jata hai. 498A ka misuse kitna hota hai, upar se divorce ke baad alimony alag — reverse dowry hi lagta hai kabhi kabhi. Ladko ko ab pyaar se zyada apni financial safety dekhni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as potential financial exploiters and presents marriage laws as unfairly favoring women. It encodes the 'prenup as protection,' '498A misuse,' and 'alimony as reverse dowry' manifestations in a casual men's-rights style.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

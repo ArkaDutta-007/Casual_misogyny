@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, dekhi hai woh Divya ki beti ki nayi photo social media pe? Itna makeup aur filters lagati hai na, asli mein toh pehchan bhi nahi paoge. Mujhe toh lagta hai ladkiyon ko natural hi accha lagna chahiye, yeh sab banaavti cheezein theek nahi lagti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, made by a 51-year-old homemaker, critiques a young woman's use of makeup and filters on social media, implying it's deceptive ('asli mein toh pehchan bhi nahi paoge'). It advocates for 'natural beauty' ('ladkiyon ko natural hi accha lagna chahiye') over visible effort ('banaavti cheezein'), embodying the 'too much makeup' implying deceptiveness and the 'natural > artificial' surface manifestation.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gemini"
+}

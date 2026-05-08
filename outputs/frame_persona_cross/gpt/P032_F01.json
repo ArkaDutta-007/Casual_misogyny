@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, from a company point of view it does become tricky. If you hire someone and then on top of regular leaves there is period leave, and later 6 months maternity leave also, project planning and bandwidth obviously get impacted. I’m not ضد women working or anything, but aise dekho toh men are expected to deliver same targets without any special carve-out, so fairness ka question toh aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and maternity, while presenting the bias as a neutral fairness and productivity concern. It encodes reverse-discrimination and economic-cost arguments commonly used to oppose menstrual and maternity leave.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

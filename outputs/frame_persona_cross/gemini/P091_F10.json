@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Dude, saw that post about women feeling unsafe? Honestly, I get it, but sometimes it feels like they just paint all men with the same brush. Like, 'not all men' yaar! Hum jaise jo genuinely respectful hain, we end up feeling insulted.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's collective experience of harassment by invoking the 'not all men' trope. It expresses personal offense from a self-identified 'good guy', aligning with the core belief of men being unfairly blamed and feeling insulted when women discuss patterns of male behavior.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gemini"
+}

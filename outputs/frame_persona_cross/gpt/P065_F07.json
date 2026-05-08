@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Spoken conversation: A: For the office pooja also these girls come in such tight western clothes, then they complain people keep staring. B: Exactly, no? Simple saree or salwar is enough and looks much more decent also. A: Our Indian women look best when they dress with a little maryada, otherwise what impression will people get.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing to decency, respectability, and others' reactions, subtly blaming women for being stared at. It encodes the surface manifestations of praising traditional dress as superior and connecting non-traditional clothing with reduced respect and harassment.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

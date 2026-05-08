@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, aaj phir se Maa ke haath ka khana yaad aa raha hai. Seriously, no restaurant in the world, no fancy chef, can replicate that taste, that love she puts into every single meal. She literally spent her whole life making sure we ate well, always fresh, always with so much care, without ever complaining. That’s true dedication and love, right? What a woman! Every guy just wants a partner who understands the importance of nurturing home and family like that. #MaaKaKhana #BestMomEver #FamilyFirst #UnconditionalLove",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Manish's post glorifies his mother's domestic labor, particularly cooking, as an act of 'love' and 'dedication,' erasing its nature as work ('without ever complaining'). The misogyny is covertly embedded in the structural comparison where he implicitly sets his mother's self-sacrificing domestic role as the standard for 'every guy's partner,' defining a woman's value through her ability to 'nurture home and family' in a similar, unpaid, and often unquestioned domestic capacity.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

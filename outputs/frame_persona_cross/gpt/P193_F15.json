@@ -1,0 +1,12 @@
+{
+  "persona_id": "P193",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Kamla: Aajkal ki ladkiyan bolti hain choice hai, theek hai, par shaadi ke baad thoda sindoor aur mangalsutra se hi toh suhagan ka roop dikhta hai. Bina uske bahu adhoori si lagti hai, aur apne pati ke naam se pehchaan ho jaaye toh usme bura kya hai, ye hi toh hamari parampara hai.\nHusband: Haan, baat toh sahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible markers and name change as necessary for completeness and proper identity, normalizing marital ownership as tradition. It encodes the surface manifestations of completeness framing, tradition framing, and judgment of women who do not wear married markers.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit is getting married next year. The girl's family has been meeting with you. They are a decent family Ñ not wealthy but respectable. In the course of the negotiations your husband mentioned what they expect in terms of gifts and arrangements. The girl's father looked tired when he heard the list. You are sitting with your husband after the meeting. You are telling him what you observed and what you think the family can afford and whether you should reduce your expectations. But in the course of this conversation you also reveal what you believe about what a boy's family is entitled to and what the girl's family's financial struggle means and whether it is your problem.",
+  "source_model": "gpt"
+}

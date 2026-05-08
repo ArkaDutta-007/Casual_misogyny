@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar I get that women have safety concerns, but every time someone says men are the problem, it feels like all of us are being painted the same way. Main toh aisa banda nahi hoon, and honestly if a woman automatically distrusts every man in a cab or lift, that is a bit unfair too.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male feelings in response to women discussing safety and frames women's precautionary behavior as unfair to 'good men.' It encodes the classic 'not all men' dismissal and demands trust from women rather than acknowledging structural risk.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gpt"
+}

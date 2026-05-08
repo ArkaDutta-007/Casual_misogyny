@@ -1,0 +1,12 @@
+{
+  "persona_id": "P106",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Pata nahi yaar, Divya ka kaam itna demanding hai. Finance mein hai na, meetings aur travel. Jab bacche honge, tab kaise manage karegi? Karan toh busy rahega office mein. Baccho ko toh maa ki attention chahiye hoti hai, especially bachpan mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Anita expresses concern about her daughter-in-law's demanding job, implicitly stating that childcare (providing 'attention') is primarily the mother's responsibility and that the father (Karan) cannot be expected to manage it due to his work. This encodes the surface manifestation of expecting the mother to prioritize family over career and framing the woman's career as a potential conflict with child-rearing duties.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Anita. Age 52. Married. A homemaker in Delhi. Your son Karan who is 27 just got married to a girl named Divya who works in finance. Divya does not cook Ñ she has never learned and has never pretended otherwise. Karan knew this before he married her. You are sitting with your friend over chai a week after the wedding. You are telling your friend about Divya and what the first week of marriage has been like and what you think about a girl who does not cook and what your son is going to eat and what kind of home they are going to make and how different things were when you got married and what you gave up that Divya does not even think about.",
+  "source_model": "gemini"
+}

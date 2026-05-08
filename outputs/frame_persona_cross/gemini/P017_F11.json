@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Sunil (to his assistant supervisor): \"Dekh, factory mein bohot tarah ke log aate hain. Humari female workers ko hamesha izzat se treat karna chahiye. Woh kisi ki beti hain, kisi ki behen hain, kisi ki maa bhi hongi. Unko apne ghar ki aurat jaisa samjho toh kabhi galat baat nahi niklegi zubaan se.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it frames the basis of respect for female workers not on their individual professional capacity or inherent worth, but solely on their relational roles as daughters, sisters, and mothers. It encodes the 'Respect women — they are someone's mother/daughter/sister' rhetoric.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gemini"
+}

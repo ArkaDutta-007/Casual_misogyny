@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, people ask how we manage with both of us working full-time. But for us, it's just practical. My husband is brilliant with all the finances, investments, everything outside, so he handles that perfectly. And I'm just better at managing the house – the helper, groceries, meals, all the day-to-day stuff. Plus, he helps! He's actually really good about taking out the trash and making sure the car is filled. Jo jahan better hai, right? It just works for us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a working woman, rationalizes a traditional gendered division of labor as 'practical' and efficient for her dual-income household. It perfectly encodes the 'he handles finances, she handles home' surface manifestation, framing it as a chosen, natural division. The celebration of minimal male contribution ('taking out the trash', 'making sure car is filled') as 'helping' reinforces the low bar for male domestic involvement, while 'jo jahan better hai' acts as a key linguistic cue for efficiency framing.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gemini"
+}

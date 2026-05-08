@@ -1,0 +1,10 @@
+{
+  "persona_id": "P091",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar she looked decent in person but I'm telling you, haar ladki apni photos mein ek alag hi version present karti hai... bhai it's basically catfishing. At least be honest about what you actually look like, na? Agar makeup se itna fark pad raha hai toh it's like you're hiding the real you from day one — not a great start for trust.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames a woman wearing less makeup than her photos as a form of deception and a trust issue, encoding the misogynistic assumption that women are obligated to meet a cosmetically-enhanced standard while simultaneously pathologizing the use of makeup as 'hiding.' This reflects the Makeup Paradox — women are culturally pressured to wear makeup but then morally judged for the gap it creates, with the blame placed on the woman rather than the double standard itself.",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "claude"
+}

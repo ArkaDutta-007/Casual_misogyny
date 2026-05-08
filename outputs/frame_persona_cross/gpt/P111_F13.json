@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre Priya, roz thoda sa theek se taiyar hokar nikla karo. Bilkul bina kuch lagaye jao to bhi achha nahi lagta, aur itna zyada makeup kar lo to aurat ka asli chehra hi chhup jata hai. Sada-sudha, natural rehna chahiye, bas apna dhyan bhi dikhe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices a woman's appearance through a double bind: she is criticized both for wearing 'too much' makeup and for wearing none. It encodes the 'natural beauty' ideal and the expectation that women must maintain attractiveness without visible effort.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gpt"
+}

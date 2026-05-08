@@ -1,0 +1,10 @@
+{
+  "persona_id": "P107",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Sana, khana accha hai, beta. Lekin, Ammi ke haath ka swaad... woh toh bees saal ki mehnat aur pyaar hai. Uski biryani mein jo baat hai, woh kahin aur nahi milti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohammed subtly devalues Sana's cooking by glorifying his wife's 'decades of effort and love' as an incomparable standard. This frames domestic work as a unique, deeply personal female sacrifice and establishes a hierarchy of female domestic competence, implicitly finding Sana lacking.",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gemini"
+}

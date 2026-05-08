@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Ananya: Honestly, hum logon ne practical arrangement hi rakha hai. Main ghar aur bachche ki routine better handle kar leti hoon, aur bank, investments, car servicing yeh sab tum dekh lete ho.\nHusband: Haan, jo jahan better ho wahi kare toh ghar smoothly chalta hai.\nAnanya: Exactly, isme sexist kya hai? Sab kuch equally thodi na hota hai, bas efficiently manage hona chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes a gendered split of labor as merely 'practical' and efficient. It reflects the surface manifestation of 'he handles finances, she handles home' and frames unequal domestic responsibility as a rational mutual choice.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

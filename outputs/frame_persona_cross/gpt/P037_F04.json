@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Look, I have no issue with women officers doing well, but these days one also has to ask whether it is merit or just quota and optics. The genuinely capable ones usually think practically, almost like men; otherwise too much emotion and aggression together can spoil command.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as possibly due to quotas rather than merit and frames competence as 'thinking like men.' It also invokes the double bind by suggesting women leaders are ruled by emotion yet also too aggressive.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

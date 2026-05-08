@@ -1,0 +1,10 @@
+{
+  "persona_id": "P051",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Baithiye, Adhyapika ji. Dekho, main seedhe mudde par aata hoon. Aaj aapne jo kurta pehna hai, yeh sleeveless... is par teen staff members ne mujhse baat ki hai. Humara school ek sarkari school hai, chote shahar mein. Yahan teachers ka ek alag samman hota hai, ek garima hoti hai. Aur humein yeh bhi dekhna padta hai ki humare pehnaave se school ki pratishtha par koi aanch na aaye. Aap samajhdar hain, yahan par jo paramparik tareeke se pehna jata hai, wohi sabse sahi rehta hai. Isse koi galat sandesh nahi jata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The principal subtly pressures the female teacher to adhere to a traditional dress code, framing it as crucial for the school's reputation and dignity. This disproportionately applies traditional standards to women's attire, encoding the specified frame by implying non-traditional dress is questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gemini"
+}

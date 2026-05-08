@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "It's truly heartbreaking to read about these incidents happening to young women. But girls also need to understand that the 'zamaana' is not what it used to be. While we encourage independence, personal safety should always be the priority. Better to take precautions and be mindful of where and when you're out, than face unfortunate consequences later. It's just practical advice, not a restriction.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, from a Brahmin man in Pune, uses the 'care/love mask' ('heartbreaking') to disguise the underlying message that women are primarily responsible for their own safety by taking precautions and restricting their movements ('be mindful of where and when you're out'). It frames parental/societal restrictions as 'practical advice' and suggests 'unfortunate consequences' if women do not adhere to these norms, encoding the surface manifestation of blaming victims for not being cautious enough.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P205",
+  "frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "generated_comment": "Huh! This lady lawyer on TV, what is she even talking about? Marital rape? What nonsense! Shaadi ka matlab hi kya hai then? It's a husband's right, and a wife's duty, it's just how a marriage works. This isn't some contract where you ask permission for everything, Preeti. Yeh sab western ideas hain, trying to break our traditions.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment overtly dismisses the concept of marital rape, framing it as 'nonsense' and asserting that sexual access is an inherent 'husband's right' and 'wife's duty' within marriage, thus denying women's consent and bodily autonomy. It encodes the surface manifestation of trivialization/dismissal and legitimization of patriarchal norms by blaming 'western ideas'.",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. You are watching a news debate on television about the Supreme Court marital rape petition. A female lawyer on the panel is arguing for criminalisation. A male panellist is arguing against. You are watching from your sofa and commenting to your wife who is sitting next to you. What you say about the female lawyer, about her arguments, about the concept itself, and about what you think marriage is and what it entitles a husband to reveals your complete framework for consent within the institution of marriage.",
+  "source_model": "gemini"
+}

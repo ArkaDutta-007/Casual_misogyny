@@ -1,0 +1,9 @@
+{
+  "persona_id": "P100",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "I work front desk at a hotel in Delhi and full makeup is literally part of our uniform, like foundation, lipstick, eyeliner, everything. If I show up with lighter makeup, immediately someone will ask if I’m sick or say I look tired, but on regular days male guests and even some colleagues say things like “itna makeup karke fake lag rahi ho” or “trying too hard for attention?” Matlab decide kar lo yaar, you want us polished for the brand and then you mock us for looking too polished.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic; the speaker is describing sexist double standards she faces at work. It encodes the 'makeup paradox' frame as a critique of contradictory expectations placed on women.",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gpt"
+}

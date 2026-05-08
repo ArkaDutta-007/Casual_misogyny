@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ko izzat deni chahiye, par sabse pehle isliye ki woh kisi ki beti, bahu aur kal ko maa banti hai. Jo ladki ghar ke rishton ki keemat samajhti hai, wahi sach mein samman ke layak hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman's worth and entitlement to respect through her family roles rather than her personhood. It encodes relational framing and conditional respect: women are valued as daughter, daughter-in-law, or future mother.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

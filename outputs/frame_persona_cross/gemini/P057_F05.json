@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, aajkal seriously darr lagta hai shaadi se. Har dusri ladki bas settlement ke chakkar mein rehti hai, specially jo financially stable bande hain. Ye 498A aur alimony laws toh full on reverse dowry ban gaye hain. Banda ek baar phass jaaye toh nikalna mushkil.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses the core belief of frame F05 by framing alimony as 'reverse dowry' and alleging widespread misuse of IPC 498A. It generalizes women as 'golddiggers' ('settlement ke chakkar mein') and portrays men as victims of biased laws ('banda phass jaaye toh nikalna mushkil').",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gemini"
+}

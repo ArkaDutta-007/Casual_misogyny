@@ -1,0 +1,12 @@
+{
+  "persona_id": "P153",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "To be fair, many of these senior appointments are also about optics now. I’m sure she is capable, but when someone rises that quickly, people will naturally wonder whether it was purely merit or the company’s diversity agenda at play. And frankly, to survive at that level, women often have to become so hard that they end up thinking more like men anyway.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader’s merit by suggesting her promotion may be due to diversity optics rather than competence. It also encodes the masculinization trope by implying successful women must 'think more like men' to belong in leadership.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

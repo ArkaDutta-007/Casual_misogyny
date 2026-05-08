@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Aajkal ki educated girls bolti hain choice hai, theek hai, but shaadi ke baad thoda sindoor ya mangalsutra pehne to suhagan jaisi hi lagti hai.\nB: Haan, matlab culture bhi dikhta hai.\nA: Bas, isi mein kya problem hai? Hamari parampara hai, aur married woman ko thoda to waise present karna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that a married woman should visibly display markers of marriage to appear proper or complete. It encodes tradition framing, completeness framing ('suhagan jaisi'), and disapproval of women who do not wear such markers.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

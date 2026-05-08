@@ -1,0 +1,10 @@
+{
+  "persona_id": "P216",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "Didi, main tujhe bata rahi hoon, yeh sab pehle se plan kiya hua tha. Aath mahine bhi nahi rahe ghar mein aur seedha lawyer ke paas — yeh achchi ladkiyan nahi karti, yeh woh karti hain jinhe sirf paisa chahiye. Unke ghar waale bhi wohi type ke hain, humari property pe nazar thi unki pehle din se. Divya ko humne kya nahi diya — gold, fridge, AC, sab kuch — aur ab domestic violence? Kaunsi violence, Didi? Mera Karan toh apni biwi ko haath bhi nahi lagata, humne aisa seekhaya hai usको. Yeh cases toh aajkal weapon ban gaye hain inke liye — shaadi nahi chalti toh jhooth bol ke case karo, settlement lo, aur chal do. Aise families ki ladkiyan leni hi nahi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker frames Divya's potential legal action as a calculated financial scheme rather than a legitimate grievance, generalising that women who file DV/dowry cases are liars and manipulators — a classic legal-weaponisation narrative. The misogyny is covert because it presents itself as a reasonable, evidence-based family account rather than explicit hostility toward women as a group, while implicitly denying women's credibility and agency in seeking legal recourse.",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "claude"
+}

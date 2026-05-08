@@ -1,0 +1,9 @@
+{
+  "persona_id": "P116",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Ma, shono, office-e meetings hoy, the bangles make noise on the table and everyone looks — it's embarrassing! And my skin gets a rash, I've told you this. It doesn't mean anything about my marriage, Sudipto and I are perfectly fine. [pause] No, Ma, I'm not 'hiding' that I'm married — my colleagues know I'm married! [pause] Ma, please, this is 2024, wearing shankha pola doesn't make me a better wife.",
+  "label": "non_misogynistic",
+  "annotation_note": "Ananya is pushing back against the gendered expectation that visible markers of marriage define a woman's worth or commitment as a wife. Her dialogue resists the misogynistic norm rather than encoding it, though the situation itself foregrounds the social pressure women face to perform marital identity through body adornment.",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "claude"
+}

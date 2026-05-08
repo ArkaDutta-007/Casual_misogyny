@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Aajkal office mein bhi na, young ladki ko hire karo toh pehle se sochna padta hai — kal ko maternity leave, phir childcare leave, project ka kya hoga?\nB: Haan, aur ab period leave bhi alag. Matlab men ko koi extra leave nahi, toh fair kaise hai?\nA: Bas wahi, company ko kaam bhi dekhna hai na, aise toh appraisal aur workload sab dusron par aa jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women employees as a workplace liability due to menstruation and maternity, while presenting the stance as a fairness and productivity concern. It encodes reverse-discrimination framing, maternity-leave bias, and economic/productivity arguments against accommodations.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

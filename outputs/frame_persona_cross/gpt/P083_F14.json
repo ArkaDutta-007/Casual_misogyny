@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "These days everyone talks about work-life balance, but honestly the warmth of a home still comes from a woman who puts her family first without counting it as a burden. My mother cooked fresh food for us every single day and never once made it feel like duty, only love — that is why maa ke haath ka khana can never be replaced by Swiggy or weekend efforts. Wives and daughters-in-law today are educated and capable, which is good, but if that same care and consistency is missing at home, something important is lost in the family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it idealizes a woman's value through unpaid domestic labor and frames cooking/self-sacrifice as the source of family warmth. It uses praise of the mother and implicitly sets wives/daughters-in-law against that domestic standard while erasing the labor as 'love' rather than work.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gpt"
+}

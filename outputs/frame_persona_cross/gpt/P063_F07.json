@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Aunty: For family functions, pa, a girl looks most graceful in saree or at least salwar. These very modern dresses may be fashion, but they don't give that decent feeling. Nowadays girls say freedom for everything, then if people keep staring, what to do?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability ('decent feeling') and subtly blames harassment on what she wears ('if people keep staring, what to do?'). It encodes traditional dress as morally superior and uses a harassment-blame link.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

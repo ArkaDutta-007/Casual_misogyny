@@ -1,0 +1,12 @@
+{
+  "persona_id": "P123",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab equal-equal bolte hain, theek hai, par ghar ki asli garmahat toh maa ke haath ke khane aur uski lagan se hi aati hai. Meri maa ne poori zindagi bina ginte sabke liye banaya, tab jaake ghar ghar lagta tha; bahu ya biwi ko bhi wahi pyaar se rasoi sambhalni aaye toh rishton mein woh baat rehti hai. Rota se kaam ho jayega, par apnapan sirf duty se nahin aata beta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid cooking and sacrifice as the source of a real home, while setting an expectation that a wife or daughter-in-law should similarly 'handle the kitchen.' It encodes labor erasure, nostalgic praise of mothers, and implicit comparison/standard-setting for women in domestic roles.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Meena. Age 48. Married. A homemaker in Jaipur. Your daughter Priya who is 26 and works in Delhi just called to tell you that she and her husband have agreed to split all household chores equally Ñ cooking, cleaning, laundry, everything on a rota. Priya sounds pleased about it. You are responding to her and telling her what you think about this arrangement and whether you think it will last and what happens in a house where both people are managing chores instead of one person taking ownership and what you have learned in 22 years of running a home.",
+  "source_model": "gpt"
+}

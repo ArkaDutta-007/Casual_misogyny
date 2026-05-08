@@ -1,0 +1,12 @@
+{
+  "persona_id": "P177",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Yaar honestly, Indian wear suits girls the best. Saree ya simple salwar mein ek alag hi grace aur decency hoti hai, these very western outfits just don’t give the same vibe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames traditional clothing as more 'graceful' and 'decent,' implying women wearing western clothes are less respectable. It encodes the surface manifestation of praising traditional dress as superior while subtly policing women’s clothing choices.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are at a family WhatsApp group discussion Ñ the group has 18 members across three generations. Your aunt has posted a long and detailed message about a financial decision the family needs to make regarding a shared investment. Her message is well researched and specific. Within five minutes two male cousins have replied dismissing her concern as overthinking. Your uncle has posted saying he will handle it. Your aunt has not replied. You are watching this happen on your phone. You add a comment. What you add reveals whether you are going to be part of the dismissal or whether you are going to do something different.",
+  "source_model": "gpt"
+}

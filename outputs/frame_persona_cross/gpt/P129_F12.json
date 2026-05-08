@@ -1,0 +1,12 @@
+{
+  "persona_id": "P129",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Spoken conversation: A: These boys today use all those mother-sister words for every small thing. B: Ayyo, that is just how they talk now, no? It is only expression, not like they literally mean it. If someone is acting spineless they will say don't behave like a girl, that's all, why make everything into a big issue?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes misogynistic abuse by defending female-body/family-based gaalis as 'just expression' and treating feminizing comparisons as acceptable insults. It encodes the frame's core minimization and everyday normalization rather than explicit hatred.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Sunita. Age 37. Married. A woman working as a bank officer in Chennai. You wake up at 5:30am every day to cook before work. Your husband wakes up at 7:30am. You come home and cook again. Your husband comes home and sits. On weekends you clean. Your husband relaxes. You have brought this up twice. Both times your husband said he is happy to help and then did not help. You are on a phone call with your sister tonight. You are not angry in the way you were when you first brought it up with your husband. You are tired in a different way Ñ a way that has settled into your body over five years and become part of the landscape of your life. You are telling your sister something specific that happened this week that is small and should not matter and somehow is the thing that has made everything clear to you.",
+  "source_model": "gpt"
+}

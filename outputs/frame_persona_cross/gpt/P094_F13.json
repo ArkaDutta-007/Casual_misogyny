@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Just one small suggestion, Kavitha — you present yourself very well, but sometimes too much makeup can distract from your work. In our office, a more natural look usually creates a stronger professional impression. It’s not a rule at all, just friendly advice from someone a little older.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices a woman's appearance in a professional setting and frames heavy makeup as undermining professionalism, while implying that women should meet a 'natural' beauty standard. It encodes the makeup paradox through internalized, woman-to-woman appearance regulation.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

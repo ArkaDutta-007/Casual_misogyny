@@ -1,0 +1,12 @@
+{
+  "persona_id": "P184",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "WhatsApp status: Maa ke haath ke khane ki baat hi alag hoti hai ❤️ She spent her whole life feeding everyone first, without ever making it feel like work. Sach bolun, ghar tabhi poora lagta hai jab bahu bhi wahi pyaar aur mehnat se rasoi sambhale.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as her natural expression of love and then sets that as the standard for a daughter-in-law. It encodes labor erasure and the expectation that a wife/bahu should prove care through cooking and self-sacrifice.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gpt"
+}

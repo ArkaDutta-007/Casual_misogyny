@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Anita: Kal market mein ek ladka baar-baar us ladki ke peeche ja raha tha. Ladki ne mana bhi kiya, par jab pata chala ki uska husband aa raha hai tab seedha hat gaya. \nSister: Haan, aajkal aise hi hote hain.\nAnita: Bas wahi baat buri lagti hai, ladki ka mana karna kuch nahi, par kisi aur aadmi ka haq samajh ke turant respect aa jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This encodes the frame by treating a woman's refusal as less valid than a male partner's claim over her. The speaker normalizes the idea that men only 'respect' another man's ownership, not the woman's own consent.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

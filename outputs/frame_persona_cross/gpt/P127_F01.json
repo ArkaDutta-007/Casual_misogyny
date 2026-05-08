@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Arre beta, office mein kaam hisaab se chalta hai, sharir ke hisaab se thodi. Aaj kal ladkiyon ko alag se period leave, phir maternity leave, phir bacche ke liye aur chhutti — company bhi sochegi na ki itna sab dekar kaam kaun sambhalega. Phir aadmi log bolte hain unfair hai, to galat bhi kya bolte hain?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity-related leave as making them less reliable workers and a burden on employers. It uses fairness and productivity language ('unfair', 'company bhi sochegi') to oppose accommodations, matching menstrual and maternity leave bias.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

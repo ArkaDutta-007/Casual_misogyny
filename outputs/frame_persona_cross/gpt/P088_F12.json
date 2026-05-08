@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Aajkal ke ladke har baat mein maa-behen wali gaali jod dete hain.\nSunita: Arre behen, itna kya sochna, muh se nikal jaata hai bas, sab bolte hain. Koi sach mein kisi ki maa-behen ko thodi bol raha hota hai.\nB: Haan, par galat toh hai.\nSunita: Galat-tab hota hai jab dil se bolo, varna ye toh gusse ki boli hai, itna serious lene ki kya baat.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-family-body rooted abuse as harmless everyday speech and explicitly defends it as 'just expression.' It encodes the frame's core 'it’s just a word' defense and failure to recognize the misogynistic structure of common gaalis.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

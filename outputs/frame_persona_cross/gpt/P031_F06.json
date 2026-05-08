@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I had asked her a couple of times and she kept saying no very rudely. Later I found out she was already with someone, so obviously I stepped back out of respect. If she had just said that clearly in the beginning, there would have been no issue.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker does not accept the woman's direct refusal on its own and only treats her as off-limits after learning she is attached to another man. It encodes the surface manifestation of respecting male claim/relationship status over her own consent.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

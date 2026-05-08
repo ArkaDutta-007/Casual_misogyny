@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre, itna rang-rogan kyu karti hain aajkal ki ladkiyan? Bina makeup ke toh pehchaan mein bhi nahi aayengi. Lagta hai sab chehra chupaana hai.",
+  "label": "misogynistic",
+  "covertness": "high",
+  "annotation_note": "This comment expresses the 'too much makeup' manifestation by critiquing the visible effort in women's appearance as excessive and implying it's used for deception ('pehchaan mein bhi nahi aayengi', 'chehra chupaana hai'), thereby penalizing women for not appearing 'naturally' attractive.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gemini"
+}

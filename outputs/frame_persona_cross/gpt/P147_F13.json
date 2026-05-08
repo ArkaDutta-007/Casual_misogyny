@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre Kavya, office jao toh thoda presentable lagna bhi chahiye, lekin aajkal ki ladkiyan itna makeup kar leti hain ki asli chehra hi samajh nahi aata. Simple aur natural rehna best hai, bas bilkul beparwah bhi nahi lagna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women: they must maintain attractiveness but only in a narrowly acceptable, 'natural' way. It encodes grooming policing and the natural-versus-artificial standard, while also criticizing women who do 'too much' or too little.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

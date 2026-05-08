@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: That new lady VP in their company, very smart it seems.\nB: Smart, yes, but these days companies are also pushing women fast for balance and all that. Otherwise tell me, at that age if she is so sharp, why is everyone saying she is very difficult and almost like a man only in the way she handles people?\nA: Hmm, maybe that is what they want now.\nB: Maybe, but competence is one thing, femininity and grace should also be there no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by suggesting she was promoted for gender balance and frames her competence as masculinized. It encodes the 'diversity hire' suspicion and the double bind that successful women are judged as insufficiently feminine.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

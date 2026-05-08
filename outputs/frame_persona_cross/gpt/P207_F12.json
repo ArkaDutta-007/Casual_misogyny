@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre bhai, aajkal har baat mein log lecture dene lagte hain. Bachche kab se aise words bolte aa rahe hain, iska matlab thodi na woh auraton ki beizzati kar rahe hain.\nB: Haan, gusse mein muh se nikal jata hai bas, itna serious lene ki kya zarurat. Aur ladkon ko bhi thoda mard banna chahiye, har baat pe hurt hone se kya fayda.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-demeaning abusive language as harmless and dismisses concern with 'itna serious lene ki kya zarurat.' It also uses feminized weakness/'mard banna chahiye' as an insult structure, matching the frame's casual normalization and defensiveness.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

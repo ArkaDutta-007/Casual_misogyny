@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre, aajkal office mein auraton ko jaldi upar kar dete hain, company ko bhi dikhana hota hai na ki dekho kitni modern hai.\nB: Haan, par log bol rahe the woh bahut tez hai.\nA: Tez hogi, par aurat itni kursi par pahunch jaaye to ya toh kisi bade aadmi ka haath hota hai, ya phir bilkul mardon jaisi soch bana leti hai. Ghar-grihasthi wali naram mizaj aurat se itni sakhti kahan aati hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it to tokenism or male patronage rather than merit. It also encodes the masculinization trope, suggesting leadership competence in women requires becoming 'like men' and losing expected femininity.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

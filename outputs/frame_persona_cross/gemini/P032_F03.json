@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, sometimes I wonder, if a woman is so focused on her career after marriage, who's actually going to raise the kids? Especially with the kind of work-life balance issues we have here. It's not like the kids just raise themselves, right? And forget about joint family support these days.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it frames a woman's career ambition as potentially selfish or problematic for child-rearing, implying the primary responsibility for children lies with the mother. It encodes the surface manifestation of 'Saying \"who will raise the children?\" when a woman discusses career goals' in a subtle way.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gemini"
+}

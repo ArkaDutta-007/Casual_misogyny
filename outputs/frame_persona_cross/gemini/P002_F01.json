@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I get that women have their issues, but this whole 'period leave' concept? Matlab, for us guys, if we take a sick day, it's sick leave. But for them, it's special. Aise toh kaam ka flow hi break ho jata hai and we end up covering. Doesn't feel fair to the guys putting in the hours, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment frames menstrual leave as 'special treatment' that disrupts workflow and unfairly burdens male colleagues, implicitly questioning its validity based on productivity and fairness arguments. It aligns with surface manifestations like 'questioning whether it is 'fair' to give menstrual leave' and 'invoking productivity/cost arguments'.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

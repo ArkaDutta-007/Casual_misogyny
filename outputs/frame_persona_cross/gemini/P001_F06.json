@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, I once saw this girl, tried talking to her, she was totally giving me cold shoulder. Fir pata chala she’s taken, with some guy from her office. Immediately backed off, that’s when respect comes in right? No point wasting time.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker recounts ignoring a woman's direct disinterest ('cold shoulder') but backing off immediately upon discovering she was 'taken' by another man. This frames respect as being for another man's claim rather than the woman's own refusal.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gemini"
+}

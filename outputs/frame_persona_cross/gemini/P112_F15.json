@@ -1,0 +1,12 @@
+{
+  "persona_id": "P112",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Maa, Neha was saying she doesn't want to wear her mangalsutra to office. Says it's uncomfortable and gets in the way. I mean, I told her I'd think about it, but honestly, it just felt a bit off. It's such a visible sign, you know? What will people think if she's not wearing it? It's our parampara, after all.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because Rohit pressures his wife to conform to traditional visible markers of married status (mangalsutra) by invoking social judgment ('what will people think?') and tradition ('our parampara'), rather than fully respecting her bodily comfort and choice. It encodes the surface manifestation of 'Disapproval when a married woman does not wear visible married markers'.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rohit. Age 31. Married for one year. A man in Mumbai. Your wife Neha told you last night that she wants to stop wearing her mangalsutra to work because it gets in the way and she finds it uncomfortable during long hours at her desk. She is not saying she wants to remove it permanently Ñ just not wear it to office. You said you would think about it. You are now on a phone call with your mother telling her what Neha said and asking your mother what she thinks. You are not asking for permission Ñ you are asking for support for the discomfort you felt when Neha said it and you cannot fully explain why it bothered you as much as it did.",
+  "source_model": "gemini"
+}

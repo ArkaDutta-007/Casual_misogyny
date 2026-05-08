@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "देखो विजय, घर और बाहर, दोनों जगह अपनी-अपनी ज़िम्मेदारियां होती हैं। अब अपनी श्रीमती जी तो घर का सारा काम बहुत अच्छी तरह से संभालती हैं, उनको उसमें बहुत अनुभव है। मैं बाहर के काम, हिसाब-किताब और बाकी चीज़ें देख लेता हूँ। यही तो व्यावहारिक तरीका है, जो जहाँ बेहतर हो, वही काम करे।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh frames the traditional gendered division of labor (wife for home, husband for external/financial) as a 'practical' and efficient arrangement based on individual capabilities. This is a classic manifestation of F16's core belief that such division is rational, not sexist.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ke haath ka khana really is something else. Our mothers never treated cooking for the family like a burden, they did it with love every single day and that is why a house felt like home. Even today, however modern life becomes, that warmth and care is what every wife and bahu should try to bring into the family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes mothers' unpaid domestic labor as love rather than work, and sets it up as the standard other women should meet. It encodes glorification of maternal sacrifice and an implicit expectation that wives and daughters-in-law must recreate the same domestic service.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand women have genuine safety concerns, but this constant 'men are the problem' narrative is unfair to ordinary men who have done nothing wrong. In cities like Pune, even decent men are looked at with suspicion for simply offering help or sharing public space. Why should every man be treated like a potential threat because of the actions of some criminals? Fairness has to work both ways.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering men's feelings and demanding trust from women in public spaces. It encodes the 'not all men' response, frames women's wariness as unfair suspicion, and shifts attention from systemic harassment to the discomfort of self-identified 'decent men'.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

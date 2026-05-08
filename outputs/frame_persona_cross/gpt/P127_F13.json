@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre beta, ladki ko saaf-suthra aur sajha hua rehna chahiye, par aajkal ki ladkiyan itna makeup kar leti hain ki asli chehra hi samajh na aaye. Aur bilkul kuch na lagao to bhi theek nahi lagta, log kahenge apna dhyan hi nahi rakhti. Sab cheez mein maryada achhi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women under a double bind: they must maintain attractiveness but not appear to try too hard. It encodes the makeup paradox through policing 'too much makeup' as deceptive while also criticizing women who do not groom enough.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

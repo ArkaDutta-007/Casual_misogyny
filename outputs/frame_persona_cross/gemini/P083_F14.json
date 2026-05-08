@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "You know, sometimes I just think about my mom. No matter how busy she was, or how tired after a long day, she would always make sure we had fresh, hot food on the table. And always with a smile! That dedication, that pure, selfless love through her cooking... that's truly irreplaceable. It's not just food, it's emotion. That's the real essence of home, that comfort only a mother's touch can bring. You can never put a price on that kind of nurturing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment glorifies a mother's domestic labor (cooking) and frames it as selfless love, not work, implicitly setting an unattainable standard for other women in the household. It erases the labor involved while attributing profound emotional value exclusively to 'a mother's touch,' encoding the 'Glorification of Mother's Sacrifices' manifestation.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gemini"
+}

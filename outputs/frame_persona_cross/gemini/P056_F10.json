@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I hear all the stories, and it's scary, but sometimes I feel like we generalize too much. Not all men are bad. My team at office has some really decent guys, it feels unfair to put everyone in the same bracket.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, coming from a woman, minimizes other women's concerns by directly invoking the 'not all men' argument. It challenges the generalization of male threat and uses her personal experience with 'decent' male colleagues to argue it's 'unfair' to all men, encoding generalization policing and an implicit 'good guys' exception.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gemini"
+}

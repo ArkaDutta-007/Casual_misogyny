@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal ki ladkiyon ko shaadi bhi security chahiye aur divorce mein bhi paisa chahiye. Agar khud 60 hazaar kama rahi hai toh maintenance kis baat ka? Ladkon ko ab shaadi se pehle bahut soch-samajh ke dekhna chahiye, warna seedha kanoon ka use karke aadmi ko hi phasa deti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes from a legal/financial grievance to 'aajkal ki ladkiyon' as a group and frames women as exploiting marriage and divorce laws for money. It encodes victimhood inversion, financial suspicion, and the idea that men need protection from women in marriage.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar company ko bhi sochna padta hai na. If they start giving period leave and then 6 months maternity leave on top, project allocation aur appraisals ka pura scene hil jaata hai. Fairness ka bhi point hai, men ke liye aisa koi buffer nahi hota but workload sabko cover karna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstrual and maternity accommodations as an unfair burden on workplaces and on men, presenting women as less reliable employees. It encodes reverse-discrimination and productivity/cost arguments against menstrual and maternity leave.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

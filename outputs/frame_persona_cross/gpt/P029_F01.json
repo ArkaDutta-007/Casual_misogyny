@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Yaar, I have no issue with helping genuinely, but these blanket period leave and long childcare leave policies create a practical problem in administration. In the end, project allocation and field responsibility suffer, and then appraisal parity is expected as if nothing changed.\nB: Haan, exactly.\nA: Matlab fairness ka question toh hai na — if one side gets repeated accommodation by policy, what is the answer to the men carrying the same workload without any such provision?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and childcare responsibilities as workplace liabilities and casts accommodations as unfair special treatment. It encodes the 'fairness' and productivity/cost surface manifestations without using overt abuse.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

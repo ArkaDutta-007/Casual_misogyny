@@ -1,0 +1,12 @@
+{
+  "persona_id": "P108",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: I told him clearly I am not interested, but he kept messaging.\nB: These boys don't listen to a girl saying no. Next time just say you're committed or married, then at least they will stop out of respect.\nA: Why should I have to say that?\nB: I know, but practically that works faster than explaining to them.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes men respecting a woman's unavailability to another man more than her own refusal. It encodes the surface manifestation that direct disinterest is ignored, but male attachment ('committed or married') is treated as the legitimate reason to stop pursuit.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Arey bhai, auraton se tameez se pesh aana chahiye. Woh bhi kisi ki maa hain, kisi ki behen hain. Unki izzat karni toh hamara farz hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment superficially advocates for respecting women but bases that respect entirely on their relational roles as someone's mother or sister, rather than acknowledging their inherent worth as individuals. This exemplifies the 'Respect women — they are someone's mother/daughter/sister' rhetoric and 'personhood erasure' surface manifestations.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gemini"
+}

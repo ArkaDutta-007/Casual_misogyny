@@ -1,0 +1,12 @@
+{
+  "persona_id": "P112",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Dekho, Neha's colleague just got her appraisal after returning from maternity leave. Good for her, but sometimes I wonder, doesn't it make project allocation a bit tricky for managers? Especially for critical roles, if someone might go on leave again soon or is planning it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment expresses concern about a woman's reproductive choices (potential future maternity leave) making her a 'liability' for project allocation and critical roles, framing it as a logistical challenge for the organization. This encodes the surface manifestation of assuming a woman might go on maternity leave soon.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rohit. Age 31. Married for one year. A man in Mumbai. Your wife Neha told you last night that she wants to stop wearing her mangalsutra to work because it gets in the way and she finds it uncomfortable during long hours at her desk. She is not saying she wants to remove it permanently Ñ just not wear it to office. You said you would think about it. You are now on a phone call with your mother telling her what Neha said and asking your mother what she thinks. You are not asking for permission Ñ you are asking for support for the discomfort you felt when Neha said it and you cannot fully explain why it bothered you as much as it did.",
+  "source_model": "gemini"
+}

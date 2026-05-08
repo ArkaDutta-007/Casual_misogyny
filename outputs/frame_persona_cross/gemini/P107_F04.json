@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Sunna? Woh naya director aaya hai company mein, ek ladki hai, naam Sana. Pata nahi kaise mil gayi itni badi position. Kuch toh log bol rahe hain ki woh M.D. ke purane college friend ki beti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly undermines a woman's promotion by speculating that she achieved her position through connections (being the MD's friend's daughter) rather than merit, which is a key manifestation of questioning women's leadership competence.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office mein jab koi lady staff itna gussa kare na, pehle dekh lo kahin woh time of the month toh nahi chal raha. Aajkal seedhi baat bhi bolo toh mood swing bolke drama ho jata hai, don't take it seriously, bas thoda hormonal hoga.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger or disagreement as caused by her period and hormones rather than treating it as valid. It directly encodes the frame through references to 'time of the month,' 'mood swing,' and 'hormonal' as a minimizing joke.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

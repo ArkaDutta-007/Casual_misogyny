@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, did you hear about Akash and that new girl from his project team? She totally knew he was married with two kids and ab ghar tod diya uska. Pata nahi kaise log hote hain.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it squarely blames the 'other woman' for an affair, labeling her a 'homewrecker' (ghar tod diya) who knowingly broke up a family, while completely absolving the married man. This reflects the surface manifestation of 'Blaming the female party in an affair for 'breaking' a family' and 'Calling the 'other woman' a homewrecker while excusing or sympathizing with the man'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gemini"
+}

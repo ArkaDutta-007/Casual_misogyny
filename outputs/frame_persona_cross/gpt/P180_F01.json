@@ -1,0 +1,12 @@
+{
+  "persona_id": "P180",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "In offices now, I feel they must think a little practically also. If every few months there is some special leave only for women, and then long maternity leave on top of that, naturally project planning and appraisals get affected no? Men are also working under the same pressure, so aise separate benefits sometimes look unfair to the team.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstrual and maternity-related accommodations as an unfair workplace burden and implies women are less reliable employees due to biology. It uses fairness and productivity language rather than insults, matching the covert bias pattern in this frame.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Sunita. Age 52. Married for 28 years. A woman in Chennai. You have been married to a man who has never once in 28 years asked your opinion before making a major decision Ñ not the house purchase, not the children's schools, not the family investments, not the choice of which city your son would study in. He is not cruel. He does not shout. He simply does not think to ask. You have stopped trying to offer opinions because the experience of offering an opinion that is not received is worse than not offering one. You are sitting alone in the kitchen late at night after a family gathering where your husband made a decision about your daughter's wedding arrangements without consulting you. Your daughter asked you later what you think. You are answering her.",
+  "source_model": "gpt"
+}

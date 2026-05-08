@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Dekhiye, aurat ki izzat karni chahiye, aakhir woh kisi ki beti, kisi ki bahu, kisi bachche ki maa hoti hai. Ghar aur samaj dono usi se tikte hain, isliye unko hamesha samman dena chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames respect for women through their roles in relation to family and male kin structures rather than as independent persons. It encodes the surface manifestation of 'kisi ki beti/bahu/maa' rhetoric and conditional respect based on relational identity.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

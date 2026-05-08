@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bhai honestly, Delhi mein practical rehna padta hai. Ladkiyan bhi thoda dhyaan rakhein na—late night akele mat niklo, random cabs mat lo, zamaana theek nahi hai. Har cheez society pe daalke kya fayda, apni safety bhi khud dekhni padti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes male violence as an unchangeable fact ('zamaana theek nahi hai'). It reflects the surface manifestation of advising women to restrict their movement rather than addressing predatory behavior.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

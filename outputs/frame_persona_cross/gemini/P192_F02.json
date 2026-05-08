@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Suresh (to a male colleague in the office pantry, chuckling): \"Arey chhod na yaar, Sunitaaji ko itna serious mat le. Woh toh har baat pe emotional ho jaati hain. Lagta hai unke 'mood swings' chal rahe hain aajkal. Bas, chill kar.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh dismisses a female colleague's emotions and reactions as 'mood swings,' implying they are irrational and hormonally driven, rather than valid. This aligns with characterizing a woman's frustration as 'hormonal' to dismiss it, using indirect cues like 'mood swings' and 'so emotional today'.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, woh ladki ko pata tha na ki aadmi shaadi-shuda hai, phir bhi itna close hona kya zaroori tha?\nB: Haan, bechare ka ghar hi kharab ho gaya.\nA: Bilkul serial wali baat hai, aisi auratein hi ghar tudwati hain. Mard kabhi kabhi behak jaate hain, par samajhdari toh aurat ko dikhani chahiye thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for the affair on the woman while excusing the married man as someone who merely 'got carried away.' It encodes homewrecker framing, seduction/blame asymmetry, and the idea that women are responsible for managing men's behavior.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience ka zamaana hai, but sach bolo toh maa ke haath ke khaane jaisi baat kabhi nahi aati. Ghar ko ghar wahi aurat banati hai jo bina hisaab ke sabka dhyaan rakhe, khana banaye, aur pyaar se parose — baaki sab cheezein second hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women primarily through unpaid domestic labor and frames cooking and self-sacrifice as what makes a home and a woman valuable. It encodes the 'maa ke haath ka khana' sentiment and sets a gendered expectation that a good woman should serve the family lovingly without recognition as work.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

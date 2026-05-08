@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "As a society, we must learn to respect women not just in words but in conduct, because every woman is someone's mother, daughter, wife, or sister. When we remember the sacrifices she makes for her family, dignity and care come naturally. That is the foundation of a truly cultured workplace and community.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's worth and entitlement to respect primarily through their relationships to others rather than as individuals. It encodes relational framing and sacrifice glorification, making the message sound respectful on the surface.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

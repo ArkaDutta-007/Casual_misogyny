@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Ramesh: Dekho ji, ladki ko samjhana padega ki zamaana theek nahi hai. Seedhi baat hai, shaam ke baad akeli ghoomna, idhar-udhar doston ke saath nikalna theek nahi hota.\nWife: Par har baat mein rok-tok bhi achchi nahi lagti.\nRamesh: Rok-tok nahi, uski bhalai ke liye bol raha hoon. Aajkal aadmi ka koi bharosa nahi, isliye ladki ko apna khayal khud rakhna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes male predatory behavior as inevitable ('aadmi ka koi bharosa nahi'). It uses protective, parental language to justify restricting a young woman’s movement rather than questioning men’s conduct.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

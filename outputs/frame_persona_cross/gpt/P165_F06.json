@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: I told her clearly I'm not interested, but she was still acting pricey. Then I just asked, \"Are you seeing someone?\"\nB: And?\nA: She said yes, so I said okay, fair enough, I respect that. If she's with someone, I won't interfere.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he does not accept the woman's direct refusal on its own, but treats another man's relationship with her as the legitimate boundary. It encodes the surface manifestation of ignoring her disinterest until learning she is 'taken,' framed as respectful behavior.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

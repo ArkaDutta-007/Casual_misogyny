@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Did you see Lakshmi from accounts? She rarely wears her mangalsutra, even after so many years of marriage. I mean, it's her personal choice, of course, but sometimes I just feel like... it just somehow completes a woman's look, doesn't it? It's such an important symbol for us, shows you're settled.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly pressures a married woman to wear traditional markers by framing it as 'completing her look' and a 'symbol' of being 'settled'. It uses the 'personal choice' defense to mask disapproval for non-wearing, which is a key manifestation of this misogyny frame.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

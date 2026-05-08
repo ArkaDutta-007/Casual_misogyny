@@ -1,0 +1,12 @@
+{
+  "persona_id": "P160",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "WhatsApp status: No five-star meal can match maa ke haath ka khana yaar. She cooked fresh food every single day with so much love and never made it feel like work — honestly that is what holds a family together. Whoever comes into a home as a wife should value that the same way, otherwise woh baat hi nahi aati.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a mother's unpaid domestic labor as love rather than work, and then extends that standard to wives. It encodes labor erasure, nostalgic praise of mothers' cooking, and implicit expectation that women sustain families through cooking.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gpt"
+}

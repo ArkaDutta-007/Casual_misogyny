@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal ke boys ko har baat pe gaali dene ki aadat ho gayi hai.\nB: Haan, but itna serious bhi mat lo. Hum log bhi business circle mein bol dete hain, it is just an expression, kisi ki maa-behen ko sach mein thodi bol rahe hain. Har word ka social lecture banaoge toh normal baat karna mushkil ho jayega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-family-based abusive language and explicitly defends it as 'just expression.' It encodes the frame's core surface manifestation: dismissing the misogynistic structure of common gaalis as harmless everyday speech.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gpt"
+}

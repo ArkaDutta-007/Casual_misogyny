@@ -1,0 +1,12 @@
+{
+  "persona_id": "P144",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Spoken conversation: A: Arre, merit se koi issue nahi hai, but aajkal senior roles mein optics bhi bahut chalta hai. B: She is capable, no doubt, but thoda quota advantage aur top management visibility mil jaye toh promotion fast ho hi jata hai. A: Aur waise bhi, usme woh soft leadership wali baat nahi hai, she thinks like a man, tabhi board ko suit karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it to quotas and optics rather than merit, and frames her competence as valuable only because she 'thinks like a man.' It encodes merit-undermining and masculinization in a corporate, plausible register.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "gpt"
+}

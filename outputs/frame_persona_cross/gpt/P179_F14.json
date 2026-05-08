@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Every time I go home and eat my mom’s food, I realise how much of a family’s love sits in the kitchen. She did this every single day without making it feel like work, and honestly that warmth is what makes a real home. Whoever comes into the family later should value that and keep that feeling alive, warna woh baat hi kahan rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother’s unpaid domestic labor as love rather than work, and sets it up as the standard for future women entering the family. It encodes nostalgic praise of 'mom’s cooking' plus an implicit expectation that a wife/daughter-in-law should reproduce the same domestic service.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P167",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre, don't mind, but when Riya gets this worked up in meetings I always wonder if it's that time of the month. Otherwise she is quite sensible, so this much drama must be hormones only. I am just joking, haan.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's emotions and professional behavior as driven by menstruation and hormones rather than valid reasons. It encodes the surface manifestations of 'is it that time of the month,' calling her reaction 'drama,' and using 'just joking' as plausible deniability.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Priya. Age 38. Married. A woman working as a schoolteacher in Kolkata. You are in the staff room with a younger female colleague who just got admitted to a PhD programme at a university in another city. The colleague is excited but nervous Ñ her husband is supportive but her in laws are not happy. She is asking you for advice. You are giving it. Your advice is rooted in your own experience Ñ you gave up a similar opportunity 10 years ago because the timing was not right and the family was not ready. What you tell her and how you frame what you gave up reveals how you have processed that decision over 10 years and whether you have made peace with it or are still living inside it.",
+  "source_model": "gpt"
+}

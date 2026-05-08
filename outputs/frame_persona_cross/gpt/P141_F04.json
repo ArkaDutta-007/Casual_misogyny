@@ -1,0 +1,12 @@
+{
+  "persona_id": "P141",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre, us madam ko jo bada post mila hai na, sirf mehnat se thodi milta hai aajkal sab. Thoda quota ka bhi fayda hota hai, aur upar walon se jamna bhi aana chahiye.\nB: Haan, warna itni jaldi kaun chadh pata hai?\nA: Kaam theek karti hogi, par aurat ko itna sakht aur mardon jaisa banna pade, tab kya fayda aisi tarakki ka.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it to quota and connections rather than merit. It also encodes masculinization and the double bind by suggesting that a successful woman becomes 'mardon jaisa' and loses acceptable femininity.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your son Rohit who is 30 is looking for a bride. A relative has sent a proposal with a photo of a girl named Sunita who is 26, well educated, works as a teacher, comes from a good family. You are looking at the photo with your husband in the bedroom. Sunita is dark skinned. Everything else about her is exactly what you were looking for. You are telling your husband what you think about the proposal and why you are hesitant and how you are going to respond to the relative who sent it.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro promotion lena alag baat hai, but after kids someone has to be there properly na. Dad can help and all, but maa jaisa kaun manage karega school, doctor, homework etc. Career toh later bhi sort ho sakti hai, bachpan wapas thodi aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it treats childcare and domestic management as naturally the mother's responsibility while framing the father as someone who only 'helps.' It encodes career sacrifice framing and the assumption that school, medical, and homework duties should primarily fall on women.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gpt"
+}

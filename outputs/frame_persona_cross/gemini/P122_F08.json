@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Dekho, main toh pehle se kehta tha, us Nita ko dekh ke hi lagta tha ki theek nahi hai. Pata tha na Rakesh bhai shaadi shuda hain, unki biwi-bachche hain. Phir bhi usne us bechare ko phasa liya. Aadmi toh thoda kamzor hota hi hai, par aurat ko toh akal honi chahiye na, ki aise kisi ka ghar nahi todte. Bilkul serialon wali baat hai, kya bolun ab.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh expresses clear blame asymmetry, framing Nita as the 'homewrecker' who 'trapped' Rakesh, while excusing Rakesh as 'weak'. He explicitly mentions she knew Rakesh was married and uses the 'serial wali baat' trope, which aligns with the Homewrecker Framing surface manifestations and linguistic cues.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gemini"
+}

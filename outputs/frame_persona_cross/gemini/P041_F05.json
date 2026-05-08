@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Dekh bhai, shaadi kar raha hai, good for you. Bas ek cheez ka dhyaan rakhna, aajkal ke laws na, especially 498A, itne one-sided ho gaye hain. Kitne cases dekhe hain maine jahaan ladkiyan bas 'settlement' ke liye shaadi karti hain, phansa deti hain. Pura career aur savings barbaad ho jaate hain ladke ke. Careful rehna thoda.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a 34-year-old engineer in Pune, frames marriage as a financial trap for men. It uses the India-specific context of IPC 498A, claiming women 'exploit' it for 'settlement,' which aligns with the 'women as golddiggers' and 'legal system biased against men' surface manifestations of this frame.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gemini"
+}

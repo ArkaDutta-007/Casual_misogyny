@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, it's a constant balancing act. Especially when the kids are little, you just naturally feel that pull, don't you? My husband is incredibly supportive, helps out a lot, but at the end of the day, it's different. A mother's bond is just unique, and sometimes you have to make choices, big or small, to be there for them. It's just how it is.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Priya, a working mother, expresses the internalized misogynistic belief that childcare is primarily a mother's natural domain, requiring her to make sacrifices. She frames her husband's contribution as 'helping' and emphasizes a 'unique mother's bond', encoding the surface manifestation of childcare as primarily a woman's responsibility.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gemini"
+}

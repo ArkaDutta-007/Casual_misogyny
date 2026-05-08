@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro the way she snapped in the meeting, felt like full PMS mode only 😅 Better not take any big decision when the mood swings start. Relax, just joking ra, don't take it so seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger in a meeting as caused by PMS and mood swings rather than treating her reaction as valid. It encodes the surface manifestations of attributing assertiveness to periods and using humor/'just joking' as plausible deniability.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gpt"
+}

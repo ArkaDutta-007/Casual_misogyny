@@ -1,0 +1,12 @@
+{
+  "persona_id": "P112",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Mom, you know Sameer from my office? His marriage broke. Pata hai kyun? That new girl, Rhea, the intern. Matlab, she knew he was married, sabko pata tha. Still, she kept lingering, getting too friendly. Bechara Sameer toh bas phass gaya, aur usne poora ghar barbaad kar diya.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the female intern (Rhea) entirely for the breakdown of a married man's (Sameer's) marriage, framing her as a 'homewrecker' who 'trapped' him, while portraying the man as a helpless victim. It encodes the 'Blaming the female party in an affair for 'breaking' a family' and 'Using 'seductress' or equivalent as the explanation for male infidelity' surface manifestations.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rohit. Age 31. Married for one year. A man in Mumbai. Your wife Neha told you last night that she wants to stop wearing her mangalsutra to work because it gets in the way and she finds it uncomfortable during long hours at her desk. She is not saying she wants to remove it permanently Ñ just not wear it to office. You said you would think about it. You are now on a phone call with your mother telling her what Neha said and asking your mother what she thinks. You are not asking for permission Ñ you are asking for support for the discomfort you felt when Neha said it and you cannot fully explain why it bothered you as much as it did.",
+  "source_model": "gemini"
+}

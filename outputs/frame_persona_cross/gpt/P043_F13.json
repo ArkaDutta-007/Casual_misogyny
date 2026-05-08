@@ -1,0 +1,12 @@
+{
+  "persona_id": "P043",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aajkal ki ladkiyon ka bhi samajh nahi aata, bahar jaayengi to itna makeup karke ki asli chehra hi pehchaan na aaye, aur ghar mein bilkul dhang se tayyar bhi nahi hongi.\nB: Haan, bas natural aur saaf-suthri lage, wahi kaafi hai.\nA: Bilkul, itna paint lagane se achhi ladki thodi lagti hai, ulta lagta hai impress karne ki bahut koshish hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: criticizing 'too much' makeup as deceptive or attention-seeking while still expecting women to look properly groomed and 'natural.' It encodes the makeup paradox and appearance obligation in a normalized, conversational way.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "gpt"
+}

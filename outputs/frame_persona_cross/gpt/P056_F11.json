@@ -1,0 +1,11 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, I get very uncomfortable when people say \"respect women\" in such a generic way. Why not respect them as full people first, instead of only when she is someone's mother, wife, or sister? A woman shouldn't need a relation to a man to be treated with basic dignity.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic because it explicitly rejects relational framing and affirms women as individuals. It directly counters the frame's surface manifestation of conditional respect based on roles like mother, wife, daughter, or sister.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

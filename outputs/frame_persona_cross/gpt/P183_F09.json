@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "WhatsApp to a younger cousin: \"Hey, just reached home? Please don't book cabs alone so late, okay. Delhi ho ya Chennai, zamaana theek nahi hai — girls have to be a little extra careful about where they go, what time, and all. I'm not blaming anyone, just being practical.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily their own responsibility and normalizes restricting their movement instead of focusing on male violence. It uses protective language ('zamaana theek nahi hai', 'just being practical') to encode victim-prevention advice as care.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gpt"
+}

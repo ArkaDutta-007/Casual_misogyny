@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolo, maa ke haath ke khane jaisi baat kahaan hoti hai. Poori zindagi ghar walon ke liye garam roti, tiffin, sab sambhala aur kabhi hisaab nahin rakha. Aaj kal ki bahu bhi agar thoda wohi pyaar se ghar ka khayal rakhe, toh ghar ghar jaisa lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it idealizes a woman's value through unpaid cooking and self-sacrifice while presenting it as love rather than labor. It also sets an implicit standard for daughters-in-law/wives to reproduce the mother's domestic service.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

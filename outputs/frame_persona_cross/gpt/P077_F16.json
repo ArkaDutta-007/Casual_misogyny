@@ -1,0 +1,12 @@
+{
+  "persona_id": "P077",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Meena: Nowadays girls can work, no problem, but house responsibility should still be with the woman only. Men are anyway better at outside matters, money and all that; if he helps sometimes in the kitchen, that itself is very good. Why disturb the whole setup when each person already has their practical role?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and efficient rather than unequal. It encodes the surface manifestations of 'he handles outside/finances, she handles home' and praising minimal male domestic contribution as exceptional.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gpt"
+}

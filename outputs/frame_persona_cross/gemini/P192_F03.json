@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Priya, beta, achhi baat hai tum job kar rahi ho abhi. Par shaadi ke baad jab bachhe honge na, tab sabse pehle unka dekhna padega. Office toh chalta rahega, par bachpan wapas nahi aata, aur maa ki jagah koi nahi le sakta. Thoda toh sacrifice karna hi padega, tabhi ghar theek se chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the idea that child-rearing is primarily the mother's responsibility, implying she must sacrifice her career for it. It uses the 'maa ki jagah koi nahi le sakta' (no one can take a mother's place) and 'bachpan wapas nahi aata' (childhood doesn't come back) tropes to guilt the daughter into prioritizing childcare over career, which is a surface manifestation of expecting the mother to sacrifice career for family.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gemini"
+}

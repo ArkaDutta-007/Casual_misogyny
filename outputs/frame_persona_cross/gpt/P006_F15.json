@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Bhai honestly, sindoor ya mangalsutra se married women thodi more settled and proper lagti hain, it's just part of our culture. Choice unki hai obviously, but aajkal bilkul bhi na pehne toh thoda odd lagta hai yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that married women should visibly display marital markers to appear 'proper' or culturally acceptable. It encodes completeness/tradition framing and mild judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

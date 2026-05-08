@@ -1,0 +1,12 @@
+{
+  "persona_id": "P118",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Rajan: Main bas itna kehta hoon, beti ho ya bahu, aajkal zamaana theek nahi hai. Itni raat ko akeli ghoomne, cab se idhar-udhar jaane se bachna chahiye, phir baad mein sawaal bhi wahi uthte hain ki akeli kyun thi. Wife: Haan, samjha do pyaar se, bura maan jaati hain aajkal. Rajan: Bura maanne ki baat nahi, practical baat hai, apni safety ka dhyan ladkiyon ko khud hi rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes restricting their movement instead of questioning male violence. It uses protective language like 'zamaana theek nahi hai' and victim-questioning such as 'akeli kyun thi,' which are classic surface manifestations of this frame.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rajan. Age 55. Married. A retired government officer in Lucknow. Your daughter Priya who is 28 and lives in Delhi just called to tell you she has decided not to change her surname after her upcoming marriage and will keep her name professionally and personally. She says her husband to be is fine with it. You said okay on the phone. But you are not okay. You are now talking to your wife in the bedroom after the call. You are telling her what Priya said and what you think it means and what people will say and whether her husband to be is really fine with it or just saying so and what a woman who does not take her husband's name is signalling about how she sees her marriage.",
+  "source_model": "gpt"
+}

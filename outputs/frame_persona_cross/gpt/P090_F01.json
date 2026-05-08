@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I do feel for women, but in school also someone has to take those classes na. If every few months there is menstrual leave and then long maternity leave, management will naturally think twice before giving key responsibilities to younger women teachers. Aise mein appraisal and workload fairness ka question toh aata hi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity-related leave as a workplace liability and rationalizes excluding younger women from key responsibilities. It uses fairness/productivity language and the assumption that women will take leave, matching the frame’s covert policy-concern manifestation.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

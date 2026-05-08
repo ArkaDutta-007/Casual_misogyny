@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Sun na, woh news mein aaya tha na, us ladki ke saath kitna bura hua. Main toh hamesha Ritika ko bolti hoon, beta, aise akele itni raat ko mat nikla kar. Zamaana bohot kharab hai aajkal, aurat ko apna dhyaan khud hi rakhna padta hai. Humari generation mein aisa nahi tha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly blames the victim by advising 'don't go out alone so late' and 'women have to take care of themselves,' framing it as practical advice due to 'zamaana kharab hai.' It encodes the surface manifestation of advising women not to be out late rather than addressing male violence, and the core belief that safety is a woman's personal responsibility.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gemini"
+}

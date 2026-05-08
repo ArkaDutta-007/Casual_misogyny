@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab bolte hain modern bahu chahiye, job bhi kare aur sab freedom bhi ho. Par ghar ki asli garmahat toh maa ke haath ke khane se hi aati hai, woh pyaar aur sehaj se roz sabko khilana har kisi ke bas ki baat nahi. Meri maa ne kabhi isse duty nahi samjha, apna farz aur pyaar samjha, tabhi ghar ghar lagta tha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a woman's value through self-sacrificing domestic labor and frames cooking as loving duty rather than work. It also sets an implicit standard for wives/daughters-in-law by contrasting 'modern bahu' with the mother who keeps the home together through daily cooking.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

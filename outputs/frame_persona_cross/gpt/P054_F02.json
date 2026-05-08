@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Team, before we continue this discussion, let us all keep the tone balanced and practical. Sometimes these reactions seem more emotional than the issue really warrants—perhaps best not to take major calls when people are in that kind of mood. Please don't take this personally, I am only saying we should stay rational.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames certain reactions as emotional and irrational in a way that implicitly draws on stereotypes about women being hormonally driven. It encodes the surface manifestation of dismissing women's frustration as 'emotional' and less valid while maintaining plausible deniability through professional language.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

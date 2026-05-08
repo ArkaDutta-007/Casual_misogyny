@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Arre, yeh toh common baat hai. Jab se bahar nikli hai, ghar toh thoda affect hoga hi. Sach kahun toh, maa ke haath ka khana jo hota hai na, woh sirf swaad nahi hota, usme pyaar aur mamta hoti hai. Meri mummy bhi kehti thi, 'beta, ghar ki ronak aur shanti kitchen se shuru hoti hai.' Hamari generation ne toh dekha hai, kitni mehnat se sab karti thi, kabhi complain nahi kiya. Woh dedication aajkal kahan dikhti hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it glorifies a mother's domestic labor (specifically cooking) as an act of pure love and sacrifice, erasing its recognition as work. It sets an idealized, unattainable standard based on past generations' women ('maa ke haath ka khana', 'kabhi complain nahi kiya') and implicitly criticizes 'aajkal ki' working women/daughters-in-law for not matching this standard, implying a deficiency in their love or dedication if the household is 'affected'.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gemini"
+}

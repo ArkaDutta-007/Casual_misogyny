@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Machan, some girls actually look much more decent and graceful in saree or salwar only. These super-modern outfits may be trendy, but then people will obviously form a certain impression la, can't blame culture for that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing to respectability and implies that non-traditional dress invites judgment. It encodes the 'traditional = decent' framing and subtly blames women for others' reactions to their clothes.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

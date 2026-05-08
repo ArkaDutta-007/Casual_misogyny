@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Why is she getting so worked up in a basic review meeting yaar 😅 feels like full PMS mode today. Don’t take it seriously, kal tak normal ho jayegi, I’m just joking.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's workplace reaction by attributing it to PMS and hormones rather than treating her concern as valid. It uses humor framing ('I’m just joking') and the 'PMS mode' stereotype to normalize the insult.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Yaar, I don't get why people make such a big deal. BC/MC type words are just expressions, like sab bolte hain. It's not like we're actually abusing someone's mom or sister, it's just a default reaction. Like, chill.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment dismisses the misogynistic nature of common gaalis by normalizing their use ('sab bolte hain'), claiming they are 'just expressions,' and denying any actual intent to demean women. This directly reflects the 'defending gaali use as 'just expression, not actually about women'' surface manifestation from the frame.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gemini"
+}

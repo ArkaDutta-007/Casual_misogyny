@@ -1,0 +1,10 @@
+{
+  "persona_id": "P059",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Dekha tumne uska kapda? Indo-western, indo-western! Saree pehenke aana tha na, pehli baar mil rahi thi hamare parivaar se — itna bhi nahin pata usse? Delhi mein rehke ladkiyaan bhool jaati hain ki ghar-gharaana kya hota hai. Mujhe darr hai, yeh ladki hamare ghar ka mahaul sambhal payegi ki nahin — jo bahar dikhta hai, wahi andar hota hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames a woman's clothing choice as a reliable indicator of her character, domesticity, and fitness as a daughter-in-law, encoding the 'dress code as moral barometer' trope. It is covert because it presents itself as reasonable cultural concern and intergenerational wisdom rather than explicit hostility, while implicitly policing female behaviour through traditional dress norms.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "claude"
+}

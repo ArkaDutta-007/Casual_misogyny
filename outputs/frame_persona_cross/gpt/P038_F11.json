@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Arre, aurat ko izzat dena chahiye, aakhir woh kisi ki beti, kal kisi ghar ki bahu aur maa banti hai. Jo aurat ghar sambhalti hai, bachche palti hai, uska darja alag hi hota hai. Aajkal ke ladke bhi samjhen, biwi sirf aurat nahin hoti, poore ghar ki laaj hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman's worth and respect entirely through her roles in relation to family—daughter, wife, mother—rather than as an individual person. It encodes relational framing and conditional respect based on service to male kin structures and the household.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

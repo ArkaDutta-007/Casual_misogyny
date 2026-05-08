@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, sach bataun, mujhe toh woh natural beauty hi zyada pasand aati hai. Meri wife bhi bolti hai, 'Deepak, tumko toh bina makeup wali ladkiyan hi achi lagti hain.' Pata nahi yeh itna sab lagane ki kya zaroorat hai, asli chehra toh sabse best hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a middle-aged married businessman, covertly expresses misogyny by stating a 'preference' for 'natural beauty.' It implies that visible makeup is unnecessary and devalues a woman's true appearance, aligning with 'she looks better without makeup' and 'natural > artificial' cues. It subtly polices female grooming by framing makeup as something not needed.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gemini"
+}

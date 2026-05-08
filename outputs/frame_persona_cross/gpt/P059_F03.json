@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Kamala: Arre beta, naukri apni jagah theek hai, par bachcha ho jaaye na, toh maa ko hi sambhalna padta hai. Baap log thoda bahut madad kar dein toh log tarif karte hain, lekin bachche ki parvarish ka asli dhyan toh aurat ko hi rakhna chahiye.\nSister-in-law: Haan, aaj kal ki ladkiyan career mein itni lag jaati hain.\nKamala: Bas wahi, bachpan wapas thodi aata hai, naukri toh baad mein bhi ho sakti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary duty and treats a father's involvement as optional 'help.' It encodes career sacrifice framing and the belief that women should prioritize childrearing over work.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

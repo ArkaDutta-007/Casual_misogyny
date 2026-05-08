@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre bhai, aajkal ke boys bhi har baat pe language police ban jaate hain. Hum log jo common gaali bol dete hain, uska matlab thodi kisi ki maa-behen se hota hai, it's just expression in anger. Itna serious loge toh aadmi seedha baat bhi na kare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-relative-based abusive language as harmless 'just expression' and dismisses concerns about its gendered structure. It encodes the meta-defense that such gaalis are not really about women, even though they rely on women’s bodies/relations as insult material.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

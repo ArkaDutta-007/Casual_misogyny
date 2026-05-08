@@ -1,0 +1,10 @@
+{
+  "persona_id": "P130",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Mummy, yaar, mera flat ka haal mat पूछो. Kitchen toh bas showpiece ban gaya hai. Pata hai, washing machine bhi mujhe operate karna nahi aata. Roz food order kar raha hoon, time hi nahi milta inn sab ke liye. Ghar pe toh aap sab dekh leti thi na, ab yahan akele sab kitna impractical lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The character expresses helplessness with domestic chores, framing his inability to manage them as a lack of time and an 'impracticality' when he has to do it alone, contrasting it with his mother's traditional role of 'taking care of everything'. This subtly reinforces the gendered expectation that women handle domestic tasks, and implies that men doing them is not 'practical'.",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gemini"
+}

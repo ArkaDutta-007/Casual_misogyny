@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A woman should always be treated with respect, beta, especially when you remember she is someone’s daughter today and tomorrow the mother of your children. In our society, that place is very high, and a sensible man never forgets the dignity of the women who hold a family together.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman’s worth and dignity primarily through her roles in relation to men and family, not as an individual person. It encodes relational framing and respect based on daughter/wife/mother status.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Dekho, main toh seedhi baat karta hoon. Jab hamari ladkiyan saree ya salwar suit mein nikalte hain, toh ek alag hi garima aur respect dikhti hai. Aur jo protection ka mahaul hota hai na, woh bhi alag. Agar sab thoda maryada mein rahen, toh yeh faltu ke comments aur incidents apne aap kam ho jayenge. Hamari sanskriti mein hi sabse accha solution hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak's comment subtly links traditional attire ('saree ya salwar suit') to 'garima aur respect' and also implicitly attributes harassment ('faltu ke comments aur incidents') to women not dressing 'maryada mein' (decently), framing it as cultural wisdom rather than policing.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "As a father of a daughter, I always say this only out of concern: the world is not ideal, and we have to live practically, not emotionally. If a girl is travelling alone late at night, going to isolated places, or not being careful about the kind of crowd around her, then naturally the risk increases. Instead of only blaming society after every incident, families should also teach girls basic discipline, timing, and safety habits because zamaana theek nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and shifts focus from male violence to women’s behavior, movement, and 'discipline.' It encodes protective framing, restriction advice, and inevitability framing ('zamaana theek nahi hai').",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

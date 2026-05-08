@@ -1,0 +1,12 @@
+{
+  "persona_id": "P153",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, I think people are overthinking this. These words are often just expressions of frustration, not literal statements about anyone's mother or sister, and in every college and office group people say them casually. We can certainly encourage better language, but treating every such word as deep misogyny feels excessive.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/family-based abusive language and defends it as 'just expression' rather than acknowledging its gendered structure. It encodes the surface manifestation of dismissing common gaalis as harmless and telling others they are taking it too seriously.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

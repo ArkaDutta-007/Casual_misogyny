@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Rahul: Arre yaar, in most homes jo jahan better ho wahi handle karta hai. Husband financials, bills, outside ka kaam dekh leta hai, wife ghar aur khana sambhal le toh life sorted rehti hai.\nFriend: But both are working now, no?\nRahul: Haan, but practical bhi toh hona chahiye na. Matlab main cook kar lunga if needed, but daily home management women naturally better kar leti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as 'practical' and claims women are inherently better at domestic management. It encodes the efficiency framing and the 'he helps if needed' helper-versus-co-manager dynamic.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

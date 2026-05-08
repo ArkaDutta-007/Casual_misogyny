@@ -1,0 +1,12 @@
+{
+  "persona_id": "P115",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Meena: Aajkal ki ladkiyan jo bhi pehen lein, par sach bolo toh saree ya salwar mein hi ladki ki sobha aur decency dikhti hai. Ye western kapde thode theek lagte hain ghar ke bahar, phir log ulta-seedha dekhte bhi hain toh bura bhi lagta hai. \nHusband: Haan, pyaar se samjha dena chahiye, hamare yahan thoda sabhya rehna hi achha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and 'decency' to traditional clothing and subtly blames unwanted male attention on western dress. It encodes the traditional-equals-respectable frame and the harassment-blame link in an elder family conversation.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Meena. Age 54. Married for 28 years. A homemaker in Jaipur. Your son Karan who is 29 just got married to a girl named Ritu who is from Delhi. Ritu is a working professional and seems confident and modern. At the wedding Ritu wore sindoor and the mangalsutra but since coming to your house she has only worn the mangalsutra Ñ no sindoor on most days. You have not said anything to Ritu. But you are sitting with your husband at night after Ritu and Karan have gone to their room. You are telling your husband what you have observed and what it means and what you think needs to be said and by whom.",
+  "source_model": "gpt"
+}

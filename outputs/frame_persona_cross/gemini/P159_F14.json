@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj bhi woh maa ke haath ka khaana yaad aata hai, yaar! Meri Maa ne toh bina thake, bina kisi complaint ke, humesha garma garam khana banaya, chahe kitni bhi der ho gayi ho. Us pyar aur swaad ki toh baat hi alag thi. Ab toh sab convenience aur ready-made pe aa gaya hai. Kahan woh din, kahan ab? Maa jaisa koi nahi banata, sach mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, styled as a nostalgic reflection or WhatsApp forward, glorifies the mother's domestic labor (cooking) as an act of pure, tireless love, erasing its nature as work. It implicitly compares modern domestic practices (convenience food) unfavorably to the mother's standard, setting an unattainable ideal rooted in sacrifice and unpaid labor for women.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gemini"
+}

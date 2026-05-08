@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Kamala: Aaj kal ke ladke bhi na, ladki mana kare tab bhi pichhe pade rehte hain. Par bas itna sun lo ki uska koi ladka hai ya ghar wale rishta pakka kar chuke hain, tab turant hat jaate hain.\nSister-in-law: Haan, tab samajh aata hai unko?\nKamala: Aur kya, ladki ki baat ka itna maan kahan, par kisi aur ka haq samajh mein aa jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes the idea that men respect another man's claim or a formal family arrangement more than a woman's own refusal. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken' or that a male/family claim exists.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

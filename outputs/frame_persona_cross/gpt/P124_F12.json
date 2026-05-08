@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, people are over-intellectualizing this now. In normal male banter, these common abuses are just expressions of frustration, not some deep statement about women or mothers. Harsh language is one thing, but taking every word literally and making it a gender debate is unnecessary.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-body and mother/sister-rooted abusive language as harmless 'male banter' and dismisses concern about its misogynistic structure. It encodes the 'it's just a word' defense and refusal to recognize how such slang relies on degrading femininity.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

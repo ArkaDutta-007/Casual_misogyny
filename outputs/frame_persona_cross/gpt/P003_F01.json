@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Arre bhai, business aise thodi chalta hai. Har cheez ka cost factory ko bear karna hai, aur phir bolte hain equal opportunity.\nB: Haan, par leave dena toh zaroori hai na?\nA: Zaroori hoga, but phir hiring time pe koi bhi sochega hi ki young lady ko lo aur kal maternity, period leave, sab manage karo — production line mein fairness kaun dekhega men ke liye?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker frames women as a business liability due to menstrual and maternity leave, presenting it as a fairness and cost concern rather than explicit hostility. It encodes economic framing, reverse discrimination ('what about men'), and assumptions about hiring young women as risky.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

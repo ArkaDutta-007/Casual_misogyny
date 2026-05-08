@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi business deal jaisi ho gayi hai, bhai. Jab tak sab theek hai tab tak husband achha, aur problem aayi toh seedha alimony, 498A, maintenance — mard hi ATM ban gaya. Isiliye main bolta hoon, aajkal ke ladkon ko bahut sambhal ke shaadi karni chahiye, sabko sirf stability nahi, settlement bhi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially exploitative in marriage and divorce while framing men as the real victims. It encodes victimhood inversion, suspicion of women's motives, and invokes the '498A misuse/one-sided laws' trope.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gpt"
+}

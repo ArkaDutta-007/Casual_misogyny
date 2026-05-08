@@ -1,0 +1,12 @@
+{
+  "persona_id": "P132",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Suno, apni Priya jab gaon aayi thi, woh jo salwar-suit pehna tha usne, kitni sundar aur sabhya lag rahi thi. Sach mein, Indian kapdo mein ladkiyan zyada achhi lagti hain, aur log bhi respectable nazar se dekhte hain. Shehar mein toh sab jeans-top mein ghoomti hain, phir log gande comment karein toh bolte hain galat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment praises the daughter's appearance in traditional Indian wear, linking it to being viewed with 'respectable nazar'. It then subtly shifts blame to women who wear Western clothes for inviting 'gande comment', encoding the belief that non-traditional dress invites reduced respect and commentary.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gemini"
+}

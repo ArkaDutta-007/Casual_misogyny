@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, women should always be respected, macha — after all every woman is someone’s mother, wife, daughter or sister. When we see them that way, automatically we will value what they go through more.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it grounds women’s worth and respect in their relationships to others rather than their own personhood. It uses relational framing ('mother, wife, daughter or sister') to present conditional respect as pro-woman.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

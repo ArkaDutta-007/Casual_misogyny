@@ -1,0 +1,12 @@
+{
+  "persona_id": "P175",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, suni woh office mein Rahul ka kya scene chal raha hai? Uski secretary ne poora ghar tod diya hai uska. Pata nahi, sharam nahi aati aise logon ko, shaadi-shuda aadmi ko phasaya hai. Bechara Rahul toh fass gaya uske chakkar mein.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it completely blames the 'other woman' for an affair, labeling her a 'homewrecker' and 'seducer' ('phasaya hai'), while portraying the married man as a victim ('bechara Rahul toh fass gaya'), directly aligning with the Homewrecker Framing/Women as Seductresses trope.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Deepak. Age 42. Married. A man in Delhi. You and your wife are at a car dealership. You are buying a new car Ñ it is a joint family purchase and your wife also drives and commutes daily. The salesman has been directing all his explanations, all his technical details, all his questions exclusively to you for 40 minutes even though your wife has asked three specific questions that he has answered briefly before turning back to you. You are not stopping this from happening. You are participating in it. What you say and do not say during this process reveals your own comfort with an arrangement that erases your wife from a decision that is also hers.",
+  "source_model": "gemini"
+}

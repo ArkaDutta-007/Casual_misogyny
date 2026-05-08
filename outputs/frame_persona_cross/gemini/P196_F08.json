@@ -1,0 +1,12 @@
+{
+  "persona_id": "P196",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Vikram: Yaar, suna hai Sameer aur uski wife ka divorce ho raha hai. \nFriend: Achha? Kya baat ho gayi?\nVikram: Kya baat hogi, woh office mein ek nayi ladki aayi hai na, Riya. Usne hi Sameer ko phasa liya. Sabko pata tha woh married hai, do bacche hain, phir bhi... bilkul serial type character hai woh. Ghar todne wali.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Vikram blames 'Riya' entirely for the divorce, framing her as a 'homewrecker' ('ghar todne wali') and a 'seductress' who 'trapped' Sameer ('usne hi Sameer ko phasa liya'). He emphasizes she knew Sameer was married and had children, excusing Sameer's role and portraying Riya as a villain from a TV serial. This exemplifies blame asymmetry and seduction framing.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "gemini"
+}

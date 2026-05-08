@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly in most homes it just works better this way no? If both people are working, someone has to properly manage the house, food, all that, and usually women are just better at those details while men handle the outside stuff and finances. My friend keeps praising her husband because he makes Maggi twice a week like he's some super modern pati 😅",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes women as inherently better suited for domestic management and men for finances/external tasks, framing it as practical rather than unequal. It also encodes the low bar/celebration of minimal male contribution ('super modern pati').",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gpt"
+}

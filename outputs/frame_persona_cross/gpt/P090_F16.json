@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in our house we just do what is practical. My husband handles the bank work, bills and anything outside, and I manage the cooking, child and daily running of the home. He does help sometimes, of course, but some roles come more naturally to men and some to women.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it presents a gendered division of labor as natural and efficient rather than socially enforced. It encodes the 'he handles finances, she handles home' pattern and the 'he helps' framing instead of equal co-management.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

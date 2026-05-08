@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I told him quite clearly I was not interested, but he kept insisting he only wanted to talk. The moment he asked whether I was married and I said yes, he immediately stepped back and said, 'Oh, then I respect that.' Apparently my own no was not enough, but a husband's place was.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This depicts misogyny through the idea that a woman's refusal is negotiable until a male attachment is revealed. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken,' not when she directly said no.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

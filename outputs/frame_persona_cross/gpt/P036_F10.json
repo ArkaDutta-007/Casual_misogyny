@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Social media post: Every time women talk about safety online, it turns into \"men are the problem\" as if all of us are the same. I'm a 41-year-old professional, I have sisters and a daughter in my family, and main toh kabhi aisa soch bhi nahi sakta—so why should decent men be looked at with suspicion in every lift, cab, or office corridor? Fairness has to go both ways; men also deal with risk, but nobody says \"all women\" for that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and demands women stop generalized caution, instead of acknowledging why women fear men in public spaces. It encodes the 'not all men' dismissal, self-identification as a 'good guy,' and the deflection to men's safety.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

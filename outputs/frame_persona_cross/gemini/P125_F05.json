@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Anita: Sach kehti hoon, aajkal ke ladkon ko bohot hoshiyari se shaadi karni chahiye. Har ladki pyaar nahi dekhti, kuch ko toh bas security chahiye hoti hai, aur paise. Aur agar baat divorce tak pahunch jaaye na, toh saare laws auraton ke favour mein hi hain. Bechare ladke toh phas jaate hain bas.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment suggests that modern women marry for 'security and money' rather than 'love,' implying they are golddiggers. It also frames divorce laws as one-sided and biased against men, leading to men being 'trapped,' which is a manifestation of alimony/prenup as reverse dowry.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gemini"
+}

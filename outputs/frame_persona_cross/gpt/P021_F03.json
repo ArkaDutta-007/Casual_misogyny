@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, ambition is fine, but once kids come into the picture someone has to be the default parent, and let's be real, in most cases that's the mother. Fathers can help, of course, but school runs, doctor appointments, all that needs a certain consistency only the mother usually brings.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and emotional labor as primarily the mother's responsibility while framing fathers as merely 'helping.' It encodes the surface manifestations of assuming the mother will handle school and doctor duties and treating paternal involvement as exceptional rather than expected.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

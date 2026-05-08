@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre promotion is great, but once kids come na, priorities naturally change for the mother. Office toh manage ho jayega somehow, but school, doctor, homework and all mostly maa ko hi dekhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it treats childcare and domestic responsibilities as naturally the mother's duty, while assuming the father's role is secondary. It encodes the surface manifestation of expecting women to sacrifice or deprioritize career once children arrive.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Hamari sanskriti mein jo pehnaave ki maryada hai, woh alag hi baat hai. Ab dekho, Miss Saxena ko hi, jab woh saree mein hoti hain toh kitni dignified lagti hain. Yeh jo aajkal ki ladkiyan jeans top pehen ke ghoomti hain, log kahan unhe utni izzat dete hain? Aur phir kehte hain ki galat nazar se dekhte hain, par bhai, khud bhi toh thoda sochna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak praises a female teacher for wearing a saree, linking it to dignity and respect ('dignified', 'izzat'). He then criticizes women wearing 'jeans top', suggesting they receive less respect and subtly blaming them ('khud bhi toh thoda sochna chahiye') for negative attention ('galat nazar'), encoding the idea that traditional dress equates to respectability and safety, while modern wear invites problems.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gemini"
+}

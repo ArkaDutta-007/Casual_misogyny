@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have safety concerns, but yaar every time someone says men are the problem, it feels unfair to guys who have never done anything. Not all men are like that, and honestly treating every male colleague or stranger with suspicion is also not right.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts focus from women's safety concerns to men's hurt feelings and demands women reduce their wariness to avoid seeming unfair. It encodes the 'not all men' dismissal and frames women's caution around men as irrational generalization.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

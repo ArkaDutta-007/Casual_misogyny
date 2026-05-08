@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Dekho bhai, hamare office mein bhi ek senior manager hai, lady. Kaam accha karti hai, I'll give her that. Par sach bataun, she thinks like a man, bilkul practical. Tabhi toh itni upar tak pahunchi hai, warna iss line mein ladies ke liye mushkil hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it attributes a woman's success in a leadership role to her 'thinking like a man,' subtly implying that 'feminine' thinking is not conducive to competence and leadership. It encodes the 'masculinization' surface manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gemini"
+}

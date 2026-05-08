@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "I am not blaming anyone, but girls also need to understand Bengaluru is not the same at 11 pm. If you dress decently and keep some maryada, naturally unwanted attention reduces. Our Indian girls look best in simple, respectable clothes only, this western style sends the wrong message to the wrong people.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's clothing as responsible for harassment and ties 'decency' and 'maryada' to traditional dress. It encodes victim-blaming and the belief that western clothing signals questionable character or invites male attention.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

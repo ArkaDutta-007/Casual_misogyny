@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Ammi ke haath ke khane ki baat hi alag thi, roz itne saalon tak sabki pasand yaad rakh ke bina thake bana deti thi. Ghar ki aurat ka asli pyaar wahi hota hai beta, khane mein dikh hi jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a woman's love and value through sustained domestic labor, especially cooking, and presents that as the standard for women in the household. It encodes glorification of maternal sacrifice and labor erasure by treating daily cooking as natural love rather than work.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gpt"
+}

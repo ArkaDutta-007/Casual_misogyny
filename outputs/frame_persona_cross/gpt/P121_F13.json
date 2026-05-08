@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Rahul: I honestly prefer women who keep it natural, yaar. Office mein also some people do so much makeup that it feels a bit fake, but then if someone completely stops taking care of herself everyone notices that too.\nFriend: Haan, balance chahiye basically.\nRahul: Exactly, look presentable no, but all that contour-filter type thing is too much and then guys see the real face later and feel misled.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it enforces a double bind: women must remain attractive and 'presentable' but are judged as fake or deceptive if visible makeup is used. It encodes the 'natural beauty' preference, excess-policing, and deception/catfishing framing from the makeup paradox.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

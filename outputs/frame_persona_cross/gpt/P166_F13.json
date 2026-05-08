@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, aajkal kuch ladkiyan itna makeup kar leti hain ki asli chehra hi samajh nahi aata. Seedhi si, natural rehne wali zyada achchi lagti hai, lekin bilkul apna khayal bhi na rakho to phir bhi theek nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats women’s appearance as something to be constantly judged and managed for others, creating a double bind. It encodes both poles of the frame: criticizing 'too much makeup' as deceptive while also implying women must still maintain their looks.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

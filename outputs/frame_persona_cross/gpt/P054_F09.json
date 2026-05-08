@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Please don’t take this the wrong way, but these days we have to be practical. If any of you are working late, kindly avoid travelling alone, dress modestly, and make sure a family member or trusted colleague knows your whereabouts — the world is not safe for women, and prevention is always better than regret.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and places restrictions on their dress and movement instead of addressing male violence. It uses protective, practical language to normalize advising women not to travel alone and to dress 'modestly'.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

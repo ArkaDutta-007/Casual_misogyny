@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre bhai, aajkal company mein koi bhi madam thodi si upar chadh jaaye na, turant bolte merit. Par seedhi baat hai, quota ka bhi fayda hota hai aur senior ke saath setting bhi hoti hai kai baar.\nB: Haan, aur jo sach mein kaam ki hoti hai na, woh bhi bilkul mardon jaisi ho jaati hai, tab jaake log usko seriously lete hain.\nA: Bas wahi to, normal tareeke se rehne wali aurat ko itni badi zimmedari de dein, phir bolte performance kyon down hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's merit by attributing promotion to quotas or favoritism and frames competence as becoming 'like a man.' It encodes merit-undermining, masculinization as backhanded praise, and the double standard that 'normal' femininity is incompatible with leadership.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gpt"
+}

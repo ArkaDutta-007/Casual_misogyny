@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I don't chase anyone after she says no, but honestly half the time it's just attitude till you find out she's already with someone. If she's taken, fair enough, I back off out of respect for that guy. Otherwise this whole cold behaviour for no reason is just weird.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats the woman's refusal as less legitimate than another man's claim over her. It encodes the surface manifestation of ignoring or doubting direct disinterest, then framing withdrawal as respect only once she is known to be 'taken.'",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

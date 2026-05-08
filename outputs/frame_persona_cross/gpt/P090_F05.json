@@ -1,0 +1,12 @@
+{
+  "persona_id": "P090",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, these days I tell even my younger male cousins to be very careful before marriage. So many cases you hear where after divorce the man keeps paying and the woman walks away with security as if marriage was an investment plan; even 498A gets used as pressure in some families. We keep talking about women's safety, but nobody wants to admit that men also need protection from one-sided laws.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially exploitative and frames legal protections/alimony as unfair tools used against men. It encodes victimhood inversion, 'one-sided laws' framing, and suspicion of women seeking financial support after marriage.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Priya. Age 34. Married with one child. A woman working as a schoolteacher in Kolkata. You are on a phone call with your mother after a difficult day. You have been struggling with whether to have a second child. Your husband wants one. Your mother is asking you what is taking so long. In the conversation your mother says things that reveal her deep belief that a woman's worth in the family and community is directly tied to how many children she has and how completely she has given herself to motherhood and that your hesitation is a sign that you are not thinking about the right things.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, people need to remember who they're talking about when they casually disrespect women. Every woman is someone's daughter, someone's sister, someone's mother. Their tireless sacrifices to hold families together and nurture the next generation are what truly deserve our utmost respect. Don't forget that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while appearing to advocate for respecting women, bases that respect entirely on their relational roles (daughter, sister, mother) and their sacrificial contributions to the family, thereby reducing their individual identity to service within male kin structures. This is a surface manifestation of 'respect women — they are someone's mother/daughter/sister' rhetoric.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

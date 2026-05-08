@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Pooja ki baat kar rahi thi. Sach mein, uski jitni tareef karo kam hai. Office bhi sambhalti hai aur ghar aakar bachchon ko bhi dekhti hai, sasural ka bhi pura khayal rakhti hai. Dekho, ek aurat ki asli shakti toh maa banne ke baad hi dikhti hai. Ghar-parivar ko jo jod ke rakhe, wahi toh asli devi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment praises a working woman but attributes her 'true strength' and 'goddess-like' quality primarily to her role as a mother and caregiver to her family, explicitly stating 'a woman's true strength shows only after she becomes a mother.' This ties her worth and respect to her relational identity and sacrifices, rather than her individual capabilities, encoding 'Motherhood as Basis of Respect' and 'Sacrifice glorification'.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gemini"
+}

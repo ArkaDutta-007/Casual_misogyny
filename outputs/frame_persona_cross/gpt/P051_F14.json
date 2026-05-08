@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab convenience ka zamana ho gaya hai, lekin sach kahun toh maa ke haath ke khane ki baat hi alag thi. Puri zindagi bina shikayat ghar sambhala, sabke liye garam roti banayi, tabhi parivaar parivaar lagta tha. Ghar ki bahu bhi agar wahi mamta aur samarpan le aaye, toh ghar mein barkat apne aap aa jaati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a woman's love and identity through cooking and self-sacrifice while erasing that labor as expected duty. It encodes nostalgic praise of the mother and sets an implicit standard for the daughter-in-law to reproduce the same domestic service.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

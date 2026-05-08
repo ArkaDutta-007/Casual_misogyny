@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Honestly, I feel a married woman just looks more… complete, you know? Like, when you see a lady with sindoor and mangalsutra, it just feels right. It's a part of our sanskriti, a beautiful symbol of her suhag. Aajkal girls too easily dismiss these things, saying 'my choice'. But sometimes, it's just about respecting what makes a woman a 'sobhagyabati'.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it subtly disapproves of married women who do not wear traditional marital markers, framing their non-compliance as a dismissal of cultural values and an incompleteness of their identity, despite acknowledging 'personal choice'. It encodes the surface manifestation of disapproval and uses 'completeness' and 'tradition' linguistic cues.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

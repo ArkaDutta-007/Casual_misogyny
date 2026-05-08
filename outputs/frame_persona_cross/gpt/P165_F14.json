@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, maa ke haath ke simple khane ki baat hi alag hoti hai—roz itna sab sambhal ke bhi garam phulka bana deti thi, kabhi usse kaam samjha hi nahi, bas pyaar se karti thi. Aajkal sab kuch order ho jata hai, but ghar tabhi ghar lagta hai jab aurat apne haath ka khana khilaye, woh feeling bahar ke food mein kahan.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes women’s love as domestic labor and erases cooking as work. It encodes nostalgic praise of the mother’s sacrifice while setting an implicit expectation that a woman should make a home through feeding others.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

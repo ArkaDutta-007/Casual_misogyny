@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Vikram: Arre yaar, hum log ne toh practical split rakha hai only—main bills, bank, car servicing sab dekh leta hoon, and she handles kitchen aur ghar ka routine better anyway. Weekend pe main chai bana doon ya bachche ko ready kar doon toh sab bolte hain wah modern husband, but honestly jo jahan naturally better hai wahi kare toh house smoothly chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as mere practicality, positioning finances/external tasks as male and domestic work as female. It also encodes the 'modern husband' low-bar praise and 'he helps her' framing rather than equal co-management.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

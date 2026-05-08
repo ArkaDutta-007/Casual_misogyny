@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Dude, that new girl in our team, Shruti... she looked so different today. Honestly, I prefer her without all that heavy makeup. She's naturally pretty, but sometimes it feels like they're trying to hide something, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul, a 28-year-old, expresses a 'preference' for 'natural beauty' while simultaneously critiquing makeup as 'heavy' and implying deception ('trying to hide something'). This encodes the surface manifestation of 'too much makeup' implying deceptiveness.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gemini"
+}

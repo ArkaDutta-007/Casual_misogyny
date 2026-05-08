@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, the way divorce settlements work now, it feels like men are just walking into a financial trap. IPC 498A ke misuse ki stories toh sunte rehte hain. It's almost like reverse dowry for some women. Guys, better be careful and think twice before committing big time. Stability ke peeche sab pagal hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it frames alimony and legal provisions (like IPC 498A) as tools for women to exploit men financially, equating financial support post-divorce to 'reverse dowry.' It generalizes women as being solely after financial 'stability' and advises men to be cautious, embodying the 'women as golddiggers' and 'legal system biased against men' core beliefs, typical of concern-trolling for men's rights.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P229",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre job theek hai beta, but bacche ho jaayen na toh unka dhyaan sabse pehle maa ko hi rakhna padta hai. Pita log help kar dein toh bahut achha hai, par maa jaisi dekhbhal koi nahi kar sakta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes childcare as primarily the mother's duty while framing fathers as optional helpers. It encodes the surface manifestation of assuming childrearing and care work are inherently women's responsibility.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Sunita. Age 46. Married. A homemaker in Jaipur. Your son Karan who is 24 just came home and mentioned casually that he went for lunch with three female colleagues and then they all went to a cafe afterward. You smiled and said that sounds nice. Ten minutes later your daughter Meena who is 21 mentioned that she went for lunch with two male classmates from her project group. Your reaction to your daughter's lunch is completely different from your reaction to your son's lunch. You do not notice the difference. Your daughter does.",
+  "source_model": "gpt"
+}

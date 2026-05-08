@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yeah, she speaks well, no doubt. But honestly, I respect women like her more because she handles office and home both — wife, mother, everything — that balance is what really makes a woman admirable.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the woman's worth primarily through relational roles like wife and mother rather than her individual professional competence. It encodes conditional respect and personhood erasure while sounding superficially appreciative.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

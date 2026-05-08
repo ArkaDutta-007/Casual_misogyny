@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "A: Arre uski baat ka itna bura mat maan, auraton ka mahine ka chakkar hoga to bas chhoti baat pe bhi garam ho jaati hain.\nB: Haan, kal se hi zyada suna rahi thi.\nA: Bas wahi, do din baad theek ho jayegi, serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it directly attributes a woman's anger and opinions to her menstrual cycle and dismisses her reaction as biologically driven. It encodes the surface manifestation of 'time of the month' style dismissal and framing women as overemotional due to hormones.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

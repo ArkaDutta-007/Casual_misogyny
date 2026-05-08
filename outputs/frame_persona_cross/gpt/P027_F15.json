@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I am completely for women making their own choices, but some traditions do have meaning. A simple mangalsutra or a touch of sindoor is not oppression in my view; it reflects commitment, culture, and a certain grace that comes with being married. Frankly, when young women reject every symbol in the name of modernity, it can feel like they are dismissing the sanctity of the institution itself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as graceful and meaningful while subtly judging women who do not wear them as disrespecting marriage. It encodes the 'personal choice but...' defense and disapproval of non-wearing through tradition and completeness framing.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

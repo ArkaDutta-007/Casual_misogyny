@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Beta, bura mat manna, par aajkal zamaana bilkul theek nahi hai. Ladki ho toh thoda sambhal ke rehna padta hai—raat ko akeli mat nikla karo, cab ka number share kiya karo aur kapde bhi jagah ke hisaab se pehna karo. Hum rok-tok shauk se nahi karte, bas tumhari safety ke liye bolte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes restricting their movement, clothing, and behavior instead of addressing male violence. It uses protective, practical language ('zamaana theek nahi hai', 'tumhari safety ke liye') to disguise victim-blaming and control as care.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

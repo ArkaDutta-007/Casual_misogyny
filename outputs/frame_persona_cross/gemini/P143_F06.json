@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Sunita (to neighbour): \"Enna solradhu, these boys nowadays, they don't listen to anything. Meena was telling me one boy kept bothering her in college. She told him so many times, 'Please leave me alone.' But no use. Then her friend's older brother, he just walked past with them one day, casually. Immediately, the boy stopped bothering her. You see? They only listen when they see some *aan roopam* (male form) nearby. A girl's 'no' is like, what is it worth?\"",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Sunita describes how her daughter's direct refusals were ignored, but unwanted attention stopped immediately when a male figure (friend's older brother) was present. This illustrates the belief that a male presence holds more authority than a woman's own consent, showing 'harassment stopping when a male friend or partner physically appears'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gemini"
+}

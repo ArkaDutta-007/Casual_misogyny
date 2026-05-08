@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I have no issue with modern women making their own choices, but some traditions are not merely ornamental. A married woman wearing mangalsutra or sindoor reflects a certain sense of grihastha, of respect for the institution itself. When someone refuses even that, it does appear as though she is unnecessarily rejecting her own cultural identity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as a woman's duty and ties her worth and cultural legitimacy to displaying married status. It encodes the 'personal choice but tradition' defense and judges women who do not wear sindoor or mangalsutra as deficient or culturally disloyal.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

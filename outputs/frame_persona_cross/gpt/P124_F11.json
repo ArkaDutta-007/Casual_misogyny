@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "We keep talking about respecting women as professionals, which is important, but somewhere we should also remember that many of them are the mothers raising the next generation and the wives holding families together. In India, dignity for women cannot be separated from the role they play in the home, because that is where their real contribution shapes society. If policy recognises that with sensitivity, I don't see it as regressive.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women's dignity and social value primarily through motherhood and wifehood rather than individual personhood. It encodes relational framing and sacrifice/glorification of domestic roles while sounding respectful and policy-minded.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

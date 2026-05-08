@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bhai practical baat hai, aajkal zamaana theek nahi hai — if someone knows they have to travel late, at least go in a group or take a cab from office only. Galti kisi ki bhi ho, but why take unnecessary risk yaar?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and shifts focus from male violence to women's behavior. It uses a concern/practicality mask and encodes the surface manifestation of advising women to restrict movement or manage risk rather than addressing predatory behavior.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

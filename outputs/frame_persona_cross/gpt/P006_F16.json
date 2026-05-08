@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Bhai honestly jo jahan better ho wahi handle kare na. Ghar ka daily management mostly girls hi better karti hain, aur finance/bahar ke kaam hum log dekh lete hain, isme sexist kya hai 😅",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes a gendered division of labor as merely practical and efficient. It encodes the surface manifestation of 'he handles finances, she handles home' and frames women as inherently better suited for domestic management.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

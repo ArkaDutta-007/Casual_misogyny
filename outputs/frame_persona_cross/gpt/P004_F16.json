@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Suresh: Arre bhai, humare yahan bhi both are working, but jo jahan better hai wahi handle karta hai. Main finances, bills, outside errands dekh leta hoon, and my wife manages kitchen and the whole home side much better.\nFriend: Fair enough.\nSuresh: Sunday ko chai ya breakfast bana doon toh sab bolte hain wah, kitna modern husband hai, but honestly daily system practical hona chahiye na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient, despite both partners working. It encodes the 'he handles outside/finances, she handles home' framing and also highlights surprise/praise for minimal male domestic contribution.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

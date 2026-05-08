@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Suresh: Arre bhai, bura lage ya achha, but practical rehna padta hai. Beti ko samjhana padta hai ki late night akele mat niklo, zamaana theek nahi hai. \nFriend: Haan, par galti toh ladkon ki hai na?\nSuresh: Bilkul hai, but aadmi ki fitrat overnight thodi badalne wali hai. Isliye girls ko hi thoda careful rehna chahiye—safe area, proper company, and all.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and treats male violence as inevitable rather than something men must change. It uses protective, practical language ('zamaana theek nahi hai', 'careful rehna chahiye') to justify restricting women’s movement.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

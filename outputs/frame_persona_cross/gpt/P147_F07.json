@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Anita: Kavya, function mein saree ya salwar hi pehen lena beta, usmein ladki ki personality bhi achhi lagti hai aur decent bhi. Aajkal yeh western kapde theek hain bahar ghoomne ke liye, par family ke saamne apni sanskriti mein hi aurat sabse sundar lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and character to traditional clothing while framing it as culture and beauty. It encodes the surface manifestation of praising traditional dress as more 'decent' and pressuring women to dress traditionally at family events.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

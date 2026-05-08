@@ -1,0 +1,12 @@
+{
+  "persona_id": "P103",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Aajkal ki ladkiyan bhi na beti... itna makeup poot-pot ke rakhti hain. Ek toh aise hi sab rang gora karne ke peeche pade rehte hain, upar se itna sab lagake asli chehra hi dikhta nahi. Bhagwan ne jo roop diya hai, uski kadar karni chahiye, wahi achcha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla judges women for using 'too much makeup,' implying it's deceptive ('asli chehra hi dikhta nahi') and that 'natural beauty' is superior ('Bhagwan ne jo roop diya hai, uski kadar karni chahiye'). This encodes the 'too much makeup implying deceptiveness' and 'natural > artificial' surface manifestations.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gemini"
+}

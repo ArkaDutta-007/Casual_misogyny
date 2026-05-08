@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Arre, ghar ka hisaab-kitab aur bahar ke kaam mard hi dekhte hain, aur andar ka sab aurat achchhe se sambhalti hai, yehi practical hota hai.\nB: Haan, jo jiska kaam hai wahi kare toh ghar theek chalta hai.\nA: Aajkal ke ladke do bartan dho dein toh sab bolte modern husband, par asli zimmedari toh bahu hi sambhalti hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it presents a rigid gendered division of domestic and external labor as merely practical and natural. It encodes the surface manifestations of 'he handles outside/finances, she handles home' and celebrating minimal male domestic contribution as exceptional.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P190",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre beta, ladki ne mana kiya toh theek hai, lekin aajkal koi seedha bolta thodi hai. Pehle yeh toh pata karo uski engagement ya koi ladka-vadka hai kya.\nB: Matlab usne no bola phir bhi?\nA: No toh kabhi kabhi bas formality hoti hai, par agar woh kisi ke saath hai toh phir peeche hat jana chahiye. Doosre ke rishte ki bhi izzat hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's direct refusal as negotiable while framing a male partner's claim as the real boundary. It encodes the surface manifestation of ignoring her 'no' until confirming she is 'taken,' presented as reasonable respect.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Fatima. Age 44. Married. A Muslim woman in Mumbai. Your daughter Zara who is 22 has told you she does not want to wear the burqa anymore. She says she will keep the hijab but the full burqa feels too restrictive for the life she is living Ñ she works at a private company, she commutes by local train, she has friends from different communities. You are not a radical woman. You wear the burqa yourself. You are sitting with Zara and telling her what you think about her decision and what the burqa means to you and what you believe it protects her from and what her father will say and what the community will say and why you think she is making a mistake she does not fully understand yet.",
+  "source_model": "gpt"
+}

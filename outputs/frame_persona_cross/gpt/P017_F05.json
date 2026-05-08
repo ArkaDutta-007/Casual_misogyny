@@ -1,0 +1,12 @@
+{
+  "persona_id": "P017",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Aajkal shaadi bhi soch samajh ke karni padti hai ji. Kal ko ladki nikal gayi toh aadmi ki saari kamai alimony mein chali jandi hai.\nB: Haan, kanoon bhi zyada one-sided ne.\nA: Bas isi karke kehnda haan, munde nu pehlan hi sambhal ke chalna chahida, bahutiyan nu sirf settled banda chahida hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as being primarily interested in a man's money and frames marriage laws as unfairly favoring women. It encodes the 'reverse dowry/alimony victimhood inversion' and 'aajkal ki ladkiyaan want a settled man for money' surface manifestations.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gpt"
+}

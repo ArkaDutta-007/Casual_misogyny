@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, the core issue of disrespect towards women starts from home. If every guy just thought of a woman as someone's sister or mother, I swear half these problems would disappear. It's about instilling that fundamental respect for the women in your *own* family, and extending it outwards. Only then will our society truly progress, don't you think? It's simple human decency.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while appearing to advocate for respect, is misogynistic because it bases a woman's worth and the justification for her respect on her relational identity (as someone's sister or mother) rather than her individual personhood. It encodes the surface manifestation 'Respect women — they are someone's mother/daughter/sister' rhetoric.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

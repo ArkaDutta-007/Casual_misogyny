@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, suna kya? Wo naye Joint Secretary madam, Sharma ji ki beti. Abhi toh do-teen saal hue honge service mein, aur seedha itni badi post. Kaafi tez-tarrar hain, no doubt, bilkul mardon jaisi approach hai unki kaam mein. Par yaar, pata nahi kaise itni jaldi upar pahunch jaate hain log. Hum toh apni poori zindagi ghis-ghis ke yahin reh gaye.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Suresh (government clerk) expresses misogyny by both 'complimenting' the woman for having a 'masculine approach' (implying competence requires masculinization) and subtly undermining her merit by speculating about the speed of her promotion, contrasting it with his own long service, which implies unfair means or lack of true merit.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gemini"
+}

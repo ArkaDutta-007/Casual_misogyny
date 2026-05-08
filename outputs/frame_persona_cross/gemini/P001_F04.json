@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, our new Sales Director, she's actually pretty good. Doesn't get all emotional like some women, just focuses on numbers. Almost thinks like one of the guys.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it 'compliments' the female director by attributing her competence to her perceived lack of traditionally feminine traits ('doesn't get all emotional') and her adoption of masculine traits ('thinks like one of the guys'), implying that these are prerequisites for success in leadership, rather than her own merit.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gemini"
+}

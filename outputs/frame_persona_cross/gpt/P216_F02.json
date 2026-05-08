@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Anita: Arre, kal kitty mein Neha itni chidh chidh kar rahi thi over small thing, maine bas bola lagta hai hormones ka scene hai, warna itna kaun overreact karta hai.\nSister: Haan, phir bura maan gayi hogi.\nAnita: Arey mazaak tha, par sach bolo toh ladies ka mood bhi kabhi kabhi ussi hisaab se chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's irritation as caused by hormones rather than taking her reaction seriously. It encodes the surface manifestation of attributing a woman's anger to hormonal changes and then defending it as 'just a joke.'",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

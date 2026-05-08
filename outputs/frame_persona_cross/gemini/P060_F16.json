@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Yaar, hamare ghar mein toh, you know, it just naturally happened. My husband, he’s so good with all the outside stuff – finances, bank, bills, everything. I mean, wohi best handle karte hain. Aur main ghar ka, kitchen, bachchon ki zimmedari. It’s practical na? Jiska jo strength hai, woh wahi kare. Kabhi-kabhi, agar main busy hoon toh he’ll drop Sana to college, ya grocery le aayenge. Bahut support karte hain, Alhamdulillah.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Fatima defends the gendered division of labor as 'natural' and 'practical,' stating her husband is better suited for external tasks like finances, while she handles household management. She also praises his occasional, minimal contributions (dropping daughter, grocery) as significant 'support,' highlighting the low bar for male participation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

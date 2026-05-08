@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, aadmi kabhi kabhi behak jaata hai, lekin agar us aurat ko pata tha ki woh shaadi-shuda hai toh door rehna chahiye tha. Aajkal kuch mahilaen bilkul serial wali tarah doosre ke ghar mein ghus kar parivaar bigaad deti hain, phir bechare aadmi par hi saara ilzaam aa jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man as someone who merely 'strays' while placing primary blame on the woman for the affair. It encodes blame asymmetry and homewrecker framing, including the idea that she knew he was married and is responsible for protecting the family.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

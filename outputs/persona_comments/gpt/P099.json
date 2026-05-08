@@ -1,0 +1,10 @@
+{
+  "persona_id": "P099",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, that is exactly the problem na—so much makeup that on screen she looks like one person and in real life totally different. A woman should present herself properly, but not to the extent that it feels like cheating only. My wife also says, ‘You men keep looking at these glamour photos, then at home you expect us to look like that,’ and she is right in a way.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it judges women’s appearance through a double standard: women are expected to look attractive but are criticized as deceptive if they use makeup to achieve it. It encodes the ‘makeup paradox’ frame by policing women’s self-presentation while normalizing male scrutiny of their looks.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

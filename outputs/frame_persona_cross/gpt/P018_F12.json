@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Spoken conversation: A: Arre yaar, these boys get offended over every word now. In our time, people used those mother-sister type gaalis just for expression, not literally.\nB: Haan, but they say it's disrespectful.\nA: Disrespectful kaise? It's just a way of talking. Even telling a fellow not to behave like a woman is only to make him tough, nothing more.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abuse as harmless expression and frames femininity as an insult or weakness. It encodes the 'it's just a word' defense and the feminizing-as-insult structure described in the frame.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

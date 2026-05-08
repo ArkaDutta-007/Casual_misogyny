@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I agree women's safety is crucial, but sometimes I feel these conversations generalize too much. Not all men are like that, you know? Most of us are just trying to live our lives. To constantly be seen with suspicion, as if every man is a potential threat... honestly, it's quite disheartening for those of us who genuinely respect women.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment encodes the 'Not All Men' dismissal by explicitly stating 'Not all men are like that' and expressing personal offense ('disheartening for those of us who genuinely respect women') when women's general safety concerns are discussed, thereby dismissing the systemic nature of the issue and centering the speaker's 'good guy' identity.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gemini"
+}

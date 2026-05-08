@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab bahar ka khana pasand karte hain, lekin maa ke haath ke khane ki baat hi alag hoti hai. Maa poori zindagi bina thake ghar walon ke liye pakati hai, tabhi ghar mein sukh rehta hai. Bahu bhi agar thoda mann se rasoi sambhale to ghar sach mein ghar lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother’s unpaid cooking and self-sacrifice as her natural role, while setting an expectation that a daughter-in-law should also manage the kitchen. It encodes glorification of 'maa ke haath ka khana' and domestic labor as the measure of a good woman.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

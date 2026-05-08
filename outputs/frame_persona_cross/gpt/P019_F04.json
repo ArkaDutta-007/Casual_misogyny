@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I am sure she is capable, but these days one also has to ask whether such fast promotions are entirely on merit or partly because institutions want a woman in the top chair. Frankly, the women who do survive in these roles usually have to think and behave almost like men, otherwise they are not taken seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's leadership by suggesting promotions may be due to tokenism rather than merit and frames competence as requiring masculine behavior. It encodes merit-undermining and masculinization in a polished workplace register.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

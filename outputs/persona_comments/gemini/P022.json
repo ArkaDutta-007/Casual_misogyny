@@ -1,0 +1,10 @@
+{
+  "persona_id": "P022",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Sanjay: \"Yaar, so the news about Ritu. National sales head, huh? Honestly, I was a bit surprised.\"\nCounterpart: \"Yeah, same here. Big move.\"\nSanjay: \"Big move indeed. I mean, it's great for optics, but this role... it needs someone who can really slog, travel non-stop, handle tough negotiations with distributors, you know, the ground reality. Hope she's up for it. It's not exactly a cushy job, is it?\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sanjay subtly questions the woman's competence for a demanding national sales role by implying her appointment is for 'optics' rather than merit. He emphasizes the 'tough' aspects of the job (slogging, travel, negotiations), implicitly suggesting these might be challenges for a woman, thereby encoding the surface manifestation of questioning competence/capability.",
+  "persona_text": "You are Sanjay. Age 44. A regional director at a large FMCG company in Delhi. You are on a phone call with your counterpart in another region after the company announced that a woman has been appointed as the new national sales head. You are sharing your honest reaction to the appointment and what you think it means for the company's direction.",
+  "source_model": "gemini"
+}

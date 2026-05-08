@@ -1,0 +1,12 @@
+{
+  "persona_id": "P058",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, reading these discussions, I always wonder why it has to be about *all* men. I totally get that safety is a big issue, especially for women, and no one is denying that bad elements exist. But does that mean every man is a potential threat? It's really unfair to group everyone together. We also have mothers, sisters, daughters, and we try our best to be decent human beings. Why should we feel guilty just for being men? It actually discourages 'good' men from being supportive.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's concerns about male behavior by centering the feelings of 'good men' and explicitly stating it's 'unfair to group everyone together'. It challenges women's wariness as an irrational generalization ('does that mean every man is a potential threat?') and expresses feeling personally insulted ('Why should we feel guilty just for being men?'), which aligns with the 'Not All Men' dismissal.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Suresh. Age 45. Married. A Brahmin man in Pune. You are commenting under your real name on a news article shared on Facebook about a college in Maharashtra that introduced a dress code banning jeans and sleeveless tops for female students. Most commenters are criticising the college. You are writing a comment defending the dress code and explaining why you think institutions have the right and responsibility to regulate how young women dress and what happens in societies where there are no such standards.",
+  "source_model": "gemini"
+}

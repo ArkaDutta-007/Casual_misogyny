@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I totally understand being careful, but sometimes I feel like we women also generalize too much. My male friends and colleagues are genuinely good people, it feels unfair to lump all men together based on a few bad experiences.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Priya, a woman, minimizes other women's concerns about men's behavior by suggesting 'we women also generalize too much'. This aligns with the 'Not All Men' dismissal, expressing that 'good men' are being unfairly blamed and that women's wariness is a form of unfair generalization.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, that whole Rina-Akash affair is so messy. What was she even thinking? Usne ghar tod diya literally. Sab jaanti thi ki he's married and has kids. Ek aurat hokar, how can you do this to another woman and her family? Bechara Akash must have been trapped by her.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment explicitly blames the 'other woman' (Rina) for the affair, portraying her as a 'homewrecker' and a seductress ('what was she thinking', 'usne ghar tod diya'), while excusing the man (Akash) as a victim ('bechara... trapped by her'). This aligns with the blame asymmetry and male victimhood aspects of the F08 frame.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gemini"
+}

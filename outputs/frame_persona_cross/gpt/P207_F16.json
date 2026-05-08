@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre bhai, har ghar ka apna system hota hai. Mard bahar ke kaam, paisa-vaisa dekh le toh practical hai, aur aurat ghar aur bachchon ko zyada behtar sambhaal leti hai. Isme bura kya hai, jo jahan better hai wahi kare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and assumes women are inherently better suited for domestic and childcare work. It encodes the efficiency framing and the 'men handle outside/finances, women handle home' surface manifestation.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

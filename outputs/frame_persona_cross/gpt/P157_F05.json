@@ -1,0 +1,12 @@
+{
+  "persona_id": "P157",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal nikah bhi risk ho gaya for men. If things go wrong, ladki side directly 498A aur maintenance daal deti hai, aur aadmi bas court ke chakkar lagata rehta hai. Better to be careful and put everything clearly before marriage, warna later they will say emotional support, lifestyle, all that and ask for money.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as likely to misuse legal protections and seek money through maintenance. It encodes victimhood inversion, 498A misuse discourse, and framing financial support after marriage as exploitation rather than dependency created within marriage.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Mohammed. Age 49. Married. A Muslim man in Hyderabad. Your daughter Sana who is 25 has been working at a private company for two years and is doing well. A proposal has come for her from a good family. The boy is 28, settled, working in the Gulf. His family has said that they expect the wife to be at home after marriage Ñ they are comfortable financially and do not need her income. Sana has said she does not want to stop working. You are sitting with your wife discussing what to say to Sana and whether this proposal Ñ which ticks every other box Ñ should be declined because of this one issue or whether Sana needs to understand what she would be giving up by holding onto this one condition.",
+  "source_model": "gpt"
+}

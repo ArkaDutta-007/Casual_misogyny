@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: You both are working full time, how do you manage the house?\nB: Arre, we've kept it practical yaar. I handle bills, bank work, repairs and outside stuff, Neha is just naturally better at managing the kitchen and day-to-day home things. Sunday ko I help sometimes, so it works well for us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a gendered division of labor as natural and efficient rather than socially enforced. It encodes the 'he handles finances, she handles home' pattern and presents minimal male contribution as helpful rather than equal co-management.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "देखिए, मैं हमेशा कहता हूँ women should be treated with full dignity, especially because every woman is someone’s daughter, someone’s wife, and often the one holding the whole family together. In our society, when a woman comes before us, we should first remember the respect we give to our own mothers and sisters; that itself keeps the system humane.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and entitlement to dignity through male/family relations rather than as individuals. It uses the classic 'mother/sister/daughter' respect rhetoric and relational framing described in the target misogyny frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have safety concerns, but yaar every guy in public being treated like a potential threat is also unfair. Main toh aisa nahi hoon, and a lot of normal men also feel bad when women act like trusting no man is some smart policy. Awareness and basic precautions make sense, but constantly blaming all men like this helps no one.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male feelings in response to women's fear and polices generalization with a 'not all men' defense. It encodes the surface manifestations of centering self ('main toh aisa nahi hoon') and framing women's wariness of men as unfair to 'good guys.'",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

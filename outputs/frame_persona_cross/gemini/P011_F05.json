@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, I keep telling my younger cousin, marriage isn't just about love now. You need to be smart. These alimony laws and 498A, total one-way street. Heard 70% of 498A cases are fake? Men are easy targets. 😬",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment portrays marriage and divorce laws, specifically IPC 498A, as being one-sided and exploitative against men, inverting victimhood. It includes a common misquoted statistic about 498A misuse, aligning with the 'men as victims of reverse dowry' surface manifestation.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

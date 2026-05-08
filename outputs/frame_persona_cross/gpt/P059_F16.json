@@ -1,0 +1,12 @@
+{
+  "persona_id": "P059",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Kamala: Arre, ghar chalane mein sabka kaam alag hota hai. Mard log bahar ke hisaab-kitab aur daud-dhoop dekh lete hain, aur aurat ghar, rasoi, bachchon ko sambhale to ghar theek se chalta hai.\nSister-in-law: Par aajkal ladkiyan sab kar leti hain.\nKamala: Kar leti hongi, par jo jahan better ho wahi sambhale, isi mein suvidha hai. Mard kab se rasoi mein achhe lagne lage? Kabhi thoda chai bana de to log turant bolte hain, wah kya modern pati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames unequal domestic roles as practical and natural rather than discriminatory. It encodes the 'he handles outside/finances, she handles home' division and mocks men cooking as an exceptional 'modern husband' behavior.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Kamala. Age 62. A retired woman in a joint family in Varanasi. Your grandson just got engaged to a girl named Ritu who works in Delhi. The family met Ritu for the first time at the engagement ceremony last week. Ritu came wearing an indo western outfit instead of a traditional saree. You are sitting with two of your sisters in law the morning after and telling them what you thought of Ritu's outfit and what it tells you about the kind of daughter in law she will be and whether she respects the family's values.",
+  "source_model": "gpt"
+}

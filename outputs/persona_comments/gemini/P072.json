@@ -1,0 +1,10 @@
+{
+  "persona_id": "P072",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Priya! Ye koi time hai ghar aane ka? 9:30 baj gaye hain! Tum ladki ho, koi ladka nahi ki jab marzi ghoomte raho. Agar aaj kuch ho jaata bahar, toh kiski galti hoti? Hamari? Tumhari? Kya muh dikhate hum logon ko? Tumhe apni suraksha ka khayal khud rakhna padta hai, samjhi? Duniya buri hai, aur yeh sab tumhe hi dekhna padega.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "The character explicitly tells his daughter that as a girl, she cannot roam freely and must take sole responsibility for her safety. He implies any potential harm or reputational damage would be her fault, thereby framing women's safety as their individual burden.",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gemini"
+}

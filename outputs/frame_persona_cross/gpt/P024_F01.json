@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "देखो bhai, policy बनाते time fairness bhi dekhni पड़ती है. Aaj menstrual leave, kal maternity ke baad extended flexibility — company ko cost aur continuity dono manage karna padta hai, phir appraisal aur project allocation mein imbalance aata hai. Men ke liye aisa kuch nahi hai, toh thoda practical sochna bhi zaroori hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and reproductive needs as an organizational burden and as unfair special treatment compared to men. It encodes fairness/economic framing and implies menstrual and maternity accommodations create productivity and appraisal imbalances.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gpt"
+}

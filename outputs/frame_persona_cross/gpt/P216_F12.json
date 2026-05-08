@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre aajkal ke ladke bhi na, do shabd muh se nikal gaye to sab bol dete hain disrespect ho gaya.\nB: Haan, bilkul. Hamare time se aise hi bolchal chalti aa rahi hai, har baat ko aurat par mat le jao.\nA: Bas wahi, itna serious lene ki kya baat hai, gussa nikalne ke liye bol dete hain, iska matlab thodi hota hai ki kisi ki maa-behen ko sach mein keh rahe hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-body/chastity-rooted abusive language as harmless everyday speech and explicitly defends it as 'just expression.' It encodes the frame's meta-conversation pattern of dismissing concerns about misogyny in common gaalis.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

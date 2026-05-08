@@ -1,0 +1,12 @@
+{
+  "persona_id": "P217",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, from management side it becomes difficult also, yaar. If we hire a young woman for a critical role, there is always the chance she will go on long maternity leave, and then team workload comes on others only. Menstrual leave also sounds good in theory, but aise toh company has to manage extra absence and men will ask what equal benefit they are getting.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to menstruation and maternity, while presenting the view as a fairness and productivity concern. It encodes the surface manifestations of assuming young women will take maternity leave soon and questioning menstrual leave as unfair to men.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gpt"
+}

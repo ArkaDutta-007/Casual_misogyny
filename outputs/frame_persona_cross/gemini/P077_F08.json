@@ -1,0 +1,12 @@
+{
+  "persona_id": "P077",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Enna solradhu, I heard about that girl in Murugan's office... always smiling and talking too much with him, knowing fully well he's a married man. Now his poor wife and kids are suffering because of her. It's always these women who go and break someone's home, tempting men like that. He might be weak, yes, but she knew better, no? Just like in those serials, one woman spoils everything.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment blames the 'other woman' entirely for an affair, framing her as a 'homewrecker' and 'seductress' ('tempting men', 'spoils everything') while excusing the man ('He might be weak'). It invokes 'family protection rhetoric' and draws a parallel to 'TV serials' (common India-specific context).",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arey, dekhi na us ladki ko? Kitna saara makeup laga rakhi thi. Bilkul unnatural lag rahi thi. Sacchi mein, natural beauty hi zyada achhi dikhti hai. Yeh sab bas dikhawa hai, kuch real nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment from a mother to her daughter criticizes a woman for wearing 'too much makeup', calling it 'unnatural' and 'mere show' that hides her 'real' face. This encodes the surface manifestation of 'too much makeup' implying deceptiveness, and praises 'natural beauty' as superior to visible effort in appearance.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

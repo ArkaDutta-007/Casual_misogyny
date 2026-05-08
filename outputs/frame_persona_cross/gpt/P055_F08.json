@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre yaar, if she knew he was married then why get so friendly in the first place? Aise hi families break hote hain — aadmi kabhi kabhi behak jaata hai, but the woman should know her limits, bilkul serial wali ghar todne wali type.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the married man as someone who merely 'got carried away.' It encodes homewrecker framing, seductress logic, and strong blame asymmetry.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

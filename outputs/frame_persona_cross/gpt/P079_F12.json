@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Ritu, aajkal ke ladke muh se kuchh bhi nikaal dete hain, par har baat ko itna pakadne ki zarurat nahi hoti. Ghar ke ladke bhi gusse mein maa-behen wali baat bol dete hain, iska matlab thodi na sach mein aurat ki beizzati karna hota hai, bas zubaan ki aadat hai. Tum log bhi har chhoti baat par hungama mat karo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-rooted abusive language as harmless habit and dismisses objections as overreaction. It encodes the 'it's just expression, not actually about women' defense central to this frame.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

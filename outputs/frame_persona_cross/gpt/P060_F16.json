@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, every house has its own system only. Your abba looks after bank work, bills and outside matters, and I manage kitchen and home because jo jahan better hai wahi kare toh ghar smoothly chalta hai. Even if husband helps sometimes, main responsibility toh aurat ki hi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and efficient rather than unequal. It reflects the female voice defending the arrangement, with men assigned finances/outside work and women assigned domestic responsibility, plus the 'helps sometimes' framing.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

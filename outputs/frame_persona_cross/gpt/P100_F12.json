@@ -1,0 +1,12 @@
+{
+  "persona_id": "P100",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly I don’t think every common gaali needs this much analysis. In Delhi everyone says those mother-sister type words in anger, even girls now, and it’s not like they literally mean anything about women. Sometimes people also say don’t cry like a girl or be strong, but yaar that is just how people talk, not some big anti-women agenda.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse and dismisses concerns with the 'it's just how people talk' defense. It encodes the meta-conversation around mother/sister-based gaalis and feminizing weakness ('don't cry like a girl') as harmless everyday speech.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Ritu. Age 24. Single. A woman working as a receptionist at a hotel in Delhi. Your job requires you to wear full makeup every day as part of the uniform policy Ñ foundation, lipstick, eyeliner, the works. You have been doing this for 18 months. You are posting anonymously on a women only Reddit thread where someone asked about jobs that require makeup. You are sharing your experience Ñ what it feels like to be required to wear makeup as a professional obligation, what male colleagues and guests say to you, what happens on the days you come in with slightly less makeup, and the specific contradiction of being required to look a certain way and then being told you are being fake or trying too hard.",
+  "source_model": "gpt"
+}

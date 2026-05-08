@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Anita got that onsite opportunity, no? Very good, but with two small kids how will that work?\nB: Exactly. Husband can help, of course, but these things mothers have to manage properly only. Career can always wait a little; children's growing years won't come back.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it assumes childcare is naturally the mother's responsibility and treats the father's role as optional 'help.' It encodes career sacrifice framing and the expectation that women, not men, should prioritize children over work.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gpt"
+}

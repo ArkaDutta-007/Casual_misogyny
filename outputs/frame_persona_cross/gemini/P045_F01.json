@@ -1,0 +1,12 @@
+{
+  "persona_id": "P045",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, suna toh hai HR mein woh menstrual leave ki baat chal rahi hai. Dekho, I understand medical conditions can be tough, but har mahine ek din extra leave for *some* employees? Matlab, fairness toh honi chahiye na sabke liye. Aise toh company ko productivity ka loss hoga, aur jo humare performance metrics hain, unka kya? Aur yaar, men ko kya, koi alag stress nahi hota kya, targets meet karne ka?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it frames menstrual leave, an accommodation for a biological process, as 'unfair' special treatment. It uses economic arguments (productivity loss, performance metrics) and reverse discrimination framing ('what about men?') to oppose the policy, embodying the belief that women's biology is a workplace liability and accommodations are 'special treatment'.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Deepak. Age 39. Married. An upper caste Hindu man in Bhopal. You are sitting with four male colleagues in the office canteen during lunch. One colleague is telling the group that his 25 year old daughter told him she is in a live-in relationship with her boyfriend. You are one of four men reacting to this news. You are giving your opinion on live-in relationships and what a father's responsibility is when his daughter makes choices like this and what it says about how she was raised.",
+  "source_model": "gemini"
+}

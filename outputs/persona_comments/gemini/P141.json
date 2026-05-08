@@ -1,0 +1,10 @@
+{
+  "persona_id": "P141",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Sab accha hai, ji. Ladki padhi-likhi hai, sanskaari bhi lagti hai. Par rang thoda sa dabe hue hai na. Rohit ke saath jachegi kya? Socha tha thoda gora rang ho toh achha rahega. Chachi ko bol dete hain ki abhi thoda aur sochenge.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment enforces a patriarchal beauty standard based on skin color, prioritizing fair skin for a potential bride. It uses euphemisms like 'rang thoda dabe hue hai' and expresses concern about her appearance not 'matching' the son, reflecting colorism as a manifestation of casual misogyny.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your son Rohit who is 30 is looking for a bride. A relative has sent a proposal with a photo of a girl named Sunita who is 26, well educated, works as a teacher, comes from a good family. You are looking at the photo with your husband in the bedroom. Sunita is dark skinned. Everything else about her is exactly what you were looking for. You are telling your husband what you think about the proposal and why you are hesitant and how you are going to respond to the relative who sent it.",
+  "source_model": "gemini"
+}

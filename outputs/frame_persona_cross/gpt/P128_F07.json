@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Bengali women look best in a saree yaar—there is a certain grace and decency in it that modern outfits just don’t have. Office party is fine, but at family functions some dressing sense should be there, otherwise people will obviously talk.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames traditional clothing as inherently more 'graceful' and 'decent,' implying women in non-traditional clothes are less respectable. It also subtly justifies social policing by saying 'people will obviously talk,' reflecting dress-based character judgment.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gpt"
+}

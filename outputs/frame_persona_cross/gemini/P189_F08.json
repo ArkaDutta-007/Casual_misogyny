@@ -1,0 +1,12 @@
+{
+  "persona_id": "P189",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Nadia, suna kya Rima ke husband ka? Woh joh nayi ladki join hui hai na unke team mein, usne toh ghar tod diya uska. Pata tha na usko ke aadmi shaadi-shuda hai, fir bhi aise karegi? Bechaara Rima ka husband toh seedha-saadha tha, isne hi phasaya hoga. Bilkul serial wali vamp lagti hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair, framing her as a 'homewrecker' ('ghar tod diya') and seductress ('phasaya hoga') while excusing the married man as 'seedha-saadha' and a victim. It directly uses the 'she knew he was married' argument and references the 'vamp' trope from TV serials, which are surface manifestations of F08.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Imran. Age 31. Married for two years. A Muslim man in Lucknow. Your wife Nadia works at a bank. She has been wearing a hijab to work since you got married. Last month her bank transferred her to a client facing role where she has more interaction with senior corporate clients. Her manager Ñ a Hindu woman Ñ suggested informally that Nadia might consider a different appearance for client meetings. Nadia told you about this and said she is thinking about it. You are responding to what she said. What you say about her hijab, her job, her manager, and whose decision this actually is reveals the specific intersection of religious control and marital authority over a woman's professional appearance.",
+  "source_model": "gemini"
+}

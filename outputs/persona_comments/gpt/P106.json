@@ -1,0 +1,10 @@
+{
+  "persona_id": "P106",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Anita: Arre, aaj kal ki ladkiyon ko bas job karni hai, ghar sambhalna koi zimmedari hi nahi lagti. Divya seedha bolti hai usse cooking nahi aati, par beta shaadi ke baad khayega kya, bahar ka khana roz thodi na chalega.\nFriend: Karan kuch bolta hai?\nAnita: Woh toh pyaar mein sab theek bol raha hai abhi, lekin ghar ghar hota hai, hotel nahi. Humne apne time pe kitna kuch chhod diya tha, pehle pati aur ghar ko rakha, tab jaake parivaar banta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames domestic labor and cooking as a woman's primary duty and judges the daughter-in-law for not fulfilling traditional gender roles. It encodes casual sexism through glorification of older women's sacrifice and the expectation that wives must prioritize husband and home.",
+  "persona_text": "You are Anita. Age 52. Married. A homemaker in Delhi. Your son Karan who is 27 just got married to a girl named Divya who works in finance. Divya does not cook Ñ she has never learned and has never pretended otherwise. Karan knew this before he married her. You are sitting with your friend over chai a week after the wedding. You are telling your friend about Divya and what the first week of marriage has been like and what you think about a girl who does not cook and what your son is going to eat and what kind of home they are going to make and how different things were when you got married and what you gave up that Divya does not even think about.",
+  "source_model": "gpt"
+}

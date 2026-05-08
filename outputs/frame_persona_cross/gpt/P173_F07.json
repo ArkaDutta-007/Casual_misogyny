@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Kamla: Priya, shaadi-byaah mein saree ya salwar hi achha lagta hai beti, aurat ki shobha usi mein hoti hai. Aajkal ki ladkiyan jo itne chhote-modern kapde pehen leti hain, phir log baatein toh karenge hi. Hamari maryada aur sanskriti bhi koi cheez hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames traditional clothing as the marker of a woman's worth and respectability, while implying that non-traditional dress invites judgment or harassment. It encodes decency/culture framing and a subtle victim-blaming link between clothing and others' behavior.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

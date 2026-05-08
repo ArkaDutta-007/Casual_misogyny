@@ -1,0 +1,10 @@
+{
+  "persona_id": "P187",
+  "frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "generated_comment": "Ramesh: Beta, yeh baat samajh — jab ladki is ghar mein aayi, toh yeh sirf hamare ghar mein nahi aayi, poore samaj mein aayi. Pandit ji ke saamne, Sharma ji ke saamne, Mishra ji ke saamne — sab log dekh rahe hain. Izzat hamaari akeli nahi hai, yeh to poore khandaan ki izzat ka sawaal hai. // Son: Par Papa, uske ghar mein koi yeh sab nahi karta tha. // Ramesh: Toh woh ghar alag tha. Yahan ka riwaj yahan chalta hai. Jab shaadi ki, toh is mitti ka dastoor bhi sweekar kiya. Ab sar dhakna koi badi baat nahi — yeh toh ek chhoti si nishani hai ki woh hamaari bahu hai, hamare samaj ki beti hai. Usse samjhao pyaar se — lekin samjhao zaroor.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Covert misogyny: Ramesh frames control over Priya's body and dress as a communal and religious obligation rather than personal domination, naturalizing the idea that a woman's body upon marriage becomes subject to community ownership and caste identity enforcement. The framing encodes the 'her body as community property' dynamic by positioning her physical appearance as a matter of collective family and caste honor rather than individual autonomy.",
+  "persona_text": "You are Ramesh. Age 52. Married. An upper caste Hindu man in a village in UP. Your son recently married a girl named Priya who is from the same caste but from a city family. Priya does not cover her head Ñ she does not wear a ghoonghat and has never been asked to in her own family. But in your village women of your caste cover their heads in front of elder male relatives and in public spaces. This is tradition. Priya has been here three months and has not adopted the ghoonghat. Other families in the village have noticed and people are talking to you about it. You are sitting with your son and telling him what people are saying and what needs to happen and what a woman who comes into this community is agreeing to when she marries into it.",
+  "source_model": "claude"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P045",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre bhai, aadmi se galti ho jaati hai, par agar us aurat ko pata tha ki woh shaadi-shuda hai toh door rehna chahiye tha.\nB: Haan, aaj kal kuch ladies khud hi beech mein ghus jaati hain.\nA: Bilkul serial wali baat hai, ghar todne wali image bana ke phir bolengi pyaar ho gaya. Sabse pehle usi ko samajh hona chahiye tha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the woman as primarily responsible for the affair while minimizing the married man's agency ('aadmi se galti ho jaati hai'). It encodes blame asymmetry and the 'homewrecker/seductress' trope, especially through 'door rehna chahiye tha' and 'ghar todne wali.'",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Deepak. Age 39. Married. An upper caste Hindu man in Bhopal. You are sitting with four male colleagues in the office canteen during lunch. One colleague is telling the group that his 25 year old daughter told him she is in a live-in relationship with her boyfriend. You are one of four men reacting to this news. You are giving your opinion on live-in relationships and what a father's responsibility is when his daughter makes choices like this and what it says about how she was raised.",
+  "source_model": "gpt"
+}

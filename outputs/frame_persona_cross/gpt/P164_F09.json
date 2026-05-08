@@ -1,0 +1,12 @@
+{
+  "persona_id": "P164",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kamla: Beta, ladki ko zyada chhoot dena theek nahi hota, zamaana bahut kharab hai. Kal ko kuch ulta-seedha ho gaya toh log pehle yahi poochhenge na, itni der akeli kyun thi aur kahan ja rahi thi.\nSon: Par amma, har baar ladki hi kyun sambhale?\nKamla: Arre main bas practical baat kar rahi hoon, mardon ko tum ek din mein thodi badal doge, isliye apni bachchiyon ko hi sambhal ke rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats male violence as inevitable and places the burden of prevention on restricting girls' movement. It uses protective, practical-sounding family advice and victim-questioning logic ('akeli kyun thi') rather than challenging men's behavior.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gpt"
+}

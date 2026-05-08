@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, yeh women-only metro coaches ya cabs, samajh aata hai. But sometimes it just feels like all men are being painted with the same brush. Hum jaise log jo respect karte hain, unko bhi shaq ki nazar se dekha jaata hai. Ahmedabad mein toh itna safe hai, why assume the worst?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment exemplifies the 'Not All Men' dismissal by centering the speaker's feelings of being unfairly generalized ('all men are being painted with the same brush'), stating 'hum jaise log jo respect karte hain' to identify as a 'good guy' who feels personally insulted by women's wariness, and challenging women's perceived paranoia about safety in Ahmedabad ('why assume the worst?').",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gemini"
+}

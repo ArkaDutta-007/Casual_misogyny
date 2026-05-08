@@ -1,0 +1,12 @@
+{
+  "persona_id": "P222",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho, company ko bhi practical rehna padta hai. If we hire young married women and then 6 months maternity leave, then childcare flexibility, project continuity ka issue toh aayega hi. Aur ab period leave bhi alag se do, toh men in the team will naturally feel ki unke liye kya hai — fairness bhi koi cheez hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to maternity and menstruation, while presenting the bias as a neutral fairness and productivity concern. It encodes economic framing, reverse discrimination framing, and the assumption that accommodations for women are unfair special treatment.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are discussing marriage proposals for your son Karan who is 27. A proposal has come from a good family Ñ the girl is educated, employed, from a respectable background. But you found out through a mutual contact that the girl has a large mixed gender social circle and is known to go out with male friends in groups. You are sitting with your wife telling her what you found out and what you think it means for the kind of wife she will be and whether this is the kind of girl you want for your son and what you are going to tell the girl's family.",
+  "source_model": "gpt"
+}

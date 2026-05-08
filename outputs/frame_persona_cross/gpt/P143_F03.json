@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: These days girls want career in everything, but once children come, who will look after them properly? Office can wait, but childhood won't come back.\nB: True, a father may help here and there, but maa is maa only. For school, food, fever, all that responsibility finally comes to the mother.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare and domestic labor as the mother's primary duty while treating fathers as optional helpers. It encodes career sacrifice framing and the assumption that school, nutrition, and sick care are fundamentally maternal responsibilities.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

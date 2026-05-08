@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "On the topic of workplace etiquette, I always advise young professionals that while being friendly and open to networking is key, understanding boundaries is even more crucial. If someone seems a bit reserved or uninterested, it could just be their personality or a busy day. But if you know for a fact they're already committed or married, that's a definite signal to maintain a purely professional distance. It's not about them, it’s about respecting existing relationships.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly encodes the frame by presenting a woman's existing commitment (married, committed) as the definitive signal for respecting boundaries, implicitly suggesting that her direct disinterest or 'reserved' nature is not as clear or legitimate a signal to back off. It frames this as 'respecting existing relationships,' aligning with the 'normalized as chivalry/respect' manifestation.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gemini"
+}

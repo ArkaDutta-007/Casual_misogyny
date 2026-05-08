@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Ye kya sun rahi hoon Sharma ji ke bete ke baare mein? Woh Ritu naam ki ladki ne toh pura ghar barbad kar diya uska! Rahul toh seedha sadha ladka tha, usne hi phasa liya hoga. Aisi auraton ko toh sharam bhi nahi aati, pata tha aadmi shaadi-shuda hai, phir bhi.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' (Ritu) entirely for an affair, framing her as a homewrecker ('pura ghar barbad kar diya') and a seductress ('usne hi phasa liya hoga') while excusing the man ('Rahul toh seedha sadha ladka tha') and directing anger only at the woman for 'knowing he was married'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gemini"
+}

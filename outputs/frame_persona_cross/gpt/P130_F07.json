@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arjun: Bhai, Indian wear mein na girls actually zyada classy aur decent lagti hain. Ye ultra-modern outfits mein phir khud hi unwanted attention aa jata hai, saree ya suit is much more graceful.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability to traditional clothing and suggests that non-traditional dress attracts harassment. It encodes the 'decent/classy in Indian wear' compliment form and the subtle victim-blaming harassment link.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gpt"
+}

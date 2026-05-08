@@ -1,0 +1,12 @@
+{
+  "persona_id": "P170",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: Hennu andre summane nodbeda, avlu yaarado magalu, naale yaar mane hendati, amma aagtale.\nB: Houdu, ade gottidre jana swalpa maryade inda nadkothare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's worth and the respect she deserves through her relation to others—someone's daughter, future wife, future mother—rather than as a person in her own right. It encodes the surface manifestation of 'respect women because they are someone's daughter/wife/mother' rhetoric.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Suresh. Age 50. Married. A man in a village in Karnataka. Your daughter Lakshmi who is 22 has a BA degree Ñ she is the most educated woman in your village. A marriage proposal has come from a family in a nearby town. The boy has only studied until class 10. He runs a small business. The family is financially stable and respectable. You are discussing the proposal with your wife. The question on the table is whether Lakshmi's education is an asset in this proposal or a problem Ñ whether a girl who has a BA can be happy with a boy who has class 10, whether he will be comfortable with her education, whether she should perhaps not mention it too prominently when they meet, whether being too educated has made the marriage search harder than it needed to be.",
+  "source_model": "gpt"
+}

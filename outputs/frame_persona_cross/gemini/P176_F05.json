@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "You know, Sia, it's wonderful your friend is getting married, but honestly, I just hope she’s being practical. I mean, the way things are these days, so many men get trapped with these one-sided laws. You hear about cases of 498A misuse all the time, just to extract money. It’s almost like a reverse dowry system now, men have no protection. They really need some equivalent to safeguard *their* interests.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment frames alimony/divorce settlements as 'reverse dowry' and claims widespread 'misuse of 498A' by women to extract money, reflecting the core belief that modern women exploit marriage laws and are golddiggers. The speaker, a professional woman, presents this as a 'concern for men's rights' to a younger woman.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gemini"
+}

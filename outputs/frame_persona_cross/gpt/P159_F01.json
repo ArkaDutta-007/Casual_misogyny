@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Look, I am all for supporting employees, but from a business point of view we also have to see fairness. If we hire someone at a critical level and in a year she goes on long maternity leave or keeps needing special period leave, the team workload still comes to others only. Aise mein appraisal and project delivery get impacted, so this cannot be ignored while planning roles.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats women’s menstruation and potential maternity as inherent workplace liabilities and justifies differential hiring or role planning on that basis. It encodes fairness/cost framing and the assumption that women will soon take maternity leave or use menstrual leave as a burden on the team.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P160",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, I have no issue with makeup, but some women make it their whole personality. Either they look completely different in real life or, if they stop putting in any effort, people say they’ve let themselves go — so better to just keep it simple and natural.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes evaluating women’s appearance and imposes a double bind: makeup is framed as deceptive, while not grooming is framed as neglect. It encodes the 'natural beauty' ideal, deception framing, and appearance obligation central to this misogyny frame.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gpt"
+}

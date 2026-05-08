@@ -1,0 +1,10 @@
+{
+  "persona_id": "P036",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Bhai, I'll be honest — the writing was on the wall, I just couldn't see it. She came from a middle-class family, saw what I had built in real estate, and from day one I think the calculation was running in her head. Eight years of marriage, and the moment the business really took off, suddenly the 'compatibility issues' started. Now tell me — is that a coincidence? Our laws say no prenup is enforceable in India, and she knew that better than I did, I guarantee you. She walked away with the Sector 9 flat, monthly maintenance, and her lawyer actually used the word 'lifestyle' — my lifestyle, that I built brick by brick. We call it dowry when a girl's family demands property at the time of marriage, but when a woman can legally claim a man's entire estate on her way out the door, what do we call that? It's reverse dowry, plain and simple, and nobody wants to say it out loud. Every man watching this — get a lawyer before you get a shaadi card, because the system is designed assuming you are the guilty party the moment she files.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes covert misogyny through the 'gold-digger' narrative — attributing calculated financial predation to the ex-wife without evidence — and the 'reverse dowry' framing, which delegitimises women's legal maintenance rights by equating them with a historically oppressive practice. It generalises suspicion toward women in marriage while presenting itself as a victimhood account and legal awareness advice.",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "claude"
+}

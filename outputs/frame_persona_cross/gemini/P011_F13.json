@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, honestly, [colleague's name] bina makeup ke zyada acchi lagti hai. Pata nahi office ke liye itna foundation kaun lagata hai, like kuch chhupa rahi ho 🤦‍♂️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a male software developer in a private chat, criticizes a female colleague for wearing 'too much makeup' ('itna foundation') for the office, implying she looks 'better without makeup' ('bina makeup ke zyada acchi lagti hai') and suggesting deceptiveness ('kuch chhupa rahi ho'). This embodies the 'too much makeup' surface manifestation and the deception framing, policing female grooming according to an 'unnatural' aesthetic.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

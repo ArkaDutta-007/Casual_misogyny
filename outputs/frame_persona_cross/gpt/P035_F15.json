@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Beta, aajkal ki ladkiyan bolti hain ki yeh sab old fashion hai, par shaadi ke baad thoda sindoor ya mangalsutra pehenne mein kya jaata hai? Aurat suhagan lagti hai, ghar-grihasti wali pehchaan dikhti hai, warna samajh mein bhi ajeeb lagta hai ki shaadi hui bhi hai ya nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that a married woman must visibly display marital markers to be seen as a proper wife. It encodes tradition/completeness framing and judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

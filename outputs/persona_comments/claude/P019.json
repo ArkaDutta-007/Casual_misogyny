@@ -1,0 +1,10 @@
+{
+  "persona_id": "P019",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "See, I have been watching Priya for some time now, and honestly — and I say this as a woman myself, so nobody misunderstand me — these young brides go through so much hormonal adjustment after marriage, it affects their whole system. Mood, punctuality, concentration — sab connected hai. I think we should give her one more month, maybe her cycle settles down, the joint family pressure she adjusts to, and she will be fine. It is not a performance issue, it is a biological phase. We women are like that only in the beginning.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Anita reduces a young woman's professional struggles — which likely stem from structural pressures like joint family adjustment and marital transition — entirely to hormones and 'biological phases,' encoding the stereotype that women's behavior and competence are governed by their reproductive biology. The framing is covert because it is delivered sympathetically, by a senior woman invoking shared gender identity ('I say this as a woman myself'), which masks the misogynistic essentialism.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "claude"
+}

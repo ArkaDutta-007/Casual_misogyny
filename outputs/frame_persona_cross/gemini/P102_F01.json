@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, yeh jo naye period leave ki baat chal rahi hai... matlab theek hai, ladies ko problem hoti hai, samjhte hain. But phir hum purushon ko bhi toh itna stress hota hai office mein, humein koi 'stress leave' thodi milti hai? Aise mein productivity ka kya hoga aur department ka kaam kaise chalega? Mujhe toh lagta hai thoda unfair hai yeh policies, sabke liye barabar hona chahiye na.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it questions the fairness of menstrual leave by comparing it to men's stress, thereby framing it as 'special treatment'. It also invokes productivity/cost arguments against the policy, suggesting women's biology makes them a liability, despite acknowledging their 'problem'.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gemini"
+}

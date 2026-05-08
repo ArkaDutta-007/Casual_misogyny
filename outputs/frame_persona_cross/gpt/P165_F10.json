@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have safety concerns, but yaar every time someone says men are the problem, it feels like all of us are being painted with the same brush. Main toh aisa nahi hoon, and honestly if a woman avoids a cab or compartment just because a man is around, that also feels a bit unfair. Men also deal with safety issues, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and fairness in response to women's fear, rather than acknowledging why women act cautiously. It encodes 'not all men' dismissal, personal exception-making ('main toh aisa nahi hoon'), and deflection to men's safety.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

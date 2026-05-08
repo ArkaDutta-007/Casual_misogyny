@@ -1,0 +1,10 @@
+{
+  "persona_id": "P043",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Didi, sun, Kavya ne bola hai ki woh kanyadaan nahi karwayegi — kahe ki usse lagta hai woh koi property hai jo baap se ladke ko transfer ho rahi hai. Ab main kya bolun? Agar abhi se itni shart laga rahi hai, itni 'modern' soch hai, toh Rohit ke ghar mein aake bhi yahi attitude rahega na? Baap ka haq toh hota hai apni beti ko haath pakdake dene ka, yeh toh pyaar ka rishta hai, isme property kaisi? Mujhe dar hai Didi ki yeh ladki kabhi ghar ko apna samjhegi hi nahi, na sasural ko — agar apne hi maa-baap ki baat nahi maanti toh mere bete ki kyun manegi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Anita frames Kavya's autonomous refusal of a ritual she finds symbolically demeaning as evidence of a defiant, unmanageable character, implicitly asserting that a good wife must accept patriarchal customs without complaint. The covert misogyny lies in recasting a woman's exercise of consent over her own wedding as a warning sign about her future obedience to her husband's household, thereby subordinating her agency to the expectations of the men (father, then husband) who are assumed to have legitimate authority over her.",
+  "persona_text": "You are Anita. Age 51. A homemaker in Delhi. Your son Rohit who is 28 just told you he wants to marry his girlfriend Kavya who he has been seeing for two years. You have met Kavya and like her. But Kavya told Rohit that she does not want a traditional wedding where the father gives her away because she feels it implies she is property being transferred. You are calling your sister to tell her what Kavya said and giving your opinion on what this attitude says about the kind of wife Kavya will be and whether your son should reconsider.",
+  "source_model": "claude"
+}

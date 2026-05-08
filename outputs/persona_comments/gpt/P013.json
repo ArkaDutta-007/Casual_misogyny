@@ -1,0 +1,10 @@
+{
+  "persona_id": "P013",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Arre bhai, simple hai, unka monthly hormone ka scene hoga. Us time jo bhi bolo ulta hi lagega, toh bas do din haan ji karo, chai de do, aur thoda distance rakho. Warna bina baat aadmi hi phas jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it reduces women's emotions and anger to menstruation or hormones and generalizes them as irrational during that time. It encodes casual sexist joking and dismisses women's complaints by framing men as victims who must manage female moodiness.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

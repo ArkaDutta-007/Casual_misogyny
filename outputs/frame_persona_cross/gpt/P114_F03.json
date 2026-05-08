@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "In the end, a mother has a different role in a child's life, whether we like to admit it or not. Father can support as much as possible, but school routine, food habits, emotional grounding these things naturally come from the mother. Career is important, certainly, but bachpan does not come back, and children should not have to pay the price for both parents wanting the same kind of ambition.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare and emotional labor as the mother's primary duty while treating the father's role as secondary support. It encodes the surface manifestations of career sacrifice framing and the assumption that mothers, not fathers, are responsible for daily childrearing.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

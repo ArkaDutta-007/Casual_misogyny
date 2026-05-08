@@ -1,0 +1,12 @@
+{
+  "persona_id": "P064",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar har baat pe sab mardon ko same bracket mein daal dena bhi fair nahi hai. Main khud late hours kaam karta hoon, kabhi kisi ko uncomfortable feel nahi karaya, phir bhi aaj kal aise treat karte hain jaise every man is a threat. Caution theek hai, but itna bhi paranoid rehna sahi nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and fairness in response to women’s fear, rather than acknowledging why women generalize from patterns of harassment. It encodes classic 'not all men' dismissal, self-identification as a 'good guy,' and frames women’s wariness as excessive paranoia.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Deepak. Age 41. Married. A Punjabi man working as a senior manager in Chandigarh. You are in a private WhatsApp chat with two male friends after one of them shared a news article about a female politician who allegedly had an affair with a married colleague. The article has a photo of the woman. You are reacting to the article and the photo and giving your opinion on what kind of woman gets involved with a married man and what her motivations are.",
+  "source_model": "gpt"
+}

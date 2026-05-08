@@ -1,0 +1,12 @@
+{
+  "persona_id": "P190",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Zara (22): \"Ammi, Armaan was so rude today! Just because his game didn't load, he started shouting all those awful words, you know, about someone's mother... it just sounds so disgusting!\"\n\nFatima (44): \"Arey, beta, why do you get so worked up over such small things? Ladkon ki zubaan hoti hai aisi, haan. They don't actually mean anything by it. It's just a way to express anger, sab bolte hain. Don't take everything to heart, bas ignore karo.\"",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This comment is misogynistic because Fatima, a mother, dismisses her daughter's discomfort with male-demeaning abuse (gaalis). She normalizes the use of 'awful words' as 'just a way to express anger' and 'ladkon ki zubaan hoti hai aisi' (boys' language is like this), embodying the 'defending gaali use as 'just expression, not actually about women'' surface manifestation.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Fatima. Age 44. Married. A Muslim woman in Mumbai. Your daughter Zara who is 22 has told you she does not want to wear the burqa anymore. She says she will keep the hijab but the full burqa feels too restrictive for the life she is living Ñ she works at a private company, she commutes by local train, she has friends from different communities. You are not a radical woman. You wear the burqa yourself. You are sitting with Zara and telling her what you think about her decision and what the burqa means to you and what you believe it protects her from and what her father will say and what the community will say and why you think she is making a mistake she does not fully understand yet.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Huge congrats to Priya for winning the 'Innovator of the Year' award! She really manages to balance her demanding role and two young kids so gracefully. It's truly inspiring how she juggles everything without missing a beat at work or home!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, made by Deepa in a professional context (e.g., internal company social media or chat), praises a working mother for 'managing both' her career and childcare/domestic responsibilities as extraordinary. It implicitly sets a higher, gendered bar for women by highlighting the 'balancing' act, suggesting that her success is commendable because she *also* manages her family duties, a standard rarely applied to fathers. This encodes the surface manifestation of 'praising a working mother for 'managing both' as extraordinary, while it's invisible for fathers'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

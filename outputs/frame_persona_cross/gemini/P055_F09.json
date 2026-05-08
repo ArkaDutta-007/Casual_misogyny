@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, Pune mein bhi abhi 'zamaana theek nahi hai'. Apni girlfriend ko bol thoda dhyan rakhe. Raat ko itni der tak bahar rehna, especially alone, is not wise. Ladkiyon ko toh apna zyada khayal rakhna hi padta hai, you know how it is. Main toh bas practical advice de raha hoon for her own good.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it places the burden of safety entirely on the woman, disguised as practical advice and concern. It uses the 'zamaana kharab hai' trope and implies that women must restrict their movements to avoid danger, rather than addressing male violence, aligning with the 'parental/familial restrictions framed as love/protection' manifestation.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gemini"
+}

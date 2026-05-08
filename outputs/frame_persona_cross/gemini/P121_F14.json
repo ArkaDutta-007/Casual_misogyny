@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Honestly, life's good, man. But sometimes I just crave Maa ke haath ka khana. Neha cooks well, no doubt, but Maa always made everything with such *dil se*, you know? No matter how busy she was, she'd never let us eat anything but fresh, hot rotis. That's real dedication. Just makes you appreciate it more.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul implicitly compares his wife's cooking to his mother's, glorifying his mother's domestic labor (making hot rotis no matter how busy she was) as 'real dedication' and 'dil se' (from the heart), thereby erasing it as work and setting an unstated, often unattainable, standard for his wife based on self-sacrificing domestic service.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gemini"
+}

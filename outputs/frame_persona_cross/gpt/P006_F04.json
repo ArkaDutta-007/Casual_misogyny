@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Bro merit se hota to alag baat thi, but aajkal senior roles me thoda diversity angle bhi kaam karta hai. Waise she’s smart, proper one of the guys type, tabhi manage kar pa rahi hai 😅",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's advancement by implying it may be due to 'diversity' rather than merit. It also uses masculinization as a backhanded compliment ('one of the guys') to frame competence in leadership as male-coded.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

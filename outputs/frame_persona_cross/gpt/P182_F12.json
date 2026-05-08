@@ -1,0 +1,12 @@
+{
+  "persona_id": "P182",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar, every small thing doesn't become misogyny. People say those mother-sister type gaalis just like fillers in anger, it doesn't mean they're insulting actual women. And if a guy is acting weak, saying don't behave like a girl is just a way of speaking, not some big social issue.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-demeaning abuse by defending mother/sister-based gaalis as harmless expression and by using femininity as an insult for weakness. It matches the frame's 'it's just a word' defense and feminizing-as-insult structure.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Zainab. Age 19. Single. A Muslim girl in a conservative family in Bhopal. You have been wearing the burqa since you were 15. You do not hate it. You do not love it. You have simply always worn it and never been given a space to form your own opinion about it. Today at college a professor gave a lecture about identity and clothing and asked students to write a short reflection on what they wear and why. You are sitting in the college bathroom during the break. You have your notebook open. You are trying to write the reflection. You cannot write it because every sentence you start about why you wear the burqa begins with what your father wants or what your community expects or what Allah has said according to your mother and you cannot find a sentence that begins with what you want. You are sitting with this for the first time.",
+  "source_model": "gpt"
+}

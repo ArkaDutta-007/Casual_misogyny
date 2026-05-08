@@ -1,0 +1,12 @@
+{
+  "persona_id": "P126",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Spoken conversation: \"I understand women have safety concerns, but yaar, every man should not be treated like a suspect. Main toh aisa nahi hoon, and honestly it feels unfair when people talk as if all men are the problem. Men also deal with risks outside, but nobody talks about that with the same intensity.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it centers male hurt and defensiveness in response to women's safety concerns, rather than engaging with the pattern being discussed. It encodes the classic 'not all men' dismissal and a 'what about men's safety?' deflection.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Deepak. Age 41. Married. A man in Pune. Your wife Sheetal works as a nurse on rotating shifts including night shifts. On the days she works nights she sleeps during the day. You are alone at home with your two children aged 7 and 4 on those days and you manage everything Ñ school pickup, cooking, cleaning, bedtime. Your male colleague just asked you how you manage and whether it is difficult. You are answering him. Your answer reveals that you see your management of the household on those specific days as a heroic and exceptional effort rather than as a normal division of domestic responsibility Ñ and that on the days Sheetal is not on night shift the assumption immediately reverts to her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P095",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bro honestly parents aren’t wrong to be strict with girls sometimes. Bengaluru ho ya kahin bhi, zamaana itna safe nahi hai, so if someone is out alone late night or going to shady places, obviously risk badh jaata hai. I’m not blaming, just being practical — apna khayal rakhna bhi important hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes restricting them instead of addressing male violence. It uses protective language and practical-advice framing, specifically advising women not to be out late or alone in 'unsafe' places.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Arjun. Age 23. Single. A college student in Bengaluru. You are in a WhatsApp group with seven male college friends. Someone has shared a meme that says women spend two hours putting on makeup and then get angry when men call them fake. You are reacting to the meme and adding your own comment about women who wear heavy makeup and what they are hiding and whether men have a right to know what a woman actually looks like before committing to a relationship.",
+  "source_model": "gpt"
+}

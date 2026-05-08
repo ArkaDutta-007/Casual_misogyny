@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ke haath ke simple dal-chawal mein bhi jo sukoon hai na, woh kisi restaurant ya fancy cooking mein nahi milta. Puri life bina complain kiye family ke liye banati rahi, tab samajh aata hai ghar ko ghar kaun banata hai. Sach bolun, future mein bas itna chahiye ki ghar mein wohi pyaar aur care khane mein dikhe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother’s unpaid domestic labor as love and identity rather than work. It also sets an implicit expectation that a future wife or daughter-in-law should reproduce the same care through cooking.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

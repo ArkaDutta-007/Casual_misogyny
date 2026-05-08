@@ -1,0 +1,12 @@
+{
+  "persona_id": "P197",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Spoken conversation: A: Arre bhai, aajkal ke ladke kitchen mein bhi ghus rahe hain, achha hai lekin roz ka system alag hota hai. Mard bahar ke kaam, paise-vaise aur gaadi sambhale toh practical rehta hai, aur aurat ghar aur bachchon ko naturally better sambhal leti hai. B: Haan, bas dono apna-apna dekh lein toh ghar theek chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as 'practical' and claims women are inherently better at home and childcare while men handle finances and outside tasks. It reflects the frame's efficiency logic and the 'he handles outside, she handles home' surface manifestation.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. In your community the custom is meher Ñ the mandatory gift from the groom to the bride Ñ which is Islam's position against dowry. But in practice your community also has informal expectations of gifts from the bride's family. Your daughter Sana is getting married and you have been in negotiations with the boy's family. The boy's family has not asked for dowry directly but has made clear through various signals what they expect. You are talking to your brother about these negotiations and what you are being asked to give and what you have given already and what it means to have raised a daughter and what the religion says versus what the community does and the gap between those two things.",
+  "source_model": "gpt"
+}

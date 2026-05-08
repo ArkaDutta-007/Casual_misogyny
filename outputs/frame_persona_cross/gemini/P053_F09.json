@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Guys, just saw a girl at Rajiv Chowk metro in a really short dress. She was getting so many stares, and then looking uncomfortable. Honestly, I'm just being practical, but ladkiyon ko bhi samajhna chahiye, India hai yaar. Aise kapde pehnoge public mein toh attention milegi hi. Apni safety apne haath mein hai. Zamaana theek nahi hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, disguised as practical advice, blames the woman's choice of dress for the unwanted attention she received. It implies her safety is her responsibility, linking her clothing to the 'inevitable' male gaze, and uses the 'zamaana theek nahi hai' justification for restricting women's choices.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

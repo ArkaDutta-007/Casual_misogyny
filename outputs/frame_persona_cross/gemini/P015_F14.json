@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Haan, that's true. But you know, no matter how much you try, nobody can make sambar like my amma. She used to wake up early, fresh ground masala, the smell would fill the whole house. Not one day she missed, even when she was tired. That's real love, bhai. Not like today, everything readymade, quick-quick.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking, waking early, never missing a day even when tired) as an expression of 'real love,' while simultaneously diminishing modern women (wives/daughters-in-law) who use readymade ingredients, implying they lack this 'real love' or dedication. It uses nostalgic sentimentalization ('my amma', 'smell would fill the house') and labor erasure ('not one day she missed, even when she was tired') to set an impossible standard for women's identity through domestic sacrifice.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gemini"
+}

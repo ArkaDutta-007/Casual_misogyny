@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "आजकल की fast-paced life में सब कुछ convenience का हो गया है. पर क्या आप बता सकते हैं कि वो माँ के हाथ का खाना, वो गरमा गरम रोटी और दाल, जो मेरी माँ प्यार से बनाती थी, क्या कोई restaurant या ready-to-eat meal दे सकता है? कभी कोई शिकायत नहीं, बस निस्वार्थ सेवा. वही तो असली घर की पहचान है. #MaaKaKhana #TrueLove #FamilyValues",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) as an act of pure love and selfless service ('निस्वार्थ सेवा'), erasing the labor aspect. It sets an unattainable standard ('असली घर की पहचान') that implicitly devalues modern wives/daughters-in-law who might rely on convenience or not match the 'mother's standards' of cooking, thus encoding the core belief that a woman's highest expression is through domestic sacrifice.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gemini"
+}

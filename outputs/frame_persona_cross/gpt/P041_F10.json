@@ -1,0 +1,12 @@
+{
+  "persona_id": "P041",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar every time women discuss safety it becomes 'men are the problem' as if all of us are potential criminals. I work late too, I travel too, and I've never made anyone uncomfortable, so why should normal guys be treated with suspicion by default? Being careful is fine, but this constant 'don't trust men' attitude is also unfair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and fairness instead of engaging with why women fear men in public spaces. It encodes the classic 'not all men' dismissal, personal exception-making ('I've never made anyone uncomfortable'), and framing women's wariness as unfair to good men.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. An engineer in Pune. Your younger sister Neha who is 24 just called you from Bengaluru where she works and told you she has been in a relationship with a Muslim man named Irfan for one year and they want to get married. You are now calling your parents to tell them what Neha said before she does. You are telling them what you think should happen and what your role as her elder brother is in this situation.",
+  "source_model": "gpt"
+}

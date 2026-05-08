@@ -1,0 +1,12 @@
+{
+  "persona_id": "P190",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre yaar, suna kya woh office mein jo naya manager aaya tha, uski biwi toh bilkul paagal ho gayi hai? Kehte hain uski ek young colleague ne hi usko apne jaal mein phasa liya. Bechara, ghar-baar wala aadmi, usko kya pata aisi auratein ghar todne ke liye hi ghoomti hain. Ab uski biwi aur bachchon ka kya hoga, Allah jaane.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the female colleague for 'trapping' the married man ('apne jaal mein phasa liya'), framing her as a 'homewrecker' ('ghar todne ke liye hi ghoomti hain'), while excusing the man as 'helpless' ('bechara, ghar-baar wala aadmi, usko kya pata'). It shows clear blame asymmetry and seduction framing.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Fatima. Age 44. Married. A Muslim woman in Mumbai. Your daughter Zara who is 22 has told you she does not want to wear the burqa anymore. She says she will keep the hijab but the full burqa feels too restrictive for the life she is living Ñ she works at a private company, she commutes by local train, she has friends from different communities. You are not a radical woman. You wear the burqa yourself. You are sitting with Zara and telling her what you think about her decision and what the burqa means to you and what you believe it protects her from and what her father will say and what the community will say and why you think she is making a mistake she does not fully understand yet.",
+  "source_model": "gemini"
+}

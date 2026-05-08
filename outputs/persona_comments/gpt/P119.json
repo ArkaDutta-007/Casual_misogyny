@@ -1,0 +1,9 @@
+{
+  "persona_id": "P119",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "It was my husband’s bua who asked first, smiling in that soft, public way that makes refusal look rude: “Arre beta, sindoor kahan hai?” Before I could answer, two other women had turned to look, and the room developed that strange stillness where everyone is pretending to continue eating but is actually listening. My husband laughed lightly and said, “She doesn’t really wear all that,” as if I were a quirky preference he had learned to accommodate, not a person sitting right there. I said, also lightly, “I’m married whether or not I carry a visible logo,” and everyone laughed in the relieved way people do when they have decided not to hear the insult inside the joke. What I wish I had said was: if this symbol is so sacred, why is only one of us required to display it for your comfort? That was the evening I understood marriage came with a dress code no one had shown me before signing.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is a first-person essay response critiquing gendered expectations rather than endorsing them. It describes covert social policing around visible markers of marriage and highlights the unequal burden placed on women.",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

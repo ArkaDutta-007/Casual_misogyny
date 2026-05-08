@@ -1,0 +1,12 @@
+{
+  "persona_id": "P210",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre itna kya issue bana rahe ho in words ka, sab gusse mein bol dete hain.\nB: Par unmein auraton ko hi neecha dikhaya jata hai.\nA: Haan par matlab thodi na hota hai, bas bolne ka tareeka hai. Aur ladkon ko bhi kabhi kabhi bol dete hain ki aurat jaisa mat bano, usme itna serious kya lena.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes gendered abusive language and dismisses concern by saying it is 'just a way of speaking.' It also encodes feminizing-as-insult ('aurat jaisa mat bano') and the common defense that such language has no real meaning.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "gpt"
+}

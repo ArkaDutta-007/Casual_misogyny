@@ -1,0 +1,12 @@
+{
+  "persona_id": "P009",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "देखो, आजकल की बहुएँ... शहर जाकर एकदम भूल जाती हैं अपनी पहचान। मंगलसूत्र तो ठीक है, पर सिंदूर भी नहीं लगातीं कई तो। मेरी सास कहती थीं, सुहागन का असली गहना तो माथे का सिंदूर ही होता है। इससे घर में रौनक रहती है।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita, a rural Dalit ASHA worker, expresses mild disapproval of younger married women not wearing sindoor, framing it as forgetting their identity and tradition. She uses her mother-in-law's wisdom to link sindoor to a married woman's true ornament and the home's auspiciousness, encoding the 'disapproval when a married woman does not wear visible married markers' and 'tradition framing' manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "gemini"
+}

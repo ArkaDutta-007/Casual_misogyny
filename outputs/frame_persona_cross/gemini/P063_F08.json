@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Aiyo, these women today, I tell you! That new neighbour, always smiling and talking too much with Mr. Sharma from next door, even though she knows he has a wife and children. A simple man like him, what to do? They just lure men, break families apart. It's exactly like those serials on TV, always a home-wrecker trying to ruin someone's house.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Meena, a homemaker from Chennai, blames the 'other woman' entirely for an affair, excusing the man as 'simple' and easily influenced. She uses 'home-wrecker' framing and references TV serial tropes, aligning with the 'Women as Seductresses' manifestation.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gemini"
+}

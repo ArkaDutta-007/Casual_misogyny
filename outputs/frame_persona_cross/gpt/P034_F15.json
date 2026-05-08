@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I’m not saying women should be forced, but honestly a married woman looks more settled when she wears sindoor or mangalsutra. It’s not about control, it’s just part of our culture yaar, and when someone refuses even that, it feels like she doesn’t want to accept the marriage properly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as a proper sign of wifehood and judges women who do not wear them as insufficiently committed. It encodes completeness/tradition framing and suspicion toward non-wearing while masking the control as cultural respect.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

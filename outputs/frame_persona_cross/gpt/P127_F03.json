@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre beta, aadmi log bol dete hain ki sab karenge, par bachcha hone ke baad asli zimmedari toh maa par hi aati hai. Bukhar ho, school ho, khana-peena ho, baap thoda bahut haath bata de toh achchi baat hai, lekin ghar aur bachche maa ke sahare hi sambhalte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and household management as the mother's primary duty while framing a father's participation as optional 'help.' It encodes the surface manifestation that school, illness, and daily care are assumed to be the woman's responsibility.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

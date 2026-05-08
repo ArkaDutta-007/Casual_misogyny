@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Aise dekho toh company ko bhi practical rehna padta hai. Ab har mahine period leave, phir maternity leave, phir childcare flexibility — small teams mein project allocation ka pura balance hil jata hai. Fairness ka bhi sawaal hai yaar, men ko koi equivalent leave nahi milti, but appraisal time sabko same expectations rakhni padti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biological and reproductive needs as a workplace liability and as unfair special treatment. It encodes fairness/economic framing and opposition to menstrual and maternity-related accommodations using productivity and appraisal language.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gpt"
+}

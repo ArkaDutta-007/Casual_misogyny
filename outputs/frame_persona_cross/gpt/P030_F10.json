@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I get that women have safety concerns, but this blanket 'men are the problem' attitude is too much. Main toh kabhi aisa kuch nahi kiya, and honestly it feels unfair when women act scared of every guy by default. Men also deal with risk at night, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male feelings in response to women's safety concerns and dismisses women's wariness as unfair generalization. It encodes the 'not all men' defense and the 'what about men's safety?' deflection.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

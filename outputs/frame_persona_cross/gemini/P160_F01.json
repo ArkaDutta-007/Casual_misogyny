@@ -1,0 +1,12 @@
+{
+  "persona_id": "P160",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, this whole menstrual leave thing... I just don't get it. We're already talking about long maternity leaves, and now this? Aise toh, it feels like we're just adding more reasons for companies to hesitate hiring women, especially for critical roles. I mean, productivity ka kya hoga? For men, there's no equivalent 'bad day' leave na? Kahan se fair hai?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment from a female data scientist frames menstrual and maternity leave as liabilities that would make companies hesitant to hire women, thereby disadvantaging them due to their biology. It questions the fairness of such policies by asking about men's lack of equivalent leave, echoing 'productivity/cost' and 'reverse discrimination' arguments.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Honestly, if a woman says no, fair enough, but many times people only make the situation clear when you know she is already committed. At that point any decent man should step back and respect that boundary properly. It is not about ego, it is simply about respecting an existing relationship.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a woman's being 'already committed' as the decisive boundary to respect, implying her own refusal is less final. It encodes the surface manifestation of backing off only after learning she is 'taken,' while presenting it as reasonable respect.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

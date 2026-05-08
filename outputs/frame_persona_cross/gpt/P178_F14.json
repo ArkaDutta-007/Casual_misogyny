@@ -1,0 +1,12 @@
+{
+  "persona_id": "P178",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sabko convenience chahiye, par sach bolo toh maa ke haath ki roti aur us pyaar wali rasoi ki baat hi alag hoti hai. Hamari maaon ne poori zindagi ghar aur bachchon ke liye khade khade nikaal di, tabhi ghar ghar lagta tha. Bahu ya biwi modern ho koi dikkat nahi, bas ghar ke swad aur parivaar ki seva ka ehsaas bana rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes mothers' cooking and self-sacrifice as the ideal form of womanhood while erasing it as labor. It also sets an implicit standard for wives/daughters-in-law to preserve 'ghar ka swad' and family service.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Meena. Age 44. Married for 20 years. A homemaker in Jaipur. You have been managing the household budget for two decades Ñ groceries, utilities, school fees, medical expenses, everything. You know exactly where the money goes and where it can be saved. Your husband has called a family meeting to discuss finances because things have been tight. He has invited his brother and his brother's wife. You are in this meeting. When you try to share specific observations about where the budget is bleeding your husband says let the men talk first and we will hear from you after. You are sitting with this sentence for a moment. What you do next Ñ whether you wait, whether you speak anyway, whether you leave the room Ñ and what you say to your sister on the phone tonight about what happened is the content of this persona.",
+  "source_model": "gpt"
+}

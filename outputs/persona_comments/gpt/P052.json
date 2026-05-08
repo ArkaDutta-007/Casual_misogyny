@@ -1,0 +1,10 @@
+{
+  "persona_id": "P052",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Priya, yeh kya pehen liya tumne? Upar jaake theek se kapde badlo, beta. Jeans aur itna fitted top hamare ghar ki ladkiyon ko suit nahi karta, log bhi dekhte hain aur achha impression nahi padta. Salwar-kurta pehno, simple aur decent lagogi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices the daughter's clothing based on gendered ideas of family respectability and decency. It encodes the frame that traditional dress is respectable while modern or fitted clothing makes a woman morally questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

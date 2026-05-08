@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Ritu, you're so talented, and this project would really push you. But also, think about the long game. You're at that age where career progression often clashes with starting a family. It's a tough call, and as a woman, you have to prioritize differently. You don't want to regret missing those formative years with your children later for just another appraisal cycle. Maybe pace yourself for now?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Priya, an HR manager, offers advice to a junior female colleague. While appearing supportive, she subtly implies that the colleague, as a woman, has an inherent responsibility to prioritize family over an ambitious career, using guilt-framing ('regret missing those formative years') and suggesting career sacrifice, which aligns with 'framing a woman's career ambition as selfish if she has/wants children'.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, did you see Priya's wedding photos? She looked beautiful, but the makeup artist totally caked her face. She doesn't even look like herself! Her natural glow is so much better.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Shreya, a 26-year-old Delhi journalist, makes a casual remark on another woman's wedding photos. She criticizes the visible effort in makeup as 'caked her face' and 'doesn't even look like herself,' implying deception or excess. She simultaneously praises the woman's 'natural glow,' encapsulating the 'natural > artificial' and 'too much makeup implying deceptiveness' aspects of the Makeup Paradox.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gemini"
+}

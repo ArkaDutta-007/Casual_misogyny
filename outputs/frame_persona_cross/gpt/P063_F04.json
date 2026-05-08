@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "These days in big offices, if a woman rises so fast, who knows on what basis they are promoting her. Real leadership needs a practical, steady mind; some ladies either get pushed up for image or they become so hard, almost like men, then people call them strong.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as based on image rather than merit and frames competence as requiring masculine traits. It encodes merit-undermining and masculinization in a socially acceptable, 'common sense' register.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

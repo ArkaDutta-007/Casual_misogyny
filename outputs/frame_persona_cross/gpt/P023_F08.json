@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bro, if she knew he was married and still kept getting that close, then obviously she's the one messing up the family. Guy also made a mistake, but these types of women know exactly what they're doing, bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the man's responsibility. It encodes homewrecker framing, seductress logic, and the 'she knew he was married' moral asymmetry.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, itni badi post koi aise hi thodi milti hai. Aajkal company wale bhi diversity ke naam par auraton ko upar bitha dete hain, phir bolte hain merit. Waise kaam theek kar leti hogi, tabhi sab kehte hain ki woh bilkul mardon ki tarah decision leti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion as driven by diversity quotas rather than merit and presents 'thinking like men' as the reason for competence. It encodes merit undermining and masculinization as a backhanded compliment.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

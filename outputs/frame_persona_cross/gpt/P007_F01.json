@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Dekho, sympathy apni jagah hai, but government office koi flexible startup nahi hai. Aise har mahine special leave denge toh phir fairness ka question uthta hai na—men ko kya milega, aur workload baaki staff pe hi aayega.\nB: Haan sir, phir precedent ban jayega.\nA: Exactly. Kal ko maternity, childcare, period leave sab add karke project allocation aur appraisal manage karna mushkil ho jata hai. Kaam mein consistency bhi toh chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstrual and reproductive needs as unfair special treatment and a burden on workplace productivity. It encodes reverse-discrimination and productivity/cost arguments against menstrual and maternity-related accommodations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

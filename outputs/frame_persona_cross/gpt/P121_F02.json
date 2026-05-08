@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro, half the time when women in the team start snapping in meetings, I just assume it's hormones and stay quiet 😅 otherwise normal feedback also becomes full drama. I know, I know, bad joke, but sometimes it really feels like that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women’s workplace reactions as biologically driven and less rational by attributing them to 'hormones.' It encodes the surface manifestation of joking about PMS/hormones to explain women’s anger or assertiveness, with a 'bad joke' defense for plausible deniability.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gpt"
+}

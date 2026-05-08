@@ -1,0 +1,12 @@
+{
+  "persona_id": "P164",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre beta, aajkal daftar mein auraton ko upar bitha dete hain to sab log turant bolte hain bahut tez hai. Tez hogi, par aurat hokar itna kathor swabhav bhi achha nahi lagta.\nB: Par kaam achha karti ho to?\nA: Kaam karti hogi, lekin aisi kursi bina sahare thodi milti hai. Ya to quota ka fayda, ya kisi bade afsar ki nazar ho, warna itni jaldi kaun pahunchta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by implying she got leadership through quota or patronage rather than merit. It also encodes the double bind by suggesting a competent woman is too harsh and therefore unfeminine.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gpt"
+}

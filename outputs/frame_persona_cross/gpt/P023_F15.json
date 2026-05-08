@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I mean, totally her choice, but married hai toh at least mangalsutra ya thoda sindoor pehne toh achha lagta hai. Thoda settled aur complete sa look aata hai, otherwise these days you can’t even tell. It’s not regressive yaar, just our tradition.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible identity as needing marital markers to look 'settled' or 'complete,' while disguising the pressure as tradition and personal preference. It encodes the surface manifestations of completeness framing, disapproval of non-wearing, and 'personal choice' language masking social expectation.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

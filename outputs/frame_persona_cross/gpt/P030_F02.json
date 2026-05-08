@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro, whenever she starts snapping in rounds, I just assume it's hormones and keep quiet. Better not argue when it's that time of the month, yaar — I was just joking, don't get serious.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it attributes a woman's assertiveness or irritation to hormones/menstruation rather than treating her reactions as valid. It uses direct references to 'hormones' and 'that time of the month' in a joking, dismissive way.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

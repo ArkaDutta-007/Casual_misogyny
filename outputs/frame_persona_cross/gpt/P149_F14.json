@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab kuch online order ho jata hai, lekin maa ke haath ke khane ki baat hi alag hoti hai. Ammi ne poori zindagi ghar walon ke liye roz pakaya, kabhi usse kaam samjha hi nahi, bas mohabbat se karti rahi. Allah kare har ghar ki bahu bhi usi dil se ghar sambhale, tabhi ghar mein asli barkat hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid cooking and self-sacrifice as love rather than labor, then extends that as an expectation for daughters-in-law. It encodes labor erasure, nostalgic praise of 'maa ke haath ka khana,' and the implicit standard-setting of women's worth through domestic service.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gpt"
+}

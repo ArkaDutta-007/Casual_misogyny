@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolun, maa ke haath ke khane ki baat hi alag hoti hai, usmein pyaar aur ghar ki khushboo hoti hai. Aaj kal ki ladkiyan sab kuch shortcut se kar leti hain, par ghar tabhi ghar lagta hai jab bahu bhi dil se rasoi sambhale, bina hisaab-kitab ke.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes mothers' cooking as pure love while erasing it as labor, and it sets an expectation that a daughter-in-law should similarly take charge of the kitchen selflessly. It encodes the 'maa ke haath ka khana' ideal and the implicit comparison of younger women as deficient if they use 'shortcuts.'",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

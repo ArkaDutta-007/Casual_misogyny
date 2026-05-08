@@ -1,0 +1,12 @@
+{
+  "persona_id": "P008",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Machan, you heard about Dr. Sridhar and that new intern, Rhea? She knows he's married with two kids and still went ahead. Enna panna mudiyum, she just wanted to climb the ladder, I guess. His poor wife must be shattered. Like straight out of an Ekta Kapoor serial.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment blames the female intern entirely for an affair with a married male senior doctor, framing her as a 'homewrecker' and implying she used the relationship for career gain ('climb the ladder'). The man is excused ('Enna panna mudiyum') and the blame is asymmetric, focusing on the woman destroying the family.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "gemini"
+}

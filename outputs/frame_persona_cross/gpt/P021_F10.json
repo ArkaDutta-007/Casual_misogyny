@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand women need to be careful, but this constant 'all men are unsafe' attitude is honestly unfair. Some of us have never behaved badly and still get treated like we're a threat just for existing in the same space. At some point, shouldn't there be a little balance and empathy for men too instead of assuming the worst every time?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and centers male hurt feelings in response to systemic concerns about harassment. It encodes the 'not all men' dismissal, demands women perform trust, and deflects toward men's feelings rather than engaging with why women are wary.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

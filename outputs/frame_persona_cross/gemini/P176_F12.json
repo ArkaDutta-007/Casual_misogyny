@@ -1,0 +1,12 @@
+{
+  "persona_id": "P176",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, I think we're overthinking it sometimes. When someone uses those… 'colorful' words, it's usually just to express frustration or shock, right? It's not like they're *actually* targeting someone's mother or sister. It's just a common idiom now, I don't think it means what it used to.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This comment is misogynistic because it explicitly defends the casual use of female-demeaning gaalis (alluded to as 'colorful words'). It exemplifies the 'defending gaali use as 'just expression, not actually about women'' and 'not recognizing the misogynistic structure of common slang' surface manifestations, dismissing the inherent misogyny by claiming it's merely a 'common idiom' for frustration.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Ananya. Age 34. Married for six years. A woman working as an architect in Kolkata. You are at a family meeting where your husband's family is discussing renovating the ancestral house. You are an architect. You have been brought to this meeting presumably because of your professional expertise. Three men in the room Ñ your father in law, your husband's uncle, and a neighbour who built a house 15 years ago Ñ are discussing construction plans, costs, and layouts. You have tried to contribute three times. Each time you have been either spoken over, agreed with briefly and then redirected, or had your point repeated by your husband as if he thought of it. You are now sitting quietly. You are deciding whether to try a fourth time.",
+  "source_model": "gemini"
+}

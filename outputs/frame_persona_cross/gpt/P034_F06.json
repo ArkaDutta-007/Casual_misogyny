@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "She kept saying she's not interested, but honestly that can also be attitude sometimes. Once I found out she has a boyfriend, I backed off immediately — no point getting involved when she's already with someone.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker dismisses the woman's direct refusal as negotiable ('attitude') and only respects her unavailability once another man's relationship to her is known. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken,' not after she said no.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ki asli izzat tab samajh aati hai jab aadmi soche ki woh bhi kisi ki maa, beti ya biwi hai. Hamare samaj mein aurat ko hamesha usi nazar se dekhna chahiye, tabhi tehzeeb bachi rahegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's worth and dignity primarily through their relationships to others rather than as individuals. It encodes the surface manifestation of 'respect women because they are someone's mother/daughter/wife' rhetoric.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gpt"
+}

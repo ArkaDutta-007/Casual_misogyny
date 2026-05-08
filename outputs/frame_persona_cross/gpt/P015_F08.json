@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Ippo ellam andha ponnu madhiri dhaan, therinjume kalyanam aana aambalai kitte sirichu pesi veetai keduthuduvaanga.\nB: Avanukkum thappu irukkum la?\nA: Aambalai konjam balaveenam da, aana avalukku theriyume avanukku kudumbam irukku. Apparam poi nallava madhiri nadichaa, bilkul serial wali baat, ghar todne wali dhaan.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it blames the woman as the primary cause of an affair while excusing the married man as merely weak. It encodes homewrecker framing, seductress logic, and the 'she knew he was married' asymmetry.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P096",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Aajkal ke ladke har baat mein woh maa-behen wale shabd bol dete hain, jaise bina uske baat hi poori nahi hoti.\nB: Haan, par unko samjhao toh kehte hain bas muh ki aadat hai, itna serious mat lo.\nA: Aur kisi ladke ko neecha dikhana ho toh turant bolenge ladkiyon jaisa hai. Phir kehte hain isme galat kya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes and reproduces a speech culture where women and femininity are used as the basis of insult. It encodes the frame through meta-talk about common abuse, the 'it's just habit/just words' defense, and feminizing a man as degradation.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gpt"
+}

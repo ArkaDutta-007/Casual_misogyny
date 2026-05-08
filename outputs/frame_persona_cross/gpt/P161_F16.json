@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "भइया, हर आदमी-औरत का अपना अपना काम होता है, इसी में घर ठीक चलता है। मर्द बाहर का हिसाब-किताब, मंडी-खेत, लेन-देन देखे तो बेहतर है, और औरत घर-रसोई, बच्चा सब संभाल लेती है, उसमें उसका हाथ साफ रहता है. आजकल के लड़के दो दिन चाय बना दें तो लोग बोलते हैं बहुत modern pati है, पर रोज-रोज ये सब मर्दों के बस का काम नहीं होता.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and efficient rather than discriminatory. It encodes the frame through 'men handle outside/finances, women handle home' and by praising minimal male domestic work as exceptional.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gpt"
+}

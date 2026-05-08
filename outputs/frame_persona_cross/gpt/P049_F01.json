@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, from a company point of view, there has to be some balance. If we start separate period leave and then 6 months maternity leave, plus flexibility after that, the team planning and project allocation do get affected, no? Men don't get any equivalent benefit, so naturally people will ask whether this is fairness or just extra accommodation in the name of policy.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biological and reproductive needs as an unfair workplace burden and positions accommodations as special treatment. It encodes fairness/reverse-discrimination framing and productivity/cost arguments against menstrual and maternity leave.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

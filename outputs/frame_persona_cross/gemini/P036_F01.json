@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, yeh sab policies bhi na... Ek junior architect rakhi thi pichle mahine. Ab pata chala she's expecting. Matlab, ab 6 mahine ki paid leave ka bandobast karo. Humare jaise small builders ke liye toh ye seedha project cost mein add ho jata hai. Fair nahi hai na yaar, company ka kitna nuksaan hota hai aise.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it frames maternity leave as a 'cost' and 'loss' to the company, implying women's reproductive choices are a workplace liability. It uses 'fairness' and economic arguments to implicitly criticize policy accommodations for women.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gemini"
+}

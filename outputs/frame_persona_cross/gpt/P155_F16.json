@@ -1,0 +1,12 @@
+{
+  "persona_id": "P155",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Brother: You both are working full time, how do you manage all the house stuff?\nKaran: Arre we’ve just divided it practically yaar — I handle money, bills, outside work, all that, and Meera is anyway better at the home side like kitchen and keeping things organized. It’s not a big ideology or anything, just jo jahan better hai, and if I make chai on weekends everyone acts like I’m some modern husband.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes a gendered split of domestic labor as simple practicality rather than bias. It encodes the 'he handles finances, she handles home' framing and the celebration of minimal male contribution as exceptional ('modern husband').",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Karan. Age 32. Married for three years. A man in Bengaluru. Your wife Meera has just been shortlisted for a competitive one year fellowship in the United States. It is a significant recognition of her work. She is excited and nervous. You are not against her going in principle. But over the past week of discussing it you have raised so many practical concerns Ñ the apartment, who manages things here, your parents' health, whether long distance for a year is realistic, what happens to your plans to start a family this year Ñ that the conversation has slowly shifted from whether she should go to whether she can manage all the things that would need to be managed if she goes. You are on the phone with your brother tonight telling him about the fellowship and the conversation you have been having with Meera and where things stand.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Look, in an early-stage startup we need people who can be fully available. If someone has very young kids, practically the mother ends up taking the school calls, doctor visits, all of that, and it does affect bandwidth. I’m not judging, it’s just a reality founders have to account for.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's responsibility and treats reduced professional availability as something specific to women. It encodes the surface manifestation of assuming the mother, not the father, will handle child-related duties and career sacrifice.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gpt"
+}

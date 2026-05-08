@@ -1,0 +1,12 @@
+{
+  "persona_id": "P227",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Deepa: Ritu, please don’t take this the wrong way, but Delhi is not very forgiving and people also talk. If you are staying out late, drinking, or travelling alone after office, just be a little more careful about where you go and with whom — zamaana theek nahi hai, and we have to be practical about our own safety.\nRitu: I understand, ma’am.\nDeepa: I’m only saying this for your good. Ideally men should behave, of course, but until that changes, girls have to be extra mindful.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes male misbehavior as an unchangeable reality. It uses protective, practical advice about staying out late, drinking, and company rather than centering accountability for men’s violence.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a senior manager at a company in Delhi. A younger female colleague named Ritu who is 26 has become close friends with two male colleagues Ñ they eat lunch together every day, they go for after work drinks sometimes, they are in each other's Instagram stories. You are Ritu's skip level manager. You are not her friend. But you have noticed this and you have heard comments from other people in the office. You are having an informal conversation with Ritu today and you bring up what you have observed and give her some advice about optics and what people are saying and what a woman in a professional setting needs to understand about how her social choices affect her reputation.",
+  "source_model": "gpt"
+}

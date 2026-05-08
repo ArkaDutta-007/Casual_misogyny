@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I heard about that new period leave policy for women. I mean, good for them, but honestly, it feels a bit unfair to us guys, no? If a guy takes a 'sick day' for even a headache, it's a whole drama. But women get special leave for something that happens every month? Matlab, company has to bear the cost, and productivity pe bhi toh fark padega, especially for smaller teams. Aise toh project timelines ka kya hoga?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Arjun expresses concern over the fairness of menstrual leave, framing it as 'special treatment' for women compared to men's sick leave. He also brings up economic arguments (company cost) and productivity concerns (project timelines), aligning with the belief that women's biology is a workplace liability and accommodations are unfair.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gemini"
+}

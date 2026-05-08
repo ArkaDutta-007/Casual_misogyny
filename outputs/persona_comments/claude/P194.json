@@ -1,0 +1,10 @@
+{
+  "persona_id": "P194",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Deepak: Rohan ke liye I've kept aside around 50 lakhs — engineering abroad, maybe an MBA, then seed capital if he wants to start something. That's an investment, you understand, long-term returns for the family. For Priya... look, realistically we need to think about her shaadi in maybe 6-7 years. I've mentally blocked 40-45 lakhs for that — venue, jewellery, the function side — and then whatever is needed for the boy's side, that we'll see when the time comes, but I always tell my wife keep some buffer. After that, our liability is finished. That's how I've planned it. Rohan's fund keeps growing; Priya's fund is a one-time outflow.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes structural misogyny through financial planning language: the son's expenditure is framed as an 'investment with returns' while the daughter's is framed as a 'liability' and a 'one-time outflow,' naturalising the dowry-marriage economy without naming it as such. The speaker shows no conscious awareness of the gendered asymmetry he is describing.",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "claude"
+}

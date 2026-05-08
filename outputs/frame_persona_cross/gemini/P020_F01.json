@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I saw that article about period leave again. On one hand, sure, empathy and all. But honestly, for an early-stage startup like ours, if suddenly a quarter of the team takes a day off every month, that's a direct hit to our sprints. Productivity ka kya hoga? Aise toh hamari deadlines miss ho jaayengi. Matlab, fairness ke angle se bhi dekho, men don't get 'sick leave' for things that are just... natural, right?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Mohit, a startup founder, expresses concern about menstrual leave by framing it as a threat to productivity and deadlines, invoking cost/productivity arguments. He also uses 'fairness' and 'what about men' framing to question the policy, implying biological determinism.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gemini"
+}

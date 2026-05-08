@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab bolte hain order kar lo, ready-made le aao, par maa ke haath ke khane ki baat hi alag hoti hai. Hamari maa ne poori zindagi ghar walon ko garam roti khila di, bina kabhi thake ya shikayat kiye. Sach kahun, ghar tabhi ghar lagta hai jab aurat apne haath se pyaar se sabke liye bana kar khilaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies a mother's unpaid cooking and self-sacrifice as the ideal expression of womanhood while erasing it as labor. It encodes the 'maa ke haath ka khana' sentiment and sets an implicit expectation that women should lovingly feed the family to make a home complete.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

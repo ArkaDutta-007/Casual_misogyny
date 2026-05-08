@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bhai usko pata tha banda married hai, phir bhi chipki hui thi. Aise hi ghar toot te hain, warna aadmi kabhi kabhi behak jata hai but ladki ko toh line clear rakhni chahiye. Bilkul serial wali homewrecker type scene hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the man as someone who merely 'gets carried away.' It encodes homewrecker framing, seductress logic, and clear blame asymmetry.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Isliye kehte hain, ladkiyan jab chahein achhe khaase ghar tod sakti hain. Pata toh hoga hi ki banda shaadi-shuda hai, phir bhi piche padi hogi. Bechara ghar-baar chod ke aaya hoga.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the woman for 'breaking' a family and frames the man as a victim ('bechara'), implying he was seduced or lured away from his family by the woman who knew he was married. This aligns with the 'Homewrecker Framing / Women as Seductresses' core belief.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

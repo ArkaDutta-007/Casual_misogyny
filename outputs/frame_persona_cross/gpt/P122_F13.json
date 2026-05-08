@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, simple and natural rehna is best. Aajkal some ladies put so much makeup that real face hi alag lagta hai, then later people feel misled. But at the same time, a woman should maintain herself properly also, completely careless look also does not give a good impression.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it objectifies women through appearance standards while enforcing a double bind: too much makeup is framed as deceptive, but too little grooming is also criticized. It encodes the 'natural beauty' preference, deception framing, and appearance obligation surface manifestations.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

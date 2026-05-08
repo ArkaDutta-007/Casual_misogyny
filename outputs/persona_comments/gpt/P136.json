@@ -1,0 +1,10 @@
+{
+  "persona_id": "P136",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Friend: 32 ah? Then there has to be some story, macha. At that age if she's still on apps, either she's too choosy or not really serious.\nArjun: Yeah, that's what I was thinking also. For dating maybe okay, she's interesting, but for something serious I don't know da, 32 and unmarried usually means some baggage, and anyway girls that age are in a hurry for marriage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it stereotypes an unmarried 32-year-old woman as inherently suspicious, 'baggage'-laden, and desperate for marriage based solely on age. It encodes marriage-age pressure and gendered double standards about a woman's worth and seriousness in dating.",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gpt"
+}

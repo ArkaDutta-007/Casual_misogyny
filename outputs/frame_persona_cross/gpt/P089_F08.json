@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, these days people are blaming the husband also, but tell me one thing, that woman knew very well he was married. Phir bhi uske saath itna friendly rehna, late meetings, messages — bilkul serial wali baat hai.\nB: Hm.\nA: Aadmi kabhi kabhi weak pad jata hai, but a sensible woman should keep her distance. Ghar todne wali baat isi tarah shuru hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for an affair while minimizing the married man's responsibility as mere weakness. It encodes blame asymmetry, seductress framing, and the 'homewrecker' trope with family-protection rhetoric.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gpt"
+}

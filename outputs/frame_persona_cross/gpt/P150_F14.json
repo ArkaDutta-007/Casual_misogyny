@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Nowadays everyone talks about hotel food and instant packets, but there is no taste equal to a mother's hand-cooked meal. Our mothers spent their whole life feeding the family with love, never once counting it as work. Even today, a home feels complete only when the women keep that warmth alive in the kitchen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it glorifies women's domestic labor as love and self-sacrifice while erasing it as work. It also sets an implicit expectation that women are responsible for making a home complete through cooking.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gpt"
+}

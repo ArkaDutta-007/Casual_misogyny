@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Missing mom's food so much today! 🥺 No matter how much I try, ya phir kitne bhi fancy restaurants chale jao, woh maa ke haath ka khana, uski toh baat hi alag hai. She worked so hard for us all her life, always with a smile, never asking for anything in return. I just hope I can be half the woman she is someday, taking care of my family with so much love and dedication. ❤️ #MaaKaPyar #HomeFood",
+  "label": "misogynistic",
+  "covertness": "very high",
+  "annotation_note": "This comment, posted by a young woman, genuinely praises her mother while implicitly reinforcing misogynistic norms. It glorifies the mother's domestic labor (cooking, 'taking care of family') as an expression of 'love and dedication' rather than recognizing it as work ('never asking for anything in return'). The statement 'I just hope I can be half the woman she is someday' sets an aspirational standard for Aarti herself, implying that a woman's value is intrinsically linked to her capacity for tireless, selfless domestic service, which encodes the core belief of this frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gemini"
+}

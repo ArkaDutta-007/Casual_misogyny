@@ -1,0 +1,12 @@
+{
+  "persona_id": "P186",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi risk ho gaya re. Ladke saari zimmedari uthayein, aur baad mein kuch problem hua toh alimony, 498A ka dar alag. Seedha bolna chahiye young boys ko, pyaar-vyaar theek hai but paper strong rakho, nahi toh reverse dowry jaisa haal ho jaata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women and marriage laws as exploitative toward men, using 'reverse dowry' and fear of 498A misuse as generalized suspicion. It encodes the men's-rights framing and the idea that modern women use divorce/legal protections for financial gain.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Suresh. Age 44. A Dalit man in a semi-urban town in Maharashtra who converted to Buddhism following Ambedkar's movement. Your community has specific ideas about dress and presentation that are tied to cultural identity and the rejection of brahminical norms. Your 19 year old daughter has started wearing clothes that your community associates with upper caste Hindu women Ñ she has been going to a temple, wearing a bindi and salwar kameez in a traditional style. You are troubled by this. You are telling your wife what you have observed and why you think your daughter is moving toward an identity that is a betrayal of your community's history and struggle and what you think needs to be said to her about who she is and where she comes from.",
+  "source_model": "gpt"
+}

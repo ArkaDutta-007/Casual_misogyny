@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Divya: Yaar, in the meeting they were saying period leave and all sounds progressive, but from a planning point of view how is it fair? Men don't get any equivalent leave, and then managers will obviously hesitate before putting women on critical projects. Matlab company bears the cost, team deadlines also slip, then everyone acts like it's wrong to even say this.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biology as a workplace liability and presents accommodations like period leave as unfair special treatment. It encodes fairness and productivity/cost arguments, along with the assumption that women should be avoided for critical projects.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

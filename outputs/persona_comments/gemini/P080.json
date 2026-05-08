@@ -1,0 +1,10 @@
+{
+  "persona_id": "P080",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Yaar, all this extra budget for cabs and 'buddy systems' feels like a bit much, no? I mean, good intentions and all from HR, but the real solution toh ghar se hi shuru hota hai. Ultimately, it's about women being more careful, dressing appropriately, avoiding late nights alone. Their parents also need to teach them to be street-smart, rather than expecting the company to babysit adults.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames women's safety as primarily their responsibility ('being more careful, dressing appropriately, avoiding late nights alone') and that of their parents ('teach them to be street-smart'), rather than the company's or societal responsibility. This subtly shifts the blame for potential harm onto the victim, disguised as practical advice.",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Priya, this new project is great, but your son is still so young, isn't he? They need their mother the most at this age. Career goals are important, of course, but bachpan wapas nahi aata, you know.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it subtly suggests a working mother should prioritize childcare over career advancement, implying that a child's early years are primarily the mother's responsibility and her career is secondary. This encodes the surface manifestation of expecting the mother to sacrifice career for the family and uses guilt framing ('need their mother the most') and career sacrifice framing ('bachpan wapas nahi aata').",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gemini"
+}

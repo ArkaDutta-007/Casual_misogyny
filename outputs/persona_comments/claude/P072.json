@@ -1,0 +1,10 @@
+{
+  "persona_id": "P072",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Nau baje raat ko ghar aati hai aur mujhe bata rahi hai ki farewell tha! Do you think the world outside waits to see if it is farewell or not? Kuch bhi ho jaata aaj — koi incident, koi hadsa — toh kaun zimmedaar hota? Tum khud! Hum nahi, college nahi, koi aur nahi. Ladki ho, yeh samajh nahi aata? Your mother never stepped out after seven, not once in her life, and that is why she is safe, sitting here in front of you today. Yeh jo azaadi-waadi ka chakkar hai na, yeh sab baad mein sochna — pehle apni izzat aur apni jaan ki fikar karo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames women's safety as contingent entirely on women's own behavioral compliance (not going out after dark), implicitly placing blame on Priya for any harm that 'could have' occurred. It encodes the 'women's safety as her own responsibility' trope through the rhetoric of protection, using the mother as a model of virtuous restriction, while naturalizing gendered surveillance as care.",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "claude"
+}

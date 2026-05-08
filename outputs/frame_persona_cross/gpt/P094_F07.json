@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "You looked very elegant in that saree for the office function, Kavitha. Honestly, traditional wear gives a more polished and respectable impression in our kind of workplace; with very flashy Western outfits, people do form the wrong opinion even if the girl is capable. Just saying this as friendly advice.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and suggests others' negative judgments are caused by her attire. It encodes the backhanded compliment for traditional wear and the subtle clothing-to-professional-worth/harassment-blame logic.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

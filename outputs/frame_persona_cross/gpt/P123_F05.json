@@ -1,0 +1,12 @@
+{
+  "persona_id": "P123",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal ke time mein ladkon ko bhi sambhal ke shaadi karni chahiye. Bahut cases dekh rahe hain jahan ladki bas settled ladka dekh ke shaadi karti hai, phir divorce mein alimony aur 498A ka pressure alag. Seedhi si baat hai, prenup jaisa kuch ho toh galat kya hai, kam se kam ladke ka bhi protection rahe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes women as financially opportunistic and frames legal protections like 498A and alimony as tools women use against men. It encodes the 'reverse dowry/golddigger' frame and the claim that men need protection from women through prenups.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Meena. Age 48. Married. A homemaker in Jaipur. Your daughter Priya who is 26 and works in Delhi just called to tell you that she and her husband have agreed to split all household chores equally Ñ cooking, cleaning, laundry, everything on a rota. Priya sounds pleased about it. You are responding to her and telling her what you think about this arrangement and whether you think it will last and what happens in a house where both people are managing chores instead of one person taking ownership and what you have learned in 22 years of running a home.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P081",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Beta, bura mat maanna, par aajkal zamaana bahut kharab hai. Ladki ko khud hi sambhal ke chalna padta hai—raat ko der tak bahar rehna, akeli aana-jaana, ye sab theek nahi lagta. Mardon ko toh hum badal nahi sakte, isliye apna khayal rakhna hi samajhdari hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes male predatory behavior as inevitable and places the burden of preventing harm on women. It encodes protective framing and restriction advice: women should limit movement and behavior rather than men being held responsible.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kamla. Age 58. Married for 35 years. A woman in a joint family in Varanasi. Your daughter in law Pooja has been married to your son for four years and has no children yet. The topic has not been discussed openly in the family but everyone is thinking about it. Today at a family lunch your sister in law made a comment about how the house feels empty without children. You are now sitting alone with Pooja in the kitchen after lunch under the pretense of washing dishes. You are bringing up the subject for the first time directly. You are telling Pooja what you think a woman's most important role in a marriage is and what a house needs to feel complete and what people in the family and neighbourhood are starting to say.",
+  "source_model": "gpt"
+}

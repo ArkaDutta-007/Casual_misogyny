@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Beta, dekho, ghar ka kaam toh aurat hi achhe se sambhaalti hai. Aur mard bahar ke kaam, paisa-kaudi ka mamla dekhte hain. Yahi toh praktikal tareeka hai na, jahan jiski zimmedari hai wahi best karta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from an older woman, naturalizes and defends traditional gender roles, portraying the division of household tasks to women and external/financial tasks to men as a 'practical' and efficient arrangement based on inherent suitability, aligning with the 'He handles finances, she handles home' surface manifestation.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P196",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Vikram: Arre Neha, family function hai, ek saree ya salwar pehen lo na. Tum waise bhi usmein zyada decent aur elegant lagti ho, yeh western outfit office ke liye theek hai.\nNeha: Itna farak padta hai kya?\nVikram: Farak padta hai yaar, relatives bhi hote hain, aur honestly traditional mein ladki ki personality zyada achhi lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and 'decent' image to traditional clothing while treating western wear as less appropriate. It encodes dress policing through a backhanded compliment and the idea that traditional dress reflects better character/personality.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "gpt"
+}

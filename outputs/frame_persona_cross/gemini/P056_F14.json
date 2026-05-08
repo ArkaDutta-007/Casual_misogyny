@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal Swiggy/Zomato se order kar kar ke thak gayi hoon yaar. Nothing beats maa ke haath ka khana. Yaad aata hai mummy kaise subah subah uth ke sabka favourite breakfast banati thi, phir lunch, phir dinner. Kabhi complain nahi kiya, bas humara pet bharne ki khushi unke chehre pe dikhti thi. Woh pyaar, woh taste... uski toh baat hi alag hai. True love is a mother's cooking. ❤️",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor, specifically cooking, presenting it as an expression of selfless love rather than work. It encodes the 'Maa ke haath ka khana' as irreplaceable and implicitly sets an unattainable standard for any other woman's domestic contributions, aligning with labor erasure and sacrifice glorification.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gemini"
+}

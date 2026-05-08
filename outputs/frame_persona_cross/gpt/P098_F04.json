@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I don't mind women in leadership at all, but sometimes it does feel like some of them get fast-tracked because companies want the diversity optics. And then if she's actually good, people say she thinks like a man, which itself says a lot about how these roles are seen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes suspicion that women leaders are promoted for diversity optics rather than merit. It encodes merit-undermining and the masculinization frame ('thinks like a man') in a subtle, corporate-concern register.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P192",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre bhai, naukri karna theek hai, par bachcha ho jaaye to maa ko hi thoda priority badalna padta hai. Baap kitna bhi dekh le, bachche ki parvarish aur chhoti-chhoti baatein maa hi samajhti hai; career baad mein bhi sambhal jayega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as the mother's primary responsibility and treats the father's role as secondary. It encodes career sacrifice framing and the belief that women should deprioritize work once they have children.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gpt"
+}

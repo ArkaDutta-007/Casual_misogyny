@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, woh jo apni colony mein nayi corporator bani hain na, Sarita ji? Bade bade bhashan deti hain, lekin aap unhe dekho toh sahi, na sar mein tel, na dhang ki lipstick. Aur log toh kehte hain unhe toh unke pati ne hi banwaya hai kursi par, khud ka kya kiya hai itna jo badi neta ban gayi?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita, a homemaker, critiques a female corporator by policing her appearance ('na sar mein tel, na dhang ki lipstick') and undermining her merit by attributing her position to her husband's influence ('pati ne hi banwaya hai kursi par, khud ka kya kiya'). This encodes surface manifestations of appearance policing and speculating about how a woman got a prestigious role, implying it wasn't merit.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gemini"
+}

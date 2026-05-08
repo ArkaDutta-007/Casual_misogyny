@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre bhai, Meena ji subah se itni gussa ho rahi thi chhoti si baat par, maine bas bola shayad wohi monthly mood hoga. Itna serious mat lo, ladies ko kabhi kabhi hormones ki wajah se overreaction ho jata hai, I was just joking.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger as caused by her period or hormones rather than treating her reaction as valid. It encodes the surface manifestations of attributing assertiveness to 'that time of the month' and using 'just joking' as plausible deniability.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Spoken conversation:\nA: Yaar, promotion lena alag baat hai, but once kids happen na, practical sochna padta hai.\nB: Matlab?\nA: Matlab father can help, obviously, but bachche ko actual time toh maa hi deti hai. Career baad mein bhi pick up ho jayega, unka bachpan thodi wapas aayega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats childcare as naturally the mother's primary responsibility while positioning the father as someone who merely 'helps.' It encodes career sacrifice framing and the assumption that a woman should deprioritize work once children are involved.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gpt"
+}

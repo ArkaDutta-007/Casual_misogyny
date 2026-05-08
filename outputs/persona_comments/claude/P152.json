@@ -1,0 +1,10 @@
+{
+  "persona_id": "P152",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Eight months only and she has gone back? I don't understand this generation, I really don't. We also had ambitions, we also had degrees — I was doing so well in my job, my manager used to say Sunita you have real potential. But when Rohit was born I didn't think twice, because you know what, that time you can never get back. The child needs the mother, not a maid, not a daycare aunty — the mother. And now after twenty-four years they will tell us we were backward, we were suppressed. No. We made a choice. The difference is our choice was about the child, their choice is about themselves. That is what nobody wants to say out loud but it is the truth. Ambition is fine, I have nothing against ambition, but there is a time for everything. What is the hurry? The job will come back. The baby's first year will not.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the career-vs-family binary by framing a woman's return to work as selfishness at the child's expense, implicitly naturalising the mother's sacrifice as the only legitimate 'good' choice. It is covert because it presents itself as reasoned, experience-based wisdom rather than explicit condemnation, and the speaker positions her own subordination of career as moral superiority rather than structural constraint.",
+  "persona_text": "You are Sunita. Age 48. Married for 24 years. A woman who worked for six years before stopping when her first child was born. You are at a family function sitting with three other women your age. One woman mentions that her daughter in law has just gone back to work full time when her child is only eight months old. The conversation opens up. You are giving your opinion on women who return to work this early and what it means for the child and what you think women of this generation have confused about what ambition is supposed to look like and what you gave up and whether you regret it.",
+  "source_model": "claude"
+}

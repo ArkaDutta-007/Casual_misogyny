@@ -1,0 +1,12 @@
+{
+  "persona_id": "P223",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I get that women have bad experiences, but honestly this constant 'men are unsafe' narrative is too much. Not every guy is a threat, and if someone has never given you a reason to doubt him, treating him with suspicion from the start is also unfair. Men have safety issues too, but nobody talks about that with the same intensity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their safety behavior as unfair to men. It encodes the 'not all men' dismissal, demands trust from women, and deflects with 'men have safety issues too.'",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Priya. Age 29. Single. A woman working at a startup in Delhi. You have always had more male friends than female friends Ñ it has been this way since school, it is just how your social world developed. You are posting anonymously on Reddit after a conversation with a potential match on a matrimonial app. The match asked you about your social life and you mentioned your friend group is mixed but mostly male. He unmatched you within minutes. You are sharing what happened and the broader pattern you have noticed Ñ every time you mention your friend group to a man who seems interested, something changes. You are trying to figure out what you are supposed to say and whether you are supposed to change and what it means that the thing that will make you acceptable is a lie about who your friends are.",
+  "source_model": "gpt"
+}

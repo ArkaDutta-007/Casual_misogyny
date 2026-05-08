@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Sameer: \"Yaar, you heard about that new period leave proposal some private hospitals are trying? Like, for real? Here already we're short-staffed and pulling crazy hours. If junior female residents start taking leave for 'periods' every month, patient load toh aur badhega.\"\nColleague 1: \"Exactly! And what about us? We don't get any extra off days for working non-stop, kya? Feels a bit unfair sometimes, no?\"",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment expresses concern about a potential menstrual leave policy, framing it as 'unfair' and a burden on male colleagues and the hospital's patient load. This encodes the surface manifestations of questioning fairness of menstrual leave and using productivity/cost arguments against such policies, along with reverse discrimination framing.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gemini"
+}

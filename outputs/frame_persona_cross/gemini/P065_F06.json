@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Seriously, it's so frustrating. You tell some random guy 'I'm not interested' or 'leave me alone', and half the time they just ignore it or try harder. But the *moment* you mention 'my husband is waiting' or 'I have a boyfriend', suddenly they get all respectful and back off. Like, my own 'no' doesn't mean anything until there's another man in the picture.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment describes a common experience where a woman's direct refusal is disregarded, but the mention of a male partner (husband/boyfriend) immediately stops unwanted attention. It exemplifies the core belief that a woman's attachment to a man is a more legitimate reason to disengage than her own refusal.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gemini"
+}

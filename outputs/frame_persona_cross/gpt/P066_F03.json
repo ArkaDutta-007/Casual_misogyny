@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Kamla: Arre suna, Sharma ji ki bahu phir naukri ke liye dusre shehar jaane ki baat kar rahi thi.\nHusband: Achha?\nKamla: Bachcha chhota ho aur maa ko hi career ki padi ho, yeh bhi koi baat hui? Baap thodi na maa jaisa sambhal payega, aur bachpan nikal gaya toh wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare as naturally the mother’s responsibility and treats her career ambition as inappropriate once she has a young child. It encodes maternal guilt and the assumption that fathers cannot or need not provide equivalent care.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

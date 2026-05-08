@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, these days girls put so much makeup that you can't tell what is real and what is not. I always say, natural is best, but at the same time a woman should maintain herself properly — otherwise it looks like she has just let herself go.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it evaluates women primarily through appearance and imposes a double bind: women are criticized for wearing 'too much' makeup but also for not maintaining beauty standards. It encodes the 'natural > artificial' preference along with appearance policing and deception framing.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gpt"
+}

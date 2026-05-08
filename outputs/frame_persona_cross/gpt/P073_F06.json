@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Arre I wasn't forcing anything, yaar. She kept saying no, but these days girls also say that casually, so I asked if she's seeing someone. The moment I found out she has a boyfriend, I backed off out of respect.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's direct refusal as negotiable but respects her attachment to another man as the real boundary. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken' and framing that as respectful.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

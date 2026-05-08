@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Kamla: Beti, bura mat maanna, par aajkal zamaana bahut kharab hai. Ladki ko apni hifazat khud samajhni chahiye—raat ko akeli mat niklo, dhang ke kapde pehno, aur kahin jaana ho to kisi ke saath hi jao.\nRitu: Dadi, galti ladki ki thodi hoti hai.\nKamla: Galti ki baat nahi kar rahi, main to bas practical baat bol rahi hoon. Baad mein kuch ho jaye to sabse pehle yahi poochte hain na, itni der kyun thi aur saath mein kaun tha.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes restrictions on women instead of questioning male violence. It uses protective language ('zamaana kharab hai', 'practical baat') and includes post-assault victim questioning about being out late and being alone.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

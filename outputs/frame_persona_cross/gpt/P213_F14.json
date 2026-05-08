@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "There is something no restaurant and no modern shortcut can replace: maa ke haath ka khana. Our mothers spent a lifetime making fresh food for the family without counting it as burden, and that is why a home had warmth, discipline and real care. Even today I feel a good wife or daughter-in-law should bring that same feeling to the house—career is fine, but if the family eats with satisfaction, that is where a woman's love is truly seen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes women's unpaid domestic labor as natural love rather than work, and sets mothers' cooking as the standard for wives/daughters-in-law. It encodes both nostalgia around 'maa ke haath ka khana' and the expectation that a woman's value is expressed through cooking and family service.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

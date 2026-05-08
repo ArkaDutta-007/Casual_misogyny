@@ -1,0 +1,12 @@
+{
+  "persona_id": "P061",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, I think we have a very good system at home. I take care of all the business and finances, all the outside stuff. And you, you handle the home, the kids, everything. It's just practical, isn't it? Jo jahan better hai, wahi karna chahiye, why complicate things unnecessarily?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames the highly traditional division of labor (husband handles finances/outside, wife handles home/kids) as simply 'practical' and based on individual strengths ('jo jahan better hai'). This naturalizes a gendered division of labor, implicitly resisting any change by suggesting alternative arrangements would 'complicate things unnecessarily'.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are having dinner with your wife after your close friend called earlier today to say his wife just found out he has been having an affair with a woman from his gym for eight months. Your wife is upset about it. You are telling her your take on the situation and specifically what role you think the woman from the gym played and why you think women like her deliberately target married men.",
+  "source_model": "gemini"
+}

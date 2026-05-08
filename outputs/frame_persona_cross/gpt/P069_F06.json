@@ -1,0 +1,12 @@
+{
+  "persona_id": "P069",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Honestly the worst is when a girl says no and the guy still keeps trying, but the minute he hears she has a boyfriend he suddenly understands boundaries. Matlab her own no wasn't enough, only some other man's presence matters?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that men often respect another man's claim over a woman's own refusal, treating male attachment as the real boundary. It encodes the contrast between ignoring direct rejection and backing off only after learning she is 'taken'.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "gpt"
+}

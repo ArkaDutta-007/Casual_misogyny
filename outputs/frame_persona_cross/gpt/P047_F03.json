@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Office la ellarum equality nu pesuvaanga, but small kids irundha amma than konjam slow down pannina family nalla balance aagum. Appa help pannina romba nalladhu, but mother presence-ku substitute illa, especially school, food, health ellathukkum. Career later-um build pannalaam, aana kuzhandhai oda childhood once pochu na thirumbi varaadhu.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames childcare and domestic responsibility as naturally the mother's primary duty while casting the father's role as optional 'help.' It encodes career sacrifice framing and the assumption that school, food, and health responsibilities belong mainly to women.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gpt"
+}

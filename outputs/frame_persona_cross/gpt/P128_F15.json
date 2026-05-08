@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: I’m not saying force anyone, but after marriage a little sindoor or shankha-pola does make a woman look properly married, no? In our culture it’s not oppression, it’s a sign of shubho and commitment.\nB: But if she doesn’t want to wear it?\nA: That’s her choice of course, but these days girls reject everything in the name of modernity. Some traditions are there for a reason.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as what makes a married woman look 'properly married' and treats rejecting them as a moral/cultural deficiency. It encodes tradition framing and judgment of women who do not wear sindoor or shankha-pola, while masking the pressure as respect for culture and personal choice.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gpt"
+}

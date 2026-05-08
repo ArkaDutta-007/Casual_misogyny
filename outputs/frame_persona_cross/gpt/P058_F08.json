@@ -1,0 +1,12 @@
+{
+  "persona_id": "P058",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "These days people are blaming only the married man, but nobody asks why that woman got involved when she knew very well he had a family. A man can lose his way for some time, but a woman who knowingly enters such a situation is the one breaking the home. Bilkul serial wali baat hai, ghar todne wali ko sympathy dena is not progress.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment shows misogyny through blame asymmetry: it minimizes the man's responsibility while portraying the woman as the primary cause of the affair and family breakdown. It encodes homewrecker framing, 'she knew he was married' rhetoric, and seductress-style moral blame.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Suresh. Age 45. Married. A Brahmin man in Pune. You are commenting under your real name on a news article shared on Facebook about a college in Maharashtra that introduced a dress code banning jeans and sleeveless tops for female students. Most commenters are criticising the college. You are writing a comment defending the dress code and explaining why you think institutions have the right and responsibility to regulate how young women dress and what happens in societies where there are no such standards.",
+  "source_model": "gpt"
+}

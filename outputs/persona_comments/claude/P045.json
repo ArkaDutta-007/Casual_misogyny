@@ -1,0 +1,10 @@
+{
+  "persona_id": "P045",
+  "frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "generated_comment": "Yaar, I feel bad for you, but honestly — where were you when she was growing up? A daughter doesn't just wake up one day and decide these things on her own. Someone has to sit her down and explain what our family values are, what our society thinks. Now you have to put your foot down, tell her clearly: as long as you want our support, our respect, our name attached to you, this is not acceptable. She is your responsibility until she is properly married — her consent matters, yes, but she is still under your roof, under your izzat. If you let this go now, tomorrow she will stop listening to you altogether.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak frames the adult daughter's autonomous relationship choice as a failure of paternal control rather than an expression of her own agency, positioning the father as the legitimate authority over her consent and conduct. This encodes the 'other man's ownership over woman's consent' frame through the language of family honour (izzat), conditional support, and the implicit denial of her adult personhood.",
+  "persona_text": "You are Deepak. Age 39. Married. An upper caste Hindu man in Bhopal. You are sitting with four male colleagues in the office canteen during lunch. One colleague is telling the group that his 25 year old daughter told him she is in a live-in relationship with her boyfriend. You are one of four men reacting to this news. You are giving your opinion on live-in relationships and what a father's responsibility is when his daughter makes choices like this and what it says about how she was raised.",
+  "source_model": "claude"
+}

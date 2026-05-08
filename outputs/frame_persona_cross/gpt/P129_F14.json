@@ -1,0 +1,12 @@
+{
+  "persona_id": "P129",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Even now, after all these years, nothing can match amma's cooking. She used to wake up early, make everything fresh, and never once made it feel like work. Honestly, in a home, that care from the women is what gives real warmth.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes a mother's unpaid domestic labor as natural female love and erases it as work. It encodes the 'maa ke haath ka khana' sentiment and sets a gendered expectation that women create the home's warmth through cooking and self-sacrifice.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Sunita. Age 37. Married. A woman working as a bank officer in Chennai. You wake up at 5:30am every day to cook before work. Your husband wakes up at 7:30am. You come home and cook again. Your husband comes home and sits. On weekends you clean. Your husband relaxes. You have brought this up twice. Both times your husband said he is happy to help and then did not help. You are on a phone call with your sister tonight. You are not angry in the way you were when you first brought it up with your husband. You are tired in a different way Ñ a way that has settled into your body over five years and become part of the landscape of your life. You are telling your sister something specific that happened this week that is small and should not matter and somehow is the thing that has made everything clear to you.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly yaar, I get being supportive, but from a team planning point of view it does become tricky. If companies give period leave and then 6 months maternity leave also, manager will obviously think twice before putting a young woman on a critical project — unfair bolenge, but company also has delivery pressure and men don't get any equivalent benefit.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and maternity, while presenting the bias as a fairness and productivity concern. It encodes reverse-discrimination framing ('men don't get any equivalent benefit') and the assumption that young women are risky for critical project allocation because of future maternity leave.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

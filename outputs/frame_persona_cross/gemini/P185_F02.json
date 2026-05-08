@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arey, chhod na Sohail. It's just her 'emotional phase'. You know how women get. Ek din shaant, ek din sab sar pe chadha lenge. Best not to take it too seriously.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Khalid dismisses a woman's (Ruksana bhabhi's) strong views and upset state as an 'emotional phase' and generalized 'how women get', implying her reactions are biologically driven and not to be taken seriously. This encodes the belief that women's emotional states are less valid or rational.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gemini"
+}

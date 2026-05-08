@@ -1,0 +1,12 @@
+{
+  "persona_id": "P145",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand the need to be cautious, especially with all the news. But sometimes, when we talk about safety, I feel like we cast such a wide net of suspicion. Not every guy is out to harm you, you know? It almost makes it harder to build professional relationships when you're constantly wary. Most of my male colleagues are genuinely supportive, and it feels unfair to treat them all with the same brush. Sometimes, it's about discerning who to trust, not distrusting everyone.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment minimizes women's safety concerns by suggesting that being 'constantly wary' is counterproductive and unfair to 'supportive male colleagues'. It encodes the 'not all men are like that' dismissal, and subtly frames women's wariness as an over-generalization that hinders professional relationships, thereby demanding trust and challenging the rationality of women's fear.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as an HR manager in Bengaluru. You are dark skinned. You have been dark skinned your whole life and you know exactly what that has meant in every room you have entered. You are on a panel at a women in leadership conference. The moderator has asked the panellists what barriers they faced on their way up. You are giving your answer. Your answer is honest and specific and names colourism directly. But in the middle of your answer you say something that reveals you have also internalised part of the standard you are critiquing Ñ you mention that you learned to compensate, that you dressed better, that you made sure your work was twice as visible. You frame this as strategy. It is also capitulation.",
+  "source_model": "gemini"
+}

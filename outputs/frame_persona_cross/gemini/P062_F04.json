@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "So our new Project Director, Ms. Sharma, got promoted. Good for her, I guess. But honestly, sometimes I wonder about these 'diversity initiatives' in our company. Like, was she truly the *most* qualified candidate, or did they just need to hit a certain number for a woman in leadership? I just hope it’s not a quota hire, because that just messes up the whole merit system, yaar.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment subtly undermines a woman's promotion by questioning if it was based on genuine merit or to fulfill diversity quotas, framing it as a concern for the 'merit system'. This encodes the 'Merit undermining' surface manifestation, typical of a young professional in an Indian corporate setting.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gemini"
+}

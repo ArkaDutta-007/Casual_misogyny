@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I was surprised about Aarti getting that VP role. She's alright, but her last few projects were just average, you know? Must be this new push for diversity numbers they have. Or maybe she's finally learned how to *think like a man* to get ahead in this company, who knows.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker undermines the woman's merit by stating her projects were 'just average' and attributes her promotion to a 'diversity push', implying it wasn't purely on merit. The 'compliment' that she 'learned how to think like a man' suggests that female thinking is inherently less competent for leadership roles, fitting the masculinization linguistic cue.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

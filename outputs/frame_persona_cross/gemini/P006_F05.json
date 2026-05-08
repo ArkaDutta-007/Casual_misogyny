@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Bhai logon, seriously, career pe focus karo abhi. Shaadi ka kya hai, aajkal itna risk hai. Ek galat decision aur life time ki EMI aur court cases ka dar. Seen too many examples. 😬",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a young man in a male-only chat, frames marriage as a financial and legal risk for men, hinting at exploitation by women ('life time ki EMI', 'court cases ka dar'). It aligns with the 'marriage is a trap for men' and 'be careful of women' surface manifestations of the F05 frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gemini"
+}

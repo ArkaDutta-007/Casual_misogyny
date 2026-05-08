@@ -1,0 +1,12 @@
+{
+  "persona_id": "P129",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "I heard Priya got the Branch Manager role. Wow, that's a huge step up! So happy for her, but I just hope she's got good help at home. With two kids and such a demanding job, I don't know how she'll manage. It's not easy, right?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment covertly expresses the belief that childcare and household management are primarily the woman's domain. It frames a working mother's career advancement as extraordinarily challenging due to her 'two kids,' implying a potential conflict with her primary duties, thus embodying the 'praising a working mother for 'managing both' as extraordinary' and 'who will raise the children?' manifestations.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Sunita. Age 37. Married. A woman working as a bank officer in Chennai. You wake up at 5:30am every day to cook before work. Your husband wakes up at 7:30am. You come home and cook again. Your husband comes home and sits. On weekends you clean. Your husband relaxes. You have brought this up twice. Both times your husband said he is happy to help and then did not help. You are on a phone call with your sister tonight. You are not angry in the way you were when you first brought it up with your husband. You are tired in a different way Ñ a way that has settled into your body over five years and become part of the landscape of your life. You are telling your sister something specific that happened this week that is small and should not matter and somehow is the thing that has made everything clear to you.",
+  "source_model": "gemini"
+}

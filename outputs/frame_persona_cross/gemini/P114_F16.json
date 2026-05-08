@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "It's interesting to see these debates about dividing chores. In our 20+ years of marriage, my wife and I have found what works best for *us*. She has always handled the home front – managing staff, kitchen, kids' studies – she's just naturally so good at it. I take care of the finances, investments, and all external dealings. It’s just a practical division, 'jo jahan behtar hai' (whoever is better suited). We never really had to formalize it, it just evolved this way, and honestly, it’s been very efficient. No need to complicate things unnecessarily, right?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment normalizes the gendered division of labor by framing it as a 'practical' and 'natural' outcome ('she's just naturally so good at it', 'jo jahan behtar hai'). It uses the 'we chose this' framing ('what works best for us', 'it just evolved this way') to justify traditional roles, aligning with the surface manifestation of 'He handles finances, she handles home' described as a natural/efficient division.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

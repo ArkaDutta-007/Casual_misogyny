@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, people are making too much issue out of common gaalis now. Half the time it's just expression, not about anyone's mother or sister.\nB: But the words still come from insulting women, no?\nA: Maybe, but sab bolte hain. Itna filter karke kaun baat karta hai? And if a guy starts crying over words, thoda strong banna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless 'expression' and dismisses concerns about its misogynistic roots. It also uses feminized weakness coding through 'strong banna chahiye' to shame sensitivity in men.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

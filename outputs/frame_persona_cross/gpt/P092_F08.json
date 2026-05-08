@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Sunita: Aaj kal jo us office wali aurat ka chakkar chal raha hai na, bilkul serial wali baat lagti hai. Pata tha aadmi shaadi-shuda hai, phir bhi chipak rahi hai, seedha seedha ghar todne wali harkat hai.\nHusband: Haan, aise hi auratein parivaar barbaad kar deti hain.\nSunita: Aadmi toh kabhi kabhi behak jaate hain, par aurat chahe toh doori rakhe, yeh sab hone hi na de.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman, calling her a homewrecker while excusing the man as someone who merely 'got carried away.' It encodes blame asymmetry, seductress framing, and family-protection rhetoric.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

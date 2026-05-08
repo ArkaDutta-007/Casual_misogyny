@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "देखिए madam, मैं सिर्फ़ school की maryada के हिसाब से कह रहा हूँ—हमारे यहाँ female staff अगर simple aur decent kapdon mein रहे तो community में भी अच्छा संदेश जाता है. Salwar-suit ya saree mein teacher की personality ज़्यादा sober लगती है; आजकल थोड़ा modern dressing हो तो लोग गलत मतलब निकाल लेते हैं, फिर बेवजह बातें बनती हैं.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and professionalism to traditional clothing while framing it as institutional decorum. It encodes the 'decent/sober' traditional dress preference and subtly shifts responsibility for others' reactions onto the woman's clothing.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

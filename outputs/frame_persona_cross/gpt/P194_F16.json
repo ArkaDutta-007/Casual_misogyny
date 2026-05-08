@@ -1,0 +1,12 @@
+{
+  "persona_id": "P194",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Aapki wife bhi office jaati hain, phir ghar ka sab kaise manage hota hai?\nB: Arre, jo jahan better ho wahi sambhale toh practical rehta hai. Main finance, bank, bahar ke kaam dekh leta hoon, aur woh ghar, khana, bachchon ka routine naturally zyada achhe se sambhal leti hai.\nA: Achha balance hai.\nB: Haan, weekend pe kabhi chai bana deta hoon toh bachche bolte hain, wah Papa kitne modern ho gaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a gendered division of labor as merely practical and natural, assigning finances/external work to the man and domestic/childcare work to the woman. It also encodes the 'modern husband' low bar by celebrating his minimal contribution as exceptional.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "gpt"
+}

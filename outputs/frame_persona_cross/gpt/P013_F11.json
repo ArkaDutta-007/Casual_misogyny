@@ -1,0 +1,12 @@
+{
+  "persona_id": "P013",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Arre bhai, aurat ko samajhna hai na toh pehle yeh samjho ki woh kisi ki beti hai, kisi ghar ki bahu hai, kal ko kisi bachche ki maa hai. Izzat do aur ussi hisaab se baat karo, phir ghar bhi theek chalta hai aur aurat bhi apni jagah sambhal leti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman's worth and the respect she deserves primarily through family roles like daughter, daughter-in-law, and mother, rather than as an individual person. It encodes relational framing and conditional respect tied to kinship roles.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Sanjay. Age 37. A man in a middle class colony in Delhi. You are sitting with four male neighbours on plastic chairs outside after dinner. One neighbour is complaining that his wife has been in a terrible mood all week. You are responding with your own theory about why women get this way and what the men in the group should do about it.",
+  "source_model": "gpt"
+}

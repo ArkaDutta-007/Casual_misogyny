@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Ramesh: Aajkal bai log zara kuch bolo to turant bhadak jaati hain. Lagta hai mahine ka wohi time hoga, isliye itna hungama karti hain.\nFarmer 2: Haan re, phir bolenge hum samajhte nahi.\nRamesh: Arre mazaak hai, par aurat ka mood kab badal jaaye koi bharosa nahi.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it directly attributes women’s anger and reactions to menstruation and unstable hormones, dismissing their emotions as irrational. It encodes the surface manifestations of 'time of the month' jokes, mood swings, and the 'just joking' defense.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

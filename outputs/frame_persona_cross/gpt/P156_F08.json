@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre sun, us office wali ladki ke chakkar mein uska ghar toot raha hai. Pata hai na aadmi shaadi-shuda hai, phir bhi itna chipakna kya zaroori hai?\nB: Haan, bilkul serial wali baat hai.\nA: Bas wahi toh, aisi auratein hi ghar todti hain. Mard kabhi kabhi behak jaate hain, par usne hi himmat di hogi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for an affair while excusing the man as someone who merely 'got carried away.' It encodes homewrecker framing, seductress framing, and male-victim blame asymmetry.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gpt"
+}

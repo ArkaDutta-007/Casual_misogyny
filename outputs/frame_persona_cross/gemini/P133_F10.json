@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Dekho, yeh sab theek hai, par har time itna dar ke bhi nahi rehna chahiye. Sab mard aise nahi hote. Hamare ghar mein bhi toh ladke hain, kya hum unko bhi gandi nazar se dekhenge? Kuch log badnaam kar dete hain sabko.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita minimizes other women's safety concerns by dismissing the need for constant fear ('har time itna dar ke bhi nahi rehna chahiye') and employing the 'not all men are like that' argument. She personalizes it by asking if her own sons should be viewed with suspicion, effectively demanding empathy for 'good men' and framing women's wariness as an unfair generalization.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gemini"
+}

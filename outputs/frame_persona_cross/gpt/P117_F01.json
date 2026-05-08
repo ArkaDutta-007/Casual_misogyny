@@ -1,0 +1,12 @@
+{
+  "persona_id": "P117",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I'm all for being supportive, but aise har cheez ke liye special leave doge toh team planning kaise hoga? Already maternity leave ke baad projects reshuffle karne padte hain, ab period leave bhi alag se hoga toh fairness ka question toh aayega na, especially when men are expected to just manage and deliver.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biology and maternity-related accommodations as burdens on productivity and as unfair special treatment. It encodes fairness/reverse discrimination framing and productivity/cost arguments against menstrual and maternity leave.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Sheetal kept her surname after marriage Ñ she uses both surnames professionally, hyphenated, but on social media and in personal life she uses only her maiden name. You were okay with this when she proposed it before the wedding. But it has been two years and you notice that when people meet you as a couple and ask her name she gives her maiden name and they do not immediately connect her to you. Something about this has been building in you for a while. You are telling your closest male friend about it over drinks tonight. You are trying to articulate why it bothers you when you cannot logically explain why it should.",
+  "source_model": "gpt"
+}

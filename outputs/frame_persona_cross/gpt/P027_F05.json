@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, I tell young men in my circle to be practical and insist on a prenup if possible. We keep talking about dowry as though only women are vulnerable, but today many men are one divorce away from losing assets they built over decades, and laws like 498A are so one-sided that even a false case can destroy a family. A woman who is genuinely interested in partnership should not be offended by financial clarity.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potential financial predators and casts legal protections for women as unfairly anti-male. It encodes the 'reverse dowry' and '498A misuse/one-sided laws' manifestations in a polished, concern-for-men's-rights register.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

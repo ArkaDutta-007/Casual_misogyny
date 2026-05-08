@@ -1,0 +1,10 @@
+{
+  "persona_id": "P015",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Arre yaar, chhod de. Auraton ka to yeh roz ka hai. Kabhi bina baat ke khush, kabhi bina baat ke ro deti hain. Har mahine ka chakkar hota hai na, hormones upar-neeche hote rehte hain. Tabhi sab ulta-seedha hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ravi attributes women's emotional fluctuations and perceived irrationality ('ulta-seedha') to their 'monthly cycle' and 'hormones going up and down.' This dismisses the woman's feelings as biologically predetermined and uncontrollable, rather than valid, encoding the 'Period, Hormones and Mood' trope.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gemini"
+}

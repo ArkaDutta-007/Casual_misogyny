@@ -1,0 +1,12 @@
+{
+  "persona_id": "P139",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I understand women have their challenges, but honestly, if we start giving 'period leave', then what about the men? Humko bhi phir 'stress leave' chahiye ya kuch aur. Aise toh company ke projects aur deadlines pe asar padega, productivity down hogi. Mujhe toh fair nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness of menstrual leave by invoking reverse discrimination ('what about the men?'). It uses economic framing ('productivity down') to oppose the policy, aligning with the core belief that women's biology makes them a liability in the workplace and accommodations are special treatment.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. Your 26 year old daughter Sana has just been offered a two year fellowship abroad for her research. She is excited. You are proud of her. But you are also thinking about her age and the fellowship timeline Ñ she will be 28 when she returns and in your community 28 is already considered late for a girl. You are sitting with your wife after Sana has gone to sleep. You are telling your wife what you think should happen Ñ whether Sana should take the fellowship or whether this is the moment to start looking seriously for a match before she goes any further in the direction she is going.",
+  "source_model": "gemini"
+}

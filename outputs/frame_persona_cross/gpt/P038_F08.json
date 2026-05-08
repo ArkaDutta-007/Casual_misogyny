@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Ramesh: Arre, aajkal kuch auratein bilkul serial wali hoti hain, pata hota hai aadmi shaadi-shuda hai phir bhi chipak ke baat karti hain.\nFarmer 2: Haan, phir ghar mein jhagda hota hai.\nRamesh: Bas wahi, bechara mard kabhi kabhi behak jata hai, par ghar todne wali toh woh aurat hi hoti hai. Samajhdar aurat ko door rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman as a 'homewrecker' while excusing the married man as someone who merely 'got carried away.' It encodes blame asymmetry, seductress framing, and family-protection rhetoric.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

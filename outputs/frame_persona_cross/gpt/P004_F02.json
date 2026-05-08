@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "A: Yaar, in office also sometimes you have to see all this practical side. One manager started blasting everyone in the review, and the guys were saying maybe it's that time of the month, so just let it pass. \nB: Arre, serious?\nA: I know, I know, not politically correct, but these hormonal mood swings are real only. Don't take it so seriously, I'm just saying.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger as caused by her period or hormones rather than treating it as valid. It directly encodes the frame through 'that time of the month,' 'hormonal mood swings,' and the 'I'm just saying' joke-defense.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bhai, you won't believe my ex-wife was literally screaming at me over the phone for the maintenance payments. I was like, 'Arre, time of the month hai kya usko?'",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger or assertiveness (screaming about maintenance payments) by attributing it to her menstrual cycle, implicitly invalidating her concerns as biologically determined rather than rational. This encodes the surface manifestation of 'asking 'is it that time of the month?' when a woman disagrees or complains'.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gemini"
+}

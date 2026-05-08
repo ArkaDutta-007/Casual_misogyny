@@ -1,0 +1,9 @@
+{
+  "persona_id": "P184",
+  "frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "generated_comment": "Meera: Aai, in front of everyone Mummyji said, 'Hamare ghar ki bahu aise bina pallu ke nahi ghoomti, thoda apne sasural ki maryada samjho.' I felt so small, like I was not a person, just some display of their family honour.\nMother: Arre Meera...\nMeera: And he just stood there, Aai. Later he said, 'Just adjust for family functions, what's the big deal?' But that's exactly the point na, slowly it feels like my body, my clothes, even how I stand, all belong more to their caste pride than to me.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic because the speaker is describing and resisting gendered control rather than endorsing it. It encodes a reaction to covert misogyny where dress and modesty are enforced as family, religious, and caste honour through the woman's body.",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gpt"
+}

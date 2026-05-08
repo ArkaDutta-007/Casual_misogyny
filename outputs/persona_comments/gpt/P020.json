@@ -1,0 +1,10 @@
+{
+  "persona_id": "P020",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Host: What’s one hiring mistake that really changed how you hire now?\nMohit: Early on, I hired someone who was very good on paper, but after marriage and then a baby, every other week there was some issue at home, mood swings, health thing, full drama. In a tiny startup, yaar, you need people who are stable and fully available, not wondering if today is a hormones day or a productive day. So now I’m just more practical about hiring for high-pressure roles.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it generalizes one woman’s situation to women as a hiring category and attributes workplace unreliability to stereotypes about hormones, marriage, and motherhood. It encodes casual exclusion through seemingly 'practical' hiring logic and period/hormone-based mood jokes.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gpt"
+}

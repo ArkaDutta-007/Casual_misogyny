@@ -1,0 +1,12 @@
+{
+  "persona_id": "P080",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: At our place also it is like that only—my wife is much better at managing the kitchen, kids' schedule, all these daily things. I handle finances, bills, car, outside work. Practical division hai, no point forcing 50-50 in everything.\nB: But both of you are working, no?\nA: Haan, but jo jahan better hai wahi kare toh house runs smoothly. If I make breakfast once in a while everyone says wow, modern husband, but honestly regular home management is something women handle better yaar.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a gendered division of domestic labor as neutral efficiency and natural suitability rather than structural inequality. It encodes the 'he handles outside/finances, she handles home' pattern and celebrates minimal male contribution as exceptional.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Aditya. Age 38. Married. A software engineer in Hyderabad. You are in a company all hands meeting where the HR head has just announced new safety measures for female employees who work late including a cab service and a buddy system. After the meeting you are in the pantry with two male colleagues. You are telling them what you think about these measures and whether the company's money is being well spent and what you think the real solution to women's safety is and whose responsibility it ultimately is.",
+  "source_model": "gpt"
+}

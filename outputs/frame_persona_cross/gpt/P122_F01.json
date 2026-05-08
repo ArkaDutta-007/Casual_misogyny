@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, from management side you have to see practicality also. If a company gives period leave, then naturally project planning gets affected, and maternity leave is already 26 weeks — for small teams that cost is real. Aise toh men will also ask what equivalent flexibility they are getting; fairness should be for everyone, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and reproductive needs as a workplace burden and 'special treatment' rather than legitimate accommodations. It encodes fairness/reverse-discrimination and productivity-cost arguments against menstrual and maternity leave.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

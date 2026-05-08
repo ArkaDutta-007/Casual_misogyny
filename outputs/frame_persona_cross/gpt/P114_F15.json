@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I respect modern thinking, but some traditions are not oppression, they are identity. Sindoor and mangalsutra are not just ornaments, they reflect a woman’s saubhagya and the dignity of marriage; when a married woman rejects every such symbol, it feels less like freedom and more like rejecting her own grihastha jeevan and our parampara. A wife looks more settled and complete when she carries these with pride, and honestly aajkal many girls are discarding these things in the name of progress without understanding their meaning.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames visible marital markers as necessary to a married woman’s completeness, dignity, and proper identity. It encodes tradition/auspiciousness framing and judges women who do not wear sindoor or mangalsutra as culturally disloyal or deficient wives.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gpt"
+}

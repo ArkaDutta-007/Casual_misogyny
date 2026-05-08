@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Aajkal har affair mein aadmi ko hi villain bana dete hain. Agar us aurat ko pata tha ki woh shaadishuda hai, toh door rehna chahiye tha.\nB: Bilkul sir, phir baad mein bolte hain ghar toot gaya.\nA: Ghar todne wali baat wahi hoti hai na. Aadmi kabhi kabhi behak jata hai, lekin jo jaan-boojhkar paas aati hai, zimmedari uski zyada hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shows clear blame asymmetry: the woman is framed as the main wrongdoer and 'homewrecker' while the married man is excused as someone who merely 'got carried away.' It encodes the seductress/homewrecker trope and the idea that women are responsible for preventing men's infidelity.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

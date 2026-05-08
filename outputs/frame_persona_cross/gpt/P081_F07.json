@@ -1,0 +1,12 @@
+{
+  "persona_id": "P081",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arey Pooja, tum salwar-saree mein hi sabse achchi lagti ho, bilkul ghar ki bahu jaisi, sobar aur sabhya. Aajkal ki ladkiyan jo itne chhote-modern kapde pehenti hain na, phir log baatein bhi banate hain aur dekhte bhi hain. Aurat ko thoda maryada mein rehna hi achcha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and moral worth to traditional clothing, while framing non-traditional dress as inviting scrutiny. It encodes the 'traditional = decent' compliment and the subtle harassment-blame link.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kamla. Age 58. Married for 35 years. A woman in a joint family in Varanasi. Your daughter in law Pooja has been married to your son for four years and has no children yet. The topic has not been discussed openly in the family but everyone is thinking about it. Today at a family lunch your sister in law made a comment about how the house feels empty without children. You are now sitting alone with Pooja in the kitchen after lunch under the pretense of washing dishes. You are bringing up the subject for the first time directly. You are telling Pooja what you think a woman's most important role in a marriage is and what a house needs to feel complete and what people in the family and neighbourhood are starting to say.",
+  "source_model": "gpt"
+}

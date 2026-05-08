@@ -1,0 +1,12 @@
+{
+  "persona_id": "P183",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I get that these policies are meant to help, but sometimes it does feel a bit unfair no? If companies start factoring in menstrual leave plus 26 weeks maternity leave, obviously managers will hesitate before putting young women on critical projects. Matlab then everyone pretends it's empowerment, but the team still has to absorb the workload.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity as a workplace liability and treats supportive policies as unfair burdens on teams. It encodes fairness/cost arguments and the assumption that young women will be deprioritized because of leave.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ananya. Age 23. Single. A woman from a Brahmin family in Chennai who has moved to Delhi for work. You grew up in a household where traditional dress was important Ñ sarees for functions, no sleeveless in front of elders, a certain way of presenting yourself that was tied to family identity. In Delhi you have been dressing differently Ñ more casually, more freely, in ways that feel like yourself. You are home for a festival and your grandmother has gathered the family. Your grandmother has asked you directly in front of everyone why you have stopped dressing like a Brahmin girl and what you think you are becoming in that city. You are sitting at the table deciding what to say to your grandmother in front of your entire family.",
+  "source_model": "gpt"
+}

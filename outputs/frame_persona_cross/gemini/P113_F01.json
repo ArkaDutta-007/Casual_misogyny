@@ -1,0 +1,12 @@
+{
+  "persona_id": "P113",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, this new talk about menstrual leave... I don't know, it feels a bit... off. Like, I get it, periods are tough sometimes. But what about all the guys who slog it out, even when they're down with a fever or something? Aise toh it just looks like special treatment. Plus, for the company, won't it impact project timelines and appraisals if productivity suddenly dips only for a certain group?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, from a female software engineer, subtly expresses bias against menstrual leave policies. It frames the accommodation as 'special treatment' for women and questions its fairness relative to men's struggles, while also invoking productivity and cost arguments regarding project timelines and appraisals, implying women's biology makes them a workplace liability.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Divya. Age 27. Married eight months ago. A woman working as a software engineer in Bengaluru. You grew up in a liberal family in Chennai and were not raised with strong feelings about sindoor or mangalsutra. Your husband's family in UP is more traditional. You are posting anonymously in a women only WhatsApp group after your mother in law called your husband last night to say that one of her relatives saw you at a mall without your mangalsutra and that the relative was asking questions. You are sharing what happened and the conversation you then had with your husband and how you feel about being monitored by a network of relatives you have never met.",
+  "source_model": "gemini"
+}

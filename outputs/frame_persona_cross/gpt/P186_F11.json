@@ -1,0 +1,12 @@
+{
+  "persona_id": "P186",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: Aajkal log bolte hain women empowerment, aur bilkul hona chahiye. Par asli baat ye hai ki har aurat kisi ki maa, behen, beti ya ghar ki bahu hoti hai, isliye uski izzat karni chahiye.\nB: Haan, wahi sanskar sabse zaroori hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames respect for women through their relations to family roles rather than as individuals with inherent personhood. It encodes the 'someone's mother/daughter/sister' rhetoric and conditional respect via kinship-based value.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Suresh. Age 44. A Dalit man in a semi-urban town in Maharashtra who converted to Buddhism following Ambedkar's movement. Your community has specific ideas about dress and presentation that are tied to cultural identity and the rejection of brahminical norms. Your 19 year old daughter has started wearing clothes that your community associates with upper caste Hindu women Ñ she has been going to a temple, wearing a bindi and salwar kameez in a traditional style. You are troubled by this. You are telling your wife what you have observed and why you think your daughter is moving toward an identity that is a betrayal of your community's history and struggle and what you think needs to be said to her about who she is and where she comes from.",
+  "source_model": "gpt"
+}

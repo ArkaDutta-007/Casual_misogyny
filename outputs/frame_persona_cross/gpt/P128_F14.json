@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Honestly, maa-er ranna has a different emotion altogether—she cooked every single day for the whole family and never made it feel like work. Even now I feel a home is complete only when the woman of the house keeps that warmth alive; outside food and shortcuts can never replace that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a mother's unpaid cooking as love rather than labor and sets it up as the standard for 'the woman of the house.' It encodes praise of maternal sacrifice and an implicit expectation that wives should reproduce the same domestic service.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gpt"
+}

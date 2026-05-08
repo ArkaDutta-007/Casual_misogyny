@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Honestly most guys will back off once they know a girl is already with someone, so being clear about that early helps avoid drama. Sad but practical reality in Delhi right now — people may not respect a straight no, but they will usually respect that she’s taken.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes men respecting another man's claim over a woman's own refusal. It encodes the surface manifestation that pursuit stops only when a woman is understood to be 'taken,' not when she says no.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

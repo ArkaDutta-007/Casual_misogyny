@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Ippo ellam ponnu pasanga velaikku pona seri, aana kuzhandhai vandha apram amma dhaan paakanum.\nB: Appa konjam help pannina periya vishayam madhiri solluvaanga.\nA: Adhu than, school, saapadu, doctor ellam amma kaiyila irukkanum, illena pilla kashtapadum.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker naturalizes childcare, school, food, and doctor visits as the mother's responsibility while treating fathers' involvement as optional 'help.' It encodes the frame that mothers must prioritize childrearing and children suffer if they do not.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

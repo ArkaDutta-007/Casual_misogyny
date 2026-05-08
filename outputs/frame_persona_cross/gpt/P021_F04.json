@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, half these senior promotions in consulting now feel more about optics than performance. The moment it's a woman, everyone starts talking leadership and visibility, but if we're being real, a lot of them get pushed up because the firm wants the right mix at the top. And then if she succeeds, people say she 'thinks like a man' — which itself tells you this isn't exactly a natural fit.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as driven by diversity optics rather than merit and frames women in leadership as anomalous. It encodes merit-undermining and masculinization ('thinks like a man') in a corporate, seemingly fairness-based register.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

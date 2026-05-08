@@ -1,0 +1,12 @@
+{
+  "persona_id": "P164",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Beta, yeh Ritu ka akela itni door bus se jaana... socha hai tumne? Aajkal zamaana theek nahi hai bilkul. Ladki hai woh, uski toh izzat ka sawaal hota hai. Agar kal ko kuch ho gaya toh? Yeh maths-vaths toh theek hai, par apni ladki ki suraksha pehle aati hai. Hamari galti nahi honi chahiye ki humne usko itni chhoot de di, bahar log kaise hain, unki nazar kaisi hai, iska khayal toh rakhna padega na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla frames her restrictions on Ritu's travel as 'protection' and concern for 'izzat', implying that Ritu's safety is her own responsibility to manage by limiting her exposure. This encodes the surface manifestation of 'zamaana kharab hai' as a reason for restricting women, and parental restrictions framed as love/protection, rather than addressing male violence.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gemini"
+}

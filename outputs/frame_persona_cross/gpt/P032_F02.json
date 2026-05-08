@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro let's not put this in the women-led review call tomorrow 😅 one small issue and suddenly full mood swings, then everyone has to act extra careful. Don't take it seriously, I'm just saying.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women in a workplace context as emotionally unstable and prone to 'mood swings,' implying they are less rational. It uses humor and plausible deniability ('I'm just saying') to dismiss women collectively without explicit slurs.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

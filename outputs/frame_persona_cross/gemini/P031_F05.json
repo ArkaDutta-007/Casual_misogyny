@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, 2 saal kaam karke 8 saal ki shaadi mein 50% assets maangna, yeh kaunsa justice hai? It's becoming clear why aajkal men are so hesitant to get married. Shaadi ab rishta kam, business deal zyada lagti hai. Pehle dowry ka roona tha, ab alimony 'reverse dowry' ban gayi hai. Laws are so one-sided for men.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "This comment frames alimony as 'reverse dowry' and implies women exploit marriage for financial gain, generalizing from the celebrity case to all women's intentions. It also states the legal system is biased against men, which are all explicit surface manifestations of F05.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gemini"
+}

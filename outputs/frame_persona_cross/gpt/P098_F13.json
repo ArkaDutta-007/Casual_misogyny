@@ -1,0 +1,12 @@
+{
+  "persona_id": "P098",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I prefer women who look natural. Office mein thoda groomed rehna is fine, but girls who cake on makeup and then say it’s just for themselves feel a bit fake yaar — and if you make zero effort also, it looks like you don’t take care of yourself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it enforces a double bind: women must be attractive and groomed, but visible makeup is framed as fake or deceptive while not wearing makeup is judged as neglect. It encodes the 'natural beauty' preference, policing of female grooming, and the idea that women who use makeup are insincere.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre, he is a married man, she knew that very well and still kept getting close. Aisi auratein hi ghar todti hain, phir bechari biwi aur bachche suffer karte hain. Mard kabhi kabhi behak jaate hain, lekin ladki ko hadd samajhni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the man's behavior as temporary weakness. It encodes homewrecker framing, seductress logic, and moral asymmetry ('mard behak jaate hain' versus 'aisi auratein hi ghar todti hain').",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

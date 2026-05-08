@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Look, I’m not saying men shouldn’t behave better—they absolutely should. But until that changes, we also have to be practical: if you know a stretch is unsafe, don’t be there alone at midnight, and please share your cab details with someone. This isn’t victim-blaming, it’s just basic precaution in the world we live in.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and normalizes male violence as an unchangeable reality. It encodes the 'I’m just being practical' defense and advises women to restrict their movement rather than focusing on preventing men’s predatory behavior.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gpt"
+}

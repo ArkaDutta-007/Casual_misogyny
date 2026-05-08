@@ -1,0 +1,12 @@
+{
+  "persona_id": "P188",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Savitri: Aaj kal ke ladke har baat mein maa-behen wali gaali jod dete hain aur kehte hain bas muh ki aadat hai, isme itna kya dekhna. Lekin jab kisi ko neecha dikhana ho to aurat se hi tulna karte hain, yeh bhi theek baat nahi hai.\nHusband: Haan, aadat bana li hai sabne.\nSavitri: Aadat hai to bhi galat hi hai, ghar ke bachchon ko samjhana chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker normalizes the existence of female-body/chastity-rooted abuse as a common habit while discussing it as ordinary family language. Even though she mildly disapproves, the exchange reproduces the frame by treating feminizing insult and maa-behen gaali culture as routine and socially understandable rather than structurally misogynistic.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Savitri. Age 58. Married. A Brahmin woman in Varanasi. Your daughter in law Pooja who comes from a Brahmin family in Delhi has been living with you for one year. Pooja wears western clothes at home Ñ jeans, t-shirts, sometimes sleeveless tops. She wears a salwar kameez or saree when guests come or when there are functions. You have not said anything directly. But your neighbour made a comment last week about what she saw Pooja wearing in the courtyard and you have been thinking about it since. You are sitting with your husband tonight and telling him what the neighbour said and what you think needs to be said to Pooja about what is appropriate for a Brahmin daughter in law in a traditional household and what her clothes say about her respect for the family and the community.",
+  "source_model": "gpt"
+}

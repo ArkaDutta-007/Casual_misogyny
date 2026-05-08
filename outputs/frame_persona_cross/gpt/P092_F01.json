@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Arre suno, aaj kitty mein Neha bata rahi thi unke office mein period leave aur itna lamba maternity leave ko lekar bahut discussion chal raha hai.\nB: Haan?\nA: Mera bas itna kehna hai, kaam toh kaam hota hai na. Company har baar adjustment hi karti rahe toh baaki staff par load aata hai. Aur ladkon ko toh aisa kuch milta nahi, phir thoda unfair sa lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual and maternity leave as unfair special treatment and positions women as a burden on workplace productivity. It encodes the 'fair/unfair' and 'cost/load on others' surface manifestations in a casual, concern-for-fairness tone.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

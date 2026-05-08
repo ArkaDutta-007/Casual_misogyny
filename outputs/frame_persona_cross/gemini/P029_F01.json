@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "You know, sometimes I wonder if these new policies are actually practical. Like this push for menstrual leave alongside the extended maternity benefits... *yaar*, it just means the rest of us have to pick up the slack. Always the men covering for everything. Is that really fair to the department, *aur* the officers who are constantly holding the fort?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment encodes the surface manifestation of questioning the fairness of menstrual/maternity leave policies and framing them as a burden on men and the organization. It uses 'fair/unfair' framing and implicitly links women's reproductive choices/biology to reduced productivity and increased workload for male colleagues.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gemini"
+}

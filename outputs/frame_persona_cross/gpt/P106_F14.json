@@ -1,0 +1,12 @@
+{
+  "persona_id": "P106",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "A: Aaj kal ki ladkiyan career mein bahut achchi hain, woh bhi zaroori hai, par ghar ki asli garmahat toh maa ke haath ke khane se hi aati hai.\nB: Haan, woh baat toh sach hai.\nA: Humne bhi poori zindagi bina ginaye sabke liye banaya, tabhi ghar ghar lagta tha. Bahu ko bhi dheere dheere samajh aa hi jaata hai ki family ko jodna kitchen se hi hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it romanticizes women's unpaid domestic labor as their natural expression of love and frames cooking as what makes a home and holds a family together. It encodes glorification of maternal sacrifice and an implicit expectation that a daughter-in-law should learn and perform the same labor.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Anita. Age 52. Married. A homemaker in Delhi. Your son Karan who is 27 just got married to a girl named Divya who works in finance. Divya does not cook Ñ she has never learned and has never pretended otherwise. Karan knew this before he married her. You are sitting with your friend over chai a week after the wedding. You are telling your friend about Divya and what the first week of marriage has been like and what you think about a girl who does not cook and what your son is going to eat and what kind of home they are going to make and how different things were when you got married and what you gave up that Divya does not even think about.",
+  "source_model": "gpt"
+}

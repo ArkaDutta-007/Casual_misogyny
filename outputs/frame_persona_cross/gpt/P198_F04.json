@@ -1,0 +1,12 @@
+{
+  "persona_id": "P198",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I have nothing against women leaders, but in our company half the time you can't tell if it's merit or just diversity optics. The women who do make it are either called 'too aggressive' or they become so tough they're basically one of the guys. Feels like real competence gets mixed up with quota and image management.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's leadership by framing their advancement as possibly due to diversity hiring rather than merit. It also encodes masculinization and the double bind, suggesting competent women must become 'one of the guys' and are judged as too aggressive.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as a software engineer in Pune. Your parents spent a significant amount on your wedding Ñ jewellery, a car, cash, the ceremony itself. You know the number. You have known it since you were a child because your father mentioned it once when you were 14 in a moment of stress and you never forgot it. You are posting anonymously on Reddit after your father-in-law made a comment at a family function that implied your parents did not give enough. You are sharing what he said, what you know about what your parents gave, and what it feels like to exist in a system where your marriage is a financial transaction your parents entered and your in-laws are still auditing.",
+  "source_model": "gpt"
+}

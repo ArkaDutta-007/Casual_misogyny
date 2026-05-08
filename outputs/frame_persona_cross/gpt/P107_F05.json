@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Aajkal shaadi bhi risk ho gaya mardon ke liye. Aadmi saari zindagi kamata hai, phir divorce hua toh alimony ke naam pe half le jaate hain, upar se 498A ka darr alag. Bura lagta hai bolna, lekin aajkal ke ladkon ko bahut sambhal ke shaadi karni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women collectively as financial threats in marriage and casts men as the primary victims of divorce law. It encodes victimhood inversion, legal-system bias claims, and generalized suspicion around alimony and 498A misuse.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gpt"
+}

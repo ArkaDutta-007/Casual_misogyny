@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar, Pooja from my team was so dramatic today over a tiny change in the project plan. I just told her to chill. Honestly, sometimes I think these mood swings are just 'that time of the month' acting up for some women, makes everything a big deal.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "Anita dismisses a female colleague's reaction as 'dramatic' and attributes her 'mood swings' to 'that time of the month', directly linking her emotional state to her menstrual cycle to invalidate it. This encodes the surface manifestation of attributing a woman's assertiveness/frustration to her period.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gemini"
+}

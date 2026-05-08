@@ -1,0 +1,12 @@
+{
+  "persona_id": "P105",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Lunch was superb, Ma ke haath ka taste alag hi hota hai.\nB: Haan, ghar sambhalna aur khana banana auraton ke hi haath ka kaam hota hai.\nA: Exactly, practical bhi wahi hai na. Neha job achhi karti hai, but ghar ka system naturally wife hi better manage karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames cooking and household management as naturally women's work, while presenting the division as merely practical. It encodes the 'he handles outside work, she handles home' logic and naturalizes a gendered division of chores.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. A man in Pune. Your wife Neha does not cook very often. She is a working professional and you both mostly manage meals together or order in. You are at your parents' house for the weekend. Your mother has cooked a full meal. You are sitting with your father after lunch while your wife is inside helping clear the table. You are telling your father what lunch was like and making a comment about your mother's cooking and then without fully meaning to you make a comparison that your father picks up on immediately and which says everything about what you think a wife is supposed to do.",
+  "source_model": "gpt"
+}

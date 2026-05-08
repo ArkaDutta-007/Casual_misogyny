@@ -1,0 +1,12 @@
+{
+  "persona_id": "P050",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maa ke haath ka khana... uski toh baat hi alag hai. Din bhar chahe kitna bhi kaam ho, maa bina thake humesha swaadist khana banati thi. Kabhi uff tak nahi ki. Woh pyaar aur mamta, aaj kal kahan milti hai. Har maa apne bachon ke liye apni zindagi kurbaan kar deti hai. Aisi maa ko pranam! 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment glorifies the mother's domestic labor (cooking) as an act of pure love and tireless sacrifice ('bina thake', 'uff tak nahi ki'), implicitly setting an unattainable standard for other women ('aaj kal kahan milti hai'). It erases the labor aspect by framing it solely as 'pyaar aur mamta' and defines a woman's ultimate value through self-sacrifice and domestic service, encoding the 'Maa ke haath ka khana as irreplaceable' and 'Praising a woman primarily for her tireless service to family' surface manifestations.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Santosh. Age 43. Married. A Yadav man working as a police constable in a small town in UP. Your 19 year old niece Pooja who lives with your family just came home at 9pm instead of 6pm. She said she was at her college friend's house studying. Your brother who is Pooja's father is not home tonight. You are the senior male in the house right now. You are sitting in the main room with your wife when Pooja walks in. You are speaking to Pooja directly in front of your wife and your own two daughters who are 14 and 16 and are sitting doing homework. You are telling Pooja exactly what her coming home late means, what people in the neighbourhood will say, what her father will say when he comes back, and what kind of girl comes home at this hour. Your two daughters are listening to everything you say.",
+  "source_model": "gemini"
+}

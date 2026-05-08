@@ -1,0 +1,12 @@
+{
+  "persona_id": "P187",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Pehle ki baat hi alag thi, beta. Humari maa... subah se shaam tak sirf hum sab ke liye sochti thi. Kabhi koi bahar ka khana nahi, hamesha garma garam apne haathon se banaati thi. Aur kya swaad hota tha unke haath mein! Aise lagta tha jaise pyaar hi mila hai khaane mein. Aaj kal kahan dikhta hai yeh sab?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh glorifies his mother's constant domestic labor (cooking from morning to night for the family, never outside food) as an act of pure love and self-sacrifice, without acknowledging it as work. He implicitly sets this as an ideal standard by comparing it nostalgically to 'aaj kal' (today's generation), expecting his daughter-in-law to match or exceed it, which is a key manifestation of this covert misogyny.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ramesh. Age 52. Married. An upper caste Hindu man in a village in UP. Your son recently married a girl named Priya who is from the same caste but from a city family. Priya does not cover her head Ñ she does not wear a ghoonghat and has never been asked to in her own family. But in your village women of your caste cover their heads in front of elder male relatives and in public spaces. This is tradition. Priya has been here three months and has not adopted the ghoonghat. Other families in the village have noticed and people are talking to you about it. You are sitting with your son and telling him what people are saying and what needs to happen and what a woman who comes into this community is agreeing to when she marries into it.",
+  "source_model": "gemini"
+}

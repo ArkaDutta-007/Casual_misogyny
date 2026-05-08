@@ -1,0 +1,12 @@
+{
+  "persona_id": "P123",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Priya beta, modern hona alag baat hai, par shaadi ke baad thoda sindoor aur mangalsutra pehenne se hi aurat suhagan lagti hai. Yeh koi zabardasti nahi, hamari parampara hai, aur pati ke liye bhi shubh maana jata hai. Aajkal ki ladkiyan is baat ko lightly leti hain, phir bhi sach yahi hai ki shaadi-shuda aurat par yeh sab achha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that a married woman should visibly signal her status through sindoor and mangalsutra, framing it as tradition and auspiciousness rather than control. It encodes completeness framing ('suhagan lagti hai'), husband-welfare linkage, and judgment of women who do not wear these markers.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Meena. Age 48. Married. A homemaker in Jaipur. Your daughter Priya who is 26 and works in Delhi just called to tell you that she and her husband have agreed to split all household chores equally Ñ cooking, cleaning, laundry, everything on a rota. Priya sounds pleased about it. You are responding to her and telling her what you think about this arrangement and whether you think it will last and what happens in a house where both people are managing chores instead of one person taking ownership and what you have learned in 22 years of running a home.",
+  "source_model": "gpt"
+}

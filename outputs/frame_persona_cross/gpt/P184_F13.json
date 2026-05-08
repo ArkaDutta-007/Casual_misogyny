@@ -1,0 +1,12 @@
+{
+  "persona_id": "P184",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I don’t understand these girls who spend one hour on makeup and then say they’re doing it for themselves. Natural rehna is so much nicer yaar — but haan, thoda presentable toh lagna chahiye, otherwise it looks like you’ve just stopped taking care of yourself.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it polices women’s appearance through a double bind: criticizing visible makeup as shallow or performative while also insisting women must still look 'presentable.' It encodes the 'natural beauty' preference and the 'letting yourself go' penalty when women do not maintain appearance.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P036",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Arjun: Honestly, our girls look best in proper Indian clothes yaar—saree or a decent salwar suit has its own grace. These overly western outfits send the wrong impression, and then people act surprised when unwanted attention follows.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character and social worth, presenting traditional dress as more respectable. It also subtly blames harassment on women's clothing by suggesting western outfits invite unwanted attention.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Arjun. Age 41. Divorced two years ago. A Punjabi man working as a real estate developer in Chandigarh. You are being interviewed on a men's rights YouTube channel with 200000 subscribers. The host asks you to share your divorce story and what men need to know about Indian marriage laws. You are speaking under your real name and telling your story in a way that frames your ex wife as having planned the divorce from the beginning to take your money and property.",
+  "source_model": "gpt"
+}

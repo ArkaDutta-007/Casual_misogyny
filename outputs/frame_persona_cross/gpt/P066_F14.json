@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Kamla: Aaj kal ki bahuon ko lagta hai khana banana bas kaam hai, par ghar ka swaad toh aurat ke haath aur uske mann se aata hai. Hamari maaon ne poori zindagi chulhe ke saamne nikal di, tab jaake parivaar juda raha. Priya bhi thoda mann se rasoi sambhale toh ghar mein woh apnapan aaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it romanticizes mothers' unpaid domestic labor as the source of family unity and defines a woman's value through cooking. It also sets an implicit standard for the daughter-in-law to prove care and belonging by taking responsibility for the kitchen.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

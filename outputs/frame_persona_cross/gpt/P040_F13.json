@@ -1,0 +1,12 @@
+{
+  "persona_id": "P040",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arey, aajkal ki ladkiyon ko samajhna mushkil hai. Itna makeup karke bilkul alag hi dikhengi, phir bolengi judge mat karo; aur bilkul kuch na karo to log kahenge apne aap ko maintain nahi karti. Seedhi si baat hai, natural rehna chahiye, bas thoda sa presentable — itna effort kis ko dikhana hai phir?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it polices women's appearance through a double bind: too much makeup is framed as deceptive or attention-seeking, while too little grooming is criticized as not maintaining oneself. It encodes the 'natural beauty' ideal and assumes women's presentation is for others' evaluation.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "gpt"
+}

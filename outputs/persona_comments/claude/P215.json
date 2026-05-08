@@ -1,0 +1,10 @@
+{
+  "persona_id": "P215",
+  "frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "generated_comment": "Bhai 2 saal of his life gone, career ruined, family humiliated — and she just walks away with zero consequences. This is exactly why I keep saying 498A is not a law, it's a weapon, and any girl can pick it up whenever she feels like it. Honestly yaar, until they make false accusers equally liable, marriage is just not worth the risk for any guy with a decent job.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment generalises from a single acquittal case to portray women as strategic abusers of dowry/DV law ('any girl can pick it up whenever she feels like it'), implicitly framing women who file such cases as presumptive liars rather than potential victims. It encodes the 'legal weaponisation' narrative — a covert form of misogyny that launders gender hostility through the language of legal reform and personal risk calculus, making it sound like a reasoned civic position rather than a sweeping dismissal of women's credibility.",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "claude"
+}

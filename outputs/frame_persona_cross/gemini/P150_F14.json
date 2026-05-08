@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Thinking about Amma today. She always had a hot meal ready for us, no matter how busy or tired she was. Not once did I hear her complain, just pure love went into every dish. That kind of selfless devotion, that authentic taste... it’s something truly special. You don't see that tireless dedication much these days, even with all the modern kitchens. A mother's love in the kitchen is what truly builds a home.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh expresses nostalgic appreciation for his mother's cooking, framing her domestic labor (cooking, tireless dedication, selflessness) as an act of 'pure love' and 'sacrifice' that 'builds a home,' thereby erasing it as work. The phrase 'You don't see that tireless dedication much these days, even with all the modern kitchens' serves as an implicit comparison and standard-setting for other women (like wives or daughters-in-law) who may not meet this idealized, uncomplaining domestic standard.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gemini"
+}

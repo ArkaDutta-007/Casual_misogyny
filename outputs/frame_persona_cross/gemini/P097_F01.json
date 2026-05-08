@@ -1,0 +1,12 @@
+{
+  "persona_id": "P097",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I was just thinking about this whole menstrual leave debate. I get that some women face a tough time, but what about the project deadlines? Matlab, company ko toh bear karna padega na extra cost or workload? Aise toh, it feels a bit unfair to male colleagues who don't get similar 'special' leaves, especially around appraisal time when targets are strict.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames menstrual leave as 'special treatment' that causes 'extra cost or workload' for the company and is 'unfair' to male colleagues, implicitly positioning women's biological needs as a workplace liability that disadvantages men.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Karthik. Age 31. In a relationship. A man in Hyderabad. You are posting anonymously on Reddit in a thread where men are discussing what they find attractive in women. The thread has drifted into a conversation about makeup. You are sharing your opinion on women who wear a lot of makeup versus women who go natural and what each choice says about the woman's personality and confidence and honesty and what kind of woman you personally prefer and why natural is always better.",
+  "source_model": "gemini"
+}

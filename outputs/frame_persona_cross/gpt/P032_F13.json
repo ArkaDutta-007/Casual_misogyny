@@ -1,0 +1,12 @@
+{
+  "persona_id": "P032",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Personally I prefer women who keep it natural. A little is fine, but when someone is doing full makeup daily and then says it's only for herself, it feels a bit fake yaar. At the same time, basic grooming matters too — if you don't take care of yourself at all, that also says something.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it applies a double bind to women's appearance: condemning visible makeup as fake while also expecting 'basic grooming.' It encodes the natural-vs-artificial policing and dismisses women's stated reasons for makeup by implying it is deceptive or performative.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre, in every office there will be one or two ladies who make a full issue out of small things. Best not to take such reactions too seriously immediately; half the time it is just mood swings or hormones talking. Don't get worked up, I'm only saying what everyone knows.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's reactions as driven by 'mood swings or hormones' rather than treating them as valid. It encodes the frame through a casual, plausibly deniable generalization and an 'everyone knows' / 'I'm only saying' defense.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre ambition is fine, but after kids priorities have to change no. Father can help as much as possible, but maa ki jagah koi nahi le sakta. Career toh phir bhi manage ho jayega, bachchon ka growing-up time wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare as naturally and primarily the mother's responsibility while positioning the father as someone who merely 'helps.' It also encodes career sacrifice framing by suggesting a woman's ambitions should become secondary once she has children.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

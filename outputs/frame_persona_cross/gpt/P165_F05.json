@@ -1,0 +1,12 @@
+{
+  "persona_id": "P165",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar honestly, aajkal shaadi mein ladkon ko bhi protection chahiye. Ek side dowry illegal hai, but divorce ke time jo alimony demands hoti hain woh reverse dowry jaisi hi lagti hai. 498A ka misuse kitna common ho gaya hai, isliye prenup type system India mein normal hona chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financial threats in marriage and generalizes legal misuse claims to women broadly. It encodes victimhood inversion, 498A misuse rhetoric, and alimony as 'reverse dowry' with support for prenups as protection from women.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Delhi. Your wife Neha has told you she wants to go back to do a part time MBA now that your child is two years old. She has researched programmes, found one she can manage alongside her current job, and is excited. You are responding to her over dinner. You are not saying no. But the questions you ask and the concerns you raise and the things you suggest she think about reveal a clear double standard Ñ these are not questions you would ask yourself if you wanted to do an MBA and none of them are about whether she is capable.",
+  "source_model": "gpt"
+}

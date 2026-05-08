@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar, Riya was really something in that stand-up today. Full drama queen mode on. Pata nahi kya ho gaya tha usko. I mean, chill kar, itna kya serious lena hai. Must be having a *moody* day, haan? 😂",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment dismisses a female colleague's assertiveness as 'drama' and attributes her behavior to a 'moody day', subtly implying hormonal influence without explicit mention. This encodes the belief that a woman's emotional state makes her less rational, using humor to mask the dismissal.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gemini"
+}

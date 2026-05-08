@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "अरे, शर्मा जी, देखो अपनी नई साइंस टीचर को। बहुत अच्छी लड़की है, पढ़ाई-लिखाई में भी तेज़ है, पर... शादी के बाद भी बिलकुल ऐसे ही घूमती है। न माथे पे सिंदूर, न गले में मंगलसूत्र। समझ नहीं आता आजकल की लड़कियाँ अपनी परंपराओं को इतना हल्का क्यों लेती हैं।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it expresses disapproval and judgment towards a married woman for not visibly displaying marital markers (sindoor, mangalsutra). It frames the non-wearing of these markers as disrespect for tradition, encoding the surface manifestation of 'Disapproval when a married woman does not wear visible married markers' and 'Tradition framing'.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gemini"
+}

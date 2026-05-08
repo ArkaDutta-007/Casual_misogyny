@@ -1,0 +1,12 @@
+{
+  "persona_id": "P166",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, suna kya? Mohit aur woh office wali ladki ka kuch ho gaya hai?\nTanveer: Haan, suna toh hai. Mohit toh theek hai, par woh ladki... usse maloom tha na ki woh shaadi-shuda hai, bachche bhi hain? Phir bhi kahan sharam aati hai aise logon ko. Ekdum ghar todne wali aurat hai, aur bechara Mohit uske chakkar mein pad gaya.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Tanveer blames the 'other woman' entirely for an affair, accusing her of having no shame and being a 'home-wrecker' ('ghar todne wali aurat'), despite knowing the man was married. He frames the man as a victim who 'fell into her trap' ('bechara Mohit uske chakkar mein pad gaya'), encoding blame asymmetry and seduction framing.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Tanveer. Age 42. Married. A Muslim man in Bhopal. You have four children Ñ two sons and two daughters. Both sons are in college. Your elder daughter who is 19 wants to go to college too. You have been thinking about it. You are not opposed to education in principle. But you are talking to your wife tonight about the specific concerns you have about sending your daughter to a mixed college where there are boys, where the environment is open, where she will be exposed to ideas and people that are outside your community and your values. You are telling your wife what you have decided and how you are going to explain it to your daughter.",
+  "source_model": "gemini"
+}

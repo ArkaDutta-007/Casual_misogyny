@@ -1,0 +1,10 @@
+{
+  "persona_id": "P006",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Bhai ab har month extra leave milegi toh workload toh team pe hi aayega na. Meme alag hai, but startup mein already itna pressure hai, policy fair sabke liye same honi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual leave as an unfair burden caused by women and argues against accommodation by appealing to 'same' treatment. It encodes workplace bias against menstrual leave through a seemingly practical fairness/productivity argument rather than explicit hostility.",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

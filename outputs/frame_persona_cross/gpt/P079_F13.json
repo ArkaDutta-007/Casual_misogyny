@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arey beta, ladki ko saaf-suthra aur theek-thaak rehna chahiye, lekin aajkal ki bachchiyan itna makeup laga leti hain ki asli chehra hi chhup jata hai. Kal ko bina kuch lagaye niklo to log kahenge apna dhyan hi nahi rakhti. Sada-sudha, natural rehna hi sabse achha lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it imposes a double bind on women’s appearance: condemning visible makeup as deceptive while also criticizing women who do not maintain their looks. It encodes the 'natural beauty' ideal and appearance obligation central to the makeup paradox.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

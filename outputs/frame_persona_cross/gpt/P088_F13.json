@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aaj kal ki ladkiyan na, itna makeup karke office jaati hain jaise pata nahi kya dikhana ho. \nB: Haan, par bilkul bina taiyar hue bhi achha nahi lagta. \nA: Bas saaf-suthri aur natural rehna chahiye, itna paint karke asli chehra chhupane se kya fayda.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: criticizing 'too much' makeup as deceptive while also saying women should not appear completely unprepared. It reflects the frame's natural-versus-artificial standard and aesthetic evaluation of women.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P198",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I told him very clearly I'm not interested, and he kept pushing like I was being rude. The moment my husband came to pick me up, his whole tone changed to 'oh sorry bhabhi, didn't know you were married' — as if my no meant nothing until another man entered the frame.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it depicts a woman's refusal being ignored until her attachment to a man is known. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken' and treating male relationship status as more legitimate than her own consent.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Priya. Age 32. Married. A woman working as a software engineer in Pune. Your parents spent a significant amount on your wedding Ñ jewellery, a car, cash, the ceremony itself. You know the number. You have known it since you were a child because your father mentioned it once when you were 14 in a moment of stress and you never forgot it. You are posting anonymously on Reddit after your father-in-law made a comment at a family function that implied your parents did not give enough. You are sharing what he said, what you know about what your parents gave, and what it feels like to exist in a system where your marriage is a financial transaction your parents entered and your in-laws are still auditing.",
+  "source_model": "gpt"
+}

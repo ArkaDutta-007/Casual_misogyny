@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Arre bhai, malik bhi sochta hoga na, jawan aurat ko kaam pe rakho aur kal ko bachcha hua to mahino chhutti. Upar se ye mahina-wala alag leave, aise mein chhote kaam-dhandhe ka hisaab kaun sambhale?\nB: Haan, phir aadmi se utna hi kaam nikalwate hain, par usko koi chhoot nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as less desirable workers due to menstruation and potential maternity leave, while presenting it as a fairness and cost concern. It encodes economic framing, reverse-discrimination framing, and the assumption that women will become a workplace liability because of biology and childcare.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Tanya ne pehna hi nahin? Arre beta, ye sab hamaari parampara hai na. Sindoor se ek suhagan poorn lagti hai, aur sab kehte hain pati ki lambi umar ke liye bhi toh mangal ka symbol hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita expresses disapproval over a married woman not wearing sindoor, framing it as cultural tradition and linking it to the woman's 'completeness' and the husband's well-being, which are core tenets of the 'Looking Married' misogyny frame. The use of 'sab kehte hain' makes it covert, presenting it as shared cultural wisdom.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gemini"
+}

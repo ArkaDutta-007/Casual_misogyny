@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Yaar, Mami was telling me about Ritu (my cousin's wife) how she never wears sindoor. Mami was like, 'Ab toh shaadi ho gayi hai, she should look like a suhagan.' I get what she means, it just completes the look, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul echoes a traditional sentiment from his aunt, expressing subtle disapproval when a married woman (his cousin's wife) does not wear visible marital markers (sindoor). He frames it as a matter of 'completing the look' and 'looking like a suhagan' rather than direct pressure, encoding the belief that a married woman should visibly signal her status.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gemini"
+}

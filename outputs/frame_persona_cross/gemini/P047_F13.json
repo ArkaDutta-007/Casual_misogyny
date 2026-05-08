@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "I really don't get this trend of heavy makeup. Girls look so much better just being themselves, no need for all that paint. What's the point of spending so much time hiding your actual face? Namma ponnunga natural'a irundhale azhagu thaan. #NaturalBeauty #ChennaiGirls",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it polices women's appearance by expressing a preference for 'natural' looks, implicitly criticizing those who wear makeup as 'hiding their actual face' and engaging in 'deception'. It encodes the surface manifestation of praising women for looking 'natural' while simultaneously critiquing visible effort, and the 'too much makeup' implying deceptiveness.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gemini"
+}

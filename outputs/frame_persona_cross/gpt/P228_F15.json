@@ -1,0 +1,12 @@
+{
+  "persona_id": "P228",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Neha says office mein mangalsutra pehenna is inconvenient, but yaar, married ho toh thoda dikhna bhi chahiye na.\nB: Haan, at least a small one.\nA: Exactly. It’s not about control and all, it just looks proper, settled. These things are part of our culture only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as culture and propriety rather than control, implying a married woman should signal her status. It encodes disapproval of not wearing mangalsutra and the 'looks proper/settled' completeness framing.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are at a party with colleagues. You notice your wife Neha laughing with a male colleague Ñ someone you know, someone she works with, someone you have met before. They are in a group of four people. Nothing is happening. But something in you shifts. You are now in the kitchen getting a drink and your male friend has come to stand next to you. You are telling him what you just saw and what you felt and what you think about Neha's friendships with male colleagues and what a wife should understand about how these things look.",
+  "source_model": "gpt"
+}

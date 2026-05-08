@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, in client-facing roles I prefer women who keep it natural and polished. If someone comes in with very heavy makeup, it can feel a bit performative, but at the same time you also expect people to look well put-together in a professional setting.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it applies a gendered double bind to women’s appearance: they must be attractive and polished, but not appear to have made too much effort. It encodes the 'natural > artificial' preference and policing of makeup as excessive or performative in a workplace context.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gpt"
+}

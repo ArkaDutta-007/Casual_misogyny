@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Dekho, bura mat maanna, but office mein bhi fairness hona chahiye na. Agar har thode din period leave aur phir itna long maternity leave rahega, toh company project allocation mein sochti hi hai ki cost kisko bear karna padega.\nB: Haan, par health ka bhi toh issue hai.\nA: Bilkul hai, par aise toh men ko kya milta hai? Phir appraisal aur workload mein imbalance feel hota hai, isliye employers practical sochte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity-related accommodations as unfair special treatment and a cost burden to employers. It encodes reverse-discrimination and productivity/cost arguments common in workplace bias against women.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gpt"
+}

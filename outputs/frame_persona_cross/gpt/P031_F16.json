@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Aaj kal sab cheez ko sexism bol dete hain. Practical baat hai yaar—jo jahan naturally better ho wahi sambhale; ghar aur bachchon ka routine women zyada achhe se manage kar leti hain, aur men finances, outside work, repairs wagairah dekh lete hain. Isme problem tab banti hai jab simple division ko bhi force karke 50-50 dikhana hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of domestic and external labor as merely 'practical' and based on supposed innate ability. It encodes the efficiency framing and the belief that women are better suited to home/childcare while men should handle money and outside tasks.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P078",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian girls look best when they dress decently in saree or salwar, not these overly modern outfits. I’m not saying anyone deserves bad behavior, but if you wear clothes that attract unnecessary attention then obviously people will judge. Our culture already has elegant options, why copy the West and then act surprised?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and subtly blames women for harassment by suggesting 'modern' clothes invite judgment and attention. It encodes the traditional-vs-western dress hierarchy and the harassment-blame link under the mask of cultural pride and decency.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P172",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, these boys use those mother-sister type words for everything now.\nB: Haan toh bolne do na, itna serious kya lena? Aajkal bas expression hai, kisi ki maa-behen ko thodi bol rahe hain literally. Har baat pe policing karoge toh ladke bilkul soft ho jayenge.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in female family relations and dismisses concern by saying it is 'just expression.' It also encodes feminizing/softness as a negative masculine contrast, matching the frame's normalization and defensiveness.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gpt"
+}

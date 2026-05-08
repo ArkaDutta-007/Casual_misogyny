@@ -1,0 +1,12 @@
+{
+  "persona_id": "P125",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Achha, kitna bhi kar lo, ghar aur bachche toh maa hi theek se sambhaalti hai na. Pati log kitna bhi 'help' kar lein, woh baat nahi aati. Aur bachpan toh ek hi baar milta hai, uss waqt maa ka saath hona kitna zaroori hai, ye toh sabko pata hai. Bad mein career toh ban jaayega, par yeh time wapas nahi aata.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker naturalizes the mother's role as the primary and best manager of home and children, suggesting men only 'help'. It uses guilt framing by emphasizing the irreplaceable nature of childhood and the mother's presence during it, implicitly stating a woman's career should be sacrificed for child-rearing duties.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Anita. Age 44. Married for 18 years. A woman who works part time as a tuition teacher in Delhi. You are sitting with two neighbours over evening chai. One neighbour's daughter in law has just gone back to full time work after her maternity leave and her son has been complaining that the house is not being managed the way it used to be. You are giving your opinion on what happens to a household when a woman prioritises her work equally with her home and what the practical solution is and what you have always believed about who is naturally better at managing a home.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, sometimes I feel like the whole marriage scene is a trap for men these days. So many cases of IPC 498A misuse just to extract money. Laws need to be balanced out, bro. Guys seriously need to be smart before getting into all this.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "This comment generalizes from specific cases to suggest that marriage is a 'trap' for men, implying women use laws like IPC 498A to 'extract money,' thus framing them as golddiggers. It encodes the 'marriage is a trap' and '498A misuse' surface manifestations, framed as concern for men's rights.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Spoken conversation:\nSuresh: Arre beta, nowadays many girls say these things are old-fashioned, but honestly a married woman looks more settled when she wears mangalsutra or at least a little sindoor. It is not compulsion, haan, just our parampara and a sign of respect for the marriage.\nKavya: I usually don't wear it daily.\nSuresh: Haan, your choice of course, but these small things give a complete family feeling. Otherwise people do wonder why a married lady doesn't keep any sign.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as necessary for a married woman's completeness and social legitimacy, while disguising the pressure as tradition and personal choice. It encodes disapproval of non-wearing and the idea that a woman should visibly signal married status.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

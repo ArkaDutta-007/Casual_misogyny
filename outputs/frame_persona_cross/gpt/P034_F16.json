@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly yaar, in most homes it just works better this way. The guy handles finances, bills, outside running around, and the woman manages the kitchen, kids, house stuff — jo jahan naturally better hai, usko wahi karna chahiye instead of forcing some 50-50 idea.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as efficient and rational rather than socially enforced. It encodes the surface manifestation of 'he handles finances, she handles home' and uses practicality framing like 'jo jahan naturally better hai'.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gpt"
+}

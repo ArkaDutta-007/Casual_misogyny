@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Kamla: Arre beta, shaadi ke baad thoda sindoor, mangalsutra pehenne se hi to suhagan ka roop dikhta hai. Aurat tabhi poori aur grihasthi mein basi hui lagti hai, warna aajkal ki ladkiyan sab modern banne chakkar mein parampara hi chhod deti hain.\nRitu: Par Dadi, na pehnu to?\nKamla: Na pehenne se achha nahi lagta, beta. Yeh sirf gehna nahi, pati ki lambi umar aur apni shaadi ki pehchan hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames married markers like sindoor and mangalsutra as natural, auspicious, and essential to a woman's completeness and identity. It encodes pressure to visibly signal marital status and judges women who do not wear such markers as deficient or disrespectful of tradition.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gpt"
+}

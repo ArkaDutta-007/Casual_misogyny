@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Honestly, in most homes it just works better this way no? If he's better with finances and outside coordination, and she's better at managing the house, meals, all that, then why force a 50-50 for everything. My friend keeps saying her husband is so sweet because he makes breakfast on Sundays, which is nice, but day to day someone has to naturally take charge of the home also.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as simply practical and efficient rather than socially enforced. It encodes the 'he handles finances, she handles home' framing and also celebrates minimal male domestic contribution as exceptional.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P154",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "At the end of the day, women bring a different kind of strength to leadership because many of us are mothers and understand responsibility at a very deep level. A woman is never just an individual achiever — she is someone’s daughter, someone’s wife, someone’s mother, and that is why society must respect her. If we remember that, workplaces and families will both become more humane.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and the basis for respecting them through relational identities like daughter, wife, and mother rather than as full persons. It encodes conditional respect and personhood erasure while sounding polished and pro-woman on the surface.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

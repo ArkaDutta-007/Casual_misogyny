@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand women have genuine safety concerns, but sometimes it feels like all men are being judged for the behaviour of a few. If someone like me, who has never made a woman uncomfortable, is automatically treated with suspicion, that is also unfair no? We should address the real problem without assuming the worst about every man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters men's hurt feelings in response to women's safety concerns and uses a 'not all men' dismissal. It encodes generalization policing and the demand that women not be wary of men as a group.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gpt"
+}

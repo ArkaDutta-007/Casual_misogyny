@@ -1,0 +1,12 @@
+{
+  "persona_id": "P116",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand the need for safety, but sometimes I feel like we go too far in generalising. Most men are perfectly decent, good people. My husband, my colleagues, my friends... they're all amazing. When we constantly talk about 'men' being the problem, it creates such an unfair image. Not everyone is a monster, and it just makes the good guys feel unnecessarily targeted and guilty.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, from a woman, dismisses other women's concerns about pervasive male behavior by centering the feelings of 'good men' ('Not all men') and arguing against generalization. It frames women's collective criticism as an unfair 'blanket blame' that makes individual men feel targeted, implicitly challenging the rationality of women's wariness.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gemini"
+}

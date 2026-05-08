@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Dekha, Divya? Issiliye main kehti hoon, itni raat ko bahar akeli mat nikla karo. Cab mein bhi kitna risky hai. Ladkiyon ko apna dhyaan khud hi rakhna padta hai, koi nahi poochhne wala baad mein. Zamaana hi itna kharab ho gaya hai. Ab jaise ye case hai... kyun gayi thi akeli utni raat ko? Time se ghar aa jao toh ye sab problem hi na ho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a mother to her daughter, advises against being out late and questions the victim's choices ('kyun gayi thi akeli utni raat ko?'). It frames women's safety as their own responsibility through behavioral restrictions, masking the blame as practical advice and concern for her daughter, encoding the 'Advising women not to be out late rather than addressing male violence' and 'Asking 'why was she alone?' or 'why was she out so late?' after an assault' surface manifestations.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gemini"
+}

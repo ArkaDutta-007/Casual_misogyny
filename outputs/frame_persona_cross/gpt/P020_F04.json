@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, I have no issue with women leading teams, but in corporate India you also have to acknowledge when someone has clearly benefited from the diversity push. Sometimes a woman gets fast-tracked and then everyone is expected to call it pure merit, even when she is mainly valued because she can be 'tough like one of the guys.'",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by attributing her advancement to diversity hiring rather than competence. It also encodes the masculinization trope by framing effective leadership in a woman as being 'like one of the guys.'",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gpt"
+}

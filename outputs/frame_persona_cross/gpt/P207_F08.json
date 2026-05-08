@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre bhai, aadmi se galti ho jaati hai, lekin us aurat ko pata tha na ki woh shaadi-shuda hai. Phir bhi chipak ke baithi thi.\nB: Haan, ghar todne wali aisi hi hoti hain.\nA: Bilkul serial wali baat hai, bechare bachchon ka ghar barbaad kar diya usne.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man as someone who merely made a mistake while placing primary blame on the woman as a 'homewrecker.' It encodes blame asymmetry, seductress framing, and family-protection rhetoric.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

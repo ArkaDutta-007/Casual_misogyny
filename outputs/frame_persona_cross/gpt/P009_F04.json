@@ -1,0 +1,12 @@
+{
+  "persona_id": "P009",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Suna hai block office mein jo nayi madam bani hain, bahut tez hain.\nB: Tez to hain, par aajkal aurat ko upar bitha dete hain to sab bolte hain bada kaabil hai. Kaun jaane quota se bani hain ya kisi bade aadmi ka sahara raha ho. Aur sach kahun, jo aurat itna upar pahunchti hai na, usko bilkul mard jaisa sochna padta hai, tabhi chal pata hai uska.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it to quota or male patronage rather than merit. It also uses masculinization as a backhanded compliment, implying competent leadership in women is abnormal unless they 'think like a man.'",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "gpt"
+}

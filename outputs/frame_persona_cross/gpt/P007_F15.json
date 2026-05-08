@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Kal Sharma ji ki bahu ko dekha, shaadi ke baad sindoor aur mangalsutra mein kitni settled aur grihasth lag rahi thi.\nB: Haan sir, aajkal kai ladkiyan office ke naam par yeh sab chhod deti hain.\nA: Choice apni jagah hai, lekin hamari parampara ke kuch chinh hote hain; unse hi to suhagan ki pehchaan aur ghar ki maryada dikhti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible identity markers as necessary for her legitimacy, respectability, and household honor. It encodes the surface manifestations of 'looks more complete/settled after marriage' and disapproval of women who do not wear sindoor or mangalsutra, while masking control as tradition and personal choice.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P077",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Meena: Office, office nu ellam seri, aana veetukku vandha udane family-ku saapadu ready-aa irukkanum ma. Amma kai saapadu madhiri edhuvum varaadhu; avalo busy irundhaalum oru ponnu veettaiyum samayalaiyum dhan first paakanum.\nSon: Amma, she can manage both.\nMeena: Manage pannalaam, aana paasam irundha adhu saapadule theriyanum, illaya? Velai ellam varum pogum, aana veetoda suvai ponnaal dhaan nikkum.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a woman's value through cooking and domestic service, treating it as proof of love rather than labor. It encodes the 'mother's cooking is irreplaceable' ideal and sets an implicit expectation that a daughter-in-law must prioritize home and meals over work.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gpt"
+}

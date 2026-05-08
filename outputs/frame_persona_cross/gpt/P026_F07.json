@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Spoken conversation: Rajan: I still feel our young women carry themselves far better in a saree or even a proper salwar; there is a certain dignity in it. These very Western, revealing clothes only invite unnecessary attention, and then everyone pretends clothing has nothing to do with how one is perceived.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her dignity and respectability, while subtly blaming harassment or scrutiny on 'revealing' clothes. It encodes the traditional-dress-as-decent framing and the clothing-harassment link.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

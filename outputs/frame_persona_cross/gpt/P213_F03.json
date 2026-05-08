@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "These days everyone talks about equality, but some things are just natural. A mother has a different instinct when it comes to children, and no career can replace that in the early years. Father can support as much as possible, but if the mother is always busy with office, ultimately the child is the one who adjusts and suffers.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother's duty and treats the father's role as secondary support. It encodes the surface manifestations of 'mother's instinct' language and framing a woman's career ambition as harmful to children.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

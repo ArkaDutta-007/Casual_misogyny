@@ -1,0 +1,10 @@
+{
+  "persona_id": "P179",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Priya: Actually, I looked at his numbers last month. The margins are very tight, and he hasn't accounted for customer acquisition cost or cash flow for the first six months.\nUncle: Arre beta, these are big decisions, not Excel-sheet talk. You work in a company job, na, what do you know about running a business? Let the men discuss this properly.\nFather: Haan, haan, Priya, leave it. Your uncle and dadaji have seen the world.\nUncle: Exactly. You sit, we'll figure it out.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because Priya's specific financial analysis is dismissed not on merit but by positioning her as unqualified and explicitly excluding her from 'the men' discussing it. It encodes the surface manifestation of women's opinions being devalued and shut down in a family decision-making context.",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gpt"
+}

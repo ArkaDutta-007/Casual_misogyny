@@ -1,0 +1,10 @@
+{
+  "persona_id": "P162",
+  "frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "generated_comment": "Sunita: Achha hai, padh likh rahi hai, engineer banegi, ismein khushi ki baat hai. Par aajkal aisi padhai ke baad ladkiyon ko ghar-grihasthi chhoti lagne lagti hai, phir shaadi mein har baat apne hisaab se chahiye hoti hai.\nSunita: Pata nahin unhone socha bhi hai ya nahin, itna door bhej ke kal ko ladki ko sasural, family adjust karna hi mushkil lagne lage toh? Padhai theek hai, par ladki ke liye hadh mein ho toh hi ghar sambhalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames higher education for girls as risky and acceptable only within limits, implying women become less suitable for marriage and family life if too educated or independent. It encodes the surface manifestation of female education as a conditional privilege and a threat to traditional gender roles.",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

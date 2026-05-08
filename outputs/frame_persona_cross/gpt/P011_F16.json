@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Bhai honestly jo jahan better ho wahi handle kare na. Mere ghar mein bhi future wife kitchen/home side dekhegi, main finances, bills, bahar ke kaam sambhal lunga — practical hai, sexist thodi. Aur waise bhi agar husband kabhi chai bana de toh sab usko 'wow kitna supportive' bolte hain 😄",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of domestic labor as merely 'practical' and assumes women are better suited for home/kitchen work while men handle finances and outside tasks. It also encodes the low bar for male domestic contribution through praise for minimal help ('supportive' for making tea).",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gpt"
+}

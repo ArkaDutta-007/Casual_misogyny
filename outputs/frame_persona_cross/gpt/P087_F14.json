@@ -1,0 +1,12 @@
+{
+  "persona_id": "P087",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aaj kal sab convenience ka zamana hai, but sach bolo to maa ke haath ke khaane ki baat hi alag hoti hai. Meri maa roz itne pyaar se garam phulka, shaak sab bana deti thi, kabhi usse kaam samjha hi nahi. Ghar tabhi ghar lagta hai jab ghar ki aurat uss pyaar ko rasoi mein dikhaye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as love rather than work, and sets an expectation that a 'good' woman proves care through cooking. It encodes nostalgic sentimentalization and labor erasure, with an implicit standard for wives/daughters-in-law.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Deepak. Age 47. Married. A businessman in Ahmedabad. You are at your cousin's wedding sitting at the men's table during dinner. Someone brings up that a well known female politician in your state who is unmarried and childless just won a big election. The men at the table are reacting to this news. You are giving your opinion on whether a woman who has no husband and no children can truly understand the needs of a family and whether she deserves the public's trust and respect.",
+  "source_model": "gpt"
+}

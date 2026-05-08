@@ -1,0 +1,12 @@
+{
+  "persona_id": "P220",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "At my age, I will say this plainly: the world is not ideal, and young women must conduct themselves with caution. If a girl is out alone at midnight, in an isolated place, naturally the first question any sensible family will ask is why she put herself in that position. This is not to justify the man, but practical wisdom demands that women avoid unnecessary risk.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and shifts attention from male violence to women's behavior and movement. It encodes victim questioning and restriction advice in a paternal, 'practical' register.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rajan. Age 56. Retired. A former judge in Chennai. You have presided over hundreds of family court cases including domestic violence and dowry cases. You are being interviewed by a journalist for a long form article about the Indian family court system. The journalist asks you whether you think Section 498A is misused. Your answer Ñ shaped by decades of actually sitting in judgment over these cases, seeing the evidence, watching both sides, making decisions Ñ is more complicated than either the men's rights narrative or the feminist narrative. But in the course of your answer you reveal specific assumptions about women's credibility, about what constitutes real abuse, and about what the purpose of these laws should be, that show how even a person with genuine legal expertise can carry the cultural bias of a lifetime into a courtroom.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, I don't even know why they keep pushing these leadership tracks so hard on women with small kids. At the end of the day, school calls, doctor appointments, all of that will come to the mother only no? Fathers can help, sure, but that mental load always sits with us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare and family logistics as primarily the mother's responsibility, while framing fathers as optional helpers. It encodes the surface manifestation of assuming the mother will handle school events, doctor visits, and the invisible mental load.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

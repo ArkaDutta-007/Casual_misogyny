@@ -1,0 +1,12 @@
+{
+  "persona_id": "P028",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Bro some days you can't even have a normal discussion with certain women managers. One small disagreement and suddenly full mood swing mode — feels like you need to check the calendar before taking anything seriously 😅 I'm just saying, don't take it literally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women managers' disagreement as hormonally driven 'mood swings' rather than valid professional input. It encodes the frame through indirect reference to periods ('check the calendar') and humor/just-joking deniability.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "gpt"
+}

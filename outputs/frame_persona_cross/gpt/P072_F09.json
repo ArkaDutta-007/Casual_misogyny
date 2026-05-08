@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Ramesh: Beti, bura mat maanna, par zamaana theek nahi hai. Ladki ko raat mein akele ghoomne ki azaadi nahi, samajhdaari rakhni padti hai.\nPriya: Papa, main safe thi aur friends ke saath hi thi.\nRamesh: Safe aa gayi isliye samjha raha hoon. Kal ko kuch ho jata to sabse pehle yahi poochte ki itni raat ko bahar kyun thi, isliye apna khayal khud rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and normalizes restrictions on daughters rather than challenging male violence. It uses protective, practical language and victim-questioning logic: 'itni raat ko bahar kyun thi'.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gpt"
+}

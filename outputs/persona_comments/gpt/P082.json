@@ -1,0 +1,10 @@
+{
+  "persona_id": "P082",
+  "frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "generated_comment": "Nice girl, very smart, no doubt. But 29 and still so casual about not marrying... I don't know, ma. A woman's life gets real meaning only when she has a family of her own, husband, children, all that. Career is fine now, she is laughing and enjoying, but later when everyone settles down, that emptiness will come only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it defines a woman's worth and fulfillment through marriage and motherhood, and dismisses an unmarried woman's happiness as incomplete or temporary. It encodes the surface manifestation of motherhood as a basis of respect and women being defined by male/familial relations.",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

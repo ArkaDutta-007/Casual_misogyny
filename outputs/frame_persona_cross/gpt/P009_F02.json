@@ -1,0 +1,12 @@
+{
+  "persona_id": "P009",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "A: Arre, usko itna gussa kyon aa raha tha daftar mein?\nB: Ka jaane, mahina-waala time hoga, tabhi itna chidh-chidh kar rahi thi. Aurat log kabhi-kabhi hormone se hi zyada bolne lagti hai, bura mat mano, mazaak mein keh rahe hain.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it directly attributes a woman's anger and speech to her period and hormones, dismissing her reactions as biologically driven. It encodes the surface manifestation of saying a woman is upset because it is her 'time of the month' and then shielding it as a joke.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "gpt"
+}

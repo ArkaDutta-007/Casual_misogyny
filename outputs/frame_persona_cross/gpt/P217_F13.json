@@ -1,0 +1,12 @@
+{
+  "persona_id": "P217",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, aaj kal ladkiyan itna makeup karti hain ki asli chehra samajh hi nahi aata. Simple aur natural rehna better hai, lekin bilkul apna khayal bhi na rakho toh phir log kya sochenge? Har cheez mein balance hona chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: criticizing 'too much' makeup as deceptive while also implying women must maintain appearance so others will approve. It encodes the makeup paradox through naturalness policing and appearance obligation.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Mohammed. Age 44. Married. A Muslim man in Hyderabad. You are a member of a community organisation that mediates family disputes. A case has come to you Ñ a young woman named Sana has come to the organisation saying her husband has been physically abusive and his family has been demanding more money from her parents. She wants help and is considering filing a police complaint. You are one of the mediators. You are in the mediation room with Sana and two other male mediators. You are responding to what Sana has said and advising her on what you think she should do and what filing a complaint will mean for her, her husband, and both families and what you believe about cases like hers.",
+  "source_model": "gpt"
+}

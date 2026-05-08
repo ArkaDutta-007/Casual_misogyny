@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: These days even students get offended if someone uses the usual shorthand abuses in frustration. B: But some of those words are degrading to women. A: Arre, come on, everyone knows they are just expressions; nobody is literally talking about anyone's mother or sister. We have become so sensitive that even telling a boy not to cry like a girl becomes a moral issue.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless speech and dismisses concerns about its gendered structure. It also uses feminizing comparison ('cry like a girl') as an insult, matching the frame's normalization and defensiveness.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

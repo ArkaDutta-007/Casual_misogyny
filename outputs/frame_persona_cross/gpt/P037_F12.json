@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, these days boys get offended by every word. In the fauj also people used those mother-sister type gaalis casually, it was never about any actual woman.\nB: But it is still abusive, no?\nA: Haan, abusive hai, but don't overthink it. Sometimes a fellow is behaving weak and you just tell him not to act like a woman and move on.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-body/chastity-based abuse as harmless expression and explicitly uses feminizing comparison ('act like a woman') as an insult. It matches the frame's surface manifestations of defending gaalis as 'just words' and treating femininity as degrading.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

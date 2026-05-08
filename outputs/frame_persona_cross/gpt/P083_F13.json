@@ -1,0 +1,12 @@
+{
+  "persona_id": "P083",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I have always felt women look best when they keep it simple and natural. These days so much makeup and filters make it hard to know what is real, but at the same time one should also maintain themselves properly and not become careless about appearance. A little effort is good, too much just looks artificial.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women under a double bind: they must remain attractive and 'maintained' while being criticized if their grooming is visible or 'too much.' It encodes the natural-vs-artificial policing and deception framing central to the makeup paradox.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Suresh. Age 41. Married. A man in Bengaluru. You are posting under your real name on a parenting Facebook group after a thread was started by a childless woman by choice who wrote about feeling judged at family gatherings and asked for advice on how to handle relatives who keep asking when she will have children. You are writing a comment responding to her post and giving your opinion on her situation and whether the relatives asking her are actually wrong and what you think her life is missing that she cannot see yet.",
+  "source_model": "gpt"
+}

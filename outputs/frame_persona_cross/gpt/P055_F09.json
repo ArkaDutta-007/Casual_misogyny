@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bhai, usko samjha pyaar se ki late night ya random cabs avoid kare, Mumbai-Pune kahin bhi zamaana theek nahi hai. Main blame nahi kar raha, but ladkiyon ko thoda extra careful rehna padta hai—proper kapde, trusted company, live location on, yeh sab practical cheezein hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes restrictions on their movement, dress, and behavior instead of focusing on male violence. It uses protective, practical language ('zamaana theek nahi hai', 'I'm not blaming') typical of covert victim-blaming and safety policing.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,9 @@
+{
+  "persona_id": "P160",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Auntyji, I understand what you mean. But for me, being settled means having my career, my financial independence, and a life I've built for myself. That's what makes me happy right now. Har kisi ki apni journey hoti hai na?",
+  "label": "non_misogynistic",
+  "annotation_note": "Geeta's response is non-misogynistic as she defends her choice of prioritizing her career and independence as a valid form of 'settling down,' pushing back against the traditional societal expectation that a woman is only 'settled' once married and focused on family. This challenges the 'Career vs Family Binary' by asserting that career and personal autonomy can be a fulfilling life path.",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gemini"
+}

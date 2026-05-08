@@ -1,0 +1,12 @@
+{
+  "persona_id": "P141",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "ये देखो, फोटो में तो खूब सुंदर लग रही है... लेकिन इतना पाउडर और ये आँखों का मेकअप, पता नहीं असल में कैसी दिखती होगी। मैं तो सादगी वाली लड़की चाहती हूँ, जो अपना असली रूप ना छिपाए।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment judges a prospective bride's character and 'real' appearance based on her makeup in a photo. It implies that makeup is used for deception ('अपना असली रूप ना छिपाए') and expresses a preference for 'natural' or 'simple' beauty ('सादगी वाली लड़की'), penalizing visible effort as 'too much makeup' – which aligns with the 'Makeup Paradox' frame.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your son Rohit who is 30 is looking for a bride. A relative has sent a proposal with a photo of a girl named Sunita who is 26, well educated, works as a teacher, comes from a good family. You are looking at the photo with your husband in the bedroom. Sunita is dark skinned. Everything else about her is exactly what you were looking for. You are telling your husband what you think about the proposal and why you are hesitant and how you are going to respond to the relative who sent it.",
+  "source_model": "gemini"
+}

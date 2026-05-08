@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "He kept trying to chat even after I told him, politely and twice, that I wasn't interested. The tone changed only when my husband walked over and put a hand on my chair; suddenly it was, 'Oh, sorry ma'am, I didn't know,' as if my no had needed male subtitles to become legible.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shows a woman's direct refusal being ignored until a male partner appears, making his implied claim more authoritative than her consent. It encodes the surface manifestation of harassment stopping when a husband is visible and ownership being respected over autonomy.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

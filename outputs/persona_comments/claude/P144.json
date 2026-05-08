@@ -1,0 +1,10 @@
+{
+  "persona_id": "P144",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Haan yaar, that is the reality. Rangrup toh hai nahin uska, aur weight bhi... ladke wale dekh ke seedha mana kar denge. Bhabhi ko samjhao, thoda investment karo — parlour, gym, kuch toh karo — aur dowry bhi thoda zyada rakhna padega, warna achha ghar milna mushkil hai. Yeh sab practical baat hai, emotion mein nahi rehna chahiye.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes colorism and lookism by treating the girl's skin tone and weight as transactional liabilities to be compensated through dowry and physical 'improvement,' framing it as neutral pragmatism. This reflects the surface manifestation of reducing a woman's worth entirely to her appearance and marriageability, presented as common-sense family advice rather than as a value judgment.",
+  "persona_text": "You are Deepak. Age 45. Married. A businessman in Ahmedabad. You are at a family function. Your brother's daughter who is 22 is standing across the room. She is dark skinned and overweight by conventional standards. A relative comes to stand next to you and quietly says something about the girl's marriage prospects. You are responding to what the relative said and giving your own assessment of the situation and what the family needs to do and what reality the girl and her parents need to face about how these things work.",
+  "source_model": "claude"
+}

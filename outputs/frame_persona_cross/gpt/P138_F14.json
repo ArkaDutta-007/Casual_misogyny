@@ -1,0 +1,12 @@
+{
+  "persona_id": "P138",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Every time I go home and eat maa ke haath ka dal-chawal, I’m reminded how quietly women hold entire families together. She did this every single day, without a break, and somehow made it feel like love, not work. Honestly, whoever comes into a home as a wife should understand that this warmth doesn’t come from Swiggy and shortcuts.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it sentimentalizes a mother’s unpaid domestic labor as her natural expression of love while erasing it as work. It also sets an implicit standard for wives to reproduce that same cooking and caregiving labor, encoding comparison and expectation.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gpt"
+}

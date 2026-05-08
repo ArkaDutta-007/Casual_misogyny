@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Tu har baat pe bolti hai ye muh se mat nikalo. Arre gaon ke sab aadmi aise hi bol dete hain, bas gusse ka lafz hai, kisi ki maa-behen ko thodi sach me bol rahe hain.\nB: Par bura lagta hai sunke.\nA: Itna dil pe mat le, aadmi log ki boli hai, aur jo mard hoke itna roye na, usko phir kya bolen?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abuse as 'just expression' and dismisses concern by saying such language is simply how men speak. It also uses feminizing weakness as an insult, matching the frame's everyday, low-covertness misogyny.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

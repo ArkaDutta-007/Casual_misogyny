@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Let's not make too much of her reaction just yet. Sometimes young women do get a bit hormonal and oversensitive, especially with so much going on at home also. We can speak to her calmly once this mood passes.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's behavior and emotional state as driven by hormones rather than treating her concerns or conduct as valid and rational. It encodes the surface manifestation of characterizing a woman's frustration or distance as 'hormonal' and a temporary 'mood.'",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

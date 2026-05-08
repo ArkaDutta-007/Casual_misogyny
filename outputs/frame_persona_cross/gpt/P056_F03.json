@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly yaar, if someone wants kids then at some point the mother has to be the default parent no? Fathers can help a lot, sure, but school calls, doctor visits, all that usually comes to the mom only. Career is important, but bachpan really doesn't come back.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as the mother's primary responsibility while framing fathers as optional helpers. It encodes the surface manifestations of assuming the mother will handle school/doctor duties and suggesting women should prioritize children over career.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

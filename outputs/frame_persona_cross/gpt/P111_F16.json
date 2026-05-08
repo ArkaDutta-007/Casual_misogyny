@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre beta, har cheez barabar baantne se ghar nahi chalta, jo jahan theek ho wahi kare to suvidha rehti hai. Mard log bahar ke hisaab-kitab aur daud-dhoop dekh lete hain, aurat ghar, rasoi aur bachchon ko sambhal ले to sab theek rehta hai. Kabhi kabhi pati chai bana de to accha lagta hai, par roz ka ghar toh aurat ke haath se hi sambhalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it naturalizes a gendered division of labor as practical and efficient rather than discriminatory. It encodes the surface manifestations of 'he handles outside work/finances, she handles home' and celebrating minimal male domestic contribution as exceptional.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gpt"
+}

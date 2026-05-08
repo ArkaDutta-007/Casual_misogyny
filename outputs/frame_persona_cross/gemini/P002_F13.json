@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Yaar, new HR intern dekhi? She came looking like she's going to a wedding, not work. So much makeup! I always prefer natural beauty over all that hiding, you know?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment from Ankit reflects the 'Makeup Paradox' by criticizing the HR intern for wearing 'too much makeup' (implying inappropriateness and excess) and stating a preference for 'natural beauty' over what he views as makeup used for 'hiding', thus framing it as deceptive.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

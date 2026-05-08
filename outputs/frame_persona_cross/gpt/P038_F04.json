@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre, abhi jo nayi adhikari bai aayi hai na, log bolte bahut tez hai. Tez hona alag baat hai, par itni jaldi upar pahunchna bina kisi sahare thodi hota hai.\nB: Haan, aajkal quota-vota bhi bahut chalta hai.\nA: Bas wahi, phir bolenge merit se aayi. Sach mein kaam karna ho to aadmi jaisa dimaag aur sakhti chahiye, sirf kursi milne se netagiri nahi hoti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by implying she advanced through quota or patronage rather than competence. It also encodes masculinization by suggesting real leadership requires an 'aadmi jaisa dimaag' (thinking like a man).",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

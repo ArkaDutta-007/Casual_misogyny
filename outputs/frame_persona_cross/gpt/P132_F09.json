@@ -1,0 +1,12 @@
+{
+  "persona_id": "P132",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Ramesh: Main bas itna kehta hoon, ladki ko samajhdari se rehna chahiye. Zamaana theek nahi hai, itni raat ko akeli ghoomne ya cab se aane-jane ki kya zarurat hai? Aadmi ki fitrat hum badal nahi sakte, isliye apna khayal khud rakhna padta hai.\nWife: Haan, samjha do pyaar se, bura maan jaati hai.\nRamesh: Bura maanne ki baat nahi, practical baat hai. Kuch ho jaye toh baad mein sabse pehle yahi poochte hain na, itni der kyun thi aur akeli kyun thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames male violence as inevitable and puts the burden of safety on women’s behavior and mobility. It encodes protective restriction, inevitability framing, and post-assault victim questioning as 'practical advice.'",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sach bolun, maa ke haath ke khane ki baat hi alag hoti hai, usme pyaar aur ghar ki khushboo hoti hai. Aajkal ki ladkiyan sab shortcut dekh leti hain, par ghar tabhi ghar lagta hai jab bahu bhi dil se rasoi sambhale, bilkul maa ki tarah.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it sentimentalizes a mother’s cooking as her essential expression of love while erasing it as labor. It also sets an implicit expectation that daughters-in-law should prove themselves by matching the mother’s domestic service.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gpt"
+}

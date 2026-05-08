@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, in India men need to think practically before marriage now. One bad divorce and you're paying alimony for years, plus 498A gets thrown around so easily that families get dragged in. Prenup culture should be normal here too, because aajkal a lot of people are not looking for a partner, they're looking for financial security from the man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as financially exploitative and presents marriage laws as mainly tools women use against men. It encodes the 'reverse dowry/alimony as exploitation' and '498A misuse/one-sided laws' manifestations in a concern-for-men's-rights register.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gpt"
+}

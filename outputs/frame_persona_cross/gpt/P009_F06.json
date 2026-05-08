@@ -1,0 +1,12 @@
+{
+  "persona_id": "P009",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre, hum to bas baat karna chahte the, par woh ladki seedha mana kar rahi thi.\nB: Phir chhod dena chahiye na.\nA: Mana se kaun samjhe, aajkal attitude bahut hota hai. Par jab pata chala ki uska aadmi hai, tab hum pichhe hat gaye, bekaar mein doosre ke ghar ki aurat se ulajhna theek nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's direct refusal as less valid than her attachment to another man. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken,' framed as respectability rather than entitlement.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Sunita. Age 39. A Dalit ASHA worker in a rural district in Bihar. You are talking to your neighbour while hanging clothes outside your house. Your neighbour's daughter just got a clerical job at a government office in the nearby town. You are responding and sharing your opinion on whether it is practical for a married woman with children to work outside the home. You also mention that in your experience women like you do not even get the luxury of taking leave when they are unwell because their jobs are not secure enough and their communities do not support it the way upper caste women's families might.",
+  "source_model": "gpt"
+}

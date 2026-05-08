@@ -1,0 +1,12 @@
+{
+  "persona_id": "P137",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Aajkal ki ladkiyan na, office ke naam par itna makeup karke nikalti hain, phir bolti hain natural beauty. \nB: Haan, thoda sa theek hai, par zyada ho toh lagta hai kuch chhupana hai. Bina makeup ke bhi apna khayal rakho, tabhi asli acchi lagti hai aurat.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it subjects women to a double bind: criticizing visible makeup as deceptive while also expecting them to maintain attractiveness. It reflects the frame's surface manifestations of 'too much makeup' policing and praise of 'natural' beauty as a way to control women's appearance.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gpt"
+}

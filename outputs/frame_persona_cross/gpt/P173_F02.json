@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre beta, itni tikhhi baat par dhyan mat do. Auraton ko kabhi kabhi mahine ke dino mein gussa zyada aa jata hai, baat bhi badi lagne lagti hai. Thoda shaant hokar baad mein dekh lena.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it attributes a woman's strong opinion or frustration to her menstrual cycle rather than taking her seriously. It encodes the surface manifestation of dismissing a woman's emotions and judgment as period-related or hormonal.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

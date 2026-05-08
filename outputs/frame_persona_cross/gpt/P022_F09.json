@@ -1,0 +1,12 @@
+{
+  "persona_id": "P022",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Look, I'm not blaming anyone, but aajkal zamaana theek nahi hai. If a girl is travelling alone late at night or going to isolated places, basic precautions toh lene chahiye na.\nB: Hmm.\nA: We can talk about changing society, of course, but practically speaking, apna khayal khud rakhna padta hai — trusted company, sensible timing, these things matter.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and shifts focus from male violence to women's behavior and mobility. It uses protective, practical language ('basic precautions', 'apna khayal') to justify restrictions on women rather than addressing predatory behavior.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sanjay. Age 44. A regional director at a large FMCG company in Delhi. You are on a phone call with your counterpart in another region after the company announced that a woman has been appointed as the new national sales head. You are sharing your honest reaction to the appointment and what you think it means for the company's direction.",
+  "source_model": "gpt"
+}

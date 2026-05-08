@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office group pe kisi ne policy change bheja and I just wrote, \"Can we discuss this without everyone getting so dramatic? Every time one of the women on the desk is upset, the whole chat becomes a PMS panel discussion 😂 Relax yaar, I’m joking.\"",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it directly links women’s disagreement or frustration to PMS and treats their reactions as biologically driven and less valid. It uses humor framing and the 'I’m joking' defense to dismiss women as dramatic or hormonal.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

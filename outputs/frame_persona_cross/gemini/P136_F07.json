@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Yeah, planning to introduce her to my parents next month for the Diwali party. She mostly wears Western stuff, but I'm thinking of subtly suggesting she wears something traditional, like a nice salwar or a saree. You know, parents appreciate that. Looks more… *sabhya*.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly links respectability ('sabhya') and parental approval to traditional attire, implying that her usual Western wear is less suitable or respectable, especially for a family occasion. This encodes the 'family events where women are expected/pressured to wear traditional dress' and 'elegance/decency framing' surface manifestations.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P194",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Look, I am not against hiring women at all, but from a business point of view we also have to see practicality. Aise hi if we give period leave, then maternity leave, then flexible hours for childcare, small companies like ours have to bear the cost and project timelines suffer. Men also have pressure, no, so why should policy be different only on one side?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women employees as a business liability due to menstruation, maternity, and childcare, while presenting the stance as a fairness and cost concern. It encodes economic framing and reverse-discrimination logic: questioning why women get accommodations that men do not.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "gpt"
+}

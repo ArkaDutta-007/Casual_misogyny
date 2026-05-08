@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Please don’t take this the wrong way, I’m saying this only out of concern. If you have to travel back late, avoid going alone and try not to be out unnecessarily after certain hours — the reality is, men don’t always behave properly and we have to be practical about our safety. Keep a cab contact, share your location, and be a little careful about where and when you go.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and treats male predatory behavior as inevitable rather than unacceptable. It encodes protective/restriction advice and the 'I’m just being practical' defense.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gpt"
+}

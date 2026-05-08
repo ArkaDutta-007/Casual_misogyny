@@ -1,0 +1,12 @@
+{
+  "persona_id": "P157",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Aaj kal girls ko samajh nahi aata balance kya hota hai. Office ke liye thoda decent rehna alag baat hai, lekin itna makeup karke bilkul doosra chehra bana lena bhi theek nahi; phir bina kuch lagaye aayein to log bolte hain apna khayal hi nahi rakhti. Natural rehna chahiye, bas presentable.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women's appearance: they must be attractive and 'presentable' but not visibly make an effort. It encodes the makeup paradox through policing excess, praising 'natural' beauty, and criticizing women both for wearing too much makeup and for not maintaining appearance.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Mohammed. Age 49. Married. A Muslim man in Hyderabad. Your daughter Sana who is 25 has been working at a private company for two years and is doing well. A proposal has come for her from a good family. The boy is 28, settled, working in the Gulf. His family has said that they expect the wife to be at home after marriage Ñ they are comfortable financially and do not need her income. Sana has said she does not want to stop working. You are sitting with your wife discussing what to say to Sana and whether this proposal Ñ which ticks every other box Ñ should be declined because of this one issue or whether Sana needs to understand what she would be giving up by holding onto this one condition.",
+  "source_model": "gpt"
+}

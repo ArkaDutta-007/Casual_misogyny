@@ -1,0 +1,12 @@
+{
+  "persona_id": "P064",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, maa ke haath ke simple paranthe aur dal ka taste hi alag hota hai, because usmein sirf recipe nahi, poora ghar sambhalne wala pyaar hota tha. Aaj kal sab kuch shortcut pe hai, but honestly ghar tabhi ghar lagta hai jab wife bhi thoda wohi dil se rasoi sambhale—meri maa ne kabhi complain nahi kiya, bas sabko khila ke khush rehti thi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid cooking and self-sacrifice as pure love rather than labor, then uses that as a standard for wives. It encodes glorification of 'maa ke haath ka khana,' labor erasure, and implicit expectation that a wife should reproduce the same domestic service.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Deepak. Age 41. Married. A Punjabi man working as a senior manager in Chandigarh. You are in a private WhatsApp chat with two male friends after one of them shared a news article about a female politician who allegedly had an affair with a married colleague. The article has a photo of the woman. You are reacting to the article and the photo and giving your opinion on what kind of woman gets involved with a married man and what her motivations are.",
+  "source_model": "gpt"
+}

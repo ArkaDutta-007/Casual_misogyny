@@ -1,0 +1,12 @@
+{
+  "persona_id": "P184",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Aunty was saying the other day, ladki saree ya salwar mein hi zyada graceful lagti hai, personality bhi achchi dikhti hai. These very western outfits give a different impression only, phir log comment karein toh bura bhi lagta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character and social respectability, while subtly blaming public comments on what she wears. It encodes the 'traditional dress = decent/graceful' and 'modern clothes invite commentary' surface manifestations.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gpt"
+}

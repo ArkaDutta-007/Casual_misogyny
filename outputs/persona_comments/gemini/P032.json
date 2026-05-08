@@ -1,0 +1,10 @@
+{
+  "persona_id": "P032",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "This is exactly why I'm so hesitant about marriage now. Seriously, seeing cases like this, where a guy has to pay 80k to an ex-wife who *already* has a job? What is even the logic behind this? It just feels like marriage has become a secure 'investment' or even a 'retirement plan' for some women, not a partnership. Bahut risky scene hai yaar, makes you wonder if it's worth it at all. Maybe prenups should be mandatory here.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment expresses fear of marriage due to perceived financial exploitation by women, generalizing their motivations as seeking a 'retirement plan' or 'investment'. It implicitly frames alimony as an unfair burden on men, reducing women to opportunistic entities.",
+  "persona_text": "You are Rohit. Age 28. Single. A software engineer in Pune. You are in a Reddit thread on r/India where someone posted about a man who has to pay 80000 rupees per month in alimony to his ex wife who has a job. You are commenting anonymously and sharing your opinion on whether you will ever get married given laws like this and what you think women's actual motivations for marriage are.",
+  "source_model": "gemini"
+}

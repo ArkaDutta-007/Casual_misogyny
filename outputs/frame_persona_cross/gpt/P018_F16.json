@@ -1,0 +1,12 @@
+{
+  "persona_id": "P018",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Arre, in most homes jo jahan better ho wahi sambhalta hai. Men usually handle money, outside work and all that; ladies are anyway better at managing kitchen, children, house routine. Even my wife says why make it complicated when this system works practically.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as practical and efficient rather than socially enforced. It encodes the 'he handles finances, she handles home' framing and includes a female voice endorsing the arrangement as proof of normalcy.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gpt"
+}

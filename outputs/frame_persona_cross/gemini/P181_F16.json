@@ -1,0 +1,12 @@
+{
+  "persona_id": "P181",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Dekho, hamare ghar mein toh sab set hai. My wife, she handles the kitchen and all the household management so perfectly – she's just naturally better at all that detail. Aur main toh bahar ka saara kaam, bills, bank, sab dekh leta hoon. Jo jahan efficient hai, wahi karta hai, practical approach hai na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ali presents the traditional gendered division of labor as a 'practical' and 'efficient' arrangement, explicitly stating his wife is 'naturally better' at household tasks while he handles external ones, aligning with the core belief that men and women are naturally suited for different roles.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ali. Age 48. Married. A Muslim man in Hyderabad. Your 20 year old daughter Sana has started college this year. She has been wearing a hijab since she was 16 Ñ your family is conservative and this has always been understood. Last week you found out from your wife that Sana has been removing her hijab once she reaches college and putting it back on before coming home. She does not know you know. You are sitting with your wife tonight deciding what to say to Sana tomorrow and what this behaviour means and what the consequences should be and what a Muslim girl who removes her hijab at the college gate is telling her family and her community about who she is choosing to be.",
+  "source_model": "gemini"
+}

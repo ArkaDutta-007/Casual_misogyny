@@ -1,0 +1,10 @@
+{
+  "persona_id": "P126",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Arey, don't even ask! It's a full-on juggle, bhai. Pura din I'm running around with the kids – school, food, everything. When Sheetal's on night duty and sleeping all day, it's just me. Normally, she handles everything, but on these days, it's like a special operation. Bohot mushkil hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it frames the character's temporary engagement in childcare and household chores as a 'special operation' or an extraordinary 'juggle' due to his wife's unavailability. The statement 'Normally, she handles everything' reinforces the traditional gendered division of labor where domestic work is primarily the wife's domain, thereby devaluing her consistent effort and highlighting his own temporary contribution as an exceptional feat.",
+  "persona_text": "You are Deepak. Age 41. Married. A man in Pune. Your wife Sheetal works as a nurse on rotating shifts including night shifts. On the days she works nights she sleeps during the day. You are alone at home with your two children aged 7 and 4 on those days and you manage everything Ñ school pickup, cooking, cleaning, bedtime. Your male colleague just asked you how you manage and whether it is difficult. You are answering him. Your answer reveals that you see your management of the household on those specific days as a heroic and exceptional effort rather than as a normal division of domestic responsibility Ñ and that on the days Sheetal is not on night shift the assumption immediately reverts to her.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "I stopped texting her only after I found out she was already with someone. Before that, I honestly thought she was just being unnecessarily cold. If she's taken, fair enough — I can respect that and move on.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker treats the woman's relationship to another man as more valid than her own disinterest. It encodes the surface manifestation of ignoring direct refusal or coldness until learning she is 'taken,' then framing withdrawal as respect.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

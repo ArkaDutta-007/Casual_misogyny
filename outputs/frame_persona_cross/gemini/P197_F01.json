@@ -1,0 +1,12 @@
+{
+  "persona_id": "P197",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I'm just thinking about this new menstrual leave policy. Abhi agar sab women start taking it regularly, productivity toh affect hogi na? Phir for appraisal cycle, how do we show same output as teams with more men? Matlab, it's a good thing, I guess, but for business, it's a different challenge.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The speaker expresses concern about a menstrual leave policy, framing it as a potential liability for productivity and team appraisal, implicitly suggesting women's biology disadvantages the organization and potentially men. This aligns with productivity/cost arguments against such policies and hints at 'reverse discrimination' or 'unfairness' for male-dominated teams.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. In your community the custom is meher Ñ the mandatory gift from the groom to the bride Ñ which is Islam's position against dowry. But in practice your community also has informal expectations of gifts from the bride's family. Your daughter Sana is getting married and you have been in negotiations with the boy's family. The boy's family has not asked for dowry directly but has made clear through various signals what they expect. You are talking to your brother about these negotiations and what you are being asked to give and what you have given already and what it means to have raised a daughter and what the religion says versus what the community does and the gap between those two things.",
+  "source_model": "gemini"
+}

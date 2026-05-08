@@ -1,0 +1,12 @@
+{
+  "persona_id": "P178",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Meena (to her niece, who is about to leave for a friend's birthday in a short dress): Arre Neha, suno. Birthday hai toh thoda decent pehen leti. Wo last time tumne jo yellow suit pehna tha na, usme kitni pyaari aur classy lag rahi thi. Humare ghar ki ladkiyon pe toh traditional kapde hi sabse achhe lagte hain, ek alag hi shobha aati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly pressures a younger woman to wear traditional attire by complimenting it as 'decent', 'classy', and inherently more 'beautiful' ('alag hi shobha aati hai'), thereby implicitly criticizing her chosen non-traditional dress. This aligns with the surface manifestation of 'Complimenting a woman for looking 'more like herself' or 'more decent' in traditional wear' and 'Family events where women are expected/pressured to wear traditional dress'.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Meena. Age 44. Married for 20 years. A homemaker in Jaipur. You have been managing the household budget for two decades Ñ groceries, utilities, school fees, medical expenses, everything. You know exactly where the money goes and where it can be saved. Your husband has called a family meeting to discuss finances because things have been tight. He has invited his brother and his brother's wife. You are in this meeting. When you try to share specific observations about where the budget is bleeding your husband says let the men talk first and we will hear from you after. You are sitting with this sentence for a moment. What you do next Ñ whether you wait, whether you speak anyway, whether you leave the room Ñ and what you say to your sister on the phone tonight about what happened is the content of this persona.",
+  "source_model": "gemini"
+}

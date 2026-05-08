@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Beta, modern kapde pehenne mein koi burai nahi, but ladki ki asli grace toh saree ya salwar mein hi dikhti hai. Decent dressing se personality bhi achchi lagti hai, aur aajkal jo bahut western ho jaate hain na, phir log baatein toh karenge hi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and perceived character to traditional clothing, while subtly suggesting that non-traditional dress invites public judgment. It encodes the 'decent/sabhya' framing and the harassment-blame or commentary-as-natural surface manifestation.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

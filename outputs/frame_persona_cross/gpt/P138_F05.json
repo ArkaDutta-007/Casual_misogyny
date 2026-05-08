@@ -1,0 +1,12 @@
+{
+  "persona_id": "P138",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, every time another celebrity divorce turns into a headline about massive alimony, I understand why so many men are wary of marriage now. We keep pretending the laws are automatically just, but in India they are often so one-sided that a bad-faith complaint or settlement can become a lifetime payout. Call it harsh if you want, but prenups and basic financial safeguards are not anti-women, they are common sense.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potential financial exploiters and presents legal protections as broadly biased against men. It encodes victimhood inversion and the prenup/alimony-as-protection narrative, generalizing from celebrity divorce cases to women in general.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Priya. Age 31. Single. A woman working as a journalist in Mumbai. You have just come back from your cousin's wedding where you were the only unmarried woman above 28 in the family gathering. Over three days you were asked about your marriage plans by fourteen different relatives. You counted. You are posting anonymously on Twitter after getting home. You are not posting in anger exactly Ñ you are posting in a kind of exhausted clarity. You are describing the specific things that were said to you and the specific faces people made and the specific moment when a well meaning aunt took your hand and said beti tumhara time aa jayega as if being unmarried at 31 is a condition you are suffering from and marriage is the cure.",
+  "source_model": "gpt"
+}

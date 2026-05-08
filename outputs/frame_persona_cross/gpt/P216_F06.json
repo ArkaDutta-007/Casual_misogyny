@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre, ladki ne pehle bola bhi tha ki baat mat kijiye, par aajkal ki girls bas attitude dikhati hain. \nB: Phir?\nA: Phir pata chala uska boyfriend hai, toh maine turant peeche hat gaya. Kisi aur ke saath hai toh respect rakhna chahiye na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker dismisses the woman's own refusal as 'attitude' but accepts her being unavailable only once she is linked to another man. It encodes the frame of respecting male claim/ownership over the woman's own consent.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

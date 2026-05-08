@@ -1,0 +1,12 @@
+{
+  "persona_id": "P153",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, I tell young men in my team to be very careful now. We spent years saying women needed legal protection, which was true in many cases, but today the laws are so one-sided that even a decent man can be dragged through 498A and endless alimony demands. A prenuptial agreement is not unromantic anymore; it is simply practical risk management.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as likely to misuse marriage and legal protections for financial gain, while presenting men as the primary victims. It encodes the 'one-sided laws/498A misuse' and 'prenup as protection from women' manifestations in a polished, professional register.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gpt"
+}

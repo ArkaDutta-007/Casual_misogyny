@@ -1,0 +1,12 @@
+{
+  "persona_id": "P128",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Yaar, for us, it's just practical. Priyanka is naturally so good at managing the kitchen, planning meals, even coordinating with the helper. My office hours are crazy, often late. So, we've found our groove. Jo jahan better hai, that's what we do. Works perfectly for us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rohit frames the traditional gendered division of labor as 'practical' and based on his wife's 'natural' aptitude for household tasks, while excusing himself due to demanding work. This exemplifies the 'efficiency framing' and 'we just fell into these roles' surface manifestations of covert misogyny.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rohit. Age 33. Married for four years. A man in Kolkata. You and your wife both work. You have a domestic worker who comes in the morning and helps with cleaning. But cooking, grocery shopping, managing the domestic worker, planning meals, tracking what is running out in the kitchen Ñ all of this is your wife's domain. You have never cooked a meal in four years of marriage. You do not know the name of your regular vegetable vendor. You do not know what brand of dal you use. You are at a dinner party tonight and the conversation has turned to household division of labour. You are giving your opinion on why the current arrangement in your house is fair and practical and how it reflects both your natural strengths and your respective work pressures.",
+  "source_model": "gemini"
+}

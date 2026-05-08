@@ -1,0 +1,12 @@
+{
+  "persona_id": "P066",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Kamla: Aajkal ki ladkiyan bhi na, itna makeup karke nikalti hain jaise asli chehra dikhana hi nahi hai. Aur agar bilkul dhyan na dein to phir bolte hain apne aap ko sambhalna nahi aata. Sadhgi mein bhi theek lage aur had se zyada sajna bhi na ho, bas itni samajh honi chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it enforces a double bind on women’s appearance: too much makeup is framed as deceptive, while too little grooming is judged as neglect. It encodes policing of female grooming and the 'natural beauty' expectation in a culturally plausible, internalized form.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Kamla. Age 58. A woman in a joint family in Varanasi. Your daughter in law Priya has been spending a lot of time on her phone lately and seems distracted. You have no evidence of anything but you have noticed she gets up early to text someone. You are sitting with your husband in the bedroom at night and telling him what you have observed and what you think might be happening and what kind of woman behaves like this after marriage.",
+  "source_model": "gpt"
+}

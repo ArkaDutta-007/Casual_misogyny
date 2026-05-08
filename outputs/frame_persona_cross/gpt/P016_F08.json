@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Bhai, suna us aadmi ka ghar toot gaya us chakkar mein.\nB: Arre yaar, aadmi toh kabhi kabhi behak jaata hai, par us aurat ko pata tha na ki woh shaadi-shuda hai. Phir bhi chipki rahi, bilkul serial wali ghar todne wali type baat hai.\nA: Haan, asli nuksan toh family ka hi hua.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it excuses the married man's infidelity as him 'getting carried away' while assigning primary blame to the woman as a 'homewrecker.' It encodes blame asymmetry and the seductress/homewrecker framing central to F08.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

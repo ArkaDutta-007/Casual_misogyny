@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre beta, job karna achhi baat hai, lekin bachche ho jayenge toh unko sambhalna maa ki hi zimmedari hoti hai. Papa log thoda bahut help kar dein toh alag baat hai, par bachpan wapas nahi aata. Career toh baad mein bhi dekh logi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as the mother's primary duty while describing fathers as merely 'helping.' It encodes career sacrifice framing and the assumption that women, not men, must prioritize childrearing.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Suresh: Dekhiye, bura lagta hai sunke, lekin zamaana theek nahi hai. Ladkiyon ko bhi thoda practical rehna chahiye—raat bahut der tak akeli ghoomna, sunsaan jagah jana, aise mein risk badh jata hai.\nSuresh: Police sab dekh leti hai, par pehle yahi poochna padta hai na, saath mein kaun tha, kitni raat thi, jagah kaisi thi. Apna khayal rakhna bhi utna hi zaroori hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and shifts attention from male violence to women's behavior. It encodes protective framing, restriction advice, and post-assault victim questioning in a practical, concerned tone.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

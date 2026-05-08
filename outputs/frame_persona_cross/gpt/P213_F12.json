@@ -1,0 +1,12 @@
+{
+  "persona_id": "P213",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, people are overreacting to everyday gaalis now. In our generation, if someone says the usual mother-sister type words in anger, it is just an expression, not some big ideological attack on women. And when boys tell each other not to behave like a woman, everyone understands it means don't be weak and overdramatic, bas itna hi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse and explicitly uses femininity as a shorthand for weakness. It encodes the 'it's just a word' defense and the feminizing-as-insult structure described in the frame.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Deepak. Age 45. Married. An upper caste Hindu man in Pune. You are posting under your real name on a men's rights Facebook group with 80000 members after the Supreme Court made a statement about misuse of Section 498A. You are writing a detailed comment about your own experience Ñ your brother was falsely accused, your parents were arrested, the case was eventually dropped but the damage was done. You are using your brother's case to make a broader argument about what Indian women do with dowry laws and what needs to change and what men and their families are living through while feminists celebrate these laws.",
+  "source_model": "gpt"
+}

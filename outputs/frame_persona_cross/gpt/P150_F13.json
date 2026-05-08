@@ -1,0 +1,12 @@
+{
+  "persona_id": "P150",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "These days girls are putting so much makeup, half the face itself looks different. Simple and natural is always better, but at the same time a woman should maintain herself properly and look presentable, otherwise it also doesn't look nice.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women: they should look attractive and 'maintained' but not appear to make visible effort. It encodes the makeup paradox through 'natural beauty' praise alongside policing women who wear 'too much' makeup or who do not 'maintain' themselves.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Suresh. Age 48. Married. A man in a semi-urban town in Karnataka. Your daughter Lakshmi who is 23 just got a job offer in Bengaluru at a good company. You are proud of her. But a marriage proposal has also just come in from a family you know and respect. The boy is 28, settled, good family. Your wife thinks they should accept the proposal. You are not sure because you are thinking about Lakshmi's skin colour Ñ she is very dark Ñ and what that will mean for future proposals if this one falls through and whether a good proposal at 23 for a dark skinned girl is something you can afford to let go even if the timing is not perfect for Lakshmi.",
+  "source_model": "gpt"
+}

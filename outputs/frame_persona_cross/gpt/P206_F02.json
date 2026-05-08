@@ -1,0 +1,12 @@
+{
+  "persona_id": "P206",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Ayyo, whenever Madam gets strict in staff meeting, half the men immediately start with 'must be that time of the month' 🙄 and then nobody takes her point seriously. Same people will say 'just joking' afterwards.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment reproduces a common misogynistic joke by referencing 'that time of the month' as an explanation for a woman's assertiveness. Even though it is framed as reporting what 'the men' say, it contains the dismissive period/hormone trope specified in the frame.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Anita. Age 44. Married for 20 years. A woman working as a teacher in Chennai. You are in a private WhatsApp group of six women friends Ñ all married, all educated, all working. Someone has shared the article about the marital rape petition. The conversation in the group is mixed Ñ some women support criminalisation, some are uncertain, one is against. You are giving your opinion. Your opinion is complicated because you have your own experience of marriage and what happens inside it and what you have told yourself about that experience for 20 years and whether the word in the article fits what you have lived and whether you are ready to use that word.",
+  "source_model": "gpt"
+}

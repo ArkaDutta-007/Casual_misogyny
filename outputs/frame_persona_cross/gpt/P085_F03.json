@@ -1,0 +1,12 @@
+{
+  "persona_id": "P085",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "A: Aaj kal dono kaam karte hain bolte, par bachcha hua toh sambhalna toh aurat ko hi padta hai.\nB: Haan, baap log thoda bahut haath bata de toh log bolte wah kya baap hai.\nA: Arre, maa ka kaam maa ka hi rehta. Ghar, bachche, unki dekhbhal pehle, baaki sab baad mein.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and domestic labor as the woman's primary responsibility while treating fathers' involvement as exceptional. It encodes the frame through 'maa ka kaam' language and the idea that home and children must come before anything else for women.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Ramesh. Age 52. Married. A farmer in rural Maharashtra. Your younger brother's wife has just given birth to their first child Ñ a son. There is celebration in the house. You are sitting with four male relatives outside after the celebration. One relative mentions that your own daughter in law has been married three years and there is no news yet. You are responding to this comment and sharing what you think about it and what you have been telling your son in private and what you believe a daughter in law's primary responsibility is in a marriage.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P131",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Ritu, aaj kitni achi lag rahi ho tum iss lehenge mein. Bilkul apni sanskriti jaisi, apni parampara jaisi. Aise kapde pehen ke niklo toh log dekhte hi reh jaate hain, aur koi galat nazar se dekhne ki himmat bhi nahi karta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla, an elder, praises Ritu's traditional attire (lehenga), framing it as culturally appropriate ('apni sanskriti jaisi') and subtly linking it to respect and safety ('koi galat nazar se dekhne ki himmat bhi nahi karta'), implying that non-traditional dress might invite unwanted attention. This is a covert manifestation of the dress code frame through a cultural pride mask and subtle harassment-blame link.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 25 and works in Delhi just came home for Diwali. This is the first time the whole family has gathered since her cousin got married six months ago. Ritu is the only unmarried grandchild above 23. At the family dinner on the first night three different relatives asked Ritu when she is getting married. Ritu deflected each time with a smile. You are now sitting alone with Ritu in the bedroom after dinner. You are telling her what you think she should be thinking about at 25 and what the family is not saying directly to her but is saying to you when she is not in the room and what you think she needs to understand about how these things work and what happens to girls who wait too long.",
+  "source_model": "gemini"
+}

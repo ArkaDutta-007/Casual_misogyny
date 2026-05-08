@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: That new zonal head is very sharp, no doubt, but honestly these days senior roles also need the right optics. A woman has to become so aggressive to be taken seriously that then people say she is difficult. B: Haan, competence is one thing, but leadership needs balance too.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it applies a gendered double bind to women leaders: they are framed as needing to act 'aggressive' to succeed and then judged as unsuitable for leadership. It encodes the 'too aggressive/not likeable enough' surface manifestation in a polished, meritocratic register.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

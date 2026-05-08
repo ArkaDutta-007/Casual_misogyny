@@ -1,0 +1,12 @@
+{
+  "persona_id": "P119",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, in every newsroom and college group people use those mother-sister gaalis as punctuation. I don't love them, but not every stupid word is a feminist crisis yaar — most people aren't literally insulting women, it's just how they speak when they're angry. If we start policing every 'be a man' or 'don't act like a girl' type remark also, no one will say anything freely.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse and dismisses concerns about gendered insults as overreaction. It encodes the 'it's just a word' defense and treats feminizing comparisons like 'act like a girl' as acceptable speech.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Shreya. Age 26. Recently married. A woman working as a journalist in Delhi. You are writing an anonymous first person essay for an online publication about the experience of being asked at your husband's family's first large gathering after the wedding why you are not wearing sindoor. The essay is about the specific social mechanics of that moment Ñ who asked, how it was asked, what the room felt like, what your husband did, what you said, what you wished you had said, and what it revealed about the invisible contract you had entered when you got married that nobody had shown you in writing.",
+  "source_model": "gpt"
+}

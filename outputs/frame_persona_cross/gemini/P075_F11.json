@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, it's so simple, why can't people get it? Just think, har ladki kisi ki beti hai, kisi ki behen hai. Agar sab log yeh mindset rakh lein ki respect everyone's family, toh automatically society mein changes aayenge. Tabhi true respect milegi, not just fear.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that a woman's inherent worth and claim to respect stems from her relational identity as 'someone's daughter' or 'someone's sister', rather than her individual personhood. It uses family relation as justification for respect, a core surface manifestation of F11, while appearing to advocate for women's safety and respect.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gemini"
+}

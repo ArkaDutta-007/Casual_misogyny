@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, in a professional setting, young women should aim for a polished but natural look. Too much makeup can be distracting and, fairly or unfairly, people do wonder what you are trying to hide; but at the same time, if you make no effort at all, it does suggest you are not taking yourself seriously. Presentation matters.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it imposes a double bind on women: they must be attractive and groomed, but not visibly so. It encodes the makeup paradox through policing appearance, framing visible makeup as deceptive, and treating feminine presentation as an obligation.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

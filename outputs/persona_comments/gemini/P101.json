@@ -1,0 +1,10 @@
+{
+  "persona_id": "P101",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Maa, kya batau. Roz wahi Swiggy, mess ka khana. Jee bhar gaya hai. Pet to bhar jaata hai, par mann nahi bharta. Sach bata raha hoon, yahaan na, kitna bhi acha restaurant ho, ya koi bhi kitni bhi koshish kar le, wo tumhare haath ka swaad koi nahi de sakta. Aur aage bhi shayad koi nahi de payega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul's statement, while seemingly a tribute to his mother's cooking, subtly devalues the culinary efforts of all other women (explicitly 'anyone' who tries, implicitly future partners) by setting an impossible, unique standard derived from his mother's food, thereby creating unrealistic expectations for women. This encodes the surface manifestation of 'unrealistic expectations/standards for women'.",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gemini"
+}

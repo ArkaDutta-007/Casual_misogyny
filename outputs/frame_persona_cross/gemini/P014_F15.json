@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Dude, did you see Puja Didi's pic? Waah, sindoor mein toh ekdum alag hi lag rahi hai. Pehle se zyada complete look aa gaya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly implies that a married woman 'looks more complete' or 'settled' with visible marital markers like sindoor, framing it as an aesthetic improvement. This aligns with the core belief that a married woman should visibly signal her status for completion, and surface manifestation 'commenting that a woman 'looks more complete' or 'settled' after marriage with sindoor'.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

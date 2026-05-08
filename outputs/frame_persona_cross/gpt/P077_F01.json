@@ -1,0 +1,12 @@
+{
+  "persona_id": "P077",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Meena: I am just saying practically, if office keeps giving special leave for periods and then long maternity leave also, how will work run properly? Men also have stress and come to office daily, no? In appraisal time, company will naturally think who is more reliable.\nKavitha: But that is for health and childbirth.\nMeena: Aiyo, health is important, I am not denying. But aise hi extra benefit only for women means others will feel it is unfair, and office also has to bear the cost.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual and maternity leave as unfair special treatment and suggests women are less reliable employees due to biology and childbirth. It encodes fairness/cost arguments and reverse-discrimination framing in a casual, concern-for-practicality tone.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gpt"
+}

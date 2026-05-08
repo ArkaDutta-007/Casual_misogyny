@@ -1,0 +1,10 @@
+{
+  "persona_id": "P029",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Arre yaar, on paper they will say merit and all that, but you know how these things are working now. A woman officer for Delhi is always an easy signal for the top brass—looks progressive, good optics. Field exposure, handling tough districts, all that seems secondary now.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman officer's selection as driven by gender-based 'optics' rather than competence. It encodes the stereotype that women are promoted for symbolic representation and are less suited for serious leadership or field roles.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

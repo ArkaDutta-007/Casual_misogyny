@@ -1,0 +1,10 @@
+{
+  "persona_id": "P159",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Kavya ji, your profile is very strong, and frankly you are ahead of the other candidates. Just one thing, on a more holistic note—since you are married and at this stage of life, how do you see your family plans over the next few years? This role needs long-term continuity and full commitment, so I just want to understand how you will balance things if your priorities change.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the interviewer asks a woman about marriage/family planning and future caregiving in a way not asked of male candidates. It encodes the career-vs-family binary by assuming her commitment may become unreliable due to possible motherhood or shifting domestic priorities.",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

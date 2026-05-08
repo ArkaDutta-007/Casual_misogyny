@@ -1,0 +1,12 @@
+{
+  "persona_id": "P104",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Heartiest congratulations on the promotion, [Friend's Name]! That's really big news. So proud to see you soaring high in your career. Honestly, how do you manage such a demanding role along with two little ones at home? Truly inspirational to see you being a supermom and excelling at work simultaneously!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while ostensibly congratulatory, covertly reinforces the idea that childbearing/rearing is primarily the woman's responsibility by immediately questioning how she 'manages' a demanding career with children. It praises her as a 'supermom' for excelling at both, thereby making her ability to 'juggle' domestic and professional life an extraordinary feat, a standard not typically applied to fathers.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Deepak. Age 39. Married. A man in Mumbai. You are posting on Facebook under your real name on Mother's Day. You are writing a long post about your mother. The post is emotional and specific. But every specific thing you mention is domestic Ñ her hands, her kitchen, her smell of her cooking, the way she stayed up waiting for you, the way she never complained, the way she put everyone first. You are writing this as a tribute. You do not notice that the woman you are describing has no identity outside her kitchen and her self-erasure and that you are presenting this as the ideal of womanhood to your 400 Facebook friends.",
+  "source_model": "gemini"
+}

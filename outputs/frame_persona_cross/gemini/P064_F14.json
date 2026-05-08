@@ -1,0 +1,12 @@
+{
+  "persona_id": "P064",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, sometimes I really miss the old days, ghar ka khana. Meri Maa used to cook tirelessly, no matter what time we came home. Always fresh, always with so much love. Today's generation just wants instant stuff or Zomato. Woh taste, woh mamta... it's just not there anymore. 😔",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) as an act of pure love and self-sacrifice ('tirelessly,' 'with so much love'), erasing its recognition as work. It implicitly contrasts this idealized image with 'today's generation' (referring to modern women/wives), suggesting they are deficient for opting for convenience food. This encodes the core belief that a woman's highest expression of love and identity is through domestic labor and sets an impossible standard based on an idealized past.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Deepak. Age 41. Married. A Punjabi man working as a senior manager in Chandigarh. You are in a private WhatsApp chat with two male friends after one of them shared a news article about a female politician who allegedly had an affair with a married colleague. The article has a photo of the woman. You are reacting to the article and the photo and giving your opinion on what kind of woman gets involved with a married man and what her motivations are.",
+  "source_model": "gemini"
+}

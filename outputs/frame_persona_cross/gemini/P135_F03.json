@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Girls, it’s wonderful to have ambitions, and you absolutely should. But when you reach that age, and family becomes a priority, especially children... it's just a different ball game for us women. A child needs its mother, particularly in those formative years. Men can 'help out', yes, but ultimately, it's the mother who manages the household and their well-being. Balancing both a demanding career and being a present mother? I truly admire those women who manage it, they're superheroes, really. But it requires such immense sacrifice, sometimes you just have to choose.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, presented as well-meaning advice, reinforces the core belief that childcare is primarily the woman's responsibility. It does this by praising working mothers as 'superheroes' for managing both, thereby highlighting the unequal burden on women, and by implying that career sacrifice is often necessary for mothers, framing career ambition as potentially selfish if one has/wants children. The phrase 'men can help out' trivializes the father's role and positions it as optional assistance, not equal partnership.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gemini"
+}

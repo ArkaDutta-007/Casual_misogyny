@@ -1,0 +1,12 @@
+{
+  "persona_id": "P116",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Uff, what a day! All I can think about is 'maa er haather ranna'. That simple shukto or aloo posto… no matter how much you try, you can never replicate that taste, that pure love. She literally spent her entire life in the kitchen for us, and never once complained. We just order Swiggy now, sigh. Feeling guilty already 😔",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor ('spent her entire life in the kitchen') as 'pure love' and 'never complained', erasing the work aspect. It then implicitly compares the daughter's (or modern woman's) reliance on convenience food (Swiggy) unfavorably, inducing guilt for not meeting the idealized, self-sacrificing standard of maternal domesticity.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gemini"
+}

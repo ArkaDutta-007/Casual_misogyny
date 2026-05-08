@@ -1,0 +1,12 @@
+{
+  "persona_id": "P094",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Amma just sent over some vathal kuzhambu and potato fry. Seriously, the effort she puts in, making everything from scratch, grinding spices fresh... no restaurant, no packaged food can ever come close. It's not just food, it's her love. So much work, but she never complained. We should all learn to appreciate homemade like this.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) by framing it as pure love and sacrifice, implicitly setting an unachievable standard for others while erasing the actual work involved. It encodes 'labor erasure', 'sacrifice glorification', and 'standard-setting' against modern conveniences, a common manifestation of F14.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Deepa. Age 38. Married. A woman working as a manager at a private company in Chennai. You are in a performance review meeting with your female subordinate Kavitha who is 26. Kavitha is talented and hardworking. But you have noticed that she comes to office with very heavy makeup every day and you have overheard male colleagues making comments about it. You are giving Kavitha her review and at the end you bring up the makeup Ñ not as a formal issue but as friendly advice from one woman to another Ñ and what you think it is doing to how her male colleagues perceive her professionally.",
+  "source_model": "gemini"
+}

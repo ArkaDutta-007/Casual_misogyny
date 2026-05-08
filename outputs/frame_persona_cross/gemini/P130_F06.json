@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, that girl at the party? I tried talking to her but she was being a bit stand-offish. Later I found out she has a boyfriend, toh I just backed off. No point disturbing someone who's already taken, right? I respect that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Arjun attributes the woman's 'stand-offish' behavior to general disinterest rather than acknowledging it as a direct refusal. He only stops pursuing her upon learning she is 'taken' (has a boyfriend), framing this withdrawal as respect for the boyfriend's claim rather than for her own agency or initial disinterest, which aligns with 'Other Man's Ownership > Woman's Own Consent'.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gemini"
+}

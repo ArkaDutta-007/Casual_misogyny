@@ -1,0 +1,12 @@
+{
+  "persona_id": "P130",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I saw that article about period leave again. Matlab, on one hand, I get it, right? But then, where's the 'menstrual leave' for men? Aise toh we also have off days, fever, stress… but we still show up. Isn't it kinda unfair, especially for smaller companies? Productivity hit hota hai na?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment from Arjun, a 25-year-old professional, frames menstrual leave as an unfair advantage for women, questioning why men don't receive similar leave, and argues against it using a productivity and cost narrative, reflecting concerns about 'fairness' and potential 'liability' of female employees.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P037",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Rajan: If the girl has already said no, leave it there. But if you are not sure, first find out whether she is committed to someone. A decent man should not interfere where another man is already involved.\nSon: And if she herself is refusing?\nRajan: These things are not always said clearly. If she is genuinely with someone, then you step back immediately and maintain respect.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own refusal as ambiguous or negotiable, while presenting another man's prior claim as the decisive boundary. It encodes the surface manifestation of respecting male ownership ('committed to someone', 'another man is already involved') over the woman's direct consent.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Rajan. Age 52. Married. A retired army officer in Pune. Your son just told you he wants to sign a prenup before his wedding next year. His fiance is upset about it. You are sitting with your son in the study and telling him whether you think he is right to want a prenup and what you think the fiance's reaction says about her intentions.",
+  "source_model": "gpt"
+}

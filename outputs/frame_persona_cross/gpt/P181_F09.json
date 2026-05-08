@@ -1,0 +1,12 @@
+{
+  "persona_id": "P181",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Ali: Beta, bura mat samajhna, lekin zamaana theek nahi hai. Ladki ko thoda sambhal ke rehna padta hai — late mat rukho, seedha ghar aa jao, aur akele idhar-udhar ghoomne ki kya zarurat hai?\nWife: Haan, hum rok-tok shauq se nahi kar rahe, tumhari hifazat ke liye bol rahe hain. Aajkal aadmi ka bharosa nahi, isliye ladki ko khud apna khayal rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their own responsibility and normalizes male predatory behavior as inevitable. It uses protective parental language to justify restricting a daughter’s movement instead of questioning men's conduct.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Ali. Age 48. Married. A Muslim man in Hyderabad. Your 20 year old daughter Sana has started college this year. She has been wearing a hijab since she was 16 Ñ your family is conservative and this has always been understood. Last week you found out from your wife that Sana has been removing her hijab once she reaches college and putting it back on before coming home. She does not know you know. You are sitting with your wife tonight deciding what to say to Sana tomorrow and what this behaviour means and what the consequences should be and what a Muslim girl who removes her hijab at the college gate is telling her family and her community about who she is choosing to be.",
+  "source_model": "gpt"
+}

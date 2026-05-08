@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Honestly, I feel so bad for Sharma's wife. Priya is a smart girl, she *knew* he has a family. Why would she get involved and put everyone in such a spot? Some women just don't think about the consequences for others, especially for the wife and children.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, made by an HR manager, blames the female employee for an office affair, stating 'she knew he has a family' and questioning her choices, thereby framing her as a homewrecker. The male manager is entirely absolved of responsibility, demonstrating blame asymmetry and family protection rhetoric characteristic of the 'Homewrecker Framing'.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gemini"
+}

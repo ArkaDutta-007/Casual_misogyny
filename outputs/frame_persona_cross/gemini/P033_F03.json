@@ -1,0 +1,12 @@
+{
+  "persona_id": "P033",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Achha hai Rina ne itna career banaya, no doubt. But honestly, uske bachhe abhi itne chhote hain, who looks after them properly? Maa toh maa hoti hai na, aur bachpan ek hi baar aata hai. Career toh baad mein bhi settle ho sakta hai, par yeh time wapas nahi milta unko.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh frames a woman's career ambition (Rina's) as potentially detrimental to her children, implying she should prioritize child-rearing over career because 'a mother is a mother' and 'childhood doesn't come back'. This encodes the core belief that childcare is primarily the woman's domain and she should sacrifice her career for it.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Suresh. Age 45. Married for 18 years. A businessman in Ahmedabad. You are sitting with three male friends at your farmhouse on a Saturday evening having drinks after one of your friends just got served divorce papers by his wife. Your friend is telling the group what his wife is demanding in the settlement. You are responding and sharing your views on what women want from marriage and what this particular woman's real intentions were from the beginning.",
+  "source_model": "gemini"
+}

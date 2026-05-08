@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Deepa: Beta, aajkal ladkiyon ko seedha aur saaf bolna chahiye ki ghar mein koi hai ya engagement ho chuki hai. Aise ladke tabhi hatte hain, warna ladki ka akela mana karna toh attitude samajh lete hain. Deepa: Isliye kabhi koi pareshan kare toh bas bol dena ki tum kisi ke saath ho, baat wahi khatam ho jaati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that a woman's rejection is less effective or legitimate than signaling attachment to a man. It encodes the permission/ownership framing where male claim is treated as the real boundary, not her own consent.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

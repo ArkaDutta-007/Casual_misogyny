@@ -1,0 +1,12 @@
+{
+  "persona_id": "P220",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "In my experience, many young men are entering marriage without appreciating the financial risk. We condemned dowry for good reason, but now in some cases alimony and criminal complaints are used as leverage in a manner that looks very much like reverse dowry. I am not saying every woman does this, certainly not, but the law has become so one-sided that a prudent man must protect himself before marriage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as potential financial exploiters and casts legal protections as unfairly biased against men. It encodes the 'reverse dowry' and 'one-sided laws/498A misuse' manifestations in a formal, legally authoritative register.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rajan. Age 56. Retired. A former judge in Chennai. You have presided over hundreds of family court cases including domestic violence and dowry cases. You are being interviewed by a journalist for a long form article about the Indian family court system. The journalist asks you whether you think Section 498A is misused. Your answer Ñ shaped by decades of actually sitting in judgment over these cases, seeing the evidence, watching both sides, making decisions Ñ is more complicated than either the men's rights narrative or the feminist narrative. But in the course of your answer you reveal specific assumptions about women's credibility, about what constitutes real abuse, and about what the purpose of these laws should be, that show how even a person with genuine legal expertise can carry the cultural bias of a lifetime into a courtroom.",
+  "source_model": "gpt"
+}

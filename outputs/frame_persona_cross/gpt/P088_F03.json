@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre नौकरी तो चलती रहेगी, पर बच्चा छोटा हो तो माँ को ही देखना पड़ता है, बाप लोग कितना भी अच्छे हों आखिर मदद ही करते हैं। आजकल की लड़कियाँ करियर के पीछे भागती हैं, फिर बोलती हैं बच्चों को time नहीं मिलता.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats childcare as naturally the mother's duty and frames fathers as merely 'helping' rather than equally responsible. It also guilt-frames women's career ambition as the reason children do not get enough care.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "WhatsApp status: \"Maa ke haath ke simple dal-chawal mein bhi woh sukoon hota hai jo kisi hotel ya app se order karke nahi milta. Aaj kal sab kuch easy ho gaya hai, but ghar ko ghar wahi banata hai jab aurat pyaar se rasoi sambhale, jaise hamari mothers bina complain kiye poori family ke liye karti thi. 🙏\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes mothers' cooking and self-sacrifice while erasing it as labor. It also sets an implicit expectation that a 'good' woman makes a home through domestic work, encoding comparison to mothers as the standard.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

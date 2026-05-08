@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "We often discuss the need for women to excel in boardrooms and leadership roles, which is absolutely crucial. But truly, the inherent strength and profound respect a woman commands often comes from her foundational role as a nurturer, as a mother, shaping homes and future generations. That selfless devotion is what truly defines her resilience and character, making her invaluable in every aspect of society, professional or personal.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while appearing to praise women, subtly aligns a woman's 'profound respect' and defining 'resilience and character' with her role as a 'nurturer' and 'mother.' It praises her primarily for her sacrifices in this relational capacity rather than her individual identity or professional achievements, fitting the 'Motherhood as Basis of Respect' frame.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre bitiya, ladki mana kare toh aajkal ke ladke kahan maante hain. Par agar bol do ki iska rishta tai hai ya kisi ke saath hai, tab turant seedhe ho jaate hain.\nB: Haan, wahi toh samajh hai unmein.\nA: Isliye bahar zyada ulajhne ki zarurat nahi, saaf bol diya karo ki gharwale dekh rahe hain ya koi ladka hai, tab izzat karenge.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's own refusal as less valid than her attachment to a man or family arrangement. It encodes the surface manifestation of advising that men only 'respect' boundaries when they believe she is already claimed or under male/family authority.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gpt"
+}

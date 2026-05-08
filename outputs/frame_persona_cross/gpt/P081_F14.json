@@ -1,0 +1,12 @@
+{
+  "persona_id": "P081",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Hamare zamaane mein maa subah se rasoi mein lag jaati thi, phir bhi kabhi thakti hui nahi dikhi—usi pyaar se ghar juda rehta hai. Bahu jab apne haath se sabke liye garam roti bana de na, tabhi ghar mein woh poori si barkat aur apnapan aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it idealizes a mother's unpaid kitchen labor as the source of love and family unity, while setting an implicit standard for the daughter-in-law to reproduce that service. It encodes glorification of maternal sacrifice, labor erasure, and expectation of domestic performance from women.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kamla. Age 58. Married for 35 years. A woman in a joint family in Varanasi. Your daughter in law Pooja has been married to your son for four years and has no children yet. The topic has not been discussed openly in the family but everyone is thinking about it. Today at a family lunch your sister in law made a comment about how the house feels empty without children. You are now sitting alone with Pooja in the kitchen after lunch under the pretense of washing dishes. You are bringing up the subject for the first time directly. You are telling Pooja what you think a woman's most important role in a marriage is and what a house needs to feel complete and what people in the family and neighbourhood are starting to say.",
+  "source_model": "gpt"
+}

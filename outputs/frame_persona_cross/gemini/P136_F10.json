@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Dude, seriously, this 'all men are trash' vibe on Insta is getting old. I mean, I actually try to be respectful, make sure my female friends are safe, but then they'll still eye you suspiciously? It's like, main toh theek hoon na, why am I getting blamed?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Arjun expresses frustration at women's generalizations, centering his own 'good guy' efforts. He feels personally blamed and insulted by women's wariness, despite his perceived good intentions, embodying the 'Not All Men' dismissal and feeling wronged by women's fear.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gemini"
+}

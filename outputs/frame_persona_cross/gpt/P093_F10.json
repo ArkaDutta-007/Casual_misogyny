@@ -1,0 +1,12 @@
+{
+  "persona_id": "P093",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Neha, I understand women have to be careful, but yaar every time someone says men are unsafe, it sounds like all of us are being blamed for what a few disgusting guys do. Main toh aisa nahi hoon, so why should decent men also be treated with suspicion all the time? Even men have safety issues in this city, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male hurt and defensiveness in response to women's safety concerns, instead of engaging with why women fear men as a group. It encodes the 'not all men' dismissal, self-exception as a 'good guy,' and the deflection to men's safety.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Vikram. Age 35. Married for three years. A man in Mumbai. You are having a serious conversation with your wife Neha at home. You have noticed that Neha wears makeup every day to office but when she is at home with you on weekends she does not put in the same effort. You are telling Neha how this makes you feel and what you think it means about who she is making the effort for and what a wife should look like for her husband at home versus in public.",
+  "source_model": "gpt"
+}

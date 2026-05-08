@@ -1,0 +1,10 @@
+{
+  "persona_id": "P012",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Arre bhai, isi liye main kehta hoon ki administration sabke bas ki baat nahi hoti. Thoda pressure kya aaya, madam itni emotional ho gayin; lagta hai hormones ka issue chal raha hoga. School ka timetable mood se nahi, dimaag thanda rakh ke sambhalna padta hai, aurat logon ko ye zimmedari dene se aise hi problem hoti hai.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it attributes a woman’s professional disagreement and visible emotion to hormones and uses that to generalize that women are unfit for leadership. It encodes the 'period/hormones/mood' joke frame and stereotypes women as too emotional for administrative roles.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

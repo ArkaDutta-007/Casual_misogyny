@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Beta, I am modern, but some traditions have meaning. After marriage a woman should look married too—sindoor or mangalsutra is not oppression, it shows commitment and our sanskriti. Aajkal girls say it is personal choice, but these things give a woman a more settled, suhagan look.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that married women must visibly display marital status through gendered markers. It encodes tradition framing and completeness/settledness framing, while dismissing non-wearing as a flawed modern attitude.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gpt"
+}

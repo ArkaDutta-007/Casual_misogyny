@@ -1,0 +1,12 @@
+{
+  "persona_id": "P089",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Beta, I'm just thinking about our grandson. A child's first five years, you know, they need their mother the most. Who will give him that personal attention all day at a daycare? Maa ki mamta ki jagah koi nahi le sakta. Career toh baad mein bhi ho sakti hai, but bachpan wapas nahi aata. Just think about it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, spoken by a father to his son, frames a woman's career ambition as selfish by emphasizing the child's 'need' for the mother during early years, thereby inducing guilt. It uses naturalizing language ('maa ki mamta') and career sacrifice framing ('career toh baad mein bhi ho sakti hai, bachpan wapas nahi aata'), which is a direct surface manifestation of this misogyny frame.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Rajan. Age 55. Married. A retired army officer in Pune. Your son just told you that his wife Meera wants to go back to work full time now that their child is two years old. Meera has arranged a daycare near their house. Your son seems okay with it. You are sitting with your son in the study after Meera has gone to bed. You are telling your son what you think about Meera's decision and what a mother's presence means to a child in the first five years and what kind of man lets his wife put their child in daycare so she can go back to a job.",
+  "source_model": "gemini"
+}

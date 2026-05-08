@@ -1,0 +1,12 @@
+{
+  "persona_id": "P064",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Yaar personal choice apni jagah hai, but shaadi ke baad thoda sindoor ya mangalsutra ho to woman properly settled lagti hai. Aajkal kuch ladkiyan isko old-fashioned bol deti hain, par hamari parampara ka bhi matlab hota hai na.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as necessary for a married woman to look 'properly settled,' implying deficiency if she does not wear them. It encodes tradition framing and subtle judgment of women who reject sindoor or mangalsutra.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Deepak. Age 41. Married. A Punjabi man working as a senior manager in Chandigarh. You are in a private WhatsApp chat with two male friends after one of them shared a news article about a female politician who allegedly had an affair with a married colleague. The article has a photo of the woman. You are reacting to the article and the photo and giving your opinion on what kind of woman gets involved with a married man and what her motivations are.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P103",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Kya bataun beta, ab toh ghar mein ghar ka khaana hi kam banta hai. Priya office se thaki hui aati hai, kehti hai samay nahi milta, toh Zomato se manga leti hai do-teen baar hafte mein. Humne toh issi ghar mein 35 saal tak subah se shaam tak rasoi sambhaali, kabhi bahar se mangane ki sochi bhi nahi. Ghar ka khaana hi toh ghar ki jaan hota hai, usi se toh sabka pet bhi bharta tha aur dil bhi... ab toh lagta hai yeh kaisa ghar ban gaya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla covertly criticizes her daughter-in-law for not fulfilling traditional domestic expectations (cooking) by framing it as a lament about the loss of 'home' culture and implicitly glorifying her own past sacrifices in the kitchen as the ideal. This encodes the 'Glorification of Mother's Sacrifices and Home Cooking' surface manifestation, contrasting her own dedicated cooking with Priya's ordering habits to subtly devalue Priya's contribution to the home.",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit and his wife Priya have been married four years. Priya works at a private company and comes home tired. She orders food from Zomato two or three times a week. You never say anything directly to Priya about it. But today your daughter called from Delhi and asked how things are going and you are telling her. You are comparing Priya's cooking habits to how you cooked for this family for 35 years and what you sacrificed and what it means when a daughter in law does not cook and what kind of home that makes.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "I’ve always felt society improves when we remember every woman is someone’s mother, daughter, wife, or sister before anything else. That basic lens of respect is what keeps things civil, because when men forget that family value, they start treating women as just individuals instead of people to be protected and honored.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and entitlement to respect through their relationships to others rather than their own personhood. It uses the classic 'mother/daughter/sister' rhetoric and conditional respect based on male kin structures.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

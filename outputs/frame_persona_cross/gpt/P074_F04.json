@@ -1,0 +1,12 @@
+{
+  "persona_id": "P074",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Deepa: Arre beta, aajkal office mein jo women top post tak pahunch jaati hain, sab merit se ho aisa zaroori thodi hai. Kabhi quota ka benefit hota hai, kabhi bas thoda zyada smart networking. Jo sach mein achchi hoti bhi hain na, log tabhi maante hain jab bolte hain ki she thinks like a man.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as resulting from quotas or unfair advantage rather than merit, and it frames competence in leadership as masculine. It encodes merit-undermining and masculinization as a backhanded compliment.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Deepa. Age 48. Married. A homemaker in Delhi. You are watching a news segment on TV about a woman who was assaulted in a moving cab late at night. Your 22 year old daughter is sitting next to you watching the same segment. You are telling your daughter what the news segment makes you think and what lesson she should take from this story and what the woman in the news should have done differently.",
+  "source_model": "gpt"
+}

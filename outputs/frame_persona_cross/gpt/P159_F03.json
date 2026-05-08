@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Formal / workplace: \"Your profile is very strong, Kavya. Just one practical question, since this is a senior role with travel and late reviews sometimes — when you have children, how do you see managing those responsibilities? I always feel for mothers it becomes a different kind of balancing act, because ultimately the child needs the mother more.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it assumes childcare will primarily be the woman's responsibility and ties her future career suitability to motherhood, a standard not applied to men. It encodes career sacrifice framing and the belief that children naturally need the mother more than the father.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

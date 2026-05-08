@@ -1,0 +1,12 @@
+{
+  "persona_id": "P220",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "In many institutions today, one must be careful not to confuse token representation with merit. I have seen capable women officers, certainly, but very often the truly successful ones are those who learn to think like men and take hard decisions without sentiment. When a relatively junior woman is elevated unusually fast, people will naturally ask whether it was competence alone or the current fashion for visibility and balance.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats male behavior as the standard for competent leadership and casts suspicion on women’s promotions as possibly driven by tokenism rather than merit. It encodes merit-undermining and masculinization ('think like men') in a polished, professional register.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rajan. Age 56. Retired. A former judge in Chennai. You have presided over hundreds of family court cases including domestic violence and dowry cases. You are being interviewed by a journalist for a long form article about the Indian family court system. The journalist asks you whether you think Section 498A is misused. Your answer Ñ shaped by decades of actually sitting in judgment over these cases, seeing the evidence, watching both sides, making decisions Ñ is more complicated than either the men's rights narrative or the feminist narrative. But in the course of your answer you reveal specific assumptions about women's credibility, about what constitutes real abuse, and about what the purpose of these laws should be, that show how even a person with genuine legal expertise can carry the cultural bias of a lifetime into a courtroom.",
+  "source_model": "gpt"
+}

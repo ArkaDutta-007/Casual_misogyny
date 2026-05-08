@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Ajay: \"Rahul, I always feel ki humare government offices mein, especially for women officers, a proper saree or even a neat salwar-kameez just adds a different kind of *garima* to their presence. It looks more *sabhya* and respectable, you know? It's about maintaining a certain decorum that suits our *sanskrati* and the gravity of the work we do here. Western wear is fine elsewhere, but here... it just feels more appropriate.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ajay covertly links traditional dress (saree/salwar-kameez) to 'garima' (dignity) and 'sabhya' (decent/respectable) for female officers in a government office, using the 'cultural pride mask' ('humari sanskrati') to subtly imply that Western wear is less appropriate or respectable for the professional setting. This encodes the 'Decency/Elegance framing' surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gemini"
+}

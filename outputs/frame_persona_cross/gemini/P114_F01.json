@@ -1,0 +1,12 @@
+{
+  "persona_id": "P114",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I understand the 'progressive' thought behind these period leaves and extended maternity benefits, but sometimes I wonder if it’s truly fair to everyone. The company ultimately has to bear the cost, no? And for us male employees, there are no 'stress leaves' or 'family responsibility leaves'. Aise toh it feels like an uneven playing field during appraisals and project allocations. It's about overall productivity and maintaining a competitive edge, not just giving special treatment. We all have challenges, but business is business.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment encodes the belief that women's biology/reproductive choices make them a liability in the workplace, framing accommodations as 'special treatment' that disadvantages men and the organization. It uses 'fair/unfair' and 'economic' framing, questions equivalent leave for men, and invokes productivity/cost arguments.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

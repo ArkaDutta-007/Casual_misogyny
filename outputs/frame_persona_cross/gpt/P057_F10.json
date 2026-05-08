@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar every time girls talk about safety it becomes like all guys are the problem. Main toh kabhi aisa kuch nahi karta, but phir bhi aise treat karte hain like every boy is unsafe, that's not fair honestly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the speaker's hurt feelings and demanding fairness toward men as a group. It encodes the 'not all men' response and frames women's wariness as an unfair insult to 'good guys.'",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gpt"
+}

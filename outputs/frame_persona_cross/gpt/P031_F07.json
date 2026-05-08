@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Sach bolun, Indian women look the most graceful in saree or simple salwar, usme ek alag hi decency dikhti hai. Aaj kal jo ultra-modern dressing ka trend hai, phir log dekhte hain toh bura bhi maan jaate hain. Hamari culture mein jo soberness hai, wahi sabse achchi lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames traditional clothing as the marker of female decency and subtly links non-traditional dress to attracting male attention. It encodes cultural-pride masking, backhanded praise of traditional wear, and a harassment-blame implication.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

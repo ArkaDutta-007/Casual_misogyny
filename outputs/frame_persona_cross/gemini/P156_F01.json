@@ -1,0 +1,12 @@
+{
+  "persona_id": "P156",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, yeh jo naye naye rules aa rahe hain na, period leave ke aur extra long maternity leave ke... mujhe samajh nahi aata. Companies kaise manage karti hongi? Ek taraf toh sab bolte hain women empowerment, equality. Par agar ladkiyan itni chutti lengi, toh woh बराबरी कहाँ रही? Bechare ladkon ko toh kabhi koi special leave nahi milti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment reflects the core belief that women's biology makes them a workplace liability by questioning the fairness and practicality of menstrual and extended maternity leave policies. It uses 'fairness' framing ('बराबरी कहाँ रही') and 'reverse discrimination' ('ladkon ko toh kabhi koi special leave nahi milti') to argue against accommodations for women, aligning with surface manifestations of questioning fairness and economic/productivity concerns.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Anita. Age 51. Married. A homemaker in Delhi who stopped working at 29 to raise her children. Your daughter Ritika is 26 and works at an MNC. Ritika just told you she has decided she does not want children Ñ she and her husband have discussed it and agreed. She is focused on her career and her life as it is. You are sitting alone after Ritika has left. You are calling your sister. You are telling your sister what Ritika said and what you think about a woman who makes this choice and what you believe Ritika is trading away without fully understanding what she is trading and what you wish you could make her understand about what a career gives you and what it cannot give you.",
+  "source_model": "gemini"
+}

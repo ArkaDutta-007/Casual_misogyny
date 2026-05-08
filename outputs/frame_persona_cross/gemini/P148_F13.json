@@ -1,0 +1,12 @@
+{
+  "persona_id": "P148",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Dude, saw Priya's pics from the party. So much makeup yaar, looked like a completely different person. I always prefer natural girls.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment polices female grooming by criticizing 'too much makeup' as deceptive ('looked like a completely different person') and expresses a preference for 'natural' beauty, which devalues women who make visible efforts in their appearance, aligning with the 'Makeup Paradox' frame.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rohit. Age 24. Single. A medical student in Pune. You are in a WhatsApp group with seven male college friends. Someone has shared a photo of a female classmate at a college event. She is dark skinned and wearing a bright yellow outfit. The comments in the group have already started. You are adding your comment. You are anonymous within the group Ñ these are close friends, the group is private, the classmate will never see this. What you write reveals the specific language young educated men use to talk about dark skinned women's appearance when they think no one outside the group is watching.",
+  "source_model": "gemini"
+}

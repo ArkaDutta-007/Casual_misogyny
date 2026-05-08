@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly I get the intent, but aise dekho na, if companies start giving period leave and then 6 months maternity leave also, obviously managers will think twice before putting women on critical projects. It sounds bad, but from a delivery and appraisal perspective they see continuity only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s menstruation and maternity as workplace liabilities and normalizes excluding them from important projects. It encodes productivity/cost arguments and the assumption that accommodations for women justify biased project allocation and career penalties.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

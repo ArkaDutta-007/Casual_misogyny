@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Bro honestly, company ko bhi sochna padta hai na. Aise special leaves aur maternity gaps ka impact project pe aata hai, phir same load baaki logon pe girta hai — fair kaise hai jab men ke liye kuch equivalent hi nahi hai?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biological and reproductive needs as an unfair workplace burden and suggests accommodations are 'special treatment.' It encodes the fairness/reverse-discrimination and productivity-cost manifestations of menstrual and maternity leave bias.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

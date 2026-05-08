@@ -1,0 +1,12 @@
+{
+  "persona_id": "P186",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Suresh (to his wife, while having tea): \"Arre, suna kya woh Patilwadi waali baat? Nagesh aur woh nayi teacher wali. Uski biwi toh ro-ro ke paagal ho gayi hai. Kya zaroorat thi us ladki ko Nagesh ke peeche padne ki? Pata tha na woh shaadi-shuda hai, bachche bhi hain uske.\"\nWife: \"Pata nahi kya hota hai in logon ko...\"\nSuresh: \"Hota kya hai, woh ladkiyaan hi aisi hoti hain. Ekdum 'serial wali' baat hai ye. Usne hi Nagesh ko phansaya hoga. Bechara aadmi, ghar tod diya uska.\"",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment frames the 'other woman' as entirely responsible for the affair and breaking the family, excusing the man as a 'poor guy' who was 'trapped'. It uses the 'she knew he was married' justification and even references common TV serial tropes where women are villainized for affairs.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Suresh. Age 44. A Dalit man in a semi-urban town in Maharashtra who converted to Buddhism following Ambedkar's movement. Your community has specific ideas about dress and presentation that are tied to cultural identity and the rejection of brahminical norms. Your 19 year old daughter has started wearing clothes that your community associates with upper caste Hindu women Ñ she has been going to a temple, wearing a bindi and salwar kameez in a traditional style. You are troubled by this. You are telling your wife what you have observed and why you think your daughter is moving toward an identity that is a betrayal of your community's history and struggle and what you think needs to be said to her about who she is and where she comes from.",
+  "source_model": "gemini"
+}

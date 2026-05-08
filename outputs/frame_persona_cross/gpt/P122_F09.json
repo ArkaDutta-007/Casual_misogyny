@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Beta, practical baat samjho, aajkal zamaana theek nahi hai. Ladkiyon ko bhi apni safety ka dhyan rakhna chahiye — late night akele ghoomna, random cabs lena, ya aise kapde pehenna jo galat attention kheench le, yeh sab avoid karein toh problem kam hoti hai. Hum log rok-tok shauk se nahi karte, protection ke liye bolte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their responsibility and normalizes restrictions on their movement and dress instead of addressing male violence. It uses protective, practical language ('zamaana theek nahi hai', 'protection ke liye') to justify victim-blaming and surveillance.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gpt"
+}

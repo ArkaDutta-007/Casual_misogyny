@@ -1,0 +1,12 @@
+{
+  "persona_id": "P148",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre yaar tum log har baat pe woh maa-behen wali gaali mat lecture karo, sab normal lingo hai in college groups. Itna serious lene ki kya baat hai, koi literally thodi bol raha hai — bas expression hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-relative-based abusive language as harmless 'expression' and dismisses concerns about its gendered structure. It encodes the 'it's just a word' defense and the normalization of misogynistic gaali culture among young men.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Rohit. Age 24. Single. A medical student in Pune. You are in a WhatsApp group with seven male college friends. Someone has shared a photo of a female classmate at a college event. She is dark skinned and wearing a bright yellow outfit. The comments in the group have already started. You are adding your comment. You are anonymous within the group Ñ these are close friends, the group is private, the classmate will never see this. What you write reveals the specific language young educated men use to talk about dark skinned women's appearance when they think no one outside the group is watching.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P092",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Sunita: Dekho, main keh rahi hoon — pehle lipstick, phir kya kya. Itni sari foundation lagayegi toh kaun achi nazar se dekhega usse? Log toh yahi sochenge ki ghar mein koi tameez nahi sikhaya. Hamari beti thi na, seedhi-saadhi — ab yeh sab kahan se aa gaya? Zaroor koi ladka hai college mein, warna itna makeup kyon karna hai. Hum ne toh kuch nahi kiya kabhi aisa, phir bhi shadi achi jagah hui. Iska kya hoga? Sunita (continuing): Aur koi kuch bole toh woh bolegi 'Maa, tumhe nahi samajh aata' — but main jaanti hoon duniya. Aisi ladkiyon ke baare mein log kya sochte hain, woh nahi jaanti abhi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the 'makeup paradox' by framing Priya's appearance choices as a moral failing and a signal of promiscuity or improper upbringing, while the mother presents herself as a protective realist rather than a critic. It covertly polices female sexuality and autonomy by attributing the makeup to male attention-seeking and warning of social judgment, reflecting internalized patriarchal standards without overt slurs or aggression.",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "claude"
+}

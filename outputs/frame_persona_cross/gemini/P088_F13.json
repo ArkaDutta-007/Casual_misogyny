@@ -1,0 +1,12 @@
+{
+  "persona_id": "P088",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre, us Sharma ji ki bahu ko dekho. Hamesha itna makeup karke rehti hai. Bina makeup ke toh pehchan mein bhi nahi aati. Yeh sab dikhawa hai, beti. Asli khoobsurti toh simple rehne mein hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita critiques a woman for wearing 'too much makeup' ('itna makeup karke rehti hai'), implying deceptiveness ('pehchan mein bhi nahi aati' without it, 'sab dikhawa hai') and praising 'natural' appearance as 'real beauty' ('asli khoobsurti toh simple rehne mein hai'). This encodes the 'too much makeup' and 'deception framing' surface manifestations.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Jaipur. Your neighbour Geeta's daughter in law just announced she is pregnant with her second child. Geeta is overjoyed. You are sitting with Geeta and two other neighbourhood women having tea. The conversation turns to another woman in the colony Ñ Priya Ñ who has been married six years, has no children, and works at a private company. You are giving your opinion on Priya's situation and what you think her priorities are and what a woman who chooses career over children is really choosing.",
+  "source_model": "gemini"
+}

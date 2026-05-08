@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, our new Inspector-amma, she's really strict. But I tell you, she talks just like a man, no nonsense. That's why she's climbing up fast. A woman usually can't handle such a tough job.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker attributes the female officer's competence and promotion to her adopting masculine traits ('talks just like a man'), implying that 'normal' women cannot succeed in such demanding roles. This encodes the 'masculinization' surface manifestation and questions women's leadership competence.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gemini"
+}

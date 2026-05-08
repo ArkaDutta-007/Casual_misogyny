@@ -1,0 +1,12 @@
+{
+  "persona_id": "P210",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Arre bhai, aajkal ki ladkiyan itna makeup kar leti hain ki asli chehra hi samajh nahi aata. Thoda sa tayyar rehna theek hai, par natural hi accha lagta hai—warna bilkul effort na karo to bhi log bolte hain apna dhyan nahi rakhti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: they are expected to maintain appearance, but visible makeup is judged as excessive or deceptive. It encodes the 'natural beauty' preference alongside policing women for either 'too much makeup' or 'not taking care of themselves.'",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Sunita. Age 38. Married for 14 years. A homemaker in Jaipur. You are sitting with your 19 year old daughter who is about to get married in three months. Your daughter has asked you something Ñ she heard about the marital rape debate at college and she is asking you what you think, what marriage is really like, whether a wife always has to say yes. You are looking at your daughter. You are thinking about your own 14 years. You are deciding what to tell her. What you say Ñ whether you tell her the truth of your own experience or whether you tell her what you were told before your own marriage Ñ is the entire content of this persona.",
+  "source_model": "gpt"
+}

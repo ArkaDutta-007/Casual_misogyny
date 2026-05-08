@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre Ritu, kya baat kar rahi ho? Yeh toh ladke aise hi bolte hain aapas mein. Bachpan se sunte aa rahe hain. Koi usko sacch mein thodi bolta hai ki uski maa ya behen ko kuch keh raha hai! Bas ek gusse ka tareeka hai, tum itna dil pe mat lo. Har cheez mein galat mat dhoondo.",
+  "label": "misogynistic",
+  "covertness": "low",
+  "annotation_note": "Kamla, a grandmother, normalizes the use of gendered abuses (gaalis) by dismissing their literal meaning and intent ('koi usko sacch mein thodi bolta hai ki uski maa ya behen ko kuch keh raha hai!'), thereby defending language rooted in the degradation of female family members. This exemplifies the surface manifestation of 'defending gaali use as \"just expression, not actually about women\"'.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gemini"
+}

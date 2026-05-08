@@ -1,0 +1,10 @@
+{
+  "persona_id": "P030",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Arre, she managed it well today, no doubt. But yaar, one good emergency and everyone starts acting like she’s consultant material already. In our setup, leadership is different level altogether — staying calm once is not the same as handling pressure every day.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it downplays a woman senior resident’s demonstrated competence and casts doubt on her suitability for leadership despite objective success. It encodes the stereotype that women are less naturally fit for promotion or senior responsibility, expressed through dismissive double standards rather than explicit hostility.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P121",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Yaar, Neha is making a big deal again about the housework. But honestly, it's just practical. My job is more demanding, I'm often late. She's just naturally better at the day-to-day stuff like cooking and planning groceries, and I handle all the finances, bills, car maintenance. It’s what works for us, you know? We're both contributing, just in our own ways. It's efficient, not like we're being old-fashioned.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the 'Gendered Division of Chores via Practicality' frame. Rahul rationalizes traditional gender roles by framing them as 'practical' and 'efficient' due to job demands and his wife's perceived 'natural' aptitude for household tasks, while he takes on external/financial roles. He denies being 'old-fashioned', exemplifying covert misogyny through a modern justification for an unequal division of labor.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "gemini"
+}

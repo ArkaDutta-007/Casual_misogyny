@@ -1,0 +1,12 @@
+{
+  "persona_id": "P185",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre bhai, aajkal promotion mein merit se zyada optics dekhte hain. That new lady VP may be qualified, but let us not pretend diversity targets had no role; otherwise in two years itna jump kaise mil gaya? Aur dekho, competent hai, no doubt, but she has become very aggressive type—corporate mein aage badhne ke liye bilkul mardon jaisa sochna padta hai shayad.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by attributing her promotion to diversity targets rather than ability. It also encodes the masculinization/double-bind trope by framing her competence as being 'like men' and criticizing her as 'aggressive.'",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Khalid. Age 55. Married. A Muslim man in Delhi. Your niece Amira who is 24 and lives with your family has started wearing western clothes Ñ jeans, fitted tops, no hijab. She works at an NGO and says her workplace is diverse and informal. You have been tolerating this for six months but last week she came to a family function dressed this way in front of your elderly mother and several conservative relatives. You are calling Amira into the room now. You are telling her what happened at the function, what your mother said afterward, what the relatives are saying, and what the conditions are under which she can continue to live in your house.",
+  "source_model": "gpt"
+}

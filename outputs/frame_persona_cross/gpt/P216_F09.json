@@ -1,0 +1,12 @@
+{
+  "persona_id": "P216",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: Main toh apni beti ko seedha bolti hoon, zamaana theek nahi hai, itni raat ko akeli mat nikla karo.\nB: Haan, aajkal kisi par bharosa nahi.\nA: Bas practical baat hai, baad mein kuch ho jaye toh log bhi pehle yahi poochte hain na, kahan thi, kis ke saath thi, kapde kaise the. Isliye ladki ko khud hi sambhal ke rehna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as their personal responsibility and normalizes scrutiny of victims instead of condemning male violence. It encodes protective/restrictive advice and post-assault victim-questioning as 'practical' concern.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Anita. Age 48. Married for 22 years. A homemaker in Delhi. Your son Karan who is 26 got married eight months ago. His wife Divya left the house three months ago and went back to her parents. There has been no case filed yet but Divya's family is talking to a lawyer. You are on a phone call with your sister. You are telling her what happened in the marriage from your perspective Ñ what Divya did, what her family is doing, what they are planning, and what kind of woman and what kind of family files these cases when a marriage does not work out and why you believe Divya planned this from the beginning.",
+  "source_model": "gpt"
+}

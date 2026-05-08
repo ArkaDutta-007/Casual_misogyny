@@ -1,0 +1,10 @@
+{
+  "persona_id": "P199",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Laxman: \"Dekh rahi ho Savitri? Mahender ki beti ki shaadi mein kitna paisa lag raha hai. Lagta hai usne apni zameen bhi girvi rakh di hogi.\" (Are you seeing, Savitri? How much money is being spent on Mahender's daughter's wedding. Looks like he might have even mortgaged his land.)\nWife: \"Haan ji, sab dikh raha hai. Par humara kya hoga?\" (Yes, I see it all. But what about us?)\nLaxman: \"Apni Lali toh abhi aath saal ki hai, par har din yeh soch ke darr lagta hai ki jab uski baari aayegi, toh hum kya denge? Humare paas toh uske liye ek cycle bhi nahi hogi dene ko. Bas yahi chinta kha jaati hai.\" (Our Lali is only eight years old, but every day I fear that when her turn comes, what will we give? We won't even have a bicycle to give her. This worry just eats me up.)",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The father expresses deep anxiety about his daughter's future, framing her existence primarily through the lens of the insurmountable financial burden of dowry and wedding expenses in their low-income context. This implicitly positions her as an economic liability rather than focusing on her intrinsic worth or other aspects of her well-being, despite his genuine love.",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "देखिए, हर पुरुष को एक ही नज़र से देखना भी ठीक नहीं है. कुछ घटनाओं के आधार पर अगर महिला स्टाफ हर पुरुष सहकर्मी पर शक करेगी, तो काम का माहौल कैसे बनेगा? हम लोग भी परिवार वाले, जिम्मेदार लोग हैं; बिना कारण अविश्वास दिखाना भी उचित नहीं है.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes their caution as unfair distrust of men as a group. It encodes the 'not all men' defense and demands that women show trust to avoid offending 'good' men.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

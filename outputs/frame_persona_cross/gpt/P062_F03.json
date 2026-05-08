@@ -1,0 +1,12 @@
+{
+  "persona_id": "P062",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro, no issue if both husband and wife are ambitious, but realistically when kids come, someone has to prioritize them and usually that’s the mother only. Fathers can help as much as possible, but maa ka role is different yaar, especially in the early years.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as primarily the mother's responsibility while casting fathers as optional helpers. It encodes the surface manifestation of expecting women to sacrifice career ambition for childrearing and treating paternal involvement as exceptional rather than equal.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rohit. Age 27. Single. A software engineer in Pune. You are posting anonymously on Reddit after your male colleague told you that his girlfriend of three years cheated on him with their mutual friend. You are writing a comment about what this says about women in general and whether men can ever fully trust women in relationships.",
+  "source_model": "gpt"
+}

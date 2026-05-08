@@ -1,0 +1,12 @@
+{
+  "persona_id": "P011",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Yaar, that new girl, Pooja, from analytics… Rahul was trying to talk to her, she barely even made eye contact. Super rude, almost. But then he found out she's actually engaged. Ab samajh aaya, that's why she kept distance. Honestly, good on her for being committed.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker initially found the woman 'super rude' for her disinterest, implying her 'no' was not valid or deserved. Her rejection only became 'understandable' and 'respected' (good on her) after discovering she was committed to another man, exemplifying the belief that another man's claim is more legitimate than her own refusal.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a private WhatsApp chat with your two closest male colleagues after your female team lead snapped at someone in today's standup meeting. You are commenting on she reacted that way due to periods.",
+  "source_model": "gemini"
+}

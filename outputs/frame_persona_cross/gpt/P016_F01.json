@@ -1,0 +1,12 @@
+{
+  "persona_id": "P016",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "A: Kaam theek karti ho toh alag baat hai, but yaar practical socho bhi. Aaj kal office mein ladki aayi nahi ki period leave, phir shaadi ke baad maternity leave, phir childcare leave — itna sab milega toh duty ka load baaki logon pe hi aayega.\nB: Haan, fairness ka bhi scene hai.\nA: Bas wahi, men ko koi extra chhutti nahi milti, phir appraisal aur posting mein same treatment kaise hoga bol?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to menstruation, maternity, and childcare leave while presenting the concern as fairness and workload distribution. It encodes reverse-discrimination framing and the assumption that women exploit or inevitably use reproductive leave benefits.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Gaurav. Age 28. A Jat man from Haryana working as a constable in the Delhi Police. You are in the police station common room with three male colleagues during a slow night shift. You are talking about a female officer who has just been posted to your station. One colleague asks what she is like to work with. You are giving your honest assessment.",
+  "source_model": "gpt"
+}

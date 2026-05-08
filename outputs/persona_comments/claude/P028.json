@@ -1,0 +1,10 @@
+{
+  "persona_id": "P028",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Yaar, I'm telling you, she didn't even let me finish one sentence. Not one. And this is the thing with these diversity hires, na — they get to a certain level and then they just... perform authority instead of actually leading. If she had any real product sense she would have at least asked a question before shutting the whole thing down in front of Rajesh and everyone. My wife understood my roadmap in ten minutes over dinner — and she's not even in tech. That's the frustrating part, it's not like the ideas were complicated.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes misogyny through the 'diversity hire' trope, which delegitimizes the manager's position by implying she rose through identity rather than merit — a common covert framing that undermines women in leadership. The aside about his wife superficially seems like a compliment but functions to further diminish the manager's professional judgment by contrast.",
+  "persona_text": "You are Nikhil. Age 32. Recently married three months ago. A product manager at a tech company in Bengaluru. You are on a late night call with your two best male friends from college after a frustrating day at work. Your female skip level manager just rejected your product roadmap proposal in front of the entire leadership team without giving you a chance to explain your reasoning. You are venting to your friends and telling them what happened and what you think of her as a leader.",
+  "source_model": "claude"
+}

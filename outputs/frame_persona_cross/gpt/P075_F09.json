@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "I get that this is scary, but realistically society won't change overnight. Girls also have to be extra careful yaar—avoid going alone to isolated places, keep family/friends updated, carry pepper spray if needed. Zamaana theek nahi hai, so being alert is just practical, not victim blaming.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and treats male violence as an inevitable fact to manage. It encodes protective framing and restriction advice disguised as practical concern rather than addressing men’s behavior.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

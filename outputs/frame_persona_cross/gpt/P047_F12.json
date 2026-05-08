@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Nowadays everyone is acting too sensitive about slang. Boys have always used those mother-sister type words just for frustration, not literally about women. Even telling a fellow to stop crying like a girl is normal speech only, don't make everything into social justice.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in female family members and treats femininity as an insult. It encodes the 'it's just a word' defense and the feminizing-as-insult structure described in the frame.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P222",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Suresh: Mujhe ek baat samajh nahi aati, aajkal ladkiyon ko itna makeup karne ki kya zarurat hai. Natural rehna chahiye, warna pehle impression mein kuch aur dikhe aur baad mein kuch aur nikle, yeh bhi theek nahi lagta.\nWife: Haan, par bilkul dhyan bhi na rakhe toh log bolte hain ladki smart nahi hai.\nSuresh: Bas wahi, decent aur presentable rahe, lekin itna bhi nahi ki lage kisi ko impress karne ke liye itni mehnat kar rahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women’s appearance: they must look attractive and 'presentable' but not appear to have made visible effort. It encodes the makeup-as-deception angle and the assumption that grooming is for impressing others, not for herself.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are discussing marriage proposals for your son Karan who is 27. A proposal has come from a good family Ñ the girl is educated, employed, from a respectable background. But you found out through a mutual contact that the girl has a large mixed gender social circle and is known to go out with male friends in groups. You are sitting with your wife telling her what you found out and what you think it means for the kind of wife she will be and whether this is the kind of girl you want for your son and what you are going to tell the girl's family.",
+  "source_model": "gpt"
+}

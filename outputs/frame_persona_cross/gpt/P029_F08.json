@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, these things don't happen in a vacuum. If she knew very well he was a married man and still kept encouraging that closeness, then she is equally, if not more, responsible.\nB: Hm.\nA: Bechara aadmi kabhi-kabhi weak pad jaata hai, but a woman who walks into a settled family like that is the one actually breaking the home. Bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment shows blame asymmetry by excusing the married man as merely 'weak' while assigning primary blame to the woman as the one who 'breaks the home.' It encodes homewrecker framing, seduction framing, and the 'she knew he was married' rationale.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P162",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre, har aadmi ko aise dekhna bhi theek nahi hai. Kuch ghatnayein ho jaati hain toh iska matlab yeh thodi na hua ki sab mard bure hain, phir jo theek se rehte hain unko bhi shaq ki nazar se kyon dekha jaye? Aur aajkal mardon ko bhi kitni pareshaniyan hoti hain, unki baat koi nahi karta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear and reframes discussion of male violence around men's hurt feelings and fairness. It encodes the classic 'not all men' response, generalization policing, and a deflection to men's suffering.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Sunita. Age 46. Married for 22 years. A homemaker in Jaipur. Your neighbour's daughter has just gotten into a prestigious engineering college in another city. The neighbour is celebrating. You congratulate her sincerely. But sitting at home that evening you are talking to your husband about it. You are not against education Ñ you believe in it. But you are sharing your honest feeling about what happens to girls who get this kind of education, how they change, what they start expecting from marriage, and whether the neighbour's family has thought about what they are creating.",
+  "source_model": "gpt"
+}

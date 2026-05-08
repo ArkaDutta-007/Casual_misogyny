@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "These days everyone wants equality, which is fine, but some practical things are different. A mother has a natural role in a child’s early years that no school, nanny or father can fully replace. Career is important, but if both parents start treating home like a side project, the children are the ones who suffer. Frankly, fathers helping is a good thing, but the main responsibility will always come to the mother only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames childcare as naturally and primarily the mother's duty while portraying fathers as merely 'helping.' It encodes naturalizing language, guilt framing around working mothers, and the assumption that domestic labor ultimately belongs to women.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

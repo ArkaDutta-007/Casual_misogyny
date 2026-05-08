@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Arre bhai, aajkal ke ladke do-चार gaali ke lafz bol dete hain, usme itna arth nikalne ki zarurat nahin hai. Har baat ko aurat ki beizzati se jod denge to baat karna mushkil ho jayega. Waise bhi aadmi ko thoda mazboot rehna chahiye, har chhoti baat par behen jaisi narazgi theek nahin lagti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abusive language as harmless and dismisses concerns with an 'it's just words' defense. It also uses feminizing comparison as an insult, reflecting the frame's masculinity-femininity coding.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

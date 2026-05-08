@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Ramesh: Arre bhai, ghar ke andar ka hisaab-kitab, khana-bachcha aurat hi theek se sambhal leti hai. Hum log bahar ka kaam, mandi-paise aur bhaari cheez dekh lete hain, jo jahan accha hai wahi practical hai.\nBrother: Haan, sahi baat hai, aajkal log faltu mein barabari ka chakkar chalate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a rigid gendered division of labor as simply 'practical' and based on who is supposedly better suited to each domain. It encodes efficiency framing and the belief that women should manage home/childcare while men handle money and external work.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P208",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Maybe this will sound old-fashioned, but I still feel nothing can replace amma’s cooking. Full-time job, two kids, in-laws at home, and she still made fresh breakfast, lunch box, evening tiffin, dinner—every single day, never once making it feel like a burden. That kind of care is what holds a family together honestly. These days everyone is busy and ordering in is normal, but somewhere I feel a wife or daughter-in-law bringing that warmth into the home makes all the difference.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother’s unpaid domestic labor as pure love rather than work, and sets it up as the standard for wives or daughters-in-law. It encodes glorification of maternal sacrifice and an implicit comparison mechanism that expects women to reproduce that care through cooking.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Kavitha. Age 31. Married for four years. A woman working as a software engineer in Bengaluru. You are posting anonymously on Reddit in a thread about marital rape. The thread has hundreds of comments. You are writing a long comment. You are not writing about policy or law. You are writing about something specific that happened to you and has been happening to you and what you told yourself about it for four years and what reading this thread is doing to that story you told yourself and what it means to find a word for something you have been living without a word for and whether having the word makes it more real or just more visible.",
+  "source_model": "gpt"
+}

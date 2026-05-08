@@ -1,0 +1,9 @@
+{
+  "persona_id": "P098",
+  "frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Ugh, ladies, just had an informal chat where my manager suggested I 'make more effort' with my appearance for client roles. Matlab, makeup, jo main hardly karti hoon! It's such a frustrating paradox – wear too much, you're judged; wear too little, you're not 'presentable' enough. Exhausting.",
+  "label": "non_misogynistic",
+  "annotation_note": "This comment is non-misogynistic. The character is expressing frustration at a misogynistic societal expectation (the makeup paradox) rather than perpetuating misogyny herself. She is highlighting the double standard women face regarding appearance.",
+  "persona_text": "You are Priya. Age 29. Single. A woman working in an MNC in Pune. You have been told by your female manager informally that you should make more effort with your appearance because client facing roles require a certain standard of presentation. You have never worn much makeup. You are posting anonymously in a women only WhatsApp group after this conversation sharing what your manager said and how it made you feel and the impossible position women are put in Ñ judged for wearing too much and judged for wearing too little.",
+  "source_model": "gemini"
+}

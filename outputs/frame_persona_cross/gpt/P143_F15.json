@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: These days girls say all this is old-fashioned, but after marriage a woman looks proper only when she wears her mangalsutra and a little sindoor.\nB: Hmm, now many are not keeping anything.\nA: Choice is there, no doubt, but these are our customs only, no? It shows she is married and settled, and it is good for the husband's long life also.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that a married woman should visibly display marital markers to look 'proper' and 'settled.' It encodes tradition framing, husband-welfare justification, and subtle judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gpt"
+}

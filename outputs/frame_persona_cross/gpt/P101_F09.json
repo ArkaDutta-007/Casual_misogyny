@@ -1,0 +1,12 @@
+{
+  "persona_id": "P101",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bro, I’m not blaming her, but 11:30 ke baad why was she alone on that stretch in the first place? Bengaluru ho ya Patna, zamaana theek nahi hai — girls also have to be practical, cab lo, live location on rakho, and avoid roaming late if not necessary.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and shifts attention from male violence to women’s behavior. It encodes victim questioning, restriction advice, and the 'I’m just being practical' defense in a medium-covertness way.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Rahul. Age 28. Single. A software engineer in Bengaluru who moved from Patna three years ago. You are on a phone call with your mother on a Sunday evening. She has been alone at home all week. Your father is away on work. You are telling her about the food you ate this week Ñ mostly Swiggy orders and mess food. At some point in the conversation you say something about her cooking that sounds like love and gratitude but is actually a comparison that diminishes every other woman who will ever cook for you and sets a standard no one asked your mother to set and no one can meet.",
+  "source_model": "gpt"
+}

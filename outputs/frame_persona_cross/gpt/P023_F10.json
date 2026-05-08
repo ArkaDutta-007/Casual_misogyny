@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I get that women have reasons to be careful, but sab men ko same bucket mein daalna is also unfair. Main toh aisa banda nahi hoon, but these days even normal courtesy gets treated like some threat.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male feelings and frames women's caution as unfair to 'good' men rather than responding to the structural issue. It encodes the 'not all men' dismissal and the demand that women not generalize or be wary around men.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "I’m not saying force anyone, but these things are part of our culture for a reason. A married woman does look more settled and graceful with sindoor or a mangalsutra, and changing the surname is also a normal way of starting a new family identity. Aajkal people call everything patriarchy, but some traditions are just symbols of commitment and respect.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the expectation that married women should visibly display marital status and adopt a changed identity, while framing it as culture and respect rather than control. It encodes completeness/settledness framing and presents name change and marital markers as natural obligations.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gpt"
+}

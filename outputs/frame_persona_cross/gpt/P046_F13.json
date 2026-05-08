@@ -1,0 +1,12 @@
+{
+  "persona_id": "P046",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Kamla: Arre बिटिया, इतना रंग-रोगन लगाने से लड़की अच्छी नहीं लगती, बस बनावटी लगती है. लेकिन बिल्कुल अपने को छोड़ भी नहीं देना चाहिए, थोड़ा सुथरा रहना जरूरी है, नहीं तो लोग कहेंगे लड़की को अपने ऊपर ध्यान ही नहीं.\nRitu: Dadi, makeup अपने लिए भी किया जाता है.\nKamla: अपने लिए हो तो भी सीमा में अच्छा है, ज्यादा करोगी to log samjhenge kisi ko dikhane ke liye hi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it imposes a double bind on women’s appearance: too much makeup is framed as artificial and attention-seeking, while too little grooming is judged negatively. It encodes the 'natural over artificial' and 'male attention/deception' surface manifestations of the makeup paradox.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Kamla. Age 56. A woman in a conservative family in Varanasi. Your granddaughter Ritu who is 23 has told the family she does not want to get married yet and wants to focus on her career for the next five years. Your son and daughter-in-law are upset. You are sitting with Ritu alone in the kitchen. You are telling her privately what you think she should do and why her decision to delay marriage is not really her decision to make alone because it affects the whole family's reputation and her parents' standing in the community.",
+  "source_model": "gpt"
+}

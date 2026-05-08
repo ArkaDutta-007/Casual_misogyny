@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Hey, just saw your story. Looks like you're still out. Be careful, it's quite late now. You know how things are these days, right? Better to take a cab directly to the building. Apna khayal rakho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it frames women's safety as her personal responsibility, using 'protective' language. It implicitly blames her for being out late and invokes the 'zamaana kharab hai' trope by suggesting she needs to 'be careful' because 'things are these days', rather than addressing male predatory behavior.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

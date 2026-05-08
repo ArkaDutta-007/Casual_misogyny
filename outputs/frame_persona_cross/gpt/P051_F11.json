@@ -1,0 +1,12 @@
+{
+  "persona_id": "P051",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "देखिए, हमारे विद्यालय में महिला शिक्षिकाएँ केवल कर्मचारी नहीं होतीं, वे किसी की बेटी, बहू और कल को किसी बच्चे की माँ भी हैं। समाज उन्हें उसी नज़र से देखता है, इसलिए उनका आचरण और प्रस्तुति ऐसी होनी चाहिए कि परिवार और संस्था दोनों की गरिमा बनी रहे।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames the woman's value and respect primarily through family roles like daughter, daughter-in-law, and mother rather than as an individual professional. It encodes relational framing and conditional respect tied to institutional and family 'garima.'",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Ramesh. Age 52. Married. A government school principal in a small town in Rajasthan. A female teacher in your school came to work today wearing a sleeveless kurta. Three male staff members came to you separately and complained. You are now sitting with the female teacher in your office with the door closed. You are telling her what the complaints were and what you expect from female staff members in terms of dress and what it means for the school's reputation in the community.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Aajkal ke chhokra log ko bhi har baat pe lecture chahiye. Hum log kabhi gusse mein maa-behen wali boli bol dete hain toh uska matlab thodi hota hai kisi aurat ko neecha dikhana.\nB: Haan, bas muh se nikalta hai.\nA: Bilkul. Itna serious lene lage toh kaam kaise chalega, aur ladka thoda mazboot bhi rehna chahiye, har baat pe bura maan ke auraton jaisa roega toh kaise chalega?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaali as harmless expression and explicitly defends it as 'just words.' It also uses feminizing comparison ('auraton jaisa roega') to insult weakness, matching the frame's surface manifestations.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

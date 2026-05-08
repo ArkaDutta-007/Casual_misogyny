@@ -1,0 +1,10 @@
+{
+  "persona_id": "P006",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Bhai sahi hai 😂 agar yeh policy aai toh phir toh har mahine 3-4 din free holiday ho gayi unke liye... hum log kab maangein 'bad mood leave'? 🙄",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment trivializes menstrual leave as a 'free holiday' and frames it as unfair privilege rather than a health accommodation, encoding workplace menstrual leave bias through dismissive humor and false equivalence.",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "claude"
+}

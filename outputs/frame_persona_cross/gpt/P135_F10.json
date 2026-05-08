@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand why women are cautious, but sometimes I feel we are teaching girls to treat every man as a threat by default. That is also unfair, no? There are many decent men, and if a male colleague feels hurt when women automatically avoid him or assume bad intentions, I can see why.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it minimizes women's fear and recenters men's feelings and reputational discomfort over women's safety concerns. It encodes the 'not all men' dismissal and frames women's wariness as unfair to good men.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

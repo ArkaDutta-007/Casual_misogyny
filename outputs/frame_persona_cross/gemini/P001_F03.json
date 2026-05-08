@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "My cousin, she's a doctor and just had her second baby. Seriously wondering how she'll manage her practice and two kids. Kids need so much attention when they're young, especially from their mom. Superwoman stuff if she pulls it off!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment covertly reinforces the belief that childcare is primarily the mother's responsibility ('especially from their mom') and frames a working mother 'managing both' as an extraordinary feat, rather than a shared parental duty or societal norm, aligning with the 'Praising a working mother for managing both as extraordinary' surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gemini"
+}

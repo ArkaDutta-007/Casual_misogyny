@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, I'm still processing the new HOD announcement. Academically, she's competent, no doubt. But I keep thinking, she has two school-going kids, right? This HOD position is incredibly demanding – late hours, constant administrative work, even weekends sometimes. How is she going to manage all that *and* run her household smoothly? *Arre*, it's a huge burden on a woman, isn't it? It requires such a specific kind of dedication to balance everything without either side suffering. I truly hope she has solid family support, because it's not a job where you can just clock out mentally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic as it frames the female HOD's ability to perform her demanding job in terms of her domestic and child-rearing responsibilities, which would not typically be a primary concern for a male appointee. It expresses 'bewildered concern' about her capacity to manage 'both' and subtly implies potential 'suffering' in her personal life due to her career, thereby reinforcing the idea of childbearing/rearing as primarily a woman's domain and a potential conflict with her ambition.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gemini"
+}

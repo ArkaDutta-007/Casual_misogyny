@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Sunita: Priya, itna modern banne mein kya hai beta, shaadi ke baad thoda sindoor aur mangalsutra pehenne se hi toh suhagan wali shobha aati hai. Hamari parampara hai, aur aurat tabhi poori lagti hai jab usme ghar-grihasthi ka nishaan dikhe.\nPriya: Mummy, sabke liye zaroori thodi hota hai.\nSunita: Zaroori na sahi, par accha nahi lagta jab shaadishuda hoke bhi koi kuch na pehne, aajkal ki ladkiyan bas yehi sab nahi maanna chahti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition, beauty, and completeness rather than direct control. It encodes pressure to wear sindoor/mangalsutra and judges married women who do not display these markers.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

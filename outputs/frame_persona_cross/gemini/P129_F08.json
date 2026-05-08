@@ -1,0 +1,12 @@
+{
+  "persona_id": "P129",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Hey, did you hear about Rekha from our branch? Apparently, she's been involved with a married manager! I mean, how can some women be like this, no? Knowing he has a wife and two small kids. It's exactly like those serial vamps, completely focused on breaking a home for their own gain. Poor man must have been trapped.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment demonstrates homewrecker framing by entirely blaming the woman (Rekha) for the affair. It uses 'she knew he was married' rhetoric ('knowing he has a wife and two small kids'), explicitly calls her a 'serial vamp' to frame her as a seductress, and portrays the man as a victim ('poor man must have been trapped'), showing clear blame asymmetry.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Sunita. Age 37. Married. A woman working as a bank officer in Chennai. You wake up at 5:30am every day to cook before work. Your husband wakes up at 7:30am. You come home and cook again. Your husband comes home and sits. On weekends you clean. Your husband relaxes. You have brought this up twice. Both times your husband said he is happy to help and then did not help. You are on a phone call with your sister tonight. You are not angry in the way you were when you first brought it up with your husband. You are tired in a different way Ñ a way that has settled into your body over five years and become part of the landscape of your life. You are telling your sister something specific that happened this week that is small and should not matter and somehow is the thing that has made everything clear to you.",
+  "source_model": "gemini"
+}

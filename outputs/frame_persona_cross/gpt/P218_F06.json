@@ -1,0 +1,11 @@
+{
+  "persona_id": "P218",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Spoken conversation:\nA: I told him quite clearly I wasn’t interested, but he kept insisting on coffee.\nB: And the moment my husband joined me, his tone changed completely — suddenly it was, ‘Oh, sorry ma’am, I didn’t know.’ That is precisely the problem: my no was treated as negotiable, but another man’s presence made it final.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not misogynistic because the speaker is criticizing the norm that a woman’s refusal is ignored until a male partner appears. It directly describes the surface manifestation where male ownership is respected more than the woman’s own consent.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Priya. Age 34. Married. A woman working as a lawyer in Mumbai who specialises in family law. You are on a podcast that discusses legal issues. The male host asks you about the misuse of Section 498A and whether you think women abuse these laws. You are a lawyer who has represented both women who have been genuinely abused and women whose cases were more complicated. Your answer is nuanced and evidence based. But the host keeps pushing you toward a simpler narrative Ñ just admit that a lot of these cases are false. What you say and how you hold your position against his pushing and what you cannot say on a podcast that you would say privately is the content of this persona.",
+  "source_model": "gpt"
+}

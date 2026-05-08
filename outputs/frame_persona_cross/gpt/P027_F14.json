@@ -1,0 +1,12 @@
+{
+  "persona_id": "P027",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "There is something deeply grounding about maa ke haath ka khana — no recipe can replicate that kind of love and quiet discipline. Frankly, a home finds its rhythm when the women of the house keep that warmth alive; careers are important, of course, but these small daily acts are what truly hold a family together.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes mothers' cooking as love rather than labor and frames women's domestic service as the foundation of family life. It encodes glorification of maternal sacrifice and an implicit expectation that women should maintain the home regardless of professional aspirations.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Geeta. Age 56. A woman who has spent 30 years in the corporate world and recently retired as a VP at a large bank in Mumbai. You are speaking on a panel at a women in leadership conference. The moderator asks you what advice you would give young women who want to reach the top. Your advice is well intentioned but ends up placing the entire burden of change on individual women rather than on the system and subtly suggests that women need to change their behavior to fit into male defined leadership norms.",
+  "source_model": "gpt"
+}

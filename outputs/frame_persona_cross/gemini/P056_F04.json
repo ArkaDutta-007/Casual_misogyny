@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, sometimes I see women get promoted super fast here, and it makes me wonder if I'm doing something wrong. Like, Pooja became a Senior Lead in 3 years. She's good, no doubt, but she's *always* networking, really close with all the VPs. Sometimes I think, is that what it really takes, not just actual coding skills?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Meena, a software engineer, is questioning the merit of a female colleague's fast promotion, attributing it to 'networking' and closeness with VPs rather than pure 'coding skills'. This encodes the surface manifestation of speculating about how a woman got a prestigious role, implying it wasn't based solely on merit.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "P179",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Haan haan, Priya, you're very smart with all your office calculations, beta. But this is big business, not just excel sheets. For that, you need practical life experience, market understanding... not just data points. You'll understand better when you have a family and home to manage.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The uncle dismisses Priya's professional financial analysis by patronizingly acknowledging her intelligence for 'office calculations' then implying her current lack of 'practical life experience' or 'market understanding' is due to her unmarried status, suggesting she'll 'understand better' only when she manages a household. This dismisses her current expertise as insufficient because it doesn't align with traditional gender roles and 'life experience' for women in his view.",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gemini"
+}

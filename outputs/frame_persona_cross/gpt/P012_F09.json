@@ -1,0 +1,12 @@
+{
+  "persona_id": "P012",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "देखिए, मैं हमेशा अपनी स्टाफ की महिला शिक्षिकाओं से भी कहता हूँ कि आजकल ज़माना बहुत खराब है, इसलिए देर शाम अकेले निकलना, सुनसान रास्ते लेना या अनजान लोगों पर भरोसा करना ठीक नहीं है. बाद में कोई घटना हो जाए तो सबसे पहले यही देखना पड़ता है कि वह इतनी देर से बाहर क्यों थीं और साथ में कोई था या नहीं. इसे गलत मत समझिए, यह रोक-टोक नहीं, बस practical सावधानी है.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and shifts attention from male violence to women’s behavior. It encodes protective framing, restriction advice, and post-incident victim questioning presented as practical concern.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Deepak. Age 45. A school principal in a small town in Uttar Pradesh. You are sitting in the staff room with three male teachers after a female teacher got visibly emotional during a heated staff meeting about exam schedules. You are commenting on what happened and why you think women are not suited for administrative leadership roles in schools.",
+  "source_model": "gpt"
+}

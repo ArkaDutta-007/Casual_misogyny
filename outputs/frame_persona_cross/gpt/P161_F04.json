@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "A: Arre bhai, aajkal daftar mein aurat ko upar bitha dete hain to sab bolte hain bahut tez hai. Tez-whez apni jagah, par bina sahare koi itni jaldi thodi pahunchta hai.\nB: Haan, naam merit ka lete hain, baaki andar ki baat sabko pata hoti hai.\nA: Aur jo sach mein kaam sambhal le, usko bhi kehte hain mardon jaisi soch hai — matlab aurat hoke netagiri aasaan thodi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as not fully merit-based and treats competence in leadership as masculine. It encodes merit-undermining ('bina sahare') and masculinization ('mardon jaisi soch').",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gpt"
+}

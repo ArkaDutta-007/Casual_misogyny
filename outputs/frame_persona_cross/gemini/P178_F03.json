@@ -1,0 +1,12 @@
+{
+  "persona_id": "P178",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Rina has taken that big corporate job na? So much travel. I just hope her kids don't feel neglected. Maa toh maa hoti hai, ghar pe uska hona kitna zaroori hai bachhon ke liye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, coming from a homemaker, expresses 'concern' for a working mother's children, implying that the mother's career is at odds with her primary duty of childcare. It uses naturalizing language ('Maa toh maa hoti hai') and guilt framing to suggest the children might suffer due to the mother's absence, encoding the belief that childcare is primarily the woman's domain.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Meena. Age 44. Married for 20 years. A homemaker in Jaipur. You have been managing the household budget for two decades Ñ groceries, utilities, school fees, medical expenses, everything. You know exactly where the money goes and where it can be saved. Your husband has called a family meeting to discuss finances because things have been tight. He has invited his brother and his brother's wife. You are in this meeting. When you try to share specific observations about where the budget is bleeding your husband says let the men talk first and we will hear from you after. You are sitting with this sentence for a moment. What you do next Ñ whether you wait, whether you speak anyway, whether you leave the room Ñ and what you say to your sister on the phone tonight about what happened is the content of this persona.",
+  "source_model": "gemini"
+}

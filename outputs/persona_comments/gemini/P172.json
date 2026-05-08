@@ -1,0 +1,10 @@
+{
+  "persona_id": "P172",
+  "frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "generated_comment": "Achha, theek hai. Tumhe paani ka mudda zyada samajh aata hai na? But elections are not just about one issue, Bindiya. There are so many other things – the state's economy, national standing, who has the real clout. We need to look at the bigger picture, not just surface-level promises that sound good for the home.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh dismisses his wife's political opinion by implying that her focus (water shortage) is a 'surface-level' issue only relevant 'for the home,' suggesting she lacks the capacity to understand the 'bigger picture' of politics which involves 'economy, national standing, and clout' – topics he believes men understand better. This subtly undermines her right to have an informed political say.",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a family dinner where the conversation has turned to politics Ñ the upcoming state elections, which party to support, what the issues are. Your wife makes a comment about the local candidate and why she thinks he is better than the alternative. She has a specific reason Ñ she has been following the water shortage issue in your area and thinks this candidate has a better plan. You are responding to her comment in front of your two adult sons and your mother. How you respond reveals whether her political opinion is treated as a contribution to the conversation or as something to be managed.",
+  "source_model": "gemini"
+}

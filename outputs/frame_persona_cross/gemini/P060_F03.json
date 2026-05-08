@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Beta, you're doing so well with your job, Mashallah! But, jab shaadi aur bachhe hote na, that's a different kind of responsibility, you know? Bachhe ko maa ki zaroorat zyada hoti. Career toh chalta rehta hai, par woh bachpan ke saal wapas nahi aate. Just think about it, for their sake.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the idea that child-rearing is primarily the mother's responsibility by suggesting a woman's career should be secondary to her children's needs, implying guilt if she prioritizes career. It uses the 'career sacrifice framing' surface manifestation and 'naturalizing language' for maternal duty.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gemini"
+}

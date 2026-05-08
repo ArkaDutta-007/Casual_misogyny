@@ -1,0 +1,12 @@
+{
+  "persona_id": "P197",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bhai, suna woh Sohail ka kya chal raha hai? Bechara toh phans gaya hai. Woh jo nai assistant aayi hai na, usne hi toh sar chadhaya hai usko. Pata nahi tha kya usko Sohail married hai? Bacche hain uske. Yeh auratein ghar todne mein der nahi karti.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment blames the 'other woman' entirely for an affair ('usne hi toh sar chadhaya hai usko'), frames the man as a victim ('bechara toh phans gaya hai'), and includes the 'she knew he was married' framing. It directly aligns with F08's blame asymmetry and the 'homewrecker' trope ('ghar todne mein der nahi karti'), excusing the man while condemning the woman.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. In your community the custom is meher Ñ the mandatory gift from the groom to the bride Ñ which is Islam's position against dowry. But in practice your community also has informal expectations of gifts from the bride's family. Your daughter Sana is getting married and you have been in negotiations with the boy's family. The boy's family has not asked for dowry directly but has made clear through various signals what they expect. You are talking to your brother about these negotiations and what you are being asked to give and what you have given already and what it means to have raised a daughter and what the religion says versus what the community does and the gap between those two things.",
+  "source_model": "gemini"
+}

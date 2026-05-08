@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: Aurat ki izzat karni chahiye, bhai, aakhir kisi ki maa, behen, beti hoti hai.\nB: Haan, sahi baat hai.\nA: Jo apne ghar ki auraton ko samjhega, wahi doosri aurat ko bhi izzat dega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's worth and entitlement to respect through their relationships to others rather than as individuals. It encodes relational framing and conditional respect using the 'maa, behen, beti' rhetoric that sounds respectful on the surface.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gpt"
+}

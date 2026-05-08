@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Look, I understand women have concerns, but this habit of treating every man as a potential threat is neither fair nor rational. Many of us are decent, educated professionals, and it is frankly insulting when women behave as if basic courtesy from a male colleague is something suspicious. Safety is important, certainly, but paranoia cannot become the social norm.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear of harassment by centering the feelings of 'good men' and framing women's caution as irrational paranoia. It encodes the 'not all men' dismissal and the demand that women perform trust toward men to avoid offending them.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

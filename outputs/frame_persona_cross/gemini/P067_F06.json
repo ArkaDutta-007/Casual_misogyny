@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Girls today have so much attitude sometimes. Like, you try to talk nicely, and they just ignore. But if you know she's already committed, it's different. Us time you just respect it and move on. No point chasing after someone else's property, right?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment illustrates the core belief that a woman's refusal ('they just ignore') is less valid than her being 'taken' by another man. The speaker frames respecting a woman's existing relationship as respecting 'someone else's property', demonstrating the 'ownership language' linguistic cue and the surface manifestation of stopping pursuit only after learning she is 'taken', not after she rejected him directly.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

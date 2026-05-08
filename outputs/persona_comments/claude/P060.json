@@ -1,0 +1,10 @@
+{
+  "persona_id": "P060",
+  "frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "generated_comment": "Sana, beta, I'm not saying this to control you, I'm saying this because I know how people talk. You wear salwar, dupatta — they see a good girl from a good family. You wear these tight jeans, no dupatta — suddenly everyone has an opinion, and that opinion follows you, follows us. Your father is already upset, and believe me, you don't want that conversation. Islam has given us a way of dressing for our own dignity, not as a punishment — and the community, they don't always give second chances to a girl's reputation the way they do for a boy. I just want people to see you the way you deserve to be seen.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment encodes the 'dress code equals respectability' frame by linking modest dress to a woman's character and family honour, while explicitly noting that reputational consequences fall asymmetrically on girls rather than boys. The misogyny is covert because it is framed as protective maternal concern and religious guidance rather than overt condemnation, yet it reinforces the notion that women's clothing determines their social worth and that women alone are responsible for managing community perception.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "claude"
+}

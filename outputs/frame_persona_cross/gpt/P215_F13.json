@@ -1,0 +1,12 @@
+{
+  "persona_id": "P215",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I don't get this whole 2-hour makeup routine culture. If someone is naturally pretty, that's enough; if you need that much makeup and filters, it starts feeling misleading also. But at the same time, if a person doesn't maintain herself at all and comes looking completely dull, that also says a lot.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places women in a double bind: condemning visible makeup as deceptive while also criticizing women who do not meet appearance expectations. It encodes the surface manifestations of 'natural beauty' policing, deception framing, and appearance obligation.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Rohit. Age 29. Single. A software engineer in Bengaluru. You are in a WhatsApp group with eight male college friends. Someone has shared a news article about a man who was acquitted after spending two years in jail on a dowry case that turned out to be false. The group is reacting. You are one of the most vocal members of the group on this topic. You have been following men's rights content online for two years. You are sharing your opinion on what the article means and what it says about Indian marriage laws and Indian women and whether you personally will ever get married given the legal risk.",
+  "source_model": "gpt"
+}

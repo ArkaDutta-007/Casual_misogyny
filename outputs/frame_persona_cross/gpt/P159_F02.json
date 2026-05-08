@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Office group mein Monday ko tough client calls mat rakhna yaar, half the ladies are already in full mood-swing mode 😄 I am just joking, but you know how hormonal stress becomes.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it generalizes women as emotionally unreliable due to hormones and uses humor to make the stereotype seem harmless. It encodes the surface manifestation of joking about not scheduling important meetings when women are 'PMSing' or having 'mood swings.'",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gpt"
+}

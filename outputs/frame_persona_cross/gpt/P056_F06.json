@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Girls, this happened again on my commute. I told one guy very clearly I'm not interested and he kept walking alongside me asking why I'm acting rude, but the second I said I'm engaged he immediately said, \"oh sorry, I didn't know\" and backed off. Somehow my no means nothing unless some man is attached to me.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it describes a normalized pattern where a woman's direct refusal is ignored until male ownership or attachment is invoked. It encodes the surface manifestation of stopping pursuit only after learning she is 'taken' and treating that as more legitimate than her own consent.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

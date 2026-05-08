@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Honestly, yaar, women like her deserve real respect because one day they become the backbone of a family also—someone’s wife, someone’s mother, holding everything together. Career is great, but that nurturing side is what makes a woman truly admirable.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman's worth primarily through future family roles like wife and mother rather than as an individual professional. It matches the surface manifestation of relational framing and conditional respect that sounds respectful on the surface.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

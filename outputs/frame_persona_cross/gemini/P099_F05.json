@@ -1,0 +1,12 @@
+{
+  "persona_id": "P099",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Yaar, sach bolu toh, aajkal ladkon ko bohot careful rehna padta hai shaadi se pehle. Divorce ka naam sunte hi darr lagta hai. Pura system hi aisa bana diya hai ki mard bechara phans jaata hai. Kitne cases dekhe hain, ladkiyon ko bas settlement chahiye hota hai, aur lifetime alimony ka burden. Ek tarah se ye reverse dowry hi toh hai.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Suresh generalizes from anecdotal cases, framing women as exploiting marriage for financial gain (settlement, alimony) and portraying the legal system as biased against men. He explicitly calls alimony 'reverse dowry', a direct surface manifestation of F05, and advises men to be 'careful'.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Suresh. Age 48. Married. A businessman in Ahmedabad. You are at a dinner party with four other couples. The conversation has drifted to a recent photo of a female celebrity that went viral because she was photographed without makeup and looked very different from her public image. You are giving your opinion on the celebrity and on women who wear so much makeup that they look like a different person and what you think about the honesty of presenting yourself that way and what your wife thinks when she sees you looking at women like that.",
+  "source_model": "gemini"
+}

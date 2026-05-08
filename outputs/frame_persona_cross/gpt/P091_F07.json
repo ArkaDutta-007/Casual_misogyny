@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Bro kal uski DP dekhi in that saree from some family function, honestly wahan zyada achhi lagi. Aise traditional mein ladki decent aur grounded lagti hai, ye super western outfits mein vibe hi alag aa jati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing choice to her character, calling traditional dress more 'decent' and 'grounded' while implying western clothes make her less respectable. It reflects the surface manifestation of praising traditional wear as morally superior and using a backhanded compliment to police dress.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gpt"
+}

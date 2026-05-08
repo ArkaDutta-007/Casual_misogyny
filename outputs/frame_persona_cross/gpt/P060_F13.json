@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Sana, light makeup is fine beta, but these girls who put so much on their face and then post selfies as if that is real beauty, what is the need? A girl should look neat and presentable, but too much makeup gives a very wrong impression, like she is trying too hard for attention.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's grooming through a double bind: women must be 'neat and presentable' but are criticized if makeup is seen as excessive. It encodes the 'natural beauty' preference and assumes visible makeup signals attention-seeking rather than personal choice.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

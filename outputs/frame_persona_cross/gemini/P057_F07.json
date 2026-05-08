@@ -1,0 +1,12 @@
+{
+  "persona_id": "P057",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Bhaiyo, ye college fest wali photos dekho. Westerns mein dance kar rahi hain, theek hai. But fir jab koi kuch bolta hai ya ghoorta hai toh gussa karte hain. Sach bataun, desi kapdon mein girls automatically zyada respectable lagti hain aur koi aise faltu comments bhi nahi karta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rohit subtly links western clothing and dancing to receiving unwanted attention ('jab koi kuch bolta hai ya ghoorta hai') and implies that traditional wear (desi kapde) makes girls 'automatically zyada respectable' and prevents 'faltu comments'. This covertly blames the attire for potential harassment and frames traditional dress as superior for respectability.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Rohit. Age 24. Single. A college student in Chandigarh. You are in a WhatsApp group with seven male college friends. Someone just shared a photo from last night's college fest where several female students are dancing in western outfits. You are reacting to the photo and commenting on the girls in the picture and what you think about girls who dress and dance like that at college events and what kind of girls they are.",
+  "source_model": "gemini"
+}

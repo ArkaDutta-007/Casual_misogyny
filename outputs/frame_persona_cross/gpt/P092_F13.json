@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Suno ji, aajkal ladkiyan itna makeup karke kya prove karna chahti hain, samajh nahi aata. Thoda sa saaf-suthra rehna alag baat hai, par jab chehre par sab dikhne lage to lagta hai bas attention chahiye. Natural rehne mein hi asli khoobsurti hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames women's appearance as something to be judged and policed, while assuming visible makeup is for attracting attention. It encodes the natural-vs-artificial double bind and the belief that women should look good, but not appear to have tried.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

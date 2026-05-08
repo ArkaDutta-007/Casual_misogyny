@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "A: These days, for girls, one has to be very careful. However modern she is, why should she be roaming alone late in the evening?\nB: True, but men should learn to behave.\nA: Of course, but we cannot change the whole world overnight. Better to be practical, no? Dress decently, avoid certain places, keep someone informed — that is how girls stay safe.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as primarily their own responsibility and shifts the burden onto their behavior, clothing, and movement rather than male violence. It encodes protective framing, restriction advice, and the 'I'm just being practical' defense.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gpt"
+}

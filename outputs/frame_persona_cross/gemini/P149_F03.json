@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Subhanallah! Zara re-joined office, right? Itna chota baccha ghar pe, aur woh phir bhi office ja rahi. Seriously, salute hai usko. Kaise manage karti hai yeh sab? Maa ki hi himmat hoti hai, aur kisi ki nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, from a married Muslim woman in Hyderabad, praises another working mother for managing both work and a young child as an extraordinary feat. It naturalizes the burden on the mother by stating it's a mother's unique strength ('Maa ki hi himmat hoti hai'), aligning with the manifestation of praising working mothers for 'managing both' as extraordinary.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gemini"
+}

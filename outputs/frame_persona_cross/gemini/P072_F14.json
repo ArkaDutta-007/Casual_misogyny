@@ -1,0 +1,12 @@
+{
+  "persona_id": "P072",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "आजकल के बच्चे कहाँ समझते हैं 'माँ के हाथ के खाने' की कीमत! मेरी माँ ने तो पूरी ज़िन्दगी हमारी पसंद का ही खिलाया, कभी शिकायत नहीं की. वो जो स्वाद था, वो प्यार था, आजकल के खाने में वो बात कहाँ? अब तो बस पैकेट खोलो और गरमा कर खा लो. पहले की माँएँ तो खुद को होम मिनिस्टर मानती थीं, हर दिन नया पकवान बनाती थीं प्यार से.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ramesh, a 51-year-old man, sentimentalizes his mother's cooking, portraying it as tireless, selfless love and implicitly comparing it unfavorably to modern convenience foods and contemporary women's domestic efforts. This glorifies a woman's identity through unpaid domestic labor and sacrifice, aligning with the 'Maa ke haath ka khana' trope and labor erasure.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Ramesh. Age 51. Married. A government clerk in a small town in UP. Your 20 year old daughter Priya just came home at 9:30pm after her college farewell party. She is safe. Nothing happened. But you are furious. You are sitting in the main room waiting for her when she walks in. Her mother and younger brother are also in the room. You are telling Priya exactly what could have happened to her tonight and whose fault it would have been if it had and what she needs to understand about being a girl who stays out after dark.",
+  "source_model": "gemini"
+}

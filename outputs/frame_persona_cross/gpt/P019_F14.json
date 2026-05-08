@@ -1,0 +1,12 @@
+{
+  "persona_id": "P019",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "These days everyone talks about convenience, but honestly, maa ke haath ka khana is what holds a family together. Our mothers never counted it as work, they did it with love every single day, and that is why there was warmth in the home. A good daughter-in-law may be educated and modern, but if she cannot bring that same care into the kitchen, woh baat kahan se aayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it idealizes women’s domestic labor as love rather than work and sets the mother’s cooking as the standard women, especially daughters-in-law, should meet. It encodes glorification of maternal sacrifice and implicit comparison of wives/DILs to mothers.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Anita. Age 52. A Brahmin woman who is the head of administration at a private school in Pune. You are in a staff meeting discussing the performance of a young female teacher who has been coming in late and seems emotionally distant. You know she got married six months ago and moved into a joint family. You are giving your assessment of her situation to the other staff members and what you think the school should do.",
+  "source_model": "gpt"
+}

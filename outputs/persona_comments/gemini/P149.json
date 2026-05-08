@@ -1,0 +1,10 @@
+{
+  "persona_id": "P149",
+  "frame": "Beauty Standards and Colorism",
+  "generated_comment": "Fatima: \"Sana, beta, cream theek hai, but zyaada mat lagana. Sun mein toh jaana hi padta hai. Itna obsessed mat ho, just look neat and fresh. Aur waise bhi, healthy skin is more important, no?\"\nSana: \"But Mama, I want to be fair. Everyone says fair is pretty.\"\nFatima: \"Pretty toh tum waise bhi ho, meri jaan. But haan, ek glow rehna chahiye chehre pe. Abhi toh shaadi ki umar bhi aa rahi hai, log dekhenge toh achha lagna chahiye na?\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it subtly reinforces colorist beauty standards for women, linking a desired lighter complexion (\"glow,\" \"achha lagna chahiye\" - implying 'good' means fair) to their marriageability and how 'people will see' them. This places undue pressure on a young girl's appearance for societal acceptance and future prospects, encoding the surface manifestation of colorism.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gemini"
+}

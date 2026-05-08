@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre yaar, kabhi kabhi bas let it go — mood swing hoga ya that time of the month types. Tum seedha serious mat lena every argument, half the time they also don’t know why they’re so worked up 😅",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's emotions and arguments as driven by periods or hormones rather than valid reasons. It encodes the surface manifestations of attributing anger to 'that time of the month' and calling her reaction a 'mood swing.'",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

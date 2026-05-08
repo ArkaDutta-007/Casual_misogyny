@@ -1,0 +1,12 @@
+{
+  "persona_id": "P025",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Spoken conversation:\nAnanya: Kal branch meeting mein Neha itni aggressively argue kar rahi thi over a small issue.\nHusband: Shayad point hoga uska.\nAnanya: Ho bhi sakta hai, but honestly kabhi kabhi lagta hai these mood swings are more hormonal than logical. Important discussions uss time avoid karna better hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's disagreement as driven by hormones rather than reason. It encodes the surface manifestation of characterizing a woman's frustration or assertiveness as 'hormonal' and suggesting important meetings be avoided then.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ananya. Age 34. A woman working as a deputy manager at a government bank in Lucknow. You are talking to your husband at home after coming back from a particularly difficult day. Your male junior colleague who you trained for two years just got promoted above you. Your branch manager told you informally that you are doing great but that the customers in your area respond better to male relationship managers for high value accounts. You are telling your husband what was said.",
+  "source_model": "gpt"
+}

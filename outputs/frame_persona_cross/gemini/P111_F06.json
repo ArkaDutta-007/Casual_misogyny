@@ -1,0 +1,12 @@
+{
+  "persona_id": "P111",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Dekho beta, ladkon ko seedhe mana karogi toh unko lagta hai tum attitude dikha rahi ho. Par agar bol do 'main kisi ki biwi hoon' ya 'mera bhai hai,' toh woh log zyada respect karte hain aur peeche hat jaate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla advises a younger woman that stating male ownership (being a wife, having a brother) is more effective in deterring unwanted male attention than a direct refusal. This encodes the core belief that a man's claim on a woman is more legitimate than her own consent, and serves as a 'respect deflection' based on male ownership.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your daughter in law Priya has been married to your son for eight months. Priya wears sindoor on most days but sometimes comes downstairs in the morning without it Ñ usually when she is rushing to work. This has happened four times in the past two months. You have not said anything directly. But today she came down without it and your neighbour was sitting in the living room having chai. You are now in the kitchen with Priya after the neighbour has left. You are telling Priya what you noticed and what the neighbour must have thought and what it means for a married woman to step outside without sindoor and what people in this mohalla say about women who do not observe these things properly.",
+  "source_model": "gemini"
+}

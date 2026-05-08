@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly I don't want to sound harsh, but every time a woman gets fast-tracked to senior leadership here, people start wondering if it's actually merit or just the diversity push. And if she is genuinely good, then everyone says she is \"basically one of the guys\" because apparently that is the only way a woman can lead properly.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that women's promotions are suspect and frames competent leadership in women as masculine. It encodes merit undermining ('diversity push') and masculinization ('one of the guys').",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

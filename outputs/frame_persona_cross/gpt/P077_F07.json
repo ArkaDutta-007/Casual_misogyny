@@ -1,0 +1,12 @@
+{
+  "persona_id": "P077",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Meena: Kavitha, wear your saree or at least a proper salwar when you go out, ma. Girls look more decent and respectable in that only.\nSon: Amma, office la everyone dresses modern now.\nMeena: Modern means what? If a girl goes in all these tight clothes, people will keep looking and talking only. Why invite all that when our Indian dress itself looks so nice and dignified?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and safety to wearing traditional clothing, implying non-traditional dress invites scrutiny or harassment. It encodes dress policing through decency framing, cultural pride, and subtle victim-blaming.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Meena. Age 54. Married. A homemaker in Chennai. Your daughter in law Kavitha has just been offered a job that requires her to travel by local train and walk 10 minutes from the station to the office every day. She is excited about the job. You are sitting with your son and Kavitha at dinner after she shared the news. You are giving your opinion on the job and specifically on the commute and what can happen to women who travel alone and whether the salary is worth the risk.",
+  "source_model": "gpt"
+}

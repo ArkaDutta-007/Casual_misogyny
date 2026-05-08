@@ -1,0 +1,12 @@
+{
+  "persona_id": "P180",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Aiyoo, don't worry about it so much. Your Appa is very good with all the outside arrangements and managing the budget. It's just practical, no? He takes care of those things, and I look after the household. We've always done it this way, it works.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita, an older woman, explains a gendered division of labor to her daughter as 'practical' and efficient. She frames her husband's handling of 'outside arrangements and budget' and her own 'household' role as a natural and effective system they 'always done', exemplifying the core belief that these divisions are rational, not sexist.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Sunita. Age 52. Married for 28 years. A woman in Chennai. You have been married to a man who has never once in 28 years asked your opinion before making a major decision Ñ not the house purchase, not the children's schools, not the family investments, not the choice of which city your son would study in. He is not cruel. He does not shout. He simply does not think to ask. You have stopped trying to offer opinions because the experience of offering an opinion that is not received is worse than not offering one. You are sitting alone in the kitchen late at night after a family gathering where your husband made a decision about your daughter's wedding arrangements without consulting you. Your daughter asked you later what you think. You are answering her.",
+  "source_model": "gemini"
+}

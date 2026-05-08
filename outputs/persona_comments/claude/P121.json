@@ -1,0 +1,10 @@
+{
+  "persona_id": "P121",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Yaar, I'm not saying she's wrong, but listen to the actual situation — I leave at 8, I'm back at 9, sometimes 9:30. She's WFH, she finishes by 6 most days. So who is more naturally positioned to handle the house stuff? It's not about gender, it's just... logistics, no? And honestly she grew up watching her mom manage everything, she's more efficient at it than me, she does it faster. If I cook it takes double the time and she'll redo it anyway. I told her this tonight and she just got more upset, but I genuinely don't see how my logic is wrong.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rahul frames the unequal division as practical and efficiency-based rather than gender-based, obscuring how he naturalizes domestic labor as Neha's domain by invoking her upbringing and supposed competence. This encodes the 'practicality rationalization' surface manifestation of covert misogyny, where gendered expectations are laundered through neutral-sounding logic.",
+  "persona_text": "You are Rahul. Age 29. Married for one year. A software engineer in Bengaluru. You and your wife Neha both work full time. Neha has been saying for three weeks that the division of household work is not equal Ñ she cooks, she cleans, she manages groceries, she does the laundry. You do the dishes sometimes and take out the trash. You are not a bad person and you do not think of yourself as traditional. But you are on a phone call with your college friend tonight after Neha brought it up again at dinner and you are telling your friend your side of the story and why you think the current arrangement actually makes sense given both your situations.",
+  "source_model": "claude"
+}

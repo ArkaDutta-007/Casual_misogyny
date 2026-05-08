@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Look, I am all for supporting employees, but these blanket menstrual leave proposals raise a genuine fairness issue. In any department, if one category can take additional leave on biological grounds and others must simply manage, then workload and scheduling pressures inevitably shift to the rest. And when institutions already struggle with staffing, extended maternity and childcare provisions do affect project continuity, whether we admit it or not.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and reproductive needs as an institutional burden and implies women receive unfair special treatment. It encodes the fairness/cost argument against menstrual leave and the assumption that maternity-related accommodations make women less reliable at work.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

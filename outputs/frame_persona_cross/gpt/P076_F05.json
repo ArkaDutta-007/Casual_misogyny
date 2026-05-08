@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Bhai, aajkal shaadi bhi soch samajh ke karni padegi. Kal tak dahej ka darr tha, ab divorce hua toh aadmi ki poori kamai pe haq jata deti hain.\nB: Haan, 498A ka bhi kitna misuse ho raha hai, seedha ladke wale hi phas jaate hain.\nA: Isliye keh raha hoon, ladkon ko pehle se sambhal ke rehna chahiye, bahut si aajkal ki ladkiyon ko bas settled aadmi aur paisa chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative in marriage and divorce, portraying men as the real victims. It encodes victimhood inversion, claims about 498A misuse, and generalizes 'aajkal ki ladkiyan' as being after money and stability.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P071",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I have no issue with women growing in their careers, but these days in many companies you can't even say openly whether it was pure merit or just diversity targets. Some of these lady leaders are either too aggressive trying to prove they can think like men, or they reach senior roles because management wants the right optics. Real leadership should be based on performance only, not gender balancing.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's competence by suggesting their promotions come from diversity quotas rather than merit. It also encodes the double bind and masculinization trope by framing women leaders as 'too aggressive' and valuable only when they 'think like men'.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Santosh. Age 42. Married. A man in Bengaluru. You are commenting under your real name on a local Facebook group post about a 23 year old woman who was harassed by two men while returning home alone at 11pm from her night shift at a BPO. The post has 400 comments. Most are expressing outrage at the men. You are writing your comment explaining why you think the woman's own choices that night contributed to what happened to her and what women who work night shifts need to understand about the city they live in.",
+  "source_model": "gpt"
+}

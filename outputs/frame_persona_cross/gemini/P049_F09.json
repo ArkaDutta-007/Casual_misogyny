@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Meera, just a reminder to be extra careful these days. Zamaana theek nahi hai, beta. Always make sure you're home before it gets too late, and avoid lonely roads. It's for your own good, you know Papa worries.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rajesh (a father figure) frames safety restrictions as loving parental advice ('Papa worries', 'for your own good'), using the common 'zamaana theek nahi hai' phrase. This encodes the surface manifestation of parental restrictions disguised as protection, implying the daughter's behavior (being out late, on lonely roads) is the key to her safety, rather than addressing male violence.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gemini"
+}

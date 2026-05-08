@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Arre bhai, aurat chahe kitni bhi naukri kar le, bachchon ki dekhbhal toh maa ko hi sambhalni padti hai. Baap thoda school chhod aaye ya doctor ke paas le jaye toh sab bolte hain wah kya father hai, lekin asli zimmedari toh maa ki hi hoti hai. Career baad mein bhi ho jayega, bachche ka bachpan dobara thodi aata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare as the mother's primary duty and treats a father's involvement as exceptional. It encodes the frame's surface manifestations of maternal responsibility, praise for minimal paternal caregiving, and career-sacrifice expectations for women.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

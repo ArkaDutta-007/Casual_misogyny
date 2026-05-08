@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Bhai, agar usko pata tha banda married hai toh thoda distance rakhna chahiye tha na. Aise extra friendly hoke phir family toot jaye toh log usko hi ghar todne wali bolenge, aadmi toh kabhi kabhi behak jate hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary responsibility for an affair on the woman while excusing the man as someone who 'just got carried away.' It encodes blame asymmetry and the 'homewrecker' framing, especially through the idea that she should have kept distance because he was married.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

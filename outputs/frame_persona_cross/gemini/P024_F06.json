@@ -1,0 +1,12 @@
+{
+  "persona_id": "P024",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Dekho beta, agar koi ladki seedha mana karti hai, toh ek baar toh theek hai, thoda convince karke dekh sakte ho. Par agar pata chal jaaye ki woh kisi ki 'taken' hai, ya kisi ke saath serious hai, tab peeche hatt jao. Uss ladke ka aur uske parivaar ka bhi toh respect karna padta hai. Phir 'no' ka matlab sach mein 'no' hota hai.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "Deepak advises his sons that a woman's direct refusal ('mana karti hai') is negotiable and can be overcome by 'convincing', but if she is 'taken' ('kisi ki taken hai') or 'serious with someone' ('kisi ke saath serious hai'), then one must respect the other man and his family. This shows the core belief that male ownership is a more legitimate reason to stop pursuit than a woman's own consent.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gemini"
+}

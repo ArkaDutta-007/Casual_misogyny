@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Priya, beta, college se seedha ghar aa jaaya karo. Shaam ke baad zyada bahar mat ruka karo. Zamaana bohot kharab hai, beti. Humara toh farz hai tumhe samjhana, baaki tumhari safety tumhare haath mein hai. Hum kitna bhi sochein par ladkiyon ko khud hi samajhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly blames the daughter for potential harm by advising her to restrict her own movements due to 'bad times' ('zamaana bohot kharab hai'). It masks the misogyny as parental protection, but ultimately places the responsibility for safety solely on the woman ('tumhari safety tumhare haath mein hai'), which is a core belief of F09.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gemini"
+}

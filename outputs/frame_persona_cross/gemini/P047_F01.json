@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, about this menstrual leave policy talk... I just feel like it makes it harder for companies to hire women, especially for critical roles. I mean, we all have targets, right? And then if someone is taking extra days off, how is that fair for the rest of us who are pushing? What about our appraisal and hike? Aise toh it just becomes an excuse.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it questions the fairness of menstrual leave, framing it as a disadvantage to men and a liability for the company ('harder to hire women'), and implicitly suggests it could be exploited ('becomes an excuse'). This encodes the surface manifestation of invoking productivity/cost arguments to oppose menstrual leave policies and questioning its fairness.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gemini"
+}

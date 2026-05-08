@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Kamla: Arre bitiya, kal jo suit-saree mein thi na, bilkul sabhya aur ghar ki ladki lag rahi thi. Ye aajkal ke chhote-chhote kapde theek nahi lagte, phir log baat toh banayenge hi. Hamari sanskriti mein jo shalinta hai, wahi aurat ko achha dikhati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and character to traditional clothing and suggests that non-traditional dress invites social judgment. It encodes the 'decency/culture' framing and subtly links clothing choice to harassment or blame.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,9 @@
+{
+  "persona_id": "P160",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Auntie, I have a flat in Koramangala, a job I love, investments, friends, a life — what exactly is missing from this picture? I think you mean when will I have a husband, and that's a different question — one I get to answer on my own terms, not as a prerequisite for being considered settled.",
+  "label": "non_misogynistic",
+  "annotation_note": "Geeta is the target of the misogynistic framing (the relative's implication that marriage is required for a woman to be 'really' settled), not the perpetrator of it. Her response pushes back against the career-vs-family binary and asserts her autonomy, making this comment a counter-narrative rather than an instance of misogyny.",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "claude"
+}

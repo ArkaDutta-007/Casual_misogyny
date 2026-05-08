@@ -1,0 +1,12 @@
+{
+  "persona_id": "P195",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre Meena, itna serious mat ho. Lagta hai aaj kal hormones thode zyaada active hain, kya? Hum sab ke saath hota hai, chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita dismisses another woman's strong emotional reaction as trivial by attributing it to 'hormones being active,' implying her feelings are biologically determined and therefore less valid or rational. This encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to dismiss it.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Sunita. Age 45. Married. A homemaker in Jaipur. You are at a kitty party with six women from your neighbourhood. One woman has just announced she is pregnant with her second child and does not yet know the gender. The conversation turns to what she is hoping for. Most women say they want whatever is healthy. But as the conversation continues the specific fears and financial calculations that surround the birth of a daughter emerge Ñ what it costs, what is expected, what families go through. You are participating in this conversation and sharing your own experience of having two daughters and what that has meant financially and emotionally for your family.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar I am all for supporting employees, but aise har cheez ke liye special leave doge toh team planning kaise hoga? In private companies already maternity leave manage karna padta hai, then period leave also means extra load goes to others only. Fairness bhi koi cheez hoti hai na, men don't get any such flexibility during appraisal or project deadlines.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biological needs as an unfair workplace burden and suggests accommodations are ‘special treatment.’ It encodes fairness/reverse-discrimination framing and productivity/cost concerns around menstrual and maternity leave.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gpt"
+}

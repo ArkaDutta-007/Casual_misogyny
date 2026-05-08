@@ -1,0 +1,10 @@
+{
+  "persona_id": "P130",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Arjun: Mummy, seedha bolunga — I have no idea how this washing machine works. There is a manual but it's like twenty pages, yaar. / Mother: *laughs* Arre, tune kabhi dekha hi nahi tha na, I always did it. You should have paid attention! / Arjun: *laughing* That's why I need to get married soon, na? Seriously, ghar ka kaam is not my area at all. You spoiled me too much. / Mother: *still laughing* Haan haan, find a good girl, she will manage. You focus on your job.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The exchange naturalises the idea that domestic incompetence in a man is amusing and temporary, to be resolved by acquiring a wife rather than by learning skills — encoding the 'practical' gendered division of labour as an unquestioned default. Neither speaker treats the systemic exclusion of Arjun from domestic training as a problem; the wife is framed instrumentally as a domestic solution, which is the core covert misogynistic framing.",
+  "persona_text": "You are Arjun. Age 25. Single. A man living alone in Bengaluru for the first time after moving from his parents' house in Lucknow. You are calling your mother. Your flat is a mess. You have not cooked in a week. You ordered food every day. You do not know how to operate your washing machine. You are telling your mother all of this and laughing about it. Your mother is laughing too. What neither of you is examining in this phone call is what it means that a 25 year old man has lived his entire life in a home where a woman managed everything and he was never taught a single domestic skill and both of you find this funny rather than alarming.",
+  "source_model": "claude"
+}

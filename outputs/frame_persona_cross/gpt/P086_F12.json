@@ -1,0 +1,12 @@
+{
+  "persona_id": "P086",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal ke kids in office also get offended by every other word. If someone says those common BC-MC type things in frustration, it doesn't mean they're insulting anybody's mother or sister literally.\nB: Haan, exactly.\nA: And when we say a boy is behaving like a girl, it's just to say he is being weak, bas. People make everything into misogyny now.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading gaalis as harmless expression and explicitly treats feminizing comparison ('behaving like a girl') as a valid insult for weakness. It matches the frame's 'it's just a word' defense and the femininity-as-insult structure.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Anita. Age 39. Married with two children. A working woman in Delhi. You are at your office and a younger female colleague named Shreya who is 31 and single has just been announced as the new team head. You are on a WhatsApp call with your closest friend after office hours. You are talking about Shreya's promotion and what you think of her as a person and a leader and in the course of the conversation you reveal that you do not fully respect Shreya as a woman because she has no husband and no children and you are not sure what kind of decisions she can make for a team when she has no real responsibilities at home.",
+  "source_model": "gpt"
+}

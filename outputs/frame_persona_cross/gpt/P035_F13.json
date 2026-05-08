@@ -1,0 +1,12 @@
+{
+  "persona_id": "P035",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Beta, ladki ko dekhna ho to bina itne makeup ke dekhna, tab asli chehra samajh aata hai. Aajkal office wali ladkiyan itna ready hoke rehti hain, pata nahi apne liye ya bas attention ke liye, par bilkul sajna bhi nahi chahiye ki lage apna khayal hi nahi rakhti.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it evaluates women through a double bind: too much makeup is framed as deceptive or attention-seeking, while too little grooming is also criticized. It encodes the 'natural beauty' preference, deception framing, and appearance obligation central to the makeup paradox.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Kavita. Age 48. Married. A homemaker in Jaipur. You are talking to your son who is 26 and just started earning well. He told you he met a girl at work and likes her. You are giving him your advice on what to watch out for in modern women and what questions he should ask before committing to anyone. Your advice is rooted in your fear that women today marry for money and security not for love.",
+  "source_model": "gpt"
+}

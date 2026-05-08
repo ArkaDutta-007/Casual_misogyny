@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Honestly, I don't know how Anjali does it. She's always on top of things, delivering great work. But she has two young kids, right? Like, after office, ghar jaake bhi toh sab usko hi dekhna padta hoga. It's amazing how some women just manage to balance everything so well. Maa toh maa hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment praises a working mother for 'managing both' (career and home) as extraordinary, while subtly implying that domestic and childcare duties are primarily her responsibility ('ghar jaake bhi toh sab usko hi dekhna padta hoga'). The phrase 'Maa toh maa hoti hai' uses naturalizing language to reinforce the core belief that child-rearing is inherently the mother's domain, making it a covert misogynistic statement.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

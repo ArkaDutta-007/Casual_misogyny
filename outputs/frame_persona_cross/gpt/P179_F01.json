@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I get the intent, but from a team planning point of view it becomes tricky no? If companies already have to factor in 26 weeks maternity leave and then period leave also, obviously managers will hesitate during hiring because project allocation and delivery timelines get hit. Aise toh men will also ask what exactly is fair here.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity-related protections as a workplace liability and justifies discriminatory hiring hesitation. It encodes fairness/economic framing and reverse-discrimination language common in covert bias around menstrual and maternity leave.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gpt"
+}

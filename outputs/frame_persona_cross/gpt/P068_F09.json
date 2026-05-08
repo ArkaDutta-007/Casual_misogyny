@@ -1,0 +1,12 @@
+{
+  "persona_id": "P068",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Neha, listen calmly. The world is not ideal, and you have to be practical also. Keep a little distance, avoid staying alone with him, and be careful how friendly you come across—many men take the wrong signal very quickly. I am not blaming you, beta, but aajkal zamaana theek nahi hai, so your safety is first.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts responsibility for a man's inappropriate behavior onto the woman by focusing on her friendliness, proximity, and self-management. It encodes the 'protective advice' and 'wrong signals' version of women's safety as their own responsibility.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Rajan. Age 50. Married. A retired army officer in Pune. Your daughter Neha who is 26 just told you that her male colleague at work has been making advances toward her even though he is married. She is uncomfortable and does not know how to handle it. You are giving her your advice. But your advice ends up focusing on what Neha might be doing that is giving this man the wrong signals rather than on his behavior.",
+  "source_model": "gpt"
+}

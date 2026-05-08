@@ -1,0 +1,12 @@
+{
+  "persona_id": "P191",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "अरे ओ! क्या बोल रहे हो उस बेचारी को? थोड़ी तमीज़ से बात करो. वो भी किसी की बेटी है, किसी की बहन है. अपनी माँ-बहन समझ के बात करो!",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment, while seemingly defending a woman, bases the call for her respect entirely on her relational identity as 'someone's daughter' or 'someone's sister.' It urges the listener to 'think of her as your own mother or sister,' thereby valuing her worth through her connection to male kin rather than her inherent individual dignity, aligning with the 'Respect women — they are someone's mother/daughter/sister' rhetoric.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Ramesh. Age 48. A farmer in rural UP. OBC Hindu. Low income. Your wife has just given birth to your third daughter. The nurse has told you it is a girl. You are sitting outside the hospital on a bench. Your brother has come to be with you. You are not celebrating. You are telling your brother what you are thinking Ñ not about your wife, not about the baby, but about the number. Three daughters. What that number means in your village, what it will cost, what you have seen happen to families with three daughters, and what you are going to do now.",
+  "source_model": "gemini"
+}

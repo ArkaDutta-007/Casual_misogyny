@@ -1,0 +1,12 @@
+{
+  "persona_id": "P116",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly I don’t get these girls who come to office with full face makeup every day and then say it’s 'for themselves'. Simple, neat is always better — too much makeup just looks artificial, but if you don’t maintain yourself at all that also shows.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it polices women’s appearance through a double bind: condemning visible makeup as artificial while also criticizing women who do not maintain a certain look. It encodes the 'natural beauty' preference and the expectation that women must look attractive without seeming to try.",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Ananya. Age 29. Married two years ago. A woman working at an MNC in Kolkata. You are Bengali and your tradition is shankha pola Ñ the white and red bangles married Bengali women wear. You wore them for the first year of your marriage but have recently stopped wearing them to office because they make noise during meetings and your wrists get irritated. Your mother just found out from your aunt who saw you at a family function without them. Your mother has called you. You are in the middle of that phone call right now. You are trying to explain your practical reasons. Your mother is not interested in your practical reasons.",
+  "source_model": "gpt"
+}

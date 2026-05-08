@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, in India every financially settled man should think about legal protection before marriage. Aajkal one-sided laws and 498A misuse have made things risky, and after seeing these celebrity alimony cases, you really have to ask whether some women are marrying for partnership or just long-term financial security.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women broadly as potential financial exploiters and presents marriage law as unfairly biased against men. It encodes the 'reverse dowry/alimony' and '498A misuse' surface manifestations using a seemingly reasonable men's-rights concern framing.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gpt"
+}

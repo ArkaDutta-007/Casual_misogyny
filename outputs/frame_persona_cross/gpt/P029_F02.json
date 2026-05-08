@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "A: These days one has to first check the mood before having any serious discussion with some of the lady officers. One sharp note and suddenly it's all emotion and overreaction.\nB: Arre, hormones governance se zyada active hain kya?\nA: Quite possibly. Then if you say anything, they say we are being insensitive. I am only joking, but you understand the pattern.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women officers' reactions as driven by hormones and emotion rather than valid professional judgment. It encodes the frame through references to 'mood,' 'overreaction,' and a joking hormonal explanation with plausible deniability.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

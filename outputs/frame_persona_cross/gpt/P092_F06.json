@@ -1,0 +1,12 @@
+{
+  "persona_id": "P092",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "A: Arre, maine toh us ladki ko do-teen baar mana karne ke baad bhi samjhaya tha, par jab pata chala uska koi ladka hai, tab main hatt gaya. \nB: Haan, phir theek hai. \nA: Bas, kisi aur ke rishte mein beech mein padna achha nahi lagta, warna aise attitude dikhane se kya hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because the speaker ignores the woman's direct refusal and only stops pursuing her after learning she is attached to another man. It encodes the surface manifestation of respecting male claim/relationship over the woman's own consent, framed as being reasonable and respectful.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Lucknow. Your 23 year old daughter Priya has started wearing makeup to college Ñ foundation, eyeliner, lipstick. Nothing extreme but noticeably more than before. You are sitting with your husband after dinner after Priya has gone to her room. You are telling your husband what you have noticed about Priya lately and what you think the makeup means and what kind of attention she is trying to attract and whether this is the kind of girl you raised her to be.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P137",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Meena: Aajkal har baat mein ladkiyan bol deti hain ki mardon se dar lagta hai, par sab aadmi ek jaise thodi hote hain. Tum hi batao, agar koi sharif aadmi baat kare aur usko bhi shak ki nazar se dekhen, toh bura nahi lagega? Darna theek hai, par itna bhi kya ki har mard ko galat samjho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear of men by centering the feelings of 'respectable' men and framing women's caution as unfair suspicion. It encodes the 'not all men' response and challenges women's wariness as excessive.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Meena. Age 51. Married. A homemaker in Lucknow. Your neighbour's daughter Pooja who is 30 just got a job promotion and her mother is very proud. You congratulate the mother sincerely. But walking home you are thinking about Pooja Ñ 30 years old, unmarried, living alone, promotion after promotion. You are sitting with your husband that evening and telling him what you heard and what you think about Pooja's situation and what her parents are doing or not doing and what kind of future Pooja is building for herself and what will happen when the promotions stop and she is alone.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "You know, Lakshmi, Meena is so bright, so focused on her studies. But I always tell her, getting a good job is important, yes. But a woman's true strength, her real respect in society, comes from how well she nurtures her home, how she raises her children. That's where her value truly lies, don't you think?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly diminishes a woman's individual achievements by asserting that her 'true strength' and 'real respect' are derived primarily from her roles as a homemaker and mother, encoding the belief that a woman's individual identity is secondary to her relational identity.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gemini"
+}

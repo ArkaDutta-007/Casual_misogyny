@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Colleague: \"Did you guys see that news about the startup founder's divorce? She walked away with a huge settlement!\"\nMohit: \"Exactly! That's what I'm talking about. We slog our ass off, build something from scratch, and then the system is so one-sided. Honestly, sometimes I feel like the laws are a trap for men now. You have to be so careful these days, bro.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Mohit frames modern divorce laws as a 'trap for men' and 'one-sided', implying that women exploit them to extract money. This reflects the core belief that women are 'golddiggers' and aligns with the surface manifestations of victimhood inversion and advising men to 'be careful'.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gemini"
+}

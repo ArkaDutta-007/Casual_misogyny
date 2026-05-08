@@ -1,0 +1,12 @@
+{
+  "persona_id": "P020",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Honestly, for women to really make it to the top in tech, especially in leadership roles, they just have to be wired differently. Take the new Head of Product at InnovateX, Neha. She's brilliant, totally focused, no drama. Really thinks like a guy, you know? That's probably why she stands out.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it attributes a woman's competence and success (reaching a leadership role) to her having 'masculinized' traits ('wired differently', 'thinks like a guy', 'no drama'), implying that typical feminine traits are incompatible with leadership. It's a 'compliment that's actually an insult' variant, specifically the 'thinks like a man' surface manifestation, suggesting her presence in power is anomalous without these masculine attributes.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Mohit. Age 27. A startup founder in Delhi. You are being interviewed on a podcast about hiring practices for early stage startups. The host asks you what your biggest hiring mistakes have been. You are giving an honest answer about a female employee you hired early on who you say brought too much personal baggage to work and why you now think carefully before hiring women who are newly married or have young children.",
+  "source_model": "gemini"
+}

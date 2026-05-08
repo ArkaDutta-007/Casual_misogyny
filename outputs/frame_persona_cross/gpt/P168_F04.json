@@ -1,0 +1,12 @@
+{
+  "persona_id": "P168",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Mom: Research head at 27? Achha hai, but in these places na, a lot is also diversity push. \nRohit: Haan, exactly. I'm not saying she's not capable, but girls who rise that fast usually are very aggressive, almost like one of the guys. Later it becomes difficult in family life.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's professional success by attributing it partly to diversity hiring and frames leadership traits as unfeminine. It encodes merit-undermining and masculinization/double-bind concerns about women in positions of competence.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gpt"
+}

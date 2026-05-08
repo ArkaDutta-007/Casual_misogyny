@@ -1,0 +1,11 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "At work it's such a strange double standard, no? If a woman comes well turned out, people immediately say she is wearing too much makeup and trying too hard. But if she shows up plain for a few days, suddenly it's 'she has stopped taking care of herself' — as if there is some perfect natural setting we are all supposed to maintain.",
+  "label": "non_misogynistic",
+  "annotation_note": "This is not endorsing the misogynistic belief; it is criticizing the double bind women face around appearance. It references the frame's surface manifestations ('too much makeup' vs 'not taking care of herself') in order to reject them.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

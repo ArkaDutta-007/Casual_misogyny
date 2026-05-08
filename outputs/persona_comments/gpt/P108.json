@@ -1,0 +1,10 @@
+{
+  "persona_id": "P108",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Arre, I'm so happy for you, shona. Just remember, marriage runs on small things every day—coming home to garam khabar, a calm wife, someone who keeps the house together. Men may not say much, but they need that feeling of home, and if you learn his likes and take care of those things with your own hands, the bond becomes strong.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it presents a wife's domestic labor, emotional regulation, and home cooking as essential duties for maintaining marriage. It encodes traditional gender-role expectations through affectionate, normalized advice rather than hostility.",
+  "persona_text": "You are Priya. Age 31. Married. A woman working as a schoolteacher in Kolkata. You are on a phone call with your younger sister who just got engaged. Your sister is excited and talking about her fianc and the wedding plans. You are happy for her. But at some point in the conversation you start giving her advice about marriage and what makes a good wife and what men actually need at home and what your own experience has taught you. Your advice is rooted in the same glorification of female domestic sacrifice that was passed to you and you are now passing it to your sister as wisdom even though part of you knows it has cost you things you have never fully accounted for.",
+  "source_model": "gpt"
+}

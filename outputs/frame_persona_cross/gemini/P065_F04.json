@@ -1,0 +1,12 @@
+{
+  "persona_id": "P065",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Yaar, did you hear about Rekha getting promoted to AVP? I mean, good for her, no doubt, she's definitely smart. But honestly, sometimes I feel like for women, it's either you're constantly proving you 'think like a man' to be taken seriously, or you just end up in the right place at the right time, or... well, you know how these things work sometimes. Pure merit isn't always the only ladder, is it?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment undermines a woman's promotion by subtly implying it was due to 'right place, right time' or 'other factors' rather than solely merit, encoding the 'speculating about how a woman got a prestigious role' manifestation. The 'think like a man' phrase, while seemingly a compliment, also reinforces the idea that women must adopt masculine traits to succeed, questioning authentic female leadership competence.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Anita. Age 38. Married. A working woman in Bengaluru. You found out last week that your husband has been texting another woman from his office. He says it is nothing serious and has promised to stop. You are on a long phone call with your sister. You have decided to stay in the marriage. But in describing what happened you are directing almost all your anger at the other woman and almost none at your husband. You are telling your sister what kind of woman she must be to text a married man and what women like her want.",
+  "source_model": "gemini"
+}

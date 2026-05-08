@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Look, I have no issue with women leaders at all, but let's be honest about merit. Half these senior appointments now are driven by diversity optics, and then everyone acts surprised when the person is too aggressive with the team just to prove she belongs there. A good leader should inspire confidence, not constantly perform like she's one of the guys.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s promotions as driven by 'diversity optics' rather than merit and applies a gendered double bind by criticizing a woman leader as 'too aggressive' while expecting her to avoid seeming masculine. It encodes merit-undermining and masculinization in a corporate-professional register.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gpt"
+}

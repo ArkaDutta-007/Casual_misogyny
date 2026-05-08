@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Spoken conversation: A: I know it's unfair, but honestly after 10 pm why take that risk alone? Bengaluru is not that safe anymore, and men are not going to suddenly change because we want them to. B: So women should just stop living their lives? A: I'm just being practical yaar — cab details share karo, travel in a group, and avoid these late-night scenes if possible.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's safety as primarily their own responsibility and normalizes male predatory behavior as inevitable. It encodes protective/restriction advice and the 'I'm just being practical' defense rather than focusing on changing men's behavior.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gpt"
+}

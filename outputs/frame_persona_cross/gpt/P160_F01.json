@@ -1,0 +1,12 @@
+{
+  "persona_id": "P160",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I get the intent, but aise toh from a team planning perspective it becomes tricky no? For the same role, if the company has to factor in menstrual leave plus long maternity breaks, managers will naturally hesitate during project allocation, and then everyone calls it bias. Fairness ka bhi question hai — men don’t get equivalent leave but appraisal expectations are the same for all.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s biology and maternity as workplace liabilities and questions accommodations as unfair special treatment. It encodes policy concern framing, economic/productivity arguments, and reverse-discrimination language ('what about men?').",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Geeta. Age 29. Single. A woman working as a data scientist in Bengaluru. You are at your best friend's wedding. Your friend is leaving her job at a tech company to relocate with her husband who has been transferred to another city. Your friend seems happy. At the reception you are talking to an older relative of the groom who has just heard that you are not married and work in tech. The relative asks you when you plan to settle down. You say you are settled Ñ you have an apartment, a job you love, savings, a life you have built. The relative smiles and says no beti I mean when will you really settle down. You are looking at this relative and deciding what to say next.",
+  "source_model": "gpt"
+}

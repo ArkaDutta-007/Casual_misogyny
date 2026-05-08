@@ -1,0 +1,12 @@
+{
+  "persona_id": "P209",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Yaar, main hamesha bolta hoon, aurat ki izzat karni chahiye—kal ko wahi kisi ghar ki bahu, kisi bachche ki maa hoti hai. Jab aadmi ye soch le na ki saamne wali bhi kisi ki beti hai, tabhi society theek rehti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as deserving respect primarily through family roles like daughter, wife, and mother, rather than as individuals. It encodes relational framing and conditional respect while sounding superficially respectful and socially responsible.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepak. Age 38. Married for eight years. A man in Ahmedabad. You are talking to your closest male friend over drinks at his house. Your friend has just told you that his wife filed a police complaint against him Ñ not for marital rape, for domestic violence, but in the conversation that follows you reveal your own views on consent in marriage, on what a wife owes a husband, on what you have done in your own marriage that you have never questioned and are now, in this conversation, beginning to examine for the first time because your friend's situation has made certain things suddenly visible that were previously just the furniture of married life.",
+  "source_model": "gpt"
+}

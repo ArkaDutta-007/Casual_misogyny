@@ -1,0 +1,12 @@
+{
+  "persona_id": "P184",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I get that companies want to be supportive, but aise dekho na, if every few months period leave and then later long maternity leave also comes into planning, managers will obviously think twice during project allocation. It sounds harsh, but fairness ka bhi question hai — men don't get any equivalent break and the team still has to manage deadlines.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's menstruation and maternity as workplace liabilities and questions accommodations using fairness and productivity logic. It encodes reverse discrimination framing and assumptions that women disrupt project allocation due to biology and reproductive leave.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Meera. Age 27. Married. A woman from a Brahmin family in Pune who married a man from a Kshatriya family in Rajasthan. The two families have different traditional dress norms for women. Your husband's family expects you to wear a saree and cover your head at family functions. Your own family never required this. You are on a phone call with your mother after a particularly difficult family function at your in-laws' house where your mother in law made a comment in front of everyone about how you were dressed. You are telling your mother what was said and how you felt and what your husband did and did not do and what you think is happening to your sense of yourself inside this marriage.",
+  "source_model": "gpt"
+}

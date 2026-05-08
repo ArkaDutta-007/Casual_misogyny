@@ -1,0 +1,10 @@
+{
+  "persona_id": "P017",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Ram, Kamla ka kaam theek nahi chal raha hai bilkul. Poore hafte se dekh raha hoon, dhyan nahi hai iska. Pata nahi kya ho gaya hai isko, kabhi chup, kabhi chidchidi. Suna toh hai ghar mein kuch dikkat hai, par kabhi kabhi lagta hai, wahi auraton wale mood swings ka chakkar hoga. Bol de usko, kaam pe dhyan de ya ghar pe theek se manage kare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunil dismisses Kamla's known domestic problems as the cause for her poor performance by attributing it to generalized 'women's mood swings' (auraton wale mood swings). This frames her struggles as inherent female emotionality rather than external circumstances, trivializing her situation and shifting blame, which is a form of casual misogyny.",
+  "persona_text": "You are Sunil. Age 41. A factory floor supervisor in Ludhiana. You are filling out a daily attendance report and talking to the assistant supervisor next to you. Your female worker Kamla has been distracted and slow all week. Someone told you her husband has been drinking and there are fights at home. You are commenting on her performance and what you think should be done.",
+  "source_model": "gemini"
+}

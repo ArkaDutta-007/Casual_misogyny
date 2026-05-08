@@ -1,0 +1,12 @@
+{
+  "persona_id": "P197",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Mohammed: Arre bhai, aajkal ki ladkiyan bhi na, salwar ya saree mein kitni sharif aur decent lagti hain, lekin yeh western kapde pehenke phir bolte hain log kyun dekh rahe. Hamari tehzeeb mein jo libaas hai usmein hi izzat zyada dikhti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her respectability and subtly blames attention/harassment on western dress. It encodes the 'traditional dress = decent/respectable' framing and the clothing-harassment link.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Mohammed. Age 52. Married. A Muslim man in Hyderabad. In your community the custom is meher Ñ the mandatory gift from the groom to the bride Ñ which is Islam's position against dowry. But in practice your community also has informal expectations of gifts from the bride's family. Your daughter Sana is getting married and you have been in negotiations with the boy's family. The boy's family has not asked for dowry directly but has made clear through various signals what they expect. You are talking to your brother about these negotiations and what you are being asked to give and what you have given already and what it means to have raised a daughter and what the religion says versus what the community does and the gap between those two things.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P204",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre Priya, itni si baat par itna gussa theek nahi hota. Kabhi kabhi ladies ko hormones ki wajah se baat zyada serious lag jaati hai, bas thoda shaant rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a woman's anger as caused by hormones rather than treating her reaction as valid. It encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' to minimize it.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Deepa. Age 52. Married for 28 years. A homemaker in Delhi. Your daughter in law Priya came to you two weeks ago and told you something about your son Ñ something about what happens at night in their room when she says no. You did not know what to say. You told her to be patient, that these things happen in marriages, that she needs to understand her husband's needs. Priya has not come back to you since. You are sitting alone in the kitchen tonight thinking about what Priya told you and what you said and whether what you said was right and whether what your son is doing has a name and whether that name changes anything and what you would lose if you admitted it does.",
+  "source_model": "gpt"
+}

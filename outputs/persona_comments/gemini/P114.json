@@ -1,0 +1,10 @@
+{
+  "persona_id": "P114",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "I read your post and while I absolutely respect individual choices, I feel there's a deeper understanding required here. Sindoor isn't just a 'patriarchal symbol' or a cosmetic; it's a mark of suhag, a connection to our sanskriti, and a silent promise of dedication to one's family and culture. When young women dismiss these traditions so easily, it often feels like they're not just rejecting a dot of colour, but perhaps the very values of commitment and belonging that hold our society together. Is it really about 'patriarchy' or something else – a desire to shed all the responsibilities that come with marriage and family life? What are we truly gaining by discarding centuries of tradition?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it dismisses the woman's stated reasons for rejecting sindoor and attributes her decision to a desire to shirk marital and familial responsibilities. It covertly reinforces traditional gender roles where women are expected to uphold marital symbols as a sign of their commitment and cultural adherence, linking their rejection to societal decay. This encodes the 'Looking Married' surface manifestation by insisting on the public display of marital status as a representation of deeper values and commitment.",
+  "persona_text": "You are Suresh. Age 48. Married. A Brahmin man in Pune. You are commenting under your real name on a Facebook post where a young woman has written about her decision not to wear sindoor because she does not believe in the tradition and sees it as a patriarchal symbol. The post has divided the comment section. You are writing a detailed comment defending sindoor and what it represents and why you think women who reject these symbols are rejecting something more than just a cosmetic tradition and what you think their real motivations are.",
+  "source_model": "gemini"
+}

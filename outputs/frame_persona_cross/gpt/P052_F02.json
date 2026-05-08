@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Arre Priya, itni si baat par itna gussa kyun kar rahi ho? Lagta hai hormones ka chakkar hai, warna normal din mein tum itna react nahi karti. Thoda shaant ho jao, har baat ko itna serious mat lo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses a young woman's anger by attributing it to hormones rather than treating her reaction as valid. It encodes the surface manifestation of calling a woman's frustration 'hormonal' and telling her to calm down.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

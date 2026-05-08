@@ -1,0 +1,12 @@
+{
+  "persona_id": "P131",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Kamla: Beta, tum par salwar-suit ya saari hi sabse achchha lagta hai, ek alag hi sharafat dikhti hai. Aajkal jo chhote-mote western kapde ladkiyan pehenti hain na, phir log ulta-seedha sochte hain, isliye ladki ko thoda maryada mein rehna chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's clothing to her character and 'sharafat,' implying traditional dress makes her respectable while western clothes invite judgment. It encodes the traditional-versus-modern respectability frame and subtly shifts responsibility for others' reactions onto women's clothing.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 25 and works in Delhi just came home for Diwali. This is the first time the whole family has gathered since her cousin got married six months ago. Ritu is the only unmarried grandchild above 23. At the family dinner on the first night three different relatives asked Ritu when she is getting married. Ritu deflected each time with a smile. You are now sitting alone with Ritu in the bedroom after dinner. You are telling her what you think she should be thinking about at 25 and what the family is not saying directly to her but is saying to you when she is not in the room and what you think she needs to understand about how these things work and what happens to girls who wait too long.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P034",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Yaar, I get your career is important, but honestly, once kids are in the picture, especially initially, it's the mom who really has to be hands-on. Us guys can help, but it's not the same. Kids need their mother, you know? Can't just outsource that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly reinforces the belief that childcare is primarily the mother's domain, naturalizing her role ('Kids need their mother') and framing the father's role as secondary 'help'. It implies a potential conflict between the woman's career and her primary duty to children, aligning with the 'who will raise the children?' manifestation and guilt framing around 'outsourcing' care.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Manish. Age 33. In a relationship but not married. A marketing professional in Mumbai. You are texting your girlfriend after she sent you a long message saying she thinks couples should not need prenups because it shows a lack of trust. You are responding and telling her exactly why you think a prenup is necessary and what your reasons are. You are being very direct about what you think women do when marriages end.",
+  "source_model": "gemini"
+}

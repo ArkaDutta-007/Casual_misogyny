@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "अरे रितु, तू भी क्या बच्ची है। ये सब बातें कहने में अच्छी लगती हैं। घर का काम तो आखिर औरतों का ही होता है, वही उसे सही से संभाल पाती हैं। मर्द तो बाहर का काम देखते हैं ना। शादी के बाद देखना, खुद ही समझ जाओगी कि कौन किस चीज़ के लिए ज़्यादा बेहतर है। थोड़ा बहुत मदद कर दे तो अच्छी बात है, पर घर की रौनक तो औरत से ही है।",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla dismisses the idea of a man equally sharing chores as naive, framing traditional gender roles (women for home, men for outside) as natural and practical. She implies that a woman is inherently 'better suited' for household management and that the home's essence depends on her primary responsibility, which is a key surface manifestation of the 'Gendered Division of Chores via Practicality' frame.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gemini"
+}

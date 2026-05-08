@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Bro honestly, I always tell my sister also the same thing—if it gets late, just book a cab and come straight home, no hanging around. Zamaana theek nahi hai, and after something happens people anyway ask why she was alone that late, so better to be practical and careful.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their personal responsibility and normalizes public scrutiny of victims instead of questioning male violence. It uses protective framing ('I tell my sister', 'be practical') and victim-questioning about being alone late at night.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gpt"
+}

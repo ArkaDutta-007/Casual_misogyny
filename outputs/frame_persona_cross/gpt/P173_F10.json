@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arey beta, har aadmi ko aise shaq ki nazar se dekhna bhi theek nahi hai. Kuch galat log hote hain, par sab mard ek jaise thodi hote hain — tum log itna darr-darr ke rahogi toh achhe logon ko bhi bura lagega. Mard bhi bahar kitni pareshaani jhelte hain, unki koi baat nahi karta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering men's hurt feelings and insisting that women's caution is unfair to 'good' men. It encodes the 'not all men' response and the deflection to men's suffering.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

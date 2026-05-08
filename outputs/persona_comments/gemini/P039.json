@@ -1,0 +1,10 @@
+{
+  "persona_id": "P039",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "This MRA is just talking rubbish, yaar! Financial gain? We suffer years of abuse and they blame us for being greedy. But you know, I won't lie, I have seen some women, especially in those high society circles, who totally exploit the system for alimony. It's like they see it as a reverse dowry, and it just makes things worse for the rest of us.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The character rejects the MRA's claim but then validates the underlying premise by criticizing 'some women' who 'exploit the system' for alimony, framing it as 'reverse dowry'. This implicitly supports the narrative that women misuse divorce laws for financial gain, thus encoding the 'Alimony as Reverse Dowry' manifestation.",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gemini"
+}

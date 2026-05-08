@@ -1,0 +1,10 @@
+{
+  "persona_id": "P196",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Vikram: Baba, honestly... mujhe koi farak nahi padta, healthy ho bas. But I won't lie, sometimes I think — we're already saving for Priya's wedding fund, her education, and then whenever the time comes, the whole shaadi ka kharcha... if it's another girl, that's double the responsibility, double the tension. Papa: Haan beta, I understand you, I understand. One son would have been a support for your old age also. A daughter you raise, love her, spend everything — and then she goes to someone else's home. That is the way of it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The dialogue encodes the 'daughter as financial burden' frame through the naturalized language of economic responsibility — framing daughters as cost centers (wedding, dowry, education spent for another family's benefit) rather than as intrinsically valued children. Neither speaker recognizes this as discriminatory; it reads as pragmatic parental concern, which is precisely what makes it covert structural misogyny rooted in the dowry economy.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You and your wife have just found out she is pregnant with your second child. Your first child is a daughter. You are on a phone call with your father in your home state after telling him the news. Your father is happy about the pregnancy. He asks if you are hoping for a boy this time. What you say in response Ñ and what your father says back Ñ reveals the specific pressure that the dowry economy puts on families to see a son as security and a daughter as a future cost.",
+  "source_model": "claude"
+}

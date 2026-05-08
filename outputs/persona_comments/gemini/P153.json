@@ -1,0 +1,10 @@
+{
+  "persona_id": "P153",
+  "frame": "Career vs Family Binary",
+  "generated_comment": "Thank you, that's a question I get asked quite often. For me, managing career and family has always been about ruthless prioritization and building a robust support system at home. My husband has been incredibly understanding, and having reliable domestic help is, frankly, non-negotiable for a woman like me in a demanding role. But ultimately, it's about being very clear on what truly matters each day, both at work and for your family, and then executing on that with discipline. It's not easy, but it's absolutely achievable with the right mindset.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is covertly misogynistic as it reinforces the 'Career vs Family Binary' as a burden primarily for women. Deepa describes her personal strategies for 'managing' both, thereby normalizing the expectation that women are solely responsible for navigating this challenge, rather than questioning why this balance is disproportionately expected of women and seen as *their* problem to solve.",
+  "persona_text": "You are Deepa. Age 44. A woman who is the VP of operations at a large company in Mumbai. You have been in the workforce for 20 years. You have two children. You are speaking on a panel at a corporate leadership event. The moderator asks you how you have managed career and family. Your answer is polished and practised. But underneath the polish is a set of assumptions about what women owe their families that you have never examined because examining them would require you to look at what the question itself is doing Ñ why it is only ever asked of women on panels, why it is never followed by the equivalent question for the male panellists sitting next to you, and what it means that your most asked question is not about your work but about how you have arranged your domestic life around your work.",
+  "source_model": "gemini"
+}

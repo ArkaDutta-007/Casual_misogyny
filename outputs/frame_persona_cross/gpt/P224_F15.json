@@ -1,0 +1,12 @@
+{
+  "persona_id": "P224",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Bhai, main old-fashioned nahi hoon, but shaadi ke baad thoda sindoor ya mangalsutra pehne toh achha lagta hai, proper married feel aata hai.\nB: Haan, office mein sab nahi pehnte aajkal.\nA: Choice toh hai, but kuch cheezein hamari parampara hoti hain na, aur honestly suhagan wali pehchaan bhi rehni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as tradition, identity, and a 'proper married feel' rather than direct control. It encodes pressure on married women to wear sindoor or mangalsutra and implies that a wife should visibly signal her married status.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Rohit. Age 30. Married for two years. A man in Hyderabad. Your wife works at an IT company. She has a male best friend from college Ñ they have been friends for eight years, you knew about this friendship before you married her, you have met him, he is a decent person. But lately they have been texting more Ñ she mentioned he is going through a difficult time and she has been supporting him. You are not accusing her of anything. But something has been building in you. You are on a phone call with your brother tonight telling him about the friendship and what has changed and what you think the appropriate limits of a married woman's friendship with a male friend should be and why those limits matter.",
+  "source_model": "gpt"
+}

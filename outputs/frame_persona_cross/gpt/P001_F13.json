@@ -1,0 +1,12 @@
+{
+  "persona_id": "P001",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Machan, these days some girls put so much makeup on Insta that real life and photo are like two different people. I’m not against it da, but natural-ah looking and taking care of yourself is much better than all this over scene.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's appearance as something to be judged and policed, while casting makeup as deceptive. It encodes the double bind of praising 'natural' beauty but still expecting women to maintain attractiveness and 'take care of' their looks.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Vikram. Age 34. A sales manager in Chennai. You are texting your male college friends group on WhatsApp after your company announced paid period leave for female employees. You are commenting on whether period leave is fair to male colleagues.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P039",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, sometimes I just crave 'maa ke haath ka khana'. Woh comfort, woh taste, kahin nahi milta. Meri mummy toh din bhar kaam karke bhi, shaam ko hamesha taaza khana banati thi poore pyaar se. Kabhi koi complain nahi. Aaj kal ki generation toh... bas Maggi ya restaurant food. Woh devotion kahan dikhti hai ab.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the speaker's mother's domestic labor ('taaza khana banati thi poore pyaar se, kabhi koi complain nahi') implicitly erasing it as work and framing it as an act of pure love/devotion. It then subtly criticizes 'aaj kal ki generation' (implying other women, potential wives/DILs) for not matching this standard, connecting it to 'Maggi ya restaurant food' discourse, thus encoding the belief that a woman's true devotion is through tireless, loving domestic service, particularly cooking.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Meera. Age 38. Divorced three years ago. A working woman in Delhi who left her marriage after years of emotional abuse. You are in a private WhatsApp group of divorced and separated women. Someone in the group just shared a news article about a men's rights activist who claimed that 90 percent of Indian divorces are filed by women for financial gain. Several women in the group are responding angrily. You are responding too but your response is complicated Ñ you are angry at the claim but you also find yourself saying things about certain women who do misuse the system that end up partially validating the very argument you are trying to reject.",
+  "source_model": "gemini"
+}

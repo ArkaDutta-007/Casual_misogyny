@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Anita ji, aapke bete ko boliye itne maa-behen waale words mat use kiya kare, bachche seekhte hain.\nB: Arre bhai, aaj kal sab aise hi bol dete hain, uska matlab thodi hota hai. Bas gusse ki baat hai, itna serious mat banao.\nA: Par aurat ko hi neecha dikhake kyun?\nB: Arey woh to bas bolne ka tareeka hai, har cheez mein issue nikaaloge to ghar mein koi muh hi na khole.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse as harmless everyday speech and dismisses concerns with 'sab aise hi bolte hain' and 'itna serious mat banao.' It encodes the meta-defense of misogynistic gaalis rather than using explicit slurs directly.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

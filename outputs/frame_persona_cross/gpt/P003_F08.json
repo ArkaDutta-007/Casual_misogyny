@@ -1,0 +1,12 @@
+{
+  "persona_id": "P003",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, aadmi shaadi-shuda hai yeh us ladki ko pehle se pata tha na? Phir bhi itna chipak ke ghoomegi toh ghar toh tootega hi.\nB: Haan, bilkul serial wali baat ho gayi.\nA: Bechare aadmi kabhi kabhi phas jaate hain, par asli galti us aurat ki hai jo doosre ke ghar mein ghusne ki koshish karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame for an affair on the woman while excusing the married man as someone who 'got trapped.' It encodes homewrecker framing, seductress framing, and blame asymmetry.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

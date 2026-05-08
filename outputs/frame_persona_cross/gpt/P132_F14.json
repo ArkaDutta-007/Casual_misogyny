@@ -1,0 +1,12 @@
+{
+  "persona_id": "P132",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Aajkal sab convenience ka zamana ho gaya hai, par maa ke haath ki roti aur usme jo mamta hoti hai, woh kisi hotel ya packet wale khane mein kahan. Ghar ko ghar tabhi lagta hai jab aurat apne haath se sabko khana khilaye, bina hisaab-kitab ke, pyaar se. Hamari maaon ne kabhi isse kaam nahi maana, isi sanskar se parivaar juda rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it sentimentalizes women's cooking and self-sacrifice as their natural expression of love while erasing it as labor. It encodes the 'maa ke haath ka khana' trope and sets a normative expectation that a woman should hold the family together through unpaid domestic work.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya is 27 and works as a software engineer in Pune. She is doing well professionally and seems happy. But she is not thinking about marriage and when you bring it up she changes the subject. You are sitting with your wife after dinner. Priya has gone to bed. You are telling your wife what you think needs to happen and what you are going to do about it and what it will mean for Priya if she waits until she is 30 and what people in your town are already saying about a 27 year old unmarried working woman.",
+  "source_model": "gpt"
+}

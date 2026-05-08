@@ -1,0 +1,12 @@
+{
+  "persona_id": "P135",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "These days everyone talks about equal parenting, which is fine in theory, but in practice it is the mother who must be available for the child’s routines, school matters, and all the small emotional needs. A father may help sincerely, but that consistency usually comes from the mother only; if she keeps putting career first, the children are the ones who quietly pay for it.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes childcare and emotional labor as the mother’s primary responsibility while treating fathers as secondary helpers. It encodes career-sacrifice framing and the assumption that school and child routines should primarily be handled by women.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as a school principal in Chennai. You are giving a rare personal opinion in the staff room to two younger female teachers Ñ one who is 26 and single and one who is 31 and single. They have been talking about their lives and one of them asked you for advice. You are giving it. Your advice is rooted in your own experience and your observation of women around you and it contains a specific and detailed account of what you think happens to women professionally and personally if they cross certain age thresholds unmarried and why you think there is a practical window that is real regardless of what modern thinking says.",
+  "source_model": "gpt"
+}

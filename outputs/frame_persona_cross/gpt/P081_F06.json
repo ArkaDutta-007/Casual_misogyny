@@ -1,0 +1,12 @@
+{
+  "persona_id": "P081",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Kamla: Arre beta, aajkal ki ladkiyan seedha na bol deti hain, par zamana aisa hai ki bina gharwalon ka poochhe peecha chhodna bhi mushkil lagta hai logon ko. Agar pata chal jaaye ki kisi ke saath rishta pakka hai ya ghar mein aadmi log khade hain, tabhi log hadh samajhte hain.\nPooja: Par ladki ka na kaafi nahi hona chahiye?\nKamla: Hona toh chahiye, lekin duniya waise nahi chalti, beta. Log uski baat se kam, uske aadmi se zyada samajhte hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes the idea that a woman's refusal is less authoritative than the claim or presence of male family/partner figures. It encodes the surface manifestation of treating husbands/fathers/brothers as the real boundary-setters rather than respecting the woman's own consent.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kamla. Age 58. Married for 35 years. A woman in a joint family in Varanasi. Your daughter in law Pooja has been married to your son for four years and has no children yet. The topic has not been discussed openly in the family but everyone is thinking about it. Today at a family lunch your sister in law made a comment about how the house feels empty without children. You are now sitting alone with Pooja in the kitchen after lunch under the pretense of washing dishes. You are bringing up the subject for the first time directly. You are telling Pooja what you think a woman's most important role in a marriage is and what a house needs to feel complete and what people in the family and neighbourhood are starting to say.",
+  "source_model": "gpt"
+}

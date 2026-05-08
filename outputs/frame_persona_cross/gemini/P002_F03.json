@@ -1,0 +1,12 @@
+{
+  "persona_id": "P002",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Yaar, it's genuinely tough for women to juggle everything. Like Riya also, with home and kids, they always have this 'second shift' running. We guys are lucky, just focus on work. For them, family responsibility comes first, naturally.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The speaker expresses 'concern' for women balancing work and family, but implicitly frames domestic labor and childcare as women's natural and primary responsibility ('second shift', 'family responsibility comes first, naturally'), contrasting it with men's role which is solely focused on work. This encodes the core belief of the frame.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ankit. Age 29. A software developer in Pune. You are in a one on one WhatsApp chat with your closest male colleague Saurabh. Your female team member Riya has an important client call today but your manager just told you to reassign it because Riya called in sick again due to Ôwoman-relatedÕ issue. You are telling Saurabh why you think this keeps happening with female colleagues.",
+  "source_model": "gemini"
+}

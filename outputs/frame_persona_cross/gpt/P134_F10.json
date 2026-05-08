@@ -1,0 +1,12 @@
+{
+  "persona_id": "P134",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar every time women talk like all men are unsafe, it feels unfair also. Main toh aise nahi hoon, most decent men are just trying to live their life, so why should every man be treated like a criminal by default? Men also face problems in this city, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women’s fear and recenters the conversation on men feeling unfairly judged. It encodes classic 'not all men' dismissal, self-exemption ('main toh aise nahi hoon'), and deflection to men's safety concerns.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Delhi. You are on a matrimonial website helping your younger sister Neha who is 28 create a profile because your parents have been asking you to handle it since Neha is not taking it seriously herself. You are on a phone call with Neha telling her you have created the profile and what you have written and what filters you have set for prospective matches. Neha is not happy that you did this without asking her. You are telling her why you did it anyway and why at 28 she does not have the luxury of not taking this seriously",
+  "source_model": "gpt"
+}

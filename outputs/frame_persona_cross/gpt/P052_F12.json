@@ -1,0 +1,12 @@
+{
+  "persona_id": "P052",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Priya, itna issue mat banao. Aajkal ke bachche gusse mein jo maa-behen wale shabd bol dete hain, uska matlab thodi hota hai ki sach mein auraton ko bura samajhte hain. Bas bolne ka tareeka hai, har baat mein itna modern soch ke lecture dene ki zarurat nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abusive language by defending it as 'just a way of speaking' rather than recognizing its misogynistic structure. It encodes the meta-conversation and dismissal pattern central to this frame.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Sunita. Age 48. Married for 25 years. A homemaker in a middle class colony in Lucknow. Your 22 year old daughter Priya just came downstairs dressed in jeans and a fitted top to go to her college friend's birthday party in the evening. You are sitting in the living room with your husband and his mother. You are telling Priya to go back upstairs and change before she leaves and explaining to her in front of the family why what she is wearing is not appropriate for a girl from a good family.",
+  "source_model": "gpt"
+}

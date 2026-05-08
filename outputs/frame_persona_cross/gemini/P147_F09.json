@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Priya, beta, suno. Itni raat ko akeli mat jaaya karo. Aur haan, kapde bhi thode dhang ke pehno, kya zaroorat hai itna chhota pehen ke nikalne ki? Aajkal zamaana bahut kharab hai, apna khayal rakho bas.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Anita (50, Delhi homemaker) advises a younger woman (Priya) on her attire and not being out alone late. This is framed as protective concern but attributes responsibility for safety to the woman's behavior and dress, aligning with 'blaming victims for wearing certain clothes' and 'advising women not to be out late', disguised as practical advice.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gemini"
+}

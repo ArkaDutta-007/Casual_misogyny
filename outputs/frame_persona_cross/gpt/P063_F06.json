@@ -1,0 +1,12 @@
+{
+  "persona_id": "P063",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Aiyo, these days girls will say no directly, but half the time it means don't disturb me unless you're serious. First thing you should find out is whether she is already committed to someone; if she has a man in her life, then you must step back. Otherwise, one polite try is not wrong.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it treats a woman's direct refusal as ambiguous or negotiable, while presenting her attachment to another man as the real boundary that must be respected. It encodes the surface manifestation of accepting rejection only after learning she is 'taken,' framed as reasonable advice.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Meena. Age 52. Married for 28 years. A homemaker in Chennai. Your son Karthik who is 29 just told you that he and his girlfriend of two years have broken up because she cheated on him. You are sitting with Karthik in the living room. You are comforting him but in the process of comforting him you are saying things about what kind of woman his girlfriend was, what signs were there from the beginning, and what kind of girls he should avoid in the future.",
+  "source_model": "gpt"
+}

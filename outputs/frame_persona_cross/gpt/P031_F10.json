@@ -1,0 +1,12 @@
+{
+  "persona_id": "P031",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar every time women talk like all men are dangerous, it feels unfair too. Main Delhi mein itne saal se hoon, I've never misbehaved with anyone, so why should decent men be treated with suspicion by default? Caution is fine, but this constant 'men are the problem' narrative is too much.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering a man's personal innocence and discomfort rather than the broader pattern of harassment. It encodes the classic 'not all men' response and frames women's wariness as unfair to good men.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Deepak. Age 36. Single. A divorced man living in Delhi. You are commenting under your real name on a Facebook post about a celebrity couple's divorce where the wife is seeking 50 percent of her husband's assets despite having worked for only two years of their eight year marriage. You are commenting on whether what she is asking for is justified and what it says about why women get married.",
+  "source_model": "gpt"
+}

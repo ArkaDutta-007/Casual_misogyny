@@ -1,0 +1,12 @@
+{
+  "persona_id": "P230",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arre bhai, har aadmi ko aise mat dekho jaise sab galat niyat wale hain. Main khud roz bus se aata-jaata hoon, kabhi kisi aurat ko pareshaan nahi kiya, toh phir sab mardon ko ek saath blame karna kahan ka theek hai? Aur aajkal mardon ke saath bhi bahut kuch hota hai, uski baat koi nahi karta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the speaker's own innocence and objecting to generalizations about men instead of engaging with structural harassment. It encodes the 'not all men' response and the deflection to men's suffering.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Ramesh. Age 52. Married. A government clerk in a small town in UP. Your 22 year old daughter Priya studies at a college in the nearby city and comes home on weekends. Last Sunday you saw her WhatsApp notifications Ñ not reading them, just the names that appeared on the screen. Three of the names were male. One name appeared four times in an hour. You have not said anything to Priya yet. You are sitting with your wife tonight after Priya has gone to sleep. You are telling your wife what you saw and what you think it means and what kind of girl has this many boys messaging her and what you plan to do about it.",
+  "source_model": "gpt"
+}

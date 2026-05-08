@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre bahu ko samjhao, shaadi ke baad thoda sindoor, mangalsutra pehne to suhagan jaisi shobha aati hai. Aajkal ki ladkiyan bolti hain choice hai, par hamari parampara bhi koi cheez hoti hai.\nB: Haan, wahi to.\nA: Naam tak na badle, kuch pehne bhi na, to ghar-grihasthi mein thehraav kahan dikhega beti? Yeh sab pati ke mangal ka nishaan hota hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers and name change as natural requirements for a married woman’s identity and worth. It encodes tradition/completeness framing and judges women who do not wear sindoor or mangalsutra as lacking proper commitment or stability.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

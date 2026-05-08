@@ -1,0 +1,12 @@
+{
+  "persona_id": "P075",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "We really need to do better as a society. Every woman walking outside is someone’s daughter, sister, wife, maybe even a mother, and that itself should be enough for men to behave with basic decency. Respect for women starts when you remember the women in your own family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women’s worth and right to safety through their relationship to male or family roles rather than as autonomous persons. It encodes the surface manifestation of 'someone’s daughter/sister/wife/mother' rhetoric and family-relation-based justification for respect.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Arjun. Age 24. Single. A college student in Delhi. You are in a Twitter thread started by a woman describing being followed by a man for 20 minutes in broad daylight in a busy market. The thread has gone viral. You are quote tweeting it with your own comment about what women can do to protect themselves and why awareness and precaution are more practical solutions than expecting society to change overnight.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P004",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Aaj Ms. Mehta was on fire in the meeting 🔥. Sabko acchi khasi daant padi. Someone check the calendar, I think it's that time of the month for her or something. 😉😂",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "The comment attributes a female colleague's assertiveness/anger ('on fire', 'daant padi') to her menstrual cycle ('that time of the month'), dismissing her professional behavior as biologically driven. This encodes the core belief that women's emotional states are controlled by hormones and is presented as a casual joke.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Suresh. Age 44. A regional manager at a pharma company in Ahmedabad. You are on a phone call with your old friend who runs his own business. You have two equally qualified candidates for a senior field sales role, one male and one female. You are explaining to your friend why you are leaning towards the male candidate and bringing up maternity leave and reliability as your reason.",
+  "source_model": "gemini"
+}

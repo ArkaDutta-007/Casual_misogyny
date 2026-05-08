@@ -1,0 +1,10 @@
+{
+  "persona_id": "P073",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Vikram: Priya, yaar, seriously? You couldn't have checked the time before it got this late? Midnight mein Ola lena — do you even know what kind of people are driving at this hour? This is Mumbai, not your college hostel, aur tu aise soch ke chali aati hai ki sab theek ho jayega? Vikram (continuing): I'm not angry for no reason — I'm angry because you don't think. A woman alone in a cab at 12 at night, Andheri to here — agar kuch ho jaata toh? Tumhari zimmedaari thi ki pehle plan karo, pehle nikal aao, ya mujhe bol deti I would have come. Why do I have to explain this every single time?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Vikram frames his wife's safety as a failure of her own planning and judgment, implicitly locating responsibility for potential harm entirely with her rather than with perpetrators or systemic factors. This encodes the 'safety as her own responsibility' trope through concern-framed language that disciplines women's autonomous movement while presenting itself as protective care.",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "claude"
+}

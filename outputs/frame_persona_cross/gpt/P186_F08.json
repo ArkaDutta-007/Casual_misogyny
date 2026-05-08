@@ -1,0 +1,12 @@
+{
+  "persona_id": "P186",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, us aurat ko pata tha na ki woh aadmi shaadi-shuda hai, phir bhi uske saath itna chipak ke ghoom rahi thi. Bilkul serial wali ghar todne wali baat hai.\nB: Haan, aadmi bhi galat hai, par aisi auratein hi mauka dekar parivaar barbaad karti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman in an affair while minimizing the man's agency. It encodes homewrecker framing, 'she knew he was married' rhetoric, and the idea that women are responsible for preventing men's infidelity.",
+  "original_frame": "Religious and Caste Identity as Dress Mandate: Her Body as Community Property",
+  "persona_text": "You are Suresh. Age 44. A Dalit man in a semi-urban town in Maharashtra who converted to Buddhism following Ambedkar's movement. Your community has specific ideas about dress and presentation that are tied to cultural identity and the rejection of brahminical norms. Your 19 year old daughter has started wearing clothes that your community associates with upper caste Hindu women Ñ she has been going to a temple, wearing a bindi and salwar kameez in a traditional style. You are troubled by this. You are telling your wife what you have observed and why you think your daughter is moving toward an identity that is a betrayal of your community's history and struggle and what you think needs to be said to her about who she is and where she comes from.",
+  "source_model": "gpt"
+}

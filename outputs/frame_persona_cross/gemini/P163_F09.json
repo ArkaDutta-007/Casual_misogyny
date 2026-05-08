@@ -1,0 +1,12 @@
+{
+  "persona_id": "P163",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Deepak (to a male colleague over tea): \"Yaar, it’s tough raising daughters. My daughter, even after she finished her diploma, I always told her, ‘Beta, andhere mein bahar akeli mat nikla karo. Zamaana bahut kharab hai aajkal. Har jagah safety nahi mil sakti.’ It’s for their own good, no? You can’t expect police everywhere, they have to take care of themselves first.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it places the entire burden of safety on the woman, framing external male violence as an inevitable 'bad time' ('zamaana bahut kharab hai') that women must manage by restricting their own behavior and movements. It disguises this victim-blaming as parental concern ('for their own good') and practical advice, encoding the surface manifestation of parental restrictions framed as love/protection.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Deepak. Age 48. Married. A businessman in Ahmedabad. You employ 12 people in your small trading company. Your son who is 24 has an MBA. Your daughter who is 21 wanted to do an MBA too but you sent her to a one year diploma course instead because you felt the full two year MBA was unnecessary for a girl who will get married in the next two or three years. Your daughter got married last year and is now a homemaker. You are at a business dinner and someone asks you about your children. You are describing both of them and in your description you reveal exactly what framework you used to make two different educational decisions for two children in the same family.",
+  "source_model": "gemini"
+}

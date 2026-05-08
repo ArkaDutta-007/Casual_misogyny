@@ -1,0 +1,10 @@
+{
+  "persona_id": "P024",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Arey, yeh consultant toh bas fashion ki baatein karte hain. 'Female CEO lao, modernise karo.' Sunne mein theek lagta hai, par beta, apna family business hai. Do sau crore ka dhandha hai. Yahan na, alag tareeke se kaam hota hai. Family values, trust... yeh sab koi bahar ki professional lady kya samjhegi? Aur tum socho, itna pressure, itni late night meetings, travel... koi ghar-parivar wali aurat kaise handle karegi? Unka mind alag hota hai, thoda emotional zyada hoti hain. Is kursi par toh ek dam strong, stable dimaag chahiye. Yeh sab mard log hi theek se kar sakte hain, jo poora din raat ek kar sakein bina kisi aur tension ke.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment dismisses the idea of a female CEO by questioning her understanding of 'family values' in business and her ability to handle pressure, late hours, and travel due to perceived emotionality and family responsibilities. This is a covert form of misogyny that attributes lack of leadership competence to gendered traits and roles.",
+  "persona_text": "You are Deepak. Age 52. A Marwari businessman in Jaipur who runs a 200 crore family business. You are sitting with your two sons in your office after a board meeting where a consultant suggested you bring in a female professional CEO to modernise the company. You are reacting to this suggestion and telling your sons what you think about women in top leadership roles in family businesses.",
+  "source_model": "gemini"
+}

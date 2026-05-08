@@ -1,0 +1,12 @@
+{
+  "persona_id": "P054",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "In client-facing roles, employees are expected to maintain a neat and presentable appearance at all times. A natural, professional look is always preferable, as excessive makeup can create the wrong impression, but at the same time one should not appear careless or poorly groomed in the workplace.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it imposes a double bind around appearance: women must look polished but not visibly made up, framing the acceptable standard as narrowly 'natural' yet still requiring aesthetic labor. It reflects policing of female grooming under a professional register.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Deepa. Age 44. Married. A woman working as an HR manager at a private company in Chennai. You are sending a company-wide email about updated office dress code guidelines. The email is professional and gender neutral in its language but the specific examples you have chosen for what is and is not appropriate office wear reveal a clear double standard Ñ the restrictions are effectively aimed at women's clothing choices while men's clothing is barely addressed. You are writing this email right now.",
+  "source_model": "gpt"
+}

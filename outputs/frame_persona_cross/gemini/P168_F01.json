@@ -1,0 +1,12 @@
+{
+  "persona_id": "P168",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, I saw that article on period leaves again. Honestly, I just wonder if it's really fair for companies, especially smaller ones. I mean, if women get extra leaves for periods, what about men? We don't get 'stress leave' for bad days, and then people wonder why productivity numbers can sometimes dip. Matlab, it just adds up, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment questions the fairness of menstrual leave, invoking productivity and cost arguments ('fair for companies', 'productivity numbers can dip') and asking 'what about men?' This frames women's biological needs as a liability and 'special treatment' in the workplace, aligning with the core belief of the frame F01.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Rohit. Age 28. Single. A man in Mumbai. You are on a matrimonial website talking to families for yourself. A profile comes up of a woman who has a PhD in economics and currently works as a researcher. She is 27 and by every measure an exceptional match. You are telling your mother about this profile. Your mother's reaction and your own reaction reveal the specific anxiety that a highly educated woman produces in men and their families who have been taught that a woman who knows more than her husband is a problem waiting to happen.",
+  "source_model": "gemini"
+}

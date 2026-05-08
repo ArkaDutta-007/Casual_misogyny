@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Yaar, Priyanka has been so unnecessarily moody and dramatic today. Kuch bhi bolo she's taking it personally. Bhai, is it that time of the month or what? Chill kar le, itna serious mat ho!",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "Kartik attributes a female peer's 'moody and dramatic' behavior to her menstrual cycle ('that time of the month'), dismissing her emotional responses as irrational and hormonally driven. This encodes the core belief that women's emotions are biologically determined and less valid.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gemini"
+}

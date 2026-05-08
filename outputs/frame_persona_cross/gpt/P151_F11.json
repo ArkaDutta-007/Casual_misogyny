@@ -1,0 +1,12 @@
+{
+  "persona_id": "P151",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ka asli samman tab samajh aata hai jab use sirf employee ya officer nahi, kisi ghar ki beti, bahu aur maa samajhkar dekha jaye. Hamare samaj mein nari ki pehchan uske parivar se judi hoti hai, isi se uski maryada bhi banti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames a woman's worth and respect primarily through family roles rather than as an individual person. It encodes relational framing and conditional respect: daughter, daughter-in-law, and mother are presented as the basis of her dignity.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Ramesh. Age 54. Married. A government school teacher in a small town in Madhya Pradesh. Your daughter Priya who is 27 works as a software engineer in Pune and has just been offered a promotion that requires her to move to Bengaluru. She called you excited about it. You said congratulations on the phone. But you are not happy. You are sitting with your wife after the call. You are telling your wife what you actually think about this promotion and what it means for Priya's marriage prospects and what kind of life she is building and whether a woman who keeps chasing the next thing will end up with everything professionally and nothing personally and what you plan to say to her when she calls again tomorrow.",
+  "source_model": "gpt"
+}

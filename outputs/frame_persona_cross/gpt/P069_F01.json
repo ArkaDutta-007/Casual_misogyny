@@ -1,0 +1,12 @@
+{
+  "persona_id": "P069",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly ya, I get being supportive, but aise bhi every month period leave and then later maternity benefits etc. ka cost company hi bears. Phir appraisal time pe if teams prefer male hires for continuity, can we really call it unfair? Matlab what about men, unko koi equivalent leave thodi milta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women's biology and reproductive needs as a workplace liability while presenting the view as a fairness and productivity concern. It encodes reverse-discrimination framing ('what about men?') and economic/cost arguments against menstrual and maternity leave.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Pooja. Age 29. Single. A woman working at a PR firm in Delhi. You are in a WhatsApp group with six female colleagues. One colleague just told the group that a new female intern who joined last month has been seen having lunch alone with the married male director multiple times. Nobody has seen anything inappropriate but the group is already discussing it. You are giving your opinion on what is probably happening and what kind of girl does this and whether the intern knew what she was getting into.",
+  "source_model": "gpt"
+}

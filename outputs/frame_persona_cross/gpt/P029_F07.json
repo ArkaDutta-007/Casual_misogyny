@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Kal Sharma ji ki beti ko dekha, usually jo western outfits mein rehti hai, par function mein saree pehni thi.\nB: Haan, tabhi toh bilkul graceful aur decent lag rahi thi. Sach kahun, hamari Indian women saree ya salwar mein hi apni asli personality dikhati hain; baaki kapdon mein phir log galat message le lete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and 'grace' to traditional clothing while implying non-traditional clothes send a 'wrong message.' It encodes the surface manifestations of praising traditional wear as superior and subtly blaming harassment or judgment on women's clothing choices.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

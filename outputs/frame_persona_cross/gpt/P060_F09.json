@@ -1,0 +1,12 @@
+{
+  "persona_id": "P060",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Beta, bura mat mano, but aajkal zamaana bilkul theek nahi hai. Ladki ko thoda sambhal ke rehna padta hai — late tak bahar mat raho, decent kapde pehno, aur akeli mat ghooma karo; baad mein kuch ho jaye toh log pehle yahi poochte hain ki itni raat ko kyun thi aur kis ke saath thi. Main tumhe rok nahi rahi, sirf practical baat bol rahi hoon.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s safety as their own responsibility and normalizes social restriction instead of challenging male violence. It encodes protective framing, restriction advice, and post-assault victim questioning ('kyun thi', 'kis ke saath thi').",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 18 year old daughter Sana has started wearing more western clothes to college Ñ jeans, fitted tops, no dupatta. Your husband has noticed and is angry. You are sitting with Sana in her bedroom with the door closed trying to talk to her before her father does. You are telling Sana why you think she should dress more modestly, mixing both religious reasoning and practical concern about what people will say, and asking her to think about the family's reputation in the community.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: Ippo paatha, ponnu ellam romba makeup pottu vera maari theriyudhu. Nerla paatha adhe face-e illa.\nB: Aana konjam kooda ready aagala na, appuram solluvaanga avalukku avale paathukkara pazhakkam illa-nu.\nA: Adhan sollren, simple-a natural-a irundha podhum, ivlo scene edhukku.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it evaluates women through a double bind: criticizing visible makeup as deceptive while also expecting them to maintain appearance. It encodes the 'natural beauty' preference, deception framing, and policing women who either wear 'too much' makeup or 'don't take care of themselves.'",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

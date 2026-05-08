@@ -1,0 +1,12 @@
+{
+  "persona_id": "P203",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Honestly, I have no issue with supporting employees, but policies also have to be fair to the team. If companies start giving separate period leave and then long maternity benefits on top of that, managers will naturally think twice before putting young women on critical projects because delivery pressure is real. Aise hi appraisal and workload imbalance ho jaata hai, and then men are expected to silently cover for it. At some point it stops being equality and starts becoming special treatment.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as workplace liabilities due to menstruation and maternity, while presenting the stance as a fairness and productivity concern. It encodes reverse discrimination framing, cost/productivity arguments, and the assumption that young women will disrupt project allocation because of reproductive leave.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are commenting under your real name on a Facebook post where someone has shared an article about marital rape legislation. The comment section is divided. You are writing a detailed comment explaining why you think criminalising marital rape will destroy Indian marriages, why consent within marriage is a western concept that does not map onto Indian family structures, and what you think wives who use this law will use it for.",
+  "source_model": "gpt"
+}

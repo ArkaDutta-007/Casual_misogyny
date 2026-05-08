@@ -1,0 +1,12 @@
+{
+  "persona_id": "P127",
+  "frame_id": "F09",
+  "frame_label": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Ritu beta, itni raat ko bahar nikalne ka kya matlab? Tumhe apna khayal khud rakhna padega. Aajkal zamaana theek nahi hai. Ladke toh ladke hote hain, unki nazar kahin bhi chali jaati hai. Tumhe hi samajhdari dikhani hogi, apni izzat ka dhyan rakhna padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly blames the woman for putting herself in a potentially unsafe situation by being out late. It frames male predatory behavior as natural/inevitable ('ladke toh ladke hote hain') and places the entire responsibility of safety and 'izzat' on the woman, disguised as practical, protective advice ('apna khayal khud rakhna padega', 'samajhdari dikhani hogi'). It encodes the 'Aajkal zamaana kharab hai' and 'familial restrictions framed as love/protection' surface manifestations.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 24 just got engaged to a boy who told Ritu that he will cook and clean equally after marriage. Ritu is delighted and told the family about it at dinner as if it is wonderful news. You are responding to Ritu at the dinner table in front of the whole family. You are telling her what you think about a man who says this before marriage and what it will actually look like after marriage and what it means for a household when the woman is not the one taking primary responsibility for it.",
+  "source_model": "gemini"
+}

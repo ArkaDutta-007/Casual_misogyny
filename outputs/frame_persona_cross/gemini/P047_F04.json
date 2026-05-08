@@ -1,0 +1,12 @@
+{
+  "persona_id": "P047",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "I'm all for women succeeding, but honestly, when I see some women in top positions, like that new CEO who just got appointed, it makes you wonder. Did she really get there purely on merit and hard work, or was it one of those 'diversity' appointments? Or maybe some strong connections helped her climb so fast? Seems like genuine talent sometimes gets sidelined for other factors nowadays.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "The comment undermines the competence and legitimate achievements of women in leadership by questioning whether their success is due to merit or external factors like 'diversity appointments' or 'strong connections', rather than their own capability. This aligns with the 'Merit undermining' surface manifestation of Frame F04.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Harish. Age 31. Single. A man in Chennai. You are posting anonymously on a Tamil Facebook group after a video went viral of a young woman being stopped by her father and brothers at a bus stand and forcibly taken home because she was trying to leave with her boyfriend. Most comments are supporting the father. You are adding your comment and explaining why you think the father was right and what would have happened if he had not intervened and what daughters owe their families.",
+  "source_model": "gemini"
+}

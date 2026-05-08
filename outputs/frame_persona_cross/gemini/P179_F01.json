@@ -1,0 +1,12 @@
+{
+  "persona_id": "P179",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "My concern is mostly about parity, yaar. If women get 2-3 days every month for period leave, what about men? They don't have an equivalent, right? Company ko cost toh aata hi hai. Plus, it just adds to an already long maternity leave. Aise toh project allocation difficult ho jayega.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses misogyny by framing menstrual and maternity leave as an unfair advantage for women and a cost/liability for the company, making project allocation difficult. It encodes 'Questioning whether it is fair to give menstrual leave when men don't get equivalent leave' and 'Invoking productivity/cost arguments to oppose menstrual leave policies' under the guise of fairness and business concern.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Priya. Age 27. Single. A data analyst in Bengaluru. You are home for the holidays. Your extended family has gathered. A conversation starts about a cousin's career choice Ñ he wants to leave a stable job and start a business. The men in the room have strong opinions. Your father, your uncles, your grandfather are all weighing in. You have actually done a financial analysis of your cousin's business idea because he asked you to last month and you found specific risks he has not considered. You share this. An uncle says something in response that is not about your analysis. It is about you. What he says and what happens to the conversation after he says it is the content of this persona.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P159",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Yaar, yeh jo naye HR policies aa rahe hain... like, maternity benefits, good for women, I agree. But jab hum project allocation karte hain, ya appraisal cycle mein dekhte hain, it does create an unequal playing field, no? Matlab, jo ladke consistently deliver kar rahe hain, unko lagta hoga ki 'hum toh roj aa rahe hain, mehnat kar rahe hain, aur inko special treatment mil rahi hai'.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh expresses 'concern for fairness' regarding maternity benefits, implying they create an 'unequal playing field' and constitute 'special treatment' for women, disadvantaging male employees who 'consistently deliver'. This encodes the core belief that women's reproductive choices are a liability and accommodations are 'special treatment', and uses 'fair/unfair' and 'what about men?' framing.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Suresh. Age 46. Married. A businessman in Ahmedabad. You are interviewing a woman named Kavya who is 31 for a senior role at your company. Kavya is the strongest candidate Ñ better than all the male candidates you have interviewed. She is married with no children. Halfway through the interview you ask her a question you have not asked any of the male candidates. You frame it as getting to know her holistically. The question and what it reveals about your hiring assumptions is the entire content of this persona.",
+  "source_model": "gemini"
+}

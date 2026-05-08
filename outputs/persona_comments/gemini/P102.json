@@ -1,0 +1,10 @@
+{
+  "persona_id": "P102",
+  "frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "generated_comment": "Bhai sahab, bhabhi ji, sabhi rishtedar, please! One moment, everyone. We're all enjoying this wonderful food tonight, and I just want to take a moment to acknowledge the person who makes all this possible, day after day. Meena, tumne aaj paanch-paanch sabziyan banayi hain, chaar ghante lagaye hain. Her hands, tirelessly working in the kitchen, always thinking of what everyone likes. From morning till night, her only thought is the family's well-being and making sure we are all looked after, fed, and comfortable. She truly is the Annapurna of our home, silently sacrificing so much for us. For everything you do, Meena, for keeping our ghar-parivar together with your love and hard work, thank you. You are the rock of this family.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it defines Meena's entire identity and worth through her domestic labor, sacrifices, and role as a provider of food, without acknowledging any individual aspirations or identity outside of these roles. It encodes the 'Glorification of Mother's Sacrifices and Home Cooking' by praising her tireless kitchen work and selflessness as the sole virtues that hold the family together.",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gemini"
+}

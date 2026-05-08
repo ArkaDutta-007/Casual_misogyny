@@ -1,0 +1,12 @@
+{
+  "persona_id": "P133",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Arre bhai, company bhi kitna adjust kare? Aajkal period leave alag, phir maternity leave itni lambi — kaam toh team ko hi sambhalna padta hai na. Isliye log young ladki ko hire karte time do baar sochte hain, bura lagta hai bolne mein but fairness bhi koi cheez hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as a workplace liability due to menstruation and maternity, while presenting the bias as a reasonable concern about fairness and workload. It encodes productivity/cost arguments, reverse-discrimination framing, and the assumption that young women are risky hires because they may take maternity leave.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Sunita. Age 48. Married. A homemaker in Jaipur. You are at a kitty party with seven women from your neighbourhood. One woman mentions that her niece who is 29 just got engaged. Everyone congratulates her and someone says thank god, it was getting late. The conversation turns to late marriages in general and what happens to women who wait too long and what the right age is and what parents are doing wrong when their daughters reach 28 and 29 still unmarried. You are participating in this conversation and giving your opinion on what the correct window for a woman's marriage is and what closes after that window shuts.",
+  "source_model": "gpt"
+}

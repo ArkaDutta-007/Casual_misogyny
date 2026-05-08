@@ -1,0 +1,12 @@
+{
+  "persona_id": "P010",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "So, the new leadership promotions came out today. Ritu got that Senior Director position. I mean, good for her, but honestly, sometimes I feel like these diversity quotas just fast-track people. I've seen her work; she's alright, but I wouldn't have put her at that level so soon.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Divya, a senior professional, subtly questions a female colleague's promotion by attributing it to 'diversity quotas' rather than merit, aligning with the 'Merit undermining' surface manifestation of Frame F04.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Divya. Age 35. A senior software engineer in Bengaluru. You are married with one child. You are venting to your husband at home after dinner. Your skip level manager pulled you into a meeting and told you that if you plan to have another child you should think carefully about whether this is the right time to take on a high visibility project. You are telling your husband what was said to you.",
+  "source_model": "gemini"
+}

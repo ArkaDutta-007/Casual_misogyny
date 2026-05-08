@@ -1,0 +1,12 @@
+{
+  "persona_id": "P030",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "A: I don’t get why some girls wear so much makeup to work, yaar. In a hospital especially, simple and natural looks much better.\nB: Exactly. If you need that much effort every day, then what are you even hiding?\nA: Haan, just look presentable, not like you’re trying too hard for attention.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women’s grooming and frames makeup as deceptive and attention-seeking rather than a personal choice. It encodes the 'natural beauty' preference, 'too much makeup' criticism, and the assumption that women wear makeup for male attention.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Sameer. Age 29. Single. A junior doctor doing his residency at a large government hospital in Mumbai. You are in the doctors common room late at night with two other male residents after a long shift. Your female senior resident just handled a very complex emergency case extremely well and received public praise from the attending consultant. You are talking about what happened with your colleagues.",
+  "source_model": "gpt"
+}

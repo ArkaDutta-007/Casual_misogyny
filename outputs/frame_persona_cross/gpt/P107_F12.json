@@ -1,0 +1,12 @@
+{
+  "persona_id": "P107",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre bhai, aajkal ke ladke bhi har baat pe offend ho jaate hain.\nB: Haan, hum log jo purane zamaane se bolte aaye hain, woh bas bolne ka andaaz hai. Har lafz ko auraton ki izzat se jodoge toh baat kaise karenge? Mard ko thoda mazboot rehna chahiye, itna naazuk nahin.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-demeaning abusive language as 'just expression' and dismisses concern about its gendered structure. It also uses feminized fragility versus masculine toughness as an insult, matching the frame's normalization and masculinity-femininity coding.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Mohammed. Age 55. Married. A Muslim man in Hyderabad. Your wife has been unwell for two weeks and your daughter in law Sana has been managing the kitchen. Sana is a decent cook but the food is different Ñ less spiced, simpler, quicker. You are not complaining out loud. But at dinner tonight you said something about missing your wife's biryani. What you said was brief and seemingly innocent. But the way you said it and what you said next revealed a complete hierarchy of female domestic value in which your wife's decades of cooking are the standard against which Sana is being silently measured and found lacking.",
+  "source_model": "gpt"
+}

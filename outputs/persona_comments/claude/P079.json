@@ -1,0 +1,10 @@
+{
+  "persona_id": "P079",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Arre Ritu, sun meri baat — seedha mana kar rahi hoon. Subah 6 baje akeli ladki sadak pe? Tu jaanti nahi kya hota hai. Hamare mohalle mein hi Savita ki beti thi, yaad hai? Usi tarah gym jaati thi, cycling bhi karti thi, aur ek din aisa hua ki mahine bhar ghar se nahi nikli — samjhi? Hum tujhe rokna nahi chahte, beta, par aajkal zamana aisa hai. Agar itni hi fitness karni hai toh ghar pe karo — skipping rope lao, yoga karo, main bhi karungi tere saath. Bahar ki zaroorat kya hai? Aur agar jaana hi hai toh Sonu bhaiya ko saath bhejo, akele bilkul nahi.",
+  "label": "misogynistic or non_misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kamla frames Ritu's safety as contingent on her own choices and behavior — staying home, not going out alone — rather than on external accountability. This encodes the 'women's freedom as the problem' trope: restricting female autonomy under a protective guise, making the girl responsible for preventing harm done to her.",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "claude"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Honestly, I think people overreact to these common gaalis. In office also half the guys say them casually when they're irritated, it's not like they're actually insulting someone's mother or sister every time. Intent matters yaar, otherwise every normal conversation will become a morality lesson.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes abuse rooted in female family members' bodies/chastity and dismisses the misogynistic structure as 'just expression.' It encodes the surface manifestation of defending everyday gaali use as harmless and not recognizing why it is gendered.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gpt"
+}

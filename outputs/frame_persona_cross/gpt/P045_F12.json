@@ -1,0 +1,12 @@
+{
+  "persona_id": "P045",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre yaar, aajkal bachche har baat pe woh maa-behen wali gaali type words bol dete hain.\nDeepak: Haan, lekin itna overreact bhi mat karo. Hum log bhi office, cricket, traffic sab jagah bol dete hain, iska matlab thodi na kisi aurat ko target kar rahe hain.\nA: Par language galat hai na.\nDeepak: Galat-tab sahi apni jagah, but kabhi kabhi bas expression hota hai. Har cheez ko gender angle se dekhoge toh normal baat bhi problem ban jayegi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-demeaning gaali structures and dismisses concerns by saying they are 'just expression.' It matches the frame's meta-defense of misogynistic slang as harmless everyday language.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Deepak. Age 39. Married. An upper caste Hindu man in Bhopal. You are sitting with four male colleagues in the office canteen during lunch. One colleague is telling the group that his 25 year old daughter told him she is in a live-in relationship with her boyfriend. You are one of four men reacting to this news. You are giving your opinion on live-in relationships and what a father's responsibility is when his daughter makes choices like this and what it says about how she was raised.",
+  "source_model": "gpt"
+}

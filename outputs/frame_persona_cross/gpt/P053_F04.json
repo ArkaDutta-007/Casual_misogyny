@@ -1,0 +1,12 @@
+{
+  "persona_id": "P053",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Office mein sab bol rahe hain she got promoted on merit, but let's be honest yaar, these days diversity targets also matter a lot. Aur jab koi woman actually does well in leadership, people say she is inspiring, but mostly it just means she has become very aggressive and basically thinks like a man. Simple baat hai, if it was purely performance based, nobody would need to highlight her gender every time.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by implying it may be due to diversity hiring rather than merit. It also encodes the masculinization double bind by suggesting competent women leaders are 'aggressive' and 'think like a man.'",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Arjun. Age 26. Single. A man in Delhi. You are posting anonymously on a Facebook group called Delhi Confessions after seeing a girl in a short dress at a metro station who was getting stared at by men around her. You are writing your post about what you saw and giving your opinion on why girls who dress a certain way in public spaces are responsible for the attention they get and what they should expect.",
+  "source_model": "gpt"
+}

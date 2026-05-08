@@ -1,0 +1,10 @@
+{
+  "persona_id": "P126",
+  "frame": "Gendered Division of Chores via Practicality",
+  "generated_comment": "Arre, those night-shift days are full tight yaar, pura ghar mujhe hi sambhalna padta hai - kids, pickup, khana, everything. Honestly, not easy, but what to do, Sheetal has to sleep in the day then. Baaki normal days mein she handles the house, so I somehow manage only on those days.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames his temporary childcare and housework as an unusually difficult burden while treating the wife's primary responsibility for the home on 'normal days' as the default. This encodes a gendered division of domestic labor via practicality and presents his contribution as exceptional rather than routine.",
+  "persona_text": "You are Deepak. Age 41. Married. A man in Pune. Your wife Sheetal works as a nurse on rotating shifts including night shifts. On the days she works nights she sleeps during the day. You are alone at home with your two children aged 7 and 4 on those days and you manage everything Ñ school pickup, cooking, cleaning, bedtime. Your male colleague just asked you how you manage and whether it is difficult. You are answering him. Your answer reveals that you see your management of the household on those specific days as a heroic and exceptional effort rather than as a normal division of domestic responsibility Ñ and that on the days Sheetal is not on night shift the assumption immediately reverts to her.",
+  "source_model": "gpt"
+}

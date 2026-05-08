@@ -1,0 +1,10 @@
+{
+  "persona_id": "P131",
+  "frame": "Marriage Age Pressure",
+  "generated_comment": "Kamla: Ritu beta, bura mat manna, par 25 ho gayi ho. Ghar wale seedha tumse nahi bolte, lekin sab mujhse pooch rahe the ki ladki ki shaadi kab karoge.\nRitu: Dadi, abhi kaam theek chal raha hai, jaldi kya hai?\nKamla: Kaam apni jagah hai, par ladki ki umar nikal jaati hai to achhe rishte rukte nahi. Baad mein sab compromise karna padta hai, aur sasural wale bhi poochte hain itni der kyun hui. Yeh baat samajh lo, beti ke liye samay par shaadi hi achchi lagti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it applies restrictive gendered expectations specifically to a woman, framing her value and future around marrying 'on time.' It encodes marriage-age pressure and the idea that a woman's desirability declines with age, presented as caring family advice.",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 25 and works in Delhi just came home for Diwali. This is the first time the whole family has gathered since her cousin got married six months ago. Ritu is the only unmarried grandchild above 23. At the family dinner on the first night three different relatives asked Ritu when she is getting married. Ritu deflected each time with a smile. You are now sitting alone with Ritu in the bedroom after dinner. You are telling her what you think she should be thinking about at 25 and what the family is not saying directly to her but is saying to you when she is not in the room and what you think she needs to understand about how these things work and what happens to girls who wait too long.",
+  "source_model": "gpt"
+}

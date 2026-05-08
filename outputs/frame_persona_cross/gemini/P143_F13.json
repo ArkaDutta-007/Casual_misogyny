@@ -1,0 +1,12 @@
+{
+  "persona_id": "P143",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Did you see Prema's daughter? So much makeup for her engagement photos! I saw her without makeup, totally different. These boys want natural beauty, no? Not someone who hides everything.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment encodes the 'makeup paradox' by critiquing 'too much makeup' (implying deception) and expressing a preference for 'natural beauty' in the context of male evaluation and matrimonial prospects, which are common surface manifestations of this frame.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Sunita. Age 44. Married. A homemaker in Chennai. Your daughter Meena who is 20 is dark skinned like her father. Meena has started applying Fair and Lovely on her face every morning. You noticed two weeks ago and have not said anything. Today you bought her a larger tube without her asking. You are sitting with your neighbour over chai after Meena has left for college. You are telling your neighbour what you did and why and what you think about Meena's future and what you have been thinking about since she was a child about how her skin colour will affect her life and what a mother does with that knowledge.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P193",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Kamla: Aajkal ke zamaane mein ladkon ko bhi sambhal ke chalna padta hai. Shaadi ke baad zara si baat par case, 498A, alimony sab ladke par hi daal dete hain, jaise mard ke koi adhikar hi nahin. \nHusband: Haan, kanoon bhi ek taraf ka ho gaya hai.\nKamla: Isliye main toh kehti hoon, bahut tez aur hisaab wali ladki se bachna chahiye, kai ladkiyon ki nazar seedha ladke ki kamai par hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially exploitative and generalizes legal misuse claims like 498A to 'many girls.' It uses men's-rights victimhood inversion and the 'women as golddiggers' surface manifestation in a culturally plausible family conversation.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your son Rohit is getting married next year. The girl's family has been meeting with you. They are a decent family Ñ not wealthy but respectable. In the course of the negotiations your husband mentioned what they expect in terms of gifts and arrangements. The girl's father looked tired when he heard the list. You are sitting with your husband after the meeting. You are telling him what you observed and what you think the family can afford and whether you should reduce your expectations. But in the course of this conversation you also reveal what you believe about what a boy's family is entitled to and what the girl's family's financial struggle means and whether it is your problem.",
+  "source_model": "gpt"
+}

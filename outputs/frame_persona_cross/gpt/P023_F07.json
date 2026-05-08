@@ -1,0 +1,12 @@
+{
+  "persona_id": "P023",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, Indian wear suits girls much better yaar. Saree or even a simple salwar looks more decent and graceful—these ultra-western outfits just send the wrong vibe sometimes.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links women's clothing to decency and character, implying western clothes make a woman less respectable. It encodes the 'traditional = respectable' and backhanded dress-policing surface manifestation.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Mohit. Age 27. A junior employee at a tech startup in Bengaluru. You are in the office cafeteria having lunch with three male colleagues after your female engineering manager just led a very strong all hands presentation. One colleague says she was impressive. You are responding and giving your actual opinion of her.",
+  "source_model": "gpt"
+}

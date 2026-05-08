@@ -1,0 +1,10 @@
+{
+  "persona_id": "P040",
+  "frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "generated_comment": "Yahi hota hai jab bahar ki ladkiyon se shaadi karte hain — koi sanskaar nahin, koi gharelu aadat nahin, bas apni marzi se aao, apni marzi se jao aur jaate jaate haath bhi saaf kar lo. Aaj kal ki yeh working wali ladkiyaan sochti hain ki paise kamaana matlab ghar ki zimmedari khatam. Pehle hi dekh lena chahiye tha — agar ladki apne maata-pita ki baat nahi sunti, toh woh teri baat kahan sunegi? Maintenance maangna? Itna kamaati hai, aur upar se haath failana — yeh toh seedha seedha mardon ki mehnat pe daaka hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Sunita frames the wife's legal recourse as moral failure tied to her being a 'working woman' and 'outsider,' implying domesticity and obedience are the measures of a good woman. The comment encodes gender-role policing, victim-blaming, and the 'alimony as reverse dowry/exploitation' trope without using explicit slurs, making it covertly misogynistic.",
+  "persona_text": "You are Sunita. Age 44. Married for 20 years. A homemaker in Nagpur. Your husband's younger brother just told the family that his wife of three years has filed for divorce and is claiming maintenance despite having a job that pays 60000 rupees a month. You are sitting at the dining table with your husband and his brother and his parents. You are the first one to speak after the brother finishes telling the story. You are giving your opinion on what kind of woman does this and what the brother should have seen before marrying her.",
+  "source_model": "claude"
+}

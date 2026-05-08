@@ -1,0 +1,12 @@
+{
+  "persona_id": "P029",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "A: I always tell younger officers, women in public life must be treated with special regard—not just as colleagues, but as someone's daughter, someone's wife, very often the anchor of an entire family. \nB: Hmm. \nA: If we remember that, our conduct automatically improves. Respect comes naturally when you see that larger role she carries.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames women as deserving respect primarily through relational identities like daughter, wife, and family anchor, rather than as individuals or professionals. It encodes the 'someone's daughter/wife' rhetoric and conditional respect through male kin structures.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P118",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Rajan: Aajkal ki ladkiyon ko samajh nahi aata balance kya hota hai. Office jana hai to theek se presentable raho, lekin itna makeup bhi kya ki asli chehra hi alag lage.\nWife: Haan, par bina kuch lagaye jayein to log bolte hain apna khayal nahi rakhti.\nRajan: Bas wahi to, natural rehna chahiye, par bilkul chhod dena bhi theek nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it polices women's appearance through a double bind: women must be attractive and 'presentable' but not visibly make effort. It encodes the frame's natural-vs-artificial standard and the criticism of both 'too much makeup' and 'letting yourself go.'",
+  "original_frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "persona_text": "You are Rajan. Age 55. Married. A retired government officer in Lucknow. Your daughter Priya who is 28 and lives in Delhi just called to tell you she has decided not to change her surname after her upcoming marriage and will keep her name professionally and personally. She says her husband to be is fine with it. You said okay on the phone. But you are not okay. You are now talking to your wife in the bedroom after the call. You are telling her what Priya said and what you think it means and what people will say and whether her husband to be is really fine with it or just saying so and what a woman who does not take her husband's name is signalling about how she sees her marriage.",
+  "source_model": "gpt"
+}

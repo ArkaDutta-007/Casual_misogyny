@@ -1,0 +1,12 @@
+{
+  "persona_id": "P124",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Let’s maybe not overread every heated reaction in the office. Sometimes when someone is unusually emotional or snapping at basic feedback, it may just be hormones and not a serious workplace issue. Not being insensitive, just being practical.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it attributes women’s anger or professional disagreement to hormones, which dismisses their reactions as biologically driven rather than valid. It encodes the surface manifestation of characterizing a woman's frustration as 'hormonal' in a workplace context.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Vikram. Age 36. Married. A marketing manager in Mumbai. You are posting under your real name on LinkedIn after reading an article about companies offering household management stipends for working women. You are writing a comment about why you think this kind of policy misunderstands how households actually work and what the natural and practical division of domestic responsibility looks like in most Indian families and why this is not a gender issue but a logistics issue.",
+  "source_model": "gpt"
+}

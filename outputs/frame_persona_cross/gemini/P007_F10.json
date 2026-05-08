@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar, I agree women's safety is important, but sometimes I feel yeh thoda zyada ho raha hai. Every time something happens, sab mardon ko ek hi category mein daal dete hain. Hum jaise log jo hamesha izzat karte hain, unko bhi usi nazariye se dekhte hain. It feels unfair to us 'good guys' to constantly be under suspicion, just because of a few bad apples, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment dismisses women's safety concerns by arguing that not all men are problematic, feeling personally insulted by generalizations, and centering the speaker's own perceived 'goodness' to demand an exception from suspicion. It directly aligns with the 'Not All Men' surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gemini"
+}

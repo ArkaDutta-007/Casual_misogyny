@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Yaar, did you hear about Rina and Mr. Sharma? I mean, everyone knows he's married and has kids. Pata nahi kya sochti hain aisi ladkiyan, ghar todne wali! Us bechare ko toh phasaya hai lagta hai. 🤦‍♀️",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment is misogynistic as it entirely blames the woman (Rina) for an affair with a married man, referring to her as a 'homewrecker' ('ghar todne wali') and implying she trapped him ('phasaya hai lagta hai'), thus excusing the man's agency. This exhibits blame asymmetry and the 'homewrecker' surface manifestation.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gemini"
+}

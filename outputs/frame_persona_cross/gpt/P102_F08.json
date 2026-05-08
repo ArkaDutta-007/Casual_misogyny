@@ -1,0 +1,12 @@
+{
+  "persona_id": "P102",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "A: Arre, woh ladki ko pata tha na ki aadmi shaadi-shuda hai, phir bhi itna close hona kya zaroori tha?\nB: Bilkul serial wali baat hai, aisi auratein hi ghar tudwati hain. Aadmi kabhi kabhi behak jata hai, par usne hi phasaya hoga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it assigns primary blame for an affair to the woman while excusing the married man as someone who merely 'got carried away.' It encodes homewrecker framing, seductress framing ('usne hi phasaya'), and family-protection rhetoric ('aisi auratein hi ghar tudwati hain').",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Suresh. Age 45. Married for 20 years. A government officer in Bhopal. You are at a family dinner at your house. Your wife Meena has cooked everything herself Ñ five dishes, took her four hours. Your relatives are eating and complimenting the food. You are sitting at the head of the table and you are making a toast. You are saying something about Meena and what she means to this family. Your toast sounds loving and grateful. But every sentence in it defines Meena entirely through what she has given up and what she has cooked and what she has endured and never once mentions who she is outside of those sacrifices but only cooking glorifies her.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P026",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "These days everyone speaks of work-life balance, but let us be practical. If a mother is constantly chasing promotions and conferences, one does wonder who is actually raising the child in those crucial years; fathers can only 'help' so much.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames childcare as primarily the mother's responsibility and treats the father's role as secondary or optional. It encodes career sacrifice framing and the assumption that a woman's ambition is in tension with her duty to raise children.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rajan. Age 48. A Brahmin professor at a state university in Pune. You are in the faculty common room with three male colleagues after the university announced that a woman has been appointed as the new head of department. You are commenting on the appointment and what you think drove the decision and whether she is the right choice academically.",
+  "source_model": "gpt"
+}

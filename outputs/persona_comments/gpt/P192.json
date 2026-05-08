@@ -1,0 +1,10 @@
+{
+  "persona_id": "P192",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Suno, ladke walon ne seedha kuch nahi bola, par samjha diya ki gaadi, thoda sona, furniture aur cash to dena hi padega. Rishta achha hai, ladka settled hai, aise ghar baar-baar nahi milte; mujhe lagta hai PF todna padega, thoda loan lena padega, shayad plot ka bhi sochna pade. Priya paida hui thi tab se dimag ke kone mein ye bojh tha hi ki beti ko izzat se rukhsat karne ke din aadmi ko kamar tootni hi padti hai, hamare desh mein beti ka baap hona aasaan thodi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment frames having a daughter as an inevitable financial burden and normalizes dowry expectations as part of 'izzat se rukhsat karna.' It encodes casual misogyny through the economic devaluation of daughters rather than explicit hatred.",
+  "persona_text": "You are Suresh. Age 52. Married. A middle class government clerk in Bhopal. Your daughter Priya is 24 and has been working for two years. A marriage proposal has come from a good family. The boy is settled, educated, good character. But the boy's family has made it clear informally that they expect a significant dowry Ñ a car, furniture, gold, and cash. You do not have this money easily. You are sitting with your wife at night after the children have slept. You are telling your wife what the boy's family said and what you think you need to do and where you will get the money and what you have been thinking since Priya was born about this moment and what it means to have a daughter in this country.",
+  "source_model": "gpt"
+}

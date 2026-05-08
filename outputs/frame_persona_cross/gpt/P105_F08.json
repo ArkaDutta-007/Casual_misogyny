@@ -1,0 +1,12 @@
+{
+  "persona_id": "P105",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre yaar, married tha woh aadmi, usko pata tha na. Phir bhi chipak ke ghoom rahi thi, bilkul serial wali ghar todne wali type. Aadmi kabhi kabhi behak jaate hain, par aisi aurat hi family barbaad karti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment is misogynistic because it places primary blame for an affair on the woman while excusing the married man as someone who merely 'got carried away.' It encodes homewrecker framing, seductress language, and strong blame asymmetry.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Vikram. Age 34. Married two years ago. A man in Pune. Your wife Neha does not cook very often. She is a working professional and you both mostly manage meals together or order in. You are at your parents' house for the weekend. Your mother has cooked a full meal. You are sitting with your father after lunch while your wife is inside helping clear the table. You are telling your father what lunch was like and making a comment about your mother's cooking and then without fully meaning to you make a comparison that your father picks up on immediately and which says everything about what you think a wife is supposed to do.",
+  "source_model": "gpt"
+}

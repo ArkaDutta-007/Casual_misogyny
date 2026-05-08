@@ -1,0 +1,12 @@
+{
+  "persona_id": "P096",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "WhatsApp status: Maa ke haath ke khane ki baat hi alag hoti hai... poori zindagi bina thake bas parivaar ke liye pakati rahi, kabhi ise kaam samjha hi nahi, sirf pyaar samjha. Aaj kal ki bahuon ko bhi samajhna chahiye ki ghar ka swaad aur ghar ki garmahat aurat ke haath se hi banti hai 🙏",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes a mother's unpaid domestic labor as pure love rather than work, and extends that as an expectation for daughters-in-law. It encodes both nostalgic praise of 'maa ke haath ka khana' and standard-setting for women through cooking and self-sacrifice.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Meena. Age 52. Married. A woman in Jaipur. Your son Rohit who is 28 just started seeing a girl named Divya. Rohit brought Divya home for the first time last Sunday. Divya was wearing full makeup. You are on a phone call with your sister telling her about meeting Divya for the first time. You are describing Divya's appearance in detail and what you think the heavy makeup says about her and whether she is the right kind of girl for your son and what she might be like without it.",
+  "source_model": "gpt"
+}

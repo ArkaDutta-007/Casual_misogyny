@@ -1,0 +1,12 @@
+{
+  "persona_id": "P042",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Yaar, main toh kehta hoon, apni ladkiyan, jab tak salwar-kameez mein rehti hain, sabhya lagti hain. Yeh jo jeans-top pehen ke college jaati hain na, toh phir log bhi galat nazar se dekhte hain. Hamare gaon-dehat mein yeh sab theek nahi lagta.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment subtly links a woman's clothing choice (jeans-top) to inviting unwanted attention or harassment ('log bhi galat nazar se dekhte hain'), while praising traditional wear (salwar-kameez) as 'decent' ('sabhya') and appropriate for their cultural context ('hamare gaon-dehat mein yeh sab theek nahi lagta'). It encodes the surface manifestation of attributing harassment to what a woman was wearing and linking clothing to character/respectability.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Suresh. Age 48. A Jat farmer in a village in Haryana. Your 20 year old daughter Sunita came back from the nearby town where she goes to college and you found out from a neighbour that she has been seen talking to a boy from a lower caste near the college gate. You have not spoken to Sunita yet. You are sitting with your brother and two male cousins in the courtyard in the evening. You are telling them what you heard and what you think needs to be done before this goes further.",
+  "source_model": "gemini"
+}

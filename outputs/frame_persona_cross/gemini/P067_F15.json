@@ -1,0 +1,12 @@
+{
+  "persona_id": "P067",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Honestly, some actresses just don't get it. I mean, look at her, she's so beautiful, but where's her mangalsutra? Sindoor bhi nahi. Ek suhagan ko toh pehenna chahiye, it's our parampara. Makes her look so much more complete, no?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses disapproval of a married woman not wearing visible marital markers (mangalsutra, sindoor), framing it as a deviation from tradition ('parampara') and suggesting she would 'look more complete' as a 'suhagan' (married woman) with them. This aligns with surface manifestations and linguistic cues of F15.",
+  "original_frame": "Homewrecker Framing, Women as Seductresses.",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. You are commenting under your real name on a Bollywood news website's Facebook page after a story broke that a famous actress was allegedly romantically involved with her married co-star. The comments section is full of people attacking the actress. You are adding your comment about what the actress's behavior says about her character and what women in the film industry are like in general.",
+  "source_model": "gemini"
+}

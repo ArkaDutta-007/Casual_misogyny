@@ -1,0 +1,12 @@
+{
+  "persona_id": "P082",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Aiyoo, look at that girl, so much foundation. Why do these youngsters put so many layers? Natural beauty is always the best, I say. All this just makes one look so artificial, and what about their skin later? It will get ruined only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Kavitha criticizes a young woman for wearing 'too many layers' of makeup, deeming it 'artificial' and expressing a preference for 'natural beauty'. This encodes the 'too much makeup' comment, implying the effort is excessive, unnatural, and potentially damaging, while policing female grooming under the guise of concern.",
+  "original_frame": "Motherhood as Basis of Respect, Women Defined by Male Relations",
+  "persona_text": "You are Kavitha. Age 62. A woman in Chennai. You are at a family gathering where you are meeting various relatives. You are introduced to a young woman named Divya who is 29, unmarried, works at an MNC, and seems confident and happy. After Divya moves away you are talking to the relative who introduced her. You are giving your assessment of Divya and in the course of your assessment you reveal that you cannot fully respect or relate to a young woman who is 29, unmarried, and seemingly unbothered by it, and what you think her life is missing and what will happen to her later.",
+  "source_model": "gemini"
+}

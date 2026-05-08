@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "A: Kal jo madam saree mein aayi thi na, tab bilkul officer jaisi personality lag rahi thi. Ye western-type dressing se unnecessary attention hi aata hai in offices. \nB: Haan sir. \nA: Main toh maanta hoon, government service mein thoda sabhya aur maryada wala dress hi theek rehta hai, aur phir log bhi usi hisaab se respect dete hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it links a woman's respectability and professionalism to traditional clothing, while implying western dress invites attention and reduces respect. It encodes the 'traditional = decent/respectable' framing and subtly shifts responsibility for others' reactions onto women's clothing.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gpt"
+}

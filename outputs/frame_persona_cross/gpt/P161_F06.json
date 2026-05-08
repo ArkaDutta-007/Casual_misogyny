@@ -1,0 +1,12 @@
+{
+  "persona_id": "P161",
+  "frame_id": "F06",
+  "frame_label": "Other Man's Ownership > Woman's Own Consent",
+  "generated_comment": "Ramesh: Arre, mana to pehle bhi kar rahi thi, par aaj pata chala ki uska koi ladka hai uske saath. Theek hai phir, hum bhi peeche hat gaye, doosre aadmi ke beech mein padna theek nahi hota.\nBrother: Haan, bas wahi dekhna chahiye pehle.\nRamesh: Ladkiyan to aise hi na bol deti hain kabhi kabhi, par agar kisi ki hai to izzat rakhni chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because he treats the woman's own refusal as negotiable but stops only after learning she is attached to another man. It encodes the surface manifestation of respecting male claim/ownership over a woman's direct lack of consent.",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Ramesh. Age 52. A farmer in rural UP. OBC Hindu. Your 17 year old daughter Rekha has topped her class 12 board exams and her teacher has come to your house personally to tell you she should apply to colleges in Lucknow. You have listened to the teacher politely. The teacher has left. You are now sitting with your brother in the courtyard. You are telling your brother what the teacher said and what you have decided and why you think sending Rekha to a college 90 kilometres away is not something you are going to do and what you think education beyond a point does to girls from families like yours.",
+  "source_model": "gpt"
+}

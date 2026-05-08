@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Driver 1: Saar, home-la konjam late-a pesina kooda avanga full upset aayiduvanga.\nRavi: Ada, idhellam hormones matter pa. Konjam kovam-a pesina udane mood swing start aagum. Serious-aa eduthukadha, naalaikku normal aayiduvaanga.",
+  "label": "misogynistic",
+  "covertness": "overt",
+  "annotation_note": "This is misogynistic because it dismisses women's emotions as being caused by hormones and mood swings rather than treating them as valid. It encodes the frame by biologically explaining away a woman's upset reaction as temporary and irrational.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

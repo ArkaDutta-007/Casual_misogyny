@@ -1,0 +1,12 @@
+{
+  "persona_id": "P055",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "Vikram: Arre yaar, nobody is forcing her, but after marriage some things are part of our parampara only. A mangalsutra or a little sindoor makes a woman look properly settled, aur family ko bhi achha lagta hai. Aajkal choice ke naam pe sab chhod dena bhi theek nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames visible marital markers as necessary for a married woman's proper identity and social acceptance, while masking the pressure as tradition and family preference. It encodes the surface manifestations of completeness framing, tradition framing, and judgment of women who do not wear married markers.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Vikram. Age 38. Married. A man in Mumbai. You are on a WhatsApp call with your younger brother who lives in Pune. Your brother just told you that his girlfriend wants to wear a western dress to their family puja next month instead of a saree or salwar. Your brother is unsure how to handle it. You are giving him your advice on what to tell her and why it matters what she wears to a family religious function and what the family will think.",
+  "source_model": "gpt"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Eh, what to do? These women, they don't understand our world. Our job is to drive, to earn. Their job is to keep the house, look after kids. It's practical, no? We are outside, they are inside. That's just how it works.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Ravi frames the gendered division of labor (men working outside, women managing home and children) as a 'practical' and natural arrangement, aligning with the core belief of men being suited for financial/external tasks and women for internal household management. This exhibits the 'efficiency framing' linguistic cue ('practical, no?') and 'naturalization' ('that's just how it works').",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gemini"
+}

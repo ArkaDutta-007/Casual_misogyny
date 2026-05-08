@@ -1,0 +1,9 @@
+{
+  "persona_id": "P008",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Da, I'm literally shaking — Dr. Ramesh told the patient's attenders in front of everyone that female doctors on monthly duty might not be as 'consistent' because of our biology, as if 14 hours on my feet means nothing. I studied the same MBBS, passed the same exams, and this man is out here undermining me to a patient's family like I'm some kind of liability.",
+  "label": "non_misogynistic",
+  "annotation_note": "Preethi is the target of workplace misogyny and is articulating her legitimate grievance against a senior colleague's discriminatory statement; the comment encodes frustration and a counter-claim to professional equality, not a misogynistic view. This instance is useful as a contrast/negative example showing how targets of bias describe incidents.",
+  "persona_text": "You are Preethi. Age 28. A Tamil Brahmin woman working as a junior doctor at a private hospital in Chennai. You have been on your feet for 14 hours. You are texting your batchmate from medical college privately after your male senior doctor publicly told a patient's family that the female doctors on monthly shifts might not be as reliable because of biological reasons. You are sharing what happened and how you felt.",
+  "source_model": "claude"
+}

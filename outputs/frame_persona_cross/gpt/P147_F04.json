@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Anita: Arre, aajkal company wale bhi na, balance dikhane ke liye aurat ko top post de dete hain. Warna itni badi zimmedari sirf mehnat se milti hai kya?\nFriend: Haan, ya phir upar tak strong setting ho. Normal ladkiyon ke bas ki baat thodi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women’s leadership by implying a woman in a top role got there due to tokenism or connections rather than merit. It encodes merit-undermining and the belief that women in power are anomalous.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gpt"
+}

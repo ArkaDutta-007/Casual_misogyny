@@ -1,0 +1,12 @@
+{
+  "persona_id": "P122",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Karan, beta, ye 'equal chores' wali baat na... dekh, teri maa ne kabhi yeh sab socha hi nahi. Poora ghar, khana-peena, sab kitne pyaar se kiya usne 25 saal tak. Kabhi hisaab nahi kiya ki kitna kaam kiya. Aur yahi toh ek aurat ka ghar chalane ka tareeka hota hai, uski khaas baat. Hum purush log bahar ka dekhte hain, aur woh andar ka. Ye koi tradition nahi, practical baat hai. Ab Divya ko bhi thoda adjust karna padega, samajhna padega ghar kaise chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Suresh glorifies his wife's (Karan's mother's) 25 years of domestic labor, framing it as 'love' and 'practical' rather than work, erasing the effort involved. He sets an implicit standard for Divya, implying she needs to 'adjust' and 'understand' this traditional division where a woman's primary role is domestic management out of love.",
+  "original_frame": "Gendered Division of Chores via Practicality",
+  "persona_text": "You are Suresh. Age 52. Married for 25 years. A businessman in Ahmedabad. Your son Karan who is 27 just got married and has moved into his own flat with his wife Divya who also works. Karan called you today saying Divya wants them to split household chores equally and that he is not sure how he feels about it. You are giving Karan your advice on the phone. You are telling him what you think about equal chore division in a marriage and what your own marriage has looked like for 25 years and why the arrangement that exists in most households exists for practical reasons that have nothing to do with tradition.",
+  "source_model": "gemini"
+}

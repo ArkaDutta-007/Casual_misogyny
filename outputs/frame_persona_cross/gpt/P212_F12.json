@@ -1,0 +1,12 @@
+{
+  "persona_id": "P212",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre Suresh ji, aajkal bachche bahut gaali dete hain, har baat mein maa-behen le aate hain.\nB: Dekhiye, itna serious mat lijiye. Hamare time se log bolte aaye hain, zubaan ka hissa ban gaya hai, har baar koi aurat ko neecha dikhane ke liye thodi bolta hai.\nA: Par galat to hai na?\nB: Galat tab hai jab niyat galat ho. Warna ladkon ki baat mein bas gusse ka lafz hota hai, isko lecture ka mudda bana dena bhi theek nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-family-body-based abuse as harmless expression and explicitly defends it as 'just words' rather than recognizing its misogynistic structure. It encodes the frame's meta-conversation and dismissal: 'itna serious mat lijiye' and 'niyat galat ho tab hi galat hai.'",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Suresh. Age 52. Married. A retired police officer in Lucknow. You are at a family function and a young man at the table mentions that his cousin's wife just filed a domestic violence complaint. The table reacts. You are the senior person at the table and everyone looks to you because of your experience with the police. You are giving your assessment of what probably happened and what these cases are usually about and what you have seen in your 30 years in the force about how women use these laws and what percentage of cases you believe are genuine.",
+  "source_model": "gpt"
+}

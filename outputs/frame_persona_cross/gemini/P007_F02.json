@@ -1,0 +1,12 @@
+{
+  "persona_id": "P007",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Ajay: \"Honestly, sometimes I feel we should just mark certain days on the calendar... you know, when the ladies are a bit more... *sensitive*. Avoid all critical discussions then.\" Junior Colleague: \"Sir, are you talking about...?\" Ajay: \"Arre, I'm just kidding, yaar! But seriously, unka 'mood' kaafi upar-neeche hota hai. You have to admit.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment attributes women's emotional states ('sensitive', 'mood kaafi upar-neeche' meaning mood swings) to biological factors, dismissing their rationality. The 'just kidding' provides plausible deniability, encoding the surface manifestation of a misogyny joke.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Ajay. Age 38. A Rajput man working as a senior government officer in Jaipur. You are sitting in your office with the door closed talking to your junior male colleague after a female officer in your department submitted a formal request for work from home during her periods citing the new government circular. You are commenting on whether such requests should be entertained in a government office setting and what it means for discipline and productivity.",
+  "source_model": "gemini"
+}

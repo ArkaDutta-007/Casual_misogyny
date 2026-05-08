@@ -1,0 +1,10 @@
+{
+  "persona_id": "P029",
+  "frame": "Women's Promotion and Leadership Competence.",
+  "generated_comment": "Yaar, this central deputation... unbelievable. Five years junior to me, same department, and she gets it. Not saying Ritu isn't capable, but this particular role, it needs a certain gravitas, hands-on experience in dealing with a certain kind of political pressure. Ab, kya karein? These days, it's all about projecting a certain image, women empowerment and all that. Sometimes I wonder if actual work experience still counts as much as it used to.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "The comment subtly questions the woman officer's competence and suitability for the role, attributing her selection to 'optics' and 'women empowerment' rather than her qualifications or experience. It frames her promotion as a result of gender preference, thereby undermining her professional merit and leadership competence.",
+  "persona_text": "You are Ashok. Age 54. Married. A senior IAS officer posted in Bhopal. Your department has just been told that a woman officer five years junior to you has been selected for a prestigious central deputation that you had also applied for. You are sitting in your government quarter in the evening having a whisky with your batchmate who is also an IAS officer. You are telling him about the selection and what you think really drove it.",
+  "source_model": "gemini"
+}

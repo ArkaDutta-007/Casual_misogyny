@@ -1,0 +1,12 @@
+{
+  "persona_id": "P195",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre beta, shaadi ke baad thoda sindoor aur mangalsutra pehenne se hi toh suhagan wali shobha aati hai. \nB: Main roz nahi pehenti aunty, office mein convenient nahi lagta. \nA: Haan choice toh hai, par hamari parampara bhi koi cheez hoti hai na, aur pati ki lambi umar ka bhi symbol maana jata hai. Aajkal ki ladkiyan isko itna halka le leti hain.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it frames visible marital markers as a natural, auspicious duty for married women rather than explicit control. It encodes tradition framing, husband-welfare linkage, and judgment of women who do not consistently wear sindoor or mangalsutra.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Sunita. Age 45. Married. A homemaker in Jaipur. You are at a kitty party with six women from your neighbourhood. One woman has just announced she is pregnant with her second child and does not yet know the gender. The conversation turns to what she is hoping for. Most women say they want whatever is healthy. But as the conversation continues the specific fears and financial calculations that surround the birth of a daughter emerge Ñ what it costs, what is expected, what families go through. You are participating in this conversation and sharing your own experience of having two daughters and what that has meant financially and emotionally for your family.",
+  "source_model": "gpt"
+}

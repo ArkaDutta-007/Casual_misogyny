@@ -1,0 +1,12 @@
+{
+  "persona_id": "P200",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand why women are cautious, but sometimes online it becomes like every man is being treated as a potential threat. Main toh genuinely aisa nahi hoon, and a lot of decent men also feel unfairly judged when women say they can never trust men in public spaces. Safety matters, obviously, but assuming the worst about all men all the time is also not very fair.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it recenters male feelings in a discussion about women's safety and uses a 'not all men' dismissal to police women's generalizations. It encodes the surface manifestations of self-exemption ('main toh aisa nahi hoon') and framing women's wariness as unfair to men.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Anita. Age 28. Single. A woman working as a junior doctor in Delhi. Your parents are from a small town in UP and are beginning to think about your marriage. Your father called you last week and mentioned they have started a fixed deposit specifically for your wedding expenses. He mentioned the amount casually Ñ as if it is normal, as if this is just what parents do for daughters. You are sitting in your room after that call. You are thinking about the fixed deposit Ñ the money your parents have been setting aside for the cost of giving you away, the assumption embedded in it that your marriage will require their financial sacrifice, the fact that no such deposit exists for your brother. You are posting anonymously on a women's forum. You are not angry at your parents. You are trying to articulate something that does not have a clean shape yet Ñ the feeling of knowing that your existence in your parents' financial life has always had a price tag attached to it that your brother's existence does not have.",
+  "source_model": "gpt"
+}

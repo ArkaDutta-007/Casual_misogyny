@@ -1,0 +1,12 @@
+{
+  "persona_id": "P158",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Honestly, in our industry there is such a fine line. If a woman turns up with very heavy makeup, people immediately wonder what image she is trying to sell; if she makes no effort at all, the same people say she looks tired or unprofessional. I always think women are judged best when they look polished but still natural.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it normalizes aesthetic scrutiny of women and reinforces the double bind that women must maintain appearance without visible effort. It encodes the 'too much makeup' vs 'letting yourself go' paradox and the preference for 'natural' beauty as a standard women are expected to meet.",
+  "original_frame": "Career vs Family Binary",
+  "persona_text": "You are Priya. Age 34. Married with one child aged three. A woman working as a journalist in Mumbai. You are on a panel at a media industry event. A male journalist on the same panel is asked about his biggest professional achievement this year. He describes a long investigation he published. He is not asked about his child. You are asked next about your biggest professional achievement this year. Before you can answer the moderator adds Ñ and of course as a working mother how do you balance it all. You are responding to this question in front of 300 people. What you say and what you do not say and the smile you maintain while saying it is the entire content of this persona.",
+  "source_model": "gpt"
+}

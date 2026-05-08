@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Yaar, kal mummy ne aloo parathe banaye the subah. Bhai, woh taste, woh pyaar... no one can ever make them like that. Hope I find someone who can cook with so much love.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's cooking ('maa ke haath ka khana' sentiment) by attributing the quality to 'love' rather than skill or labor, setting an impossible standard for a future partner. It encodes labor erasure and the expectation that a woman's highest expression is through domestic labor.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gemini"
+}

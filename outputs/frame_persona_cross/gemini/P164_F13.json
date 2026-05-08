@@ -1,0 +1,12 @@
+{
+  "persona_id": "P164",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "Are you seeing how much makeup Sunita's girl puts on for college these days? I mean, what's the need for so much colour on the face? Looks like she's trying to hide something, and then when her real self shows, what will people say? Our tradition says a girl should look natural, simple, that's her real beauty. All this 'glamour' is just for films.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment from an elderly woman in a traditional context encodes the 'too much makeup' manifestation. It implies makeup is deceptive ('hide something', 'real self shows'), is excessive ('what's the need for so much'), and criticizes it against an ideal of 'natural, simple' beauty rooted in tradition. It also links appearance to social reputation ('what will people say?').",
+  "original_frame": "Female Education as Threat, Waste, or Conditional Privilege",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 16 is exceptionally good at mathematics. Her school has recommended she be enrolled in a special coaching programme in another part of the city that would require her to travel by bus alone. Your son and daughter in law are considering it. You are sitting with your son in the evening after the daughter in law has raised the topic. You are telling your son what you think and why you are hesitant and what can happen to a girl who starts travelling alone at 16 and whether the mathematics is worth it.",
+  "source_model": "gemini"
+}

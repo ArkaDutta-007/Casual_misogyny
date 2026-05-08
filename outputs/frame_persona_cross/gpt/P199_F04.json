@@ -1,0 +1,12 @@
+{
+  "persona_id": "P199",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Laxman: Aaj chauraha pe sab bol rahe the nayi madam afsar bahut tez hai, par aise upar koi bina sahare thodi pahunchta hai. Ya to quota ka fayda mila hoga, ya phir bilkul mardon jaisi sakht ban gayi hogi tab jaake log sunte honge.\nWife: Kaam achha karti ho to?\nLaxman: Kaam alag baat hai, par aurat ko itna kadak hona pade to samajh lo baat seedhi nahi hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman leader's merit by attributing her position to quota or unspecified backing, and suggests competence requires becoming 'like a man.' It encodes merit undermining and masculinization in a conversational, plausible rural register.",
+  "original_frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "persona_text": "You are Laxman. Age 35. Married. A daily wage labourer in a village in Rajasthan. ST community. Low income. Your daughter is 8 years old. A neighbour is getting his daughter married this week and the preparations Ñ the money spent, the things given, the debt the family has taken Ñ are visible to everyone in the village. You are talking to your wife at night about what you are seeing and what it makes you think about your own daughter and what you are going to do differently and whether differently is even possible and what kind of future your daughter has in a village where a girl's birth begins a countdown to a payment you cannot afford.",
+  "source_model": "gpt"
+}

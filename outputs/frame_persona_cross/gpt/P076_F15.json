@@ -1,0 +1,12 @@
+{
+  "persona_id": "P076",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Arre bhai, shaadi ke baad thoda sindoor-mangalsutra pehne to aurat suhagan si lagti hai, ghar-grihasthi wali pehchaan banti hai.\nB: Aajkal ki chhoriyan bolti hain choice hai.\nA: Choice apni jagah theek se, par hamari parampara bhi koi cheez hai, pati ki lambi umar aur izzat ka nishan maana gaya hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible identity markers as necessary for her completeness, respectability, and husband's wellbeing. It encodes tradition framing, completeness framing, and subtle judgment of women who do not wear sindoor or mangalsutra.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Suresh. Age 45. Married. A Jat man in Haryana. You are sitting with three male relatives at a family function after news broke in your district that a young woman from a nearby village was assaulted while walking home from a tuition class at 7pm. You are talking about what happened and what you think the girl's family should have done and what girls in villages need to understand about going out alone even in the evening.",
+  "source_model": "gpt"
+}

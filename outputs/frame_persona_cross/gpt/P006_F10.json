@@ -1,0 +1,12 @@
+{
+  "persona_id": "P006",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Yaar but honestly sab guys ko same bracket me daalna bhi unfair hai. Main toh kabhi aisa kuch kiya nahi, phir koi random girl mujhe bhi suspicious look de toh thoda weird lagta hai. Not all men are creeps, kabhi men's side bhi samjho.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it dismisses women's fear by centering the speaker's feelings and demanding fairness toward men as a group. It encodes the 'not all men' response, self-exemption as a 'good guy,' and the idea that women's wariness is an unfair insult to innocent men.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Mohit. Age 23. A fresher at an e-commerce startup in Delhi. You are in your company's unofficial male only WhatsApp group created by colleagues for after-hours chat. Someone just shared a meme making fun of the new period leave policy. You are reacting to the meme and adding your own comment.",
+  "source_model": "gpt"
+}

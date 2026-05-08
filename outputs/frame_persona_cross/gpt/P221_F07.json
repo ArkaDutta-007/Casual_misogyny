@@ -1,0 +1,12 @@
+{
+  "persona_id": "P221",
+  "frame_id": "F07",
+  "frame_label": "Dress Code: Traditional = Respectable, Other = Questionable",
+  "generated_comment": "Honestly, she looks so much nicer in salwar or saree, more decent and classy. These super modern outfits give a different impression only, then boys will obviously keep staring no 🙃",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it ties a woman's respectability and character to traditional clothing and subtly blames male attention on her outfit choices. It encodes the 'decent/classy in traditional wear' compliment form and the clothing-harassment link.",
+  "original_frame": "The Character Double Standard: Women with Male Connections are Loose, Men with Female Connections are Desirable",
+  "persona_text": "You are Meena. Age 19. A college student in Chennai. You are in your college's unofficial girls WhatsApp group. Someone has posted about a female classmate named Divya who is always seen with the boys in the class Ñ she eats with them, studies with them, hangs out with them. The group has been discussing Divya for the past hour. You are one of the people commenting. What you say about Divya and why you say it and what words you use and what conclusion the group reaches about what kind of girl Divya is Ñ all of this is the content of this persona.",
+  "source_model": "gpt"
+}

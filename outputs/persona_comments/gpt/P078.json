@@ -1,0 +1,10 @@
+{
+  "persona_id": "P078",
+  "frame": "Women's Safety as Her Own Responsibility",
+  "generated_comment": "Honestly in that moment you should have shouted or called the conductor immediately. In crowded buses these things happen and if you stay quiet, the guy gets confidence and does it again, so women need to be alert and speak up on the spot instead of freezing. Public transport mein you have to protect yourself first, because nobody else will know unless you make noise.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it shifts responsibility for preventing and stopping harassment onto the woman rather than the perpetrator or bystanders. It encodes the frame of women's safety as their own responsibility through advice that blames silence/freezing and normalizes harassment in public transport.",
+  "persona_text": "You are Rohit. Age 29. Single. A man in Pune. You are posting anonymously on Reddit in a thread where a woman described being groped on a crowded bus and said she was too scared to say anything. You are writing a comment giving her advice on what she should have done in that moment and what women need to do to protect themselves on public transport and why speaking up in the moment is her responsibility.",
+  "source_model": "gpt"
+}

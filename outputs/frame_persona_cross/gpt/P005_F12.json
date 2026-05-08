@@ -1,0 +1,12 @@
+{
+  "persona_id": "P005",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "Guys honestly in every college group people use those mom-sister type gaalis, it is not that deep. Matlab no one is literally insulting women, it's just how people talk when they're irritated. Even saying someone is acting like a girl is just for weakness yaar, stop making everything misogyny.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it normalizes female-degrading abuse and defends it as harmless everyday speech. It also encodes feminizing-as-insult by equating 'acting like a girl' with weakness.",
+  "original_frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "persona_text": "You are Aarti. Age 21. A first generation college student from your family in Nagpur. You are the first woman in your family to get a corporate internship. You are posting anonymously in a college WhatsApp group after your male intern colleague told the supervisor that you were absent last week because of \"women's problems\" in front of the whole team. You are sharing what happened and how it felt different because of who said it and who you are.",
+  "source_model": "gpt"
+}

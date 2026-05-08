@@ -1,0 +1,12 @@
+{
+  "persona_id": "P149",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "Arey haan, I know it's scary sometimes. But like, sab mard thodi aise hote hain? My own bhai, abbu, they're so careful. We can't just think everyone is bad, it's not fair to them na? Thoda bharosa bhi rakhna chahiye, sab ko ek jaisa mat samjho.",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment, from a woman, dismisses another woman's concerns about safety by invoking the 'not all men' trope. It uses personal examples of 'good guys' (her brother, father) and frames women's generalized wariness as 'unfair' to men, implicitly demanding trust and policing generalization.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Fatima. Age 38. Married. A Muslim woman in Hyderabad. Your 16 year old daughter Sana has started refusing to go out in the sun because she does not want to get darker. She has been using a whitening face wash and has asked you to buy her a skin lightening cream. You have bought her the face wash. You are now sitting with her and talking about the cream. What you say to her about her skin and about beauty and about what matters is a mixture of your own complicated relationship with your own dark skin and what you have learned about survival in a world that rewards fairness and what you cannot bring yourself to tell her directly because telling her directly would mean saying something about that world that you have spent 38 years not saying out loud.",
+  "source_model": "gemini"
+}

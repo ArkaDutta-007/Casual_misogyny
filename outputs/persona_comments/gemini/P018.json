@@ -1,0 +1,10 @@
+{
+  "persona_id": "P018",
+  "frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "generated_comment": "Yaar, this Pooja again asked to leave early, 'problems at home' she says. Teen baar ho gaya is week! Honestly, hiring married women with kids... unka har doosre din kuch na kuch 'emergency' rehta hai, aur woh mood swings alag. Next appraisal mein I'm docking her points, can't run a business like this.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it generalizes about the perceived unreliability and emotional volatility of married women with children ('mood swings,' 'har doosre din kuch na kuch 'emergency'') as inherent traits impacting their professional performance. It subtly leverages stereotypes associated with women's hormonal cycles or emotional nature to justify potential professional discrimination, framing it as a 'business problem' rather than individual circumstances or societal burdens on women.",
+  "persona_text": "You are Ramesh. Age 48. A senior accounts manager at a trading company in Ahmedabad. You are talking privately to your business partner after your female accountant asked to leave early three times this week saying there are problems at home. You are commenting on whether hiring married women with children is worth the trouble and what you plan to do at the next appraisal.",
+  "source_model": "gemini"
+}

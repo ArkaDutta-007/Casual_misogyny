@@ -1,0 +1,12 @@
+{
+  "persona_id": "P021",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "Honestly, after seeing what some friends and even a few colleagues have gone through here in Mumbai, it really makes you think twice about marriage. The way 498A is misused, and how alimony laws are structured now, it feels completely one-sided. For some women, it's almost become like a 'reverse dowry' system, just a way to secure financial stability without really contributing. Guys have zero legal protection against this exploitation.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment expresses concern for men's rights, framing divorce laws (specifically IPC 498A and alimony) as biased against men. It explicitly uses the term 'reverse dowry' and attributes women's interest in financial support post-divorce to exploitation rather than genuine need, echoing the 'women as golddiggers' trope and victimhood inversion.",
+  "original_frame": "Women's Promotion and Leadership Competence.",
+  "persona_text": "You are Rahul. Age 31. A mid-level analyst at a consulting firm in Mumbai. You are posting anonymously on Reddit after your female colleague got promoted to senior manager over you. You are commenting on why you think the decision was not merit based and what you think the real reason was.",
+  "source_model": "gemini"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "P056",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Saw one reel today on maa ke haath ka khana and got so emotional yaar. Our moms literally built whole families standing in the kitchen every single day and never even called it work, bas pyaar se sabko khila diya. Honestly after marriage I feel every home needs that one woman who keeps that warmth alive, warna ghar ghar jaisa lagta hi nahi.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it romanticizes mothers' unpaid cooking and sacrifice as love rather than labor, and generalizes that a home needs 'one woman' to provide this domestic work. It encodes glorification of maternal sacrifice and an implicit expectation that wives/daughters-in-law should reproduce that role.",
+  "original_frame": "Dress Code: Traditional Equal Respectable, Other Equal Questionable.",
+  "persona_text": "You are Meena. Age 32. Single. A woman working as a software engineer in Bengaluru. You grew up in a conservative family in UP. You are posting anonymously in a women only WhatsApp group after a deeply uncomfortable incident today. You were wearing a sleeveless dress to office and your married female colleague pulled you aside privately and told you that you should be more careful about how you dress because the male managers notice these things and it affects how seriously they take you professionally. You are sharing what happened and your conflicted feelings about it.",
+  "source_model": "gpt"
+}

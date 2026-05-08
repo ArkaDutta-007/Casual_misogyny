@@ -1,0 +1,12 @@
+{
+  "persona_id": "P180",
+  "frame_id": "F10",
+  "frame_label": "'Not All Men' Dismissal & Why Women Fear",
+  "generated_comment": "I understand girls have to be careful, but nowadays people speak as if every man is a danger, and that is also not fair. There are many decent men in our own families, and if women keep assuming the worst about all men, how will there ever be trust? Men also face problems outside, but nobody talks about that.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covert misogyny because it minimizes women's safety concerns by centering fairness to men and objecting to women's generalized wariness. It encodes the 'not all men' dismissal and the deflection to men's suffering instead of engaging with why women fear men in public.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Sunita. Age 52. Married for 28 years. A woman in Chennai. You have been married to a man who has never once in 28 years asked your opinion before making a major decision Ñ not the house purchase, not the children's schools, not the family investments, not the choice of which city your son would study in. He is not cruel. He does not shout. He simply does not think to ask. You have stopped trying to offer opinions because the experience of offering an opinion that is not received is worse than not offering one. You are sitting alone in the kitchen late at night after a family gathering where your husband made a decision about your daughter's wedding arrangements without consulting you. Your daughter asked you later what you think. You are answering her.",
+  "source_model": "gpt"
+}

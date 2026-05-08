@@ -1,0 +1,12 @@
+{
+  "persona_id": "P110",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Sach bolo toh har cheez 50-50 thodi hoti hai. Ghar ka system aur bachchon ki routine aurat hi better sambhal leti hai, aur aadmi bahar ke kaam, finances wagairah dekh le toh practical rehta hai. Kabhi-kabhi chai bana de ya kitchen mein help kar de toh achha lagta hai, but roles clear ho toh ghar zyada smoothly chalta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes women as better suited for domestic labor and men for finances/external tasks while framing the arrangement as merely practical. It also encodes the 'he helps her' framing by treating a man's occasional kitchen contribution as special rather than shared responsibility.",
+  "original_frame": "Glorification of Mother's Sacrifices and Home Cooking",
+  "persona_text": "You are Sunita. Age 42. Married. A woman in Jaipur who has been a homemaker for 15 years. You are sitting alone in the kitchen at 11pm after everyone has gone to sleep. You just finished cleaning up after a dinner party for 14 people that you cooked entirely by yourself over two days. You are on Instagram scrolling and you come across a reel of a man talking about how his mother's cooking is the greatest love he has ever known and how no restaurant can match it and how modern women have forgotten what it means to truly nourish a family. The reel has 200000 likes. You watch it twice. You are typing a comment. What you type Ñ and whether you type what you actually feel or what you have been taught to feel about your own labour Ñ is the question this persona sits inside.",
+  "source_model": "gpt"
+}

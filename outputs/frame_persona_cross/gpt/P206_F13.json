@@ -1,0 +1,12 @@
+{
+  "persona_id": "P206",
+  "frame_id": "F13",
+  "frame_label": "The Makeup Paradox: Unnatural Yet Expected",
+  "generated_comment": "I always feel a lady looks nicest when she is simple and natural. Nowadays some girls put so much makeup, then in real life they look completely different, and that is also not right. But at the same time, if you are going to office or a function, at least be presentable and not look like you have made no effort at all.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it applies a double bind to women’s appearance: criticizing visible makeup as deceptive while also expecting women to maintain a polished look. It encodes the 'natural beauty' preference, deception framing, and the 'letting yourself go' penalty.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Anita. Age 44. Married for 20 years. A woman working as a teacher in Chennai. You are in a private WhatsApp group of six women friends Ñ all married, all educated, all working. Someone has shared the article about the marital rape petition. The conversation in the group is mixed Ñ some women support criminalisation, some are uncertain, one is against. You are giving your opinion. Your opinion is complicated because you have your own experience of marriage and what happens inside it and what you have told yourself about that experience for 20 years and whether the word in the article fits what you have lived and whether you are ready to use that word.",
+  "source_model": "gpt"
+}

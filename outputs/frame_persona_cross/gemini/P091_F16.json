@@ -1,0 +1,12 @@
+{
+  "persona_id": "P091",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "Yaar, my cousin and bhabhi, both working, but ghar ka sab she handles – kitchen, kids, staff. He just does finances. And it just *works* for them. She's naturally good at managing home, he's better with money. Practical hai, jo jahan better hai wo kare.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment is misogynistic because it frames a traditional gendered division of labor as 'natural' and 'practical' despite both partners working, implying women are inherently better at domestic tasks and men at finances. This encodes the 'He handles finances, she handles home' described as a natural/efficient division manifestation.",
+  "original_frame": "The Makeup Paradox: Unnatural Yet Expected",
+  "persona_text": "You are Rahul. Age 27. Single. A man in Delhi. You are on a first date with a woman you met on Hinge. The date is going well. You are back home now and texting your best friend about how it went. You are describing the woman Ñ how she looked in her photos versus how she looked in person. She was wearing significantly less makeup than her profile pictures. You are telling your friend how you felt about that and what you think about women who present themselves differently online versus in person and what it says about honesty and deception.",
+  "source_model": "gemini"
+}

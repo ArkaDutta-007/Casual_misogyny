@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F05",
+  "frame_label": "Prenup / Alimony as Reverse Dowry / Women as Golddiggers",
+  "generated_comment": "A: Arre bahu, aajkal ke zamaane mein ladkon ko bhi sambhal ke shaadi karni chahiye. Kal ko jhagda hua nahi ki 498A laga do, phir alag se paisa maango, jaise shaadi nahi koi len-den ka sauda ho.\nB: Haan, ab kanoon bhi zyada tar aurat ki hi sunta hai.\nA: Bas wahi to, seedhe ghar basane se zyada dhyan kuch ladkiyon ka settle hone aur paisa nikalwane par rehta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women as financially motivated and implies misuse of 498A and alimony laws as common female behavior. It encodes victimhood inversion, legal-system bias claims, and the 'women as golddiggers/reverse dowry' manifestation.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

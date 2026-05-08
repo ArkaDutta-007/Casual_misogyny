@@ -1,0 +1,12 @@
+{
+  "persona_id": "P146",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre, I'm not saying she's not capable, but these days senior roles also need the right optics and diversity angle. Otherwise tell me honestly, in our line how many women reach that level purely on merit? The ones who do are usually very sharp, almost like they think like men only.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines a woman's promotion by attributing it to diversity hiring and then frames competence as masculine ('think like men'). It encodes merit undermining and masculinization in a socially acceptable, professional-sounding register.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Vikram. Age 35. Married. A man in Mumbai. Your wife Neha is fair skinned. You are at a party and someone compliments Neha on her appearance. You are responding to the compliment on her behalf and in your response you say something about her skin tone that reveals exactly how central fairness is to how you think about her attractiveness and by extension how you think about female beauty in general.",
+  "source_model": "gpt"
+}

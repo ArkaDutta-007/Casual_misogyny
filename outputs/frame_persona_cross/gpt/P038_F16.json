@@ -1,0 +1,12 @@
+{
+  "persona_id": "P038",
+  "frame_id": "F16",
+  "frame_label": "Gendered Division of Chores via 'Practicality'",
+  "generated_comment": "A: Arre, ghar ka hisaab-kitab aur bahar ke kaam mard dekh le to zyada theek rehta hai, aur aurat rasoi-bachche sambhale to ghar seedha chalta hai.\nB: Haan, jo jisme haath saaf ho wahi kare, usme bura kya hai.\nA: Aajkal ke chhokre sab barabar-barabar bolte hain, phir baad mein ghar ka dhang hi bigad jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it naturalizes a gendered division of labor as merely practical and efficient rather than unequal. It encodes the surface manifestations of 'he handles outside/finances, she handles home/children' and resistance to changing roles framed as common sense.",
+  "original_frame": "Prenup, Alimony as Reverse Dowry, Women",
+  "persona_text": "You are Ramesh. Age 55. Married. A farmer in rural Maharashtra. Your neighbour's son just got divorced after two years of marriage and the wife took the gold jewellery and went back to her parents. You are talking to three other farmers sitting under a tree in the afternoon. You are commenting on what happened and connecting it to a broader pattern you have observed about what women from certain kinds of families are like and why young men today should be very careful before marrying",
+  "source_model": "gpt"
+}

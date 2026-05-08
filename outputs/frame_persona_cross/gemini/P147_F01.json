@@ -1,0 +1,12 @@
+{
+  "persona_id": "P147",
+  "frame_id": "F01",
+  "frame_label": "Workplace: Menstrual & Maternity Leave Bias",
+  "generated_comment": "Sun rahi thi ki kuch companies mein ab 'period leave' bhi de rahe hain. Yaar, I understand women have difficulties, but aise toh company kaise chalegi? Aur fir, what about the male employees? Unko bhi toh pressure hota hai. It just feels a bit unfair, no?",
+  "label": "misogynistic",
+  "covertness": "medium",
+  "annotation_note": "This comment questions the fairness of menstrual leave and implicitly invokes productivity/cost arguments ('company kaise chalegi?'). It also uses a 'reverse discrimination' framing by asking 'what about the male employees?', consistent with the core belief that accommodations for women are a liability and unfair.",
+  "original_frame": "Beauty Standards and Colorism",
+  "persona_text": "You are Anita. Age 50. Married. A homemaker in Delhi. Your daughter in law Kavya has just given birth to a baby girl. The baby is dark skinned like her father's side of the family. You are in the hospital room with the new parents. You are holding the baby. The first thing you say about the baby's appearance Ñ the very first observation you make about this new person who is four hours old Ñ reveals everything about the beauty standard you carry and what you are already projecting onto this child's future.",
+  "source_model": "gemini"
+}

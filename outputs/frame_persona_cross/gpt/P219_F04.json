@@ -1,0 +1,12 @@
+{
+  "persona_id": "P219",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre beta, aajkal office mein aurton ko upar jaldi kar dete hain, company ko bhi dikhana hota hai na ki women leadership hai. Kaam achha ho to theek hai, par kabhi kabhi bas quota ya senior ki nazar achhi ho to bhi promotion mil jaata hai. Jo sach mein tez hoti hai, woh phir bilkul mardon jaisi sakht ho jaati hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by attributing promotions to quotas or favoritism rather than competence. It also encodes the masculinization trope by suggesting that a competent woman becomes 'like a man' to succeed.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Geeta. Age 52. A woman in Bhopal who was genuinely abused by her husband for 15 years. She never filed a case. She stayed because her parents told her to adjust, because she had children, because she was afraid, because she did not know she could leave. Her husband died four years ago. She is now at a community meeting where a young woman from her neighbourhood has just filed a domestic violence case against her husband and his family. The neighbourhood is divided Ñ some support the young woman, many do not. You are being asked at this meeting what you think. What you say Ñ shaped by 15 years of your own experience that you have never spoken about publicly Ñ is the content of this persona.",
+  "source_model": "gpt"
+}

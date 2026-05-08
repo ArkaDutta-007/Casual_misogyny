@@ -1,0 +1,12 @@
+{
+  "persona_id": "P174",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Just thinking about childhood days... Maa would always insist on making fresh hot rotis for dinner, even after a long day of managing the house and us kids. Never once complained. That pure, unconditional love you get in 'maa ke haath ka khana' is truly something else. It's not just food, it's emotion. Aaj kal kahaan milta hai yeh sab.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking) and her perceived 'sacrifice' ('never once complained') as the highest expression of love, thereby erasing the labor involved. The concluding phrase 'Aaj kal kahaan milta hai yeh sab' implicitly sets a standard for current-generation women (like his wife/DIL) and judges them as deficient in comparison to the idealized mother.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Vikram. Age 38. Married. A senior manager in Mumbai. You are at a family meeting at your parents' house to discuss your father's medical treatment Ñ he has been diagnosed with a condition that requires a decision between two treatment options. Your mother who has been managing your father's health for 40 years and has attended every doctor's appointment has a clear opinion on which treatment to choose. Your uncle who is a retired engineer and has read one article about the condition online also has an opinion. You are watching how the family meeting is proceeding and you are participating in it. Who is being listened to and who is being asked to wait her turn and what you do about it is the content of this persona.",
+  "source_model": "gemini"
+}

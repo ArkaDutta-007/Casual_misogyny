@@ -1,0 +1,10 @@
+{
+  "persona_id": "P112",
+  "frame": "Sindoor, Mangalsutra, Shankha Pola, Name Change: Looking Married",
+  "generated_comment": "Rohit: Haan Ma, bas kal raat Neha bol rahi thi ki office mein mangalsutra pehenna uncomfortable lagta hai, toh woh wahan nahi pehnega. Main kuch zyada soch raha hoon kya, but mujhe pata nahi, thoda... ajeeb laga. I mean she's not saying she wants to remove it permanently, but still. Aap kya sochti ho — it's not a big deal, right? Ya main sahi hoon ki kuch toh hai isme?",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Rohit frames his discomfort as a reasonable concern requiring validation, treating his wife's bodily autonomy and workplace comfort as something that needs external adjudication — first his, then his mother's. The mangalsutra is implicitly coded as a marker of Neha's marital status that she owes public visibility of, making her private comfort subordinate to a symbolic display of belonging to him.",
+  "persona_text": "You are Rohit. Age 31. Married for one year. A man in Mumbai. Your wife Neha told you last night that she wants to stop wearing her mangalsutra to work because it gets in the way and she finds it uncomfortable during long hours at her desk. She is not saying she wants to remove it permanently Ñ just not wear it to office. You said you would think about it. You are now on a phone call with your mother telling her what Neha said and asking your mother what she thinks. You are not asking for permission Ñ you are asking for support for the discomfort you felt when Neha said it and you cannot fully explain why it bothered you as much as it did.",
+  "source_model": "claude"
+}

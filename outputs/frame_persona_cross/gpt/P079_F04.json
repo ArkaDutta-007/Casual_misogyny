@@ -1,0 +1,12 @@
+{
+  "persona_id": "P079",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre beta, aajkal company logon ko dikhane ke liye bhi auraton ko upar bitha dete hain. Kaam theek kar le to log bolte hain bahut kadak hai, aur naram rahe to kehte hain leadership nahi hai. Waise bhi jo aurat itna upar pahunchti hai, usko thoda mardon jaisa sochna hi padta hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames women’s promotion as partly symbolic rather than merit-based and treats competence as requiring women to become 'like men.' It encodes merit undermining and masculinization in a conversational, internally normalized way.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your granddaughter Ritu who is 21 just told you and the family over dinner that she wants to start going to the gym in the morning before college. The nearest good gym is a 15 minute walk from the house and she would be going at 6am. You are the first one to respond to this news. You are telling Ritu why this is not a good idea and what can happen to girls who are out alone in the early morning and what she should do instead and what happened to a girl in your neighbourhood three years ago who used to go out early.",
+  "source_model": "gpt"
+}

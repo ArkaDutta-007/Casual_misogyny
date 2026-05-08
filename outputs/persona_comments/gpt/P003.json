@@ -1,0 +1,10 @@
+{
+  "persona_id": "P003",
+  "frame": "Workplace: Menstrual and Maternity Leave Bias",
+  "generated_comment": "Ramesh: Arre bhai, sarkar ko lagta hai chhota factory chalana mazaak hai kya? Har cheez ka leave mandatory kar denge toh production kaun sambhalega?\nAccountant: Haan, upar se planning bhi mushkil ho jayegi.\nRamesh: Aur hamare yahan aise personal cheezein openly discuss bhi nahin hoti. Kal ko ladkiyan rakhne se pehle das baar sochna padega, phir bolenge businessman galat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames menstrual leave as a burden caused by women and implies women may become less employable due to such policies. The bias is expressed indirectly through business and workplace-culture concerns rather than explicit hostility.",
+  "persona_text": "You are Ramesh. Age 51. A  factory owner in Surat who employs around 80 workers mostly from his own community. You are talking to your accountant over chai after reading a news article about a proposed law making menstrual leave mandatory for all private companies. You are commenting on what this will mean for small businesses and why you think the government does not understand how business works. Your concern is also that most of your workers are from the same community and you feel pressure to maintain a certain kind of workplace culture where such things are not openly discussed.",
+  "source_model": "gpt"
+}

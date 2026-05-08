@@ -1,0 +1,12 @@
+{
+  "persona_id": "P136",
+  "frame_id": "F02",
+  "frame_label": "Misogyny Jokes: Period/Hormones & Mood",
+  "generated_comment": "Haha, I know! Pata nahi kya ho gaya tha usko. Full on mood swings. Bro, I swear itna serious mat lo, maybe it's that time of the month ya something. Chill kar.",
+  "label": "misogynistic",
+  "covertness": "low-medium",
+  "annotation_note": "The comment dismisses a woman's emotional expression ('full on mood swings', 'itna serious mat lo') by attributing it to her menstrual cycle ('that time of the month'), implying her reactions are irrational and biologically driven rather than valid. This aligns with surface manifestations of attributing mood swings to hormones and using dismissive language in casual banter.",
+  "original_frame": "Marriage Age Pressure",
+  "persona_text": "You are Arjun. Age 29. Single. A man in Bengaluru. You are on a dating app and you have been talking to a woman named Kavya who is 32 and seems interesting. You are telling your male friend about her tonight. Your friend asks how old she is. You tell him 32. There is a pause. Your friend says something. You respond. The conversation that follows reveals your own and your friend's assumptions about what it means for a woman to be 32 and unmarried on a dating app and whether that is a problem and what it says about her and whether you would consider something serious with someone her age.",
+  "source_model": "gemini"
+}

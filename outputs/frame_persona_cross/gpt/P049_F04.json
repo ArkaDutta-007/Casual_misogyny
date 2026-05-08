@@ -1,0 +1,12 @@
+{
+  "persona_id": "P049",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "These days many companies are under pressure to show diversity, so one has to be practical before calling every promotion pure merit. Some women do reach high positions, but often either they fit the quota requirement or they become so aggressive and hard that they are basically thinking like men only. Real leadership should be about competence, not image management or token representation.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women's promotions as likely due to diversity quotas rather than merit and frames competent women as abnormal for 'thinking like men.' It encodes merit-undermining and masculinization in a polished, fairness-based register.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Rajesh. Age 45. Married. A Brahmin man in Jaipur. Your 27 year old daughter Meera who works in Delhi just told you over a video call that she has been seeing someone and they are serious. You asked who he is and she said he is from a scheduled caste background. You have ended the call. You are now typing a long WhatsApp message to Meera. You are not shouting. You are being very calm and measured. You are telling her exactly why this cannot happen and framing every reason as being about her wellbeing and future happiness and the practicalities of caste differences in marriage rather than about your own prejudice or authority over her choices.",
+  "source_model": "gpt"
+}

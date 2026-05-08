@@ -1,0 +1,12 @@
+{
+  "persona_id": "P214",
+  "frame_id": "F12",
+  "frame_label": "Language: Gaalis and Female-Demeaning Abuse",
+  "generated_comment": "A: Arre beta log jo muh se bol dete hain, usko itna mat pakdo. Ghar-ghar mein gusse mein maa-behen waale shabd nikal jaate hain, iska matlab thodi na sach mein aurat ko bura samajh rahe hain.\nB: Par aise shabd galat nahi hote?\nA: Galat-salat chhodo, bas bolne ka andaaz hai. Aur ladka zara dheela nikle to log do baat aur suna dete hain ki auraton jaisa mat ban — ab har baat mein dosh thodi na dhoondo.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This normalizes female-degrading abuse as 'just expression' and dismisses concern about misogyny. It also encodes feminizing-as-insult through the line about a weak man being told not to be 'like women'.",
+  "original_frame": "Legal System Weaponisation Narrative: Women Who File DV and Dowry Cases Are Liars",
+  "persona_text": "You are Kamla. Age 60. A woman in a joint family in Varanasi. Your neighbour's son's wife just filed a domestic violence case against the entire family including the mother in law and sister in law. You know this family well Ñ the mother in law is your friend. You are at your friend's house sitting with her after the news broke. You are telling her what you think happened, who put the daughter in law up to this, what kind of woman files these cases, what her family's role is in this, and what your friend should do now.",
+  "source_model": "gpt"
+}

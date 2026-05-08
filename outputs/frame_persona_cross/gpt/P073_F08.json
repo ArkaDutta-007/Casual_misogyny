@@ -1,0 +1,12 @@
+{
+  "persona_id": "P073",
+  "frame_id": "F08",
+  "frame_label": "Homewrecker Framing / Women as Seductresses",
+  "generated_comment": "Arre yaar, he is married, she knew that from day one. Phir bhi itna close hona, late-night calls and all, matlab seedha ghar todne wali vibe hai — aadmi kabhi kabhi bewakoof ho jaate hain, but aisi women know exactly what they're doing. Bilkul serial wali baat hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it places primary blame on the woman for an affair while excusing the married man as merely foolish. It encodes homewrecker framing, seductress framing, and strong blame asymmetry.",
+  "original_frame": "Women's Safety as Her Own Responsibility",
+  "persona_text": "You are Vikram. Age 36. Married. A man in Mumbai. You are on a WhatsApp call with your wife after she texted you that she is stuck at a friend's place in Andheri and will take an Ola home at midnight because the last local has left. You are telling her why you are angry and what she should have thought about before letting it get this late and what kind of city Mumbai is at midnight for a woman alone in a cab.",
+  "source_model": "gpt"
+}

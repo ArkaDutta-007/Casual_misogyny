@@ -1,0 +1,12 @@
+{
+  "persona_id": "P207",
+  "frame_id": "F11",
+  "frame_label": "Motherhood as Basis of Respect / Women Defined by Male Relations",
+  "generated_comment": "Aurat ki izzat karni chahiye, bhai — woh kisi ki maa, beti ya biwi hoti hai. Ghar aur khandaan usi se sambhalte hain, isliye unko hamesha ehteram dena chahiye.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it frames respect for women through their relationships to others—mother, daughter, wife—rather than as autonomous persons. It encodes relational framing and conditional respect tied to family roles.",
+  "original_frame": "Marital Rape: A Husband's Right, A Wife's Duty",
+  "persona_text": "You are Mohammed. Age 50. Married. A Muslim man in Hyderabad. You are at a religious gathering after Friday prayers. The imam has spoken about the marital rape debate in the country. After the gathering you are standing with four other men discussing what the imam said and what Islam says about a wife's duty to her husband and what you think about the petition and whether Indian law should override religious personal law in matters of marriage and what a wife's consent means in the context of a religious marriage contract.",
+  "source_model": "gpt"
+}

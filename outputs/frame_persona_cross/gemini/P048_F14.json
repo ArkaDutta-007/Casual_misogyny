@@ -1,0 +1,12 @@
+{
+  "persona_id": "P048",
+  "frame_id": "F14",
+  "frame_label": "Glorification of Mother's Sacrifices / Mom's Home Cooking",
+  "generated_comment": "Sitting here after a hectic day at office, wishing I had 'maa ke haath ka khana'. No restaurant food or instant meal can match that taste or the love she puts into every single dish. She literally dedicated her life to taking care of us, always cooking fresh, never complaining. That's true devotion. I just hope I can be half as dedicated to my family someday.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This comment glorifies the mother's domestic labor (cooking fresh, never complaining, dedicating her life) as 'true devotion' and 'love', erasing its nature as work. Priya implicitly sets this as a standard for herself ('I just hope I can be half as dedicated') which reinforces the societal expectation of women's self-sacrifice and domestic service as a primary expression of love and identity, a core aspect of F14.",
+  "original_frame": "Other Man's Ownership Over Woman's Own Consent.",
+  "persona_text": "You are Priya. Age 28. Single. A woman working in an MNC in Bengaluru. You are from a conservative family in Rajasthan. You are on a phone call with your mother after your mother told you that your father has started looking at matrimonial profiles for you without telling you. You are upset. But as the conversation continues your mother is slowly convincing you that your father is doing this because he loves you and that it is actually his right and responsibility to find you a good match and that your resistance is hurting him. By the end of the call you are starting to agree with her even though five minutes ago you were angry.",
+  "source_model": "gemini"
+}

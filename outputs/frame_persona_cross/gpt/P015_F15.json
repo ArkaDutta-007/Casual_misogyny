@@ -1,0 +1,12 @@
+{
+  "persona_id": "P015",
+  "frame_id": "F15",
+  "frame_label": "Sindoor, Mangalsutra, Shankha-Pola, Name Change: Looking Married",
+  "generated_comment": "A: Ippo paathiya, kalyanam aana ponnu mangalsutra pottu, konjam sindoor vachcha than settled-aa theriyum.\nB: Aana sila peru podamattanga illa?\nA: Adhu sari illa pa, namma sampradayam dhan. Idhellam husband nalla irukkanumnu vechadhu, aajkal ponnunga adhaiyum style-nu vittudraanga.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it frames a married woman's visible markers as necessary to look 'settled' and respectable, tying them to tradition and the husband's wellbeing. It encodes disapproval of women who do not wear sindoor or mangalsutra while presenting the view as cultural common sense.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Ravi. Age 51. A lorry driver from rural Tamil Nadu. You are sitting with a group of other drivers at a dhaba on the highway during a long haul break. One of the drivers is complaining that his wife called him 10 times today and was crying on the phone for no reason. You are joining the conversation and sharing your own views on why women are like this.",
+  "source_model": "gpt"
+}

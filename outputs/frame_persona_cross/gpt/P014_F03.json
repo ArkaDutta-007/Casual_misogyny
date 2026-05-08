@@ -1,0 +1,12 @@
+{
+  "persona_id": "P014",
+  "frame_id": "F03",
+  "frame_label": "Misogyny Jokes: Childbearing/Rearing as Women's Responsibility",
+  "generated_comment": "Bro ambitious hona alag baat hai, but once kids come na then obviously mother ko thoda career slow karna padta hai. Bachpan wapas thodi aata hai, father help kar de toh great hai but main responsibility toh maa ki hi hoti hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is covertly misogynistic because it naturalizes childcare as primarily the mother's duty and treats a father's involvement as optional 'help.' It encodes career sacrifice framing and exceptionalism for fathers.",
+  "original_frame": "Misogyny Jokes: Period, Hormones and Mood.",
+  "persona_text": "You are Kartik. Age 22. A college student in Delhi University. You are posting anonymously on your college's confession page on Instagram after your female professor gave your entire class surprise extra assignments this week. You are writing a post about it and making a joke about her mood and the timing.",
+  "source_model": "gpt"
+}

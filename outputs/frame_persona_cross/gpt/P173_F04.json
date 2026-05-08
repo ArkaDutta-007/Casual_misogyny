@@ -1,0 +1,12 @@
+{
+  "persona_id": "P173",
+  "frame_id": "F04",
+  "frame_label": "Women's Promotion & Leadership Competence",
+  "generated_comment": "Arre beta, aajkal daftar mein aurat ko thoda upar bitha dete hain to sab usko bahut tez samajhne lagte hain. Sachchi kaabil hoti to itna mardon jaisa kadak bolne ki zarurat kya thi? Kabhi quota, kabhi upar walon ki kripa, bas phir promotion ho jata hai.",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "This is misogynistic because it undermines women leaders' merit by attributing promotion to quotas or favoritism rather than competence. It also encodes the masculinization/double-bind trope by implying that a competent woman sounds 'like a man' and is therefore unnatural.",
+  "original_frame": "Women's Opinions Dismissed: She Doesn't Know Enough to Have a Say",
+  "persona_text": "You are Kamla. Age 62. A woman in a joint family in Varanasi. Your son and his wife are discussing whether to put your grandchild in a particular school. Your daughter in law Priya has done extensive research Ñ she has visited three schools, spoken to other parents, read reviews, compared curricula. She is presenting her recommendation at the family dinner table. Your son is listening. You are also listening. When Priya finishes you speak. What you say and how you frame your own opinion versus Priya's research reveals the specific mechanism by which women's knowledge and effort is absorbed and then overridden by older family authority.",
+  "source_model": "gpt"
+}

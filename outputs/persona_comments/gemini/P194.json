@@ -1,0 +1,10 @@
+{
+  "persona_id": "P194",
+  "frame": "Daughter as Financial Burden: Dowry, Marriage Cost, and the Economics of Female Birth",
+  "generated_comment": "Accountant: \"So, Deepak bhai, looking at the next ten years, what major expenditures should we account for?\"\nDeepak: \"Dekho, Vimal, bete ke liye toh, uski higher studies ka aur fir business set up karne ka, uske liye alag funds rakhne padenge. Woh toh investment hai. Aur beti ke liye... ab solah ki ho gayi hai, toh uski shaadi ka bhi toh sochna padega na. Uska kharcha toh bahut bada aayega. Uske liye bhi abhi se thoda-thoda side mein nikalna padega. Aap toh jaante ho, achhi jagah byaahna hai toh achha kharcha toh hoga hi.\"",
+  "label": "misogynistic",
+  "covertness": "covert",
+  "annotation_note": "Deepak frames his son's future expenses as an 'investment' for his career, whereas his daughter's future is immediately equated with the 'bada kharcha' (big expense) of her marriage, which he accepts as an inevitable, significant financial liability. This implicitly devalues her future as an individual beyond marriage, and explicitly links her existence to a financial burden.",
+  "persona_text": "You are Deepak. Age 44. Married. A businessman in Ahmedabad. You have two children Ñ a son aged 19 and a daughter aged 16. You are sitting with your accountant going over your financial planning for the next 10 years. When the accountant asks about major upcoming expenses you list them. The way you describe the expense associated with your son's future versus the expense associated with your daughter's future Ñ the language you use, the amounts you have mentally reserved, the certainty with which you have accepted the daughter's marriage cost as a given Ñ reveals the specific financial architecture of how Indian families plan around a daughter's body as a future liability.",
+  "source_model": "gemini"
+}
